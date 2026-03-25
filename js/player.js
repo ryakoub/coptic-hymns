@@ -59,3 +59,13 @@ l.element.classList.add("active");
 };
 
 });
+
+// Timestamp capture tool: Press "T" to log current time
+document.addEventListener("keydown", function(e){
+    if(e.key === "t" || e.key === "T"){
+        const time = audio.currentTime.toFixed(2);
+        console.log(time);
+        // Optional: alert for immediate feedback
+        alert(`Timestamp recorded: ${time} seconds`);
+    }
+});
