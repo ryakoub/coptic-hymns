@@ -64,7 +64,23 @@ l.element.classList.add("active");
 document.addEventListener("keydown", function(e){
     if(e.key === "t" || e.key === "T"){
         const time = audio.currentTime.toFixed(2);
-        console.log(time);
+        console.log(`Timestamp: ${time}`);
+        // Display on page for easy copying
+        const timestampDiv = document.getElementById("timestamps") || document.createElement("div");
+        timestampDiv.id = "timestamps";
+        timestampDiv.style.position = "fixed";
+        timestampDiv.style.bottom = "10px";
+        timestampDiv.style.right = "10px";
+        timestampDiv.style.background = "rgba(0,0,0,0.8)";
+        timestampDiv.style.color = "white";
+        timestampDiv.style.padding = "10px";
+        timestampDiv.style.borderRadius = "5px";
+        timestampDiv.style.fontSize = "12px";
+        timestampDiv.style.maxWidth = "200px";
+        timestampDiv.innerHTML += `${time}<br>`;
+        if (!document.getElementById("timestamps")) {
+            document.body.appendChild(timestampDiv);
+        }
         // Optional: alert for immediate feedback
         alert(`Timestamp recorded: ${time} seconds`);
     }
