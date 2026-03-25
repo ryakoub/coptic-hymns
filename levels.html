@@ -3,12 +3,16 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/style.css">
+<style>
+.level1 { background: linear-gradient(to bottom, #FFDAB9, #FFA07A); }
+.level2 { background: linear-gradient(to bottom, #E6E6FA, #DDA0DD); }
+</style>
 </head>
 <body>
 <h1>Coptic Hymns</h1>
 <h2 id="groupTitle">Select Level</h2>
-<a class="button" href="#" id="level1Link">Level 1</a>
-<a class="button" href="#" id="level2Link">Level 2</a>
+<a class="button level1" href="#" id="level1Link">🎵 Level 1</a>
+<a class="button level2" href="#" id="level2Link">🎶 Level 2</a>
 <script>
 const params = new URLSearchParams(window.location.search);
 const curriculum = params.get("curriculum");
