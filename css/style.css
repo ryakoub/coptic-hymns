@@ -1,0 +1,45 @@
+body{
+font-family:Arial;
+max-width:700px;
+margin:auto;
+padding:20px;
+}
+
+.button{
+display:block;
+padding:18px;
+margin:10px 0;
+background:#f2f2f2;
+border-radius:10px;
+text-align:center;
+font-size:22px;
+text-decoration:none;
+color:black;
+}
+
+.line{
+padding:16px;
+border-bottom:1px solid #eee;
+}
+
+.coptic{
+font-size:26px;
+font-weight:bold;
+}
+
+.translation{
+font-size:16px;
+color:#666;
+}
+
+.active{
+background:#fff3cd;
+border-left:6px solid orange;
+}
+
+audio{
+position:sticky;
+top:0;
+width:100%;
+margin-bottom:10px;
+}

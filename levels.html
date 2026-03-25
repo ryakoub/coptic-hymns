@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<h1>Coptic Hymns</h1>
+<h2 id="groupTitle">Select Level</h2>
+<a class="button" href="#" id="level1Link">Level 1</a>
+<a class="button" href="#" id="level2Link">Level 2</a>
+<script>
+const params = new URLSearchParams(window.location.search);
+const curriculum = params.get("curriculum");
+const group = params.get("group");
+document.getElementById("groupTitle").innerText = group.replace("-", " ").toUpperCase();
+document.getElementById("level1Link").href = `hymns.html?curriculum=${curriculum}&group=${group}&level=level-1`;
+document.getElementById("level2Link").href = `hymns.html?curriculum=${curriculum}&group=${group}&level=level-2`;
+</script>
+</body>
+</html>
