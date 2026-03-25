@@ -3,8 +3,10 @@ const lyricsContainer = document.getElementById("lyrics");
 
 const params = new URLSearchParams(window.location.search);
 const hymn = params.get("hymn");
+const group = params.get("group") || "grades-3-4";
+const level = params.get("level") || "level-1";
 
-const base = `content/mahragan-keraza-2026/grades-1-2/level-1/${hymn}`;
+const base = `content/mahragan-keraza-2026/${group}/${level}/${hymn}`;
 
 audio.src = `${base}/audio.mp3`;
 
