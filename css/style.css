@@ -48,6 +48,14 @@ flex-direction: column;
 justify-content: center;
 }
 
+.line:nth-child(odd){
+background: rgba(213, 229, 255, 0.9);
+}
+
+.line:nth-child(even){
+background: rgba(227, 254, 235, 0.9);
+}
+
 .coptic{
 font-size:32px;
 font-weight:bold;
