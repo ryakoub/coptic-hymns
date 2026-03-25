@@ -16,6 +16,7 @@ let autoScrollEnabled = true;
 let currentLineIndex = -1;
 let currentLines = [];
 let capturedTimes = [];
+let loopTargetIndex = null;
 
 const base = `content/mahragan-keraza-2026/${group}/${level}/${hymn}`;
 
@@ -46,6 +47,9 @@ div.onclick=()=>{
 audio.currentTime=line.start;
 audio.play();
 currentLineIndex = index;
+if (repeatVerseEnabled) {
+loopTargetIndex = index;
+}
 };
 
 lyricsContainer.appendChild(div);
@@ -55,6 +59,17 @@ line.element=div;
 
 audio.ontimeupdate=()=>{
 const t=audio.currentTime;
+
+if (repeatVerseEnabled && loopTargetIndex !== null && currentLines[loopTargetIndex]) {
+const loopLine = currentLines[loopTargetIndex];
+const loopNext = currentLines[loopTargetIndex + 1];
+const loopEnd = loopNext ? loopNext.start : audio.duration;
+if (Number.isFinite(loopEnd) && t >= loopEnd - 0.03) {
+audio.currentTime = loopLine.start;
+audio.play();
+return;
+}
+}
 
 let activeIndex = -1;
 for (let i = 0; i < lines.length; i++) {
@@ -76,22 +91,17 @@ currentLines[activeIndex].element.scrollIntoView({ behavior: "smooth", block: "c
 }
 }
 
-if (repeatVerseEnabled && currentLineIndex >= 0) {
-const current = currentLines[currentLineIndex];
-const next = currentLines[currentLineIndex + 1];
-const verseEnd = next ? next.start : audio.duration;
-if (Number.isFinite(verseEnd) && t >= verseEnd - 0.04) {
-audio.currentTime = current.start;
-audio.play();
-}
-}
-
 };
 
 });
 
 toggleLoopBtn?.addEventListener("click", () => {
 repeatVerseEnabled = !repeatVerseEnabled;
+if (repeatVerseEnabled) {
+loopTargetIndex = currentLineIndex >= 0 ? currentLineIndex : 0;
+} else {
+loopTargetIndex = null;
+}
 toggleLoopBtn.textContent = `Repeat Verse: ${repeatVerseEnabled ? "On" : "Off"}`;
 });
 
