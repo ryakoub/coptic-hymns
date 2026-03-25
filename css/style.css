@@ -40,15 +40,20 @@ background: rgba(255,255,255,0.8);
 }
 
 .coptic{
-font-size:28px;
+font-size:32px;
 font-weight:bold;
-color: #2e7d32;
+color: #1b5e20;
+font-family: 'Noto Sans Coptic', 'Segoe UI Historic', 'Gentium Plus', 'Noto Sans', Arial, sans-serif;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-shadow: 0 1px 1px rgba(0,0,0,0.1);
 }
 
 .translation{
 font-size:18px;
 color:#555;
 font-style: italic;
+margin-top: 4px;
 }
 
 .active{
