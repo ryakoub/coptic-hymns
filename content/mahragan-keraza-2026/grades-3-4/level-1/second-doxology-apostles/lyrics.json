@@ -1,9 +1,44 @@
 [
-{
-"start": 0,
-"coptic": "Placeholder",
-"translations": {
-"english": "Placeholder"
-}
-}
+  {
+    "start": 4.27,
+    "coptic": "Verse 1 Coptic text",
+    "translations": {
+      "english": "English meaning"
+    }
+  }
+  {
+    "start": 21.22,
+    "coptic": "Verse 2 Coptic text",
+    "translations": {
+      "english": "English meaning"
+    }
+  },
+  {
+    "start": 40.48,
+    "coptic": "Verse 3 Coptic text",
+    "translations": {
+      "english": "English meaning"
+    }
+  }
+  {
+    "start": 60.13,
+    "coptic": "Verse 4 Coptic text",
+    "translations": {
+      "english": "English meaning"
+    }
+  },
+  {
+    "start": 76.46,
+    "coptic": "Verse 5 Coptic text",
+    "translations": {
+      "english": "English meaning"
+    }
+  },
+  {
+    "start": 102.31,
+    "coptic": "Verse 6 Coptic text",
+    "translations": {
+      "english": "English meaning"
+    }
+  }
 ]
