@@ -4,7 +4,7 @@ const lyricsContainer = document.getElementById("lyrics");
 const params = new URLSearchParams(window.location.search);
 const hymn = params.get("hymn");
 
-const base = `content/${hymn}`;
+const base = `content/mahragan-keraza-2026/grades-1-2/level-1/${hymn}`;
 
 audio.src = `${base}/audio.mp3`;
 
