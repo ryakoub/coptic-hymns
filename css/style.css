@@ -118,6 +118,37 @@ justify-content: center;
 position:relative;
 }
 
+.player-tools{
+display: flex;
+gap: 10px;
+flex-wrap: wrap;
+margin: 10px 0 14px;
+}
+
+.feature-btn{
+border: none;
+border-radius: 10px;
+padding: 10px 12px;
+background: linear-gradient(to right, #26c6da, #00acc1);
+color: #fff;
+font-weight: 700;
+cursor: pointer;
+min-height: 44px;
+}
+
+.timestamps-panel{
+background: rgba(0, 0, 0, 0.78);
+color: #fff;
+padding: 10px;
+border-radius: 10px;
+font-size: 13px;
+line-height: 1.5;
+margin-bottom: 12px;
+max-height: 140px;
+overflow-y: auto;
+white-space: pre-wrap;
+}
+
 audio{
 position:sticky;
 top:48px;
@@ -188,6 +219,16 @@ font-size: 16px;
 .line{
 padding: 16px;
 margin: 4px 0;
+}
+
+.player-tools{
+gap: 8px;
+}
+
+.feature-btn{
+flex: 1;
+font-size: 13px;
+padding: 10px;
 }
 
 audio{
