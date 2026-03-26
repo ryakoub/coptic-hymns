@@ -8,7 +8,6 @@ const level = params.get("level") || "level-1";
 
 const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
-const copyTimestampsBtn = document.getElementById("copyTimestamps");
 const timestampsBox = document.getElementById("timestamps");
 
 let repeatVerseEnabled = false;
@@ -17,6 +16,7 @@ let currentLineIndex = -1;
 let currentLines = [];
 let capturedTimes = [];
 let loopTargetIndex = null;
+let currentWordKey = null;
 
 const base = `content/mahragan-keraza-2026/${group}/${level}/${hymn}`;
 
@@ -27,6 +27,7 @@ fetch(`${base}/info.json`)
 .then(info=>{
 document.getElementById("title").innerText = info.title;
 document.getElementById("youtubeLink").href = info.youtube;
+audio.src = info.audio || `${base}/audio.mp3`;
 });
 
 fetch(`${base}/lyrics.json`)
@@ -39,9 +40,43 @@ lines.forEach((line, index)=>{
 const div=document.createElement("div");
 div.className="line";
 
-div.innerHTML=
-`<div class="coptic">${line.coptic}</div>
-<div class="translation">${line.translations?.english || ""}</div>`;
+const copticDiv = document.createElement("div");
+copticDiv.className = "coptic";
+
+if (Array.isArray(line.words) && line.words.length) {
+line.words.forEach((word, wordIndex) => {
+const wordSpan = document.createElement("span");
+wordSpan.className = "word";
+wordSpan.textContent = word.text || "";
+wordSpan.dataset.wordKey = `${index}-${wordIndex}`;
+wordSpan.style.cursor = "pointer";
+wordSpan.addEventListener("click", (event) => {
+event.stopPropagation();
+if (Number.isFinite(word.start)) {
+audio.currentTime = word.start;
+audio.play();
+currentLineIndex = index;
+if (repeatVerseEnabled) {
+loopTargetIndex = index;
+}
+}
+});
+copticDiv.appendChild(wordSpan);
+if (word.trailingSpace !== false) {
+copticDiv.appendChild(document.createTextNode(" "));
+}
+word.element = wordSpan;
+});
+} else {
+copticDiv.textContent = line.coptic;
+}
+
+const translationDiv = document.createElement("div");
+translationDiv.className = "translation";
+translationDiv.textContent = line.translations?.english || "";
+
+div.appendChild(copticDiv);
+div.appendChild(translationDiv);
 
 div.onclick=()=>{
 audio.currentTime=line.start;
@@ -91,6 +126,38 @@ currentLines[activeIndex].element.scrollIntoView({ behavior: "smooth", block: "c
 }
 }
 
+let activeWordKey = null;
+if (activeIndex !== -1) {
+const activeLine = currentLines[activeIndex];
+if (Array.isArray(activeLine.words) && activeLine.words.length) {
+for (let i = 0; i < activeLine.words.length; i++) {
+const word = activeLine.words[i];
+const wordEnd = Number.isFinite(word.end)
+? word.end
+: activeLine.words[i + 1]?.start ?? currentLines[activeIndex + 1]?.start ?? audio.duration;
+if (t >= word.start && (!Number.isFinite(wordEnd) || t < wordEnd)) {
+activeWordKey = `${activeIndex}-${i}`;
+break;
+}
+}
+}
+}
+
+if (activeWordKey !== currentWordKey) {
+currentLines.forEach(line => {
+if (Array.isArray(line.words)) {
+line.words.forEach(word => word.element?.classList.remove("active-word"));
+}
+});
+
+if (activeWordKey) {
+const [lineIndex, wordIndex] = activeWordKey.split("-").map(Number);
+currentLines[lineIndex]?.words?.[wordIndex]?.element?.classList.add("active-word");
+}
+
+currentWordKey = activeWordKey;
+}
+
 };
 
 });
@@ -110,20 +177,6 @@ autoScrollEnabled = !autoScrollEnabled;
 toggleScrollBtn.textContent = `Auto-Scroll: ${autoScrollEnabled ? "On" : "Off"}`;
 });
 
-copyTimestampsBtn?.addEventListener("click", async () => {
-if (!capturedTimes.length) {
-timestampsBox.textContent = "Timestamps: none captured yet.";
-return;
-}
-const text = capturedTimes.join("\n");
-try {
-await navigator.clipboard.writeText(text);
-timestampsBox.textContent = `Copied ${capturedTimes.length} timestamps to clipboard.\n\n${text}`;
-} catch (err) {
-timestampsBox.textContent = `Copy blocked by browser. Here are your timestamps:\n\n${text}`;
-}
-});
-
 // Timestamp capture tool: Press "T" to log current time
 document.addEventListener("keydown", function(e){
     if(e.key === "t" || e.key === "T"){
@@ -131,7 +184,7 @@ document.addEventListener("keydown", function(e){
         capturedTimes.push(time);
         console.log(`Timestamp: ${time}`);
         if (timestampsBox) {
-            timestampsBox.textContent = `Timestamps (${capturedTimes.length}):\n${capturedTimes.join("\n")}`;
+            timestampsBox.textContent = `Timestamps (${capturedTimes.length})\n${capturedTimes.join("\n")}`;
         }
     }
 });
