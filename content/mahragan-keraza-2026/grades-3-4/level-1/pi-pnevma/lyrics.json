@@ -1,9 +1,22 @@
 [
-{
-"start": 0,
-"coptic": "Placeholder",
-"translations": {
-"english": "Placeholder"
-}
-}
+  {
+    "start": 5.94,
+    "coptic": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ: ⲫⲏⲉ̀ⲧⲁϥⲓ̀ ⲉ̀ϫⲉⲛ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ϧⲉⲛ ⲡ̀ϣⲁⲓ ⲛ̀Ϯⲡⲉⲛⲧⲏⲕⲟⲥⲧⲏ: ⲁⲩⲥⲁϫⲓ ϧⲉⲛ ϩⲁⲛⲙⲏϣ ⲛ̀ⲗⲁⲥ.",
+    "translations": {
+      "english": "The Spirit of comfort, came down upon the Apostles on the feast of Pentecost, and they spoke in many tongues."
+    },
+    "words": [
+      { "text": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ", "start": 5.94, "end": 10.27 },
+      { "text": "ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ", "start": 10.27, "end": 15.09 },
+      { "text": "ⲫⲏⲉ̀ⲧⲁϥⲓ̀", "start": 15.09, "end": 18.74 },
+      { "text": "ⲉ̀ϫⲉⲛ ⲛⲓ", "start": 18.74, "end": 21.19 },
+      { "text": "ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ", "start": 21.19, "end": 24.11 },
+      { "text": "ϧⲉⲛ", "start": 24.11, "end": 26.04 },
+      { "text": "ⲡ̀ϣⲁⲓ ⲛ̀ϯ", "start": 26.04, "end": 27.25 },
+      { "text": "ⲡⲉⲛⲧⲏⲕⲟⲥⲧⲏ", "start": 27.25, "end": 30.25 },
+      { "text": "ⲁⲩⲥⲁϫⲓ", "start": 30.26, "end": 32.52 },
+      { "text": "ϧⲉⲛ ϩⲁⲛⲙⲏϣ", "start": 32.52, "end": 35.60 },
+      { "text": "ⲛ̀ⲗⲁⲥ", "start": 35.60, "end": 41.39, "trailingSpace": false }
+    ]
+  }
 ]
