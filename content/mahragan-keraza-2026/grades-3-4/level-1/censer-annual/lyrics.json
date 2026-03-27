@@ -1,9 +1,25 @@
 [
 {
 "start": 0,
-"coptic": "Placeholder",
+"coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲧⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲡⲉⲥⲁ̀ⲣⲱⲙⲁⲧⲁ ⲡⲉ Ⲡⲉⲛⲥⲱⲧⲏⲣ. Ⲁⲥⲙⲓⲥⲓ ⲙ̀ⲙⲟϥ: ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲟⲩⲟϩ ⲁϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
 "translations": {
-"english": "Placeholder"
-}
+"english": "The golden censer is the Virgin, her aroma is our Savior. She gave birth to Him; He saved us, and forgave us our sins."
+},
+"words": [
+{ "text": "Ϯϣⲟⲩⲣⲏ", "start": 4.33, "end": 8.87 },
+{ "text": "ⲛ̀ⲛⲟⲩⲃ", "start": 8.87, "end": 12.67 },
+{ "text": "ⲧⲉ", "start": 12.67, "end": 13.85 },
+{ "text": "Ϯⲡⲁⲣⲑⲉⲛⲟⲥ", "start": 13.85, "end": 20.70 },
+{ "text": "ⲡⲉⲥⲁ̀ⲣⲱⲙⲁⲧⲁ", "start": 20.70, "end": 29.88 },
+{ "text": "ⲡⲉ", "start": 29.88, "end": 32.32 },
+{ "text": "Ⲡⲉⲛⲥⲱⲧⲏⲣ", "start": 32.32, "end": 42.69 },
+{ "text": "Ⲁⲥⲙⲓⲥ", "start": 42.69, "end": 45.70 },
+{ "text": "ⲙ̀ⲙⲟϥ", "start": 45.70, "end": 47.28 },
+{ "text": "ⲁϥⲥⲱϯ", "start": 47.28, "end": 50.49 },
+{ "text": "ⲙ̀ⲙⲟⲛ", "start": 50.49, "end": 52.06 },
+{ "text": "ⲟⲩⲟϩ ⲁϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ", "start": 52.06, "end": 57.47 },
+{ "text": "ⲛⲁⲛ", "start": 57.47, "end": 66.54 },
+{ "text": "ⲉ̀ⲃⲟⲗ", "start": 66.54, "end": 78.15,  "trailingSpace": false  }
+]
 }
 ]

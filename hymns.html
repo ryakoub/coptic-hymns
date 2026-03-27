@@ -12,16 +12,45 @@
 <nav class="nav-bar"><a href="index.html">🏠 Home</a><a href="groups.html?curriculum=mahragan-keraza-2026">📚 Groups</a></nav>
 <h1>Coptic Hymns</h1>
 <h2 id="levelTitle">Hymns</h2>
-<a class="button hymn-button" href="player.html?hymn=gospel-response-feast-cross&group=grades-3-4&level=level-1">🎼 Gospel Response of the Feast of the Cross</a>
-<a class="button hymn-button" href="player.html?hymn=second-doxology-apostles&group=grades-3-4&level=level-1">🎼 The Second Doxology of the Apostles</a>
-<a class="button hymn-button" href="player.html?hymn=censer-annual&group=grades-3-4&level=level-1">🎼 The Censer - Annual</a>
-<a class="button hymn-button" href="player.html?hymn=ton-syna&group=grades-3-4&level=level-1">🎼 ⲧⲟⲛ ⲥⲩⲛⲁ</a>
-<a class="button hymn-button" href="player.html?hymn=pi-pnevma&group=grades-3-4&level=level-1">🎼 ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ</a>
+<div id="hymnList"></div>
 <script>
 const params = new URLSearchParams(window.location.search);
 const group = params.get("group") || "grades-3-4";
 const level = params.get("level") || "level-1";
+
 document.getElementById("levelTitle").innerText = group.replace(/-/g, " ").toUpperCase() + " - " + level.replace(/-/g, " ").toUpperCase();
+
+const hymns = {
+  "grades-3-4": {
+    "level-1": [
+      { id: "gospel-response-feast-cross", title: "Gospel Response of the Feast of the Cross" },
+      { id: "censer-annual",               title: "The Golden Censer" },
+      { id: "ton-syna",                    title: "ⲧⲟⲛ ⲥⲩⲛⲁ" },
+      { id: "doxology-st-mary-vespers",    title: "Doxology of St. Mary Vespers" },
+    ],
+    "level-2": [
+      { id: "second-doxology-apostles",          title: "The Second Doxology of the Apostles" },
+      { id: "psalm-150-4th-hoos",                title: "Psalm 150, 4th Hoos" },
+      { id: "paralex-of-resurrection",           title: "Paralex of Resurrection" },
+      { id: "distribution-refrain-resurrection", title: "Distribution Refrain for Resurrection" },
+    ]
+  }
+};
+
+const list = hymns[group]?.[level] || [];
+const container = document.getElementById("hymnList");
+
+if (list.length === 0) {
+  container.innerHTML = "<p>No hymns found for this level.</p>";
+} else {
+  list.forEach(h => {
+    const a = document.createElement("a");
+    a.className = "button hymn-button";
+    a.href = `player.html?hymn=${h.id}&group=${group}&level=${level}`;
+    a.textContent = "🎼 " + h.title;
+    container.appendChild(a);
+  });
+}
 </script>
 </body>
 </html>
