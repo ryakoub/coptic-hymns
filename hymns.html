@@ -21,6 +21,18 @@ const level = params.get("level") || "level-1";
 document.getElementById("levelTitle").innerText = group.replace(/-/g, " ").toUpperCase() + " - " + level.replace(/-/g, " ").toUpperCase();
 
 const hymns = {
+  "kg": {
+    "level-1": [
+      { id: "concluding-canon-feast-cross",              title: "Concluding Canon for Feast of the Cross" },
+      { id: "sotees-ameen-fast",                         title: "Sotees Ameen (Fast)" },
+      { id: "psalm-response-resurrection",               title: "Psalm Response, Resurrection" },
+    ],
+    "level-2": [
+      { id: "ere-po-esmo-may-their-holy-blessing",       title: "Ere Po Esmo (May Their Holy Blessing)" },
+      { id: "liturgy-gospel-response-annual",            title: "Liturgy Gospel Response, Annual" },
+      { id: "hiten-archangel-michael-feast-resurrection", title: "Hiten for Archangel Michael, Feast of Resurrection" },
+    ]
+  },
   "grades-1-2": {
     "level-1": [
       { id: "procession-refrain-feast-cross",      title: "Procession Refrain, Feast of the Cross" },
