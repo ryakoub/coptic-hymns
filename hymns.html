@@ -21,6 +21,20 @@ const level = params.get("level") || "level-1";
 document.getElementById("levelTitle").innerText = group.replace(/-/g, " ").toUpperCase() + " - " + level.replace(/-/g, " ").toUpperCase();
 
 const hymns = {
+  "grades-1-2": {
+    "level-1": [
+      { id: "procession-refrain-feast-cross",      title: "Procession Refrain, Feast of the Cross" },
+      { id: "this-is-the-day",                     title: "This Is the Day" },
+      { id: "conclusion-canon-resurrection",       title: "Conclusion Canon, Resurrection" },
+      { id: "blessed-pentecost",                   title: "Blessed, Pentecost" },
+    ],
+    "level-2": [
+      { id: "the-thought-of-man",                  title: "The Thought of Man" },
+      { id: "st-mark-doxology-first-one",          title: "St. Mark Doxology (First One)" },
+      { id: "verses-cymbals-resurrection",         title: "Verses of Cymbals, Resurrection" },
+      { id: "liturgy-gospel-response-resurrection",title: "Liturgy Gospel Response, Resurrection" },
+    ]
+  },
   "grades-3-4": {
     "level-1": [
       { id: "gospel-response-feast-cross", title: "Gospel Response of the Feast of the Cross" },
