@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Coptic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Noto+Sans+Coptic&display=swap');
 
 body{
-font-family: 'Comic Sans MS', cursive, 'Noto Sans Coptic', sans-serif;
+font-family: 'Open Sans', 'Noto Sans Coptic', Arial, sans-serif;
 max-width:700px;
 margin:auto;
 padding:20px;
