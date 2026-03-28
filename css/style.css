@@ -1,5 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Noto+Sans+Coptic&display=swap');
 
+/* Safe local aliases for traditional Unicode Coptic fonts when installed by the user */
+@font-face {
+font-family: 'Antinoou Local';
+src: local('Antinoou');
+font-display: swap;
+}
+
+@font-face {
+font-family: 'New Athena Unicode Local';
+src: local('New Athena Unicode');
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Arial Coptic Local';
+src: url('../fonts/ArialCoptic.ttf') format('truetype'), local('ArialCoptic'), local('Arial Coptic');
+font-display: swap;
+}
+
+:root{
+--coptic-font-modern: 'Noto Sans Coptic', 'Segoe UI Historic', 'Gentium Plus', 'Noto Sans', Arial, sans-serif;
+--coptic-font-traditional: 'Arial Coptic Local', 'ArialCoptic', 'Arial Coptic', 'Antinoou Local', 'Antinoou', 'New Athena Unicode Local', 'New Athena Unicode', 'Avva Shenouda', 'Noto Sans Coptic', 'Segoe UI Historic', serif;
+--coptic-font-active: var(--coptic-font-modern);
+}
+
+body.coptic-font-traditional{
+--coptic-font-active: var(--coptic-font-traditional);
+}
+
 body{
 font-family: 'Open Sans', 'Noto Sans Coptic', Arial, sans-serif;
 max-width:700px;
@@ -62,7 +91,7 @@ background: rgba(227, 254, 235, 0.9);
 font-size:32px;
 font-weight:bold;
 color: #1b5e20;
-font-family: 'Noto Sans Coptic', 'Segoe UI Historic', 'Gentium Plus', 'Noto Sans', Arial, sans-serif;
+font-family: var(--coptic-font-active);
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-shadow: 0 1px 1px rgba(0,0,0,0.1);

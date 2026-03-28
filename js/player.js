@@ -16,6 +16,7 @@ document.getElementById("subtitle").textContent = `${groupLabel} · ${levelLabel
 
 const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
+const toggleCopticFontBtn = document.getElementById("toggleCopticFont");
 const timestampsBox = document.getElementById("timestamps");
 
 let repeatVerseEnabled = false;
@@ -25,6 +26,19 @@ let currentLines = [];
 let capturedTimes = [];
 let loopTargetIndex = null;
 let currentWordKey = null;
+
+const COPTIC_FONT_PREF_KEY = "copticFontMode";
+
+function applyCopticFontMode(mode) {
+const useTraditional = mode === "traditional";
+document.body.classList.toggle("coptic-font-traditional", useTraditional);
+if (toggleCopticFontBtn) {
+toggleCopticFontBtn.textContent = `Coptic Font: ${useTraditional ? "Traditional" : "Modern"}`;
+}
+}
+
+const savedCopticMode = localStorage.getItem(COPTIC_FONT_PREF_KEY) || "traditional";
+applyCopticFontMode(savedCopticMode);
 
 const base = `content/mahragan-keraza-2026/${group}/${level}/${hymn}`;
 
@@ -183,6 +197,13 @@ toggleLoopBtn.textContent = `Repeat Verse: ${repeatVerseEnabled ? "On" : "Off"}`
 toggleScrollBtn?.addEventListener("click", () => {
 autoScrollEnabled = !autoScrollEnabled;
 toggleScrollBtn.textContent = `Auto-Scroll: ${autoScrollEnabled ? "On" : "Off"}`;
+});
+
+toggleCopticFontBtn?.addEventListener("click", () => {
+const currentMode = document.body.classList.contains("coptic-font-traditional") ? "traditional" : "modern";
+const nextMode = currentMode === "traditional" ? "modern" : "traditional";
+applyCopticFontMode(nextMode);
+localStorage.setItem(COPTIC_FONT_PREF_KEY, nextMode);
 });
 
 // Timestamp capture tool: Press "T" to log current time
