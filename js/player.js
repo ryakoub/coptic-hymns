@@ -6,6 +6,14 @@ const hymn = params.get("hymn");
 const group = params.get("group") || "grades-3-4";
 const level = params.get("level") || "level-1";
 
+// Fix Hymn List nav link to return to the correct group/level
+document.getElementById("hymnListLink").href = `hymns.html?group=${group}&level=${level}`;
+
+// Show group and level subtitle
+const groupLabel = group.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+const levelLabel = level.replace("level-", "Level ");
+document.getElementById("subtitle").textContent = `${groupLabel} · ${levelLabel}`;
+
 const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
 const timestampsBox = document.getElementById("timestamps");
