@@ -1,9 +1,177 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 2.78,
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
     "translations": {
-      "english": "Lyrics coming soon"
+      "english": "Amen Alleluia, Kerie leison, Kerie leison, Kerie lesion."
+    }
+  },
+  {
+    "start": 19.82,
+    "coptic": "Ⲧⲟⲧⲉ ⲁϥϩⲱⲥ ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲛⲉⲙ ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ⲧⲁⲓϩⲱⲇⲏ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ⲟⲩⲟϩ ⲁϥϫⲟⲥ ⲉⲑⲣⲟⲩϫⲟⲥ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
+    "translations": {
+      "english": "Then Moses and the children of Israel sang this song to the Lord, and spoke saying, \"Let us sing to the Lord for He has triumphed gloriously.\""
+    }
+  },
+  {
+    "start": 38.06,
+    "coptic": "Ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ. Ⲟⲩⲃⲟⲏ̀ⲑⲟⲥ ⲛⲉⲙ ⲟⲩⲣⲉϥϩⲱⲃⲥ ⲉ̀ⲃⲟⲗ ϩⲓϫⲱⲓ: ⲁϥϣⲱⲡⲓ ⲛⲏⲓ ⲛ̀ⲟⲩⲥⲱⲧⲏⲣⲓⲁ.",
+    "translations": {
+      "english": "The horse and its rider He has thrown into the sea, the Lord is my strength and song, and He has become my salvation."
+    }
+  },
+  {
+    "start": 52.15,
+    "coptic": "Ⲫⲁⲓ ⲡⲉ Ⲡⲁⲛⲟⲩϯ ϯⲛⲁϯⲱ̀ⲟⲩ ⲛⲁϥ: Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲡⲁⲓⲱⲧ ϯⲛⲁϭⲁⲥϥ.",
+    "translations": {
+      "english": "He is my God and I will glorify Him, my father's God and I will exalt Him."
+    }
+  },
+  {
+    "start": 61.31,
+    "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲡⲉⲧϧⲟⲙϧⲉⲙ ⲛ̀ⲛⲓⲃⲱⲧⲥ: Ⲡ̀ϭⲟⲓⲥ ⲡⲉ ⲡⲉϥⲣⲁⲛ. Ⲛⲓⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ ⲛ̀ⲧⲉ Ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲧⲉϥϫⲟⲙ ⲧⲏⲣⲥ ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ.",
+    "translations": {
+      "english": "The Lord is a Man of war, the Lord is His name. Pharaoh's chariots and his army He has cast into the sea."
+    }
+  },
+  {
+    "start": 72.89,
+    "coptic": "Ϩⲁⲛⲥⲱⲧⲡ ⲛ̀ⲁ̀ⲛⲁⲃⲁⲧⲏⲥ ⲛ̀ⲧ̀ⲣⲓⲥⲧⲁⲧⲏⲥ ⲁϥϫⲟⲗⲕⲟⲩ ϧⲉⲛ ⲫ̀ⲓⲟⲙ ⲛ̀ϣⲁⲣⲓ.",
+    "translations": {
+      "english": "His chosen captains also drowned in the Red Sea."
+    }
+  },
+  {
+    "start": 81.76,
+    "coptic": "Ⲁϥϩⲱⲃⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ: ⲁⲩⲱⲙⲥ ⲉ̀ϧ̀ⲣⲏⲓ ⲉ̀ⲡⲉⲧϣⲏⲕ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲱ̀ⲛⲓ.",
+    "translations": {
+      "english": "The depths have covered them, they sank to the bottom like a stone."
+    }
+  },
+  {
+    "start": 94.85,
+    "coptic": "Ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ Ⲡ̀ϭⲟⲓⲥ ⲁⲥϭⲓⲱ̀ⲟⲩ ϧⲉⲛ ⲟⲩϫⲟⲙ. Ⲧⲉⲕϫⲓϫ ⲛ̀ⲟⲩⲓ̀ⲛⲁⲙ Ⲡⲁⲛⲟⲩϯ ⲁⲥⲧⲁⲕⲉ ⲛⲉⲕϫⲁϫⲓ.",
+    "translations": {
+      "english": "Your right hand O Lord, has become glorious in power. Your right hand O Lord, has dashed the enemy in pieces."
+    }
+  },
+  {
+    "start": 106.78,
+    "coptic": "Ϧⲉⲛ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ: ⲁⲕϧⲟⲙϧⲉⲙ ⲛ̀ⲛⲏⲉⲧϯⲟⲩⲃⲏⲛ: ⲁⲕⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉⲕϫⲱⲛⲧ: ⲁϥⲟⲩⲟ̀ⲙⲟⲩ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛⲣⲱⲟⲩⲓ̀.",
+    "translations": {
+      "english": "And in the greatness of Your excellence, You have overthrown those who rose against You. You sent forth Your wrath, it consumed them like stubble."
+    }
+  },
+  {
+    "start": 121.16,
+    "coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲛ̀ⲧⲉ ⲡⲉⲕⲙ̀ⲃⲟⲛ ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ: ⲁⲩϭⲓⲥⲓ ⲛ̀ϫⲉ ⲛⲓⲙⲱⲟⲩ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲥⲟⲃⲧ: ⲁⲩϭⲱⲥ ⲛ̀ϫⲉ ⲛⲓϫⲟⲗ ϧⲉⲛ ⲑ̀ⲙⲏϯ ⲙ̀ⲫ̀ⲓⲟⲙ.",
+    "translations": {
+      "english": "And with the blast of Your nostrils the waters were gathered together, the flood stood upright like a heap, and the depths congealed in the heart of the sea."
+    }
+  },
+  {
+    "start": 137.92,
+    "coptic": "Ⲁϥϫⲟⲥ ⲅⲁⲣ ⲛ̀ϫⲉ ⲡⲓϫⲁϫⲓ: ϫⲉ ϯⲛⲁϭⲟϫⲓ ⲛ̀ⲧⲁⲧⲁϩⲟ: ⲛ̀ⲧⲁⲫⲱϣ ⲛ̀ϩⲁⲛϣⲱⲗ: ⲛ̀ⲧⲁⲧ̀ⲥⲓⲟ ⲛ̀ⲧⲁⲯⲩⲭⲏ: ⲛ̀ⲧⲁϧⲱⲧⲉⲃ ϧⲉⲛ ⲧⲁⲥⲏϥⲓ ⲛ̀ⲧⲉ ⲧⲁϫⲓϫ ⲉⲣϭⲟⲓⲥ.",
+    "translations": {
+      "english": "The enemy said, \"I will pursue, I will overtake, I will divide the spoil, my desire shall be satisfied on them, I will draw my sword, and my hand shall destroy them.\""
+    }
+  },
+  {
+    "start": 154.99,
+    "coptic": "Ⲁⲕⲟⲩⲱⲣⲡ ⲙ̀Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ: ⲁϥϩⲟⲃⲥⲟⲩ ⲛ̀ϫⲉ ⲫ̀ⲓⲟⲙ: ⲁⲩⲱⲙⲥ ⲉ̀ⲡⲉⲥⲏⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲧⲁⲧϩ ϧⲉⲛ ϩⲁⲛⲙⲱⲟⲩ ⲉⲩⲟϣ.",
+    "translations": {
+      "english": "You blew with Your wind, the sea covered them, they sank like lead in the mighty waters."
+    }
+  },
+  {
+    "start": 167.05,
+    "coptic": "Ⲛⲓⲙ ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ Ⲡ̀ϭⲟⲓⲥ. Ⲛⲓⲙ ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ: ⲉ̀ⲁⲩϯⲱ̀ⲟⲩ ⲛⲁⲕ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ: ⲉⲩⲉⲣϣ̀ⲫⲏⲣⲓ ⲙ̀ⲙⲟⲕ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ: ⲉⲕⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛϣ̀ⲫⲏⲣⲓ.",
+    "translations": {
+      "english": "Who is like You O Lord, among the gods. Who is like You, glorified in his saints, amazing in glory, performing wonders."
+    }
+  },
+  {
+    "start": 182.93,
+    "coptic": "Ⲁⲕⲥⲟⲩⲧⲉⲛ ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ ⲉ̀ⲃⲟⲗ ⲁϥⲟⲙⲕⲟⲩ ⲛ̀ϫⲉ ⲡ̀ⲕⲁϩⲓ. Ⲁⲕϭⲓⲙⲱⲓⲧ ϧⲁϫⲱϥ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲫⲁⲓ ⲉ̀ⲧⲁⲕⲥⲟⲧⲡϥ: ⲁⲕϯϫⲟⲙ ⲛⲁϥ ϧⲉⲛ ⲧⲉⲕⲛⲟⲙϯ: ⲉⲩⲙⲁ ⲛ̀ⲉⲙⲧⲟⲛ ⲉϥⲟⲩⲁⲃ ⲛⲁⲕ.",
+    "translations": {
+      "english": "You stretched out Your right hand, the earth swallowed them. You in Your mercy, have led forth the people whom You have redeemed. You have guided them in Your strength, to Your holy habitation."
+    }
+  },
+  {
+    "start": 200.38,
+    "coptic": "Ⲁⲩⲥⲱⲧⲉⲙ ⲛ̀ϫⲉ ϩⲁⲛⲉⲑⲛⲟⲥ ⲟⲩⲟϩ ⲁⲩϫⲱⲛⲧ: ϩⲁⲛⲛⲁⲕϩⲓ ⲁⲩϭⲓ ⲛ̀ⲛⲏⲉⲧϣⲟⲡ ϧⲉⲛ Ⲛⲓⲫⲩⲗⲓⲥⲧⲓⲙ.",
+    "translations": {
+      "english": "The people will hear and be afraid, sorrow will take hold of the inhabitants of Palestine."
+    }
+  },
+  {
+    "start": 210.85,
+    "coptic": "Ⲧⲟⲧⲉ ⲁⲩⲓⲏⲥ ⲙ̀ⲙⲱⲟⲩ ⲛ̀ϫⲉ ⲛⲓϩⲏⲅⲉⲙⲱⲛ ⲛ̀ⲧⲉ Ⲉ̀ⲇⲱⲙ: ⲛⲓⲁⲣⲭⲱⲛ ⲛ̀ⲧⲉ Ⲛⲓⲙⲱⲁ̀ⲃⲓⲧⲏⲥ ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ ⲡⲉ ⲉ̀ⲧⲁϥϭⲓⲧⲟⲩ.",
+    "translations": {
+      "english": "Then the chiefs of Edom will be dismayed, the mighty men of Moab trembling, will take hold of them."
+    }
+  },
+  {
+    "start": 223.66,
+    "coptic": "Ⲁⲩⲃⲱⲗ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲧϣⲟⲡ ϧⲉⲛ Ⲭⲁⲛⲁⲁⲛ: ⲁϥⲓ̀ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ ⲛ̀ϫⲉ ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ ⲛⲉⲙ ⲟⲩϩⲟϯ.",
+    "translations": {
+      "english": "All the inhabitants of Canaan will melt away, fear and dread will fall on them."
+    }
+  },
+  {
+    "start": 235.73,
+    "coptic": "Ϧⲉⲛ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕϫ̀ⲫⲟⲓ ⲙⲁⲣⲟⲩⲉⲣⲱ̀ⲛⲓ: ϣⲁⲧⲉϥⲥⲓⲛⲓ ⲛ̀ϫⲉ ⲡⲉⲕⲗⲁⲟⲥ Ⲡ̀ϭⲟⲓⲥ: ϣⲁⲧⲉϥⲥⲓⲛⲓ ⲛ̀ϫⲉ ⲡⲉⲕⲗⲁⲟⲥ: ⲫⲁⲓ ⲉ̀ⲧⲁⲕϫ̀ⲫⲟϥ.",
+    "translations": {
+      "english": "By the greatness of Your arm, they will be as still as a stone, till Your people pass over O Lord, till Your people pass over, whom You have purchased."
+    }
+  },
+  {
+    "start": 247.78,
+    "coptic": "Ⲁ̀ⲛⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ ⲧⲟϫⲟⲩ ϩⲓϫⲉⲛ ⲟⲩⲧⲱⲟⲩ ⲛ̀ⲧⲉ ⲧⲉⲕⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ: ⲛⲉⲙ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲉⲕⲙⲁⲛ̀ϣⲱⲡⲓ ⲉⲧⲥⲉⲃⲧⲱⲧ: ⲫⲁⲓ ⲉ̀ⲧⲁⲕⲉⲣϩⲱⲃ ⲉ̀ⲣⲟϥ Ⲡ̀ϭⲟⲓⲥ.",
+    "translations": {
+      "english": "You will bring them in, and plant them in the mountain of Your inheritance, in the place O Lord, which You have made for Your own dwelling."
+    }
+  },
+  {
+    "start": 260.77,
+    "coptic": "Ⲡⲉⲕⲙⲁ ⲉⲑⲟⲩⲁⲃ Ⲡ̀ϭⲟⲓⲥ ⲫⲏⲉ̀ⲧⲁⲩⲥⲉⲃⲧⲱⲧϥ ⲛ̀ϫⲉ ⲛⲉⲕϫⲓϫ: Ⲡ̀ϭⲟⲓⲥ ⲉⲕⲟⲓ ⲛ̀ⲟⲩⲣⲟ ϣⲁ ⲉ̀ⲛⲉϩ ⲛⲉⲙ ⲓⲥϫⲉⲛ ⲡ̀ⲉ̀ⲛⲉϩ ⲟⲩⲟϩ ⲉ̀ⲧⲓ.",
+    "translations": {
+      "english": "Your sanctuary O Lord, which Your hands have established, the Lord shall reign forever and ever."
+    }
+  },
+  {
+    "start": 273.00,
+    "coptic": "Ϫⲉ ⲁⲩⲓ̀ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲫ̀ⲓⲟⲙ ⲛ̀ϫⲉ ⲛⲓϩ̀ⲑⲱⲣ ⲛ̀ⲧⲉ Ⲫⲁⲣⲁⲱ̀: ⲛⲉⲙ ⲛⲉϥⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ ⲛⲉⲙ ⲛⲉϥϭⲁⲥⲓϩ̀ⲑⲟ.",
+    "translations": {
+      "english": "For the horses of Pharaoh, went with his chariots and his horsemen into the sea."
+    }
+  },
+  {
+    "start": 283.48,
+    "coptic": "Ⲁ̀ Ⲡ̀ϭⲟⲓⲥ ⲉⲛ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ: ⲛⲉⲛϣⲏⲣⲓ ⲇⲉ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ ⲛⲁⲩⲙⲟϣⲓ ϧⲉⲛ ⲡⲉⲧϣⲟⲩⲱ̀ⲟⲩ ϧⲉⲛ ⲑ̀ⲙⲏϯ ⲙ̀ⲫ̀ⲓⲟⲙ.",
+    "translations": {
+      "english": "The Lord came in the sea with His might, and the children of Israel went on dry land in the midst of the sea."
+    }
+  },
+  {
+    "start": 295.67,
+    "coptic": "Ⲁⲥϭⲓ ⲇⲉ ⲛⲁⲥ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁⲙ ϯⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲧ̀ⲥⲱⲛⲓ ⲛ̀Ⲁ̀ⲁ̀ⲣⲱⲛ ⲙ̀ⲡⲓⲕⲉⲙⲕⲉⲙ ϧⲉⲛ ⲛⲉⲥϫⲓϫ: ⲟⲩⲟϩ ⲁⲩⲓ̀ ⲉ̀ⲃⲟⲗ ⲥⲁⲙⲉⲛϩⲏⲥ ⲛ̀ϫⲉ ⲛⲓϩⲓⲟⲙⲓ ⲧⲏⲣⲟⲩ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ϩⲁⲛϩⲱⲥ.",
+    "translations": {
+      "english": "Then Miriam the prophetess, the sister of Aaron, took the timbrel in her hand, and all the women went out after her, with timbrels and with praises."
+    }
+  },
+  {
+    "start": 312.33,
+    "coptic": "Ⲁⲥⲉⲣϩⲏⲧⲥ ⲇⲉ ϧⲁϫⲱⲟⲩ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁⲙ ⲉⲥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ. Ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ: ⲁϥⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ.",
+    "translations": {
+      "english": "And Miriam answered them saying, \"Let us sing to the Lord, for He has triumphed gloriously. The horse and its rider He has thrown into the sea.\""
+    }
+  },
+  {
+    "start": 323.75,
+    "coptic": "Ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ: ⲁϥⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ. Ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
+    "translations": {
+      "english": "The horse and its rider He has thrown into the sea. \"Let us sing to the Lord, for He has triumphed gloriously.\""
     }
   }
 ]
