@@ -30,8 +30,8 @@
 
 ### Level-1
 - [ ] Gospel Response of the Feast of the Cross
-- [ ] The Golden Censer
-- [ ] ⲧⲟⲛ ⲥⲩⲛⲁ
+- [X] The Golden Censer
+- [X] ⲧⲟⲛ ⲥⲩⲛⲁ
 - [ ] Doxology of St. Mary Vespers
 
 ### Level-2
