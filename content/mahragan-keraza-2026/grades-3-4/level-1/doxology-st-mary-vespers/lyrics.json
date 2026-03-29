@@ -7,9 +7,9 @@
 }
 },
 {
-"coptic": "Lyrics coming soon",
+"start": 25.10,
 "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁϥϫⲟⲥ: ⲛ̀ϫⲉ Ⲇⲁⲩⲓⲇ ϧⲉⲛ ⲡⲓⲯ̀ⲁⲗⲟⲙⲥ: ϫⲉ ⲁⲥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲥ ⲛ̀ϫⲉ ϯⲟⲩⲣⲱ: ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲙⲟⲕ ⲡ̀Ⲟⲩⲣⲟ.",
-"english": "Lyrics coming soon"
+"translations": {
 "english": "As David has said, in the book of Psalms, \"Upon Your right hand O King, did stand the Queen.\""
 }
 },
