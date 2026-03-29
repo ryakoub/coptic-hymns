@@ -1,9 +1,35 @@
 [
-{
-"start": 0,
-"coptic": "Ⲧⲟⲛ ⲥⲩⲛⲁⲛⲁⲣⲭⲟⲛ Ⲗⲟⲅⲟⲛ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲧⲟⲛ ⲉⲕ ⲡⲁⲣⲑⲉⲛⲟⲩ ⲧⲉⲭⲑⲉⲛⲧⲁ ⲓⲥ ⲥⲱⲧⲏⲣⲓⲁⲛ ⲏ̀ⲙⲟⲛ: ⲁ̀ⲛⲩⲙⲛⲏⲥⲱⲙⲉⲛ ⲡⲓⲥⲧⲓ ⲕⲉ ⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲱⲙⲉⲛ: ⲟ̀ⲧⲓ ⲏⲩⲇⲟⲕⲏⲥⲉ ⲥⲁⲣⲕⲓ: ⲁ̀ⲛⲉⲗⲑⲓⲛ ⲉⲛ ⲧⲱ ⲥ̀ⲧⲁⲩⲣⲟ: ⲕⲉ ⲑⲁⲛⲁⲧⲟⲛ ⲩ̀ⲡⲟⲙⲓⲛⲉ: ⲕⲉ ⲉ̀ⲅⲓⲣⲉ ⲧⲟⲩⲥ ⲧⲉⲑⲛⲉⲱ̀ⲟ̀: ⲧⲁⲥ ⲉⲛ ⲧⲏ ⲉⲛⲇⲟⲝⲱ Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ ⲁⲩⲧⲟⲩ",
-"translations": {
-"english": "We the believers hymn and worship the Logos, without beginning with the Father and the Spirit, having been born of a virgin for our salvation, for He appeared in the flesh to ascend on the Cross. He persevered unto death and raised the dead through His glorious Resurrection."
-}
-}
+  {
+    "start": 0,
+    "coptic": "Ⲧⲟⲛ ⲥⲩⲛⲁⲛⲁⲣⲭⲟⲛ Ⲗⲟⲅⲟⲛ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲧⲟⲛ ⲉⲕ ⲡⲁⲣⲑⲉⲛⲟⲩ ⲧⲉⲭⲑⲉⲛⲧⲁ ⲓⲥ ⲥⲱⲧⲏⲣⲓⲁⲛ ⲏ̀ⲙⲟⲛ: ⲁ̀ⲛⲩⲙⲛⲏⲥⲱⲙⲉⲛ ⲡⲓⲥⲧⲓ ⲕⲉ ⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲱⲙⲉⲛ: ⲟ̀ⲧⲓ ⲏⲩⲇⲟⲕⲏⲥⲉ ⲥⲁⲣⲕⲓ: ⲁ̀ⲛⲉⲗⲑⲓⲛ ⲉⲛ ⲧⲱ ⲥ̀ⲧⲁⲩⲣⲟ: ⲕⲉ ⲑⲁⲛⲁⲧⲟⲛ ⲩ̀ⲡⲟⲙⲓⲛⲉ: ⲕⲉ ⲉ̀ⲅⲓⲣⲉ ⲧⲟⲩⲥ ⲧⲉⲑⲛⲉⲱ̀ⲟ̀: ⲧⲁⲥ ⲉⲛ ⲧⲏ ⲉⲛⲇⲟⲝⲱ Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ ⲁⲩⲧⲟⲩ",
+    "translations": {
+      "english": "We the believers hymn and worship the Logos, without beginning with the Father and the Spirit, having been born of a virgin for our salvation, for He appeared in the flesh to ascend on the Cross. He persevered unto death and raised the dead through His glorious Resurrection."
+    },
+    "words": [
+      { "text": "Ⲧⲟⲛ", "start": 4.04, "end": 4.56 },
+      { "text": "ⲥⲩⲛⲁⲛⲁⲣⲭⲟⲛ", "start": 4.65, "end": 7.4 },
+      { "text": "Ⲗⲟⲅⲟⲛ", "start": 7.48, "end": 9.53 },
+      { "text": "Ⲡⲁⲧⲣⲓ", "start": 9.7, "end": 11.15 },
+      { "text": "ⲕⲉ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ:", "start": 11.23, "end": 15.1 },
+      { "text": "ⲧⲟⲛ ⲉⲕ ⲡⲁⲣⲑⲉⲛⲟⲩ", "start": 15.34, "end": 19.01 },
+      { "text": "ⲧⲉⲭⲑⲉⲛⲧⲁ ⲓⲥ ⲥⲱⲧⲏⲣⲓⲁⲛ", "start": 19.02, "end": 26.01 },
+      { "text": "ⲏ̀ⲙⲟⲛ:", "start": 26.05, "end": 29.83 },
+      {
+        "text": "ⲁ̀ⲛⲩⲙⲛⲏⲥⲱⲙⲉⲛ ⲡⲓⲥⲧⲓ ⲕⲉ ⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲱⲙⲉⲛ",
+        "start": 29.87,
+        "end": 41.76
+      },
+      { "text": "ⲟ̀ⲧⲓ ⲏⲩⲇⲟⲕⲏⲥⲉ ⲏⲩⲇⲟⲕⲏⲥⲉ ⲥⲁⲣⲕⲓ", "start": 41.83, "end": 50.04 },
+      {
+        "text": "ⲁ̀ⲛⲉⲗⲑⲓⲛ ⲉⲛ ⲧⲱ ⲥ̀ⲧⲁⲩⲣⲟ: ⲕⲉ ⲑⲁⲛⲁⲧⲟⲛ",
+        "start": 50.1,
+        "end": 58.26
+      },
+      { "text": "ⲩ̀ⲡⲟⲙⲓⲛⲉ:", "start": 58.31, "end": 63.78 },
+      { "text": "ⲕⲉ ⲉ̀ⲅⲓⲣⲉ", "start": 63.92, "end": 66.88 },
+      { "text": "ⲧⲟⲩⲥ ⲧⲉⲑⲛⲉⲱ̀ⲟ̀:", "start": 66.95, "end": 72.35 },
+      { "text": "ⲧⲁⲥ ⲉⲛ ⲧⲏ ⲉⲛⲇⲟⲝⲱ", "start": 72.4, "end": 76.5 },
+      { "text": "Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ ⲁⲩⲧⲟⲩ", "start": 76.55, "end": 84.4 }
+    ]
+  }
 ]
