@@ -16,7 +16,7 @@
 
 ### Level-1
 - [ ] Procession Refrain, Feast of the Cross
-- [ ] This Is the Day
+- [X] This Is the Day
 - [ ] Conclusion Canon, Resurrection
 - [ ] Blessed, Pentecost
 
@@ -29,13 +29,13 @@
 ## GRADES-3-4
 
 ### Level-1
-- [ ] Gospel Response of the Feast of the Cross
+- [X] Gospel Response of the Feast of the Cross
 - [X] The Golden Censer
 - [X] ⲧⲟⲛ ⲥⲩⲛⲁ
-- [ ] Doxology of St. Mary Vespers
+- [X] Doxology of St. Mary Vespers
 
 ### Level-2
-- [ ] The Second Doxology of the Apostles
+- [X] The Second Doxology of the Apostles
 - [ ] Psalm 150, 4th Hoos
 - [ ] Paralex of Resurrection
 - [ ] Distribution Refrain for Resurrection
@@ -73,7 +73,7 @@
 
 ### Level-1
 - [ ] Ⲡⲓⲱⲓⲕ
-- [ ] First Hoos
+- [X] First Hoos
 - [ ] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
 - [ ] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
 
