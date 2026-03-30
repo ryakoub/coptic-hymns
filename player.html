@@ -3,12 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/style.css?v=20260329b">
+<link rel="stylesheet" href="css/style.css?v=20260329e">
 </head>
 
 <body class="player-page">
 
-<nav class="nav-bar"><a href="index.html">🏠 Home</a><a id="hymnListLink" href="hymns.html">📚 Hymn List</a></nav>
+<nav class="nav-bar">
+	<a href="index.html">🏠 Home</a>
+	<div class="nav-actions">
+		<a id="hymnListLink" href="hymns.html">📚 Hymn List</a>
+		<button id="toggleSettings" class="nav-settings-btn" type="button" aria-expanded="false" aria-label="Toggle settings menu" title="Settings">☰</button>
+	</div>
+</nav>
+
+<div class="audio-spacer" aria-hidden="true"></div>
 
 <h1>🎵 Coptic Hymns</h1>
 
@@ -17,19 +25,25 @@
 
 <div class="audio-nav"><audio id="audio" controls></audio></div>
 
-<div class="player-tools">
-	<button id="toggleLoop" class="feature-btn" type="button">Repeat Verse: Off</button>
-	<button id="toggleScroll" class="feature-btn" type="button">Auto-Scroll: On</button>
-	<button id="toggleCopticFont" class="feature-btn" type="button">Coptic Font: Modern</button>
+<div id="settingsDock">
+	<div id="settingsPanel" class="settings-panel" hidden>
+		<div class="player-tools compact-tools">
+			<button id="toggleLoop" class="feature-btn" type="button">Repeat Verse: Off</button>
+			<button id="toggleScroll" class="feature-btn" type="button">Auto-Scroll: On</button>
+			<button id="toggleCopticFont" class="feature-btn" type="button">Coptic Font: Modern</button>
+		</div>
+		<button id="toggleAdvanced" class="feature-btn advanced-toggle" type="button" aria-expanded="false">Advanced Options</button>
+		<div id="advancedPanel" class="advanced-panel" hidden>
+			<div id="timestamps" class="timestamps-panel">Timestamps: press T while audio plays</div>
+		</div>
+	</div>
 </div>
-
-<div id="timestamps" class="timestamps-panel">Timestamps: press T while audio plays</div>
 
 <p><a id="youtubeLink" href="#" target="_blank" style="color: #1976d2; text-decoration: none; font-weight: bold;">📺 Watch Original Video</a></p>
 
 <div id="lyrics"></div>
 
-<script src="js/player.js?v=20260329b"></script>
+<script src="js/player.js?v=20260329e"></script>
 
 </body>
 </html>

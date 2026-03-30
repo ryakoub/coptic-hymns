@@ -39,6 +39,10 @@ background: linear-gradient(to bottom, #e0f7fa, #b2ebf2);
 color: #333;
 }
 
+.audio-spacer{
+height: 76px;
+}
+
 .button{
 display:block;
 padding:20px;
@@ -160,6 +164,29 @@ align-items: center;
 justify-content: center;
 }
 
+.nav-actions{
+display: flex;
+align-items: center;
+gap: 8px;
+}
+
+.nav-settings-btn{
+border: none;
+border-radius: 10px;
+min-height: 44px;
+min-width: 44px;
+padding: 8px 12px;
+background: linear-gradient(to right, #26c6da, #00acc1);
+color: #fff;
+font-size: 22px;
+line-height: 1;
+font-weight: 700;
+cursor: pointer;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+}
+
 .audio-nav {
 position: sticky;
 top: 58px;
@@ -182,15 +209,37 @@ width: min(700px, calc(100vw - 24px));
 z-index: 25;
 }
 
-body.player-page .player-tools{
-margin-top: 98px;
+#settingsDock{
+margin: 8px 0 10px;
+}
+
+.settings-panel{
+background: rgba(255,255,255,0.78);
+border-radius: 12px;
+padding: 10px;
+box-shadow: 0 1px 6px rgba(0,0,0,0.12);
+}
+
+.advanced-toggle{
+margin-top: 4px;
+padding: 8px 10px;
+min-height: 38px;
+font-size: 14px;
+}
+
+.advanced-panel{
+margin-top: 8px;
 }
 
 .player-tools{
 display: flex;
 gap: 10px;
 flex-wrap: wrap;
-margin: 10px 0 14px;
+margin: 0;
+}
+
+.compact-tools{
+margin-bottom: 8px;
 }
 
 .feature-btn{
@@ -211,7 +260,7 @@ padding: 10px;
 border-radius: 10px;
 font-size: 13px;
 line-height: 1.5;
-margin-bottom: 12px;
+margin-bottom: 0;
 max-height: 140px;
 overflow-y: auto;
 white-space: pre-wrap;
@@ -253,8 +302,8 @@ top: 90px;
 width: calc(100vw - 20px);
 }
 
-body.player-page .player-tools{
-margin-top: 104px;
+body.player-page .audio-spacer{
+height: 96px;
 }
 
 nav.nav-bar{
@@ -266,8 +315,20 @@ gap: 6px;
 nav.nav-bar a{
 padding: 8px 12px;
 font-size: 14px;
-flex: 1;
 min-width: 80px;
+}
+
+.nav-actions{
+display: flex;
+align-items: center;
+gap: 6px;
+}
+
+.nav-settings-btn{
+min-width: 40px;
+min-height: 40px;
+font-size: 20px;
+padding: 6px 10px;
 }
 
 .button{
@@ -322,8 +383,8 @@ body.player-page .audio-nav{
 width: calc(100vw - 16px);
 }
 
-body.player-page .player-tools{
-margin-top: 100px;
+body.player-page .audio-spacer{
+height: 90px;
 }
 
 .button{

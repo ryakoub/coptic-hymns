@@ -17,6 +17,10 @@ document.getElementById("subtitle").textContent = `${groupLabel} · ${levelLabel
 const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
 const toggleCopticFontBtn = document.getElementById("toggleCopticFont");
+const toggleSettingsBtn = document.getElementById("toggleSettings");
+const settingsPanel = document.getElementById("settingsPanel");
+const toggleAdvancedBtn = document.getElementById("toggleAdvanced");
+const advancedPanel = document.getElementById("advancedPanel");
 const timestampsBox = document.getElementById("timestamps");
 
 let repeatVerseEnabled = false;
@@ -215,6 +219,62 @@ const currentMode = document.body.classList.contains("coptic-font-traditional") 
 const nextMode = currentMode === "traditional" ? "modern" : "traditional";
 applyCopticFontMode(nextMode);
 localStorage.setItem(COPTIC_FONT_PREF_KEY, nextMode);
+});
+
+toggleSettingsBtn?.addEventListener("click", () => {
+if (!settingsPanel) return;
+const isHidden = settingsPanel.hasAttribute("hidden");
+if (isHidden) {
+settingsPanel.removeAttribute("hidden");
+toggleSettingsBtn.setAttribute("aria-expanded", "true");
+toggleSettingsBtn.textContent = "✕";
+toggleSettingsBtn.setAttribute("aria-label", "Close settings menu");
+} else {
+settingsPanel.setAttribute("hidden", "");
+toggleSettingsBtn.setAttribute("aria-expanded", "false");
+toggleSettingsBtn.textContent = "☰";
+toggleSettingsBtn.setAttribute("aria-label", "Toggle settings menu");
+advancedPanel?.setAttribute("hidden", "");
+toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
+if (toggleAdvancedBtn) {
+toggleAdvancedBtn.textContent = "Advanced Options";
+}
+}
+});
+
+document.addEventListener("click", (event) => {
+if (!toggleSettingsBtn || !settingsPanel || settingsPanel.hasAttribute("hidden")) {
+return;
+}
+
+const target = event.target;
+if (target instanceof Node && !settingsPanel.contains(target) && !toggleSettingsBtn.contains(target)) {
+settingsPanel.setAttribute("hidden", "");
+toggleSettingsBtn?.setAttribute("aria-expanded", "false");
+if (toggleSettingsBtn) {
+toggleSettingsBtn.textContent = "☰";
+toggleSettingsBtn.setAttribute("aria-label", "Toggle settings menu");
+}
+advancedPanel?.setAttribute("hidden", "");
+toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
+if (toggleAdvancedBtn) {
+toggleAdvancedBtn.textContent = "Advanced Options";
+}
+}
+});
+
+toggleAdvancedBtn?.addEventListener("click", () => {
+if (!advancedPanel) return;
+const isHidden = advancedPanel.hasAttribute("hidden");
+if (isHidden) {
+advancedPanel.removeAttribute("hidden");
+toggleAdvancedBtn.setAttribute("aria-expanded", "true");
+toggleAdvancedBtn.textContent = "Advanced Options: On";
+} else {
+advancedPanel.setAttribute("hidden", "");
+toggleAdvancedBtn.setAttribute("aria-expanded", "false");
+toggleAdvancedBtn.textContent = "Advanced Options";
+}
 });
 
 // Timestamp capture tool: Press "T" to log current time
