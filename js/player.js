@@ -77,6 +77,13 @@ new ResizeObserver(updateAudioBarOffset).observe(nav);
 new ResizeObserver(updateAudioBarOffset).observe(audioNav);
 }
 
+function seekTo(time) {
+  audio.currentTime = time;
+  if (audio.paused) {
+    audio.play().catch(() => {});
+  }
+}
+
 audio.src = `${base}/audio.mp3`;
 
 fetch(`${base}/info.json`)
@@ -111,8 +118,7 @@ wordSpan.style.cursor = "pointer";
 wordSpan.addEventListener("click", (event) => {
 event.stopPropagation();
 if (Number.isFinite(word.start)) {
-audio.currentTime = word.start;
-audio.play();
+seekTo(word.start);
 currentLineIndex = index;
 if (repeatVerseEnabled) {
 loopTargetIndex = index;
@@ -137,8 +143,7 @@ div.appendChild(copticDiv);
 div.appendChild(translationDiv);
 
 div.onclick=()=>{
-audio.currentTime=line.start;
-audio.play();
+seekTo(line.start);
 currentLineIndex = index;
 if (repeatVerseEnabled) {
 loopTargetIndex = index;
@@ -153,13 +158,13 @@ line.element=div;
 audio.ontimeupdate=()=>{
 const t=audio.currentTime;
 
-if (repeatVerseEnabled && loopTargetIndex !== null && currentLines[loopTargetIndex]) {
+if (repeatVerseEnabled && loopTargetIndex !== null && currentLines[loopTargetIndex] && !audio.seeking) {
 const loopLine = currentLines[loopTargetIndex];
 const loopNext = currentLines[loopTargetIndex + 1];
 const loopEnd = loopNext ? loopNext.start : audio.duration;
 if (Number.isFinite(loopEnd) && t >= loopEnd - 0.03) {
 audio.currentTime = loopLine.start;
-audio.play();
+audio.play().catch(() => {});
 return;
 }
 }
