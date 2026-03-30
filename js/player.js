@@ -33,6 +33,9 @@ let currentLines = [];
 let capturedTimes = [];
 let loopTargetIndex = null;
 let currentWordKey = null;
+let queuedSeekTime = null;
+let seekFlushScheduled = false;
+let suppressLoopUntil = 0;
 
 const COPTIC_FONT_PREF_KEY = "copticFontMode";
 
@@ -77,11 +80,36 @@ new ResizeObserver(updateAudioBarOffset).observe(nav);
 new ResizeObserver(updateAudioBarOffset).observe(audioNav);
 }
 
-function seekTo(time) {
-  audio.currentTime = time;
-  if (audio.paused) {
-    audio.play().catch(() => {});
-  }
+function flushQueuedSeek() {
+if (!Number.isFinite(queuedSeekTime)) {
+return;
+}
+
+const targetTime = queuedSeekTime;
+queuedSeekTime = null;
+audio.currentTime = targetTime;
+audio.play().catch(() => {});
+}
+
+function seekTo(time, options = {}) {
+const targetTime = Number(time);
+if (!Number.isFinite(targetTime)) {
+return;
+}
+
+queuedSeekTime = targetTime;
+const cooldownMs = Number.isFinite(options.suppressLoopMs) ? options.suppressLoopMs : 250;
+suppressLoopUntil = performance.now() + cooldownMs;
+
+if (seekFlushScheduled) {
+return;
+}
+
+seekFlushScheduled = true;
+requestAnimationFrame(() => {
+seekFlushScheduled = false;
+flushQueuedSeek();
+});
 }
 
 audio.src = `${base}/audio.mp3`;
@@ -158,13 +186,18 @@ line.element=div;
 audio.ontimeupdate=()=>{
 const t=audio.currentTime;
 
-if (repeatVerseEnabled && loopTargetIndex !== null && currentLines[loopTargetIndex] && !audio.seeking) {
+if (
+repeatVerseEnabled &&
+loopTargetIndex !== null &&
+currentLines[loopTargetIndex] &&
+!audio.seeking &&
+performance.now() >= suppressLoopUntil
+) {
 const loopLine = currentLines[loopTargetIndex];
 const loopNext = currentLines[loopTargetIndex + 1];
 const loopEnd = loopNext ? loopNext.start : audio.duration;
 if (Number.isFinite(loopEnd) && t >= loopEnd - 0.03) {
-audio.currentTime = loopLine.start;
-audio.play().catch(() => {});
+seekTo(loopLine.start, { suppressLoopMs: 300 });
 return;
 }
 }
