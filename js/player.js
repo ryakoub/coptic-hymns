@@ -42,6 +42,17 @@ applyCopticFontMode(savedCopticMode);
 
 const base = `content/mahragan-keraza-2026/${group}/${level}/${hymn}`;
 
+function updateAudioBarOffset() {
+const nav = document.querySelector("nav.nav-bar");
+if (!nav) return;
+const navHeight = nav.getBoundingClientRect().height;
+const top = Math.ceil(navHeight + 8);
+document.documentElement.style.setProperty("--audio-bar-top", `${top}px`);
+}
+
+updateAudioBarOffset();
+window.addEventListener("resize", updateAudioBarOffset);
+
 audio.src = `${base}/audio.mp3`;
 
 fetch(`${base}/info.json`)

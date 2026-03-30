@@ -23,6 +23,7 @@ font-display: swap;
 --coptic-font-modern: 'Noto Sans Coptic', 'Segoe UI Historic', 'Gentium Plus', 'Noto Sans', Arial, sans-serif;
 --coptic-font-traditional: 'Arial Coptic Local', 'ArialCoptic', 'Arial Coptic', 'Antinoou Local', 'Antinoou', 'New Athena Unicode Local', 'New Athena Unicode', 'Avva Shenouda', 'Noto Sans Coptic', 'Segoe UI Historic', serif;
 --coptic-font-active: var(--coptic-font-modern);
+--audio-bar-top: 64px;
 }
 
 body.coptic-font-traditional{
@@ -140,7 +141,7 @@ align-items: center;
 background: rgba(255,255,255,0.95);
 backdrop-filter: blur(6px);
 padding: 8px 14px;
-z-index: 5;
+z-index: 20;
 margin-bottom: 14px;
 border-radius: 0 0 12px 12px;
 box-shadow: 0 2px 10px rgba(0,0,0,0.15);
@@ -160,7 +161,29 @@ justify-content: center;
 }
 
 .audio-nav {
-position:relative;
+position: sticky;
+top: 58px;
+z-index: 4;
+background: rgba(255,255,255,0.92);
+backdrop-filter: blur(6px);
+padding: 8px;
+border-radius: 10px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+margin-bottom: 10px;
+}
+
+/* Fixed playback bar on player page for consistent behavior across browsers */
+body.player-page .audio-nav{
+position: fixed !important;
+top: var(--audio-bar-top, 64px);
+left: 50%;
+transform: translateX(-50%);
+width: min(700px, calc(100vw - 24px));
+z-index: 25;
+}
+
+body.player-page .player-tools{
+margin-top: 98px;
 }
 
 .player-tools{
@@ -195,10 +218,10 @@ white-space: pre-wrap;
 }
 
 audio{
-position:sticky;
-top:48px;
+position: static;
+display: block;
 width:100%;
-margin-bottom:15px;
+margin-bottom:0;
 border-radius:10px;
 }
 
@@ -223,6 +246,15 @@ transform: scale(0.95);
 @media (max-width: 480px) {
 body{
 padding: 12px;
+}
+
+body.player-page .audio-nav{
+top: 90px;
+width: calc(100vw - 20px);
+}
+
+body.player-page .player-tools{
+margin-top: 104px;
 }
 
 nav.nav-bar{
@@ -284,6 +316,14 @@ margin-bottom: 12px;
 @media (max-width: 360px) {
 body{
 padding: 8px;
+}
+
+body.player-page .audio-nav{
+width: calc(100vw - 16px);
+}
+
+body.player-page .player-tools{
+margin-top: 100px;
 }
 
 .button{
