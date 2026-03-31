@@ -36,6 +36,9 @@ let currentWordKey = null;
 let queuedSeekTime = null;
 let seekFlushScheduled = false;
 let suppressLoopUntil = 0;
+let seekRequestId = 0;
+let pendingSeek = null;
+let seekCompletionTimer = null;
 
 const COPTIC_FONT_PREF_KEY = "copticFontMode";
 
@@ -80,15 +83,100 @@ new ResizeObserver(updateAudioBarOffset).observe(nav);
 new ResizeObserver(updateAudioBarOffset).observe(audioNav);
 }
 
+function setActiveLine(index) {
+if (currentLineIndex === index) {
+return;
+}
+
+currentLines.forEach(line => line.element?.classList.remove("active"));
+
+if (index >= 0) {
+currentLines[index]?.element?.classList.add("active");
+}
+
+currentLineIndex = index;
+}
+
+function setActiveWord(wordKey) {
+if (currentWordKey === wordKey) {
+return;
+}
+
+currentLines.forEach(line => {
+if (Array.isArray(line.words)) {
+line.words.forEach(word => word.element?.classList.remove("active-word"));
+}
+});
+
+if (wordKey) {
+const [lineIndex, wordIndex] = wordKey.split("-").map(Number);
+currentLines[lineIndex]?.words?.[wordIndex]?.element?.classList.add("active-word");
+}
+
+currentWordKey = wordKey;
+}
+
 function flushQueuedSeek() {
 if (!Number.isFinite(queuedSeekTime)) {
 return;
 }
 
 const targetTime = queuedSeekTime;
+const requestId = seekRequestId;
 queuedSeekTime = null;
-audio.currentTime = targetTime;
+
+const finishSeek = () => {
+if (requestId !== seekRequestId) {
+return;
+}
+if (seekCompletionTimer) {
+window.clearTimeout(seekCompletionTimer);
+seekCompletionTimer = null;
+}
 audio.play().catch(() => {});
+};
+
+const performSeek = () => {
+if (requestId !== seekRequestId) {
+return;
+}
+
+audio.pause();
+
+if (Math.abs(audio.currentTime - targetTime) < 0.01) {
+finishSeek();
+return;
+}
+
+const confirmSeek = () => {
+if (requestId !== seekRequestId) {
+return;
+}
+
+if (Math.abs(audio.currentTime - targetTime) <= 0.5) {
+finishSeek();
+}
+};
+
+audio.addEventListener("seeked", confirmSeek, { once: true });
+
+audio.currentTime = targetTime;
+
+if (seekCompletionTimer) {
+window.clearTimeout(seekCompletionTimer);
+}
+seekCompletionTimer = window.setTimeout(() => {
+confirmSeek();
+}, 250);
+};
+
+if (audio.readyState >= 1 && Number.isFinite(audio.duration)) {
+performSeek();
+return;
+}
+
+pendingSeek = { requestId, targetTime };
+audio.load();
 }
 
 function seekTo(time, options = {}) {
@@ -97,9 +185,19 @@ if (!Number.isFinite(targetTime)) {
 return;
 }
 
+seekRequestId += 1;
 queuedSeekTime = targetTime;
 const cooldownMs = Number.isFinite(options.suppressLoopMs) ? options.suppressLoopMs : 250;
 suppressLoopUntil = performance.now() + cooldownMs;
+
+if (Number.isInteger(options.lineIndex)) {
+setActiveLine(options.lineIndex);
+if (repeatVerseEnabled) {
+loopTargetIndex = options.lineIndex;
+}
+}
+
+setActiveWord(options.wordKey || null);
 
 if (seekFlushScheduled) {
 return;
@@ -113,6 +211,7 @@ flushQueuedSeek();
 }
 
 audio.src = `${base}/audio.mp3`;
+audio.preload = "auto";
 
 fetch(`${base}/info.json`)
 .then(r=>r.json())
@@ -120,8 +219,35 @@ fetch(`${base}/info.json`)
 document.getElementById("title").innerText = info.title;
 document.title = `${info.title} | Coptic Chanter`;
 document.getElementById("youtubeLink").href = info.youtube;
-audio.src = info.audio || `${base}/audio.mp3`;
+if (info.audio && info.audio !== audio.currentSrc && info.audio !== audio.getAttribute("src")) {
+audio.src = info.audio;
+}
 });
+
+function retryPendingSeek() {
+if (!pendingSeek) {
+return;
+}
+
+const { requestId, targetTime } = pendingSeek;
+
+if (requestId !== seekRequestId) {
+pendingSeek = null;
+return;
+}
+
+if (audio.readyState < 1 || !Number.isFinite(audio.duration)) {
+return;
+}
+
+pendingSeek = null;
+queuedSeekTime = targetTime;
+flushQueuedSeek();
+}
+
+audio.addEventListener("loadedmetadata", retryPendingSeek);
+audio.addEventListener("loadeddata", retryPendingSeek);
+audio.addEventListener("canplay", retryPendingSeek);
 
 fetch(`${base}/lyrics.json`)
 .then(r=>r.json())
@@ -146,11 +272,7 @@ wordSpan.style.cursor = "pointer";
 wordSpan.addEventListener("click", (event) => {
 event.stopPropagation();
 if (Number.isFinite(word.start)) {
-seekTo(word.start);
-currentLineIndex = index;
-if (repeatVerseEnabled) {
-loopTargetIndex = index;
-}
+seekTo(word.start, { lineIndex: index, wordKey: wordSpan.dataset.wordKey });
 }
 });
 copticDiv.appendChild(wordSpan);
@@ -171,11 +293,7 @@ div.appendChild(copticDiv);
 div.appendChild(translationDiv);
 
 div.onclick=()=>{
-seekTo(line.start);
-currentLineIndex = index;
-if (repeatVerseEnabled) {
-loopTargetIndex = index;
-}
+seekTo(line.start, { lineIndex: index });
 };
 
 lyricsContainer.appendChild(div);
@@ -213,9 +331,7 @@ break;
 }
 
 if (activeIndex !== -1 && activeIndex !== currentLineIndex) {
-currentLines.forEach(x => x.element.classList.remove("active"));
-currentLines[activeIndex].element.classList.add("active");
-currentLineIndex = activeIndex;
+setActiveLine(activeIndex);
 
 if (autoScrollEnabled) {
 currentLines[activeIndex].element.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -240,18 +356,7 @@ break;
 }
 
 if (activeWordKey !== currentWordKey) {
-currentLines.forEach(line => {
-if (Array.isArray(line.words)) {
-line.words.forEach(word => word.element?.classList.remove("active-word"));
-}
-});
-
-if (activeWordKey) {
-const [lineIndex, wordIndex] = activeWordKey.split("-").map(Number);
-currentLines[lineIndex]?.words?.[wordIndex]?.element?.classList.add("active-word");
-}
-
-currentWordKey = activeWordKey;
+setActiveWord(activeWordKey);
 }
 
 };
@@ -304,14 +409,18 @@ toggleAdvancedBtn.textContent = "Advanced Options";
 });
 
 document.addEventListener("click", (event) => {
-if (!toggleSettingsBtn || !settingsPanel || settingsPanel.hasAttribute("hidden")) {
-return;
-}
+	if (!toggleSettingsBtn || !settingsPanel || settingsPanel.hasAttribute("hidden")) {
+	return;
+	}
 
-const target = event.target;
-if (target instanceof Node && !settingsPanel.contains(target) && !toggleSettingsBtn.contains(target)) {
-settingsPanel.setAttribute("hidden", "");
-toggleSettingsBtn?.setAttribute("aria-expanded", "false");
+	if (advancedPanel && !advancedPanel.hasAttribute("hidden")) {
+	return;
+	}
+
+	const target = event.target;
+	if (target instanceof Node && !settingsPanel.contains(target) && !toggleSettingsBtn.contains(target)) {
+	settingsPanel.setAttribute("hidden", "");
+	toggleSettingsBtn?.setAttribute("aria-expanded", "false");
 if (toggleSettingsBtn) {
 toggleSettingsBtn.textContent = "⚙";
 toggleSettingsBtn.setAttribute("aria-label", "Open settings");
@@ -341,12 +450,12 @@ toggleAdvancedBtn.textContent = "Advanced Options";
 
 // Timestamp capture tool: Press "T" to log current time
 document.addEventListener("keydown", function(e){
-    if(e.key === "t" || e.key === "T"){
-        const time = audio.currentTime.toFixed(2);
-        capturedTimes.push(time);
-        console.log(`Timestamp: ${time}`);
-        if (timestampsBox) {
-            timestampsBox.textContent = `Timestamps (${capturedTimes.length})\n${capturedTimes.join("\n")}`;
-        }
-    }
-});
+	    if(e.key === "t" || e.key === "T"){
+	        const time = audio.currentTime.toFixed(2);
+	        capturedTimes.push(time);
+	        console.log(`Timestamp: ${time}`);
+	        if (timestampsBox) {
+	            timestampsBox.textContent = `Timestamps (${capturedTimes.length})\n${capturedTimes.join("\n")}`;
+	        }
+	    }
+	});
