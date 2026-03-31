@@ -17,13 +17,11 @@
 ### Level-1
 - [ ] Procession Refrain, Feast of the Cross
 - [X] This Is the Day
-- [ ] Conclusion Canon, Resurrection
 - [ ] Blessed, Pentecost
 
 ### Level-2
 - [ ] The Thought of Man
 - [ ] St. Mark Doxology (First One)
-- [ ] Verses of Cymbals, Resurrection
 - [ ] Liturgy Gospel Response, Resurrection
 
 ## GRADES-3-4
@@ -31,6 +29,7 @@
 ### Level-1
 - [X] Gospel Response of the Feast of the Cross
 - [X] The Golden Censer
+- [X] Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ
 - [X] ⲧⲟⲛ ⲥⲩⲛⲁ
 - [X] Doxology of St. Mary Vespers
 
@@ -74,6 +73,7 @@
 ### Level-1
 - [ ] Ⲡⲓⲱⲓⲕ
 - [X] First Hoos
+- [ ] Second Doxology of Resurrection
 - [ ] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
 - [ ] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
 
@@ -87,7 +87,7 @@
 ### Level-1
 - [ ] Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos
 - [ ] Hossana Intro to Doxologies & 1st Doxology
-- [ ] Ⲕⲉ Ⲩ̀ⲡⲉⲣⲧⲟⲩ
+- [ ] ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ
 - [ ] Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ
 
 ### Level-2
