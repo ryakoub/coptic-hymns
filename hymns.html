@@ -6,16 +6,18 @@
 <title>Coptic Chanter | Hymns</title>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="shortcut icon" href="favicon.svg">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style.css?v=20260402b">
 <style>
 .hymn-button { background: linear-gradient(to bottom, #FFB6C1, #FF69B4); }
 </style>
 </head>
 <body>
 <nav class="nav-bar"><a href="index.html">🏠 Home</a><div class="nav-brand"><span class="nav-brand-title">Coptic Chanter</span><span class="nav-brand-subtitle">Ⲁⲣⲓⲯⲁⲗⲓⲛ ϧⲉⲛ ⲛⲓϩⲩⲙⲛⲟⲥ</span></div><a href="groups.html?curriculum=mahragan-keraza-2026">📚 Groups</a></nav>
+<main class="page-shell">
 <h1>Coptic Hymns</h1>
 <h2 id="levelTitle">Hymns</h2>
 <div id="hymnList"></div>
+</main>
 <script>
 const params = new URLSearchParams(window.location.search);
 const group = params.get("group") || "grades-3-4";
