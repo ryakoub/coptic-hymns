@@ -13,6 +13,7 @@ document.getElementById("hymnListLink").href = `hymns.html?group=${group}&level=
 const groupLabel = group.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
 const levelLabel = level.replace("level-", "Level ");
 document.getElementById("subtitle").textContent = `${groupLabel} · ${levelLabel}`;
+document.title = `${groupLabel} ${levelLabel} | Coptic Chanter`;
 
 const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
@@ -63,6 +64,7 @@ fetch(`${base}/info.json`)
 .then(r=>r.json())
 .then(info=>{
 document.getElementById("title").innerText = info.title;
+document.title = `${info.title} | Coptic Chanter`;
 document.getElementById("youtubeLink").href = info.youtube;
 audio.src = info.audio || `${base}/audio.mp3`;
 });
