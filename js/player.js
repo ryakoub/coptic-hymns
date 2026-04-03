@@ -23,6 +23,8 @@ const settingsPanel = document.getElementById("settingsPanel");
 const toggleAdvancedBtn = document.getElementById("toggleAdvanced");
 const advancedPanel = document.getElementById("advancedPanel");
 const timestampsBox = document.getElementById("timestamps");
+const audioNav = document.querySelector(".audio-nav");
+const audioSpacer = document.querySelector(".audio-spacer");
 
 let repeatVerseEnabled = false;
 let autoScrollEnabled = true;
@@ -49,14 +51,31 @@ const base = `content/mahragan-keraza-2026/${group}/${level}/${hymn}`;
 
 function updateAudioBarOffset() {
 const nav = document.querySelector("nav.nav-bar");
-if (!nav) return;
-const navHeight = nav.getBoundingClientRect().height;
-const top = Math.ceil(navHeight + 8);
+if (!nav || !audioNav) return;
+const navRect = nav.getBoundingClientRect();
+const top = Math.ceil(navRect.bottom + 10);
+const audioHeight = Math.ceil(audioNav.getBoundingClientRect().height || 0);
 document.documentElement.style.setProperty("--audio-bar-top", `${top}px`);
+document.documentElement.style.setProperty("--audio-bar-height", `${audioHeight}px`);
+if (audioSpacer) {
+audioSpacer.style.height = `${audioHeight + 16}px`;
+}
 }
 
 updateAudioBarOffset();
 window.addEventListener("resize", updateAudioBarOffset);
+window.addEventListener("load", updateAudioBarOffset);
+window.addEventListener("pageshow", updateAudioBarOffset);
+window.visualViewport?.addEventListener("resize", updateAudioBarOffset);
+window.visualViewport?.addEventListener("scroll", updateAudioBarOffset);
+
+if (typeof ResizeObserver !== "undefined") {
+const nav = document.querySelector("nav.nav-bar");
+if (nav) {
+new ResizeObserver(updateAudioBarOffset).observe(nav);
+}
+new ResizeObserver(updateAudioBarOffset).observe(audioNav);
+}
 
 audio.src = `${base}/audio.mp3`;
 
@@ -230,12 +249,14 @@ if (isHidden) {
 settingsPanel.removeAttribute("hidden");
 toggleSettingsBtn.setAttribute("aria-expanded", "true");
 toggleSettingsBtn.textContent = "✕";
-toggleSettingsBtn.setAttribute("aria-label", "Close settings menu");
+toggleSettingsBtn.setAttribute("aria-label", "Close settings");
+toggleSettingsBtn.title = "Close settings";
 } else {
 settingsPanel.setAttribute("hidden", "");
 toggleSettingsBtn.setAttribute("aria-expanded", "false");
-toggleSettingsBtn.textContent = "☰";
-toggleSettingsBtn.setAttribute("aria-label", "Toggle settings menu");
+toggleSettingsBtn.textContent = "⚙";
+toggleSettingsBtn.setAttribute("aria-label", "Open settings");
+toggleSettingsBtn.title = "Settings";
 advancedPanel?.setAttribute("hidden", "");
 toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
 if (toggleAdvancedBtn) {
@@ -254,8 +275,9 @@ if (target instanceof Node && !settingsPanel.contains(target) && !toggleSettings
 settingsPanel.setAttribute("hidden", "");
 toggleSettingsBtn?.setAttribute("aria-expanded", "false");
 if (toggleSettingsBtn) {
-toggleSettingsBtn.textContent = "☰";
-toggleSettingsBtn.setAttribute("aria-label", "Toggle settings menu");
+toggleSettingsBtn.textContent = "⚙";
+toggleSettingsBtn.setAttribute("aria-label", "Open settings");
+toggleSettingsBtn.title = "Settings";
 }
 advancedPanel?.setAttribute("hidden", "");
 toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
