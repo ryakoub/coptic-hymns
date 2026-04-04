@@ -1,9 +1,26 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 0,
+    "coptic": "Ⲉ̀ⲣⲉ ⲡⲟⲩⲥ̀ⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ. Ⲁ̀ⲙⲏⲛ. Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲁ̀ⲛⲁⲡⲁⲩⲥⲟⲛ: ⲁ̀ⲙⲏⲛ",
+    "translations": {
+      "english": "May their holy blessing be with us. Amen. Glory to You, O Lord. Lord have mercy. Lord have mercy. Lord, bless us. Lord, repose them. Amen."
+    },
+    "words": [
+      { "text": "Ⲉ̀ⲣⲉ", "start": 4.67, "end": 5.44 },
+      { "text": "ⲡⲟⲩⲥ̀ⲙⲟⲩ", "start": 5.78, "end": 7.73 },
+      { "text": "ⲉⲑⲟⲩⲁⲃ", "start": 7.83, "end": 10.74 },
+      { "text": "ϣⲱⲡⲓ", "start": 11.24, "end": 13.76 },
+      { "text": "ⲛⲉⲙⲁⲛ.", "start": 13.88, "end": 14.72 },
+      { "text": "Ⲁ̀ⲙⲏⲛ.", "start": 15.11, "end": 16.77 },
+      { "text": "Ⲇⲟⲝⲁ ⲥⲓ", "start": 17.01, "end": 20.01 },
+      { "text": "Ⲕⲩⲣⲓⲉ:", "start": 20.35, "end": 23.16 },
+      { "text": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ", "start": 23.27, "end": 27.71 },
+      { "text": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ", "start": 27.89, "end": 34.11 },
+      { "text": "Ⲕⲩⲣⲓⲉ", "start": 34.31, "end": 36.59 },
+      { "text": "ⲉⲩⲗⲟⲅⲏⲥⲟⲛ:", "start": 36.76, "end": 40.11 },
+      { "text": "Ⲕⲩⲣⲓⲉ", "start": 40.31, "end": 42.33 },
+      { "text": "ⲁ̀ⲛⲁⲡⲁⲩⲥⲟⲛ:", "start": 42.89, "end": 45.24 },
+      { "text": "ⲁ̀ⲙⲏⲛ", "start": 45.57, "end": 49.85 }
+    ]
+  }
 ]
