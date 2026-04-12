@@ -1,9 +1,58 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 4.0,
+    "coptic": "Ⲧⲟⲧⲉ ⲣⲱⲛ ⲁϥⲙⲟϩ ⲛ̀ⲣⲁϣⲓ: ⲟⲩⲟϩ ⲡⲉⲛⲗⲁⲥ ϧⲉⲛ ⲟⲩⲑⲉⲗⲏⲗ: ϫⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+    "translations": {
+      "english": "Then our mouths are filled with joy, and our tongues with rejoicing, for our Lord Jesus Christ, has risen from the dead."
+    }
+  },
+  {
+    "start": 25.08,
+    "coptic": "Ⲁϥⲕⲱⲣϥ ⲙ̀ⲫ̀ⲙⲟⲩ ϧⲉⲛ ⲧⲉϥϫⲟⲙ: ⲁϥⲑ̀ⲣⲉⲡ̀ⲱⲛϧ ⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ⲣⲟⲛ: ⲛ̀ⲑⲟϥ ⲟⲛ ⲫⲏⲉ̀ⲧⲁϥϣⲉⲛⲁϥ: ⲉ̀ⲛⲓⲙⲁ ⲉⲧⲥⲁⲡⲉⲥⲏⲧ ⲙ̀ⲡ̀ⲕⲁϩⲓ.",
+    "translations": {
+      "english": "He has abolished death by His might, and made life shine upon us, He is the One who has descended, to the lower parts of the earth."
+    }
+  },
+  {
+    "start": 46.0,
+    "coptic": "Ⲛⲓⲙ̀ⲛⲟⲩⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲙⲉⲛϯ: ⲁⲩⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲁⲩⲉⲣϩⲟϯ: ⲁϥⲧⲁⲕⲟ ⲛ̀ⲛⲓⲛⲁⲕϩⲓ ⲙ̀ⲫ̀ⲙⲟⲩ: ⲙ̀ⲡⲟⲩϣ̀ϫⲉⲙϫⲟⲙ ⲛ̀ⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲙⲟϥ.",
+    "translations": {
+      "english": "The gatekeepers of Hades, saw Him and were afraid, He abolished the pangs of death, and He was not held by them."
+    }
+  },
+  {
+    "start": 65.16,
+    "coptic": "Ⲁϥϧⲟⲙϧⲉⲙ ⲛ̀ϩⲁⲛⲡⲩⲗⲏ ⲛ̀ϩⲟⲙⲧ: ⲁϥⲕⲱϣ ⲛ̀ϩⲁⲛⲙⲟⲭⲗⲟⲩⲥ ⲙ̀ⲃⲉⲛⲓⲡⲓ: ⲁϥⲓ̀ⲛⲓ ⲛ̀ⲛⲉϥⲥⲱⲧⲡ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩⲟⲩⲛⲟϥ ⲛⲉⲙ ⲟⲩⲑⲉⲗⲏⲗ.",
+    "translations": {
+      "english": "He has crushed the gates of brass, and broke the bars of iron, and brought out His chosen ones, with rejoicing and with joy."
+    }
+  },
+  {
+    "start": 83.85,
+    "coptic": "Ⲁϥⲟ̀ⲗⲟⲩ ⲉ̀ⲡ̀ϭⲓⲥⲓ ⲛⲉⲙⲁϥ: ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲛⲉϥⲙⲁ ⲛ̀ⲉⲙⲧⲟⲛ: ⲁϥⲛⲁϩⲙⲟⲩ ⲉⲑⲃⲉ ⲡⲉϥⲣⲁⲛ: ⲁϥⲟⲩⲱⲛϩ ⲛ̀ⲧⲉϥϫⲟⲙ ⲛⲱⲟⲩ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "He lifted them up with Him, into His place of rest, and saved them for His name’s sake, He revealed His power to them."
+    }
+  },
+  {
+    "start": 103.92,
+    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛⲟⲓ ⲛ̀ⲣⲁⲙⲁⲟ̀: ϧⲉⲛ ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩⲛⲁϩϯ ⲧⲉⲛⲉⲣⲯⲁⲗⲓⲛ: ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ ϫⲉ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+    "translations": {
+      "english": "Therefore we are wealthy, with perfect gifts, and with faith we sing, saying “Alleluia.”"
+    }
+  },
+  {
+    "start": 123.61,
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅): Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+    "translations": {
+      "english": "Alleluia (4), Jesus Christ the King of glory, has risen from the dead."
+    }
+  },
+  {
+    "start": 142.68,
+    "coptic": "Ⲫⲁⲓ ⲉ̀ⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛⲁϥ: ⲛⲉⲙ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ: ⲓⲥϫⲉⲛ ϯⲛⲟⲩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ.",
+    "translations": {
+      "english": "This is He who is worthy of glory, with His good Father, and the Holy Spirit, both now and forever."
+    }
+  }
 ]

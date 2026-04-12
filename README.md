@@ -22,6 +22,14 @@ python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --keep-plus
 
 You can optionally attach timings while importing by passing the hymn audio file.
 
+Recommended workflow:
+
+1. Run a first import + auto sync pass.
+2. Listen and collect accurate verse start timestamps.
+3. Save them in `TARGET_FOLDER/timing-anchors.json`.
+4. Re-run with `--anchors` to lock verse starts.
+5. Optionally switch to word sync (and melisma options) after verse starts are locked.
+
 Available timing modes:
 
 - `verse`: sets a `start` time for each lyric line
@@ -117,9 +125,9 @@ The new sync path uses `ffmpeg` + `ffprobe` and does not depend on `detect_pause
 
 ### Level-1
 - [ ] Verse of Cymbals for Feast of the Cross
-- [ ] Doxology of St. Mary, Matins
+- [X] Doxology of St. Mary, Matins
 - [ ] Praxis Response, Annual
-- [ ] Doxology of Resurrection
+- [X] Doxology of Resurrection
 - [ ] Conclusion of Midnight Praises
 
 ### Level-2
