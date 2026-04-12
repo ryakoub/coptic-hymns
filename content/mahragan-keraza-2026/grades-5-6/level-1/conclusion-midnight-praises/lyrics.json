@@ -1,9 +1,219 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 5.5,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 17.88,
+    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ.",
+    "translations": {
+      "english": "O God have mercy on us."
+    }
+  },
+  {
+    "start": 21.82,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 33.15,
+    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ.",
+    "translations": {
+      "english": "O God hear us."
+    }
+  },
+  {
+    "start": 37.36,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 48.19,
+    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲥⲟⲙⲥ ⲉ̀ⲣⲟⲛ.",
+    "translations": {
+      "english": "O God look to us."
+    }
+  },
+  {
+    "start": 52.91,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 63.92,
+    "coptic": "Ⲫ̀ⲛⲟⲩϯ ϫⲟⲩϣⲧ ⲉ̀ⲣⲟⲛ.",
+    "translations": {
+      "english": "O God behold us."
+    }
+  },
+  {
+    "start": 68.13,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 79.28,
+    "coptic": "Ⲫ̀ⲛⲟⲩϯ ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲩⲛ.",
+    "translations": {
+      "english": "O God have compassion on us."
+    }
+  },
+  {
+    "start": 83.41,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 93.97,
+    "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲗⲁⲟⲥ.",
+    "translations": {
+      "english": "We are Your people."
+    }
+  },
+  {
+    "start": 98.4,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 109.18,
+    "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲡ̀ⲗⲁⲥⲙⲁ.",
+    "translations": {
+      "english": "We are Your creation."
+    }
+  },
+  {
+    "start": 113.33,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 124.1,
+    "coptic": "Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛϫⲁϫⲓ.",
+    "translations": {
+      "english": "Deliver us from our enemies."
+    }
+  },
+  {
+    "start": 128.36,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 138.79,
+    "coptic": "Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲟⲩϩ̀ⲃⲱⲛ.",
+    "translations": {
+      "english": "Deliver us from inflation."
+    }
+  },
+  {
+    "start": 143.29,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 153.77,
+    "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ.",
+    "translations": {
+      "english": "We are Your servants."
+    }
+  },
+  {
+    "start": 157.98,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 168.65,
+    "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ.",
+    "translations": {
+      "english": "You are the Son of God."
+    }
+  },
+  {
+    "start": 172.74,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 183.84,
+    "coptic": "Ⲁⲛⲛⲁϩϯ ⲉ̀ⲣⲟⲕ.",
+    "translations": {
+      "english": "We believe in You."
+    }
+  },
+  {
+    "start": 187.62,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 198.29,
+    "coptic": "Ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+    "translations": {
+      "english": "For You have (risen/come) and saved us."
+    }
+  },
+  {
+    "start": 202.61,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 213.29,
+    "coptic": "Ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ.",
+    "translations": {
+      "english": "Visit us with Your salvation."
+    }
+  },
+  {
+    "start": 217.69,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
+    "translations": {
+      "english": "Lord Have Mercy (3)"
+    }
+  },
+  {
+    "start": 228.37,
+    "coptic": "Ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "And forgive us our sins."
+    }
+  },
+  {
+    "start": 234.02,
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+    "translations": {
+      "english": "Lord Have Mercy."
+    }
+  }
 ]
