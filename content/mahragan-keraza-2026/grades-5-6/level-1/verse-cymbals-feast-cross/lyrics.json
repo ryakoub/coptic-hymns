@@ -1,9 +1,135 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 4.28,
+    "coptic": "Ⲭⲉⲣⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲉ̀ⲧⲁⲩⲉϣ Ⲡⲁϭⲟⲓⲥ ⲉ̀ⲣⲟϥ: ⲭⲉⲣⲉ ⲡⲓⲙ̀ϩⲁⲩ: ⲉ̀ⲧⲁⲩⲭⲱ ⲙ̀Ⲡⲉϥⲥⲱⲙⲁ ⲛ̀ϧⲏⲧϥ.",
+    "translations": {
+      "english": "Hail to the Cross, which my Lord was crucified upon, hail to the grave, where they placed His Body."
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ",
+        "start": 4.28,
+        "end": 6.74
+      },
+      {
+        "text": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ:",
+        "start": 6.74,
+        "end": 17.68
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲩⲉϣ",
+        "start": 17.68,
+        "end": 22.75
+      },
+      {
+        "text": "Ⲡⲁϭⲟⲓⲥ",
+        "start": 22.75,
+        "end": 28.73
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ:",
+        "start": 28.73,
+        "end": 30.16
+      },
+      {
+        "text": "ⲭⲉⲣⲉ",
+        "start": 30.16,
+        "end": 31.66
+      },
+      {
+        "text": "ⲡⲓⲙ̀ϩⲁⲩ:",
+        "start": 31.66,
+        "end": 33.81
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲩⲭⲱ",
+        "start": 33.81,
+        "end": 35.42
+      },
+      {
+        "text": "ⲙ̀Ⲡⲉϥⲥⲱⲙⲁ",
+        "start": 35.42,
+        "end": 40.22
+      },
+      {
+        "text": "ⲛ̀ϧⲏⲧϥ.",
+        "start": 40.22,
+        "end": 42.66
+      }
+    ]
+  },
+  {
+    "start": 42.66,
+    "coptic": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲡⲉ ⲡⲉⲛϩⲟⲡⲗⲟⲛ: Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲡⲉ ⲧⲉⲛϩⲉⲗⲡⲓⲥ: Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲡⲉ ⲡⲉⲛⲧⲁϫⲣⲟ: ϧⲉⲛ ⲛⲉⲛϩⲟϫϩⲉϫ ⲛⲉⲙ ⲛⲉⲛⲑ̀ⲗⲓⲯⲓⲥ.",
+    "translations": {
+      "english": "The Cross is our weapon, the Cross is our hope, the Cross is our confirmation, in our struggles and sufferings."
+    },
+    "words": [
+      {
+        "text": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ",
+        "start": 42.66,
+        "end": 44.69
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 44.69,
+        "end": 46.24
+      },
+      {
+        "text": "ⲡⲉⲛϩⲟⲡⲗⲟⲛ:",
+        "start": 46.24,
+        "end": 56.75
+      },
+      {
+        "text": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ",
+        "start": 56.75,
+        "end": 62.43
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 62.43,
+        "end": 63.3
+      },
+      {
+        "text": "ⲧⲉⲛϩⲉⲗⲡⲓⲥ:",
+        "start": 63.3,
+        "end": 69.77
+      },
+      {
+        "text": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ",
+        "start": 69.77,
+        "end": 71.95
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 71.95,
+        "end": 72.57
+      },
+      {
+        "text": "ⲡⲉⲛⲧⲁϫⲣⲟ:",
+        "start": 72.57,
+        "end": 75.09
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 75.09,
+        "end": 75.84
+      },
+      {
+        "text": "ⲛⲉⲛϩⲟϫϩⲉϫ",
+        "start": 75.84,
+        "end": 77.87
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 77.87,
+        "end": 78.4
+      },
+      {
+        "text": "ⲛⲉⲛⲑ̀ⲗⲓⲯⲓⲥ.",
+        "start": 78.4,
+        "end": 100.35
+      }
+    ]
+  }
 ]

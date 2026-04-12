@@ -82,6 +82,23 @@ You can start from `melisma-hints.template.json`, save it as `melisma-hints.json
 
 The new sync path uses `ffmpeg` + `ffprobe` and does not depend on `detect_pauses.py`.
 
+Manual word-start application (reliable workflow):
+
+Create a plain text file in this format:
+
+```text
+line 1: 4.28, 6.74, 17.68
+line 2: 42.66, 44.69, 46.24
+```
+
+Then apply it to `lyrics.json` (and optionally update anchors):
+
+```bash
+python3 tools/apply_manual_word_starts.py "TARGET_FOLDER/lyrics.json" "TARGET_FOLDER/manual-word-starts.txt" --anchors "TARGET_FOLDER/timing-anchors.json" --audio "TARGET_FOLDER/audio.mp3"
+```
+
+This sets each word `start` to your provided values, sets each word `end` to the next word start, and aligns final word ends to the next verse boundary (or audio end for the last line).
+
 ## KG
 
 ### Level-1
