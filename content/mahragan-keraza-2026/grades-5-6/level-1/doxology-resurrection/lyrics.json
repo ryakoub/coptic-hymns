@@ -4,55 +4,616 @@
     "coptic": "Ⲧⲟⲧⲉ ⲣⲱⲛ ⲁϥⲙⲟϩ ⲛ̀ⲣⲁϣⲓ: ⲟⲩⲟϩ ⲡⲉⲛⲗⲁⲥ ϧⲉⲛ ⲟⲩⲑⲉⲗⲏⲗ: ϫⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
     "translations": {
       "english": "Then our mouths are filled with joy, and our tongues with rejoicing, for our Lord Jesus Christ, has risen from the dead."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲧⲟⲧⲉ",
+        "start": 4.0,
+        "end": 4.94
+      },
+      {
+        "text": "ⲣⲱⲛ",
+        "start": 4.94,
+        "end": 5.64
+      },
+      {
+        "text": "ⲁϥⲙⲟϩ",
+        "start": 5.64,
+        "end": 6.81
+      },
+      {
+        "text": "ⲛ̀ⲣⲁϣⲓ:",
+        "start": 6.81,
+        "end": 8.45
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 8.45,
+        "end": 9.39
+      },
+      {
+        "text": "ⲡⲉⲛⲗⲁⲥ",
+        "start": 9.39,
+        "end": 10.79
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 10.79,
+        "end": 11.5
+      },
+      {
+        "text": "ⲟⲩⲑⲉⲗⲏⲗ:",
+        "start": 11.5,
+        "end": 13.37
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 13.37,
+        "end": 13.84
+      },
+      {
+        "text": "Ⲡⲉⲛϭⲟⲓⲥ",
+        "start": 13.84,
+        "end": 15.48
+      },
+      {
+        "text": "Ⲓⲏⲥⲟⲩⲥ",
+        "start": 15.48,
+        "end": 16.88
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:",
+        "start": 16.88,
+        "end": 19.46
+      },
+      {
+        "text": "ⲁϥⲧⲱⲛϥ",
+        "start": 19.46,
+        "end": 20.86
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 20.86,
+        "end": 22.04
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 22.04,
+        "end": 22.74
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+        "start": 22.74,
+        "end": 25.08
+      }
+    ]
   },
   {
     "start": 25.08,
     "coptic": "Ⲁϥⲕⲱⲣϥ ⲙ̀ⲫ̀ⲙⲟⲩ ϧⲉⲛ ⲧⲉϥϫⲟⲙ: ⲁϥⲑ̀ⲣⲉⲡ̀ⲱⲛϧ ⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ⲣⲟⲛ: ⲛ̀ⲑⲟϥ ⲟⲛ ⲫⲏⲉ̀ⲧⲁϥϣⲉⲛⲁϥ: ⲉ̀ⲛⲓⲙⲁ ⲉⲧⲥⲁⲡⲉⲥⲏⲧ ⲙ̀ⲡ̀ⲕⲁϩⲓ.",
     "translations": {
       "english": "He has abolished death by His might, and made life shine upon us, He is the One who has descended, to the lower parts of the earth."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁϥⲕⲱⲣϥ",
+        "start": 25.08,
+        "end": 26.44
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲙⲟⲩ",
+        "start": 26.44,
+        "end": 28.04
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 28.04,
+        "end": 28.72
+      },
+      {
+        "text": "ⲧⲉϥϫⲟⲙ:",
+        "start": 28.72,
+        "end": 30.31
+      },
+      {
+        "text": "ⲁϥⲑ̀ⲣⲉⲡ̀ⲱⲛϧ",
+        "start": 30.31,
+        "end": 32.81
+      },
+      {
+        "text": "ⲉⲣⲟⲩⲱⲓⲛⲓ",
+        "start": 32.81,
+        "end": 34.63
+      },
+      {
+        "text": "ⲉ̀ⲣⲟⲛ:",
+        "start": 34.63,
+        "end": 35.99
+      },
+      {
+        "text": "ⲛ̀ⲑⲟϥ",
+        "start": 35.99,
+        "end": 37.13
+      },
+      {
+        "text": "ⲟⲛ",
+        "start": 37.13,
+        "end": 37.59
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁϥϣⲉⲛⲁϥ:",
+        "start": 37.59,
+        "end": 40.54
+      },
+      {
+        "text": "ⲉ̀ⲛⲓⲙⲁ",
+        "start": 40.54,
+        "end": 41.91
+      },
+      {
+        "text": "ⲉⲧⲥⲁⲡⲉⲥⲏⲧ",
+        "start": 41.91,
+        "end": 43.95
+      },
+      {
+        "text": "ⲙ̀ⲡ̀ⲕⲁϩⲓ.",
+        "start": 43.95,
+        "end": 46.0
+      }
+    ]
   },
   {
     "start": 46.0,
     "coptic": "Ⲛⲓⲙ̀ⲛⲟⲩⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲙⲉⲛϯ: ⲁⲩⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲁⲩⲉⲣϩⲟϯ: ⲁϥⲧⲁⲕⲟ ⲛ̀ⲛⲓⲛⲁⲕϩⲓ ⲙ̀ⲫ̀ⲙⲟⲩ: ⲙ̀ⲡⲟⲩϣ̀ϫⲉⲙϫⲟⲙ ⲛ̀ⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲙⲟϥ.",
     "translations": {
       "english": "The gatekeepers of Hades, saw Him and were afraid, He abolished the pangs of death, and He was not held by them."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲛⲓⲙ̀ⲛⲟⲩⲧ",
+        "start": 46.0,
+        "end": 47.76
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 47.76,
+        "end": 48.64
+      },
+      {
+        "text": "Ⲁ̀ⲙⲉⲛϯ:",
+        "start": 48.64,
+        "end": 50.18
+      },
+      {
+        "text": "ⲁⲩⲛⲁⲩ",
+        "start": 50.18,
+        "end": 51.29
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 51.29,
+        "end": 52.39
+      },
+      {
+        "text": "ⲁⲩⲉⲣϩⲟϯ:",
+        "start": 52.39,
+        "end": 54.15
+      },
+      {
+        "text": "ⲁϥⲧⲁⲕⲟ",
+        "start": 54.15,
+        "end": 55.47
+      },
+      {
+        "text": "ⲛ̀ⲛⲓⲛⲁⲕϩⲓ",
+        "start": 55.47,
+        "end": 57.45
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲙⲟⲩ:",
+        "start": 57.45,
+        "end": 59.21
+      },
+      {
+        "text": "ⲙ̀ⲡⲟⲩϣ̀ϫⲉⲙϫⲟⲙ",
+        "start": 59.21,
+        "end": 62.08
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲙⲟⲛⲓ",
+        "start": 62.08,
+        "end": 63.84
+      },
+      {
+        "text": "ⲙ̀ⲙⲟϥ.",
+        "start": 63.84,
+        "end": 65.16
+      }
+    ]
   },
   {
     "start": 65.16,
     "coptic": "Ⲁϥϧⲟⲙϧⲉⲙ ⲛ̀ϩⲁⲛⲡⲩⲗⲏ ⲛ̀ϩⲟⲙⲧ: ⲁϥⲕⲱϣ ⲛ̀ϩⲁⲛⲙⲟⲭⲗⲟⲩⲥ ⲙ̀ⲃⲉⲛⲓⲡⲓ: ⲁϥⲓ̀ⲛⲓ ⲛ̀ⲛⲉϥⲥⲱⲧⲡ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩⲟⲩⲛⲟϥ ⲛⲉⲙ ⲟⲩⲑⲉⲗⲏⲗ.",
     "translations": {
       "english": "He has crushed the gates of brass, and broke the bars of iron, and brought out His chosen ones, with rejoicing and with joy."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁϥϧⲟⲙϧⲉⲙ",
+        "start": 65.16,
+        "end": 66.79
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛⲡⲩⲗⲏ",
+        "start": 66.79,
+        "end": 68.61
+      },
+      {
+        "text": "ⲛ̀ϩⲟⲙⲧ:",
+        "start": 68.61,
+        "end": 70.04
+      },
+      {
+        "text": "ⲁϥⲕⲱϣ",
+        "start": 70.04,
+        "end": 71.05
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛⲙⲟⲭⲗⲟⲩⲥ",
+        "start": 71.05,
+        "end": 73.49
+      },
+      {
+        "text": "ⲙ̀ⲃⲉⲛⲓⲡⲓ:",
+        "start": 73.49,
+        "end": 75.32
+      },
+      {
+        "text": "ⲁϥⲓ̀ⲛⲓ",
+        "start": 75.32,
+        "end": 76.54
+      },
+      {
+        "text": "ⲛ̀ⲛⲉϥⲥⲱⲧⲡ",
+        "start": 76.54,
+        "end": 78.36
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ:",
+        "start": 78.36,
+        "end": 79.58
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 79.58,
+        "end": 80.19
+      },
+      {
+        "text": "ⲟⲩⲟⲩⲛⲟϥ",
+        "start": 80.19,
+        "end": 81.62
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 81.62,
+        "end": 82.22
+      },
+      {
+        "text": "ⲟⲩⲑⲉⲗⲏⲗ.",
+        "start": 82.22,
+        "end": 83.85
+      }
+    ]
   },
   {
     "start": 83.85,
     "coptic": "Ⲁϥⲟ̀ⲗⲟⲩ ⲉ̀ⲡ̀ϭⲓⲥⲓ ⲛⲉⲙⲁϥ: ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲛⲉϥⲙⲁ ⲛ̀ⲉⲙⲧⲟⲛ: ⲁϥⲛⲁϩⲙⲟⲩ ⲉⲑⲃⲉ ⲡⲉϥⲣⲁⲛ: ⲁϥⲟⲩⲱⲛϩ ⲛ̀ⲧⲉϥϫⲟⲙ ⲛⲱⲟⲩ ⲉ̀ⲃⲟⲗ.",
     "translations": {
       "english": "He lifted them up with Him, into His place of rest, and saved them for His name’s sake, He revealed His power to them."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁϥⲟ̀ⲗⲟⲩ",
+        "start": 83.85,
+        "end": 85.48
+      },
+      {
+        "text": "ⲉ̀ⲡ̀ϭⲓⲥⲓ",
+        "start": 85.48,
+        "end": 87.35
+      },
+      {
+        "text": "ⲛⲉⲙⲁϥ:",
+        "start": 87.35,
+        "end": 88.75
+      },
+      {
+        "text": "ⲉ̀ϧⲟⲩⲛ",
+        "start": 88.75,
+        "end": 90.15
+      },
+      {
+        "text": "ⲉ̀ⲛⲉϥⲙⲁ",
+        "start": 90.15,
+        "end": 91.78
+      },
+      {
+        "text": "ⲛ̀ⲉⲙⲧⲟⲛ:",
+        "start": 91.78,
+        "end": 93.65
+      },
+      {
+        "text": "ⲁϥⲛⲁϩⲙⲟⲩ",
+        "start": 93.65,
+        "end": 95.52
+      },
+      {
+        "text": "ⲉⲑⲃⲉ",
+        "start": 95.52,
+        "end": 96.45
+      },
+      {
+        "text": "ⲡⲉϥⲣⲁⲛ:",
+        "start": 96.45,
+        "end": 98.09
+      },
+      {
+        "text": "ⲁϥⲟⲩⲱⲛϩ",
+        "start": 98.09,
+        "end": 99.72
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥϫⲟⲙ",
+        "start": 99.72,
+        "end": 101.59
+      },
+      {
+        "text": "ⲛⲱⲟⲩ",
+        "start": 101.59,
+        "end": 102.52
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ.",
+        "start": 102.52,
+        "end": 103.92
+      }
+    ]
   },
   {
     "start": 103.92,
     "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛⲟⲓ ⲛ̀ⲣⲁⲙⲁⲟ̀: ϧⲉⲛ ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩⲛⲁϩϯ ⲧⲉⲛⲉⲣⲯⲁⲗⲓⲛ: ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ ϫⲉ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
     "translations": {
       "english": "Therefore we are wealthy, with perfect gifts, and with faith we sing, saying “Alleluia.”"
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲉⲑⲃⲉ",
+        "start": 103.92,
+        "end": 104.85
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 104.85,
+        "end": 105.54
+      },
+      {
+        "text": "ⲧⲉⲛⲟⲓ",
+        "start": 105.54,
+        "end": 106.7
+      },
+      {
+        "text": "ⲛ̀ⲣⲁⲙⲁⲟ̀:",
+        "start": 106.7,
+        "end": 108.78
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 108.78,
+        "end": 109.48
+      },
+      {
+        "text": "ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ",
+        "start": 109.48,
+        "end": 111.56
+      },
+      {
+        "text": "ⲉⲧϫⲏⲕ",
+        "start": 111.56,
+        "end": 112.72
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ:",
+        "start": 112.72,
+        "end": 114.11
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 114.11,
+        "end": 114.81
+      },
+      {
+        "text": "ⲟⲩⲛⲁϩϯ",
+        "start": 114.81,
+        "end": 116.2
+      },
+      {
+        "text": "ⲧⲉⲛⲉⲣⲯⲁⲗⲓⲛ:",
+        "start": 116.2,
+        "end": 118.75
+      },
+      {
+        "text": "ⲉⲛϫⲱ",
+        "start": 118.75,
+        "end": 119.67
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲥ",
+        "start": 119.67,
+        "end": 120.83
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 120.83,
+        "end": 121.29
+      },
+      {
+        "text": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+        "start": 121.29,
+        "end": 123.61
+      }
+    ]
   },
   {
     "start": 123.61,
     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅): Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
     "translations": {
       "english": "Alleluia (4), Jesus Christ the King of glory, has risen from the dead."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+        "start": 123.61,
+        "end": 126.03
+      },
+      {
+        "text": "(ⲇ̅):",
+        "start": 126.03,
+        "end": 132.43
+      },
+      {
+        "text": "Ⲓⲏⲥⲟⲩⲥ",
+        "start": 132.43,
+        "end": 133.15
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 133.15,
+        "end": 134.28
+      },
+      {
+        "text": "Ⲡ̀ⲟⲩⲣⲟ",
+        "start": 134.28,
+        "end": 134.89
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 134.89,
+        "end": 135.54
+      },
+      {
+        "text": "ⲡ̀ⲱ̀ⲟⲩ:",
+        "start": 135.54,
+        "end": 137.29
+      },
+      {
+        "text": "ⲁϥⲧⲱⲛϥ",
+        "start": 137.29,
+        "end": 138.43
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 138.43,
+        "end": 139.19
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 139.19,
+        "end": 139.99
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+        "start": 139.99,
+        "end": 142.68
+      }
+    ]
   },
   {
     "start": 142.68,
     "coptic": "Ⲫⲁⲓ ⲉ̀ⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛⲁϥ: ⲛⲉⲙ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ: ⲓⲥϫⲉⲛ ϯⲛⲟⲩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ.",
     "translations": {
       "english": "This is He who is worthy of glory, with His good Father, and the Holy Spirit, both now and forever."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲫⲁⲓ",
+        "start": 142.68,
+        "end": 143.41
+      },
+      {
+        "text": "ⲉ̀ⲣⲉ",
+        "start": 143.41,
+        "end": 144.37
+      },
+      {
+        "text": "ⲡⲓⲱ̀ⲟⲩ",
+        "start": 144.37,
+        "end": 145.82
+      },
+      {
+        "text": "ⲉⲣⲡ̀ⲣⲉⲡⲓ",
+        "start": 145.82,
+        "end": 147.76
+      },
+      {
+        "text": "ⲛⲁϥ:",
+        "start": 147.76,
+        "end": 148.73
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 148.73,
+        "end": 149.45
+      },
+      {
+        "text": "Ⲡⲉϥⲓⲱⲧ",
+        "start": 149.45,
+        "end": 150.9
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:",
+        "start": 150.9,
+        "end": 153.32
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 153.32,
+        "end": 154.05
+      },
+      {
+        "text": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
+        "start": 154.05,
+        "end": 156.23
+      },
+      {
+        "text": "Ⲉⲑⲟⲩⲁⲃ:",
+        "start": 156.23,
+        "end": 157.92
+      },
+      {
+        "text": "ⲓⲥϫⲉⲛ",
+        "start": 157.92,
+        "end": 159.13
+      },
+      {
+        "text": "ϯⲛⲟⲩ",
+        "start": 159.13,
+        "end": 160.1
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 160.1,
+        "end": 160.82
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 160.82,
+        "end": 161.31
+      },
+      {
+        "text": "ⲉ̀ⲛⲉϩ.",
+        "start": 161.31,
+        "end": 162.76
+      }
+    ]
   }
 ]
