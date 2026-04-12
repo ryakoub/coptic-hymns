@@ -1,5 +1,79 @@
 # Hymns
 
+## Tools
+
+### Import Lyrics From Tasbeha
+
+Use `tools/import_tasbeha_lyrics.py` to pull English and Coptic lyrics from a Tasbeha hymn page and write them into a hymn folder's `lyrics.json`.
+
+Import lyrics only:
+
+```bash
+python3 tools/import_tasbeha_lyrics.py "https://tasbeha.org/hymn_library/view/23" "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins"
+```
+
+Keep leading `+` markers from Tasbeha:
+
+```bash
+python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --keep-plus
+```
+
+### Auto-Generate Timings
+
+You can optionally attach timings while importing by passing the hymn audio file.
+
+Available timing modes:
+
+- `verse`: sets a `start` time for each lyric line
+- `word`: adds a `words` array split by coptic word
+- `auto`: chooses verse or word based on hymn style and text density
+
+Import lyrics and detect verse timings:
+
+```bash
+python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --sync-audio "TARGET_FOLDER/audio.mp3" --sync-style verse
+```
+
+Import lyrics and detect word timings:
+
+```bash
+python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --sync-audio "TARGET_FOLDER/audio.mp3" --sync-style word
+```
+
+Import lyrics and sync with auto style hints:
+
+```bash
+python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --sync-audio "TARGET_FOLDER/audio.mp3" --sync-style auto --hymn-style melismatic
+```
+
+Use known verse starts (anchors) for stronger accuracy:
+
+```bash
+python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --sync-audio "TARGET_FOLDER/audio.mp3" --sync-style verse --anchors "TARGET_FOLDER/timing-anchors.json"
+```
+
+One-command wrapper (import and sync):
+
+```bash
+python3 tools/import_and_sync_tasbeha.py "URL" "TARGET_FOLDER" "TARGET_FOLDER/audio.mp3" --split auto --hymn-style melismatic
+```
+
+Melisma-aware word timing (opt-in, does not change default behavior):
+
+```bash
+python3 tools/import_and_sync_tasbeha.py "URL" "TARGET_FOLDER" "TARGET_FOLDER/audio.mp3" --split word --hymn-style melismatic --anchors "TARGET_FOLDER/timing-anchors.json" --melisma-auto
+```
+
+Use manual melisma hints to boost specific words:
+
+```bash
+python3 tools/import_and_sync_tasbeha.py "URL" "TARGET_FOLDER" "TARGET_FOLDER/audio.mp3" --split word --hymn-style melismatic --anchors "TARGET_FOLDER/timing-anchors.json" --melisma-auto --melisma-hints "TARGET_FOLDER/melisma-hints.json"
+```
+
+You can start from `melisma-hints.template.json`, save it as `melisma-hints.json`, then tune word boosts by line.
+
+The new sync path uses `ffmpeg` + `ffprobe` and does not depend on `detect_pauses.py`.
+
 ## KG
 
 ### Level-1
