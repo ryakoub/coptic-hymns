@@ -1,0 +1,27 @@
+[
+  {
+    "line": 1,
+    "boost": 1.8,
+    "words": [
+      10
+    ],
+    "note": "Boost final word if it is held long."
+  },
+  {
+    "line": 2,
+    "boosts": {
+      "1": 1.4,
+      "12": 2.0
+    },
+    "note": "Use per-word custom multipliers when one boost value is not enough."
+  },
+  {
+    "line": 3,
+    "boost": 1.6,
+    "words": [
+      4,
+      9
+    ],
+    "note": "Multiple melismatic words in the same verse."
+  }
+]

@@ -1,9 +1,737 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 6.43,
+    "coptic": "Ⲱⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ̀: ϯⲥⲁⲃⲉ ⲟⲩⲟϩ ⲛ̀ⲥⲉⲙⲛⲉ: ϯⲙⲁϩⲥ̀ⲛⲟⲩϯ ⲛ̀ⲥ̀ⲕⲏⲛⲏ: ⲡⲓⲁ̀ϩⲟ ⲙ̀Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ.",
+    "translations": {
+      "english": "Blessed are you O Mary, the prudent and the chaste, the second tabernacle, the treasure of the Spirit."
+    },
+    "words": [
+      {
+        "text": "Ⲱⲟⲩⲛⲓⲁϯ",
+        "start": 6.43,
+        "end": 7.6
+      },
+      {
+        "text": "ⲛ̀ⲑⲟ",
+        "start": 7.6,
+        "end": 8.3
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ̀:",
+        "start": 8.3,
+        "end": 9.85
+      },
+      {
+        "text": "ϯⲥⲁⲃⲉ",
+        "start": 9.85,
+        "end": 10.68
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 10.68,
+        "end": 11.31
+      },
+      {
+        "text": "ⲛ̀ⲥⲉⲙⲛⲉ:",
+        "start": 11.31,
+        "end": 13.2
+      },
+      {
+        "text": "ϯⲙⲁϩⲥ̀ⲛⲟⲩϯ",
+        "start": 13.2,
+        "end": 15.25
+      },
+      {
+        "text": "ⲛ̀ⲥ̀ⲕⲏⲛⲏ:",
+        "start": 15.25,
+        "end": 17.39
+      },
+      {
+        "text": "ⲡⲓⲁ̀ϩⲟ",
+        "start": 17.39,
+        "end": 18.45
+      },
+      {
+        "text": "ⲙ̀Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ.",
+        "start": 18.45,
+        "end": 22.99
+      }
+    ]
+  },
+  {
+    "start": 22.99,
+    "coptic": "Ϯϭⲣⲟⲙⲡϣⲁⲗ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ: ⲑⲏⲉⲧⲁⲥⲙⲟⲩϯ ϧⲉⲛ ⲡⲉⲛⲕⲁϩⲓ: ⲟⲩⲟϩ ⲁⲥⲫⲓⲣⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲛ̀ⲟⲩⲕⲁⲣⲡⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ.",
+    "translations": {
+      "english": "The pure turtle-dove, that declared in our land, and brought unto us, the Fruit of the Spirit."
+    },
+    "words": [
+      {
+        "text": "Ϯϭⲣⲟⲙⲡϣⲁⲗ",
+        "start": 22.99,
+        "end": 24.62
+      },
+      {
+        "text": "ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ:",
+        "start": 24.62,
+        "end": 27.12
+      },
+      {
+        "text": "ⲑⲏⲉⲧⲁⲥⲙⲟⲩϯ",
+        "start": 27.12,
+        "end": 29.05
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 29.05,
+        "end": 29.54
+      },
+      {
+        "text": "ⲡⲉⲛⲕⲁϩⲓ:",
+        "start": 29.54,
+        "end": 31.36
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 31.36,
+        "end": 32.02
+      },
+      {
+        "text": "ⲁⲥⲫⲓⲣⲓ",
+        "start": 32.02,
+        "end": 33.0
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 33.0,
+        "end": 33.49
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ:",
+        "start": 33.49,
+        "end": 34.89
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲕⲁⲣⲡⲟⲥ",
+        "start": 34.89,
+        "end": 36.93
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 36.93,
+        "end": 37.68
+      },
+      {
+        "text": "ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ.",
+        "start": 37.68,
+        "end": 40.87
+      }
+    ]
+  },
+  {
+    "start": 40.87,
+    "coptic": "ⲠⲓⲠ̀ⲛⲉⲩⲙⲁ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ: ⲫⲏⲉ̀ⲧⲁϥⲓ̀ ⲉϫⲉⲛ ⲡⲉϢⲏⲣⲓ: ϩⲓϫⲉⲛ ⲛⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲡⲓⲒⲟⲣⲇⲁⲛⲏⲥ: ⲕⲁⲧⲁ ⲡ̀ⲧⲩⲡⲟⲥ ⲛ̀Ⲛⲱⲉ̀.",
+    "translations": {
+      "english": "The Spirit of comfort, that came upon your Son, in the waters of the Jordan, as in the type of Noah."
+    },
+    "words": [
+      {
+        "text": "ⲠⲓⲠ̀ⲛⲉⲩⲙⲁ",
+        "start": 40.87,
+        "end": 42.61
+      },
+      {
+        "text": "ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ:",
+        "start": 42.61,
+        "end": 45.69
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁϥⲓ̀",
+        "start": 45.69,
+        "end": 47.43
+      },
+      {
+        "text": "ⲉϫⲉⲛ",
+        "start": 47.43,
+        "end": 48.05
+      },
+      {
+        "text": "ⲡⲉϢⲏⲣⲓ:",
+        "start": 48.05,
+        "end": 49.44
+      },
+      {
+        "text": "ϩⲓϫⲉⲛ",
+        "start": 49.44,
+        "end": 50.22
+      },
+      {
+        "text": "ⲛⲓⲙⲱⲟⲩ",
+        "start": 50.22,
+        "end": 51.22
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 51.22,
+        "end": 51.93
+      },
+      {
+        "text": "ⲡⲓⲒⲟⲣⲇⲁⲛⲏⲥ:",
+        "start": 51.93,
+        "end": 54.29
+      },
+      {
+        "text": "ⲕⲁⲧⲁ",
+        "start": 54.29,
+        "end": 54.91
+      },
+      {
+        "text": "ⲡ̀ⲧⲩⲡⲟⲥ",
+        "start": 54.91,
+        "end": 56.15
+      },
+      {
+        "text": "ⲛ̀Ⲛⲱⲉ̀.",
+        "start": 56.15,
+        "end": 58.23
+      }
+    ]
+  },
+  {
+    "start": 58.23,
+    "coptic": "Ϯϭⲣⲟⲙⲡⲓ ⲅⲁⲣ ⲉⲧⲉ ⲙ̀ⲙⲁⲩ: ⲛ̀ⲑⲟⲥ ⲁⲥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲛ: ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ Ⲫϯ: ⲑⲏⲉⲧⲁⲥϣⲱⲡⲓ ϣⲁ ⲛⲓⲣⲱⲙⲓ.",
+    "translations": {
+      "english": "For that dove, has declared unto us, the peace of God, toward mankind."
+    },
+    "words": [
+      {
+        "text": "Ϯϭⲣⲟⲙⲡⲓ",
+        "start": 58.23,
+        "end": 59.55
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 59.55,
+        "end": 60.12
+      },
+      {
+        "text": "ⲉⲧⲉ",
+        "start": 60.12,
+        "end": 60.68
+      },
+      {
+        "text": "ⲙ̀ⲙⲁⲩ:",
+        "start": 60.68,
+        "end": 62.29
+      },
+      {
+        "text": "ⲛ̀ⲑⲟⲥ",
+        "start": 62.29,
+        "end": 63.36
+      },
+      {
+        "text": "ⲁⲥϩⲓϣⲉⲛⲛⲟⲩϥⲓ",
+        "start": 63.36,
+        "end": 65.86
+      },
+      {
+        "text": "ⲛⲁⲛ:",
+        "start": 65.86,
+        "end": 66.83
+      },
+      {
+        "text": "ⲛ̀ϯϩⲓⲣⲏⲛⲏ",
+        "start": 66.83,
+        "end": 69.06
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 69.06,
+        "end": 69.92
+      },
+      {
+        "text": "Ⲫϯ:",
+        "start": 69.92,
+        "end": 70.68
+      },
+      {
+        "text": "ⲑⲏⲉⲧⲁⲥϣⲱⲡⲓ",
+        "start": 70.68,
+        "end": 72.9
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 72.9,
+        "end": 73.27
+      },
+      {
+        "text": "ⲛⲓⲣⲱⲙⲓ.",
+        "start": 73.27,
+        "end": 75.61
+      }
+    ]
+  },
+  {
+    "start": 75.61,
+    "coptic": "Ⲛ̀ⲑⲟ ϩⲱⲓ ⲱ̀ ⲧⲉⲛϩⲉⲗⲡⲓⲥ: ϯϭⲣⲟⲙⲡ̀ϣⲁⲗ ⲛ̀ⲛⲟⲏ̀ⲧⲉ: ⲁⲣⲉⲓ̀ⲛⲓ ⲙ̀ⲡⲓⲛⲁⲓ ⲛⲁⲛ: ⲁⲣⲉϥⲁⲓ ϧⲁⲣⲟϥ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ.",
+    "translations": {
+      "english": "Likewise you O our hope, the rational turtle-dove, have brought mercy unto us, and carried Him in your womb."
+    },
+    "words": [
+      {
+        "text": "Ⲛ̀ⲑⲟ",
+        "start": 75.61,
+        "end": 76.42
+      },
+      {
+        "text": "ϩⲱⲓ",
+        "start": 76.42,
+        "end": 76.99
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 76.99,
+        "end": 77.41
+      },
+      {
+        "text": "ⲧⲉⲛϩⲉⲗⲡⲓⲥ:",
+        "start": 77.41,
+        "end": 79.87
+      },
+      {
+        "text": "ϯϭⲣⲟⲙⲡ̀ϣⲁⲗ",
+        "start": 79.87,
+        "end": 82.19
+      },
+      {
+        "text": "ⲛ̀ⲛⲟⲏ̀ⲧⲉ:",
+        "start": 82.19,
+        "end": 84.62
+      },
+      {
+        "text": "ⲁⲣⲉⲓ̀ⲛⲓ",
+        "start": 84.62,
+        "end": 86.04
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲛⲁⲓ",
+        "start": 86.04,
+        "end": 87.45
+      },
+      {
+        "text": "ⲛⲁⲛ:",
+        "start": 87.45,
+        "end": 88.36
+      },
+      {
+        "text": "ⲁⲣⲉϥⲁⲓ",
+        "start": 88.36,
+        "end": 89.42
+      },
+      {
+        "text": "ϧⲁⲣⲟϥ",
+        "start": 89.42,
+        "end": 90.3
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 90.3,
+        "end": 90.83
+      },
+      {
+        "text": "ⲧⲉⲛⲉϫⲓ.",
+        "start": 90.83,
+        "end": 92.94
+      }
+    ]
+  },
+  {
+    "start": 92.94,
+    "coptic": "Ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏ̅ⲥ̅: ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ: ⲁⲩⲙⲁⲥϥ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ: ⲁϥⲉⲣ ⲡⲉⲛϫⲉⲛⲟⲥ ⲛ̀ⲣⲉⲙϩⲉ.",
+    "translations": {
+      "english": "Who is Jesus our Lord, the only-begotten of the Father, He was born of you unto us, and set free our race."
+    },
+    "words": [
+      {
+        "text": "Ⲉⲧⲉ",
+        "start": 92.94,
+        "end": 93.49
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 93.49,
+        "end": 94.05
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 94.05,
+        "end": 94.42
+      },
+      {
+        "text": "Ⲓⲏ̅ⲥ̅:",
+        "start": 94.42,
+        "end": 95.99
+      },
+      {
+        "text": "ⲡⲓⲙⲓⲥⲓ",
+        "start": 95.99,
+        "end": 97.09
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗϧⲉⲛ",
+        "start": 97.09,
+        "end": 98.93
+      },
+      {
+        "text": "Ⲫ̀ⲓⲱⲧ:",
+        "start": 98.93,
+        "end": 100.58
+      },
+      {
+        "text": "ⲁⲩⲙⲁⲥϥ",
+        "start": 100.58,
+        "end": 101.69
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 101.69,
+        "end": 102.24
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 102.24,
+        "end": 103.29
+      },
+      {
+        "text": "ⲛ̀ϧⲏϯ:",
+        "start": 103.29,
+        "end": 104.94
+      },
+      {
+        "text": "ⲁϥⲉⲣ",
+        "start": 104.94,
+        "end": 105.68
+      },
+      {
+        "text": "ⲡⲉⲛϫⲉⲛⲟⲥ",
+        "start": 105.68,
+        "end": 107.31
+      },
+      {
+        "text": "ⲛ̀ⲣⲉⲙϩⲉ.",
+        "start": 107.31,
+        "end": 110.18
+      }
+    ]
+  },
+  {
+    "start": 110.18,
+    "coptic": "Ⲫⲁⲓ ⲅⲁⲣ ⲙⲁⲣⲉⲛⲧⲁⲟⲩⲟϥ: ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲛϩⲏⲧ ⲛ̀ϣⲟⲣⲡ: ⲙⲉⲛⲉⲛⲥⲱⲥ ⲟⲛ ϧⲉⲛ ⲡⲉⲛⲕⲉⲗⲁⲥ: ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ.",
+    "translations": {
+      "english": "Wherefore let us declare, first with our hearts, and then with our tongues also, proclaiming and saying."
+    },
+    "words": [
+      {
+        "text": "Ⲫⲁⲓ",
+        "start": 110.18,
+        "end": 110.67
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 110.67,
+        "end": 111.17
+      },
+      {
+        "text": "ⲙⲁⲣⲉⲛⲧⲁⲟⲩⲟϥ:",
+        "start": 111.17,
+        "end": 113.91
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗϧⲉⲛ",
+        "start": 113.91,
+        "end": 115.55
+      },
+      {
+        "text": "ⲡⲉⲛϩⲏⲧ",
+        "start": 115.55,
+        "end": 116.54
+      },
+      {
+        "text": "ⲛ̀ϣⲟⲣⲡ:",
+        "start": 116.54,
+        "end": 118.18
+      },
+      {
+        "text": "ⲙⲉⲛⲉⲛⲥⲱⲥ",
+        "start": 118.18,
+        "end": 119.73
+      },
+      {
+        "text": "ⲟⲛ",
+        "start": 119.73,
+        "end": 120.06
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 120.06,
+        "end": 120.55
+      },
+      {
+        "text": "ⲡⲉⲛⲕⲉⲗⲁⲥ:",
+        "start": 120.55,
+        "end": 122.61
+      },
+      {
+        "text": "ⲉⲛⲱϣ",
+        "start": 122.61,
+        "end": 123.31
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 123.31,
+        "end": 124.25
+      },
+      {
+        "text": "ⲉⲛϫⲱ",
+        "start": 124.25,
+        "end": 124.96
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲥ.",
+        "start": 124.96,
+        "end": 126.78
+      }
+    ]
+  },
+  {
+    "start": 126.78,
+    "coptic": "Ϫⲉ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲙⲁⲑⲁⲙⲓⲟ̀ ⲛⲁⲕ ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧⲉⲛ: ⲛ̀ⲟⲩⲉ̀ⲣⲫⲉⲓ ⲛ̀ⲧⲉ ⲠⲉⲕⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: ⲉⲩϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ̀ ⲛⲁⲕ.",
+    "translations": {
+      "english": "O our Lord Jesus Christ, make in us a sanctuary, for Your Holy Spirit, ever-glorifying You."
+    },
+    "words": [
+      {
+        "text": "Ϫⲉ",
+        "start": 126.78,
+        "end": 127.06
+      },
+      {
+        "text": "ⲡⲉⲛⲟ̅ⲥ̅",
+        "start": 127.06,
+        "end": 128.17
+      },
+      {
+        "text": "Ⲓⲏ̅ⲥ̅",
+        "start": 128.17,
+        "end": 128.97
+      },
+      {
+        "text": "Ⲡⲭ̅ⲥ̅:",
+        "start": 128.97,
+        "end": 130.16
+      },
+      {
+        "text": "ⲙⲁⲑⲁⲙⲓⲟ̀",
+        "start": 130.16,
+        "end": 131.55
+      },
+      {
+        "text": "ⲛⲁⲕ",
+        "start": 131.55,
+        "end": 131.96
+      },
+      {
+        "text": "ⲛ̀ϧ̀ⲣⲏⲓ",
+        "start": 131.96,
+        "end": 133.08
+      },
+      {
+        "text": "ⲛ̀ϧⲏⲧⲉⲛ:",
+        "start": 133.08,
+        "end": 134.78
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲉ̀ⲣⲫⲉⲓ",
+        "start": 134.78,
+        "end": 136.52
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 136.52,
+        "end": 137.15
+      },
+      {
+        "text": "ⲠⲉⲕⲠ̀ⲛⲉⲩⲙⲁ",
+        "start": 137.15,
+        "end": 138.89
+      },
+      {
+        "text": "ⲉ̅ⲑ̅ⲩ̅:",
+        "start": 138.89,
+        "end": 140.28
+      },
+      {
+        "text": "ⲉⲩϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ̀",
+        "start": 140.28,
+        "end": 142.66
+      },
+      {
+        "text": "ⲛⲁⲕ.",
+        "start": 142.66,
+        "end": 143.61
+      }
+    ]
+  },
+  {
+    "start": 143.61,
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+    "translations": {
+      "english": "Hail to you O Virgin, the very and true queen, hail to the pride of our race, who gave birth to Emmanuel."
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ",
+        "start": 143.61,
+        "end": 144.18
+      },
+      {
+        "text": "ⲛⲉ",
+        "start": 144.18,
+        "end": 144.47
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 144.47,
+        "end": 144.82
+      },
+      {
+        "text": "Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:",
+        "start": 144.82,
+        "end": 146.81
+      },
+      {
+        "text": "ϯⲟⲩⲣⲱ",
+        "start": 146.81,
+        "end": 147.58
+      },
+      {
+        "text": "ⲙ̀ⲙⲏⲓ",
+        "start": 147.58,
+        "end": 148.4
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ:",
+        "start": 148.4,
+        "end": 150.81
+      },
+      {
+        "text": "ⲭⲉⲣⲉ",
+        "start": 150.81,
+        "end": 151.38
+      },
+      {
+        "text": "ⲡ̀ϣⲟⲩϣⲟⲩ",
+        "start": 151.38,
+        "end": 152.81
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 152.81,
+        "end": 153.47
+      },
+      {
+        "text": "ⲡⲉⲛⲅⲉⲛⲟⲥ:",
+        "start": 153.47,
+        "end": 155.26
+      },
+      {
+        "text": "ⲁ̀ⲣⲉϫ̀ⲫⲟ",
+        "start": 155.26,
+        "end": 156.69
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 156.69,
+        "end": 157.12
+      },
+      {
+        "text": "ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+        "start": 157.12,
+        "end": 160.47
+      }
+    ]
+  },
+  {
+    "start": 160.47,
+    "coptic": "Ⲧⲉⲛϯϩⲟ ⲁⲣⲉⲡⲉⲛⲙⲉⲩⲓ: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲁⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "We ask you to remember us, O our trusted advocate, before our Lord Jesus Christ, that He may forgive us our sins."
+    },
+    "words": [
+      {
+        "text": "Ⲧⲉⲛϯϩⲟ",
+        "start": 160.47,
+        "end": 161.53
+      },
+      {
+        "text": "ⲁⲣⲉⲡⲉⲛⲙⲉⲩⲓ:",
+        "start": 161.53,
+        "end": 164.04
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 164.04,
+        "end": 164.44
+      },
+      {
+        "text": "ϯⲡ̀ⲣⲟⲥⲁⲧⲁⲧⲏⲥ",
+        "start": 164.44,
+        "end": 167.05
+      },
+      {
+        "text": "ⲉ̀ⲧⲉⲛϩⲟⲧ:",
+        "start": 167.05,
+        "end": 169.31
+      },
+      {
+        "text": "ⲛⲁϩⲣⲉⲛ",
+        "start": 169.31,
+        "end": 170.3
+      },
+      {
+        "text": "ⲡⲉⲛⲟ̅ⲥ̅",
+        "start": 170.3,
+        "end": 171.62
+      },
+      {
+        "text": "Ⲓⲏ̅ⲥ̅",
+        "start": 171.62,
+        "end": 172.56
+      },
+      {
+        "text": "Ⲡⲭ̅ⲥ̅:",
+        "start": 172.56,
+        "end": 173.96
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥⲭⲁ",
+        "start": 173.96,
+        "end": 175.28
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ",
+        "start": 175.28,
+        "end": 176.43
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 176.43,
+        "end": 176.93
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ.",
+        "start": 176.93,
+        "end": 178.75
+      }
+    ]
+  }
 ]
