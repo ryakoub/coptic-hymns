@@ -1,9 +1,63 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 2.5,
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫϯ ⲡⲓⲖⲟⲅⲟⲥ.",
+    "translations": {
+      "english": "Hail to you O Mary, the beautiful dove, who gave birth to, God the Word."
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ",
+        "start": 2.5,
+        "end": 5.21
+      },
+      {
+        "text": "ⲛⲉ",
+        "start": 5.21,
+        "end": 6.10
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ:",
+        "start": 6.10,
+        "end": 20.07
+      },
+      {
+        "text": "ϯϭⲣⲟⲙⲡⲓ",
+        "start": 20.07,
+         "end": 33.92
+      },
+      {
+        "text": "ⲉⲑⲛⲉⲥⲱⲥ:",
+        "start": 33.92,
+        "end": 45.15
+      },
+      {
+        "text": "ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ",
+        "start": 45.15,
+        "end": 52.74
+      },
+      {
+        "text": "ⲛⲁⲛ:",
+        "start": 52.74,
+        "end": 62.04
+      },
+      {
+        "text": "ⲙ̀Ⲫϯ",
+        "start": 62.04,
+        "end": 76.16
+      },
+      {
+        "text": "ⲡⲓⲖⲟⲅⲟⲥ.",
+        "start": 76.16,
+        "end": 86.25
+      }
+    ]
+  },
+  {
+    "start": 86.26,
+    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ...",
+    "translations": {
+      "english": "Blessed ..."
+    }
+  }
 ]
