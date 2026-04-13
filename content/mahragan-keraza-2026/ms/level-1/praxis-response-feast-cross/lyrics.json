@@ -1,9 +1,66 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 3.5,
+    "coptic": "Ⲭⲉⲣⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲫⲏⲉ̀ⲧⲁⲩⲉϣ Ⲡⲁϭⲟⲓⲥ ̀ⲉ̀ⲣⲟϥ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "Hail to the Cross, which my Lord was crucified upon, in order to save us, from our sins."
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ",
+        "start": 3.5,
+        "end": 6.06
+      },
+      {
+        "text": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ:",
+        "start": 6.06,
+        "end": 18.05
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁⲩⲉϣ",
+        "start": 18.05,
+        "end": 32.31
+      },
+      {
+        "text": "Ⲡⲁϭⲟⲓⲥ",
+        "start": 32.31,
+        "end": 40.85
+      },
+      {
+        "text": "̀ⲉ̀ⲣⲟϥ:",
+        "start": 40.85,
+        "end": 44.36
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 44.36,
+        "end": 45.02
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥⲥⲱϯ",
+        "start": 45.02,
+        "end": 50.94
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ:",
+        "start": 50.94,
+        "end": 61.35
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 61.35,
+        "end": 73.98
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 73.98,
+        "end": 75.15
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 75.15,
+        "end": 104.0
+      }
+    ]
   }
 ]

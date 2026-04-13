@@ -157,10 +157,10 @@ This sets each word `start` to your provided values, sets each word `end` to the
 
 ### Level-1
 - [X] Refrain of Third Hour, Pentecost
-- [ ] Praxis Response, Feast of the Cross
+- [X] Praxis Response, Feast of the Cross
 - [X] The Hymn of the Blessing
-- [ ] Lobsh of First Hoos
-- [ ] Christ Is Risen
+- [X] Lobsh of First Hoos
+- [X] Christ Is Risen
 
 ### Level-2
 - [ ] Paralex, Shere Ne Maria
