@@ -136,7 +136,7 @@ This sets each word `start` to your provided values, sets each word `end` to the
 - [X] The Second Doxology of the Apostles
 - [X] Psalm 150, 4th Hoos
 - [ ] Paralex of Resurrection
-- [ ] Distribution Refrain for Resurrection
+- [X] Distribution Refrain for Resurrection
 
 ## GRADES-5-6
 
