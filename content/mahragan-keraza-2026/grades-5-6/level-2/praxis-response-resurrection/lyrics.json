@@ -1,9 +1,16 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 4.03,
+    "coptic": "Ⲭⲉⲣⲉ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ: ⲉ̀ⲧⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
+    "translations": {
+      "english": "Hail to His Resurrection, when He rose from the dead, that He may save us, from our sins."
+    }
+  },
+  {
+    "start": 102.0,
+    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ...",
+    "translations": {
+      "english": "Blessed ..."
+    }
+  }
 ]
