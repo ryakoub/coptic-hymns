@@ -1,9 +1,44 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 5.16,
+    "coptic": "Ⲕⲉ ⲙⲉⲧⲁ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ.",
+    "translations": {
+      "english": "And with your spirit."
+    }
+  },
+  {
+    "start": 21.19,
+    "coptic": "Ⲉ̀ⲭⲟⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ.",
+    "translations": {
+      "english": "We have them with the Lord."
+    }
+  },
+  {
+    "start": 35.99,
+    "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ.",
+    "translations": {
+      "english": "It is meet and right."
+    }
+  },
+  {
+    "start": 58.9,
+    "coptic": "Ⲕⲉ ⲙⲉⲧⲁ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ.",
+    "translations": {
+      "english": "And with your spirit."
+    }
+  },
+  {
+    "start": 83.42,
+    "coptic": "Ⲉ̀ⲭⲟⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ.",
+    "translations": {
+      "english": "We have them with the Lord."
+    }
+  },
+  {
+    "start": 106.64,
+    "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ.",
+    "translations": {
+      "english": "It is meet and right."
+    }
+  }
 ]
