@@ -156,7 +156,7 @@ This sets each word `start` to your provided values, sets each word `end` to the
 ## MS
 
 ### Level-1
-- [ ] Refrain of Third Hour, Pentecost
+- [X] Refrain of Third Hour, Pentecost
 - [ ] Praxis Response, Feast of the Cross
 - [X] The Hymn of the Blessing
 - [ ] Lobsh of First Hoos

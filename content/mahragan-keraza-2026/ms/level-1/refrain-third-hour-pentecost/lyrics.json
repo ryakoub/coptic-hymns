@@ -1,9 +1,131 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 5.18,
+    "coptic": "Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ Ⲡ̀ϭⲟⲓⲥ ⲫⲏⲉ̀ⲧⲁⲕⲟⲩⲟⲣⲡϥ ⲉ̀ϫⲉⲛ ⲛⲉⲕⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ: ϧⲉⲛ ϯⲁϫⲡ ϣⲟⲙϯ: ⲫⲁⲓ ⲙ̀ⲡⲉⲣⲟⲗϥ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲛ ⲱ̀ Ⲡⲓⲁ̀ⲅⲁⲑⲟⲥ ⲁⲗⲗⲁ ⲁ̀ⲣⲓⲧϥ ⲙ̀ⲃⲉⲣⲓ ϧⲉⲛ ⲛⲏⲉⲧⲥⲁϧⲟⲩⲛ ⲙ̀ⲙⲟⲛ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "Your Holy Spirit, O Lord, whom You had sent forth upon Your holy Disciples and honorable Apostles at the third hour, we ask You our good [Lord], not to take Him away from us, but rather to renew Him within us!"
+    },
+    "words": [
+      {
+        "text": "Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ",
+        "start": 5.18,
+        "end": 7.99
+      },
+      {
+        "text": "Ⲉⲑⲟⲩⲁⲃ",
+        "start": 7.99,
+        "end": 9.47
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 9.47,
+        "end": 12.05
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁⲕⲟⲩⲟⲣⲡϥ",
+        "start": 12.05,
+        "end": 15.41
+      },
+      {
+        "text": "ⲉ̀ϫⲉⲛ",
+        "start": 15.41,
+        "end": 16.67
+      },
+      {
+        "text": "ⲛⲉⲕⲁ̀ⲅⲓⲟⲥ",
+        "start": 16.67,
+        "end": 20.27
+      },
+      {
+        "text": "ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ:",
+        "start": 20.27,
+        "end": 23.75
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 23.75,
+        "end": 25.68
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ",
+        "start": 25.68,
+        "end": 28.02
+      },
+      {
+        "text": "ⲉⲧⲧⲁⲓⲏⲟⲩⲧ:",
+        "start": 28.02,
+        "end": 30.84
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 30.84,
+        "end": 31.61
+      },
+      {
+        "text": "ϯⲁϫⲡ",
+        "start": 31.61,
+        "end": 33.51
+      },
+      {
+        "text": "ϣⲟⲙϯ:",
+        "start": 33.51,
+        "end": 39.68
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 39.68,
+        "end": 41.34
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲣⲟⲗϥ",
+        "start": 41.34,
+        "end": 43.46
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 43.46,
+        "end": 45.27
+      },
+      {
+        "text": "ϩⲁⲣⲟⲛ",
+        "start": 45.27,
+        "end": 47.45
+      },
+      {
+        "text": "ⲱ̀ Ⲡⲓⲁ̀ⲅⲁⲑⲟⲥ",
+        "start": 47.45,
+        "end": 50.78
+      },
+      {
+        "text": "ⲁⲗⲗⲁ",
+        "start": 50.78,
+        "end": 52.12
+      },
+      {
+        "text": "ⲁ̀ⲣⲓⲧϥ",
+        "start": 52.12,
+        "end": 53.75
+      },
+      {
+        "text": "ⲙ̀ⲃⲉⲣⲓ",
+        "start": 53.75,
+        "end": 55.63
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 55.63,
+        "end": 56.36
+      },
+      {
+        "text": "ⲛⲏⲉⲧⲥⲁϧⲟⲩⲛ",
+        "start": 56.36,
+        "end": 59.93
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ.",
+        "start": 59.93,
+        "end": 80.28
+      }
+    ]
   }
 ]
