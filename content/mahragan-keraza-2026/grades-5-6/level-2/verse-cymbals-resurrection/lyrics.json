@@ -1,9 +1,51 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 6.1,
+    "coptic": "Ⲁ̀ Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
+    "translations": {
+      "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed."
+    }
+  },
+  {
+    "start": 42.8,
+    "coptic": "Ⲭⲉⲣⲉ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ: ⲉ̀ⲧⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
+    "translations": {
+      "english": "Hail to His Resurrection, when He rose from the dead, that He may save us, from our sins."
+    }
+  },
+  {
+    "start": 79.15,
+    "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ: ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ: Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ.",
+    "translations": {
+      "english": "Moreover He was placed in the tomb, according to the prophetic voices, on the third day, Christ rose from the dead."
+    }
+  },
+  {
+    "start": 117.67,
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲗⲟⲅⲟⲥ.",
+    "translations": {
+      "english": "Hail to you O Mary, the beautiful dove, who gave birth to, God the Word."
+    }
+  },
+  {
+    "start": 135.71,
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ.",
+    "translations": {
+      "english": "Hail to you O Mary, a holy hail, hail to you O Mary, the Mother of the Holy One."
+    }
+  },
+  {
+    "start": 155.7,
+    "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲡⲓⲭ̀ⲣⲓⲙⲁⲛ ⲛ̀ⲟⲩⲅⲁⲓ: ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ.",
+    "translations": {
+      "english": "Hail to Michael, the great archangel, the announcer of salvation, of the Resurrection."
+    }
+  },
+  {
+    "start": 175.64,
+    "coptic": "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲛ̀ⲥⲁϥ ⲛⲉⲙ ⲫⲟⲟⲩ: ⲛ̀ⲑⲟϥ ⲛ̀ⲑⲟϥ ⲡⲉ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ: ϧⲉⲛ ⲟⲩϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛ̀ⲟⲩⲱⲧ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ.",
+    "translations": {
+      "english": "Jesus Christ the same yesterday, today and forever, in one hypostasis, we worship and glorify Him."
+    }
+  }
 ]
