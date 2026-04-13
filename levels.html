@@ -24,7 +24,9 @@
 const params = new URLSearchParams(window.location.search);
 const curriculum = params.get("curriculum");
 const group = params.get("group");
-const groupTitle = group.replace(/-/g, " ").toUpperCase();
+const groupTitle = group === "college"
+	? "COLLEGE & UP"
+	: group.replace(/-/g, " ").toUpperCase();
 document.getElementById("groupTitle").innerText = groupTitle;
 document.title = `${groupTitle} Levels | Coptic Chanter`;
 document.getElementById("level1Link").href = `hymns.html?curriculum=${curriculum}&group=${group}&level=level-1`;

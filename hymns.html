@@ -23,7 +23,9 @@ const params = new URLSearchParams(window.location.search);
 const group = params.get("group") || "grades-3-4";
 const level = params.get("level") || "level-1";
 
-const groupTitle = group.replace(/-/g, " ").toUpperCase();
+const groupTitle = group === "college"
+  ? "COLLEGE & UP"
+  : group.replace(/-/g, " ").toUpperCase();
 const levelTitle = level.replace(/-/g, " ").toUpperCase();
 document.getElementById("levelTitle").innerText = groupTitle + " - " + levelTitle;
 document.title = `${groupTitle} ${levelTitle} Hymns | Coptic Chanter`;

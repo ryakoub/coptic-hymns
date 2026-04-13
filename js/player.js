@@ -10,7 +10,9 @@ const level = params.get("level") || "level-1";
 document.getElementById("hymnListLink").href = `hymns.html?group=${group}&level=${level}`;
 
 // Show group and level subtitle
-const groupLabel = group.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+const groupLabel = group === "college" 
+  ? "COLLEGE & UP" 
+  : group.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
 const levelLabel = level.replace("level-", "Level ");
 document.getElementById("subtitle").textContent = `${groupLabel} · ${levelLabel}`;
 document.title = `${groupLabel} ${levelLabel} | Coptic Chanter`;

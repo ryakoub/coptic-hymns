@@ -181,7 +181,7 @@ This sets each word `start` to your provided values, sets each word `end` to the
 - [ ] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
 - [ ] Joyful Ⲁⲅⲓⲟⲥ, Major
 
-## COLLEGE
+## COLLEGE & UP
 
 ### Level-1
 - [ ] Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos
