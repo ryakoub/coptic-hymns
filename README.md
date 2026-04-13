@@ -107,9 +107,9 @@ This sets each word `start` to your provided values, sets each word `end` to the
 - [ ] Psalm Response, Resurrection
 
 ### Level-2
-- [ ] Ere Po Esmo (May Their Holy Blessing)
+- [X] Ere Po Esmo (May Their Holy Blessing)
 - [ ] Liturgy Gospel Response, Annual
-- [ ] Hiten for Archangel Michael, Feast of Resurrection
+- [X] Hiten for Archangel Michael, Feast of Resurrection
 
 ## GRADES-1-2
 
@@ -141,17 +141,17 @@ This sets each word `start` to your provided values, sets each word `end` to the
 ## GRADES-5-6
 
 ### Level-1
-- [ ] Verse of Cymbals for Feast of the Cross
+- [X] Verse of Cymbals for Feast of the Cross
 - [X] Doxology of St. Mary, Matins
-- [ ] Praxis Response, Annual
+- [X] Praxis Response, Annual
 - [X] Doxology of Resurrection
-- [ ] Conclusion of Midnight Praises
+- [X] Conclusion of Midnight Praises
 
 ### Level-2
-- [ ] Doxology of Heavenly Orders
-- [ ] Anaphora Responses of St. Basil and St. Gregory Liturgies
-- [ ] Verse of Cymbals for Resurrection
-- [ ] Praxis Response for Resurrection
+- [X] Doxology of Heavenly Orders
+- [X] Anaphora Responses of St. Basil and St. Gregory Liturgies
+- [X] Verse of Cymbals for Resurrection
+- [X] Praxis Response for Resurrection
 
 ## MS
 
@@ -185,12 +185,12 @@ This sets each word `start` to your provided values, sets each word `end` to the
 
 ### Level-1
 - [ ] Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos
-- [ ] Hossana Intro to Doxologies & 1st Doxology
+- [X] Hossana Intro to Doxologies & 1st Doxology
 - [ ] ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ
 - [ ] Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ
 
 ### Level-2
 - [ ] Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ
-- [ ] Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ
+- [X] Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ
 - [ ] Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ
 - [ ] Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲭ
