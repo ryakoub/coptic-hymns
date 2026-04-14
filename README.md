@@ -1,10 +1,9 @@
-# Hymns
+# Tools
+Some helpers tools to import lyrics and attempt syncing with audio.
 
-## Tools
+## Import Lyrics From Tasbeha.org
 
-### Import Lyrics From Tasbeha
-
-Use `tools/import_tasbeha_lyrics.py` to pull English and Coptic lyrics from a Tasbeha hymn page and write them into a hymn folder's `lyrics.json`.
+Use `tools/import_tasbeha_lyrics.py` to pull English and Coptic lyrics from a Tasbeha.org hymn page and write them into a hymn folder's `lyrics.json`.
 
 Import lyrics only:
 
@@ -18,11 +17,11 @@ Keep leading `+` markers from Tasbeha:
 python3 tools/import_tasbeha_lyrics.py "URL" "TARGET_FOLDER" --keep-plus
 ```
 
-### Auto-Generate Timings
+## Auto-Generate Timings
 
 You can optionally attach timings while importing by passing the hymn audio file.
 
-Recommended workflow:
+### Recommended workflow:
 
 1. Run a first import + auto sync pass.
 2. Listen and collect accurate verse start timestamps.
@@ -134,9 +133,9 @@ http://<LAN_IP>:8000/player.html?group=grades-3-4&level=level-1&hymn=pi-pnevma&s
 
 If `target` and `current` look equal but heard audio is still behind on a specific device/browser, test `syncOffsetMs` in small steps (e.g. `80`, `120`).
 
-### Seek-Friendly Audio Files
+## Seek-Friendly Audio Files
 
-For better random-seek accuracy on phones, player prefers `audio.seek.m4a` when present and falls back to `audio.mp3` automatically.
+For better random-seek accuracy on browsers, player prefers `audio.seek.m4a` when present and falls back to `audio.mp3` automatically.
 
 Companion file naming:
 
@@ -157,6 +156,9 @@ Recommended stress test pattern:
 4. Record overlay values for `target`, `landed`, `drift`, and `delta`
 
 If testing does not reflect latest code, close and reopen the phone tab after each `player.js` version bump in `player.html`.
+
+# Hymns
+These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ## KG
 
