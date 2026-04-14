@@ -1,6 +1,6 @@
 [
   {
-    "start": 0.64,
+    "start": 2.95,
     "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ: ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ: ⲟⲩⲟϩ ⲫ̀ⲛⲟⲩⲛ ⲉⲧϣⲏⲕ: ⲁϥϣⲱⲡⲓ ⲛ̀ⲟⲩⲙⲁ ⲙ̀ⲙⲟϣⲓ.",
     "translations": {
       "english": "With the split, the waters of the sea split, and the very deep, became a walkway."
@@ -8,73 +8,73 @@
     "words": [
       {
         "text": "Ϧⲉⲛ",
-        "start": 0.64,
-        "end": 2.42
+        "start": 2.95,
+        "end": 11.79
       },
       {
         "text": "ⲟⲩϣⲱⲧ",
-        "start": 2.42,
-        "end": 5.38
+        "start": 11.79,
+        "end": 21.99
       },
       {
         "text": "ⲁϥϣⲱⲧ:",
-        "start": 5.38,
-        "end": 8.93
+        "start": 21.99,
+        "end": 33.77
       },
       {
         "text": "ⲛ̀ϫⲉ",
-        "start": 8.93,
-        "end": 11.3
+        "start": 33.77,
+        "end": 41.8
       },
       {
         "text": "ⲡⲓⲙⲱⲟⲩ",
-        "start": 11.3,
-        "end": 14.85
+        "start": 41.8,
+        "end": 43.71
       },
       {
         "text": "ⲛ̀ⲧⲉ",
-        "start": 14.85,
-        "end": 17.22
+        "start": 43.71,
+        "end": 48.12
       },
       {
         "text": "ⲫ̀ⲓⲟⲙ:",
-        "start": 17.22,
-        "end": 20.77
+        "start": 48.12,
+        "end": 54.01
       },
       {
         "text": "ⲟⲩⲟϩ",
-        "start": 20.77,
-        "end": 23.14
+        "start": 54.01,
+        "end": 63.05
       },
       {
         "text": "ⲫ̀ⲛⲟⲩⲛ",
-        "start": 23.14,
-        "end": 26.69
+        "start": 63.05,
+        "end": 72.92
       },
       {
         "text": "ⲉⲧϣⲏⲕ:",
-        "start": 26.69,
-        "end": 30.24
+        "start": 72.92,
+        "end": 83.9
       },
       {
         "text": "ⲁϥϣⲱⲡⲓ",
-        "start": 30.24,
-        "end": 33.79
+        "start": 83.9,
+        "end": 92.45
       },
       {
         "text": "ⲛ̀ⲟⲩⲙⲁ",
-        "start": 33.79,
-        "end": 37.35
+        "start": 92.45,
+        "end": 95.91
       },
       {
         "text": "ⲙ̀ⲙⲟϣⲓ.",
-        "start": 37.35,
-        "end": 41.49
+        "start": 95.91,
+        "end": 96.41
       }
     ]
   },
   {
-    "start": 41.49,
+    "start": 104.36,
     "coptic": "Ⲟⲩⲕⲁϩⲓ ⲛ̀ⲁⲑⲟⲩⲱⲛϩ: ⲁ̀ⲫ̀ⲣⲏ ϣⲁⲓ ϩⲓϫⲱϥ: ⲟⲩⲙⲱⲓⲧ ⲛ̀ⲁⲧⲥⲓⲛⲓ: ⲁⲩⲙⲟϣⲓ ϩⲓⲱⲧϥ.",
     "translations": {
       "english": "A hidden earth, was shone upon by the sun, and an untrodden road, was walked upon."
@@ -82,53 +82,53 @@
     "words": [
       {
         "text": "Ⲟⲩⲕⲁϩⲓ",
-        "start": 41.49,
-        "end": 44.51
+        "start": 104.36,
+        "end": 110.68
       },
       {
         "text": "ⲛ̀ⲁⲑⲟⲩⲱⲛϩ:",
-        "start": 44.51,
-        "end": 49.54
+        "start": 110.68,
+        "end": 131.0
       },
       {
         "text": "ⲁ̀ⲫ̀ⲣⲏ",
-        "start": 49.54,
-        "end": 52.56
+        "start": 131.0,
+        "end": 140.23
       },
       {
         "text": "ϣⲁⲓ",
-        "start": 52.56,
-        "end": 54.07
+        "start": 140.23,
+        "end": 142.75
       },
       {
         "text": "ϩⲓϫⲱϥ:",
-        "start": 54.07,
-        "end": 57.09
+        "start": 142.75,
+        "end": 150.04
       },
       {
         "text": "ⲟⲩⲙⲱⲓⲧ",
-        "start": 57.09,
-        "end": 60.11
+        "start": 150.04,
+        "end": 158.89
       },
       {
         "text": "ⲛ̀ⲁⲧⲥⲓⲛⲓ:",
-        "start": 60.11,
-        "end": 64.64
+        "start": 158.89,
+        "end": 178.94
       },
       {
         "text": "ⲁⲩⲙⲟϣⲓ",
-        "start": 64.64,
-        "end": 67.66
+        "start": 178.94,
+        "end": 191.84
       },
       {
         "text": "ϩⲓⲱⲧϥ.",
-        "start": 67.66,
-        "end": 70.68
+        "start": 191.84,
+        "end": 192.34
       }
     ]
   },
   {
-    "start": 70.68,
+    "start": 195.13,
     "coptic": "Ⲟⲩⲙⲱⲟⲩ ⲉϥⲃⲏⲗ ⲉ̀ⲃⲟⲗ: ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ: ϧⲉⲛ ⲟⲩϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲙ̀ⲡⲁⲣⲁⲇⲟⲝⲟⲛ.",
     "translations": {
       "english": "The flowing water, stood still, by a miraculous, act of wonder."
@@ -136,28 +136,28 @@
     "words": [
       {
         "text": "Ⲟⲩⲙⲱⲟⲩ ⲉϥⲃⲏⲗ ⲉ̀ⲃⲟⲗ:",
-        "start": 70.68,
-        "end": 79.12
+        "start": 195.13,
+        "end": 199.02
       },
       {
         "text": "ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ:",
-        "start": 79.12,
-        "end": 85.57
+        "start": 199.02,
+        "end": 202.91
       },
       {
         "text": "ϧⲉⲛ ⲟⲩϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ:",
-        "start": 85.57,
-        "end": 94.0
+        "start": 202.91,
+        "end": 206.81
       },
       {
         "text": "ⲙ̀ⲡⲁⲣⲁⲇⲟⲝⲟⲛ.",
-        "start": 94.0,
-        "end": 99.96
+        "start": 206.81,
+        "end": 210.7
       }
     ]
   },
   {
-    "start": 99.96,
+    "start": 210.7,
     "coptic": "Ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲛⲉϥϩⲁⲣⲙⲁ: ⲁⲩⲱⲙⲥ ⲉ̀ⲡⲉⲥⲏⲧ: ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ⲁⲩⲉⲣϫⲓⲛⲓⲟⲣ ⲙ̀ⲫ̀ⲓⲟⲙ.",
     "translations": {
       "english": "Pharaoh and his chariots, were drowned, and the children of Israel, crossed the sea."
@@ -165,28 +165,28 @@
     "words": [
       {
         "text": "Ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲛⲉϥϩⲁⲣⲙⲁ:",
-        "start": 99.96,
-        "end": 108.11
+        "start": 210.7,
+        "end": 214.88
       },
       {
         "text": "ⲁⲩⲱⲙⲥ ⲉ̀ⲡⲉⲥⲏⲧ:",
-        "start": 108.11,
-        "end": 114.0
+        "start": 214.88,
+        "end": 219.06
       },
       {
         "text": "ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ:",
-        "start": 114.0,
-        "end": 121.7
+        "start": 219.06,
+        "end": 223.24
       },
       {
         "text": "ⲁⲩⲉⲣϫⲓⲛⲓⲟⲣ ⲙ̀ⲫ̀ⲓⲟⲙ.",
-        "start": 121.7,
-        "end": 129.86
+        "start": 223.24,
+        "end": 227.42
       }
     ]
   },
   {
-    "start": 129.86,
+    "start": 227.42,
     "coptic": "Ⲉ̀ⲛⲁϥϩⲱⲥ ϧⲁϫⲱⲟⲩ ⲡⲉ: ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ϣⲁ ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ: ϩⲓ ⲡ̀ϣⲁϥⲉ ⲛ̀Ⲥⲓⲛⲁ.",
     "translations": {
       "english": "And in front of them was, Moses the prophet praising, until he brought them, to the wilderness of Sinai."
@@ -194,28 +194,28 @@
     "words": [
       {
         "text": "Ⲉ̀ⲛⲁϥϩⲱⲥ ϧⲁϫⲱⲟⲩ ⲡⲉ:",
-        "start": 129.86,
-        "end": 138.73
+        "start": 227.42,
+        "end": 231.42
       },
       {
         "text": "ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:",
-        "start": 138.73,
-        "end": 150.73
+        "start": 231.42,
+        "end": 235.43
       },
       {
         "text": "ϣⲁ ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ:",
-        "start": 150.73,
-        "end": 160.65
+        "start": 235.43,
+        "end": 239.44
       },
       {
         "text": "ϩⲓ ⲡ̀ϣⲁϥⲉ ⲛ̀Ⲥⲓⲛⲁ.",
-        "start": 160.65,
-        "end": 168.48
+        "start": 239.44,
+        "end": 243.44
       }
     ]
   },
   {
-    "start": 168.48,
+    "start": 243.44,
     "coptic": "Ⲉ̀ⲛⲁϥϩⲱⲥ ⲉ̀Ⲫ̀ⲛⲟⲩϯ: ϧⲉⲛ ⲧⲁⲓϩⲱⲇⲏ ⲙ̀ⲃⲉⲣⲓ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
     "translations": {
       "english": "And they were praising God, with this new psalmody, saying \"Let us sing to the Lord, for He has triumphed gloriously.\""
@@ -223,28 +223,28 @@
     "words": [
       {
         "text": "Ⲉ̀ⲛⲁϥϩⲱⲥ ⲉ̀Ⲫ̀ⲛⲟⲩϯ:",
-        "start": 168.48,
-        "end": 177.76
+        "start": 243.44,
+        "end": 247.79
       },
       {
         "text": "ϧⲉⲛ ⲧⲁⲓϩⲱⲇⲏ ⲙ̀ⲃⲉⲣⲓ:",
-        "start": 177.76,
-        "end": 187.03
+        "start": 247.79,
+        "end": 252.13
       },
       {
         "text": "ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ:",
-        "start": 187.03,
-        "end": 197.4
+        "start": 252.13,
+        "end": 256.48
       },
       {
         "text": "ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
-        "start": 197.4,
-        "end": 209.95
+        "start": 256.48,
+        "end": 260.83
       }
     ]
   },
   {
-    "start": 209.95,
+    "start": 260.83,
     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲁⲣⲭⲏⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
       "english": "Through the prayers, of Moses the archprophet, O Lord grant us, the forgiveness of our sins."
@@ -252,28 +252,28 @@
     "words": [
       {
         "text": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ:",
-        "start": 209.95,
-        "end": 215.76
+        "start": 260.83,
+        "end": 270.23
       },
       {
         "text": "ⲛ̀ⲧⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲁⲣⲭⲏⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:",
-        "start": 215.76,
-        "end": 228.85
+        "start": 270.23,
+        "end": 280.96
       },
       {
         "text": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ:",
-        "start": 228.85,
-        "end": 238.05
+        "start": 280.96,
+        "end": 290.54
       },
       {
         "text": "ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
-        "start": 238.05,
-        "end": 249.19
+        "start": 290.54,
+        "end": 299.93
       }
     ]
   },
   {
-    "start": 249.19,
+    "start": 299.93,
     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
       "english": "Through the intercessions, of the Mother of God Saint Mary, O Lord grant us, the forgiveness of our sins."
@@ -281,28 +281,28 @@
     "words": [
       {
         "text": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:",
-        "start": 249.19,
-        "end": 257.23
+        "start": 299.93,
+        "end": 309.7
       },
       {
         "text": "ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ:",
-        "start": 257.23,
-        "end": 270.29
+        "start": 309.7,
+        "end": 320.03
       },
       {
         "text": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ:",
-        "start": 270.29,
-        "end": 279.83
+        "start": 320.03,
+        "end": 329.44
       },
       {
         "text": "ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
-        "start": 279.83,
-        "end": 291.38
+        "start": 329.44,
+        "end": 338.6
       }
     ]
   },
   {
-    "start": 291.38,
+    "start": 338.6,
     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
     "translations": {
       "english": "We worship You O Christ, with Your good Father, and the Holy Spirit, for You have (risen/come) and saved us."
@@ -310,22 +310,22 @@
     "words": [
       {
         "text": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:",
-        "start": 291.38,
-        "end": 304.49
+        "start": 338.6,
+        "end": 348.37
       },
       {
         "text": "ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:",
-        "start": 304.49,
-        "end": 314.07
+        "start": 348.37,
+        "end": 357.29
       },
       {
         "text": "ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ:",
-        "start": 314.07,
-        "end": 323.65
+        "start": 357.29,
+        "end": 367.0
       },
       {
-        "text": "ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
-        "start": 323.65,
+        "text": "ϫⲉ ⲁⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+        "start": 367.0,
         "end": 391.616
       }
     ]
