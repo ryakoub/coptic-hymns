@@ -99,6 +99,65 @@ python3 tools/apply_manual_word_starts.py "TARGET_FOLDER/lyrics.json" "TARGET_FO
 
 This sets each word `start` to your provided values, sets each word `end` to the next word start, and aligns final word ends to the next verse boundary (or audio end for the last line).
 
+### Player Sync Debug (Phone Testing)
+
+When testing sync issues on phone, use this checklist.
+
+1. Start local server in project root:
+
+```bash
+python3 -m http.server 8000
+```
+
+2. Find Mac LAN IP:
+
+```bash
+ipconfig getifaddr en0 || ipconfig getifaddr en1
+```
+
+3. Open on phone (same Wi-Fi):
+
+```text
+http://<LAN_IP>:8000/player.html?group=grades-3-4&level=level-1&hymn=pi-pnevma&syncDebug=1
+```
+
+Optional tuning flags:
+
+- `syncDebug=1`: show seek telemetry overlay
+- `seekDebounceMs=140`: ignore very fast repeated tap bursts
+- `syncOffsetMs=0`: optional highlight delay override (default is `0`)
+- Example:
+
+```text
+http://<LAN_IP>:8000/player.html?group=grades-3-4&level=level-1&hymn=pi-pnevma&syncDebug=1&seekDebounceMs=180&syncOffsetMs=250
+```
+
+If `target` and `current` look equal but heard audio is still behind on a specific device/browser, test `syncOffsetMs` in small steps (e.g. `80`, `120`).
+
+### Seek-Friendly Audio Files
+
+For better random-seek accuracy on phones, player prefers `audio.seek.m4a` when present and falls back to `audio.mp3` automatically.
+
+Companion file naming:
+
+- `audio.mp3` (existing source)
+- `audio.seek.m4a` (preferred for playback when available)
+
+Create one companion file:
+
+```bash
+ffmpeg -y -i "TARGET_FOLDER/audio.mp3" -c:a aac -b:a 128k "TARGET_FOLDER/audio.seek.m4a"
+```
+
+Recommended stress test pattern:
+
+1. Tap first word (or first verse)
+2. Tap last word (or last verse)
+3. Repeat 10-20 times quickly
+4. Record overlay values for `target`, `landed`, `drift`, and `delta`
+
+If testing does not reflect latest code, close and reopen the phone tab after each `player.js` version bump in `player.html`.
+
 ## KG
 
 ### Level-1
