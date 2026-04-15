@@ -63,6 +63,7 @@ let currentLines = [];
 let capturedTimes = [];
 let loopTargetIndex = null;
 let currentWordKey = null;
+let currentStanzaKey = null;
 let latestSeekToken = 0;
 let isSeekInFlight = false;
 let pendingSeek = null;
@@ -105,9 +106,13 @@ line.element?.classList.remove("active");
 if (Array.isArray(line.words)) {
 line.words.forEach(word => word.element?.classList.remove("active-word"));
 }
+if (Array.isArray(line.stanzas)) {
+line.stanzas.forEach(s => s.element?.classList.remove("active-stanza"));
+}
 });
 currentLineIndex = -1;
 currentWordKey = null;
+currentStanzaKey = null;
 }
 
 function syncLyricsToTime(t, lines) {
@@ -167,6 +172,37 @@ currentLines[lineIndex]?.words?.[wordIndex]?.element?.classList.add("active-word
 }
 
 currentWordKey = activeWordKey;
+}
+
+// stanza-level highlight
+let activeStanzaKey = null;
+if (activeIndex !== -1) {
+const activeLine = currentLines[activeIndex];
+if (Array.isArray(activeLine.stanzas) && activeLine.stanzas.length) {
+for (let i = 0; i < activeLine.stanzas.length; i++) {
+const s = activeLine.stanzas[i];
+const sEnd = activeLine.stanzas[i + 1]?.start ?? currentLines[activeIndex + 1]?.start ?? audio.duration;
+if (effectiveTime >= s.start && (!Number.isFinite(sEnd) || effectiveTime < sEnd)) {
+activeStanzaKey = `${activeIndex}-s${i}`;
+break;
+}
+}
+}
+}
+
+if (activeStanzaKey !== currentStanzaKey) {
+currentLines.forEach(line => {
+if (Array.isArray(line.stanzas)) {
+line.stanzas.forEach(s => s.element?.classList.remove("active-stanza"));
+}
+});
+
+if (activeStanzaKey) {
+const [lineIndex, stanzaIdx] = activeStanzaKey.split("-s").map(Number);
+currentLines[lineIndex]?.stanzas?.[stanzaIdx]?.element?.classList.add("active-stanza");
+}
+
+currentStanzaKey = activeStanzaKey;
 }
 }
 
@@ -361,7 +397,8 @@ document.getElementById("youtubeLink").href = info.youtube;
 const source = info.audio || `${base}/audio.mp3`;
 audio.src = await pickPreferredAudioUrl(source);
 setSyncDebug(`audio\nsource=${audio.src.split("/").pop()}`);
-});
+
+const antiphonalGroup = info.antiphonalGroup || 1;
 
 fetch(`${base}/lyrics.json`)
 .then(r=>r.json())
@@ -372,6 +409,7 @@ lines.forEach((line, index)=>{
 
 const div=document.createElement("div");
 div.className="line";
+div.classList.add(`color-group-${Math.floor(index / antiphonalGroup) % 2}`);
 
 const copticDiv = document.createElement("div");
 copticDiv.className = "coptic";
@@ -394,6 +432,17 @@ if (word.trailingSpace !== false) {
 copticDiv.appendChild(document.createTextNode(" "));
 }
 word.element = wordSpan;
+});
+} else if (Array.isArray(line.stanzas) && line.stanzas.length) {
+line.stanzas.forEach((stanza, si) => {
+const span = document.createElement("span");
+span.className = "stanza";
+span.textContent = stanza.coptic;
+copticDiv.appendChild(span);
+if (si < line.stanzas.length - 1) {
+copticDiv.appendChild(document.createTextNode(" "));
+}
+stanza.element = span;
 });
 } else {
 copticDiv.textContent = line.coptic;
@@ -433,6 +482,8 @@ audio.addEventListener("pause", stopSyncLoop);
 audio.addEventListener("ended", stopSyncLoop);
 
 });
+
+}); // end info.json fetch
 
 toggleLoopBtn?.addEventListener("click", () => {
 repeatVerseEnabled = !repeatVerseEnabled;
