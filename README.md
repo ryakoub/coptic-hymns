@@ -233,7 +233,7 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 ### Level-1
 - [ ] Ⲡⲓⲱⲓⲕ
 - [X] First Hoos
-- [ ] Second Doxology of Resurrection
+- [X] Second Doxology of Resurrection
 - [ ] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
 - [ ] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
 

@@ -1,9 +1,152 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 5.59,
+    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥϣⲁⲛϣ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ⲛ̀ϩ̀ⲙⲉ ⲛ̀ⲣⲟⲙⲡⲓ ϩⲓ ⲡ̀ϣⲁϥⲉ: ⲁϥϯ ⲙ̀ⲡⲓⲙⲁⲛⲛⲁ ⲛⲱⲟⲩ ⲉ̀ⲟⲩⲟⲙϥ: ⲡ̀ⲱⲓⲕ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "He who sustained Israel, forty years in the desert, gave them the manna to eat, the bread of the angels."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲫⲏⲉ̀ⲧⲁϥϣⲁⲛϣ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ:",
+        "start": 5.59
+      },
+      {
+        "coptic": "ⲛ̀ϩ̀ⲙⲉ ⲛ̀ⲣⲟⲙⲡⲓ ϩⲓ ⲡ̀ϣⲁϥⲉ:",
+        "start": 10.385
+      },
+      {
+        "coptic": "ⲁϥϯ ⲙ̀ⲡⲓⲙⲁⲛⲛⲁ ⲛⲱⲟⲩ ⲉ̀ⲟⲩⲟⲙϥ:",
+        "start": 15.18
+      },
+      {
+        "coptic": "ⲡ̀ⲱⲓⲕ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ.",
+        "start": 19.975
+      }
+    ]
+  },
+  {
+    "start": 24.77,
+    "coptic": "Ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲅⲁⲣ ⲙ̀ⲡⲓⲙⲁⲛⲛⲁ: ⲁⲩϯ ⲛ̀ⲟⲩϩⲉⲙϫ ⲉϥⲉⲛϣⲁϣⲓ ⲛⲁϥ: ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ: ⲁⲩϯⲭ̀ⲗⲟⲙ ⲛ̀ⲥⲟⲩⲣⲓ ⲉ̀ϫⲱϥ.",
+    "translations": {
+      "english": "In place of the manna, they gave Him bitter vinegar, in place of the good things, they placed a crown of thorns on Him."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲅⲁⲣ ⲙ̀ⲡⲓⲙⲁⲛⲛⲁ:",
+        "start": 24.77
+      },
+      {
+        "coptic": "ⲁⲩϯ ⲛ̀ⲟⲩϩⲉⲙϫ ⲉϥⲉⲛϣⲁϣⲓ ⲛⲁϥ:",
+        "start": 29.615
+      },
+      {
+        "coptic": "ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ:",
+        "start": 34.46
+      },
+      {
+        "coptic": "ⲁⲩϯⲭ̀ⲗⲟⲙ ⲛ̀ⲥⲟⲩⲣⲓ ⲉ̀ϫⲱϥ.",
+        "start": 39.305
+      }
+    ]
+  },
+  {
+    "start": 44.15,
+    "coptic": "Ⲁⲩⲕⲟⲥϥ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲫⲏⲉⲧⲭⲏ ⲥⲁⲃⲟⲗ ⲛ̀ϯⲃⲁⲕⲓ: ⲉ̀ⲧⲁⲩϫⲟⲥ ϧⲉⲛ ⲧⲟⲩⲙⲉⲧⲁⲧϩⲏⲧ: ϫⲉ ⲫⲁⲓ ϥ̀ⲛⲁ ϣ̀ⲧⲱⲛϥ ⲁⲛ ϫⲉ.",
+    "translations": {
+      "english": "They wrapped and placed Him in the tomb, which was outside the city, in their ignorance they said, “It is impossible for Him to rise.”"
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲩⲕⲟⲥϥ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ:",
+        "start": 44.15
+      },
+      {
+        "coptic": "ⲫⲏⲉⲧⲭⲏ ⲥⲁⲃⲟⲗ ⲛ̀ϯⲃⲁⲕⲓ:",
+        "start": 48.83
+      },
+      {
+        "coptic": "ⲉ̀ⲧⲁⲩϫⲟⲥ ϧⲉⲛ ⲧⲟⲩⲙⲉⲧⲁⲧϩⲏⲧ:",
+        "start": 53.51
+      },
+      {
+        "coptic": "ϫⲉ ⲫⲁⲓ ϥ̀ⲛⲁ ϣ̀ⲧⲱⲛϥ ⲁⲛ ϫⲉ.",
+        "start": 58.19
+      }
+    ]
+  },
+  {
+    "start": 62.87,
+    "coptic": "Ϣⲱⲣⲡ ⲙ̀ⲫ̀ⲟⲩⲁⲓ ⲛ̀ⲧⲉ ⲛⲓⲥⲁⲃⲃⲁⲧⲟⲛ: ⲁ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲁϥⲧⲁⲥⲑⲟ ⲛ̀ⲛⲉϥϫⲁϫⲓ ⲉ̀ⲫⲁϩⲟⲩ: ⲁϥϯ ⲛⲱⲟⲩ ⲛ̀ⲟⲩϣ̀ⲫⲓⲧ ϣⲁ ⲛ̀ⲉ̀ⲛⲉϩ.",
+    "translations": {
+      "english": "Early on one Sunday, Christ rose from the dead, He placed His enemies behind Him, He put them in eternal shame."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ϣⲱⲣⲡ ⲙ̀ⲫ̀ⲟⲩⲁⲓ ⲛ̀ⲧⲉ ⲛⲓⲥⲁⲃⲃⲁⲧⲟⲛ:",
+        "start": 62.87
+      },
+      {
+        "coptic": "ⲁ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 67.168
+      },
+      {
+        "coptic": "ⲁϥⲧⲁⲥⲑⲟ ⲛ̀ⲛⲉϥϫⲁϫⲓ ⲉ̀ⲫⲁϩⲟⲩ:",
+        "start": 71.465
+      },
+      {
+        "coptic": "ⲁϥϯ ⲛⲱⲟⲩ ⲛ̀ⲟⲩϣ̀ⲫⲓⲧ ϣⲁ ⲛ̀ⲉ̀ⲛⲉϩ.",
+        "start": 75.763
+      }
+    ]
+  },
+  {
+    "start": 80.06,
+    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛⲉⲣⲭⲟⲣⲉⲩⲓⲛ: ⲛⲉⲙ ⲡⲓϩⲩⲙⲛⲟⲇⲟⲥ Ⲇⲁⲩⲓⲇ: ϫⲉ ⲁϥⲧⲱⲛϥ ⲛ̀ϫⲉ Ⲫ̀ⲛⲟⲩϯ: ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲫⲏⲉⲧⲉⲛⲕⲟⲧ.",
+    "translations": {
+      "english": "Therefore we praise, with David the hymnist, saying “God rose, like one who sleeps.”"
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛⲉⲣⲭⲟⲣⲉⲩⲓⲛ:",
+        "start": 80.06
+      },
+      {
+        "coptic": "ⲛⲉⲙ ⲡⲓϩⲩⲙⲛⲟⲇⲟⲥ Ⲇⲁⲩⲓⲇ:",
+        "start": 84.382
+      },
+      {
+        "coptic": "ϫⲉ ⲁϥⲧⲱⲛϥ ⲛ̀ϫⲉ Ⲫ̀ⲛⲟⲩϯ:",
+        "start": 88.705
+      },
+      {
+        "coptic": "ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲫⲏⲉⲧⲉⲛⲕⲟⲧ.",
+        "start": 93.028
+      }
+    ]
+  },
+  {
+    "start": 97.35,
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅): Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+    "translations": {
+      "english": "Alleluia (4), Jesus Christ the King of glory, has risen from the dead."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:",
+        "start": 97.35
+      },
+      {
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:",
+        "start": 101.74
+      },
+      {
+        "coptic": "Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ:",
+        "start": 106.13
+      },
+      {
+        "coptic": "ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+        "start": 110.52
+      }
+    ]
   }
 ]
