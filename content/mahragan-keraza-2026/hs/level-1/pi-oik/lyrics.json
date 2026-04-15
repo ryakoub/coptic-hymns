@@ -1,9 +1,647 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 2.98,
+    "coptic": "Ⲡⲓⲱⲓⲕ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ: ⲉ̀ⲧⲁϥⲓ̀ ⲉⲡⲉⲥⲏⲧ: ⲛⲁⲛ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ: ⲁⲫϯ ⲙ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "The Bread of life, which came down for us from heaven, has given life to the world."
+    },
+    "words": [
+      {
+        "text": "Ⲡⲓⲱⲓⲕ",
+        "start": 2.98,
+        "end": 5.97
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 5.97,
+        "end": 10.19
+      },
+      {
+        "text": "ⲡ̀ⲱⲛϧ:",
+        "start": 10.19,
+        "end": 14.11
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲓ̀",
+        "start": 14.11,
+        "end": 19.63
+      },
+      {
+        "text": "ⲉⲡⲉⲥⲏⲧ:",
+        "start": 19.63,
+        "end": 28.27
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 28.27,
+        "end": 30.41
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗϧⲉⲛ",
+        "start": 30.41,
+        "end": 34.87
+      },
+      {
+        "text": "ⲧ̀ⲫⲉ:",
+        "start": 34.87,
+        "end": 39.24
+      },
+      {
+        "text": "ⲁⲫϯ",
+        "start": 39.24,
+        "end": 41.14
+      },
+      {
+        "text": "ⲙ̀ⲡ̀ⲱⲛϧ",
+        "start": 41.14,
+        "end": 45.18
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
+        "start": 45.18,
+        "end": 51.57
+      }
+    ]
+  },
+  {
+    "start": 51.57,
+    "coptic": "Ⲛ̀ⲑⲟ ϩⲱⲓ Ⲙⲁⲣⲓⲁ̀: ⲁ̀ⲣⲉϥⲁⲓ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ: ⲙ̀ⲡⲓⲘⲁⲛⲛⲁ ⲛ̀ⲛⲟ ⲏ̀ⲧⲟⲛ: ⲉ̀ⲧⲁϥⲓ̀ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ.",
+    "translations": {
+      "english": "And you too, O Mary, have born in your womb the rational Manna, which came from the Father."
+    },
+    "words": [
+      {
+        "text": "Ⲛ̀ⲑⲟ",
+        "start": 51.57,
+        "end": 53.6
+      },
+      {
+        "text": "ϩⲱⲓ",
+        "start": 53.6,
+        "end": 56.62
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ̀:",
+        "start": 56.62,
+        "end": 61.02
+      },
+      {
+        "text": "ⲁ̀ⲣⲉϥⲁⲓ",
+        "start": 61.02,
+        "end": 66.01
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 66.01,
+        "end": 69.0
+      },
+      {
+        "text": "ⲧⲉⲛⲉϫⲓ:",
+        "start": 69.0,
+        "end": 73.4
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲘⲁⲛⲛⲁ",
+        "start": 73.4,
+        "end": 77.98
+      },
+      {
+        "text": "ⲛ̀ⲛⲟ",
+        "start": 77.98,
+        "end": 79.9
+      },
+      {
+        "text": "ⲏ̀ⲧⲟⲛ:",
+        "start": 79.9,
+        "end": 84.0
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲓ̀",
+        "start": 84.0,
+        "end": 88.18
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗϧⲉⲛ",
+        "start": 88.18,
+        "end": 94.43
+      },
+      {
+        "text": "Ⲫ̀ⲓⲱⲧ.",
+        "start": 94.43,
+        "end": 96.07
+      }
+    ]
+  },
+  {
+    "start": 96.07,
+    "coptic": "Ⲁ̀ⲣⲉⲙⲁⲥϥ ⲁϭⲛⲉ ⲑⲱⲗⲉⲃ: ⲁϥϯ ⲛⲁⲛ ⲙ̀ⲡⲉϥⲥⲱⲙⲁ: ⲛⲉⲙ ⲡⲉϥⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ: ⲁⲛⲱⲛϧ ϣⲁ ⲉ̀ⲛⲉϩ.",
+    "translations": {
+      "english": "You have brought Him forth without blemish; He gave us His body and His precious blood, and we live forever."
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲣⲉⲙⲁⲥϥ",
+        "start": 96.07,
+        "end": 98.9
+      },
+      {
+        "text": "ⲁϭⲛⲉ",
+        "start": 98.9,
+        "end": 103.14
+      },
+      {
+        "text": "ⲑⲱⲗⲉⲃ:",
+        "start": 103.14,
+        "end": 106.24
+      },
+      {
+        "text": "ⲁϥϯ",
+        "start": 106.24,
+        "end": 110.25
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 110.25,
+        "end": 111.45
+      },
+      {
+        "text": "ⲙ̀ⲡⲉϥⲥⲱⲙⲁ:",
+        "start": 111.45,
+        "end": 118.36
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 118.36,
+        "end": 119.35
+      },
+      {
+        "text": "ⲡⲉϥⲥ̀ⲛⲟϥ",
+        "start": 119.35,
+        "end": 123.64
+      },
+      {
+        "text": "ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ:",
+        "start": 123.64,
+        "end": 131.29
+      },
+      {
+        "text": "ⲁⲛⲱⲛϧ",
+        "start": 131.29,
+        "end": 135.4
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 135.4,
+        "end": 138.48
+      },
+      {
+        "text": "ⲉ̀ⲛⲉϩ.",
+        "start": 138.48,
+        "end": 141.28
+      }
+    ]
+  },
+  {
+    "start": 141.28,
+    "coptic": "Ⲥⲉⲧⲱⲟⲩⲛⲟⲩ ϩⲁⲣⲟⲕ: ⲛ̀ϫⲉ ⲛⲓⲬⲉⲣⲟⲩⲃⲓⲙ: ⲛⲉⲙ ⲛⲓⲤⲉⲣⲁⲫⲓⲙ: ⲥⲉϣ̀ⲛⲁⲩ ⲉ̀ⲣⲟⲕ ⲁⲛ.",
+    "translations": {
+      "english": "Around You stand the Cherubim, and the Seraphim, and they cannot look at You."
+    },
+    "words": [
+      {
+        "text": "Ⲥⲉⲧⲱⲟⲩⲛⲟⲩ",
+        "start": 141.28,
+        "end": 147.25
+      },
+      {
+        "text": "ϩⲁⲣⲟⲕ:",
+        "start": 147.25,
+        "end": 151.91
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 151.91,
+        "end": 155.8
+      },
+      {
+        "text": "ⲛⲓⲬⲉⲣⲟⲩⲃⲓⲙ:",
+        "start": 155.8,
+        "end": 165.3
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 165.3,
+        "end": 168.36
+      },
+      {
+        "text": "ⲛⲓⲤⲉⲣⲁⲫⲓⲙ:",
+        "start": 168.36,
+        "end": 177.7
+      },
+      {
+        "text": "ⲥⲉϣ̀ⲛⲁⲩ",
+        "start": 177.7,
+        "end": 181.75
+      },
+      {
+        "text": "ⲉ̀ⲣⲟⲕ",
+        "start": 181.75,
+        "end": 187.87
+      },
+      {
+        "text": "ⲁⲛ.",
+        "start": 187.87,
+        "end": 189.73
+      }
+    ]
+  },
+  {
+    "start": 189.73,
+    "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲉ̀ⲣⲟⲕ ⲙ̀ⲙⲏⲓ: ϩⲓϫⲉⲛ ⲡⲓⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ: ⲧⲉⲛϭⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲕⲥⲱⲙⲁ ⲛⲉⲙ ⲡⲉⲕ ⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ.",
+    "translations": {
+      "english": "We behold You upon the Altar and we partake of Your body and Your precious blood."
+    },
+    "words": [
+      {
+        "text": "Ⲧⲉⲛⲛⲁⲩ",
+        "start": 189.73,
+        "end": 193.93
+      },
+      {
+        "text": "ⲉ̀ⲣⲟⲕ",
+        "start": 193.93,
+        "end": 198.03
+      },
+      {
+        "text": "ⲙ̀ⲙⲏⲓ:",
+        "start": 198.03,
+        "end": 201.99
+      },
+      {
+        "text": "ϩⲓϫⲉⲛ",
+        "start": 201.99,
+        "end": 210.09
+      },
+      {
+        "text": "ⲡⲓⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ:",
+        "start": 210.09,
+        "end": 213.55
+      },
+      {
+        "text": "ⲧⲉⲛϭⲓ",
+        "start": 213.55,
+        "end": 217.12
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗϧⲉⲛ",
+        "start": 217.12,
+        "end": 222.33
+      },
+      {
+        "text": "ⲡⲉⲕⲥⲱⲙⲁ",
+        "start": 222.33,
+        "end": 223.17
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 223.17,
+        "end": 225.33
+      },
+      {
+        "text": "ⲡⲉⲕ",
+        "start": 225.33,
+        "end": 227.25
+      },
+      {
+        "text": "ⲥ̀ⲛⲟϥ",
+        "start": 227.25,
+        "end": 233.26
+      },
+      {
+        "text": "ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ.",
+        "start": 233.26,
+        "end": 235.44
+      }
+    ]
+  },
+  {
+    "start": 235.44,
+    "coptic": "Ⲉ̀ⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϭⲓⲥⲓ: ⲙ̀ⲙⲟ ⲁ̀ⲝⲓⲱⲥ ϧⲉⲛ ϩⲁⲛⲩ̀ⲙⲛⲟⲗⲟⲅⲓⲁ̀: ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
+    "translations": {
+      "english": "Therefore we exalt you befittingly, with prophetic hymnology."
+    },
+    "words": [
+      {
+        "text": "Ⲉ̀ⲑⲃⲉ",
+        "start": 235.44,
+        "end": 238.35
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 238.35,
+        "end": 243.69
+      },
+      {
+        "text": "ⲧⲉⲛϭⲓⲥⲓ:",
+        "start": 243.69,
+        "end": 247.36
+      },
+      {
+        "text": "ⲙ̀ⲙⲟ",
+        "start": 247.36,
+        "end": 255.33
+      },
+      {
+        "text": "ⲁ̀ⲝⲓⲱⲥ",
+        "start": 255.33,
+        "end": 257.32
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 257.32,
+        "end": 267.26
+      },
+      {
+        "text": "ϩⲁⲛⲩ̀ⲙⲛⲟⲗⲟⲅⲓⲁ̀:",
+        "start": 267.26,
+        "end": 277.14
+      },
+      {
+        "text": "ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
+        "start": 277.14,
+        "end": 278.26
+      }
+    ]
+  },
+  {
+    "start": 278.26,
+    "coptic": "Ϫⲉ ⲁⲩⲥⲁϫⲓ ⲉⲑⲃⲏϯ: ⲛ̀ϩⲁⲛ ϩ̀ⲃⲏⲟⲩⲓ̀ ⲉⲩⲧⲁⲓⲏ̀ⲟⲩⲧ ϯⲃⲁⲕⲓ ⲉ̀ⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲓⲛⲓϣϯ ⲛ̀Ⲟⲩⲣⲟ.",
+    "translations": {
+      "english": "For they spoke of you with great honor, O holy city of the great King."
+    },
+    "words": [
+      {
+        "text": "Ϫⲉ",
+        "start": 278.26,
+        "end": 282.18
+      },
+      {
+        "text": "ⲁⲩⲥⲁϫⲓ",
+        "start": 282.18,
+        "end": 286.09
+      },
+      {
+        "text": "ⲉⲑⲃⲏϯ:",
+        "start": 286.09,
+        "end": 288.22
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛ",
+        "start": 288.22,
+        "end": 290.7
+      },
+      {
+        "text": "ϩ̀ⲃⲏⲟⲩⲓ̀",
+        "start": 290.7,
+        "end": 298.49
+      },
+      {
+        "text": "ⲉⲩⲧⲁⲓⲏ̀ⲟⲩⲧ",
+        "start": 298.49,
+        "end": 303.34
+      },
+      {
+        "text": "ϯⲃⲁⲕⲓ",
+        "start": 303.34,
+        "end": 308.1
+      },
+      {
+        "text": "ⲉ̀ⲑⲟⲩⲁⲃ",
+        "start": 308.1,
+        "end": 309.9
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 309.9,
+        "end": 313.77
+      },
+      {
+        "text": "ⲡⲓⲛⲓϣϯ",
+        "start": 313.77,
+        "end": 323.4
+      },
+      {
+        "text": "ⲛ̀Ⲟⲩⲣⲟ.",
+        "start": 323.4,
+        "end": 325.1
+      }
+    ]
+  },
+  {
+    "start": 319.62,
+    "coptic": "Ⲧⲉⲛϯϩⲟ ⲧⲉⲛⲧⲱⲃϩ: ⲉ̀ⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀: ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
+    "translations": {
+      "english": "We entreat and pray that we may win mercy through your intercessions with the Lover of mankind."
+    },
+    "words": [
+      {
+        "text": "Ⲧⲉⲛϯϩⲟ",
+        "start": 319.62,
+        "end": 324.71
+      },
+      {
+        "text": "ⲧⲉⲛⲧⲱⲃϩ:",
+        "start": 324.71,
+        "end": 328.73
+      },
+      {
+        "text": "ⲉ̀ⲑⲣⲉⲛϣⲁϣⲛⲓ",
+        "start": 328.73,
+        "end": 336.24
+      },
+      {
+        "text": "ⲉⲩⲛⲁⲓ:",
+        "start": 336.24,
+        "end": 341.22
+      },
+      {
+        "text": "ϩⲓⲧⲉⲛ",
+        "start": 341.22,
+        "end": 344.06
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀:",
+        "start": 344.06,
+        "end": 352.75
+      },
+      {
+        "text": "ⲛ̀ⲧⲟⲧϥ",
+        "start": 352.75,
+        "end": 355.14
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
+        "start": 355.14,
+        "end": 361.82
+      }
+    ]
+  },
+  {
+    "start": 361.82,
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀ ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̀ⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ̀: Ⲡ̀ⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+    "translations": {
+      "english": "Through the intercessions of the Theotokos Saint Mary, O Lord, grant us the forgiveness of our sins."
+    },
+    "words": [
+      {
+        "text": "Ϩⲓⲧⲉⲛ",
+        "start": 361.82,
+        "end": 363.91
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀",
+        "start": 363.91,
+        "end": 371.13
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 371.13,
+        "end": 373.05
+      },
+      {
+        "text": "ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ",
+        "start": 373.05,
+        "end": 376.89
+      },
+      {
+        "text": "ⲉ̀ⲑⲟⲩⲁⲃ",
+        "start": 376.89,
+        "end": 378.72
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ̀:",
+        "start": 378.72,
+        "end": 382.88
+      },
+      {
+        "text": "Ⲡ̀ⲟ̅ⲥ̅",
+        "start": 382.88,
+        "end": 386.33
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ",
+        "start": 386.33,
+        "end": 391.18
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 391.18,
+        "end": 393.17
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲭⲱ",
+        "start": 393.17,
+        "end": 395.15
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 395.15,
+        "end": 398.98
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 398.98,
+        "end": 401.84
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 401.84,
+        "end": 404.75
+      }
+    ]
+  },
+  {
+    "start": 404.75,
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀ ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲓⲭⲁⲏⲗ ⲛⲉⲛ Ⲅⲁⲃⲣⲓⲏⲗ: Ⲡ̀ⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+    "translations": {
+      "english": "Through the intercessions of the holy archangels Michael and Gabriel, O Lord, grant us the forgiveness of our sins."
+    },
+    "words": [
+      {
+        "text": "Ϩⲓⲧⲉⲛ",
+        "start": 404.75,
+        "end": 406.96
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀",
+        "start": 406.96,
+        "end": 413.63
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 413.63,
+        "end": 415.36
+      },
+      {
+        "text": "ⲛⲓⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ",
+        "start": 415.36,
+        "end": 418.6
+      },
+      {
+        "text": "ⲉ̅ⲑ̅ⲩ̅",
+        "start": 418.6,
+        "end": 419.97
+      },
+      {
+        "text": "Ⲙⲓⲭⲁⲏⲗ",
+        "start": 419.97,
+        "end": 420.94
+      },
+      {
+        "text": "ⲛⲉⲛ",
+        "start": 420.94,
+        "end": 421.79
+      },
+      {
+        "text": "Ⲅⲁⲃⲣⲓⲏⲗ:",
+        "start": 421.79,
+        "end": 425.18
+      },
+      {
+        "text": "Ⲡ̀ⲟ̅ⲥ̅",
+        "start": 425.18,
+        "end": 429.09
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ",
+        "start": 429.09,
+        "end": 433.62
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 433.62,
+        "end": 435.27
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲭⲱ",
+        "start": 435.27,
+        "end": 437.66
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 437.66,
+        "end": 440.47
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 440.47,
+        "end": 444.72
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 444.72,
+        "end": 447.72
+      }
+    ]
   }
 ]
