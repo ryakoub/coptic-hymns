@@ -224,8 +224,8 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 - [X] Christ Is Risen
 
 ### Level-2
-- [ ] Paralex, Shere Ne Maria
-- [ ] Ⲁⲣⲓⲯⲁⲗⲓⲛ
+- [X] Paralex, Shere Ne Maria
+- [X] Ⲁⲣⲓⲯⲁⲗⲓⲛ
 - [ ] Aspasmos Adam, Resurrection
 
 ## HS

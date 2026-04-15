@@ -1,0 +1,782 @@
+[
+  {
+    "start": 5.08,
+    "coptic": "Ⲭⲉⲣⲉ Ⲙⲁⲣⲓⲁ ϯⲟⲩⲣⲱ ϯⲃⲱ: ⲛ̀ⲁ̀ⲗⲟⲗⲓ ⲛ̀ⲁⲧⲉⲣϧⲉⲗⲗⲱ: ⲑⲏⲉ̀ⲧⲉ ⲙ̀ⲡⲉⲟⲩⲱⲓ ⲉ̀ⲣⲟⲩⲱⲓ ⲉ̀ⲣⲟⲥ: ⲁⲩϫⲉⲙ Ⲡⲓⲥ̀ⲙⲁϩ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ ⲛ̀ϧⲏⲧⲥ.",
+    "translations": {
+      "english": "Hail to Mary the queen, the unbarren vine, that no farmer toiled, in her is found the Cluster of life."
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ",
+        "start": 5.08,
+        "end": 6.35
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ",
+        "start": 6.35,
+        "end": 8.89
+      },
+      {
+        "text": "ϯⲟⲩⲣⲱ",
+        "start": 8.89,
+        "end": 11.42
+      },
+      {
+        "text": "ϯⲃⲱ:",
+        "start": 11.42,
+        "end": 13.43
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲗⲟⲗⲓ",
+        "start": 13.43,
+        "end": 15.79
+      },
+      {
+        "text": "ⲛ̀ⲁⲧⲉⲣϧⲉⲗⲗⲱ:",
+        "start": 15.79,
+        "end": 20.93
+      },
+      {
+        "text": "ⲑⲏⲉ̀ⲧⲉ",
+        "start": 20.93,
+        "end": 23.29
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲟⲩⲱⲓ",
+        "start": 23.29,
+        "end": 26.45
+      },
+      {
+        "text": "ⲉ̀ⲣⲟⲩⲱⲓ",
+        "start": 26.45,
+        "end": 30.32
+      },
+      {
+        "text": "ⲉ̀ⲣⲟⲥ:",
+        "start": 30.32,
+        "end": 32.27
+      },
+      {
+        "text": "ⲁⲩϫⲉⲙ",
+        "start": 32.27,
+        "end": 34.28
+      },
+      {
+        "text": "Ⲡⲓⲥ̀ⲙⲁϩ",
+        "start": 34.28,
+        "end": 36.41
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 36.41,
+        "end": 37.94
+      },
+      {
+        "text": "ⲡ̀ⲱⲛϧ",
+        "start": 37.94,
+        "end": 40.51
+      },
+      {
+        "text": "ⲛ̀ϧⲏⲧⲥ.",
+        "start": 40.51,
+        "end": 50.19
+      }
+    ]
+  },
+  {
+    "start": 42.69,
+    "coptic": "Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁϥϭⲓⲥⲁⲣⲝ ϧⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲁⲥⲙⲓⲥⲓ ⲙ̀ⲙⲟϥ ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲁϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "The Son of God is truly, incarnate from the Virgin, she bore Him and He saved us, and forgave us our sins."
+    },
+    "words": [
+      {
+        "text": "Ⲡ̀ϣⲏⲣⲓ",
+        "start": 42.69,
+        "end": 44.86
+      },
+      {
+        "text": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ",
+        "start": 44.86,
+        "end": 48.31
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 48.31,
+        "end": 49.17
+      },
+      {
+        "text": "ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+        "start": 49.17,
+        "end": 53.67
+      },
+      {
+        "text": "ⲁϥϭⲓⲥⲁⲣⲝ",
+        "start": 53.67,
+        "end": 58.65
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 58.65,
+        "end": 60.37
+      },
+      {
+        "text": "Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:",
+        "start": 60.37,
+        "end": 67.55
+      },
+      {
+        "text": "ⲁⲥⲙⲓⲥⲓ",
+        "start": 67.55,
+        "end": 71.25
+      },
+      {
+        "text": "ⲙ̀ⲙⲟϥ",
+        "start": 71.25,
+        "end": 73.11
+      },
+      {
+        "text": "ⲁϥⲥⲱϯ",
+        "start": 73.11,
+        "end": 76.27
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ:",
+        "start": 76.27,
+        "end": 78.39
+      },
+      {
+        "text": "ⲁϥⲭⲁ",
+        "start": 78.39,
+        "end": 80.91
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ",
+        "start": 80.91,
+        "end": 83.98
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 83.98,
+        "end": 86.86
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ.",
+        "start": 86.86,
+        "end": 99.05
+      }
+    ]
+  },
+  {
+    "start": 88.92,
+    "coptic": "Ⲁ̀ⲣⲉϫⲉⲙ ⲟⲩϩ̀ⲙⲟⲧ ⲱ̀ ⲧⲁⲓϣⲉⲗⲉⲧ: ϩⲁⲛⲙⲏϣ ⲁⲩⲥⲁϫⲓ ⲉ̀ⲡⲉⲧⲁⲓⲟ: ϫⲉ ⲁ̀ Ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ: ⲓ̀ ⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ.",
+    "translations": {
+      "english": "You have found grace O bride, many spoke of your honor, for the Logos of the Father, came and was incarnate of you."
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲣⲉϫⲉⲙ",
+        "start": 88.92,
+        "end": 91.27
+      },
+      {
+        "text": "ⲟⲩϩ̀ⲙⲟⲧ",
+        "start": 91.27,
+        "end": 94.69
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 94.69,
+        "end": 95.23
+      },
+      {
+        "text": "ⲧⲁⲓϣⲉⲗⲉⲧ:",
+        "start": 95.23,
+        "end": 100.49
+      },
+      {
+        "text": "ϩⲁⲛⲙⲏϣ",
+        "start": 100.49,
+        "end": 103.78
+      },
+      {
+        "text": "ⲁⲩⲥⲁϫⲓ",
+        "start": 103.78,
+        "end": 106.52
+      },
+      {
+        "text": "ⲉ̀ⲡⲉⲧⲁⲓⲟ:",
+        "start": 106.52,
+        "end": 111.91
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 111.91,
+        "end": 112.61
+      },
+      {
+        "text": "ⲁ̀",
+        "start": 112.61,
+        "end": 113.32
+      },
+      {
+        "text": "Ⲡⲓⲗⲟⲅⲟⲥ",
+        "start": 113.32,
+        "end": 118.57
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 118.57,
+        "end": 120.67
+      },
+      {
+        "text": "Ⲫ̀ⲓⲱⲧ:",
+        "start": 120.67,
+        "end": 123.74
+      },
+      {
+        "text": "ⲓ̀",
+        "start": 123.74,
+        "end": 125.17
+      },
+      {
+        "text": "ⲁϥϭⲓⲥⲁⲣⲝ",
+        "start": 125.17,
+        "end": 129.33
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 129.33,
+        "end": 131.74
+      },
+      {
+        "text": "ⲛ̀ϧⲏϯ.",
+        "start": 131.74,
+        "end": 150.55
+      }
+    ]
+  },
+  {
+    "start": 134.71,
+    "coptic": "Ⲛⲓⲙ ⲛ̀ⲥ̀ϩⲓⲙⲓ ⲉⲧ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲁⲥⲉⲣⲙⲁⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲉ̀ⲃⲏⲗ ⲉ̀ⲣⲟ: ϫⲉ ⲛ̀ⲑⲟ ⲟⲩⲥ̀ϩⲓⲙⲓ ⲛ̀ⲣⲉⲙⲛ̀ⲕⲁϩⲓ: ⲁ̀ⲣⲉⲉⲣⲙⲁⲩ ⲙ̀Ⲡⲓⲣⲉϥⲥⲱⲛⲧ.",
+    "translations": {
+      "english": "What woman of earth, became Mother of God but you, for while you are a woman of the earth, you became Mother of the Creator."
+    },
+    "words": [
+      {
+        "text": "Ⲛⲓⲙ",
+        "start": 134.71,
+        "end": 136.46
+      },
+      {
+        "text": "ⲛ̀ⲥ̀ϩⲓⲙⲓ",
+        "start": 136.46,
+        "end": 138.74
+      },
+      {
+        "text": "ⲉⲧ",
+        "start": 138.74,
+        "end": 139.89
+      },
+      {
+        "text": "ϩⲓϫⲉⲛ",
+        "start": 139.89,
+        "end": 141.53
+      },
+      {
+        "text": "ⲡⲓⲕⲁϩⲓ:",
+        "start": 141.53,
+        "end": 145.4
+      },
+      {
+        "text": "ⲁⲥⲉⲣⲙⲁⲩ",
+        "start": 145.4,
+        "end": 148.04
+      },
+      {
+        "text": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ",
+        "start": 148.04,
+        "end": 150.95
+      },
+      {
+        "text": "ⲉ̀ⲃⲏⲗ",
+        "start": 150.95,
+        "end": 154.88
+      },
+      {
+        "text": "ⲉ̀ⲣⲟ:",
+        "start": 154.88,
+        "end": 156.83
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 156.83,
+        "end": 157.78
+      },
+      {
+        "text": "ⲛ̀ⲑⲟ",
+        "start": 157.78,
+        "end": 158.95
+      },
+      {
+        "text": "ⲟⲩⲥ̀ϩⲓⲙⲓ",
+        "start": 158.95,
+        "end": 162.64
+      },
+      {
+        "text": "ⲛ̀ⲣⲉⲙⲛ̀ⲕⲁϩⲓ:",
+        "start": 162.64,
+        "end": 167.91
+      },
+      {
+        "text": "ⲁ̀ⲣⲉⲉⲣⲙⲁⲩ",
+        "start": 167.91,
+        "end": 172.96
+      },
+      {
+        "text": "ⲙ̀Ⲡⲓⲣⲉϥⲥⲱⲛⲧ.",
+        "start": 172.96,
+        "end": 200.14
+      }
+    ]
+  },
+  {
+    "start": 185.2,
+    "coptic": "Ⲁ̀ ⲟⲩⲙⲏϣ ⲛ̀ⲥ̀ϩⲓⲙⲓ ϭⲓⲧⲁⲓⲟ: ⲁⲩϣⲁϣⲛⲓ ⲉ̀ϯⲙⲉⲧⲟⲩⲣⲟ: ⲁⲗⲗⲁ ⲙ̀ⲡⲟⲩϣ̀ⲫⲟϩ ⲉ̀ⲡⲉⲧⲁⲓⲟ: ⲑⲏⲉⲑⲛⲉⲥⲱⲥ ϧⲉⲛ ⲛⲓϩⲓⲟⲙⲓ.",
+    "translations": {
+      "english": "Many women received honor, and gained the kingdom, but did not reach your honor, O you the beautiful among women."
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ ⲟⲩⲙⲏϣ",
+        "start": 185.2,
+        "end": 187.17
+      },
+      {
+        "text": "ⲛ̀ⲥ̀ϩⲓⲙⲓ",
+        "start": 187.17,
+        "end": 190.87
+      },
+      {
+        "text": "ϭⲓⲧⲁⲓⲟ:",
+        "start": 190.87,
+        "end": 195.47
+      },
+      {
+        "text": "ⲁⲩϣⲁϣⲛⲓ",
+        "start": 195.47,
+        "end": 200.95
+      },
+      {
+        "text": "ⲉ̀ϯⲙⲉⲧⲟⲩⲣⲟ:",
+        "start": 200.95,
+        "end": 206.63
+      },
+      {
+        "text": "ⲁⲗⲗⲁ",
+        "start": 206.63,
+        "end": 209.12
+      },
+      {
+        "text": "ⲙ̀ⲡⲟⲩϣ̀ⲫⲟϩ",
+        "start": 209.12,
+        "end": 212.21
+      },
+      {
+        "text": "ⲉ̀ⲡⲉⲧⲁⲓⲟ:",
+        "start": 212.21,
+        "end": 218.21
+      },
+      {
+        "text": "ⲑⲏⲉⲑⲛⲉⲥⲱⲥ",
+        "start": 218.21,
+        "end": 222.57
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 222.57,
+        "end": 223.42
+      },
+      {
+        "text": "ⲛⲓϩⲓⲟⲙⲓ.",
+        "start": 223.42,
+        "end": 240.3
+      }
+    ]
+  },
+  {
+    "start": 228.9,
+    "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲡⲉ ⲡⲓⲡⲩⲣⲅⲟⲥ ⲉⲧϭⲟⲥⲓ: ⲉ̀ⲧⲁⲩϫⲉⲙ ⲡⲓⲁ̀ⲛⲁⲙⲏⲓ ⲛ̀ϧⲏⲧϥ: ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ⲉ̀ⲧⲁϥⲓ̀ ⲁϥϣⲱⲡⲓ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ.",
+    "translations": {
+      "english": "You are the high tower, in which the treasure was found, which is Emmanuel, who came and dwelt in your womb."
+    },
+    "words": [
+      {
+        "text": "Ⲛ̀ⲑⲟ",
+        "start": 228.9,
+        "end": 231.45
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 231.45,
+        "end": 232.11
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 232.11,
+        "end": 232.91
+      },
+      {
+        "text": "ⲡⲓⲡⲩⲣⲅⲟⲥ",
+        "start": 232.91,
+        "end": 235.91
+      },
+      {
+        "text": "ⲉⲧϭⲟⲥⲓ:",
+        "start": 235.91,
+        "end": 239.45
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲩϫⲉⲙ",
+        "start": 239.45,
+        "end": 244.58
+      },
+      {
+        "text": "ⲡⲓⲁ̀ⲛⲁⲙⲏⲓ",
+        "start": 244.58,
+        "end": 248.13
+      },
+      {
+        "text": "ⲛ̀ϧⲏⲧϥ:",
+        "start": 248.13,
+        "end": 250.37
+      },
+      {
+        "text": "ⲉ̀ⲧⲉ",
+        "start": 250.37,
+        "end": 252.52
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 252.52,
+        "end": 253.76
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 253.76,
+        "end": 256.19
+      },
+      {
+        "text": "Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:",
+        "start": 256.19,
+        "end": 260.76
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲓ̀",
+        "start": 260.76,
+        "end": 263.9
+      },
+      {
+        "text": "ⲁϥϣⲱⲡⲓ",
+        "start": 263.9,
+        "end": 267.14
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 267.14,
+        "end": 269.12
+      },
+      {
+        "text": "ⲧⲉⲛⲉϫⲓ.",
+        "start": 269.12,
+        "end": 291.97
+      }
+    ]
+  },
+  {
+    "start": 271.8,
+    "coptic": "Ⲙⲁⲣⲉⲛⲧⲁⲓⲟ ⲛ̀ⲧ̀ⲡⲁⲣⲑⲉⲛⲓⲁ: ⲛ̀ϯϣⲉⲗⲉⲧ ⲛ̀ⲁⲧⲕⲁⲕⲓⲁ: ϯⲕⲁⲑⲁⲣⲟⲥ ⲙ̀ⲡⲁⲛⲁ̀ⲅⲓⲁ: Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ Ⲙⲁⲣⲓⲁ.",
+    "translations": {
+      "english": "Let us honor the virginity, of the bride without malice, pure and all-holy, the Theotokos Mary."
+    },
+    "words": [
+      {
+        "text": "Ⲙⲁⲣⲉⲛⲧⲁⲓⲟ",
+        "start": 271.8,
+        "end": 276.68
+      },
+      {
+        "text": "ⲛ̀ⲧ̀ⲡⲁⲣⲑⲉⲛⲓⲁ:",
+        "start": 276.68,
+        "end": 282.22
+      },
+      {
+        "text": "ⲛ̀ϯϣⲉⲗⲉⲧ",
+        "start": 282.22,
+        "end": 287.36
+      },
+      {
+        "text": "ⲛ̀ⲁⲧⲕⲁⲕⲓⲁ:",
+        "start": 287.36,
+        "end": 293.04
+      },
+      {
+        "text": "ϯⲕⲁⲑⲁⲣⲟⲥ",
+        "start": 293.04,
+        "end": 297.99
+      },
+      {
+        "text": "ⲙ̀ⲡⲁⲛⲁ̀ⲅⲓⲁ:",
+        "start": 297.99,
+        "end": 303.24
+      },
+      {
+        "text": "Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ",
+        "start": 303.24,
+        "end": 310.61
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ.",
+        "start": 310.61,
+        "end": 318.85
+      }
+    ]
+  },
+  {
+    "start": 318.85,
+    "coptic": "Ⲁ̀ⲣⲉϭⲓⲥⲓ ⲉ̀ϩⲟⲧⲉ ⲧ̀ⲫⲉ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲉ̀ϩⲟⲧⲉ ⲡ̀ⲕⲁϩⲓ: ⲛⲉⲙ ⲥⲱⲛⲧ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧϥ: ϫⲉ ⲁ̀ⲣⲉⲉⲣⲙⲁⲩ ⲙ̀Ⲡⲓⲣⲉϥⲥⲱⲛⲧ.",
+    "translations": {
+      "english": "You are exalted more than heaven, you are honored more than earth, and all creation therein, for you became the Mother of the Creator."
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲣⲉϭⲓⲥⲓ",
+        "start": 318.85,
+        "end": 323.33
+      },
+      {
+        "text": "ⲉ̀ϩⲟⲧⲉ",
+        "start": 323.33,
+        "end": 326.25
+      },
+      {
+        "text": "ⲧ̀ⲫⲉ:",
+        "start": 326.25,
+        "end": 328.91
+      },
+      {
+        "text": "ⲧⲉⲧⲁⲓⲏⲟⲩⲧ",
+        "start": 328.91,
+        "end": 332.78
+      },
+      {
+        "text": "ⲉ̀ϩⲟⲧⲉ",
+        "start": 332.78,
+        "end": 336.33
+      },
+      {
+        "text": "ⲡ̀ⲕⲁϩⲓ:",
+        "start": 336.33,
+        "end": 338.67
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 338.67,
+        "end": 339.53
+      },
+      {
+        "text": "ⲥⲱⲛⲧ",
+        "start": 339.53,
+        "end": 340.7
+      },
+      {
+        "text": "ⲛⲓⲃⲉⲛ",
+        "start": 340.7,
+        "end": 343.73
+      },
+      {
+        "text": "ⲉ̀ⲧⲉ",
+        "start": 343.73,
+        "end": 346.04
+      },
+      {
+        "text": "ⲛ̀ϧⲏⲧϥ:",
+        "start": 346.04,
+        "end": 348.09
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 348.09,
+        "end": 348.85
+      },
+      {
+        "text": "ⲁ̀ⲣⲉⲉⲣⲙⲁⲩ",
+        "start": 348.85,
+        "end": 353.83
+      },
+      {
+        "text": "ⲙ̀Ⲡⲓⲣⲉϥⲥⲱⲛⲧ.",
+        "start": 353.83,
+        "end": 365.29
+      }
+    ]
+  },
+  {
+    "start": 365.29,
+    "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲟⲥ: ⲡⲓⲙⲁ ⲛ̀ϣⲉⲗⲉⲧ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ: ⲛ̀ⲧⲉ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲓⲛⲩⲙⲫⲓⲟⲥ: ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
+    "translations": {
+      "english": "Truly you are, the pure bridal chamber, which belongs to Christ the Bridegroom, according to the prophetic sayings."
+    },
+    "words": [
+      {
+        "text": "Ⲛ̀ⲑⲟ",
+        "start": 365.29,
+        "end": 367.74
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 367.74,
+        "end": 370.02
+      },
+      {
+        "text": "ⲁ̀ⲗⲏⲑⲟⲥ:",
+        "start": 370.02,
+        "end": 374.41
+      },
+      {
+        "text": "ⲡⲓⲙⲁ",
+        "start": 374.41,
+        "end": 376.21
+      },
+      {
+        "text": "ⲛ̀ϣⲉⲗⲉⲧ",
+        "start": 376.21,
+        "end": 380.36
+      },
+      {
+        "text": "ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ:",
+        "start": 380.36,
+        "end": 384.5
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 384.5,
+        "end": 385.55
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 385.55,
+        "end": 389.83
+      },
+      {
+        "text": "Ⲡⲓⲛⲩⲙⲫⲓⲟⲥ:",
+        "start": 389.83,
+        "end": 394.07
+      },
+      {
+        "text": "ⲕⲁⲧⲁ",
+        "start": 394.07,
+        "end": 397.67
+      },
+      {
+        "text": "ⲛⲓⲥ̀ⲙⲏ",
+        "start": 397.67,
+        "end": 401.49
+      },
+      {
+        "text": "ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
+        "start": 401.49,
+        "end": 412.68
+      }
+    ]
+  },
+  {
+    "start": 412.68,
+    "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ Ⲙⲁⲣⲓⲁ: Ⲑ̀ⲙⲁⲩ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "Intercede on our behalf, O the Lady of us all the Theotokos Mary, the Mother of Jesus Christ, that He may forgive us our sins."
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ",
+        "start": 412.68,
+        "end": 417.35
+      },
+      {
+        "text": "ⲉ̀ϩ̀ⲣⲏⲓ",
+        "start": 417.35,
+        "end": 419.88
+      },
+      {
+        "text": "ⲉ̀ϫⲱⲛ:",
+        "start": 419.88,
+        "end": 422.26
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 422.26,
+        "end": 423.0
+      },
+      {
+        "text": "ⲧⲉⲛϭⲟⲓⲥ",
+        "start": 423.0,
+        "end": 424.49
+      },
+      {
+        "text": "ⲛ̀ⲛⲏⲃ",
+        "start": 424.49,
+        "end": 425.48
+      },
+      {
+        "text": "ⲧⲏⲣⲉⲛ",
+        "start": 425.48,
+        "end": 427.58
+      },
+      {
+        "text": "Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ",
+        "start": 427.58,
+        "end": 433.5
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ:",
+        "start": 433.5,
+        "end": 436.04
+      },
+      {
+        "text": "Ⲑ̀ⲙⲁⲩ",
+        "start": 436.04,
+        "end": 437.7
+      },
+      {
+        "text": "ⲛ̀Ⲓⲏ̅ⲥ̅",
+        "start": 437.7,
+        "end": 439.13
+      },
+      {
+        "text": "Ⲡⲭ̅ⲥ̅:",
+        "start": 439.13,
+        "end": 442.82
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥⲭⲁ",
+        "start": 442.82,
+        "end": 446.87
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ",
+        "start": 446.87,
+        "end": 448.82
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 448.82,
+        "end": 451.29
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ.",
+        "start": 451.29,
+        "end": 459.42
+      }
+    ]
+  }
+]
