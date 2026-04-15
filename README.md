@@ -226,7 +226,7 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 ### Level-2
 - [X] Paralex, Shere Ne Maria
 - [X] Ⲁⲣⲓⲯⲁⲗⲓⲛ
-- [ ] Aspasmos Adam, Resurrection
+- [X] Aspasmos Adam, Resurrection
 
 ## HS
 

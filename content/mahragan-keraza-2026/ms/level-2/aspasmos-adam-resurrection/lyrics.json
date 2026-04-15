@@ -1,9 +1,160 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 4.96,
+    "coptic": "Ⲁ̀ Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed."
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ",
+        "start": 4.96,
+        "end": 14.41
+      },
+      {
+        "text": "Ⲡⲉⲛⲛⲟⲩϯ:",
+        "start": 14.41,
+        "end": 23.35
+      },
+      {
+        "text": "ⲧⲱⲛϥ",
+        "start": 23.35,
+        "end": 24.85
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 24.85,
+        "end": 32.91
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 32.91,
+        "end": 34.06
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 34.06,
+        "end": 46.01
+      },
+      {
+        "text": "ⲛ̀ⲑⲟϥ",
+        "start": 46.01,
+        "end": 50.39
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 50.39,
+        "end": 51.7
+      },
+      {
+        "text": "ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ:",
+        "start": 51.7,
+        "end": 59.65
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 59.65,
+        "end": 62.84
+      },
+      {
+        "text": "ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
+        "start": 62.84,
+        "end": 71.12
+      }
+    ]
+  },
+  {
+    "start": 71.12,
+    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ: ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+    "translations": {
+      "english": "Therefore we glorify Him, proclaiming and saying, “You are blessed O my Lord Jesus, for You have risen and saved us.”"
+    },
+    "words": [
+      {
+        "text": "Ⲉⲑⲃⲉ",
+        "start": 71.12,
+        "end": 73.46
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 73.46,
+        "end": 77.87
+      },
+      {
+        "text": "ⲧⲉⲛϯⲱ̀ⲟⲩ",
+        "start": 77.87,
+        "end": 82.27
+      },
+      {
+        "text": "ⲛⲁϥ:",
+        "start": 82.27,
+        "end": 89.86
+      },
+      {
+        "text": "ⲉⲛⲱϣ",
+        "start": 89.86,
+        "end": 93.98
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 93.98,
+        "end": 98.32
+      },
+      {
+        "text": "ⲉⲛϫⲱ",
+        "start": 98.32,
+        "end": 105.76
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲥ:",
+        "start": 105.76,
+        "end": 108.74
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 108.74,
+        "end": 109.84
+      },
+      {
+        "text": "ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ",
+        "start": 109.84,
+        "end": 115.69
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 115.69,
+        "end": 117.05
+      },
+      {
+        "text": "Ⲡⲁϭⲟⲓⲥ",
+        "start": 117.05,
+        "end": 118.67
+      },
+      {
+        "text": "Ⲓⲏⲥⲟⲩⲥ:",
+        "start": 118.67,
+        "end": 121.6
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 121.6,
+        "end": 122.89
+      },
+      {
+        "text": "ⲁⲕⲧⲱⲛⲕ",
+        "start": 122.89,
+        "end": 126.49
+      },
+      {
+        "text": "ⲁⲕⲥⲱϯ",
+        "start": 126.49,
+        "end": 130.69
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ.",
+        "start": 130.69,
+        "end": 135.0
+      }
+    ]
   }
 ]
