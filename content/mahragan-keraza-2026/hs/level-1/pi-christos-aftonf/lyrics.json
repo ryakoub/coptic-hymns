@@ -1,9 +1,96 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 4.13,
+    "coptic": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲫⲏⲉ̀ⲧⲁϥⲙⲟⲩ ⲁϥϩⲱⲙⲓ ⲉ̀ϫⲉⲛ ⲫ̀ⲙⲟⲩ ⲟⲩⲟϩ ⲛⲏⲉⲧⲭⲏ ϧⲉⲛ ⲛⲓⲙ̀ϩⲁⲩ ⲁϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲱⲟⲩ ⲙ̀ⲡⲓⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "Christ is risen from the dead; He who died trampled down death and upon those in the tombs bestowed eternal life."
+    },
+    "words": [
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 4.13,
+        "end": 14.06
+      },
+      {
+        "text": "ⲁϥⲧⲱⲛϥ",
+        "start": 11.7,
+        "end": 21.99
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 21.26,
+        "end": 28.6
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 34.53,
+        "end": 32.57
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 35.63,
+        "end": 45.79
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁϥⲙⲟⲩ",
+        "start": 53.67,
+        "end": 59.01
+      },
+      {
+        "text": "ⲁϥϩⲱⲙⲓ",
+        "start": 73.45,
+        "end": 66.94
+      },
+      {
+        "text": "ⲉ̀ϫⲉⲛ",
+        "start": 84.38,
+        "end": 73.55
+      },
+      {
+        "text": "ⲫ̀ⲙⲟⲩ",
+        "start": 93.39,
+        "end": 80.16
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 95.28,
+        "end": 85.45
+      },
+      {
+        "text": "ⲛⲏⲉⲧⲭⲏ",
+        "start": 98.42,
+        "end": 93.38
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 104.55,
+        "end": 97.35
+      },
+      {
+        "text": "ⲛⲓⲙ̀ϩⲁⲩ",
+        "start": 105.47,
+        "end": 106.6
+      },
+      {
+        "text": "ⲁϥⲉⲣϩ̀ⲙⲟⲧ",
+        "start": 121.38,
+        "end": 118.5
+      },
+      {
+        "text": "ⲛⲱⲟⲩ",
+        "start": 132.7,
+        "end": 123.79
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲱⲛϧ",
+        "start": 137.82,
+        "end": 133.04
+      },
+      {
+        "text": "ⲛ̀ⲉ̀ⲛⲉϩ.",
+        "start": 141.98,
+        "end": 143.62
+      }
+    ]
   }
 ]

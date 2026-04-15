@@ -1,9 +1,255 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 4.49,
+    "coptic": "Ⲧⲟⲩ ⲗⲓⲑⲟⲩⲥ ⲫ̀ⲣⲁⲅⲓⲥⲑⲉⲛ ⲧⲟⲥ ⲩ̀ⲡⲟ ⲧⲱⲛ Ⲓⲟⲩⲇⲉⲱⲛ: ⲕⲉ ⲥ̀ⲧ̀ⲣⲁⲧⲓⲱ ⲧⲱⲛ ⲫⲩⲗⲁⲥⲥⲟⲛ ⲧⲱⲛ ⲧⲟ ⲁⲭⲣⲁⲛⲧⲟⲛ ⲥⲟⲩ Ⲥⲱⲙⲁ: ⲁ̀ⲛⲉⲥⲧⲏⲥ ⲧ̀ⲣⲓⲏ̀ⲙⲉⲣⲟⲥ Ⲥⲱⲧⲏⲣ: ⲇⲱⲣⲟⲩⲙⲉⲛⲟⲥ ⲧⲱ ⲕⲟⲥⲙⲱ ⲧⲏⲛ ⲍⲱⲏⲛ:",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "When the stone was sealed by the Jews, and the soldiers were guarding Your undefiled Body, You rose on the third day, O Savior, granting life to the world."
+    },
+    "words": [
+      {
+        "text": "Ⲧⲟⲩ",
+        "start": 4.49,
+        "end": 2.61
+      },
+      {
+        "text": "ⲗⲓⲑⲟⲩⲥ",
+        "start": 5.31,
+        "end": 5.84
+      },
+      {
+        "text": "ⲫ̀ⲣⲁⲅⲓⲥⲑⲉⲛ",
+        "start": 7.02,
+        "end": 11.21
+      },
+      {
+        "text": "ⲧⲟⲥ",
+        "start": 10.55,
+        "end": 12.82
+      },
+      {
+        "text": "ⲩ̀ⲡⲟ",
+        "start": 12.6,
+        "end": 14.97
+      },
+      {
+        "text": "ⲧⲱⲛ",
+        "start": 14.18,
+        "end": 16.58
+      },
+      {
+        "text": "Ⲓⲟⲩⲇⲉⲱⲛ:",
+        "start": 15.23,
+        "end": 20.88
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 23.6,
+        "end": 21.95
+      },
+      {
+        "text": "ⲥ̀ⲧ̀ⲣⲁⲧⲓⲱ",
+        "start": 24.17,
+        "end": 26.78
+      },
+      {
+        "text": "ⲧⲱⲛ",
+        "start": 26.7,
+        "end": 28.4
+      },
+      {
+        "text": "ⲫⲩⲗⲁⲥⲥⲟⲛ",
+        "start": 27.8,
+        "end": 32.69
+      },
+      {
+        "text": "ⲧⲱⲛ",
+        "start": 30.87,
+        "end": 34.31
+      },
+      {
+        "text": "ⲧⲟ",
+        "start": 31.86,
+        "end": 35.38
+      },
+      {
+        "text": "ⲁⲭⲣⲁⲛⲧⲟⲛ",
+        "start": 32.72,
+        "end": 39.68
+      },
+      {
+        "text": "ⲥⲟⲩ",
+        "start": 35.25,
+        "end": 41.29
+      },
+      {
+        "text": "Ⲥⲱⲙⲁ:",
+        "start": 36.33,
+        "end": 43.97
+      },
+      {
+        "text": "ⲁ̀ⲛⲉⲥⲧⲏⲥ",
+        "start": 40.28,
+        "end": 48.27
+      },
+      {
+        "text": "ⲧ̀ⲣⲓⲏ̀ⲙⲉⲣⲟⲥ",
+        "start": 42.98,
+        "end": 54.18
+      },
+      {
+        "text": "Ⲥⲱⲧⲏⲣ:",
+        "start": 46.52,
+        "end": 57.4
+      },
+      {
+        "text": "ⲇⲱⲣⲟⲩⲙⲉⲛⲟⲥ",
+        "start": 52.95,
+        "end": 62.78
+      },
+      {
+        "text": "ⲧⲱ",
+        "start": 56.73,
+        "end": 63.85
+      },
+      {
+        "text": "ⲕⲟⲥⲙⲱ",
+        "start": 57.85,
+        "end": 66.54
+      },
+      {
+        "text": "ⲧⲏⲛ",
+        "start": 59.31,
+        "end": 68.15
+      },
+      {
+        "text": "ⲍⲱⲏⲛ:",
+        "start": 60.33,
+        "end": 70.83
+      }
+    ]
+  },
+  {
+    "start": 64.07,
+    "coptic": "ⲇⲓⲁ ⲧⲟⲩⲧⲟ ⲉ̀ⲇⲩⲛⲁⲙⲓⲥ ⲧⲱⲛ ⲟⲩⲣⲁⲛⲱⲛ ⲉ̀ⲃⲟⲱⲛ ⲥⲓ ⲍⲱⲟ̀ⲇⲟⲧⲁ: ⲇⲟⲝⲁ ⲧⲏ Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ ⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲉ: ⲇⲟⲝⲁ ⲧⲏ ⲃⲁⲥⲓⲗⲓⲁ ⲥⲟⲩ: ⲇⲟⲝⲁ ⲧⲏ ⲟⲓⲕⲟⲛⲟⲙⲓⲁ ⲥⲟⲩ: ⲙⲟⲛⲉ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
+    "translations": {
+      "english": "For this reason, the heavenly powers cried out to You, O Giver of Life, “Glory to Your Resurrection O Christ. Glory to Your kingdom. Glory be to Your Economy, O You who alone are Lover of Mankind.”"
+    },
+    "words": [
+      {
+        "text": "ⲇⲓⲁ",
+        "start": 64.07,
+        "end": 72.47
+      },
+      {
+        "text": "ⲧⲟⲩⲧⲟ",
+        "start": 65.77,
+        "end": 75.21
+      },
+      {
+        "text": "ⲉ̀ⲇⲩⲛⲁⲙⲓⲥ",
+        "start": 67.41,
+        "end": 80.13
+      },
+      {
+        "text": "ⲧⲱⲛ",
+        "start": 70.83,
+        "end": 81.77
+      },
+      {
+        "text": "ⲟⲩⲣⲁⲛⲱⲛ",
+        "start": 71.96,
+        "end": 85.6
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲱⲛ",
+        "start": 76.49,
+        "end": 88.88
+      },
+      {
+        "text": "ⲥⲓ",
+        "start": 81.0,
+        "end": 89.97
+      },
+      {
+        "text": "ⲍⲱⲟ̀ⲇⲟⲧⲁ:",
+        "start": 82.59,
+        "end": 94.89
+      },
+      {
+        "text": "ⲇⲟⲝⲁ",
+        "start": 89.03,
+        "end": 97.08
+      },
+      {
+        "text": "ⲧⲏ",
+        "start": 90.65,
+        "end": 98.17
+      },
+      {
+        "text": "Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ",
+        "start": 91.62,
+        "end": 103.09
+      },
+      {
+        "text": "ⲥⲟⲩ",
+        "start": 94.47,
+        "end": 104.73
+      },
+      {
+        "text": "Ⲭ̀ⲣⲓⲥⲧⲉ:",
+        "start": 95.21,
+        "end": 109.11
+      },
+      {
+        "text": "ⲇⲟⲝⲁ",
+        "start": 97.84,
+        "end": 111.3
+      },
+      {
+        "text": "ⲧⲏ",
+        "start": 99.35,
+        "end": 112.39
+      },
+      {
+        "text": "ⲃⲁⲥⲓⲗⲓⲁ",
+        "start": 100.4,
+        "end": 116.22
+      },
+      {
+        "text": "ⲥⲟⲩ:",
+        "start": 106.3,
+        "end": 118.41
+      },
+      {
+        "text": "ⲇⲟⲝⲁ",
+        "start": 107.49,
+        "end": 120.59
+      },
+      {
+        "text": "ⲧⲏ",
+        "start": 108.68,
+        "end": 121.69
+      },
+      {
+        "text": "ⲟⲓⲕⲟⲛⲟⲙⲓⲁ",
+        "start": 109.65,
+        "end": 126.61
+      },
+      {
+        "text": "ⲥⲟⲩ:",
+        "start": 115.19,
+        "end": 128.79
+      },
+      {
+        "text": "ⲙⲟⲛⲉ",
+        "start": 116.48,
+        "end": 130.98
+      },
+      {
+        "text": "Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
+        "start": 123.06,
+        "end": 137.54
+      }
+    ]
   }
 ]
