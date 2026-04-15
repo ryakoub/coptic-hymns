@@ -338,9 +338,14 @@ syncRafId = requestAnimationFrame(syncFrame);
 }
 
 function stopSyncLoop() {
-if (syncRafId === null) return;
-cancelAnimationFrame(syncRafId);
-syncRafId = null;
+  if (syncRafId !== null) {
+    cancelAnimationFrame(syncRafId);
+    syncRafId = null;
+  }
+  // Don't clear highlights if pause was fired by seek machinery
+  if (!isSeekInFlight) {
+    clearActiveLyricsState();
+  }
 }
 
 const COPTIC_FONT_PREF_KEY = "copticFontMode";
