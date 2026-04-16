@@ -443,6 +443,13 @@ line.stanzas.forEach((stanza, si) => {
 const span = document.createElement("span");
 span.className = "stanza";
 span.textContent = stanza.coptic;
+span.style.cursor = "pointer";
+span.addEventListener("click", (event) => {
+event.stopPropagation();
+if (Number.isFinite(stanza.start)) {
+seekToTime(stanza.start, index);
+}
+});
 copticDiv.appendChild(span);
 if (si < line.stanzas.length - 1) {
 copticDiv.appendChild(document.createTextNode(" "));
