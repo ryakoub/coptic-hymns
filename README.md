@@ -238,7 +238,7 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 - [X] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
 
 ### Level-2
-- [ ] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ
+- [X] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ
 - [ ] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
 - [ ] Joyful Ⲁⲅⲓⲟⲥ, Major
 

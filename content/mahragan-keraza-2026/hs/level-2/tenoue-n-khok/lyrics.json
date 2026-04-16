@@ -1,9 +1,346 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 4.84,
+    "coptic": "Ⲧⲉⲛⲟⲩⲉϩ ⲛ̀ⲥⲱⲕ ϧⲉⲛ ⲡⲉⲛϩⲏⲧ ⲧⲏⲣϥ: ⲧⲉⲛⲉⲣϩⲟϯ ϧⲁⲧⲉⲕϩⲏ: ⲟⲩⲟϩ ⲧⲉⲛⲕⲱϯ ⲛ̀ⲥⲁ ⲡⲉⲕϩⲟ: Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲡⲉⲣϯϣⲓⲡⲓ ⲛⲁⲛ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "We follow You with all our hearts, and fear You, and we seek Your face, O God do not forsake us."
+    },
+    "words": [
+      {
+        "text": "Ⲧⲉⲛⲟⲩⲉϩ",
+        "start": 4.84,
+        "end": 13.67
+      },
+      {
+        "text": "ⲛ̀ⲥⲱⲕ",
+        "start": 13.67,
+        "end": 23.24
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 23.24,
+        "end": 24.5
+      },
+      {
+        "text": "ⲡⲉⲛϩⲏⲧ",
+        "start": 24.5,
+        "end": 34.52
+      },
+      {
+        "text": "ⲧⲏⲣϥ:",
+        "start": 34.52,
+        "end": 44.09
+      },
+      {
+        "text": "ⲧⲉⲛⲉⲣϩⲟϯ",
+        "start": 44.09,
+        "end": 63.14
+      },
+      {
+        "text": "ϧⲁⲧⲉⲕϩⲏ:",
+        "start": 63.14,
+        "end": 73.34
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 73.34,
+        "end": 82.61
+      },
+      {
+        "text": "ⲧⲉⲛⲕⲱϯ",
+        "start": 82.61,
+        "end": 92.18
+      },
+      {
+        "text": "ⲛ̀ⲥⲁ",
+        "start": 92.18,
+        "end": 101.81
+      },
+      {
+        "text": "ⲡⲉⲕϩⲟ:",
+        "start": 101.81,
+        "end": 112.05
+      },
+      {
+        "text": "Ⲫ̀ⲛⲟⲩϯ",
+        "start": 112.05,
+        "end": 121.83
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲣϯϣⲓⲡⲓ",
+        "start": 121.83,
+        "end": 140.7
+      },
+      {
+        "text": "ⲛⲁⲛ.",
+        "start": 140.7,
+        "end": 144.6
+      }
+    ]
+  },
+  {
+    "start": 144.6,
+    "coptic": "Ⲁⲗⲗⲁ ⲁ̀ⲣⲓⲟⲩⲓ̀ ⲛⲉⲙⲁⲛ: ⲕⲁⲧⲁ ⲧⲉⲕⲙⲉⲧⲉ̀ⲡⲓⲕⲏⲥ: ⲛⲉⲙ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲛⲁⲓ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ.",
+    "translations": {
+      "english": "But rather deal with us, according to Your meekness, and according to Your great mercy, O Lord help us."
+    },
+    "words": [
+      {
+        "text": "Ⲁⲗⲗⲁ",
+        "start": 144.6,
+        "end": 154.34
+      },
+      {
+        "text": "ⲁ̀ⲣⲓⲟⲩⲓ̀",
+        "start": 154.34,
+        "end": 171.71
+      },
+      {
+        "text": "ⲛⲉⲙⲁⲛ:",
+        "start": 171.71,
+        "end": 182.06
+      },
+      {
+        "text": "ⲕⲁⲧⲁ",
+        "start": 182.06,
+        "end": 192.32
+      },
+      {
+        "text": "ⲧⲉⲕⲙⲉⲧⲉ̀ⲡⲓⲕⲏⲥ:",
+        "start": 192.32,
+        "end": 211.45
+      },
+      {
+        "text": "ⲛⲉⲙ ⲕⲁⲧⲁ",
+        "start": 211.45,
+        "end": 219.98
+      },
+      {
+        "text": "ⲡ̀ⲁ̀ϣⲁⲓ",
+        "start": 219.98,
+        "end": 230.45
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 230.45,
+        "end": 240.0
+      },
+      {
+        "text": "ⲡⲉⲕⲛⲁⲓ:",
+        "start": 240.0,
+        "end": 249.32
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 249.32,
+        "end": 258.62
+      },
+      {
+        "text": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ",
+        "start": 258.62,
+        "end": 276.55
+      },
+      {
+        "text": "ⲉ̀ⲣⲟⲛ.",
+        "start": 276.55,
+        "end": 281.21
+      }
+    ]
+  },
+  {
+    "start": 281.21,
+    "coptic": "Ⲙⲁⲣⲉ ⲧⲉⲛⲡ̀ⲣⲟⲥⲉⲩⲭⲏ Ⲡⲉⲛⲛⲏⲃ: ⲓ̀ ⲉ̀ⲡ̀ϣⲱⲓ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ: ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛϭⲗⲓⲗ ⲛ̀ⲧⲉ ϩⲁⲛⲱⲓⲗⲓ: ⲛⲉⲙ ϩⲁⲛⲙⲁⲥⲓ ⲉⲩⲕⲉⲛⲓⲱ̀ⲟⲩⲧ.",
+    "translations": {
+      "english": "May our prayers ascend to You, O our Master, like burnt offerings of lambs, and fat calves."
+    },
+    "words": [
+      {
+        "text": "Ⲙⲁⲣⲉ",
+        "start": 281.21,
+        "end": 281.92
+      },
+      {
+        "text": "ⲧⲉⲛⲡ̀ⲣⲟⲥⲉⲩⲭⲏ",
+        "start": 281.92,
+        "end": 287.33
+      },
+      {
+        "text": "Ⲡⲉⲛⲛⲏⲃ:",
+        "start": 287.33,
+        "end": 290.32
+      },
+      {
+        "text": "ⲓ̀",
+        "start": 290.32,
+        "end": 291.58
+      },
+      {
+        "text": "ⲉ̀ⲡ̀ϣⲱⲓ",
+        "start": 291.58,
+        "end": 294.89
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ:",
+        "start": 294.89,
+        "end": 298.7
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲣⲏϯ",
+        "start": 298.7,
+        "end": 300.71
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛϭⲗⲓⲗ",
+        "start": 300.71,
+        "end": 303.12
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 303.12,
+        "end": 304.46
+      },
+      {
+        "text": "ϩⲁⲛⲱⲓⲗⲓ:",
+        "start": 304.46,
+        "end": 308.89
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 308.89,
+        "end": 309.89
+      },
+      {
+        "text": "ϩⲁⲛⲙⲁⲥⲓ",
+        "start": 309.89,
+        "end": 318.05
+      },
+      {
+        "text": "ⲉⲩⲕⲉⲛⲓⲱ̀ⲟⲩⲧ.",
+        "start": 313.0,
+        "end": 318.43
+      }
+    ]
+  },
+  {
+    "start": 318.43,
+    "coptic": "Ⲙ̀ⲡⲉⲣⲉⲣⲡⲱⲃϣ ⲛ̀ϯⲇⲓⲁⲑⲏⲕⲏ: ⲑⲏⲉ̀ⲧⲁⲕⲥⲉⲙⲛⲏⲧⲥ ⲛⲉⲙ ⲛⲉⲛⲓⲟϯ: Ⲁⲃⲣⲁⲁⲙ Ⲓ̀ⲥⲁⲁⲕ Ⲓⲁⲕⲱⲃ: Ⲡⲓⲥⲣⲁⲏⲗ ⲡⲉⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ.",
+    "translations": {
+      "english": "Do not forget the covenant, which You have made with our fathers, Abraham Isaac and Jacob, Israel Your saint."
+    },
+    "words": [
+      {
+        "text": "Ⲙ̀ⲡⲉⲣⲉⲣⲡⲱⲃϣ",
+        "start": 318.43,
+        "end": 322.3
+      },
+      {
+        "text": "ⲛ̀ϯⲇⲓⲁⲑⲏⲕⲏ:",
+        "start": 322.3,
+        "end": 327.46
+      },
+      {
+        "text": "ⲑⲏⲉ̀ⲧⲁⲕⲥⲉⲙⲛⲏⲧⲥ",
+        "start": 327.46,
+        "end": 332.67
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 332.67,
+        "end": 334.48
+      },
+      {
+        "text": "ⲛⲉⲛⲓⲟϯ:",
+        "start": 334.48,
+        "end": 337.18
+      },
+      {
+        "text": "Ⲁⲃⲣⲁⲁⲙ",
+        "start": 337.18,
+        "end": 341.44
+      },
+      {
+        "text": "Ⲓ̀ⲥⲁⲁⲕ",
+        "start": 341.44,
+        "end": 343.88
+      },
+      {
+        "text": "Ⲓⲁⲕⲱⲃ:",
+        "start": 343.88,
+        "end": 346.43
+      },
+      {
+        "text": "Ⲡⲓⲥⲣⲁⲏⲗ",
+        "start": 346.43,
+        "end": 349.91
+      },
+      {
+        "text": "ⲡⲉⲉⲑⲟⲩⲁⲃ",
+        "start": 349.91,
+        "end": 353.27
+      },
+      {
+        "text": "ⲛ̀ⲧⲁⲕ.",
+        "start": 353.27,
+        "end": 354.34
+      }
+    ]
+  },
+  {
+    "start": 354.34,
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ: ⲛⲓⲫⲩⲗⲏ ⲛⲓⲁⲥⲡⲓ ⲛ̀ⲗⲁⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲙⲁⲱ̀ⲟⲩ ⲛⲁϥ: ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+    "translations": {
+      "english": "Bless the Lord all you nations, the tribes and all kinds of tongues, praise Him and glorify Him, above all forever."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ:",
+        "english": "Bless the Lord all you nations,",
+        "start": 354.34
+      },
+      {
+        "coptic": "ⲛⲓⲫⲩⲗⲏ ⲛⲓⲁⲥⲡⲓ ⲛ̀ⲗⲁⲥ:",
+        "english": "the tribes and all kinds of tongues,",
+        "start": 364.0
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲙⲁⲱ̀ⲟⲩ ⲛⲁϥ:",
+        "english": "praise Him and glorify Him,",
+        "start": 365.58
+      },
+      {
+        "coptic": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+        "english": "above all forever.",
+        "start": 368.77
+      }
+    ]
+  },
+  {
+    "start": 373.18,
+    "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲡⲓϣⲟⲙⲧ ⲛ̀ⲁ̀ⲗⲟⲩ ⲛ̀ⲁ̀ⲅⲓⲟⲥ: Ⲥⲉⲇⲣⲁⲕ Ⲙⲓⲥⲁⲕ Ⲁⲃⲇⲉⲛⲁⲅⲱ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "Pray to the Lord on our behalf, O three saintly children, Sedrach Misach and Abednego, that He may forgive us our sins."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:",
+        "english": "Pray to the Lord on our behalf,",
+        "start": 373.18
+      },
+      {
+        "coptic": "ⲱ̀ ⲡⲓϣⲟⲙⲧ ⲛ̀ⲁ̀ⲗⲟⲩ ⲛ̀ⲁ̀ⲅⲓⲟⲥ:",
+        "english": "O three saintly children,",
+        "start": 377.96
+      },
+      {
+        "coptic": "Ⲥⲉⲇⲣⲁⲕ Ⲙⲓⲥⲁⲕ Ⲁⲃⲇⲉⲛⲁⲅⲱ:",
+        "english": "Sedrach Misach and Abednego,",
+        "start": 382.66
+      },
+      {
+        "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+        "english": "that He may forgive us our sins.",
+        "start": 387.47
+      }
+    ]
   }
 ]
