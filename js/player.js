@@ -133,7 +133,17 @@ currentLines[activeIndex].element.classList.add("active");
 currentLineIndex = activeIndex;
 
 if (autoScrollEnabled) {
-currentLines[activeIndex].element.scrollIntoView({ behavior: "smooth", block: "center" });
+const el = currentLines[activeIndex].element;
+const elRect = el.getBoundingClientRect();
+const audioBarTop = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--audio-bar-top")) || 0;
+const audioBarHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--audio-bar-height")) || 0;
+const clearanceTop = audioBarTop + audioBarHeight + 12; // px below the fixed audio bar
+const elIsAboveBar = elRect.top < clearanceTop;
+const elIsBelowViewport = elRect.top > window.innerHeight * 0.75;
+if (elIsAboveBar || elIsBelowViewport) {
+const targetScrollY = window.scrollY + elRect.top - clearanceTop;
+window.scrollTo({ top: targetScrollY, behavior: "smooth" });
+}
 }
 }
 
