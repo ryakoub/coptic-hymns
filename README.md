@@ -239,7 +239,7 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ### Level-2
 - [X] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ
-- [ ] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
+- [X] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
 - [ ] Joyful Ⲁⲅⲓⲟⲥ, Major
 
 ## COLLEGE & UP
