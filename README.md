@@ -1,4 +1,5 @@
 # Tools
+
 Some helpers tools to import lyrics and attempt syncing with audio.
 
 ## Import Lyrics From Tasbeha.org
@@ -158,28 +159,33 @@ Recommended stress test pattern:
 If testing does not reflect latest code, close and reopen the phone tab after each `player.js` version bump in `player.html`.
 
 # Hymns
+
 These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ## KG
 
 ### Level-1
+
 - [ ] Concluding Canon for Feast of the Cross
 - [ ] Sotees Ameen (Fast)
 - [ ] Psalm Response, Resurrection
 
 ### Level-2
-- [X] Ere Po Esmo (May Their Holy Blessing)
-- [ ] Liturgy Gospel Response, Annual
-- [X] Hiten for Archangel Michael, Feast of Resurrection
+
+- [x] Ere Po Esmo (May Their Holy Blessing)
+- [x] Liturgy Gospel Response, Annual
+- [x] Hiten for Archangel Michael, Feast of Resurrection
 
 ## GRADES-1-2
 
 ### Level-1
+
 - [ ] Procession Refrain, Feast of the Cross
-- [X] This Is the Day
+- [x] This Is the Day
 - [ ] Blessed, Pentecost
 
 ### Level-2
+
 - [ ] The Thought of Man
 - [ ] St. Mark Doxology (First One)
 - [ ] Liturgy Gospel Response, Resurrection
@@ -187,71 +193,81 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 ## GRADES-3-4
 
 ### Level-1
-- [X] Gospel Response of the Feast of the Cross
-- [X] The Golden Censer
-- [X] Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ
-- [X] ⲧⲟⲛ ⲥⲩⲛⲁ
-- [X] Doxology of St. Mary Vespers
+
+- [x] Gospel Response of the Feast of the Cross
+- [x] The Golden Censer
+- [x] Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ
+- [x] ⲧⲟⲛ ⲥⲩⲛⲁ
+- [x] Doxology of St. Mary Vespers
 
 ### Level-2
-- [X] The Second Doxology of the Apostles
-- [X] Psalm 150, 4th Hoos
-- [X] Paralex of Resurrection
-- [X] Distribution Refrain for Resurrection
+
+- [x] The Second Doxology of the Apostles
+- [ ] Psalm 150, 4th Hoos
+- [ ] Paralex of Resurrection
+- [ ] Distribution Refrain for Resurrection
 
 ## GRADES-5-6
 
 ### Level-1
-- [X] Verse of Cymbals for Feast of the Cross
-- [X] Doxology of St. Mary, Matins
-- [X] Praxis Response, Annual
-- [X] Doxology of Resurrection
-- [X] Conclusion of Midnight Praises
+
+- [ ] Verse of Cymbals for Feast of the Cross
+- [ ] Doxology of St. Mary, Matins
+- [ ] Praxis Response, Annual
+- [ ] Doxology of Resurrection
+- [ ] Conclusion of Midnight Praises
 
 ### Level-2
-- [X] Doxology of Heavenly Orders
-- [X] Anaphora Responses of St. Basil and St. Gregory Liturgies
-- [X] Verse of Cymbals for Resurrection
-- [X] Praxis Response for Resurrection
+
+- [ ] Doxology of Heavenly Orders
+- [ ] Anaphora Responses of St. Basil and St. Gregory Liturgies
+- [ ] Verse of Cymbals for Resurrection
+- [ ] Praxis Response for Resurrection
 
 ## MS
 
 ### Level-1
-- [X] Refrain of Third Hour, Pentecost
-- [X] Praxis Response, Feast of the Cross
-- [X] The Hymn of the Blessing
-- [X] Lobsh of First Hoos
-- [X] Christ Is Risen
+
+- [ ] Refrain of Third Hour, Pentecost
+- [ ] Praxis Response, Feast of the Cross
+- [ ] The Hymn of the Blessing
+- [ ] Lobsh of First Hoos
+- [ ] Christ Is Risen
 
 ### Level-2
-- [X] Paralex, Shere Ne Maria
-- [X] Ⲁⲣⲓⲯⲁⲗⲓⲛ
-- [X] Aspasmos Adam, Resurrection
+
+- [ ] Paralex, Shere Ne Maria
+- [ ] Ⲁⲣⲓⲯⲁⲗⲓⲛ
+- [ ] Aspasmos Adam, Resurrection
 
 ## HS
 
 ### Level-1
-- [X] Ⲡⲓⲱⲓⲕ
-- [X] First Hoos
-- [X] Second Doxology of Resurrection
-- [X] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
-- [X] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
+
+- [ ] Ⲡⲓⲱⲓⲕ
+- [x] First Hoos
+- [ ] Second Doxology of Resurrection
+- [ ] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
+- [ ] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
 
 ### Level-2
-- [X] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ
-- [X] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
-- [X] Joyful Ⲁⲅⲓⲟⲥ, Major
+
+- [ ] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲭⲱⲕ
+- [ ] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
+- [ ] Joyful Ⲁⲅⲓⲟⲥ, Major
 
 ## COLLEGE & UP
 
 ### Level-1
+
 - [ ] Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos
-- [X] Hossana Intro to Doxologies & 1st Doxology
+- [x] Hossana Intro to Doxologies & 1st Doxology
 - [ ] ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ
 - [ ] Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ
 
 ### Level-2
+
 - [ ] Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ
-- [X] Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ
+- [x] Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ
 - [ ] Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ
 - [ ] Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ

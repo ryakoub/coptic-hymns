@@ -2,7 +2,7 @@ import librosa
 import numpy as np
 
 # ==== CONFIG ====
-AUDIO_FILE = ""
+AUDIO_FILE = "/Users/mohebalbert/Desktop/github/coptic-hymns/content/mahragan-keraza-2026/grades-1-2/level-1/procession-refrain-feast-cross/audio.mp3"
 TOP_DB = 10                # sensitivity (lower = stricter silence)
 MIN_SILENCE_SEC = 0.2      # minimum pause length
 HOP_LENGTH = 512

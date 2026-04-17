@@ -1,9 +1,50 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 0,
+    "coptic": "Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ ϧⲉⲛ ⲟⲩⲙⲉⲑⲏⲓ: ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ: ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲡⲉϥⲣⲁⲛ: ⲛⲓⲙⲉⲛⲣⲁϯ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅",
+    "translations": {
+      "english": "Blessed are they in truth, the saints of this day, each one according to his name, the beloved of Christ"
+    },
+    "words": [
+      { "text": "Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ", "start": 5.43, "end": 9.78 },
+      { "text": "ϧⲉⲛ ⲟⲩⲙⲉⲑⲏⲓ", "start": 9.88, "end": 15.35 },
+      { "text": "ⲛⲏⲉ̅ⲑ̅ⲩ̅", "start": 15.65, "end": 20.85 },
+      { "text": "ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ", "start": 20.97, "end": 25.91 },
+      { "text": "ⲡⲓⲟⲩⲁ ⲡⲓⲟⲩⲁⲓⲓ", "start": 26.12, "end": 31.88 },
+      { "text": "ⲕⲁⲧⲁ", "start": 32.49, "end": 34.92 },
+      { "text": "ⲡⲉϥⲣⲁⲛ:", "start": 35.11, "end": 37.8 },
+      { "text": "ⲛⲓⲙⲉⲛⲣⲁϯ", "start": 37.91, "end": 42.49 },
+      { "text": "ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅", "start": 42.79, "end": 47.29 }
+    ]
+  },
+  {
+    "start": 47.45,
+    "coptic": "Ⲁⲣⲓⲡⲣⲉⲥⲃⲉⲩⲓⲛ ⲉϩ̀ⲣⲏⲓ ⲉϫⲱⲛ: ⲱ̀ ⲧⲉⲛⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟⲧⲟⲕⲟⲥ: Ⲙⲁⲣⲓⲁ ⲑ̀ⲙⲁⲩ ⲙ̀ⲡⲉⲛⲤⲱⲧⲏⲣ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ",
+    "translations": {
+      "english": "Intercede on our behalf, O lady of us all, the Mother of God, Mary, the Mother of our Savior, that He may forgive us our sins"
+    },
+    "words": [
+      { "text": "Ⲁⲣⲓⲡⲣⲉⲥⲃⲉⲩⲓⲛ ⲉϩ̀ⲣⲏⲓ ⲉϫⲱⲛ", "start": 47.64, "end": 52.83 },
+      { "text": "ⲱ̀ ⲧⲉⲛⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟⲧⲟⲕⲟⲥ", "start": 53.09, "end": 58.39 },
+      { "text": "Ⲙⲁⲣⲓⲁ ⲑ̀ⲙⲁⲩ ⲙ̀ⲡⲉⲛⲤⲱⲧⲏⲣ", "start": 58.68, "end": 63.85 },
+      { "text": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ", "start": 64.01, "end": 69.57 }
+    ]
+  },
+  {
+    "start": 69.7,
+    "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ",
+    "translations": {
+      "english": "Blessed be the Father and the Son and the Holy Spirit, the perfect Trinity. We worship Him and glorify Him"
+    },
+    "words": [
+      {
+        "text": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ",
+        "start": 69.87,
+        "end": 75.92
+      },
+      { "text": "ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅", "start": 76.15, "end": 81.29 },
+      { "text": "Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ", "start": 81.65, "end": 86.25 },
+      { "text": "ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ", "start": 86.45, "end": 94.11 }
+    ]
+  }
 ]
