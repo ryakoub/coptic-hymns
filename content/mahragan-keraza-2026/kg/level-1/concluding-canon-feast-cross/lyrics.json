@@ -1,9 +1,18 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 4.2,
+    "coptic": "ⲫⲏⲉ̀ⲧⲁⲩⲁϣϥ ⲉ̀ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲉⲕⲉ̀ϧⲟⲙϧⲉⲙ ⲙ̀ⲡ̀ⲥⲁⲧⲁⲛⲁⲥ: ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲉⲛϭⲁⲗⲁⲩϫ. Ⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ",
+    "translations": {
+      "english": "Who was crucified on the Cross, trample Satan, under our feet. Save us and have mercy on us."
+    },
+    "words": [
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁⲩⲁϣϥ ⲉ̀ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲉⲕⲉ̀ϧⲟⲙϧⲉⲙ ⲙ̀ⲡ̀ⲥⲁⲧⲁⲛⲁⲥ:",
+        "start": 4.8,
+        "end": 11.56
+      },
+      { "text": "ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲉⲛϭⲁⲗⲁⲩϫ.", "start": 11.62, "end": 15.52 },
+      { "text": "Ⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ", "start": 15.6, "end": 18.9 }
+    ]
+  }
 ]

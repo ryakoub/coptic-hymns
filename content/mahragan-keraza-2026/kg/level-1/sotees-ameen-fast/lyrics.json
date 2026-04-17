@@ -1,9 +1,16 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 3,
+    "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ: ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
+    "translations": {
+      "english": "Saved. Amen. And with your spirit."
+    },
+    "words": [
+      { "text": "Ⲥⲱⲑⲓⲥ", "start": 3.4, "end": 5.93 },
+      { "text": "ⲁ̀ⲙⲏⲛ:", "start": 5.99, "end": 9.44 },
+      { "text": "ⲕⲉ ⲧⲱ", "start": 9.5, "end": 13.56 },
+      { "text": "ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ", "start": 13.62, "end": 23.25 },
+      { "text": "ⲥⲟⲩ", "start": 23.3, "end": 28 }
+    ]
+  }
 ]

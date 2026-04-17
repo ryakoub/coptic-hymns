@@ -1,9 +1,20 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 3.9,
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀ ⲛ̀ⲟ̀ⲩⲣⲱⲙⲓ ⲉϥⲉ̀ⲟ̀ⲩⲱ̀ⲛϩ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ Ⲡ̀ⲟ̅ⲥ̅: ⲟⲩⲟϩ ⲡ̀ⲥⲱϫⲡ ⲛ̀ⲧⲉ ⲟ̀ⲩⲙⲉⲩⲓ̀ ⲉϥⲉ̀ⲉⲣϣⲁⲓ ⲛⲁⲕ. Ⲛⲓⲑⲩⲥⲓⲁ ⲛⲓⲡ̀ⲣⲟⲥⲫⲟⲣⲁ ϣⲟⲡⲟⲩ ⲉ̀ⲣⲟⲕ. Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "translations": {
+      "english": "Alleluia The thought of man shall confess to You O Lord, and the remainder of thought shall keep a feast to You. The sacrifices and the offerings receive them to Yourself. Alleluia"
+    },
+    "words": [
+      { "text": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀", "start": 4.2, "end": 10.5 },
+      { "text": "ⲛ̀ⲟ̀ⲩⲣⲱⲙⲓ", "start": 10.57, "end": 14.1 },
+      { "text": "ⲉϥⲉ̀ⲟ̀ⲩⲱ̀ⲛϩ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ Ⲡ̀ⲟ̅ⲥ̅:", "start": 14.15, "end": 29.1 },
+      { "text": "ⲟⲩⲟϩ ⲡ̀ⲥⲱϫⲡ ⲛ̀ⲧⲉ", "start": 29.17, "end": 34.4 },
+      { "text": "ⲟ̀ⲩⲙⲉⲩⲓ̀", "start": 34.45, "end": 36.74 },
+      { "text": "ⲉϥⲉ̀ⲉⲣϣⲁⲓ ⲛⲁⲕ.", "start": 36.8, "end": 42.77 },
+      { "text": "Ⲛⲓⲑⲩⲥⲓⲁ ⲛⲓⲡ̀ⲣⲟⲥⲫⲟⲣⲁ", "start": 42.82, "end": 49.06 },
+      { "text": "ϣⲟⲡⲟⲩ ⲉ̀ⲣⲟⲕ.", "start": 49.1, "end": 54.19 },
+      { "text": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ", "start": 54.22, "end": 70.5 }
+    ]
+  }
 ]

@@ -166,9 +166,9 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ### Level-1
 
-- [ ] Concluding Canon for Feast of the Cross
-- [ ] Sotees Ameen (Fast)
-- [ ] Psalm Response, Resurrection
+- [x] Concluding Canon for Feast of the Cross
+- [x] Sotees Ameen (Fast)
+- [x] Psalm Response, Resurrection
 
 ### Level-2
 
@@ -180,13 +180,13 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ### Level-1
 
-- [ ] Procession Refrain, Feast of the Cross
+- [x] Procession Refrain, Feast of the Cross
 - [x] This Is the Day
-- [ ] Blessed, Pentecost
+- [x] Blessed, Pentecost
 
 ### Level-2
 
-- [ ] The Thought of Man
+- [x] The Thought of Man
 - [x] St. Mark Doxology (First One)
 - [x] Liturgy Gospel Response, Resurrection
 
@@ -203,58 +203,58 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 ### Level-2
 
 - [x] The Second Doxology of the Apostles
-- [ ] Psalm 150, 4th Hoos
-- [ ] Paralex of Resurrection
-- [ ] Distribution Refrain for Resurrection
+- [x] Psalm 150, 4th Hoos
+- [x] Paralex of Resurrection
+- [x] Distribution Refrain for Resurrection
 
 ## GRADES-5-6
 
 ### Level-1
 
-- [ ] Verse of Cymbals for Feast of the Cross
-- [ ] Doxology of St. Mary, Matins
-- [ ] Praxis Response, Annual
-- [ ] Doxology of Resurrection
-- [ ] Conclusion of Midnight Praises
+- [x] Verse of Cymbals for Feast of the Cross
+- [x] Doxology of St. Mary, Matins
+- [x] Praxis Response, Annual
+- [x] Doxology of Resurrection
+- [x] Conclusion of Midnight Praises
 
 ### Level-2
 
-- [ ] Doxology of Heavenly Orders
-- [ ] Anaphora Responses of St. Basil and St. Gregory Liturgies
-- [ ] Verse of Cymbals for Resurrection
-- [ ] Praxis Response for Resurrection
+- [x] Doxology of Heavenly Orders
+- [x] Anaphora Responses of St. Basil and St. Gregory Liturgies
+- [x] Verse of Cymbals for Resurrection
+- [x] Praxis Response for Resurrection
 
 ## MS
 
 ### Level-1
 
-- [ ] Refrain of Third Hour, Pentecost
-- [ ] Praxis Response, Feast of the Cross
-- [ ] The Hymn of the Blessing
-- [ ] Lobsh of First Hoos
-- [ ] Christ Is Risen
+- [x] Refrain of Third Hour, Pentecost
+- [x] Praxis Response, Feast of the Cross
+- [x] The Hymn of the Blessing
+- [x] Lobsh of First Hoos
+- [x] Christ Is Risen
 
 ### Level-2
 
-- [ ] Paralex, Shere Ne Maria
-- [ ] Ⲁⲣⲓⲯⲁⲗⲓⲛ
-- [ ] Aspasmos Adam, Resurrection
+- [x] Paralex, Shere Ne Maria
+- [x] Ⲁⲣⲓⲯⲁⲗⲓⲛ
+- [x] Aspasmos Adam, Resurrection
 
 ## HS
 
 ### Level-1
 
-- [ ] Ⲡⲓⲱⲓⲕ
+- [x] Ⲡⲓⲱⲓⲕ
 - [x] First Hoos
-- [ ] Second Doxology of Resurrection
-- [ ] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
-- [ ] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
+- [x] Second Doxology of Resurrection
+- [x] Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ
+- [x] Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ
 
 ### Level-2
 
-- [ ] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲭⲱⲕ
-- [ ] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
-- [ ] Joyful Ⲁⲅⲓⲟⲥ, Major
+- [x] Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ
+- [x] Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ
+- [x] Joyful Ⲁⲅⲓⲟⲥ, Major
 
 ## COLLEGE & UP
 

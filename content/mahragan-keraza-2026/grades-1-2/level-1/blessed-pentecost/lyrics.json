@@ -1,9 +1,18 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 6.2,
+    "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: ϯⲦ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ",
+    "translations": {
+      "english": "Blessed be the Father and the Son and the Holy Spirit, the perfect Trinity. We worship Him and glorify Him."
+    },
+    "words": [
+      { "text": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ", "start": 6.4, "end": 14.27 },
+      { "text": "ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ:", "start": 14.33, "end": 18.91 },
+      { "text": "ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅:", "start": 18.95, "end": 30.4 },
+      { "text": "ϯⲦ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ", "start": 30.45, "end": 37.46 },
+      { "text": "ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ", "start": 37.51, "end": 43.68 },
+      { "text": "ⲙ̀ⲙⲟⲥ", "start": 43.72, "end": 47.41 },
+      { "text": "ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ", "start": 47.45, "end": 54.3 }
+    ]
+  }
 ]
