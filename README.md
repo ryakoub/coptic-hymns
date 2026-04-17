@@ -187,8 +187,8 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 ### Level-2
 
 - [ ] The Thought of Man
-- [ ] St. Mark Doxology (First One)
-- [ ] Liturgy Gospel Response, Resurrection
+- [x] St. Mark Doxology (First One)
+- [x] Liturgy Gospel Response, Resurrection
 
 ## GRADES-3-4
 

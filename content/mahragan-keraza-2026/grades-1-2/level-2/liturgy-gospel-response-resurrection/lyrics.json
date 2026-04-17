@@ -1,9 +1,68 @@
 [
-{
-"start": 0,
-"coptic": "Lyrics coming soon",
-"translations": {
-"english": "Lyrics coming soon"
-}
-}
+  {
+    "start": 5,
+    "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ: ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ: Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ",
+    "translations": {
+      "english": "Moreover He was placed in the tomb, according to the prophetic voices, on the third day, Christ rose from the dead."
+    },
+    "words": [
+      { "text": "Ⲗⲟⲓⲡⲟⲛ ⲁⲩⲭⲁϥ", "start": 4.98, "end": 9.46 },
+      { "text": "ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ:", "start": 9.48, "end": 15 },
+      { "text": "ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ:", "start": 15.1, "end": 25.6 },
+      { "text": "ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ", "start": 25.65, "end": 30.1 },
+      { "text": "ⲛ̀ⲉ̀ϩⲟⲟⲩ:", "start": 30.14, "end": 35 },
+      { "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ", "start": 35.07, "end": 41.64 },
+      { "text": "ⲉⲕ ⲛⲉⲕⲣⲱⲛ", "start": 41.68, "end": 46.73 }
+    ]
+  },
+
+  {
+    "start": 47,
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅): Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ",
+    "translations": {
+      "english": "Alleluia (4), Jesus Christ the King of glory, has risen from the dead."
+    },
+    "words": [
+      { "text": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅):", "start": 47.1, "end": 68.3 },
+      { "text": "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ Ⲡ̀ⲟⲩⲣⲟ", "start": 68.5, "end": 74.93 },
+      { "text": "ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ:", "start": 74.96, "end": 79.86 },
+      { "text": "ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ", "start": 79.9, "end": 84.7 },
+      { "text": "ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ", "start": 84.8, "end": 91.3 }
+    ]
+  },
+
+  {
+    "start": 91.5,
+    "coptic": "Ⲫⲁⲓ ⲉⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲉⲣⲡ̀ⲣⲉⲡⲓⲛⲁϥ: ⲛⲉⲙ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲓⲥϫⲉⲛ ϯⲛⲟⲩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ",
+    "translations": {
+      "english": "This is He to whom the glory is due, with His good Father and the Holy Spirit, now and forever."
+    },
+    "words": [
+      { "text": "Ⲫⲁⲓ ⲉⲣⲉ ⲡⲓⲱ̀ⲟⲩ", "start": 91.65, "end": 95.82 },
+      { "text": "ⲉⲣⲡ̀ⲣⲉⲡⲓⲛⲁϥ:", "start": 95.9, "end": 102.45 },
+      { "text": "ⲛⲉⲙ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:", "start": 102.5, "end": 113.67 },
+      { "text": "ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ", "start": 113.7, "end": 119.15 },
+      { "text": "ⲉⲑⲟⲩⲁⲃ:", "start": 119.2, "end": 123.82 },
+      { "text": "ⲓⲥϫⲉⲛ ϯⲛⲟⲩ", "start": 123.87, "end": 128.75 },
+      { "text": "ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ", "start": 128.8, "end": 134.7 }
+    ]
+  },
+
+  {
+    "start": 134.9,
+    "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ",
+    "translations": {
+      "english": "Blessed be the Father and the Son and the Holy Spirit, the perfect Trinity. We worship Him and glorify Him."
+    },
+    "words": [
+      { "text": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ", "start": 135, "end": 142.4 },
+      { "text": "ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ", "start": 143, "end": 152.08 },
+      { "text": "ⲉ̅ⲑ̅ⲩ̅:", "start": 152.14, "end": 157.4 },
+      { "text": "Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ", "start": 157.48, "end": 164.15 },
+      { "text": "ⲉ̀ⲃⲟⲗ:", "start": 164.2, "end": 166.8 },
+      { "text": "ⲧⲉⲛⲟⲩⲱϣⲧ", "start": 166.85, "end": 169.4 },
+      { "text": "ⲙ̀ⲙⲟⲥ", "start": 169.5, "end": 172.25 },
+      { "text": "ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ", "start": 172.3, "end": 178 }
+    ]
+  }
 ]
