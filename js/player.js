@@ -418,13 +418,40 @@ const antiphonalGroup = info.antiphonalGroup || 1;
 fetch(`${base}/lyrics.json`)
 .then(r=>r.json())
 .then(lines=>{
-currentLines = lines;
+currentLines = lines.filter(l => !l.label && !l.static);
 
+let colorIndex = 0;
 lines.forEach((line, index)=>{
+
+if (line.label) {
+const labelDiv = document.createElement("div");
+labelDiv.className = "line-label";
+labelDiv.textContent = line.label;
+lyricsContainer.appendChild(labelDiv);
+line.element = labelDiv;
+return;
+}
+
+if (line.static) {
+const div = document.createElement("div");
+div.className = "line line-static";
+const copticDiv = document.createElement("div");
+copticDiv.className = "coptic";
+copticDiv.textContent = line.coptic || "";
+const translationDiv = document.createElement("div");
+translationDiv.className = "translation";
+translationDiv.textContent = line.translations?.english || "";
+div.appendChild(copticDiv);
+div.appendChild(translationDiv);
+lyricsContainer.appendChild(div);
+line.element = div;
+return;
+}
 
 const div=document.createElement("div");
 div.className="line";
-div.classList.add(`color-group-${Math.floor(index / antiphonalGroup) % 2}`);
+div.classList.add(`color-group-${Math.floor(colorIndex / antiphonalGroup) % 2}`);
+colorIndex++;
 
 const copticDiv = document.createElement("div");
 copticDiv.className = "coptic";

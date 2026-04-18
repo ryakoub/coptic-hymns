@@ -212,6 +212,29 @@ background: rgba(213, 229, 255, 0.9);
 background: rgba(227, 254, 235, 0.9);
 }
 
+.line-label{
+padding: 8px 18px 4px;
+margin: 10px 0 2px;
+font-size: 13px;
+font-weight: 600;
+text-transform: uppercase;
+letter-spacing: 0.08em;
+color: #888;
+border-left: 3px solid #bbb;
+background: transparent;
+pointer-events: none;
+user-select: none;
+}
+
+.line.line-static{
+cursor: default;
+opacity: 0.75;
+}
+
+.line.line-static:hover{
+opacity: 0.85;
+}
+
 .coptic{
 font-size:32px;
 font-weight:bold;
