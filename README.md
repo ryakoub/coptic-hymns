@@ -267,7 +267,7 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ### Level-2
 
-- [ ] Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ
+- [X] Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ
 - [x] Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ
 - [ ] Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ
 - [ ] Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ
