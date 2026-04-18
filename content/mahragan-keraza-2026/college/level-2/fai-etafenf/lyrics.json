@@ -1,9 +1,120 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 46.00,
+    "coptic": "Ⲫⲁⲓ ⲉ̀ⲧⲁϥⲉⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ: ⲛ̀ⲟⲩⲑⲩⲥⲓⲁ ⲉⲥϣⲏⲡ: ϩⲓϫⲉⲛ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ϧⲁ ⲡ̀ⲟⲩϫⲁⲓ ⲙ̀ⲡⲉⲛⲅⲉⲛⲟⲥ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "This is He who presented Himself on the cross; an acceptable sacrifice for the salvation of our race."
+    },
+    "words": [
+      {
+        "text": "Ⲫⲁⲓ",
+        "start": 46.00,
+        "end": 49.31
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲉⲛϥ",
+        "start": 49.31,
+        "end": 117.64
+      },
+      {
+        "text": "ⲉ̀ⲡ̀ϣⲱⲓ:",
+        "start": 117.64,
+        "end": 157.33
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲑⲩⲥⲓⲁ",
+        "start": 157.33,
+        "end": 245.89
+      },
+      {
+        "text": "ⲉⲥϣⲏⲡ:",
+        "start": 245.89,
+        "end": 278.99
+      },
+      {
+        "text": "ϩⲓϫⲉⲛ",
+        "start": 278.99,
+        "end": 311.89
+      },
+      {
+        "text": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ:",
+        "start": 311.89,
+        "end": 386.44
+      },
+      {
+        "text": "ϧⲁ",
+        "start": 386.44,
+        "end": 388.34
+      },
+      {
+        "text": "ⲡ̀ⲟⲩϫⲁⲓ",
+        "start": 388.34,
+        "end": 394.56
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲛⲅⲉⲛⲟⲥ.",
+        "start": 394.56,
+        "end": 421.64
+      }
+    ]
+  },
+  {
+    "start": 421.64,
+    "coptic": "Ⲁϥϣⲱⲗⲉⲙ ⲉ̀ⲣⲟϥ: ⲛ̀ϫⲉ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲣⲟⲩϩⲓ: ϩⲓϫⲉⲛ Ϯⲅⲟⲗⲅⲟⲑⲁ.",
+    "translations": {
+      "english": "His good Father inhaled His sweet aroma in the evening on Golgotha."
+    },
+    "words": [
+      {
+        "text": "Ⲁϥϣⲱⲗⲉⲙ",
+        "start": 421.64,
+        "end": 424.63
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ:",
+        "start": 424.63,
+        "end": 426.04
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 426.04,
+        "end": 427.27
+      },
+      {
+        "text": "Ⲡⲉϥⲓⲱⲧ",
+        "start": 427.27,
+        "end": 428.77
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:",
+        "start": 428.77,
+        "end": 432.65
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲛⲁⲩ",
+        "start": 432.65,
+        "end": 435.23
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 435.23,
+        "end": 435.92
+      },
+      {
+        "text": "ϩⲁⲛⲁ̀ⲣⲟⲩϩⲓ:",
+        "start": 435.92,
+        "end": 439.76
+      },
+      {
+        "text": "ϩⲓϫⲉⲛ",
+        "start": 439.76,
+        "end": 441.85
+      },
+      {
+        "text": "Ϯⲅⲟⲗⲅⲟⲑⲁ.",
+        "start": 441.85,
+        "end": 474.56
+      }
+    ]
   }
 ]
