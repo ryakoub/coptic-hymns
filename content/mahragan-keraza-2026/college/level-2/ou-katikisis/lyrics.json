@@ -1,9 +1,71 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 35.23,
+    "coptic": "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲉ̅ⲑ̅ⲩ̅ ...",
     "translations": {
-      "english": "Lyrics coming soon"
+      "english": "A homily of our holy father ..."
+    }
+  },
+  {
+    "start": 163.15,
+    "coptic": "ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲏⲙⲁⲛⲇ̀ⲣⲓⲧⲏⲥ.",
+    "translations": {
+      "english": "Abba Shenouda the Archimandrite."
+    }
+  },
+  {
+    "start": 217.75,
+    "coptic": "ⲁⲃⲃⲁ Ⲓⲱ̅ⲁ̅ ⲡⲓⲭ̀ⲣⲩⲥⲟⲥⲧⲟⲙⲟⲥ.",
+    "translations": {
+      "english": "Abba John Chrysostom."
+    }
+  },
+  {
+    "start": 269.96,
+    "coptic": "ⲁⲃⲃⲁ Ⲁ̀ⲑⲁⲛⲁⲥⲓⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲟⲥ.",
+    "translations": {
+      "english": "Abba Athanasius the Apostolic."
+    }
+  },
+  {
+    "start": 325.73,
+    "coptic": "ⲁⲃⲃⲁ Ⲥⲉⲩⲏⲣⲓⲁⲛⲟⲥ.",
+    "translations": {
+      "english": "Abba Severianus."
+    }
+  },
+  {
+    "start": 354.19,
+    "coptic": "ⲉ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ⲉ̅ⲑ̅ⲩ̅ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲁ̀ⲙⲏⲛ.",
+    "translations": {
+      "english": "may his holy blessings be with us. Amen."
+    }
+  },
+  {
+    "label": "After reading the homily, it is concluded with the following prayers:"
+  },
+  {
+    "start": 470.0,
+    "coptic": "Ⲙⲁⲣⲉⲛⲉⲣⲥ̀ⲫ̀ⲣⲁϫⲓⲍⲓⲛ ⲛ̀ϯⲕⲁⲧⲏⲭⲏⲥⲓⲥ ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲉ̅ⲑ̅ⲩ̅ ...",
+    "translations": {
+      "english": "We conclude the homily of our holy father ..."
+    }
+  },
+  {
+    "start": 598.85,
+    "coptic": "ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲏⲙⲁⲛⲇ̀ⲣⲓⲧⲏⲥ.",
+    "translations": {
+      "english": "Abba Shenouda the Archimandrite."
+    }
+  },
+  {
+    "label": "... Like before ..."
+  },
+  {
+    "start": 652.36,
+    "coptic": "ⲫⲏⲉ̀ⲧⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲉⲛⲛⲟⲩⲥ ⲛⲉⲙ ⲛⲓⲃⲁⲗ ⲛ̀ⲧⲉ ⲛⲉⲛϩⲏⲧ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ Ⲟⲩⲛⲟⲩϯ ⲛ̀ⲟⲩⲱⲧ ⲁ̀ⲙⲏⲛ.",
+    "translations": {
+      "english": "who enlightened our minds and our hearts. In the name of the Father, and the Son, and the Holy Spirit, one God. Amen."
     }
   }
 ]
