@@ -505,7 +505,7 @@ div.appendChild(copticDiv);
 div.appendChild(translationDiv);
 
 div.onclick=()=>{
-seekToTime(line.start, index);
+seekToTime(line.start, currentLines.indexOf(line));
 };
 
 lyricsContainer.appendChild(div);
@@ -517,12 +517,12 @@ audio.ontimeupdate=()=>{
 if (audio.paused || isSeekInFlight) {
 return;
 }
-syncLyricsToTime(audio.currentTime, lines);
+syncLyricsToTime(audio.currentTime, currentLines);
 
 };
 
 audio.addEventListener("seeked", () => {
-syncLyricsToTime(audio.currentTime, lines);
+syncLyricsToTime(audio.currentTime, currentLines);
 });
 
 audio.addEventListener("play", startSyncLoop);
