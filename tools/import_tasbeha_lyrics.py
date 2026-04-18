@@ -45,7 +45,7 @@ def build_lyrics(english: list[str], coptic: list[str], keep_plus: bool) -> list
     for en, cop in zip(english, coptic):
         en = normalize_leading_plus(en, keep_plus=keep_plus)
         cop = normalize_leading_plus(cop, keep_plus=keep_plus)
-        if not en and not cop:
+        if not en or not cop:
             continue
         rows.append(
             {

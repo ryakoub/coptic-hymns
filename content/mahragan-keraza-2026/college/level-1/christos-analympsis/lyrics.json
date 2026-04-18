@@ -1,9 +1,180 @@
 [
   {
-    "start": 0,
-    "coptic": "Lyrics coming soon",
+    "start": 0.0,
+    "coptic": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲗⲩⲯⲩⲥ ⲧⲟⲛ ⲟⲩⲣⲁⲛⲟⲛ: ⲉⲝⲁⲡⲉⲥⲧⲓⲗⲉ Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ ⲧⲟ Ⲡ̀ⲛⲉⲩⲙⲁ ⲧⲟ Ⲁ̀ⲅⲓⲟⲛ: ⲍⲱⲏⲛ ⲭⲁⲣⲓⲥⲁⲙⲉⲛⲟⲥ ⲉ̀ⲡⲓⲧⲱⲛ ⲯⲩⲭⲱⲛ ⲏ̀ⲙⲱⲛ.",
     "translations": {
-      "english": "Lyrics coming soon"
-    }
+      "english": "Christ has ascended into the heaven, and sent the Holy Spirit the Paraclete, and granted life to our souls."
+    },
+    "words": [
+      {
+        "text": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 0.0,
+        "end": 5.94
+      },
+      {
+        "text": "ⲁ̀ⲛⲉⲗⲩⲯⲩⲥ",
+        "start": 5.94,
+        "end": 20.28
+      },
+      {
+        "text": "ⲧⲟⲛ",
+        "start": 20.28,
+        "end": 28.73
+      },
+      {
+        "text": "ⲟⲩⲣⲁⲛⲟⲛ:",
+        "start": 28.73,
+        "end": 37.97
+      },
+      {
+        "text": "ⲉⲝⲁⲡⲉⲥⲧⲓⲗⲉ",
+        "start": 37.97,
+        "end": 56.21
+      },
+      {
+        "text": "Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ",
+        "start": 56.21,
+        "end": 66.65
+      },
+      {
+        "text": "ⲧⲟ",
+        "start": 66.65,
+        "end": 70.71
+      },
+      {
+        "text": "Ⲡ̀ⲛⲉⲩⲙⲁ",
+        "start": 70.71,
+        "end": 80.45
+      },
+      {
+        "text": "ⲧⲟ",
+        "start": 80.45,
+        "end": 88.43
+      },
+      {
+        "text": "Ⲁ̀ⲅⲓⲟⲛ:",
+        "start": 88.43,
+        "end": 98.62
+      },
+      {
+        "text": "ⲍⲱⲏⲛ",
+        "start": 98.62,
+        "end": 107.46
+      },
+      {
+        "text": "ⲭⲁⲣⲓⲥⲁⲙⲉⲛⲟⲥ",
+        "start": 107.46,
+        "end": 129.79
+      },
+      {
+        "text": "ⲉ̀ⲡⲓⲧⲱⲛ",
+        "start": 129.79,
+        "end": 140.86
+      },
+      {
+        "text": "ⲯⲩⲭⲱⲛ",
+        "start": 140.86,
+        "end": 150.64
+      },
+      {
+        "text": "ⲏ̀ⲙⲱⲛ.",
+        "start": 150.64,
+        "end": 156.11
+      }
+    ]
+  },
+  {
+    "start": 156.11,
+    "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ. Ⲁ̀ⲙⲏⲛ.",
+    "translations": {
+      "english": "Glory to the Father and the Son and the Holy Spirit, now and forever and unto the age of all ages. Amen."
+    },
+    "words": [
+      {
+        "text": "Ⲇⲟⲝⲁ",
+        "start": 156.11,
+        "end": 165.08
+      },
+      {
+        "text": "Ⲡⲁⲧⲣⲓ",
+        "start": 165.08,
+        "end": 173.98
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 173.98,
+        "end": 177.92
+      },
+      {
+        "text": "Ⲩ̀ⲓⲱ",
+        "start": 177.92,
+        "end": 182.69
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 182.69,
+        "end": 186.95
+      },
+      {
+        "text": "Ⲁ̀ⲅⲓⲱ",
+        "start": 186.95,
+        "end": 194.69
+      },
+      {
+        "text": "Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ:",
+        "start": 194.69,
+        "end": 208.4
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 208.4,
+        "end": 212.57
+      },
+      {
+        "text": "ⲛⲩⲛ",
+        "start": 212.57,
+        "end": 217.11
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 217.11,
+        "end": 221.22
+      },
+      {
+        "text": "ⲁ̀ⲓ̀",
+        "start": 221.22,
+        "end": 225.62
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 225.62,
+        "end": 229.39
+      },
+      {
+        "text": "ⲓⲥ ⲧⲟⲥ",
+        "start": 229.39,
+        "end": 231.46
+      },
+      {
+        "text": "ⲉ̀ⲱ̀ⲛⲁⲥ",
+        "start": 231.46,
+        "end": 234.11
+      },
+      {
+        "text": "ⲧⲱⲛ",
+        "start": 234.11,
+        "end": 237.5
+      },
+      {
+        "text": "ⲉ̀ⲱ̀ⲛⲱⲛ.",
+        "start": 237.5,
+        "end": 246.38
+      },
+      {
+        "text": "Ⲁ̀ⲙⲏⲛ.",
+        "start": 246.38,
+        "end": 307.08
+      }
+    ]
   }
 ]

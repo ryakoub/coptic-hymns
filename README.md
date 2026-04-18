@@ -260,9 +260,9 @@ These are the hymns with added lyrics (some level of audio-lyric sync)
 
 ### Level-1
 
-- [ ] Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos
+- [x] Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos
 - [x] Hossana Intro to Doxologies & 1st Doxology
-- [ ] ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ
+- [x] ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ
 - [ ] Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ
 
 ### Level-2
