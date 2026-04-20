@@ -1,7 +1,7 @@
 [
   {
     "start": 0.0,
-    "coptic": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲗⲩⲯⲩⲥ ⲧⲟⲛ ⲟⲩⲣⲁⲛⲟⲛ: ⲉⲝⲁⲡⲉⲥⲧⲓⲗⲉ Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ ⲧⲟ Ⲡ̀ⲛⲉⲩⲙⲁ ⲧⲟ Ⲁ̀ⲅⲓⲟⲛ: ⲍⲱⲏⲛ ⲭⲁⲣⲓⲥⲁⲙⲉⲛⲟⲥ ⲉ̀ⲡⲓⲧⲱⲛ ⲯⲩⲭⲱⲛ ⲏ̀ⲙⲱⲛ.",
+    "coptic": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲗⲩⲙⲯⲩⲥ ⲧⲟⲛ ⲟⲩⲣⲁⲛⲟⲛ: ⲉⲝⲁⲡⲉⲥⲧⲓⲗⲉ Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ ⲧⲟ Ⲡ̀ⲛⲉⲩⲙⲁ ⲧⲟ Ⲁ̀ⲅⲓⲟⲛ: ⲍⲱⲏⲛ ⲭⲁⲣⲓⲥⲁⲙⲉⲛⲟⲥ ⲉ̀ⲡⲓⲧⲱⲛ ⲯⲩⲭⲱⲛ ⲏ̀ⲙⲱⲛ.",
     "translations": {
       "english": "Christ has ascended into the heaven, and sent the Holy Spirit the Paraclete, and granted life to our souls."
     },
@@ -12,7 +12,7 @@
         "end": 5.94
       },
       {
-        "text": "ⲁ̀ⲛⲉⲗⲩⲯⲩⲥ",
+        "text": "ⲁ̀ⲛⲉⲗⲩⲙⲯⲩⲥ",
         "start": 5.94,
         "end": 20.28
       },
