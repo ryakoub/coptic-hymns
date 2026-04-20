@@ -279,13 +279,16 @@ margin-top: 4px;
 background: linear-gradient(to right, #fff9c4, #ffeb3b);
 border-left:8px solid #ff9800;
 box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-animation: pulse 1s infinite;
 }
 
 @keyframes pulse {
 0% { transform: scale(1); }
 50% { transform: scale(1.02); }
 100% { transform: scale(1); }
+}
+
+body.pulse-enabled .active{
+animation: pulse 1s infinite;
 }
 
 nav.nav-bar{

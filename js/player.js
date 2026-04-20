@@ -549,6 +549,12 @@ autoScrollEnabled = !autoScrollEnabled;
 toggleScrollBtn.textContent = `Auto-Scroll: ${autoScrollEnabled ? "On" : "Off"}`;
 });
 
+const togglePulseBtn = document.getElementById("togglePulse");
+togglePulseBtn?.addEventListener("click", () => {
+const enabled = document.body.classList.toggle("pulse-enabled");
+togglePulseBtn.textContent = `Pulse: ${enabled ? "On" : "Off"}`;
+});
+
 toggleCopticFontBtn?.addEventListener("click", () => {
 const currentMode = document.body.classList.contains("coptic-font-traditional") ? "traditional" : "modern";
 const nextMode = currentMode === "traditional" ? "modern" : "traditional";
