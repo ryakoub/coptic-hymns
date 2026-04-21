@@ -409,6 +409,14 @@ fetch(`${base}/info.json`)
 document.getElementById("title").innerText = info.title;
 document.title = `${info.title} | Coptic Chanter`;
 document.getElementById("youtubeLink").href = info.youtube;
+const sheetMusicWrap = document.getElementById("sheetMusicLinkWrap");
+const sheetMusicLink = document.getElementById("sheetMusicLink");
+if (info.sheetMusic) {
+sheetMusicLink.href = info.sheetMusic;
+sheetMusicWrap.removeAttribute("hidden");
+} else {
+sheetMusicWrap.setAttribute("hidden", "");
+}
 const source = info.audio || `${base}/audio.mp3`;
 audio.src = await pickPreferredAudioUrl(source);
 setSyncDebug(`audio\nsource=${audio.src.split("/").pop()}`);
