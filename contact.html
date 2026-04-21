@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coptic Chanter | Contact</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="shortcut icon" href="favicon.svg">
+<meta property="og:title" content="Coptic Chanter" />
+<meta property="og:description" content="Audio-synced Coptic hymn learning with lyrics, timing, and curriculum-based navigation." />
+<meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
+<meta property="og:url" content="https://www.copticchanter.com/contact.html" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="stylesheet" href="css/style.css?v=20260402b">
+<style>
+.contact-card {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.09);
+  padding: 32px 28px;
+  margin: 10px 0 24px;
+}
+.contact-card h2 {
+  margin: 0 0 6px;
+  font-size: 22px;
+  color: #1a2a3a;
+}
+.contact-card p {
+  margin: 0 0 24px;
+  color: #555;
+  font-size: 15px;
+  line-height: 1.6;
+}
+.contact-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+.contact-field label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.contact-field input,
+.contact-field textarea {
+  border: 1px solid #d0d7de;
+  border-radius: 10px;
+  padding: 11px 14px;
+  font-size: 15px;
+  font-family: inherit;
+  color: #1a2a3a;
+  background: #f8fafc;
+  transition: border-color 0.18s;
+  resize: vertical;
+}
+.contact-field input:focus,
+.contact-field textarea:focus {
+  outline: none;
+  border-color: #0a8197;
+  background: #fff;
+}
+.contact-field textarea {
+  min-height: 130px;
+}
+.contact-submit {
+  display: inline-block;
+  padding: 13px 32px;
+  background: linear-gradient(135deg, #044a7a, #0a8197);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: opacity 0.18s;
+  width: 100%;
+}
+.contact-submit:hover { opacity: 0.88; }
+.contact-success {
+  display: none;
+  margin-top: 18px;
+  padding: 14px 18px;
+  background: #e6f4ea;
+  border-radius: 10px;
+  color: #2e7d32;
+  font-weight: 600;
+  font-size: 15px;
+}
+</style>
+</head>
+
+<body class="home-page">
+<main class="page-shell">
+
+  <section class="home-banner" aria-label="Contact banner">
+    <h1 class="home-title">Contact</h1>
+    <p class="home-subtitle">Have a suggestion, correction, or question? Send a message.</p>
+  </section>
+
+  <div class="contact-card">
+    <h2>Send a Message</h2>
+    <p>Your message will be sent directly to the site maintainer.</p>
+
+    <!-- Replace YOUR_FORM_ID after signing up at formspree.io -->
+    <form id="contactForm" action="https://formspree.io/f/xkokvzrg" method="POST">
+      <div class="contact-field">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name" required>
+      </div>
+      <div class="contact-field">
+        <label for="email">Email (optional)</label>
+        <input type="email" id="email" name="email" placeholder="so I can reply to you">
+      </div>
+      <div class="contact-field">
+        <label for="phone">Phone (optional)</label>
+        <input type="tel" id="phone" name="phone" placeholder="Your phone number">
+      </div>
+      <div class="contact-field">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Your message..." required></textarea>
+      </div>
+      <button type="submit" class="contact-submit">Send Message</button>
+    </form>
+    <div class="contact-success" id="contactSuccess">✓ Message sent! Thank you.</div>
+  </div>
+
+  <a class="button" href="index.html" style="text-align:center;">← Back to Home</a>
+
+</main>
+
+<script>
+const form = document.getElementById("contactForm");
+const success = document.getElementById("contactSuccess");
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const data = new FormData(form);
+  const res = await fetch(form.action, {
+    method: "POST",
+    body: data,
+    headers: { "Accept": "application/json" }
+  });
+  if (res.ok) {
+    form.reset();
+    form.style.display = "none";
+    success.style.display = "block";
+  } else {
+    alert("Something went wrong. Please try again.");
+  }
+});
+</script>
+</body>
+</html>
