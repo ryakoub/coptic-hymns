@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://www.copticchanter.com/player.html" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
-<link rel="stylesheet" href="css/style.css?v=20260402d">
+<link rel="stylesheet" href="css/style.css?v=20260421a">
 </head>
 
 <body class="player-page">
@@ -35,20 +35,65 @@
 
 <div class="audio-nav"><audio id="audio" controls></audio></div>
 
-<div id="settingsDock">
-	<div id="settingsPanel" class="settings-panel" hidden>
-		<div class="player-tools compact-tools">
-			<button id="toggleLoop" class="feature-btn" type="button">Repeat Verse: Off</button>
-			<button id="togglePulse" class="feature-btn" type="button">Pulse: Off</button>
-			<button id="toggleScroll" class="feature-btn" type="button">Auto-Scroll: On</button>
-			<button id="toggleCopticFont" class="feature-btn" type="button">Coptic Font: Modern</button>
-		</div>
-		<button id="toggleAdvanced" class="feature-btn advanced-toggle" type="button" aria-expanded="false">Advanced Options</button>
-		<div id="advancedPanel" class="advanced-panel" hidden>
+<div id="settingsScrim" class="settings-scrim" hidden></div>
+<aside id="settingsPanel" class="settings-drawer" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" aria-hidden="true" hidden>
+	<header class="settings-drawer-header">
+		<h2 id="settingsTitle" class="settings-drawer-title">Settings</h2>
+		<button id="closeSettings" class="settings-drawer-close" type="button" aria-label="Close settings">✕</button>
+	</header>
+	<div class="settings-drawer-body">
+		<ul class="settings-list" role="list">
+			<li>
+				<button id="toggleLoop" class="settings-row" type="button" role="switch" aria-checked="false" data-setting="repeatVerse">
+					<span class="settings-row-icon" aria-hidden="true">🔁</span>
+					<span class="settings-row-text">
+						<span class="settings-row-label">Repeat Verse</span>
+						<span class="settings-row-value" data-on="On" data-off="Off">Off</span>
+					</span>
+					<span class="settings-row-check" aria-hidden="true">✓</span>
+				</button>
+			</li>
+			<li>
+				<button id="togglePulse" class="settings-row" type="button" role="switch" aria-checked="false" data-setting="pulse">
+					<span class="settings-row-icon" aria-hidden="true">💓</span>
+					<span class="settings-row-text">
+						<span class="settings-row-label">Pulse</span>
+						<span class="settings-row-value" data-on="On" data-off="Off">Off</span>
+					</span>
+					<span class="settings-row-check" aria-hidden="true">✓</span>
+				</button>
+			</li>
+			<li>
+				<button id="toggleScroll" class="settings-row is-on" type="button" role="switch" aria-checked="true" data-setting="autoScroll">
+					<span class="settings-row-icon" aria-hidden="true">📜</span>
+					<span class="settings-row-text">
+						<span class="settings-row-label">Auto-Scroll</span>
+						<span class="settings-row-value" data-on="On" data-off="Off">On</span>
+					</span>
+					<span class="settings-row-check" aria-hidden="true">✓</span>
+				</button>
+			</li>
+			<li>
+				<button id="toggleCopticFont" class="settings-row" type="button" role="switch" aria-checked="false" data-setting="copticFontTraditional">
+					<span class="settings-row-icon" aria-hidden="true">Ⲁ</span>
+					<span class="settings-row-text">
+						<span class="settings-row-label">Traditional Coptic Font</span>
+						<span class="settings-row-value" data-on="Traditional" data-off="Modern">Modern</span>
+					</span>
+					<span class="settings-row-check" aria-hidden="true">✓</span>
+				</button>
+			</li>
+		</ul>
+
+		<button id="toggleAdvanced" class="settings-advanced-toggle" type="button" aria-expanded="false" aria-controls="advancedPanel">
+			<span>Advanced Options</span>
+			<span class="settings-advanced-caret" aria-hidden="true">▾</span>
+		</button>
+		<div id="advancedPanel" class="settings-advanced-panel" hidden>
 			<div id="timestamps" class="timestamps-panel">Timestamps: press T while audio plays</div>
 		</div>
 	</div>
-</div>
+</aside>
 
 <p><a id="youtubeLink" href="#" target="_blank" style="color: #1976d2; text-decoration: none; font-weight: bold;">📺 Watch Original Video</a></p>
 <p id="sheetMusicLinkWrap" hidden><a id="sheetMusicLink" href="#" target="_blank" style="color: #1976d2; text-decoration: none; font-weight: bold;">🎼 View Sheet Music</a></p>
@@ -56,7 +101,7 @@
 <div id="lyrics"></div>
 </main>
 
-<script src="js/player.js?v=20260413j"></script>
+<script src="js/player.js?v=20260421a"></script>
 
 </body>
 </html>

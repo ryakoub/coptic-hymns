@@ -49,9 +49,23 @@ const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
 const toggleCopticFontBtn = document.getElementById("toggleCopticFont");
 const toggleSettingsBtn = document.getElementById("toggleSettings");
+const closeSettingsBtn = document.getElementById("closeSettings");
 const settingsPanel = document.getElementById("settingsPanel");
+const settingsScrim = document.getElementById("settingsScrim");
 const toggleAdvancedBtn = document.getElementById("toggleAdvanced");
 const advancedPanel = document.getElementById("advancedPanel");
+
+function setSettingRowState(btn, isOn) {
+if (!btn) return;
+btn.classList.toggle("is-on", !!isOn);
+btn.setAttribute("aria-checked", isOn ? "true" : "false");
+const valueEl = btn.querySelector(".settings-row-value");
+if (valueEl) {
+const onText = valueEl.getAttribute("data-on") || "On";
+const offText = valueEl.getAttribute("data-off") || "Off";
+valueEl.textContent = isOn ? onText : offText;
+}
+}
 const timestampsBox = document.getElementById("timestamps");
 const audioNav = document.querySelector(".audio-nav");
 const audioSpacer = document.querySelector(".audio-spacer");
@@ -363,9 +377,7 @@ const COPTIC_FONT_PREF_KEY = "copticFontMode";
 function applyCopticFontMode(mode) {
 const useTraditional = mode === "traditional";
 document.body.classList.toggle("coptic-font-traditional", useTraditional);
-if (toggleCopticFontBtn) {
-toggleCopticFontBtn.textContent = `Coptic Font: ${useTraditional ? "Traditional" : "Modern"}`;
-}
+setSettingRowState(toggleCopticFontBtn, useTraditional);
 }
 
 const savedCopticMode = localStorage.getItem(COPTIC_FONT_PREF_KEY) || "traditional";
@@ -549,18 +561,18 @@ loopTargetIndex = currentLineIndex >= 0 ? currentLineIndex : 0;
 } else {
 loopTargetIndex = null;
 }
-toggleLoopBtn.textContent = `Repeat Verse: ${repeatVerseEnabled ? "On" : "Off"}`;
+setSettingRowState(toggleLoopBtn, repeatVerseEnabled);
 });
 
 toggleScrollBtn?.addEventListener("click", () => {
 autoScrollEnabled = !autoScrollEnabled;
-toggleScrollBtn.textContent = `Auto-Scroll: ${autoScrollEnabled ? "On" : "Off"}`;
+setSettingRowState(toggleScrollBtn, autoScrollEnabled);
 });
 
 const togglePulseBtn = document.getElementById("togglePulse");
 togglePulseBtn?.addEventListener("click", () => {
 const enabled = document.body.classList.toggle("pulse-enabled");
-togglePulseBtn.textContent = `Pulse: ${enabled ? "On" : "Off"}`;
+setSettingRowState(togglePulseBtn, enabled);
 });
 
 toggleCopticFontBtn?.addEventListener("click", () => {
@@ -570,48 +582,72 @@ applyCopticFontMode(nextMode);
 localStorage.setItem(COPTIC_FONT_PREF_KEY, nextMode);
 });
 
-toggleSettingsBtn?.addEventListener("click", () => {
+function closeAdvancedPanel() {
+if (!advancedPanel || !toggleAdvancedBtn) return;
+advancedPanel.setAttribute("hidden", "");
+toggleAdvancedBtn.setAttribute("aria-expanded", "false");
+}
+
+function openSettingsDrawer() {
 if (!settingsPanel) return;
-const isHidden = settingsPanel.hasAttribute("hidden");
-if (isHidden) {
 settingsPanel.removeAttribute("hidden");
+// force a reflow so the transform transition runs from the hidden state
+void settingsPanel.offsetWidth;
+settingsPanel.classList.add("is-open");
+settingsPanel.setAttribute("aria-hidden", "false");
+settingsScrim?.removeAttribute("hidden");
+void (settingsScrim && settingsScrim.offsetWidth);
+settingsScrim?.classList.add("is-open");
+if (toggleSettingsBtn) {
 toggleSettingsBtn.setAttribute("aria-expanded", "true");
-toggleSettingsBtn.textContent = "✕";
 toggleSettingsBtn.setAttribute("aria-label", "Close settings");
 toggleSettingsBtn.title = "Close settings";
-} else {
-settingsPanel.setAttribute("hidden", "");
+}
+}
+
+function closeSettingsDrawer() {
+if (!settingsPanel) return;
+settingsPanel.classList.remove("is-open");
+settingsPanel.setAttribute("aria-hidden", "true");
+settingsScrim?.classList.remove("is-open");
+if (toggleSettingsBtn) {
 toggleSettingsBtn.setAttribute("aria-expanded", "false");
-toggleSettingsBtn.textContent = "⚙";
 toggleSettingsBtn.setAttribute("aria-label", "Open settings");
 toggleSettingsBtn.title = "Settings";
-advancedPanel?.setAttribute("hidden", "");
-toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
-if (toggleAdvancedBtn) {
-toggleAdvancedBtn.textContent = "Advanced Options";
 }
+closeAdvancedPanel();
+// wait for slide-out animation to finish before hiding from assistive tech
+window.setTimeout(() => {
+if (!settingsPanel.classList.contains("is-open")) {
+settingsPanel.setAttribute("hidden", "");
+settingsScrim?.setAttribute("hidden", "");
+}
+}, 280);
+}
+
+function isSettingsDrawerOpen() {
+return !!settingsPanel && settingsPanel.classList.contains("is-open");
+}
+
+toggleSettingsBtn?.addEventListener("click", () => {
+if (isSettingsDrawerOpen()) {
+closeSettingsDrawer();
+} else {
+openSettingsDrawer();
 }
 });
 
-document.addEventListener("click", (event) => {
-if (!toggleSettingsBtn || !settingsPanel || settingsPanel.hasAttribute("hidden")) {
-return;
-}
+closeSettingsBtn?.addEventListener("click", () => {
+closeSettingsDrawer();
+});
 
-const target = event.target;
-if (target instanceof Node && !settingsPanel.contains(target) && !toggleSettingsBtn.contains(target)) {
-settingsPanel.setAttribute("hidden", "");
-toggleSettingsBtn?.setAttribute("aria-expanded", "false");
-if (toggleSettingsBtn) {
-toggleSettingsBtn.textContent = "⚙";
-toggleSettingsBtn.setAttribute("aria-label", "Open settings");
-toggleSettingsBtn.title = "Settings";
-}
-advancedPanel?.setAttribute("hidden", "");
-toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
-if (toggleAdvancedBtn) {
-toggleAdvancedBtn.textContent = "Advanced Options";
-}
+settingsScrim?.addEventListener("click", () => {
+closeSettingsDrawer();
+});
+
+document.addEventListener("keydown", (event) => {
+if (event.key === "Escape" && isSettingsDrawerOpen()) {
+closeSettingsDrawer();
 }
 });
 
@@ -621,11 +657,9 @@ const isHidden = advancedPanel.hasAttribute("hidden");
 if (isHidden) {
 advancedPanel.removeAttribute("hidden");
 toggleAdvancedBtn.setAttribute("aria-expanded", "true");
-toggleAdvancedBtn.textContent = "Advanced Options: On";
 } else {
 advancedPanel.setAttribute("hidden", "");
 toggleAdvancedBtn.setAttribute("aria-expanded", "false");
-toggleAdvancedBtn.textContent = "Advanced Options";
 }
 });
 
