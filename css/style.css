@@ -192,6 +192,63 @@ box-shadow: 0 18px 32px rgba(17, 94, 87, 0.22);
 transform: translateY(0);
 }
 
+.grade-groups{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 16px;
+margin: 24px 0;
+}
+
+.grade-button{
+aspect-ratio: 1;
+border-radius: 16px;
+text-align: center;
+text-decoration: none;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: 600;
+box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.grade-button:hover{
+transform: translateY(-4px);
+box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+.grade-button:active{
+transform: translateY(-1px);
+}
+
+.grade-button-label{
+display: block;
+font-size: clamp(16px, 4vw, 24px);
+font-weight: 700;
+line-height: 1.2;
+padding: 8px;
+}
+
+@media (max-width: 600px) {
+.grade-groups{
+grid-template-columns: repeat(3, 1fr);
+gap: 12px;
+}
+}
+
+@media (max-width: 360px) {
+.grade-groups{
+grid-template-columns: repeat(3, 1fr);
+gap: 10px;
+}
+
+.grade-button{
+aspect-ratio: auto;
+min-height: 80px;
+}
+}
+
 .line{
 padding:18px;
 border-bottom:2px solid #ddd;
