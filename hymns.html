@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://www.copticchanter.com/hymns.html" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
-<link rel="stylesheet" href="css/style.css?v=20260402b">
+<link rel="stylesheet" href="css/style.css?v=20260421b">
 <style>
 .hymn-button { background: linear-gradient(to bottom, #FFB6C1, #FF69B4); }
 </style>
@@ -24,6 +24,7 @@
 <h2 id="levelTitle">Hymns</h2>
 <div id="hymnList"></div>
 </main>
+<script src="js/hymns-data.js?v=20260421a"></script>
 <script>
 const params = new URLSearchParams(window.location.search);
 const group = params.get("group") || "grades-3-4";
@@ -36,104 +37,7 @@ const levelTitle = level.replace(/-/g, " ").toUpperCase();
 document.getElementById("levelTitle").innerText = groupTitle + " - " + levelTitle;
 document.title = `${groupTitle} ${levelTitle} Hymns | Coptic Chanter`;
 
-const hymns = {
-  "kg": {
-    "level-1": [
-      { id: "concluding-canon-feast-cross",              title: "Concluding Canon for Feast of the Cross" },
-      { id: "sotees-ameen-fast",                         title: "Sotees Ameen (Fast)" },
-      { id: "psalm-response-resurrection",               title: "Psalm Response, Resurrection" },
-    ],
-    "level-2": [
-      { id: "ere-po-esmo-may-their-holy-blessing",       title: "Ere Po Esmo (May Their Holy Blessing)" },
-      { id: "liturgy-gospel-response-annual",            title: "Liturgy Gospel Response, Annual" },
-      { id: "hiten-archangel-michael-feast-resurrection", title: "Hiten for Archangel Michael, Feast of Resurrection" },
-    ]
-  },
-  "grades-1-2": {
-    "level-1": [
-      { id: "procession-refrain-feast-cross",      title: "Procession Refrain, Feast of the Cross" },
-      { id: "this-is-the-day",                     title: "This Is the Day" },
-      { id: "blessed-pentecost",                   title: "Blessed, Pentecost" },
-    ],
-    "level-2": [
-      { id: "the-thought-of-man",                  title: "The Thought of Man" },
-      { id: "st-mark-doxology-first-one",          title: "St. Mark Doxology (First One)" },
-      { id: "liturgy-gospel-response-resurrection",title: "Liturgy Gospel Response, Resurrection" },
-    ]
-  },
-  "grades-3-4": {
-    "level-1": [
-      { id: "gospel-response-feast-cross", title: "Gospel Response of the Feast of the Cross" },
-      { id: "censer-annual",               title: "The Golden Censer" },
-      { id: "pi-pnevma",                   title: "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ" },
-      { id: "ton-syna",                    title: "ⲧⲟⲛ ⲥⲩⲛⲁ" },
-      { id: "doxology-st-mary-vespers",    title: "Doxology of St. Mary Vespers" },
-    ],
-    "level-2": [
-      { id: "second-doxology-apostles",          title: "The Second Doxology of the Apostles" },
-      { id: "psalm-150-4th-hoos",                title: "Psalm 150, 4th Hoos" },
-      { id: "paralex-of-resurrection",           title: "Paralex of Resurrection" },
-      { id: "distribution-refrain-resurrection", title: "Distribution Refrain for Resurrection" },
-    ]
-  },
-  "grades-5-6": {
-    "level-1": [
-      { id: "verse-cymbals-feast-cross",    title: "Verse of Cymbals for Feast of the Cross" },
-      { id: "doxology-st-mary-matins",      title: "Doxology of St. Mary, Matins" },
-      { id: "praxis-response-annual",       title: "Praxis Response, Annual" },
-      { id: "doxology-resurrection",        title: "Doxology of Resurrection" },
-      { id: "conclusion-midnight-praises",  title: "Conclusion of Midnight Praises" },
-    ],
-    "level-2": [
-      { id: "doxology-heavenly-orders",                     title: "Doxology of Heavenly Orders" },
-      { id: "anaphora-responses-st-basil-st-gregory-liturgies", title: "Anaphora Responses of St. Basil and St. Gregory Liturgies" },
-      { id: "verse-cymbals-resurrection",                   title: "Verse of Cymbals for Resurrection" },
-      { id: "praxis-response-resurrection",                 title: "Praxis Response for Resurrection" },
-    ]
-  },
-  "ms": {
-    "level-1": [
-      { id: "refrain-third-hour-pentecost",  title: "Refrain of Third Hour, Pentecost" },
-      { id: "praxis-response-feast-cross",   title: "Praxis Response, Feast of the Cross" },
-      { id: "hymn-of-the-blessing",          title: "The Hymn of the Blessing" },
-      { id: "lobsh-first-hoos",              title: "Lobsh of First Hoos" },
-      { id: "christ-is-risen",               title: "Christ Is Risen" },
-    ],
-    "level-2": [
-      { id: "paralex-shere-maria",        title: "Paralex, Shere Maria" },
-      { id: "aripalin",                      title: "Ⲁⲣⲓⲯⲁⲗⲓⲛ" },
-      { id: "aspasmos-adam-resurrection",    title: "Aspasmos Adam, Resurrection" },
-    ]
-  },
-  "hs": {
-    "level-1": [
-      { id: "pi-oik",              title: "Ⲡⲓⲱⲓⲕ" },
-      { id: "first-hoos",          title: "First Hoos" },
-      { id: "second-doxology-resurrection", title: "Second Doxology of Resurrection" },
-      { id: "pi-christos-aftonf",  title: "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ" },
-      { id: "tou-lithou",          title: "Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ" },
-    ],
-    "level-2": [
-      { id: "tenoue-n-khok",       title: "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ" },
-      { id: "kata-ni-khoros",      title: "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ" },
-      { id: "joyful-agios-major",  title: "Joyful Ⲁⲅⲓⲟⲥ, Major" },
-    ]
-  },
-  "college": {
-    "level-1": [
-      { id: "arihouo-gasf-third-hoos",              title: "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos" },
-      { id: "hossana-intro-doxologies-first-doxology", title: "Hossana Intro to Doxologies & 1st Doxology" },
-      { id: "christos-analympsis",                 title: "ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ" },
-      { id: "ethbe-ti-anastasis",                   title: "Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ" },
-    ],
-    "level-2": [
-      { id: "onim-nai-symfonia",  title: "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ" },
-      { id: "ten-thinou",         title: "Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ" },
-      { id: "fai-etafenf",        title: "Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ" },
-      { id: "ou-katikisis",       title: "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ" },
-    ]
-  }
-};
+const hymns = window.HYMNS_DATA || {};
 
 const list = hymns[group]?.[level] || [];
 const container = document.getElementById("hymnList");

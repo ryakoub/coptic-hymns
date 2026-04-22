@@ -34,9 +34,6 @@ return seekUrl;
 return primaryUrl;
 }
 
-// Fix Hymn List nav link to return to the correct group/level
-document.getElementById("hymnListLink").href = `hymns.html?group=${group}&level=${level}`;
-
 // Show group and level subtitle
 const groupLabel = group === "college" 
   ? "COLLEGE & UP" 
@@ -49,9 +46,31 @@ const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
 const toggleCopticFontBtn = document.getElementById("toggleCopticFont");
 const toggleSettingsBtn = document.getElementById("toggleSettings");
+const closeSettingsBtn = document.getElementById("closeSettings");
 const settingsPanel = document.getElementById("settingsPanel");
+const settingsScrim = document.getElementById("settingsScrim");
 const toggleAdvancedBtn = document.getElementById("toggleAdvanced");
 const advancedPanel = document.getElementById("advancedPanel");
+
+const toggleHymnDrawerBtn = document.getElementById("toggleHymnDrawer");
+const closeHymnDrawerBtn = document.getElementById("closeHymnDrawer");
+const hymnDrawer = document.getElementById("hymnDrawer");
+const hymnDrawerScrim = document.getElementById("hymnDrawerScrim");
+const hymnDrawerList = document.getElementById("hymnDrawerList");
+const hymnDrawerSubtitle = document.getElementById("hymnDrawerSubtitle");
+const hymnDrawerAllLink = document.getElementById("hymnDrawerAllLink");
+
+function setSettingRowState(btn, isOn) {
+if (!btn) return;
+btn.classList.toggle("is-on", !!isOn);
+btn.setAttribute("aria-checked", isOn ? "true" : "false");
+const valueEl = btn.querySelector(".settings-row-value");
+if (valueEl) {
+const onText = valueEl.getAttribute("data-on") || "On";
+const offText = valueEl.getAttribute("data-off") || "Off";
+valueEl.textContent = isOn ? onText : offText;
+}
+}
 const timestampsBox = document.getElementById("timestamps");
 const audioNav = document.querySelector(".audio-nav");
 const audioSpacer = document.querySelector(".audio-spacer");
@@ -363,9 +382,7 @@ const COPTIC_FONT_PREF_KEY = "copticFontMode";
 function applyCopticFontMode(mode) {
 const useTraditional = mode === "traditional";
 document.body.classList.toggle("coptic-font-traditional", useTraditional);
-if (toggleCopticFontBtn) {
-toggleCopticFontBtn.textContent = `Coptic Font: ${useTraditional ? "Traditional" : "Modern"}`;
-}
+setSettingRowState(toggleCopticFontBtn, useTraditional);
 }
 
 const savedCopticMode = localStorage.getItem(COPTIC_FONT_PREF_KEY) || "traditional";
@@ -549,18 +566,18 @@ loopTargetIndex = currentLineIndex >= 0 ? currentLineIndex : 0;
 } else {
 loopTargetIndex = null;
 }
-toggleLoopBtn.textContent = `Repeat Verse: ${repeatVerseEnabled ? "On" : "Off"}`;
+setSettingRowState(toggleLoopBtn, repeatVerseEnabled);
 });
 
 toggleScrollBtn?.addEventListener("click", () => {
 autoScrollEnabled = !autoScrollEnabled;
-toggleScrollBtn.textContent = `Auto-Scroll: ${autoScrollEnabled ? "On" : "Off"}`;
+setSettingRowState(toggleScrollBtn, autoScrollEnabled);
 });
 
 const togglePulseBtn = document.getElementById("togglePulse");
 togglePulseBtn?.addEventListener("click", () => {
 const enabled = document.body.classList.toggle("pulse-enabled");
-togglePulseBtn.textContent = `Pulse: ${enabled ? "On" : "Off"}`;
+setSettingRowState(togglePulseBtn, enabled);
 });
 
 toggleCopticFontBtn?.addEventListener("click", () => {
@@ -570,48 +587,191 @@ applyCopticFontMode(nextMode);
 localStorage.setItem(COPTIC_FONT_PREF_KEY, nextMode);
 });
 
-toggleSettingsBtn?.addEventListener("click", () => {
+function closeAdvancedPanel() {
+if (!advancedPanel || !toggleAdvancedBtn) return;
+advancedPanel.setAttribute("hidden", "");
+toggleAdvancedBtn.setAttribute("aria-expanded", "false");
+}
+
+function openSettingsDrawer() {
 if (!settingsPanel) return;
-const isHidden = settingsPanel.hasAttribute("hidden");
-if (isHidden) {
+if (typeof isHymnDrawerOpen === "function" && isHymnDrawerOpen()) {
+closeHymnDrawer();
+}
 settingsPanel.removeAttribute("hidden");
+// force a reflow so the transform transition runs from the hidden state
+void settingsPanel.offsetWidth;
+settingsPanel.classList.add("is-open");
+settingsPanel.setAttribute("aria-hidden", "false");
+settingsScrim?.removeAttribute("hidden");
+void (settingsScrim && settingsScrim.offsetWidth);
+settingsScrim?.classList.add("is-open");
+if (toggleSettingsBtn) {
 toggleSettingsBtn.setAttribute("aria-expanded", "true");
-toggleSettingsBtn.textContent = "✕";
 toggleSettingsBtn.setAttribute("aria-label", "Close settings");
 toggleSettingsBtn.title = "Close settings";
-} else {
-settingsPanel.setAttribute("hidden", "");
+}
+}
+
+function closeSettingsDrawer() {
+if (!settingsPanel) return;
+settingsPanel.classList.remove("is-open");
+settingsPanel.setAttribute("aria-hidden", "true");
+settingsScrim?.classList.remove("is-open");
+if (toggleSettingsBtn) {
 toggleSettingsBtn.setAttribute("aria-expanded", "false");
-toggleSettingsBtn.textContent = "⚙";
 toggleSettingsBtn.setAttribute("aria-label", "Open settings");
 toggleSettingsBtn.title = "Settings";
-advancedPanel?.setAttribute("hidden", "");
-toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
-if (toggleAdvancedBtn) {
-toggleAdvancedBtn.textContent = "Advanced Options";
 }
+closeAdvancedPanel();
+// wait for slide-out animation to finish before hiding from assistive tech
+window.setTimeout(() => {
+if (!settingsPanel.classList.contains("is-open")) {
+settingsPanel.setAttribute("hidden", "");
+settingsScrim?.setAttribute("hidden", "");
+}
+}, 280);
+}
+
+function isSettingsDrawerOpen() {
+return !!settingsPanel && settingsPanel.classList.contains("is-open");
+}
+
+toggleSettingsBtn?.addEventListener("click", () => {
+if (isSettingsDrawerOpen()) {
+closeSettingsDrawer();
+} else {
+openSettingsDrawer();
 }
 });
 
-document.addEventListener("click", (event) => {
-if (!toggleSettingsBtn || !settingsPanel || settingsPanel.hasAttribute("hidden")) {
+closeSettingsBtn?.addEventListener("click", () => {
+closeSettingsDrawer();
+});
+
+settingsScrim?.addEventListener("click", () => {
+closeSettingsDrawer();
+});
+
+function isHymnDrawerOpen() {
+return !!hymnDrawer && hymnDrawer.classList.contains("is-open");
+}
+
+function openHymnDrawer() {
+if (!hymnDrawer) return;
+if (isSettingsDrawerOpen()) {
+closeSettingsDrawer();
+}
+hymnDrawer.removeAttribute("hidden");
+void hymnDrawer.offsetWidth;
+hymnDrawer.classList.add("is-open");
+hymnDrawer.setAttribute("aria-hidden", "false");
+hymnDrawerScrim?.removeAttribute("hidden");
+void (hymnDrawerScrim && hymnDrawerScrim.offsetWidth);
+hymnDrawerScrim?.classList.add("is-open");
+if (toggleHymnDrawerBtn) {
+toggleHymnDrawerBtn.setAttribute("aria-expanded", "true");
+toggleHymnDrawerBtn.setAttribute("aria-label", "Close hymn list");
+toggleHymnDrawerBtn.title = "Close hymn list";
+}
+}
+
+function closeHymnDrawer() {
+if (!hymnDrawer) return;
+hymnDrawer.classList.remove("is-open");
+hymnDrawer.setAttribute("aria-hidden", "true");
+hymnDrawerScrim?.classList.remove("is-open");
+if (toggleHymnDrawerBtn) {
+toggleHymnDrawerBtn.setAttribute("aria-expanded", "false");
+toggleHymnDrawerBtn.setAttribute("aria-label", "Open hymn list");
+toggleHymnDrawerBtn.title = "Hymn list";
+}
+window.setTimeout(() => {
+if (!hymnDrawer.classList.contains("is-open")) {
+hymnDrawer.setAttribute("hidden", "");
+hymnDrawerScrim?.setAttribute("hidden", "");
+}
+}, 280);
+}
+
+function populateHymnDrawer() {
+if (!hymnDrawerList) return;
+const catalog = (window.HYMNS_DATA && window.HYMNS_DATA[group] && window.HYMNS_DATA[group][level]) || [];
+
+if (hymnDrawerSubtitle) {
+const groupText = typeof window.formatGroupLabel === "function" ? window.formatGroupLabel(group) : groupLabel;
+const levelText = typeof window.formatLevelLabel === "function" ? window.formatLevelLabel(level) : levelLabel;
+hymnDrawerSubtitle.textContent = `${groupText} · ${levelText}`;
+}
+if (hymnDrawerAllLink) {
+hymnDrawerAllLink.href = `hymns.html?group=${encodeURIComponent(group)}&level=${encodeURIComponent(level)}`;
+}
+
+hymnDrawerList.innerHTML = "";
+if (!catalog.length) {
+const empty = document.createElement("li");
+empty.className = "hymn-drawer-empty";
+empty.textContent = "No hymns found for this level.";
+hymnDrawerList.appendChild(empty);
 return;
 }
 
-const target = event.target;
-if (target instanceof Node && !settingsPanel.contains(target) && !toggleSettingsBtn.contains(target)) {
-settingsPanel.setAttribute("hidden", "");
-toggleSettingsBtn?.setAttribute("aria-expanded", "false");
-if (toggleSettingsBtn) {
-toggleSettingsBtn.textContent = "⚙";
-toggleSettingsBtn.setAttribute("aria-label", "Open settings");
-toggleSettingsBtn.title = "Settings";
+catalog.forEach(item => {
+const li = document.createElement("li");
+const a = document.createElement("a");
+a.className = "hymn-drawer-row";
+a.href = `player.html?hymn=${encodeURIComponent(item.id)}&group=${encodeURIComponent(group)}&level=${encodeURIComponent(level)}`;
+if (item.id === hymn) {
+a.classList.add("is-current");
+a.setAttribute("aria-current", "page");
 }
-advancedPanel?.setAttribute("hidden", "");
-toggleAdvancedBtn?.setAttribute("aria-expanded", "false");
-if (toggleAdvancedBtn) {
-toggleAdvancedBtn.textContent = "Advanced Options";
+
+const icon = document.createElement("span");
+icon.className = "hymn-drawer-row-icon";
+icon.setAttribute("aria-hidden", "true");
+icon.textContent = "🎼";
+
+const title = document.createElement("span");
+title.className = "hymn-drawer-row-title";
+title.textContent = item.title;
+
+const check = document.createElement("span");
+check.className = "hymn-drawer-row-check";
+check.setAttribute("aria-hidden", "true");
+check.textContent = "▶";
+
+a.appendChild(icon);
+a.appendChild(title);
+a.appendChild(check);
+li.appendChild(a);
+hymnDrawerList.appendChild(li);
+});
 }
+
+populateHymnDrawer();
+
+toggleHymnDrawerBtn?.addEventListener("click", () => {
+if (isHymnDrawerOpen()) {
+closeHymnDrawer();
+} else {
+openHymnDrawer();
+}
+});
+
+closeHymnDrawerBtn?.addEventListener("click", () => {
+closeHymnDrawer();
+});
+
+hymnDrawerScrim?.addEventListener("click", () => {
+closeHymnDrawer();
+});
+
+document.addEventListener("keydown", (event) => {
+if (event.key !== "Escape") return;
+if (isSettingsDrawerOpen()) {
+closeSettingsDrawer();
+} else if (isHymnDrawerOpen()) {
+closeHymnDrawer();
 }
 });
 
@@ -621,11 +781,9 @@ const isHidden = advancedPanel.hasAttribute("hidden");
 if (isHidden) {
 advancedPanel.removeAttribute("hidden");
 toggleAdvancedBtn.setAttribute("aria-expanded", "true");
-toggleAdvancedBtn.textContent = "Advanced Options: On";
 } else {
 advancedPanel.setAttribute("hidden", "");
 toggleAdvancedBtn.setAttribute("aria-expanded", "false");
-toggleAdvancedBtn.textContent = "Advanced Options";
 }
 });
 
