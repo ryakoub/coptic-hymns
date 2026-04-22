@@ -206,8 +206,10 @@ text-align: center;
 text-decoration: none;
 color: white;
 display: flex;
+flex-direction: column;
 align-items: center;
 justify-content: center;
+gap: 4px;
 font-weight: 600;
 box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 transition: transform 0.2s, box-shadow 0.2s;
@@ -222,12 +224,19 @@ box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
 transform: translateY(-1px);
 }
 
+.grade-icon{
+width: 44px;
+height: 44px;
+flex-shrink: 0;
+filter: drop-shadow(0 2px 3px rgba(0,0,0,0.15));
+}
+
 .grade-button-label{
 display: block;
-font-size: clamp(16px, 4vw, 24px);
+font-size: clamp(13px, 3.5vw, 17px);
 font-weight: 700;
 line-height: 1.2;
-padding: 8px;
+padding: 0 4px;
 }
 
 @media (max-width: 600px) {
