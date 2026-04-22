@@ -34,9 +34,6 @@ return seekUrl;
 return primaryUrl;
 }
 
-// Fix Hymn List nav link to return to the correct group/level
-document.getElementById("hymnListLink").href = `hymns.html?group=${group}&level=${level}`;
-
 // Show group and level subtitle
 const groupLabel = group === "college" 
   ? "COLLEGE & UP" 
@@ -54,6 +51,14 @@ const settingsPanel = document.getElementById("settingsPanel");
 const settingsScrim = document.getElementById("settingsScrim");
 const toggleAdvancedBtn = document.getElementById("toggleAdvanced");
 const advancedPanel = document.getElementById("advancedPanel");
+
+const toggleHymnDrawerBtn = document.getElementById("toggleHymnDrawer");
+const closeHymnDrawerBtn = document.getElementById("closeHymnDrawer");
+const hymnDrawer = document.getElementById("hymnDrawer");
+const hymnDrawerScrim = document.getElementById("hymnDrawerScrim");
+const hymnDrawerList = document.getElementById("hymnDrawerList");
+const hymnDrawerSubtitle = document.getElementById("hymnDrawerSubtitle");
+const hymnDrawerAllLink = document.getElementById("hymnDrawerAllLink");
 
 function setSettingRowState(btn, isOn) {
 if (!btn) return;
@@ -590,6 +595,9 @@ toggleAdvancedBtn.setAttribute("aria-expanded", "false");
 
 function openSettingsDrawer() {
 if (!settingsPanel) return;
+if (typeof isHymnDrawerOpen === "function" && isHymnDrawerOpen()) {
+closeHymnDrawer();
+}
 settingsPanel.removeAttribute("hidden");
 // force a reflow so the transform transition runs from the hidden state
 void settingsPanel.offsetWidth;
@@ -645,9 +653,125 @@ settingsScrim?.addEventListener("click", () => {
 closeSettingsDrawer();
 });
 
-document.addEventListener("keydown", (event) => {
-if (event.key === "Escape" && isSettingsDrawerOpen()) {
+function isHymnDrawerOpen() {
+return !!hymnDrawer && hymnDrawer.classList.contains("is-open");
+}
+
+function openHymnDrawer() {
+if (!hymnDrawer) return;
+if (isSettingsDrawerOpen()) {
 closeSettingsDrawer();
+}
+hymnDrawer.removeAttribute("hidden");
+void hymnDrawer.offsetWidth;
+hymnDrawer.classList.add("is-open");
+hymnDrawer.setAttribute("aria-hidden", "false");
+hymnDrawerScrim?.removeAttribute("hidden");
+void (hymnDrawerScrim && hymnDrawerScrim.offsetWidth);
+hymnDrawerScrim?.classList.add("is-open");
+if (toggleHymnDrawerBtn) {
+toggleHymnDrawerBtn.setAttribute("aria-expanded", "true");
+toggleHymnDrawerBtn.setAttribute("aria-label", "Close hymn list");
+toggleHymnDrawerBtn.title = "Close hymn list";
+}
+}
+
+function closeHymnDrawer() {
+if (!hymnDrawer) return;
+hymnDrawer.classList.remove("is-open");
+hymnDrawer.setAttribute("aria-hidden", "true");
+hymnDrawerScrim?.classList.remove("is-open");
+if (toggleHymnDrawerBtn) {
+toggleHymnDrawerBtn.setAttribute("aria-expanded", "false");
+toggleHymnDrawerBtn.setAttribute("aria-label", "Open hymn list");
+toggleHymnDrawerBtn.title = "Hymn list";
+}
+window.setTimeout(() => {
+if (!hymnDrawer.classList.contains("is-open")) {
+hymnDrawer.setAttribute("hidden", "");
+hymnDrawerScrim?.setAttribute("hidden", "");
+}
+}, 280);
+}
+
+function populateHymnDrawer() {
+if (!hymnDrawerList) return;
+const catalog = (window.HYMNS_DATA && window.HYMNS_DATA[group] && window.HYMNS_DATA[group][level]) || [];
+
+if (hymnDrawerSubtitle) {
+const groupText = typeof window.formatGroupLabel === "function" ? window.formatGroupLabel(group) : groupLabel;
+const levelText = typeof window.formatLevelLabel === "function" ? window.formatLevelLabel(level) : levelLabel;
+hymnDrawerSubtitle.textContent = `${groupText} · ${levelText}`;
+}
+if (hymnDrawerAllLink) {
+hymnDrawerAllLink.href = `hymns.html?group=${encodeURIComponent(group)}&level=${encodeURIComponent(level)}`;
+}
+
+hymnDrawerList.innerHTML = "";
+if (!catalog.length) {
+const empty = document.createElement("li");
+empty.className = "hymn-drawer-empty";
+empty.textContent = "No hymns found for this level.";
+hymnDrawerList.appendChild(empty);
+return;
+}
+
+catalog.forEach(item => {
+const li = document.createElement("li");
+const a = document.createElement("a");
+a.className = "hymn-drawer-row";
+a.href = `player.html?hymn=${encodeURIComponent(item.id)}&group=${encodeURIComponent(group)}&level=${encodeURIComponent(level)}`;
+if (item.id === hymn) {
+a.classList.add("is-current");
+a.setAttribute("aria-current", "page");
+}
+
+const icon = document.createElement("span");
+icon.className = "hymn-drawer-row-icon";
+icon.setAttribute("aria-hidden", "true");
+icon.textContent = "🎼";
+
+const title = document.createElement("span");
+title.className = "hymn-drawer-row-title";
+title.textContent = item.title;
+
+const check = document.createElement("span");
+check.className = "hymn-drawer-row-check";
+check.setAttribute("aria-hidden", "true");
+check.textContent = "▶";
+
+a.appendChild(icon);
+a.appendChild(title);
+a.appendChild(check);
+li.appendChild(a);
+hymnDrawerList.appendChild(li);
+});
+}
+
+populateHymnDrawer();
+
+toggleHymnDrawerBtn?.addEventListener("click", () => {
+if (isHymnDrawerOpen()) {
+closeHymnDrawer();
+} else {
+openHymnDrawer();
+}
+});
+
+closeHymnDrawerBtn?.addEventListener("click", () => {
+closeHymnDrawer();
+});
+
+hymnDrawerScrim?.addEventListener("click", () => {
+closeHymnDrawer();
+});
+
+document.addEventListener("keydown", (event) => {
+if (event.key !== "Escape") return;
+if (isSettingsDrawerOpen()) {
+closeSettingsDrawer();
+} else if (isHymnDrawerOpen()) {
+closeHymnDrawer();
 }
 });
 
