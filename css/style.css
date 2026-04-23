@@ -391,6 +391,23 @@ font-style: italic;
 margin-top: 4px;
 }
 
+.transliteration-text{
+display: none;
+font-size: 32px;
+font-weight: bold;
+color: #1b5e20;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+body.transliteration-enabled .has-transliteration .coptic{
+display: none;
+}
+
+body.transliteration-enabled .has-transliteration .transliteration-text{
+display: block;
+}
+
 .active{
 background: linear-gradient(to right, #fff9c4, #ffeb3b);
 border-left:8px solid #ff9800;

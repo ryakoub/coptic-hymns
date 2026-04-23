@@ -45,6 +45,8 @@ document.title = `${groupLabel} ${levelLabel} | Coptic Chanter`;
 const toggleLoopBtn = document.getElementById("toggleLoop");
 const toggleScrollBtn = document.getElementById("toggleScroll");
 const toggleCopticFontBtn = document.getElementById("toggleCopticFont");
+const toggleTransliterationBtn = document.getElementById("toggleTransliteration");
+const transliterationSettingItem = document.getElementById("transliterationSettingItem");
 const toggleSettingsBtn = document.getElementById("toggleSettings");
 const closeSettingsBtn = document.getElementById("closeSettings");
 const settingsPanel = document.getElementById("settingsPanel");
@@ -77,6 +79,7 @@ const audioSpacer = document.querySelector(".audio-spacer");
 
 let repeatVerseEnabled = false;
 let autoScrollEnabled = true;
+let transliterationEnabled = false;
 let currentLineIndex = -1;
 let currentLines = [];
 let capturedTimes = [];
@@ -445,6 +448,12 @@ fetch(`${base}/lyrics.json`)
 .then(lines=>{
 currentLines = lines.filter(l => !l.label && !l.static);
 
+// Reveal transliteration toggle if any line has transliteration data
+const hasTransliteration = lines.some(l => l.transliteration);
+if (hasTransliteration && transliterationSettingItem) {
+transliterationSettingItem.removeAttribute("hidden");
+}
+
 let colorIndex = 0;
 lines.forEach((line, index)=>{
 
@@ -463,10 +472,19 @@ div.className = "line line-static";
 const copticDiv = document.createElement("div");
 copticDiv.className = "coptic";
 copticDiv.textContent = line.coptic || "";
+if (line.transliteration) {
+div.classList.add("has-transliteration");
+const translitDiv = document.createElement("div");
+translitDiv.className = "transliteration-text";
+translitDiv.textContent = line.transliteration;
+div.appendChild(copticDiv);
+div.appendChild(translitDiv);
+} else {
+div.appendChild(copticDiv);
+}
 const translationDiv = document.createElement("div");
 translationDiv.className = "translation";
 translationDiv.textContent = line.translations?.english || "";
-div.appendChild(copticDiv);
 div.appendChild(translationDiv);
 lyricsContainer.appendChild(div);
 line.element = div;
@@ -522,11 +540,19 @@ stanza.element = span;
 copticDiv.textContent = line.coptic;
 }
 
+const translitDiv = document.createElement("div");
+translitDiv.className = "transliteration-text";
+translitDiv.textContent = line.transliteration || "";
+
 const translationDiv = document.createElement("div");
 translationDiv.className = "translation";
 translationDiv.textContent = line.translations?.english || "";
 
 div.appendChild(copticDiv);
+if (line.transliteration) {
+div.classList.add("has-transliteration");
+div.appendChild(translitDiv);
+}
 div.appendChild(translationDiv);
 
 div.onclick=()=>{
@@ -585,6 +611,12 @@ const currentMode = document.body.classList.contains("coptic-font-traditional") 
 const nextMode = currentMode === "traditional" ? "modern" : "traditional";
 applyCopticFontMode(nextMode);
 localStorage.setItem(COPTIC_FONT_PREF_KEY, nextMode);
+});
+
+toggleTransliterationBtn?.addEventListener("click", () => {
+transliterationEnabled = !transliterationEnabled;
+document.body.classList.toggle("transliteration-enabled", transliterationEnabled);
+setSettingRowState(toggleTransliterationBtn, transliterationEnabled);
 });
 
 function closeAdvancedPanel() {
