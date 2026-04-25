@@ -18,7 +18,7 @@
 </style>
 </head>
 <body>
-<nav class="nav-bar"><a href="index.html">🏠 Home</a><div class="nav-brand"><span class="nav-brand-title">Coptic Chanter</span><span class="nav-brand-subtitle">Ⲁⲣⲓⲯⲁⲗⲓⲛ ϧⲉⲛ ⲛⲓϩⲩⲙⲛⲟⲥ</span></div><a href="groups.html?curriculum=mahragan-keraza-2026">📚 Groups</a></nav>
+<nav class="nav-bar"><a href="index.html">🏠 Home</a><div class="nav-brand"><span class="nav-brand-title">Coptic Chanter</span><span class="nav-brand-subtitle">Ⲁⲣⲓⲯⲁⲗⲓⲛ ϧⲉⲛ ⲛⲓϩⲩⲙⲛⲟⲥ</span></div><a id="groupsLink" href="groups.html?curriculum=mahragan-keraza-2026">↩️ Group</a></nav>
 <main class="page-shell">
 <h1>Coptic Hymns</h1>
 <h2 id="levelTitle">Hymns</h2>
@@ -27,6 +27,7 @@
 <script src="js/hymns-data.js?v=20260421a"></script>
 <script>
 const params = new URLSearchParams(window.location.search);
+const curriculum = params.get("curriculum") || "mahragan-keraza-2026";
 const group = params.get("group") || "grades-3-4";
 const level = params.get("level") || "level-1";
 
@@ -36,6 +37,8 @@ const groupTitle = group === "college"
 const levelTitle = level.replace(/-/g, " ").toUpperCase();
 document.getElementById("levelTitle").innerText = groupTitle + " - " + levelTitle;
 document.title = `${groupTitle} ${levelTitle} Hymns | Coptic Chanter`;
+document.getElementById("groupsLink").href = `levels.html?curriculum=${encodeURIComponent(curriculum)}&group=${encodeURIComponent(group)}`;
+document.getElementById("groupsLink").textContent = `↩️ ${groupTitle}`;
 
 const hymns = window.HYMNS_DATA || {};
 
