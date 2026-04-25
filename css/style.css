@@ -230,6 +230,18 @@ max-width: 640px;
 }
 }
 
+.home-theme-verse{
+margin: 16px auto 0;
+max-width: 860px;
+text-align: center;
+font-family: var(--coptic-font-traditional);
+font-size: clamp(24px, 3.4vw, 34px);
+font-weight: 700;
+line-height: 1.35;
+color: #0d4771;
+text-shadow: 0 1px 0 rgba(255,255,255,0.55);
+}
+
 .grade-groups{
 display: grid;
 grid-template-columns: repeat(3, 1fr);
