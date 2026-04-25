@@ -4,6 +4,44 @@
     "coptic": "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
     "translations": {
       "english": "Jesus Christ the King of glory, has risen from the dead."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲓⲏⲥⲟⲩⲥ",
+        "start": 5.0
+      },
+      {
+        "text": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ",
+        "start": 8.71
+      },
+      {
+        "text": "Ⲡ̀ⲟⲩⲣⲟ",
+        "start": 12.92
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 15.8
+      },
+      {
+        "text": "ⲡ̀ⲱ̀ⲟⲩ:",
+        "start": 18.94
+      },
+      {
+        "text": "ⲁϥⲧⲱⲛϥ",
+        "start": 23.81
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 27.01
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 31.72
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+        "start": 32.62
+      }
+    ]
   }
 ]
