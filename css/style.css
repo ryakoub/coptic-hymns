@@ -202,6 +202,7 @@ align-items: center;
 
 .home-mahragan-logo-link{
 display: inline-block;
+width: min(100%, 520px);
 border-radius: 16px;
 transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -217,9 +218,16 @@ outline-offset: 4px;
 }
 
 .home-mahragan-logo img{
-width: min(100%, 420px);
+width: 100%;
 height: auto;
 display: block;
+}
+
+@media (min-width: 900px) {
+.home-mahragan-logo-link{
+width: 74%;
+max-width: 640px;
+}
 }
 
 .grade-groups{
