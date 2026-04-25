@@ -4,20 +4,186 @@
     "coptic": "Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲫⲏⲉ̀ⲧⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϧⲉⲛ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲙ̀ⲙⲁϩϣⲟⲙⲧ: ⲉⲕⲉ̀ⲧⲟⲩⲛⲟⲥⲧⲉⲛ ϧⲉⲛ ⲧⲉⲕϫⲟⲙ.",
     "translations": {
       "english": "O my Lord Jesus Christ, who rose from the dead, on the third day, You shall raise us with Your power."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲡⲁϭⲟⲓⲥ",
+        "start": 2.66
+      },
+      {
+        "text": "Ⲓⲏⲥⲟⲩⲥ",
+        "start": 8.03
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:",
+        "start": 9.62
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁϥⲧⲱⲛϥ",
+        "start": 15.55
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 21.7
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 22.9
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 23.84
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 26.93
+      },
+      {
+        "text": "ⲡⲓⲉ̀ϩⲟⲟⲩ",
+        "start": 28.34
+      },
+      {
+        "text": "ⲙ̀ⲙⲁϩϣⲟⲙⲧ:",
+        "start": 34.51
+      },
+      {
+        "text": "ⲉⲕⲉ̀ⲧⲟⲩⲛⲟⲥⲧⲉⲛ",
+        "start": 41.38
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 49.45
+      },
+      {
+        "text": "ⲧⲉⲕϫⲟⲙ.",
+        "start": 50.91
+      }
+    ]
   },
   {
-    "start": 52.72,
+    "start": 52.81,
     "coptic": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲛⲉⲙ ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲛⲓⲥ̀ⲧⲣⲁⲧⲓⲁ ⲛⲉⲙ ⲛⲓⲉⲝⲟⲩⲥⲓⲁ: ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛⲓⲙⲉⲧϭⲟⲓⲥ ⲛⲓϫⲟⲙ.",
     "translations": {
       "english": "The Cherubim and the Seraphim, the angels and the archangels, the principalities and the authorities, the thrones and the powers."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ",
+        "start": 52.81
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 59.06
+      },
+      {
+        "text": "Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ:",
+        "start": 59.71
+      },
+      {
+        "text": "ⲛⲓⲁⲅⲅⲉⲗⲟⲥ",
+        "start": 67.24
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 74.05
+      },
+      {
+        "text": "ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ:",
+        "start": 74.56
+      },
+      {
+        "text": "ⲛⲓⲥ̀ⲧⲣⲁⲧⲓⲁ",
+        "start": 78.71
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 85.01
+      },
+      {
+        "text": "ⲛⲓⲉⲝⲟⲩⲥⲓⲁ:",
+        "start": 85.46
+      },
+      {
+        "text": "ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ",
+        "start": 92.59
+      },
+      {
+        "text": "ⲛⲓⲙⲉⲧϭⲟⲓⲥ",
+        "start": 99.13
+      },
+      {
+        "text": "ⲛⲓϫⲟⲙ.",
+        "start": 102.25
+      }
+    ]
   },
   {
-    "start": 104.0,
+    "start": 103.93,
     "coptic": "Ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲟⲩⲟϩ ⲭ̀ⲟⲩⲁⲃ: ⲭ̀ⲟⲩⲁⲃ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲛⲓⲉ̀ⲱⲛ: Ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ.",
     "translations": {
       "english": "Proclaim saying, “Holy holy, holy O Lord of the ages, Christ is risen from the dead.”"
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲉⲩⲱϣ",
+        "start": 103.93
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 106.06
+      },
+      {
+        "text": "ⲉⲩϫⲱ",
+        "start": 110.89
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲥ:",
+        "start": 115.28
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 117.89
+      },
+      {
+        "text": "ⲭ̀ⲟⲩⲁⲃ",
+        "start": 118.66
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 124.39
+      },
+      {
+        "text": "ⲭ̀ⲟⲩⲁⲃ:",
+        "start": 125.56
+      },
+      {
+        "text": "ⲭ̀ⲟⲩⲁⲃ",
+        "start": 128.88
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 135.64
+      },
+      {
+        "text": "ⲛ̀ⲛⲓⲉ̀ⲱⲛ:",
+        "start": 139.07
+      },
+      {
+        "text": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 141.76
+      },
+      {
+        "text": "ⲁ̀ⲛⲉⲥⲧⲏ",
+        "start": 146.86
+      },
+      {
+        "text": "ⲉⲕ",
+        "start": 149.75
+      },
+      {
+        "text": "ⲛⲉⲕⲣⲱⲛ.",
+        "start": 151.37
+      }
+    ]
   }
 ]
