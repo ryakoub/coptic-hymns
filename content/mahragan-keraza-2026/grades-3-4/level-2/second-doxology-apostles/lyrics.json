@@ -4,41 +4,149 @@
     "coptic": "Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁϥⲥⲱⲧⲡ ⲛ̀ⲛⲉϥⲁ̀ⲡⲟⲥⲧⲗⲟⲥ: ⲉ̀ⲧⲉ Ⲡⲉⲧⲣⲟⲥ ⲛⲉⲙ Ⲁⲛⲇⲣⲉⲁⲥ: Ⲓⲱⲁⲛⲛⲏⲥ ⲛⲉⲙ Ⲓⲁⲕⲱⲃⲟⲥ.",
     "translations": {
       "english": "Our Lord Jesus Christ: He is the Savior of the Apostles: Peter and Andrew: John and James."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:",
+        "start": 4.27
+      },
+      {
+        "coptic": "ⲁϥⲥⲱⲧⲡ ⲛ̀ⲛⲉϥⲁ̀ⲡⲟⲥⲧⲗⲟⲥ:",
+        "start": 8.17
+      },
+      {
+        "coptic": "ⲉ̀ⲧⲉ Ⲡⲉⲧⲣⲟⲥ ⲛⲉⲙ Ⲁⲛⲇⲣⲉⲁⲥ:",
+        "start": 12.61
+      },
+      {
+        "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲛⲉⲙ Ⲓⲁⲕⲱⲃⲟⲥ.",
+        "start": 17.37
+      }
+    ]
   },
   {
-    "start": 22.98,
+    "start": 21.6,
     "coptic": "Ⲗⲟⲓⲡⲟⲛ Ⲫⲓⲗⲗⲓⲡⲡⲟⲥ ⲛⲉⲙ Ⲙⲁⲑⲉⲟⲥ: Ⲃⲁⲣⲑⲟⲗⲟⲙⲉⲟⲥ ⲛⲉⲙ Ⲑⲱⲙⲁⲥ: Ⲓⲁⲕⲱⲃⲟⲥ ⲛ̀ⲧⲉ Ⲁⲗⲫⲉⲟⲥ: ⲛⲉⲙ Ⲥⲓⲙⲱⲛ ⲡⲓⲕⲁⲛⲁⲛⲉⲟⲥ.",
     "translations": {
       "english": "Philip and Matthew: Bartholomew and Thomas: James son of Alphaeus: and Simon the Zealot."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲗⲟⲓⲡⲟⲛ Ⲫⲓⲗⲗⲓⲡⲡⲟⲥ ⲛⲉⲙ Ⲙⲁⲑⲉⲟⲥ:",
+        "start": 21.6
+      },
+      {
+        "coptic": "Ⲃⲁⲣⲑⲟⲗⲟⲙⲉⲟⲥ ⲛⲉⲙ Ⲑⲱⲙⲁⲥ:",
+        "start": 25.83
+      },
+      {
+        "coptic": "Ⲓⲁⲕⲱⲃⲟⲥ ⲛ̀ⲧⲉ Ⲁⲗⲫⲉⲟⲥ:",
+        "start": 30.75
+      },
+      {
+        "coptic": "ⲛⲉⲙ Ⲥⲓⲙⲱⲛ ⲡⲓⲕⲁⲛⲁⲛⲉⲟⲥ.",
+        "start": 35.29
+      }
+    ]
   },
   {
-    "start": 42.60,
+    "start": 39.68,
     "coptic": "Ⲑⲁⲇⲇⲉⲟⲥ ⲛⲉⲙ Ⲙⲁⲧⲑⲓⲁⲥ: Ⲡⲁⲩⲗⲟⲥ ⲛⲉⲙ Ⲙⲁⲣⲕⲟⲥ ⲛⲉⲙ Ⲗⲟⲩⲕⲁⲥ: ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲏⲙⲁⲑⲏⲧⲏⲥ: ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ ⲡⲉⲛⲤⲱⲧⲏⲣ.",
     "translations": {
       "english": "Thaddeus and Matthias: Paul and Mark: Luke: and the disciples: they are the saviors."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲑⲁⲇⲇⲉⲟⲥ ⲛⲉⲙ Ⲙⲁⲧⲑⲓⲁⲥ:",
+        "start": 39.68
+      },
+      {
+        "coptic": "Ⲡⲁⲩⲗⲟⲥ ⲛⲉⲙ Ⲙⲁⲣⲕⲟⲥ ⲛⲉⲙ Ⲗⲟⲩⲕⲁⲥ:",
+        "start": 43.41
+      },
+      {
+        "coptic": "ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲏⲙⲁⲑⲏⲧⲏⲥ:",
+        "start": 47.79
+      },
+      {
+        "coptic": "ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ ⲡⲉⲛⲤⲱⲧⲏⲣ.",
+        "start": 52.32
+      }
+    ]
   },
   {
-    "start": 62.53,
+    "start": 57.57,
     "coptic": "Ⲙⲁⲧⲑⲓⲁⲥ ⲫⲏⲉ̀ⲧⲁϥϣⲱⲡⲓ: ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀Ⲓⲟⲩⲇⲁⲥ: ⲛⲉⲙ ⲡ̀ϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ: ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ Ⲇⲉⲥⲡⲟⲧⲁ.",
     "translations": {
       "english": "Matthias was chosen, instead of Judas, and was counted with the rest, who followed the Master."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲙⲁⲧⲑⲓⲁⲥ ⲫⲏⲉ̀ⲧⲁϥϣⲱⲡⲓ:",
+        "start": 57.57
+      },
+      {
+        "coptic": "ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀Ⲓⲟⲩⲇⲁⲥ:",
+        "start": 61.29
+      },
+      {
+        "coptic": "ⲛⲉⲙ ⲡ̀ϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ:",
+        "start": 65.62
+      },
+      {
+        "coptic": "ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ Ⲇⲉⲥⲡⲟⲧⲁ.",
+        "start": 70.26
+      }
+    ]
   },
   {
-    "start": 80.07,
+    "start": 75.09,
     "coptic": "Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ ⲉ̀ⲃⲟⲗ: ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ: ⲟⲩⲟϩ ⲛⲟⲩⲥⲁϫⲓ ⲁⲩⲫⲟϩ: ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ.",
     "translations": {
       "english": "Their voices went forth, onto the face of the whole earth, and their words have reached, the ends of the world."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ ⲉ̀ⲃⲟⲗ:",
+        "start": 75.09
+      },
+      {
+        "coptic": "ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ:",
+        "start": 79.32
+      },
+      {
+        "coptic": "ⲟⲩⲟϩ ⲛⲟⲩⲥⲁϫⲓ ⲁⲩⲫⲟϩ:",
+        "start": 84.16
+      },
+      {
+        "coptic": "ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ.",
+        "start": 88.34
+      }
+    ]
   },
   {
-    "start": 102.31,
+    "start": 93.1,
     "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲛⲉⲙ ⲡⲓϣ̀ⲃⲉⲥ̀ⲛⲁⲩ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
     "translations": {
       "english": "Pray to the Lord on our behalf, my masters and fathers the Apostles, and the seventy two disciples, that He may forgive us our sins."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:",
+        "start": 93.1
+      },
+      {
+        "coptic": "ⲱ̀ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ:",
+        "start": 97.59
+      },
+      {
+        "coptic": "ⲛⲉⲙ ⲡⲓϣ̀ⲃⲉⲥ̀ⲛⲁⲩ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ:",
+        "start": 102.21
+      },
+      {
+        "coptic": "ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+        "start": 106.92
+      }
+    ]
   }
 ]
