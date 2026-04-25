@@ -192,6 +192,36 @@ box-shadow: 0 18px 32px rgba(17, 94, 87, 0.22);
 transform: translateY(0);
 }
 
+.home-mahragan-logo{
+width: 100%;
+margin: 18px auto 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.home-mahragan-logo-link{
+display: inline-block;
+border-radius: 16px;
+transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.home-mahragan-logo-link:hover{
+transform: translateY(-2px);
+box-shadow: 0 10px 24px rgba(12, 61, 92, 0.2);
+}
+
+.home-mahragan-logo-link:focus-visible{
+outline: 3px solid rgba(4, 74, 122, 0.5);
+outline-offset: 4px;
+}
+
+.home-mahragan-logo img{
+width: min(100%, 420px);
+height: auto;
+display: block;
+}
+
 .grade-groups{
 display: grid;
 grid-template-columns: repeat(3, 1fr);
