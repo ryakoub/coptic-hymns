@@ -1,9 +1,55 @@
 [
   {
-    "start": 2.0,
+    "start": 7.6,
     "coptic": "Ⲧⲉⲛⲟ̀ⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛ̀ⲧⲉ ⲡⲓⲟ̀ⲩⲱⲓⲛⲓ: ⲛⲉⲙ ⲠⲉϥϢⲏⲣⲓ ⲙ̀ⲙⲟⲛⲟⲅⲉⲛⲏⲥ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲙ̀Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ: ϯⲦ̀ⲣⲓⲁⲥ ⲛ̀ⲟⲙⲟⲟⲩⲥⲓⲟⲥ.",
     "translations": {
       "english": "We worship the Father of light, and His only-begotten Son, and the Spirit the Paraclete, the co-essential Trinity."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲧⲉⲛⲟ̀ⲩⲱϣⲧ",
+        "start": 7.6
+      },
+      {
+        "text": "ⲙ̀Ⲫ̀ⲓⲱⲧ",
+        "start": 14.83
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲟ̀ⲩⲱⲓⲛⲓ:",
+        "start": 20.0
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 31.48
+      },
+      {
+        "text": "ⲠⲉϥϢⲏⲣⲓ",
+        "start": 33.28
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛⲟⲅⲉⲛⲏⲥ:",
+        "start": 38.16
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 76.98
+      },
+      {
+        "text": "ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ",
+        "start": 85.29
+      },
+      {
+        "text": "ⲙ̀Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ:",
+        "start": 90.25
+      },
+      {
+        "text": "ϯⲦ̀ⲣⲓⲁⲥ",
+        "start": 128.98
+      },
+      {
+        "text": "ⲛ̀ⲟⲙⲟⲟⲩⲥⲓⲟⲥ.",
+        "start": 142.12
+      }
+    ]
   }
 ]

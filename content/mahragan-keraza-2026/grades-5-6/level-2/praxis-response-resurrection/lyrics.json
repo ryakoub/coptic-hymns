@@ -1,10 +1,56 @@
 [
   {
-    "start": 4.03,
+    "start": 7.39,
     "coptic": "Ⲭⲉⲣⲉ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ: ⲉ̀ⲧⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
       "english": "Hail to His Resurrection, when He rose from the dead, that He may save us, from our sins."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ:",
+        "start": 7.39
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲧⲱⲛϥ",
+        "start": 22.89
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 33.07
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 37.41
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 38.64
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 49.9
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥⲥⲱϯ",
+        "start": 50.62
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ:",
+        "start": 56.76
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 67.04
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 79.71
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 80.87
+      }
+    ]
   },
   {
     "start": 102.0,

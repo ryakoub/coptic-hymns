@@ -1,72 +1,252 @@
 [
   {
-    "start": 4.81,
+    "start": 4.39,
     "coptic": "Ϣⲁϣϥ (ⲍ̅) ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ: ⲥⲉⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲉ̀ⲩⲉ̀ⲣϩⲩⲙⲛⲟⲥ: ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲡⲓⲠⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲉ̀ⲩϣⲉⲙϣⲓ ⲙ̀ⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲉ̀ⲧϩⲏⲡ.",
     "translations": {
       "english": "Seven archangels, praising as they stand, before the Pantocrator, serving the hidden mystery."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ϣⲁϣϥ (ⲍ̅) ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ:",
+        "start": 4.39
+      },
+      {
+        "coptic": "ⲥⲉⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲉ̀ⲩⲉ̀ⲣϩⲩⲙⲛⲟⲥ:",
+        "start": 7.77
+      },
+      {
+        "coptic": "ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲡⲓⲠⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ:",
+        "start": 11.65
+      },
+      {
+        "coptic": "ⲉ̀ⲩϣⲉⲙϣⲓ ⲙ̀ⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲉ̀ⲧϩⲏⲡ.",
+        "start": 15.38
+      }
+    ]
   },
   {
-    "start": 19.44,
+    "start": 19.28,
     "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡⲉ ⲡⲓϩⲟⲩⲓⲧ: Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲉ ⲡⲓⲙⲁϩ ⲥ̀ⲛⲁⲩ: Ⲣⲁⲫⲁⲏⲗ ⲡⲉ ⲡⲓⲙⲁϩ ϣⲟⲙⲧ: ⲕⲁⲧⲁ ⲡ̀ⲧⲩⲡⲟⲥ ⲛ̀ϯⲦ̀ⲣⲓⲁⲥ.",
     "translations": {
       "english": "Michael is the first, Gabriel is the second, Raphael is the third, a symbol of the Trinity."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡⲉ ⲡⲓϩⲟⲩⲓⲧ:",
+        "start": 19.28
+      },
+      {
+        "coptic": "Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲉ ⲡⲓⲙⲁϩ ⲥ̀ⲛⲁⲩ:",
+        "start": 23.05
+      },
+      {
+        "coptic": "Ⲣⲁⲫⲁⲏⲗ ⲡⲉ ⲡⲓⲙⲁϩ ϣⲟⲙⲧ:",
+        "start": 26.65
+      },
+      {
+        "coptic": "ⲕⲁⲧⲁ ⲡ̀ⲧⲩⲡⲟⲥ ⲛ̀ϯⲦ̀ⲣⲓⲁⲥ.",
+        "start": 30.17
+      }
+    ]
   },
   {
-    "start": 33.98,
+    "start": 33.86,
     "coptic": "Ⲥⲟⲩⲣⲓⲏⲗ Ⲥⲉⲇⲁⲕⲓⲏⲗ: Ⲥⲁⲣⲁⲑⲓⲏⲗ ⲛⲉⲙ Ⲁⲛⲁⲛⲓⲏⲗ: ⲛⲁⲓⲛⲓϣϯ ⲛ̀ⲣⲉϥⲉ̀ⲣⲟⲩⲱⲓⲛⲓ ⲉ̅ⲑ̅ⲩ̅: ⲛⲏⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲥⲱⲛⲧ.",
     "translations": {
       "english": "Suriel Sedakiel, Sarathiel and Ananiel, the luminous the great and the holy, asking Him for the creation."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲥⲟⲩⲣⲓⲏⲗ Ⲥⲉⲇⲁⲕⲓⲏⲗ:",
+        "start": 33.86
+      },
+      {
+        "coptic": "Ⲥⲁⲣⲁⲑⲓⲏⲗ ⲛⲉⲙ Ⲁⲛⲁⲛⲓⲏⲗ:",
+        "start": 37.28
+      },
+      {
+        "coptic": "ⲛⲁⲓⲛⲓϣϯ ⲛ̀ⲣⲉϥⲉ̀ⲣⲟⲩⲱⲓⲛⲓ ⲉ̅ⲑ̅ⲩ̅:",
+        "start": 40.98
+      },
+      {
+        "coptic": "ⲛⲏⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲥⲱⲛⲧ.",
+        "start": 44.56
+      }
+    ]
   },
   {
-    "start": 48.38,
+    "start": 48.45,
     "coptic": "ⲚⲓⲬⲉⲣⲟⲃⲓⲙ ⲛⲉⲙ ⲛⲓⲤⲉⲣⲁⲫⲓⲙ: ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛⲓⲙⲉⲧⲟ̅ⲥ̅ ⲛⲓϫⲟⲙ: ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲍⲱⲟⲛ ⲛ̀ⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓϩⲁⲣⲙⲁ ⲛ̀Ⲑⲉⲟⲥ.",
     "translations": {
       "english": "The Cherubim the Seraphim, the Thrones the Dominions and Powers, the four incorporeal creatures, carrying the throne of God."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "ⲚⲓⲬⲉⲣⲟⲃⲓⲙ ⲛⲉⲙ ⲛⲓⲤⲉⲣⲁⲫⲓⲙ:",
+        "start": 48.45
+      },
+      {
+        "coptic": "ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛⲓⲙⲉⲧⲟ̅ⲥ̅ ⲛⲓϫⲟⲙ:",
+        "start": 51.95
+      },
+      {
+        "coptic": "ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲍⲱⲟⲛ ⲛ̀ⲁ̀ⲥⲱⲙⲁⲧⲟⲥ:",
+        "start": 55.43
+      },
+      {
+        "coptic": "ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓϩⲁⲣⲙⲁ ⲛ̀Ⲑⲉⲟⲥ.",
+        "start": 59.1
+      }
+    ]
   },
   {
     "start": 63.23,
     "coptic": "Ⲡⲓϫⲟⲩⲧ ϥ̀ⲧⲟⲟⲩ ⲙ̀ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ: ϧⲉⲛ ϯⲉ̀ⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲓϣⲟⲣⲡ ⲙ̀ⲙⲓⲥⲓ: ⲉ̀ⲩϩⲱⲥ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁ̀ⲧⲙⲟⲩⲛⲕ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ.",
     "translations": {
       "english": "The twenty-four presbyters, in the Church of the firstborn, praising Him incessantly, proclaiming and saying."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲡⲓϫⲟⲩⲧ ϥ̀ⲧⲟⲟⲩ ⲙ̀ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ:",
+        "start": 63.23
+      },
+      {
+        "coptic": "ϧⲉⲛ ϯⲉ̀ⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲓϣⲟⲣⲡ ⲙ̀ⲙⲓⲥⲓ:",
+        "start": 66.75
+      },
+      {
+        "coptic": "ⲉ̀ⲩϩⲱⲥ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁ̀ⲧⲙⲟⲩⲛⲕ:",
+        "start": 70.68
+      },
+      {
+        "coptic": "ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ.",
+        "start": 74.13
+      }
+    ]
   },
   {
-    "start": 78.23,
+    "start": 78.2,
     "coptic": "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ: ⲛⲏⲉ̀ⲧϣⲱⲛⲓ ⲙⲁⲧⲁⲗϭ̀ⲱⲟⲩ: ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ: ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲕⲟⲧ Ⲡⲟ̅ⲥ̅ ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ.",
     "translations": {
       "english": "Holy O God, the sick O Lord heal them, holy O Mighty, those who slept repose them."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ:",
+        "start": 78.2
+      },
+      {
+        "coptic": "ⲛⲏⲉ̀ⲧϣⲱⲛⲓ ⲙⲁⲧⲁⲗϭ̀ⲱⲟⲩ:",
+        "start": 81.95
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ:",
+        "start": 85.5
+      },
+      {
+        "coptic": "ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲕⲟⲧ Ⲡⲟ̅ⲥ̅ ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ.",
+        "start": 88.66
+      }
+    ]
   },
   {
-    "start": 92.6,
+    "start": 92.52,
     "coptic": "Ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲧⲉⲕⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ: ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
     "translations": {
       "english": "Holy O Immortal, bless Your inheritance, and may Your mercy and Your peace, be a fortress unto Your people."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ:",
+        "start": 92.52
+      },
+      {
+        "coptic": "ⲥ̀ⲙⲟⲩ ⲉ̀ⲧⲉⲕⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ:",
+        "start": 95.77
+      },
+      {
+        "coptic": "ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ:",
+        "start": 99.75
+      },
+      {
+        "coptic": "ⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
+        "start": 103.45
+      }
+    ]
   },
   {
-    "start": 106.74,
+    "start": 106.89,
     "coptic": "Ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲟⲩⲟϩ ⲭ̀ⲟⲩⲁⲃ: ⲭ̀ⲟⲩⲁⲃ Ⲡⲟ̅ⲥ̅ ⲥⲁⲃⲁⲱⲑ: ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ ⲙⲉϩ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲉⲕⲧⲁⲓⲟ.",
     "translations": {
       "english": "Holy holy, holy O Lord of hosts, heaven and earth are full of, Your glory and Your honor."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲟⲩⲟϩ ⲭ̀ⲟⲩⲁⲃ:",
+        "start": 106.89
+      },
+      {
+        "coptic": "ⲭ̀ⲟⲩⲁⲃ Ⲡⲟ̅ⲥ̅ ⲥⲁⲃⲁⲱⲑ:",
+        "start": 110.15
+      },
+      {
+        "coptic": "ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ ⲙⲉϩ ⲉ̀ⲃⲟⲗ:",
+        "start": 113.72
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲉⲕⲧⲁⲓⲟ.",
+        "start": 117.33
+      }
+    ]
   },
   {
-    "start": 121.25,
+    "start": 121.08,
     "coptic": "Ⲁⲩϣⲁⲛϫⲟⲥ ⲙ̀ⲡⲓ ⲁ̅ⲗ̅: ϣⲁⲣⲉ ⲛⲁⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲙ̀ⲙⲱⲟⲩ: ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲙⲏⲛ ⲁ̅ⲗ̅: ⲡⲓⲱ̀ⲟⲩ ⲫⲁ ⲡⲉⲛⲚⲟⲩϯ ⲡⲉ.",
     "translations": {
       "english": "And when they say \"Alleluia\", the heavenly follow them saying, \"Holy Amen Alleluia, glory be to our God.\""
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲩϣⲁⲛϫⲟⲥ ⲙ̀ⲡⲓ ⲁ̅ⲗ̅:",
+        "start": 121.08
+      },
+      {
+        "coptic": "ϣⲁⲣⲉ ⲛⲁⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲙ̀ⲙⲱⲟⲩ:",
+        "start": 124.27
+      },
+      {
+        "coptic": "ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲙⲏⲛ ⲁ̅ⲗ̅:",
+        "start": 127.78
+      },
+      {
+        "coptic": "ⲡⲓⲱ̀ⲟⲩ ⲫⲁ ⲡⲉⲛⲚⲟⲩϯ ⲡⲉ.",
+        "start": 131.48
+      }
+    ]
   },
   {
-    "start": 135.41,
+    "start": 135.32,
     "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛⲓⲥ̀ⲧⲣⲁⲧⲓⲁ ⲛ̀ⲁ̀ⲅⲅⲉⲗⲓⲕⲟⲛ: ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ.",
     "translations": {
       "english": "Intercede on our behalf, O angelic hosts, and all the heavenly multitudes, that He may forgive us our sins."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:",
+        "start": 135.32
+      },
+      {
+        "coptic": "ⲛⲓⲥ̀ⲧⲣⲁⲧⲓⲁ ⲛ̀ⲁ̀ⲅⲅⲉⲗⲓⲕⲟⲛ:",
+        "start": 139.18
+      },
+      {
+        "coptic": "ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ:",
+        "start": 142.8
+      },
+      {
+        "coptic": "ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ.",
+        "start": 147.15
+      }
+    ]
   }
 ]

@@ -1,51 +1,281 @@
 [
   {
-    "start": 6.1,
+    "start": 4.39,
     "coptic": "Ⲁ̀ Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
     "translations": {
       "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀",
+        "start": 4.39
+      },
+      {
+        "text": "Ⲡⲭ̅ⲥ̅",
+        "start": 7.35
+      },
+      {
+        "text": "Ⲡⲉⲛⲛⲟⲩϯ:",
+        "start": 13.17
+      },
+      {
+        "text": "ⲧⲱⲛϥ",
+        "start": 19.65
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 22.09
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 24.65
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 25.32
+      },
+      {
+        "text": "ⲛ̀ⲑⲟϥ",
+        "start": 31.27
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 32.62
+      },
+      {
+        "text": "ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ:",
+        "start": 33.42
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 35.79
+      },
+      {
+        "text": "ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
+        "start": 36.65
+      }
+    ]
   },
   {
-    "start": 42.8,
+    "start": 43.06,
     "coptic": "Ⲭⲉⲣⲉ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ: ⲉ̀ⲧⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
       "english": "Hail to His Resurrection, when He rose from the dead, that He may save us, from our sins."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲭⲉⲣⲉ",
+        "start": 43.06
+      },
+      {
+        "text": "Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ:",
+        "start": 44.34
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲧⲱⲛϥ",
+        "start": 55.09
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 58.62
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 61.29
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+        "start": 61.92
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 68.02
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥⲥⲱϯ",
+        "start": 68.67
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ:",
+        "start": 71.42
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 72.9
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 74.24
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 75.71
+      }
+    ]
   },
   {
-    "start": 79.15,
+    "start": 79.04,
     "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ: ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ: Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ.",
     "translations": {
       "english": "Moreover He was placed in the tomb, according to the prophetic voices, on the third day, Christ rose from the dead."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲗⲟⲓⲡⲟⲛ",
+        "start": 79.04
+      },
+      {
+        "text": "ⲁⲩⲭⲁϥ",
+        "start": 80.94
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 81.84
+      },
+      {
+        "text": "ⲡⲓⲙ̀ϩⲁⲩ:",
+        "start": 82.46
+      },
+      {
+        "text": "ⲕⲁⲧⲁ",
+        "start": 92.62
+      },
+      {
+        "text": "ⲛⲓⲥ̀ⲙⲏ",
+        "start": 94.87
+      },
+      {
+        "text": "ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ:",
+        "start": 97.31
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 105.31
+      },
+      {
+        "text": "ⲡⲓⲙⲁϩϣⲟⲙⲧ",
+        "start": 106.09
+      },
+      {
+        "text": "ⲛ̀ⲉ̀ϩⲟⲟⲩ:",
+        "start": 108.19
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 110.77
+      },
+      {
+        "text": "ⲁ̀ⲛⲉⲥⲧⲏ",
+        "start": 112.31
+      },
+      {
+        "text": "ⲉⲕ",
+        "start": 114.37
+      },
+      {
+        "text": "ⲛⲉⲕⲣⲱⲛ.",
+        "start": 116.26
+      }
+    ]
   },
   {
-    "start": 117.67,
+    "start": 118.16,
     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲗⲟⲅⲟⲥ.",
     "translations": {
       "english": "Hail to you O Mary, the beautiful dove, who gave birth to, God the Word."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:",
+        "start": 118.16
+      },
+      {
+        "coptic": "ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ:",
+        "start": 123.66
+      },
+      {
+        "coptic": "ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ:",
+        "start": 130.12
+      },
+      {
+        "coptic": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲗⲟⲅⲟⲥ.",
+        "start": 132.14
+      }
+    ]
   },
   {
-    "start": 135.71,
+    "start": 135.87,
     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ.",
     "translations": {
       "english": "Hail to you O Mary, a holy hail, hail to you O Mary, the Mother of the Holy One."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:",
+        "start": 135.87
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ:",
+        "start": 142.97
+      },
+      {
+        "coptic": "ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:",
+        "start": 149.61
+      },
+      {
+        "coptic": "Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ.",
+        "start": 151.66
+      }
+    ]
   },
   {
-    "start": 155.7,
+    "start": 155.93,
     "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲡⲓⲭ̀ⲣⲓⲙⲁⲛ ⲛ̀ⲟⲩⲅⲁⲓ: ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ.",
     "translations": {
       "english": "Hail to Michael, the great archangel, the announcer of salvation, of the Resurrection."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ:",
+        "start": 155.93
+      },
+      {
+        "coptic": "ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ:",
+        "start": 163.21
+      },
+      {
+        "coptic": "ⲡⲓⲭ̀ⲣⲓⲙⲁⲛ ⲛ̀ⲟⲩⲅⲁⲓ:",
+        "start": 169.77
+      },
+      {
+        "coptic": "ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ.",
+        "start": 172.44
+      }
+    ]
   },
   {
-    "start": 175.64,
+    "start": 175.86,
     "coptic": "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲛ̀ⲥⲁϥ ⲛⲉⲙ ⲫⲟⲟⲩ: ⲛ̀ⲑⲟϥ ⲛ̀ⲑⲟϥ ⲡⲉ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ: ϧⲉⲛ ⲟⲩϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛ̀ⲟⲩⲱⲧ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ.",
     "translations": {
       "english": "Jesus Christ the same yesterday, today and forever, in one hypostasis, we worship and glorify Him."
-    }
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲛ̀ⲥⲁϥ ⲛⲉⲙ ⲫⲟⲟⲩ:",
+        "start": 175.86
+      },
+      {
+        "coptic": "ⲛ̀ⲑⲟϥ ⲛ̀ⲑⲟϥ ⲡⲉ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ:",
+        "start": 183.87
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲟⲩϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛ̀ⲟⲩⲱⲧ:",
+        "start": 190.51
+      },
+      {
+        "coptic": "ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ.",
+        "start": 193.32
+      }
+    ]
   }
 ]
