@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "id": "demo-score-sync",
+      "label": "Demo score sync example",
+      "pdfName": "demo-score.pdf",
+      "audioName": "demo-click-track.mp3",
+      "map": "demo-score-sync.json"
+    },
+    {
+      "id": "alleluia-offertory",
+      "label": "Alleluia Offertory",
+      "pdfName": "AlliElKorban.pdf",
+      "audioName": "04 Alli al korban.mp3",
+      "map": "alleluia-offertory.json",
+      "pdfUrl": "content/score-sync-library/alleluia-offertory/AlliElKorban.pdf",
+      "audioUrl": "content/score-sync-library/alleluia-offertory/04 Alli al korban.mp3"
+    }
+  ]
+}

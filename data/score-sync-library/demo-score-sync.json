@@ -1,0 +1,17 @@
+{
+  "app": "score-sync",
+  "version": 1,
+  "hymnId": "demo-score-sync",
+  "label": "Demo score sync example",
+  "pdfName": "demo-score.pdf",
+  "audioName": "demo-click-track.mp3",
+  "cursorHeight": 0.13,
+  "points": [
+    { "t": 0, "p": 0, "x": 0.18, "y": 0.213 },
+    { "t": 2.5, "p": 0, "x": 0.315, "y": 0.213 },
+    { "t": 5, "p": 0, "x": 0.445, "y": 0.213 },
+    { "t": 7.5, "p": 0, "x": 0.575, "y": 0.213 },
+    { "t": 10, "p": 0, "x": 0.705, "y": 0.213 },
+    { "t": 12.5, "p": 0, "x": 0.825, "y": 0.213 }
+  ]
+}
