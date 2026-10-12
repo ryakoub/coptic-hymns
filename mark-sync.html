@@ -122,6 +122,9 @@ button{touch-action:manipulation}
 .pick .meta{font-size:12px;color:var(--muted)}
 .filebtn{position:relative}
 .filebtn input{position:absolute;inset:0;opacity:0;width:100%;cursor:pointer}
+.startrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 12px;border:1px dashed var(--line);border-radius:10px}
+.startrow span{flex:1 1 220px;font-size:13px;color:var(--muted)}
+.startrow b{color:var(--ink)}
 .askacts{display:flex;flex-direction:row-reverse;gap:8px}
 .folderpick{display:flex;flex-direction:column;gap:10px}
 .addfolder{display:flex;gap:8px}
@@ -182,6 +185,7 @@ button{touch-action:manipulation}
 .scrub .rail{position:absolute;left:9px;right:9px;top:50%;height:6px;margin-top:-3px;border-radius:3px;background:var(--line)}
 #ticks{position:absolute;inset:0;pointer-events:none}
 #ticks i{position:absolute;top:50%;height:14px;margin-top:-7px;width:1.5px;background:var(--mark);opacity:.55}
+#ticks i.st{background:var(--accent);opacity:1;width:3px;height:22px;margin-top:-11px;border-radius:2px}
 .scrub input{position:absolute;inset:0;width:100%;height:100%;margin:0;-webkit-appearance:none;appearance:none;background:transparent;cursor:pointer}
 .scrub input::-webkit-slider-runnable-track{height:34px;background:transparent}
 .scrub input::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;border-radius:50%;background:var(--accent);margin-top:7px;border:2px solid var(--surface);box-shadow:0 1px 4px var(--shadow)}
@@ -296,6 +300,10 @@ dialog::backdrop{background:rgba(10,14,22,.45)}
     <label class="chk"><input type="checkbox" id="glideIn"><span><b>Glide along a line</b><br><span class="hint small">Slide the cursor between marks on the same line instead of jumping.</span></span></label>
     <label class="chk"><input type="checkbox" id="pencilIn"><span><b>Apple Pencil only when tapping</b><br><span class="hint small">Ignore finger and palm touches on the page in Tap mode.</span></span></label>
     <label class="chk"><input type="checkbox" id="dotsIn"><span><b>Show tap dots in Play mode</b></span></label>
+    <h3>Playback</h3>
+    <label class="chk"><input type="checkbox" id="skipIn"><span><b>Skip intros</b><br><span class="hint small">In Play and Edit mode, start each recording just before its first mark instead of at 0:00. Drag back to 0:00 to hear the intro.</span></span></label>
+    <div class="row"><label for="leadIn">Lead-in before the first mark</label><output id="leadOut"></output>
+      <input type="range" id="leadIn" min="0" max="3" step="0.25"></div>
     <h3>Slides</h3>
     <p class="hint small" id="pdfNow" dir="auto"></p>
     <div class="dlgacts"><label class="btn sm filebtn">Replace PDF<input type="file" id="pdfRep" accept="application/pdf,.pdf"></label></div>
@@ -316,6 +324,7 @@ dialog::backdrop{background:rgba(10,14,22,.45)}
     <p class="hint small">They play in this order. Drag the handle to reorder. Each recording keeps its own taps.</p>
     <ol id="trkList" class="trklist"></ol>
     <div class="dlgacts"><label class="btn sm filebtn">Add recordings<input type="file" id="trkAdd" multiple accept="audio/*,video/mp4,.m4a,.mp3,.wav,.aac,.mp4,.ogg,.flac"></label></div>
+    <div class="startrow"><span id="startInfo"></span><button type="button" class="btn sm" id="startUse">Start at playhead</button><button type="button" class="btn sm" id="startAuto">Automatic</button></div>
     <label class="chk"><input type="checkbox" id="autoNextIn"><span><b>Continue to the next recording</b><br><span class="hint small">When one recording ends, the next one starts.</span></span></label>
     <div class="dlgacts" style="justify-content:flex-end"><button class="btn primary" value="close">Done</button></div>
   </form>
@@ -352,7 +361,7 @@ let toastTimer;
 function toast(msg,ms=2800){ const el=$('#toast'); el.textContent=msg; el.classList.add('on'); clearTimeout(toastTimer); toastTimer=setTimeout(()=>el.classList.remove('on'),ms); }
 
 /* ---------- settings (per device) ---------- */
-const DEFAULTS={latency:120,size:0.16,style:'bar',glide:true,pencilOnly:false,showDots:false,autoNext:true};
+const DEFAULTS={latency:120,size:0.16,style:'bar',glide:true,pencilOnly:false,showDots:false,autoNext:true,skipIntro:true,lead:1};
 const settings={...DEFAULTS};
 try{ Object.assign(settings,JSON.parse(localStorage.getItem('markSync.settings')||'{}')); }catch(e){}
 function saveSettings(){ try{ localStorage.setItem('markSync.settings',JSON.stringify(settings)); }catch(e){} applySettings(); }
@@ -363,7 +372,8 @@ function applySettings(){
   $('#sizeIn').value=settings.size; $('#sizeOut').textContent=Math.round(settings.size*100)+'% of page';
   document.querySelectorAll('[data-style]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.style===settings.style));
   $('#glideIn').checked=settings.glide; $('#pencilIn').checked=settings.pencilOnly; $('#dotsIn').checked=settings.showDots; $('#autoNextIn').checked=settings.autoNext;
-  renderMarks();
+  $('#skipIn').checked=settings.skipIntro; $('#leadIn').value=settings.lead; $('#leadOut').textContent=settings.lead+' s';
+  renderMarks(); renderTicks(); renderStartInfo();
 }
 
 /* ---------- storage: IndexedDB, this device only ---------- */
@@ -557,12 +567,12 @@ async function loadTrack(i,play=false){
   const t=S.proj&&S.proj.tracks[i]; if(!t) return;
   const f=await db.get('files',t.fileKey); if(!f){ toast(`The audio for “${t.name}” is missing on this device.`); return; }
   audio.pause(); if(audio.src) URL.revokeObjectURL(audio.src);
-  S.track=t; S.undo=[]; S.sel=null; S.lastTap=null; S.stopAt=null;
+  S.track=t; S.undo=[]; S.sel=null; S.lastTap=null; S.stopAt=null; S.fresh=true;
   audio.src=URL.createObjectURL(new Blob([f.buf],{type:f.type||'audio/mp4'}));
   audio.defaultPlaybackRate=audio.playbackRate=+$('#rate').value;
   updateTrackLabel(); renderMarks(); renderTicks(); updateSelCard(); refreshTransport();
   await showPage(t.points.length?t.points[0].page:(S.page||1));
-  if(play){ await new Promise(r=>audio.readyState>=1?r():audio.addEventListener('loadedmetadata',r,{once:true})); audio.play().catch(()=>{}); }
+  if(play){ await new Promise(r=>audio.readyState>=1?r():audio.addEventListener('loadedmetadata',r,{once:true})); startPlayback().catch(()=>{}); }
 }
 const trackIndex=()=>S.proj?S.proj.tracks.indexOf(S.track):-1;
 async function switchTrack(i){ if(!S.proj||i<0||i>=S.proj.tracks.length) return; const play=!audio.paused; await saveNow(); await loadTrack(i,play); }
@@ -573,7 +583,7 @@ function updateTrackLabel(){
 }
 $('#trkPrev').onclick=()=>switchTrack(trackIndex()-1);
 $('#trkNext').onclick=()=>switchTrack(trackIndex()+1);
-$('#trkBtn').onclick=()=>{ renderTrackList(); applySettings(); $('#tracksDlg').showModal(); };
+$('#trkBtn').onclick=()=>{ renderTrackList(); applySettings(); renderStartInfo(); $('#tracksDlg').showModal(); };
 const HANDLE='<svg viewBox="0 0 24 24"><path d="M5 8h14M5 12h14M5 16h14"/></svg>';
 const PEN='<svg viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg>';
 const BIN='<svg viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13"/></svg>';
@@ -583,7 +593,7 @@ function renderTrackList(){
     const li=document.createElement('li'); li.dataset.id=t.id; if(t===S.track) li.className='cur';
     li.innerHTML=`<span class="handle" title="Drag to reorder">${HANDLE}</span><button type="button" class="pick"><span class="n"></span><span class="nm" dir="auto"></span><span class="meta"></span></button><button type="button" class="ic ren" aria-label="Rename">${PEN}</button><button type="button" class="ic del" aria-label="Delete">${BIN}</button>`;
     li.querySelector('.n').textContent=i+1; li.querySelector('.nm').textContent=t.name;
-    li.querySelector('.meta').textContent=plural(t.points.length,'tap')+(t===S.track?' · open now':'');
+    li.querySelector('.meta').textContent=plural(t.points.length,'tap')+(settings.skipIntro&&trackStart(t)>0?' · starts '+fmt(trackStart(t)):'')+(t===S.track?' · open now':'');
     li.querySelector('.pick').onclick=async()=>{ $('#tracksDlg').close(); if(t!==S.track) await switchTrack(S.proj.tracks.indexOf(t)); };
     li.querySelector('.ren').onclick=async()=>{ const v=await askText({title:'Rename recording',value:t.name,ok:'Rename'}); if(!v) return;
       t.name=v; scheduleSave(); renderTrackList(); updateTrackLabel(); };
@@ -609,6 +619,26 @@ trkList.addEventListener('pointerup',endTrackDrag); trkList.addEventListener('po
 $('#trkAdd').onchange=async e=>{ const files=[...e.target.files]; e.target.value=''; if(!files.length||!S.proj) return;
   await addTracks(S.proj,files); await saveNow(); renderTrackList(); updateTrackLabel(); toast(`Added ${plural(files.length,'recording')}.`); };
 $('#autoNextIn').onchange=e=>{ settings.autoNext=e.target.checked; saveSettings(); };
+$('#skipIn').onchange=e=>{ settings.skipIntro=e.target.checked; saveSettings(); };
+$('#leadIn').oninput=e=>{ settings.lead=+e.target.value; saveSettings(); };
+
+/* Intro skipping. A recording starts at its own start time (set by hand) or a lead-in before its first mark.
+   It applies only when a recording starts fresh (just opened, or played to the end); any seek turns it off,
+   so dragging back to 0:00 plays the intro. */
+function trackStart(t){ if(!t) return 0; if(Number.isFinite(t.startAt)) return t.startAt; const f=t.points[0]; return f?Math.max(0,f.t-settings.lead):0; }
+function startPlayback(){
+  if(S.fresh&&settings.skipIntro&&S.mode!=='tap'){ const st=trackStart(S.track); if(st>0.05&&audio.currentTime<st){ audio.currentTime=st; clock.a=-1; } }
+  S.fresh=false; S.stopAt=null; return audio.play();
+}
+function renderStartInfo(){
+  const el=$('#startInfo'); if(!el||!S.track) return; const t=S.track, st=trackStart(t), manual=Number.isFinite(t.startAt);
+  el.innerHTML=''; const b=document.createElement('b'); b.textContent=`“${t.name}” starts at ${fmt(st)}`; el.append(b);
+  el.append(!settings.skipIntro?' (Skip intros is off in Settings)':manual?' (set by you)':t.points.length?` (automatic, ${settings.lead} s before the first mark)`:' (no taps yet)');
+  $('#startAuto').disabled=!manual;
+}
+const startChanged=()=>{ scheduleSave(); renderTicks(); renderStartInfo(); renderTrackList(); };
+$('#startUse').onclick=()=>{ if(!S.track) return; S.track.startAt=r3(clock.now()); startChanged(); };
+$('#startAuto').onclick=()=>{ if(!S.track) return; delete S.track.startAt; startChanged(); };
 
 let saveTimer;
 function scheduleSave(){ clearTimeout(saveTimer); saveTimer=setTimeout(saveNow,400); }
@@ -693,6 +723,8 @@ function renderTicks(){
   const box=$('#ticks'); box.replaceChildren(); const d=audio.duration; if(!S.proj||!isFinite(d)||!d) return;
   const frag=document.createDocumentFragment();
   for(const p of pts()){ const i=document.createElement('i'); i.style.left=`calc(10px + (100% - 20px) * ${p.t/d})`; frag.append(i); }
+  const st=trackStart(S.track);
+  if(settings.skipIntro&&st>0){ const i=document.createElement('i'); i.className='st'; i.title='Starts here'; i.style.left=`calc(10px + (100% - 20px) * ${st/d})`; frag.append(i); }
   box.append(frag); $('#count').textContent=pts().length+' taps';
 }
 
@@ -777,7 +809,7 @@ $('#mTap').onclick=()=>setMode('tap'); $('#mEdit').onclick=()=>setMode('edit'); 
 $('#undo').onclick=undo;
 
 /* ---------- transport ---------- */
-function seekTo(t){ audio.currentTime=clamp(t,0,audio.duration||t); clock.a=-1; S.manualUntil=0;
+function seekTo(t){ audio.currentTime=clamp(t,0,audio.duration||t); clock.a=-1; S.manualUntil=0; S.fresh=false;
   const c=S.mode==='tap'?null:cursorAt(t); if(c&&c.page!==S.page) showPage(c.page); }
 function refreshTransport(){ const d=audio.duration; $('#seek').max=isFinite(d)&&d?d:1; $('#tDur').textContent=fmt(d); renderTicks(); }
 audio.addEventListener('loadedmetadata',refreshTransport);
@@ -787,13 +819,13 @@ function syncPlay(){ const on=!audio.paused; $('#play').setAttribute('aria-label
   $('#playIco').innerHTML=on?'<path d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/>':'<path d="M7 4.5v15l13-7.5z"/>';
   if(on&&navigator.wakeLock&&!wake) navigator.wakeLock.request('screen').then(w=>{ wake=w; w.addEventListener('release',()=>{ wake=null; }); }).catch(()=>{});
   if(!on&&wake){ wake.release().catch(()=>{}); wake=null; } }
-audio.addEventListener('play',syncPlay); audio.addEventListener('pause',syncPlay); audio.addEventListener('ended',()=>{ syncPlay();
+audio.addEventListener('play',syncPlay); audio.addEventListener('pause',syncPlay); audio.addEventListener('ended',()=>{ syncPlay(); S.fresh=true;
   const i=trackIndex(); if(settings.autoNext&&S.proj&&i>=0&&i<S.proj.tracks.length-1) loadTrack(i+1,true); });
 function togglePlay(){
   if(!S.proj) return;
   if(audio.paused){
     if(S.mode==='tap'){ const c=cursorAt(clock.now()); if(c&&!c.pre) showPage(c.page); }
-    S.stopAt=null; audio.play().catch(()=>toast('The recording could not be played.'));
+    startPlayback().catch(()=>toast('The recording could not be played.'));
   } else audio.pause();
 }
 $('#play').onclick=togglePlay;
@@ -869,7 +901,7 @@ $('#clearBtn').onclick=()=>{ if(!S.proj||!pts().length) return; if(!confirm(`Cle
 async function exportTaps(p){
   migrate(p);
   const data={app:'mark-sync',version:2,name:p.name,folders:p.folders,pdf:p.pdfName,pages:p.pages||null,
-    tracks:p.tracks.map(t=>({name:t.name,audio:t.fileName,points:t.points.map(q=>[q.t,q.page,q.x,q.y])}))};
+    tracks:p.tracks.map(t=>({name:t.name,audio:t.fileName,startAt:Number.isFinite(t.startAt)?t.startAt:null,points:t.points.map(q=>[q.t,q.page,q.x,q.y])}))};
   const fname=(p.name.replace(/[\\/:*?"<>|]+/g,'').trim()||'hymn')+'.taps.json';
   const file=new File([JSON.stringify(data)],fname,{type:'application/json'});
   if(navigator.canShare&&navigator.canShare({files:[file]})){
@@ -890,11 +922,11 @@ $('#impIn').onchange=async e=>{
   incoming.forEach((it,k)=>{
     const free=x=>!used.has(x);
     const t=it.current?S.track:T.find(x=>free(x)&&x.fileName&&x.fileName===it.audio)||T.find(x=>free(x)&&x.name===it.name)||(incoming.length===T.length&&free(T[k])?T[k]:null);
-    if(t){ used.add(t); plan.push([t,parsePoints(it.points)]); } });
+    if(t){ used.add(t); plan.push([t,parsePoints(it.points),Number.isFinite(it.startAt)?it.startAt:undefined]); } });
   if(!plan.length){ toast('None of the recordings in that file match this hymn.'); return; }
   const n=plan.reduce((a,[,l])=>a+l.length,0);
   if(plan.some(([t])=>t.points.length)&&!confirm(`Replace the taps of ${plural(plan.length,'recording')} with ${plural(n,'tap')} from “${data.name||f.name}”?`)) return;
-  plan.forEach(([t,l])=>{ t.points=l; }); S.undo=[]; S.sel=null; changed(); updateTrackLabel();
+  plan.forEach(([t,l,st])=>{ t.points=l; if(st===undefined) delete t.startAt; else t.startAt=st; }); S.undo=[]; S.sel=null; changed(); updateTrackLabel();
   toast(`Imported taps for ${plan.length} of ${plural(incoming.length,'recording')}.`);
 };
 
