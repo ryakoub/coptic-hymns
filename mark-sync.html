@@ -296,6 +296,9 @@ dialog::backdrop{background:rgba(10,14,22,.45)}
     <label class="chk"><input type="checkbox" id="glideIn"><span><b>Glide along a line</b><br><span class="hint small">Slide the cursor between marks on the same line instead of jumping.</span></span></label>
     <label class="chk"><input type="checkbox" id="pencilIn"><span><b>Apple Pencil only when tapping</b><br><span class="hint small">Ignore finger and palm touches on the page in Tap mode.</span></span></label>
     <label class="chk"><input type="checkbox" id="dotsIn"><span><b>Show tap dots in Play mode</b></span></label>
+    <h3>Slides</h3>
+    <p class="hint small" id="pdfNow" dir="auto"></p>
+    <div class="dlgacts"><label class="btn sm filebtn">Replace PDF<input type="file" id="pdfRep" accept="application/pdf,.pdf"></label></div>
     <h3>Taps</h3>
     <p class="hint small">The taps file covers every recording of this hymn. It holds only times and positions, not the slides or the audio.</p>
     <div class="dlgacts">
@@ -835,7 +838,25 @@ function updateTrail(c){
 }
 
 /* ---------- settings dialog, export / import ---------- */
-$('#setBtn').onclick=()=>{ applySettings(); $('#settings').showModal(); };
+$('#setBtn').onclick=()=>{ applySettings(); $('#pdfNow').textContent=`Now using ${S.proj.pdfName} (${plural(S.sizes.length,'page')}).`; $('#settings').showModal(); };
+/* Replace the slides but keep every recording and tap. Taps are stored as page number plus position within the page,
+   so they line up on a PDF with the same layout. Taps on pages the new PDF lacks are kept, just not shown. */
+$('#pdfRep').onchange=async e=>{
+  const f=e.target.files[0]; e.target.value=''; if(!f||!S.proj) return;
+  const rec=await readFile(f); let pdf;
+  try{ pdf=await pdfjsLib.getDocument({data:new Uint8Array(rec.buf.slice(0))}).promise; }catch(err){ toast('That file could not be opened as a PDF.'); return; }
+  const n=pdf.numPages, was=S.sizes.length, off=S.proj.tracks.reduce((k,t)=>k+t.points.filter(p=>p.page>n).length,0);
+  const msg=`Replace the slides with “${f.name}”?\n\nEvery recording and tap is kept. Taps stay at the same spot on each page, so check them if the marks moved.`
+    +(n!==was?`\n\nThe new PDF has ${plural(n,'page')} (the old one had ${was}).`:'')
+    +(off?` ${plural(off,'tap')} on later pages will be hidden until a PDF with those pages is used.`:'');
+  if(!confirm(msg)){ pdf.destroy(); return; }
+  await db.put('files',rec,S.proj.id+':pdf');
+  S.pdf.destroy(); S.pdf=pdf; S.sizes=[];
+  for(let k=1;k<=n;k++){ const v=(await pdf.getPage(k)).getViewport({scale:1}); S.sizes.push({w:v.width,h:v.height}); }
+  S.proj.pdfName=f.name; S.proj.pages=n; cache.clear(); renderChain=Promise.resolve();
+  const pg=Math.min(S.page||1,n); S.page=0; await showPage(pg); await saveNow();
+  $('#pdfNow').textContent=`Now using ${f.name} (${plural(n,'page')}).`; toast('Slides replaced. Your taps are kept.');
+};
 $('#latIn').oninput=e=>{ settings.latency=+e.target.value; saveSettings(); };
 $('#sizeIn').oninput=e=>{ settings.size=+e.target.value; saveSettings(); };
 document.querySelectorAll('[data-style]').forEach(b=>b.onclick=()=>{ settings.style=b.dataset.style; saveSettings(); });
