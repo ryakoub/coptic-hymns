@@ -1,0 +1,11 @@
+{
+  "name": "Mark Sync",
+  "short_name": "Mark Sync",
+  "description": "Sync a recording to hand-drawn hymn marks. Files stay on this device.",
+  "start_url": "mark-sync.html",
+  "scope": "mark-sync",
+  "display": "standalone",
+  "background_color": "#E6E9EE",
+  "theme_color": "#F7F8FA",
+  "icons": [{ "src": "mark-sync-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
