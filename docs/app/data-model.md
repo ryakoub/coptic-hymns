@@ -72,7 +72,9 @@ Hand-edited in `catalog/library.json`. Five groups, each a list of collections; 
 
 | Group | Collections | Sections |
 |---|---|---|
-| Seasons | Annual, Kiahk, Nativity, Theophany, Great Lent, Palm Sunday, Resurrection, Ascension, Pentecost | The services: Midnight Praises, Raising of Incense, Liturgy, Special hymns. Annual has no Midnight Praises; the regular praises are their own group. |
+| Seasons | Annual, Nayrouz, Kiahk, Nativity, Theophany, Great Lent, Palm Sunday, Resurrection, Ascension, Pentecost, Apostles' Fast | The services: Midnight Praises, Raising of Incense, Liturgy, Special hymns. Annual has no Midnight Praises; the regular praises are their own group. |
+| Feasts | Feast of the Cross, Circumcision, Wedding at Cana, Presentation of the Lord, Lazarus Saturday | The four services |
+| Fasts | Jonah's Fast | The four services |
 | Praises | Praises (Psalmody) | Vesper Praises, Midnight Praises, Morning Praises |
 | Special seasons | Holy Week, Bright Saturday | Their own order: Holy Week by day |
 | Common hymns | Common hymns | The four services |
@@ -99,7 +101,9 @@ To make a folder another tune of an existing text, add to its `info.json`:
 
 The builder then matches each of its lines to the text's lines by their Coptic, and reports any line that does not match.
 
-`info.json` also accepts `titles` (`coptic`, `english`, `arabic`), `tags`, `kind` (`recital` or `melismatic`) and `cantor`. The legacy `title` stays for the website.
+`info.json` also accepts `titles` (`coptic`, `english`, `arabic`), `tags`, `kind` (`recital` or `melismatic`), `style`, `mode`, `cantor` and `lyricsSource`. The legacy `title` stays for the website.
+
+A folder can place itself in the library with `"places": ["resurrection/liturgy"]` (collection id / section, as in `catalog/library.json`). Hymns listed by hand in `library.json` keep their order there; hymns placed from `info.json` follow them. The builder reports places that don't exist.
 
 Later, when the website reads the catalog, texts can move to their own files and `lyrics.json` can be generated from text plus timings, so lyrics are edited in exactly one place.
 

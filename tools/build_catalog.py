@@ -18,6 +18,10 @@ A folder becomes another tune of an existing text by naming it in info.json:
 and can describe its tune with "style" (major, medium, minor), "mode" (annual, festal, lenten, joyful)
 and "kind" (recital, melismatic).
 
+A folder places itself in the library with "places": ["resurrection/liturgy", "praises/midnight-praises"]
+(collection id / service or section id, as in catalog/library.json). Hymns listed in library.json
+keep their order there; hymns placed this way follow them.
+
 Usage:
   python3 tools/build_catalog.py            # write the catalog and print a report
   python3 tools/build_catalog.py --check    # report only, exit 1 on errors
@@ -83,6 +87,7 @@ class Build:
         self.recordings = {}   # recording id -> catalog entry (without files yet)
         self.timings = {}      # recording id -> timing document
         self.out_files = {}    # relative path under catalog/v1 -> bytes
+        self.places = {}       # recording id -> ["collection/section", …] from its info.json
 
     def warn(self, rid, msg): self.problems.append(("warn", rid, msg))
     def error(self, rid, msg): self.problems.append(("error", rid, msg))
@@ -167,11 +172,29 @@ class Build:
                 entry[key] = info[key]
         if audio:
             entry["_audio"] = audio
+        self.places[rid] = info.get("places", [])
         self.recordings[rid] = entry
 
     def file(self, rel, data):
         self.out_files[rel] = data
         return {"url": f"catalog/v1/{rel}", "bytes": len(data), "sha256": sha256_bytes(data)}
+
+    def apply_places(self, library):
+        """Add each recording to the library sections its info.json names, after any listed in library.json."""
+        sections = {}
+        for g in library["groups"]:
+            for c in g["collections"]:
+                for s in c.get("sections", []):
+                    sections[f"{c['id']}/{s.get('service') or s.get('id')}"] = s
+        for rid, places in sorted(self.places.items()):
+            for place in places:
+                s = sections.get(place)
+                if s is None:
+                    self.error(rid, f"places it in {place}, which is not in the library")
+                    continue
+                listed = [e if isinstance(e, str) else e.get("recording") for e in s["entries"]]
+                if rid not in listed:
+                    s["entries"].append(rid)
 
     def check_library(self, library):
         used = set()
@@ -217,6 +240,7 @@ def main():
         b.add_recording(folder, rid, info, lines)
 
     library = json.loads(LIBRARY.read_text(encoding="utf-8"))
+    b.apply_places(library)
     b.check_library(library)
 
     texts_out = []
