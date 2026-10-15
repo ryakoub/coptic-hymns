@@ -1,0 +1,57 @@
+{
+ "id": "ethbe-ti-anastasis",
+ "titles": {
+  "coptic": "Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲉⲑⲃⲉ ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ ⲁⲩⲉⲙⲧⲟⲛ ⲙ̀ⲙⲱⲟⲩ ϧⲉⲛ ⲫ̀ⲛⲁϩϯ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲙⲁⲙ̀ⲧⲟⲛ ⲛ̀ⲛⲟⲩⲯⲩⲭⲏ ⲧⲏⲣⲟⲩ.",
+   "translations": {
+    "english": "For the resurrection of the dead who have fallen asleep and reposed in the faith of Christ. O Lord repose their souls."
+   }
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲡⲁⲩⲗⲟⲥ ⲫ̀ⲃⲱⲕ ⲙ̀Ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲧⲑⲁϩⲉⲙ: ⲫⲏⲉ̀ⲧⲁⲩⲑⲁϣϥ ⲉ̀ⲡⲓϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛ̀ⲧⲉ Ⲫϯ.",
+   "translations": {
+    "english": "Paul, a bondservant of Jesus Christ, called to be an apostle, separated to the gospel of God."
+   }
+  },
+  {
+   "id": "l3",
+   "label": "General Funeral"
+  },
+  {
+   "id": "l4",
+   "coptic": "Ϯⲧⲁⲙⲟ ⲇⲉ ⲙ̀ⲙⲱⲧⲉⲛ ⲛⲁⲥ̀ⲛⲏⲟⲩ ⲉⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ : ⲫⲏⲉ̀ⲧⲁⲓϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲙ̀ⲙⲟϥ ⲛⲱⲧⲉⲛ: ⲉ̀ⲧⲉ ⲫⲏ ⲡⲉ ⲉ̀ⲧⲁⲣⲉⲧⲉⲛϭⲓⲧϥ:",
+   "translations": {
+    "english": "Moreover, brethren, I declare to you the gospel which I preached to you, which also you received."
+   },
+   "static": true
+  },
+  {
+   "id": "l5",
+   "label": "9th Hour of Good Friday"
+  },
+  {
+   "id": "l6",
+   "coptic": "ⲙⲁⲣⲉϥⲙⲉⲩⲓ̀ ⲉ̀ⲫⲁⲓ ⲛ̀ϧ̀ⲣⲏⲓ ϧⲉⲛ ⲑⲏⲛⲟⲩ: ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ ⲉⲧϧⲉⲛ Ⲡⲭ̅ⲥ̅ Ⲓⲏ̅ⲥ̅.",
+   "translations": {
+    "english": "Let this mind be in you which was also in Christ Jesus."
+   },
+   "static": true
+  },
+  {
+   "id": "l7",
+   "label": "Conclusion"
+  },
+  {
+   "id": "l8",
+   "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲛⲉⲙⲱⲧⲉⲛ ⲧⲏⲣⲟⲩ ϫⲉ ⲁⲙⲏⲛ ⲉ̀ⲥⲉϣⲱⲡⲓ.",
+   "translations": {
+    "english": "The grace of God the Father be with you all. Amen."
+   }
+  }
+ ]
+}

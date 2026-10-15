@@ -1,0 +1,22 @@
+{
+ "id": "fai-etafenf",
+ "titles": {
+  "coptic": "Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲫⲁⲓ ⲉ̀ⲧⲁϥⲉⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ: ⲛ̀ⲟⲩⲑⲩⲥⲓⲁ ⲉⲥϣⲏⲡ: ϩⲓϫⲉⲛ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ϧⲁ ⲡ̀ⲟⲩϫⲁⲓ ⲙ̀ⲡⲉⲛⲅⲉⲛⲟⲥ.",
+   "translations": {
+    "english": "This is He who presented Himself on the cross; an acceptable sacrifice for the salvation of our race."
+   }
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲁϥϣⲱⲗⲉⲙ ⲉ̀ⲣⲟϥ: ⲛ̀ϫⲉ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲣⲟⲩϩⲓ: ϩⲓϫⲉⲛ Ϯⲅⲟⲗⲅⲟⲑⲁ.",
+   "translations": {
+    "english": "His good Father inhaled His sweet aroma in the evening on Golgotha."
+   }
+  }
+ ]
+}

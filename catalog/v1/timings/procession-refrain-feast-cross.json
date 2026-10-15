@@ -1,0 +1,32 @@
+{
+ "recording": "procession-refrain-feast-cross",
+ "text": "procession-refrain-feast-cross",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 4.3,
+   "words": [
+    {
+     "text": "Ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ:",
+     "start": 4.73,
+     "end": 9.81
+    },
+    {
+     "text": "ⲛⲉⲙ ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲉⲑⲟⲁⲃ:",
+     "start": 9.89,
+     "end": 16.38
+    },
+    {
+     "text": "ⲁϥⲧⲁⲥⲑⲟ ⲙ̀ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲕⲉⲥⲟⲡ:",
+     "start": 16.47,
+     "end": 22.23
+    },
+    {
+     "text": "ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ",
+     "start": 22.3,
+     "end": 29.75
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "anaphora-responses-st-basil-st-gregory-liturgies",
+ "titles": {
+  "english": "Anaphora Responses of St. Basil and St. Gregory Liturgies"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲕⲉ ⲙⲉⲧⲁ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ.",
+   "translations": {
+    "english": "And with your spirit."
+   }
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲉ̀ⲭⲟⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ.",
+   "translations": {
+    "english": "We have them with the Lord."
+   }
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ.",
+   "translations": {
+    "english": "It is meet and right."
+   }
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲕⲉ ⲙⲉⲧⲁ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ.",
+   "translations": {
+    "english": "And with your spirit."
+   }
+  },
+  {
+   "id": "l5",
+   "coptic": "Ⲉ̀ⲭⲟⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ.",
+   "translations": {
+    "english": "We have them with the Lord."
+   }
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ.",
+   "translations": {
+    "english": "It is meet and right."
+   }
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "this-is-the-day",
+ "titles": {
+  "english": "This Is the Day"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲉ̀ⲧⲁ ⲡ̀ϭⲟⲓⲥ ⲑⲁⲙⲓⲟϥ: ⲙⲁⲣⲉⲛⲑⲉⲗⲏⲗ ⲛ̀ⲧⲉⲛⲟ̀ⲩⲛⲟϥ ⲙ̀ⲙⲟⲛ ⲛ̀ϧⲏⲧϥ: ⲱ̀ ⲡ̀ϭⲟⲓⲥ ⲉⲕⲉ̀ⲛⲁϩⲙⲉⲛ: ⲱ̀ ⲡ̀ϭⲟⲓⲥ ⲉⲕⲉ̀ⲥⲟⲩⲧⲉⲛ ⲛⲉⲛⲙⲱⲓⲧ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉ̀ⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀ⲡ̀ϭⲟⲓⲥ: ⲁ̅ⲗ̅.",
+   "translations": {
+    "english": "Alleluia. This is the day that the Lord has made. Let us rejoice and be glad in it. O Lord save us. O Lord straighten our ways. Blessed is He, who comes in the name of the Lord. Alleluia."
+   }
+  }
+ ]
+}

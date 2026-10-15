@@ -1,0 +1,729 @@
+{
+ "_comment": "The app's library. Hand-edited. An entry is a recording id (its text is implied) or {\"text\": id, \"recording\": id}. Season dates are draft rules: {\"easter\": days from the Resurrection} or {\"coptic\": [month, day]}; null means the default season.",
+ "services": [
+  {
+   "id": "midnight-praises",
+   "titles": {
+    "english": "Midnight Praises",
+    "arabic": "التسبحة"
+   }
+  },
+  {
+   "id": "raising-of-incense",
+   "titles": {
+    "english": "Raising of Incense",
+    "arabic": "رفع البخور"
+   }
+  },
+  {
+   "id": "liturgy",
+   "titles": {
+    "english": "Liturgy",
+    "arabic": "القداس"
+   }
+  },
+  {
+   "id": "special",
+   "titles": {
+    "english": "Special hymns",
+    "arabic": "ألحان خاصة"
+   }
+  }
+ ],
+ "groups": [
+  {
+   "id": "seasons",
+   "titles": {
+    "english": "Seasons",
+    "arabic": "المواسم"
+   },
+   "collections": [
+    {
+     "id": "annual",
+     "titles": {
+      "english": "Annual",
+      "arabic": "السنوي"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "kiahk",
+     "titles": {
+      "english": "Kiahk",
+      "arabic": "كيهك"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        1
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "nativity",
+     "titles": {
+      "english": "Nativity",
+      "arabic": "الميلاد"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        29
+       ]
+      },
+      "to": {
+       "coptic": [
+        5,
+        6
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "theophany",
+     "titles": {
+      "english": "Theophany",
+      "arabic": "الغطاس"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        5,
+        11
+       ]
+      },
+      "to": {
+       "coptic": [
+        5,
+        13
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "great-lent",
+     "titles": {
+      "english": "Great Lent",
+      "arabic": "الصوم الكبير"
+     },
+     "dates": {
+      "from": {
+       "easter": -55
+      },
+      "to": {
+       "easter": -8
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "palm-sunday",
+     "titles": {
+      "english": "Palm Sunday",
+      "arabic": "أحد الشعانين"
+     },
+     "dates": {
+      "from": {
+       "easter": -7
+      },
+      "to": {
+       "easter": -7
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "resurrection",
+     "titles": {
+      "english": "Resurrection",
+      "arabic": "القيامة"
+     },
+     "dates": {
+      "from": {
+       "easter": 0
+      },
+      "to": {
+       "easter": 38
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "ascension",
+     "titles": {
+      "english": "Ascension",
+      "arabic": "الصعود"
+     },
+     "dates": {
+      "from": {
+       "easter": 39
+      },
+      "to": {
+       "easter": 48
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "pentecost",
+     "titles": {
+      "english": "Pentecost",
+      "arabic": "العنصرة"
+     },
+     "dates": {
+      "from": {
+       "easter": 49
+      },
+      "to": {
+       "easter": 49
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "praises",
+   "titles": {
+    "english": "Praises",
+    "arabic": "التسبحة"
+   },
+   "collections": [
+    {
+     "id": "praises",
+     "titles": {
+      "english": "Praises (Psalmody)",
+      "arabic": "التسبحة"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "vesper-praises",
+       "titles": {
+        "english": "Vesper Praises",
+        "arabic": "تسبحة عشية"
+       },
+       "entries": []
+      },
+      {
+       "id": "midnight-praises",
+       "titles": {
+        "english": "Midnight Praises",
+        "arabic": "تسبحة نصف الليل"
+       },
+       "entries": []
+      },
+      {
+       "id": "morning-praises",
+       "titles": {
+        "english": "Morning Praises",
+        "arabic": "تسبحة باكر"
+       },
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "special-seasons",
+   "titles": {
+    "english": "Special seasons",
+    "arabic": "مواسم خاصة"
+   },
+   "collections": [
+    {
+     "id": "holy-week",
+     "titles": {
+      "english": "Holy Week",
+      "arabic": "أسبوع الآلام"
+     },
+     "dates": {
+      "from": {
+       "easter": -7
+      },
+      "to": {
+       "easter": -2
+      }
+     },
+     "sections": [
+      {
+       "id": "palm-sunday-evening",
+       "titles": {
+        "english": "Palm Sunday evening"
+       },
+       "entries": []
+      },
+      {
+       "id": "monday",
+       "titles": {
+        "english": "Monday"
+       },
+       "entries": []
+      },
+      {
+       "id": "tuesday",
+       "titles": {
+        "english": "Tuesday"
+       },
+       "entries": []
+      },
+      {
+       "id": "wednesday",
+       "titles": {
+        "english": "Wednesday"
+       },
+       "entries": []
+      },
+      {
+       "id": "thursday",
+       "titles": {
+        "english": "Covenant Thursday"
+       },
+       "entries": []
+      },
+      {
+       "id": "friday",
+       "titles": {
+        "english": "Good Friday"
+       },
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "bright-saturday",
+     "titles": {
+      "english": "Bright Saturday",
+      "arabic": "سبت الفرح"
+     },
+     "dates": {
+      "from": {
+       "easter": -1
+      },
+      "to": {
+       "easter": -1
+      }
+     },
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "common",
+   "titles": {
+    "english": "Common hymns",
+    "arabic": "ألحان عامة"
+   },
+   "collections": [
+    {
+     "id": "common-hymns",
+     "titles": {
+      "english": "Common hymns",
+      "arabic": "ألحان عامة"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "occasions",
+   "titles": {
+    "english": "Occasions",
+    "arabic": "مناسبات"
+   },
+   "collections": [
+    {
+     "id": "veneration",
+     "titles": {
+      "english": "Veneration",
+      "arabic": "تمجيد"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "programs",
+   "titles": {
+    "english": "Programs",
+    "arabic": "برامج"
+   },
+   "collections": [
+    {
+     "id": "mahragan-keraza-2026",
+     "titles": {
+      "english": "Mahragan Al-Keraza 2026",
+      "arabic": "مهرجان الكرازة 2026"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "kg-level-1",
+       "titles": {
+        "english": "KG · Level 1"
+       },
+       "entries": [
+        "concluding-canon-feast-cross",
+        "sotees-ameen-fast",
+        "psalm-response-resurrection"
+       ]
+      },
+      {
+       "id": "kg-level-2",
+       "titles": {
+        "english": "KG · Level 2"
+       },
+       "entries": [
+        "ere-po-esmo-may-their-holy-blessing",
+        "liturgy-gospel-response-annual",
+        "hiten-archangel-michael-feast-resurrection"
+       ]
+      },
+      {
+       "id": "grades-1-2-level-1",
+       "titles": {
+        "english": "Grades 1–2 · Level 1"
+       },
+       "entries": [
+        "procession-refrain-feast-cross",
+        "this-is-the-day",
+        "blessed-pentecost"
+       ]
+      },
+      {
+       "id": "grades-1-2-level-2",
+       "titles": {
+        "english": "Grades 1–2 · Level 2"
+       },
+       "entries": [
+        "the-thought-of-man",
+        "st-mark-doxology-first-one",
+        "liturgy-gospel-response-resurrection"
+       ]
+      },
+      {
+       "id": "grades-3-4-level-1",
+       "titles": {
+        "english": "Grades 3–4 · Level 1"
+       },
+       "entries": [
+        "gospel-response-feast-cross",
+        "censer-annual",
+        "pi-pnevma",
+        "ton-syna",
+        "doxology-st-mary-vespers"
+       ]
+      },
+      {
+       "id": "grades-3-4-level-2",
+       "titles": {
+        "english": "Grades 3–4 · Level 2"
+       },
+       "entries": [
+        "second-doxology-apostles",
+        "psalm-150-4th-hoos",
+        "paralex-of-resurrection",
+        "distribution-refrain-resurrection"
+       ]
+      },
+      {
+       "id": "grades-5-6-level-1",
+       "titles": {
+        "english": "Grades 5–6 · Level 1"
+       },
+       "entries": [
+        "verse-cymbals-feast-cross",
+        "doxology-st-mary-matins",
+        "praxis-response-annual",
+        "doxology-resurrection",
+        "conclusion-midnight-praises"
+       ]
+      },
+      {
+       "id": "grades-5-6-level-2",
+       "titles": {
+        "english": "Grades 5–6 · Level 2"
+       },
+       "entries": [
+        "doxology-heavenly-orders",
+        "anaphora-responses-st-basil-st-gregory-liturgies",
+        "verse-cymbals-resurrection",
+        "praxis-response-resurrection"
+       ]
+      },
+      {
+       "id": "ms-level-1",
+       "titles": {
+        "english": "Middle School · Level 1"
+       },
+       "entries": [
+        "refrain-third-hour-pentecost",
+        "praxis-response-feast-cross",
+        "hymn-of-the-blessing",
+        "lobsh-first-hoos",
+        "christ-is-risen"
+       ]
+      },
+      {
+       "id": "ms-level-2",
+       "titles": {
+        "english": "Middle School · Level 2"
+       },
+       "entries": [
+        "paralex-shere-maria",
+        "aripalin",
+        "aspasmos-adam-resurrection"
+       ]
+      },
+      {
+       "id": "hs-level-1",
+       "titles": {
+        "english": "High School · Level 1"
+       },
+       "entries": [
+        "pi-oik",
+        "first-hoos",
+        "second-doxology-resurrection",
+        "pi-christos-aftonf",
+        "tou-lithou"
+       ]
+      },
+      {
+       "id": "hs-level-2",
+       "titles": {
+        "english": "High School · Level 2"
+       },
+       "entries": [
+        "tenoue-n-khok",
+        "kata-ni-khoros",
+        "joyful-agios-major"
+       ]
+      },
+      {
+       "id": "college-level-1",
+       "titles": {
+        "english": "College & Up · Level 1"
+       },
+       "entries": [
+        "arihouo-gasf-third-hoos",
+        "hossana-intro-doxologies-first-doxology",
+        "christos-analympsis",
+        "ethbe-ti-anastasis"
+       ]
+      },
+      {
+       "id": "college-level-2",
+       "titles": {
+        "english": "College & Up · Level 2"
+       },
+       "entries": [
+        "onim-nai-symfonia",
+        "ten-thinou",
+        "fai-etafenf",
+        "ou-katikisis"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

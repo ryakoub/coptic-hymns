@@ -1,0 +1,113 @@
+{
+ "id": "gospel-response-feast-cross",
+ "titles": {
+  "english": "Gospel Response of the Feast of the Cross"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ϥ̀ⲧⲁⲓⲏ̀ⲟⲩⲧ ⲅⲁⲣ ⲉ̀ⲙⲁϣⲱ: ⲛ̀ϫⲉ ⲡⲓⲙⲏⲓⲛⲓ ⲛ̀ⲧⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲛ̀ⲧⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ: Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ.",
+   "translations": {
+    "english": "For greatly honored, is the sign of the Cross, of Jesus Christ the King, our true God."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϥ̀ⲧⲁⲓⲏ̀ⲟⲩⲧ ⲅⲁⲣ ⲉ̀ⲙⲁϣⲱ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲡⲓⲙⲏⲓⲛⲓ ⲛ̀ⲧⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ:"
+    },
+    {
+     "coptic": "Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲛⲉⲙ ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲉⲑⲟⲩⲁⲃ: ⲁϥⲧⲁⲥⲑⲟ ⲙ̀ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲕⲉⲥⲟⲡ: ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ.",
+   "translations": {
+    "english": "Through His Cross: and His holy Resurrection: He restored man once again: to the Paradise."
+   },
+   "stanzas": [
+    {
+     "coptic": "ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ⲁϥⲧⲁⲥⲑⲟ ⲙ̀ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲕⲉⲥⲟⲡ:"
+    },
+    {
+     "coptic": "ⲉ̀Ϧⲟⲩⲛ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲙⲁⲣⲓⲁ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Intercede on our behalf, O the Lady of us all the Theotokos, Mary the Mother of our Savior, that He may forgive us our sins."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲙⲁⲣⲓⲁ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲡⲁⲟ̅ⲥ̅ ⲡ̀ⲟⲩⲣⲟ Ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ: ⲛⲉⲙ Ⲏ̀ⲗⲁⲛⲏ ϯⲟⲩⲣⲱ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Pray to the Lord on our behalf, my lord King Constantine, and Queen Helen, that He may forgive us our sins."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲡⲁⲟ̅ⲥ̅ ⲡ̀ⲟⲩⲣⲟ Ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲏ̀ⲗⲁⲛⲏ ϯⲟⲩⲣⲱ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ.",
+   "translations": {
+    "english": "Blessed be the Father and the Son, and the Holy Spirit, the perfect Trinity, we worship Him and glorify Him."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ."
+    }
+   ]
+  }
+ ]
+}

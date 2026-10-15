@@ -1,0 +1,134 @@
+{
+ "id": "second-doxology-apostles",
+ "titles": {
+  "english": "The Second Doxology of the Apostles"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁϥⲥⲱⲧⲡ ⲛ̀ⲛⲉϥⲁ̀ⲡⲟⲥⲧⲗⲟⲥ: ⲉ̀ⲧⲉ Ⲡⲉⲧⲣⲟⲥ ⲛⲉⲙ Ⲁⲛⲇⲣⲉⲁⲥ: Ⲓⲱⲁⲛⲛⲏⲥ ⲛⲉⲙ Ⲓⲁⲕⲱⲃⲟⲥ.",
+   "translations": {
+    "english": "Our Lord Jesus Christ: He is the Savior of the Apostles: Peter and Andrew: John and James."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁϥⲥⲱⲧⲡ ⲛ̀ⲛⲉϥⲁ̀ⲡⲟⲥⲧⲗⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲧⲉ Ⲡⲉⲧⲣⲟⲥ ⲛⲉⲙ Ⲁⲛⲇⲣⲉⲁⲥ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲛⲉⲙ Ⲓⲁⲕⲱⲃⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲗⲟⲓⲡⲟⲛ Ⲫⲓⲗⲗⲓⲡⲡⲟⲥ ⲛⲉⲙ Ⲙⲁⲑⲉⲟⲥ: Ⲃⲁⲣⲑⲟⲗⲟⲙⲉⲟⲥ ⲛⲉⲙ Ⲑⲱⲙⲁⲥ: Ⲓⲁⲕⲱⲃⲟⲥ ⲛ̀ⲧⲉ Ⲁⲗⲫⲉⲟⲥ: ⲛⲉⲙ Ⲥⲓⲙⲱⲛ ⲡⲓⲕⲁⲛⲁⲛⲉⲟⲥ.",
+   "translations": {
+    "english": "Philip and Matthew: Bartholomew and Thomas: James son of Alphaeus: and Simon the Zealot."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲗⲟⲓⲡⲟⲛ Ⲫⲓⲗⲗⲓⲡⲡⲟⲥ ⲛⲉⲙ Ⲙⲁⲑⲉⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲃⲁⲣⲑⲟⲗⲟⲙⲉⲟⲥ ⲛⲉⲙ Ⲑⲱⲙⲁⲥ:"
+    },
+    {
+     "coptic": "Ⲓⲁⲕⲱⲃⲟⲥ ⲛ̀ⲧⲉ Ⲁⲗⲫⲉⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲥⲓⲙⲱⲛ ⲡⲓⲕⲁⲛⲁⲛⲉⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲑⲁⲇⲇⲉⲟⲥ ⲛⲉⲙ Ⲙⲁⲧⲑⲓⲁⲥ: Ⲡⲁⲩⲗⲟⲥ ⲛⲉⲙ Ⲙⲁⲣⲕⲟⲥ ⲛⲉⲙ Ⲗⲟⲩⲕⲁⲥ: ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲏⲙⲁⲑⲏⲧⲏⲥ: ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ ⲡⲉⲛⲤⲱⲧⲏⲣ.",
+   "translations": {
+    "english": "Thaddeus and Matthias: Paul and Mark: Luke: and the disciples: they are the saviors."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲑⲁⲇⲇⲉⲟⲥ ⲛⲉⲙ Ⲙⲁⲧⲑⲓⲁⲥ:"
+    },
+    {
+     "coptic": "Ⲡⲁⲩⲗⲟⲥ ⲛⲉⲙ Ⲙⲁⲣⲕⲟⲥ ⲛⲉⲙ Ⲗⲟⲩⲕⲁⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲏⲙⲁⲑⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ ⲡⲉⲛⲤⲱⲧⲏⲣ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲙⲁⲧⲑⲓⲁⲥ ⲫⲏⲉ̀ⲧⲁϥϣⲱⲡⲓ: ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀Ⲓⲟⲩⲇⲁⲥ: ⲛⲉⲙ ⲡ̀ϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ: ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ Ⲇⲉⲥⲡⲟⲧⲁ.",
+   "translations": {
+    "english": "Matthias was chosen, instead of Judas, and was counted with the rest, who followed the Master."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙⲁⲧⲑⲓⲁⲥ ⲫⲏⲉ̀ⲧⲁϥϣⲱⲡⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀Ⲓⲟⲩⲇⲁⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡ̀ϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ:"
+    },
+    {
+     "coptic": "ⲛⲏⲉ̀ⲧⲁⲩⲙⲟϣⲓ ⲛ̀ⲥⲁ Ⲇⲉⲥⲡⲟⲧⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ ⲉ̀ⲃⲟⲗ: ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ: ⲟⲩⲟϩ ⲛⲟⲩⲥⲁϫⲓ ⲁⲩⲫⲟϩ: ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ.",
+   "translations": {
+    "english": "Their voices went forth, onto the face of the whole earth, and their words have reached, the ends of the world."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲛⲟⲩⲥⲁϫⲓ ⲁⲩⲫⲟϩ:"
+    },
+    {
+     "coptic": "ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲛⲉⲙ ⲡⲓϣ̀ⲃⲉⲥ̀ⲛⲁⲩ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Pray to the Lord on our behalf, my masters and fathers the Apostles, and the seventy two disciples, that He may forgive us our sins."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡⲓϣ̀ⲃⲉⲥ̀ⲛⲁⲩ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

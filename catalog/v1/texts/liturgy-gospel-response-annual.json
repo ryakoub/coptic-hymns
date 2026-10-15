@@ -1,0 +1,29 @@
+{
+ "id": "liturgy-gospel-response-annual",
+ "titles": {
+  "english": "Liturgy Gospel Response, Annual"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ ϧⲉⲛ ⲟⲩⲙⲉⲑⲏⲓ: ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ: ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲡⲉϥⲣⲁⲛ: ⲛⲓⲙⲉⲛⲣⲁϯ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅",
+   "translations": {
+    "english": "Blessed are they in truth, the saints of this day, each one according to his name, the beloved of Christ"
+   }
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲁⲣⲓⲡⲣⲉⲥⲃⲉⲩⲓⲛ ⲉϩ̀ⲣⲏⲓ ⲉϫⲱⲛ: ⲱ̀ ⲧⲉⲛⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟⲧⲟⲕⲟⲥ: Ⲙⲁⲣⲓⲁ ⲑ̀ⲙⲁⲩ ⲙ̀ⲡⲉⲛⲤⲱⲧⲏⲣ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ",
+   "translations": {
+    "english": "Intercede on our behalf, O lady of us all, the Mother of God, Mary, the Mother of our Savior, that He may forgive us our sins"
+   }
+  },
+  {
+   "id": "l3",
+   "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ",
+   "translations": {
+    "english": "Blessed be the Father and the Son and the Holy Spirit, the perfect Trinity. We worship Him and glorify Him"
+   }
+  }
+ ]
+}

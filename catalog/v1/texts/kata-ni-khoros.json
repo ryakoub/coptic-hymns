@@ -1,0 +1,22 @@
+{
+ "id": "kata-ni-khoros",
+ "titles": {
+  "coptic": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲕⲁⲧⲁ ⲛⲓⲭⲟⲣⲟⲥ ⲛⲉⲙ ⲛⲓⲧⲁⲝⲓⲥ ⲛ̀ⲧⲉ ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲛⲉⲙ ⲛⲁ ⲡ̀ⲕⲁϩⲓ: ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲛⲉⲙ ⲛⲓⲣⲱⲙⲓ ⲉⲩⲥⲟⲡ: ⲉⲩⲉⲣⲯⲁⲗⲓⲛ ϧⲉⲛ ⲟⲩⲑⲉⲗⲏⲗ.",
+   "translations": {
+    "english": "All the choirs and ranks of the heavenly and the earthly, angels and men together singing joyfully."
+   }
+  },
+  {
+   "id": "l2",
+   "coptic": "Ϫⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲓϩⲓⲏⲃ ⲙ̀ⲙⲏⲓ: Ϫⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲓϩⲓⲏⲃ ⲙ̀ⲙⲏⲓ: ⲁϥⲧⲱⲛϥ: ⲁϥⲧⲱⲛϥ: ⲁϥⲧⲱⲛϥ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+   "translations": {
+    "english": "(For our Lord Jesus Christ, the true Lamb)², (is risen)³ from the dead."
+   }
+  }
+ ]
+}

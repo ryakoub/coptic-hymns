@@ -1,0 +1,106 @@
+{
+ "recording": "first-hoos",
+ "text": "first-hoos",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 2.78
+  },
+  {
+   "line": "l2",
+   "start": 19.82
+  },
+  {
+   "line": "l3",
+   "start": 38.06
+  },
+  {
+   "line": "l4",
+   "start": 52.15
+  },
+  {
+   "line": "l5",
+   "start": 61.31
+  },
+  {
+   "line": "l6",
+   "start": 72.89
+  },
+  {
+   "line": "l7",
+   "start": 81.76
+  },
+  {
+   "line": "l8",
+   "start": 94.85
+  },
+  {
+   "line": "l9",
+   "start": 106.78
+  },
+  {
+   "line": "l10",
+   "start": 121.16
+  },
+  {
+   "line": "l11",
+   "start": 137.92
+  },
+  {
+   "line": "l12",
+   "start": 154.99
+  },
+  {
+   "line": "l13",
+   "start": 167.05
+  },
+  {
+   "line": "l14",
+   "start": 182.93
+  },
+  {
+   "line": "l15",
+   "start": 200.38
+  },
+  {
+   "line": "l16",
+   "start": 210.85
+  },
+  {
+   "line": "l17",
+   "start": 223.66
+  },
+  {
+   "line": "l18",
+   "start": 235.73
+  },
+  {
+   "line": "l19",
+   "start": 247.78
+  },
+  {
+   "line": "l20",
+   "start": 260.77
+  },
+  {
+   "line": "l21",
+   "start": 273.0
+  },
+  {
+   "line": "l22",
+   "start": 283.48
+  },
+  {
+   "line": "l23",
+   "start": 295.67
+  },
+  {
+   "line": "l24",
+   "start": 312.33
+  },
+  {
+   "line": "l25",
+   "start": 323.75
+  }
+ ]
+}

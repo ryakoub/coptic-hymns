@@ -1,0 +1,30 @@
+{
+ "recording": "st-mark-doxology-first-one",
+ "text": "st-mark-doxology-first-one",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 3.5
+  },
+  {
+   "line": "l2",
+   "start": 24.5
+  },
+  {
+   "line": "l3",
+   "start": 45.5
+  },
+  {
+   "line": "l4",
+   "start": 68
+  },
+  {
+   "line": "l5",
+   "start": 90
+  },
+  {
+   "line": "l6",
+   "start": 111
+  }
+ ]
+}

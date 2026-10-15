@@ -1,0 +1,3415 @@
+{
+ "version": "dc608f51446d3b73",
+ "schema": 2,
+ "baseUrl": "https://www.copticchanter.com/",
+ "services": [
+  {
+   "id": "midnight-praises",
+   "titles": {
+    "english": "Midnight Praises",
+    "arabic": "التسبحة"
+   }
+  },
+  {
+   "id": "raising-of-incense",
+   "titles": {
+    "english": "Raising of Incense",
+    "arabic": "رفع البخور"
+   }
+  },
+  {
+   "id": "liturgy",
+   "titles": {
+    "english": "Liturgy",
+    "arabic": "القداس"
+   }
+  },
+  {
+   "id": "special",
+   "titles": {
+    "english": "Special hymns",
+    "arabic": "ألحان خاصة"
+   }
+  }
+ ],
+ "library": [
+  {
+   "id": "seasons",
+   "titles": {
+    "english": "Seasons",
+    "arabic": "المواسم"
+   },
+   "collections": [
+    {
+     "id": "annual",
+     "titles": {
+      "english": "Annual",
+      "arabic": "السنوي"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "kiahk",
+     "titles": {
+      "english": "Kiahk",
+      "arabic": "كيهك"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        1
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "nativity",
+     "titles": {
+      "english": "Nativity",
+      "arabic": "الميلاد"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        29
+       ]
+      },
+      "to": {
+       "coptic": [
+        5,
+        6
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "theophany",
+     "titles": {
+      "english": "Theophany",
+      "arabic": "الغطاس"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        5,
+        11
+       ]
+      },
+      "to": {
+       "coptic": [
+        5,
+        13
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "great-lent",
+     "titles": {
+      "english": "Great Lent",
+      "arabic": "الصوم الكبير"
+     },
+     "dates": {
+      "from": {
+       "easter": -55
+      },
+      "to": {
+       "easter": -8
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "palm-sunday",
+     "titles": {
+      "english": "Palm Sunday",
+      "arabic": "أحد الشعانين"
+     },
+     "dates": {
+      "from": {
+       "easter": -7
+      },
+      "to": {
+       "easter": -7
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "resurrection",
+     "titles": {
+      "english": "Resurrection",
+      "arabic": "القيامة"
+     },
+     "dates": {
+      "from": {
+       "easter": 0
+      },
+      "to": {
+       "easter": 38
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "ascension",
+     "titles": {
+      "english": "Ascension",
+      "arabic": "الصعود"
+     },
+     "dates": {
+      "from": {
+       "easter": 39
+      },
+      "to": {
+       "easter": 48
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "pentecost",
+     "titles": {
+      "english": "Pentecost",
+      "arabic": "العنصرة"
+     },
+     "dates": {
+      "from": {
+       "easter": 49
+      },
+      "to": {
+       "easter": 49
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "praises",
+   "titles": {
+    "english": "Praises",
+    "arabic": "التسبحة"
+   },
+   "collections": [
+    {
+     "id": "praises",
+     "titles": {
+      "english": "Praises (Psalmody)",
+      "arabic": "التسبحة"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "vesper-praises",
+       "titles": {
+        "english": "Vesper Praises",
+        "arabic": "تسبحة عشية"
+       },
+       "entries": []
+      },
+      {
+       "id": "midnight-praises",
+       "titles": {
+        "english": "Midnight Praises",
+        "arabic": "تسبحة نصف الليل"
+       },
+       "entries": []
+      },
+      {
+       "id": "morning-praises",
+       "titles": {
+        "english": "Morning Praises",
+        "arabic": "تسبحة باكر"
+       },
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "special-seasons",
+   "titles": {
+    "english": "Special seasons",
+    "arabic": "مواسم خاصة"
+   },
+   "collections": [
+    {
+     "id": "holy-week",
+     "titles": {
+      "english": "Holy Week",
+      "arabic": "أسبوع الآلام"
+     },
+     "dates": {
+      "from": {
+       "easter": -7
+      },
+      "to": {
+       "easter": -2
+      }
+     },
+     "sections": [
+      {
+       "id": "palm-sunday-evening",
+       "titles": {
+        "english": "Palm Sunday evening"
+       },
+       "entries": []
+      },
+      {
+       "id": "monday",
+       "titles": {
+        "english": "Monday"
+       },
+       "entries": []
+      },
+      {
+       "id": "tuesday",
+       "titles": {
+        "english": "Tuesday"
+       },
+       "entries": []
+      },
+      {
+       "id": "wednesday",
+       "titles": {
+        "english": "Wednesday"
+       },
+       "entries": []
+      },
+      {
+       "id": "thursday",
+       "titles": {
+        "english": "Covenant Thursday"
+       },
+       "entries": []
+      },
+      {
+       "id": "friday",
+       "titles": {
+        "english": "Good Friday"
+       },
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "bright-saturday",
+     "titles": {
+      "english": "Bright Saturday",
+      "arabic": "سبت الفرح"
+     },
+     "dates": {
+      "from": {
+       "easter": -1
+      },
+      "to": {
+       "easter": -1
+      }
+     },
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "common",
+   "titles": {
+    "english": "Common hymns",
+    "arabic": "ألحان عامة"
+   },
+   "collections": [
+    {
+     "id": "common-hymns",
+     "titles": {
+      "english": "Common hymns",
+      "arabic": "ألحان عامة"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "occasions",
+   "titles": {
+    "english": "Occasions",
+    "arabic": "مناسبات"
+   },
+   "collections": [
+    {
+     "id": "veneration",
+     "titles": {
+      "english": "Veneration",
+      "arabic": "تمجيد"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "programs",
+   "titles": {
+    "english": "Programs",
+    "arabic": "برامج"
+   },
+   "collections": [
+    {
+     "id": "mahragan-keraza-2026",
+     "titles": {
+      "english": "Mahragan Al-Keraza 2026",
+      "arabic": "مهرجان الكرازة 2026"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "kg-level-1",
+       "titles": {
+        "english": "KG · Level 1"
+       },
+       "entries": [
+        "concluding-canon-feast-cross",
+        "sotees-ameen-fast",
+        "psalm-response-resurrection"
+       ]
+      },
+      {
+       "id": "kg-level-2",
+       "titles": {
+        "english": "KG · Level 2"
+       },
+       "entries": [
+        "ere-po-esmo-may-their-holy-blessing",
+        "liturgy-gospel-response-annual",
+        "hiten-archangel-michael-feast-resurrection"
+       ]
+      },
+      {
+       "id": "grades-1-2-level-1",
+       "titles": {
+        "english": "Grades 1–2 · Level 1"
+       },
+       "entries": [
+        "procession-refrain-feast-cross",
+        "this-is-the-day",
+        "blessed-pentecost"
+       ]
+      },
+      {
+       "id": "grades-1-2-level-2",
+       "titles": {
+        "english": "Grades 1–2 · Level 2"
+       },
+       "entries": [
+        "the-thought-of-man",
+        "st-mark-doxology-first-one",
+        "liturgy-gospel-response-resurrection"
+       ]
+      },
+      {
+       "id": "grades-3-4-level-1",
+       "titles": {
+        "english": "Grades 3–4 · Level 1"
+       },
+       "entries": [
+        "gospel-response-feast-cross",
+        "censer-annual",
+        "pi-pnevma",
+        "ton-syna",
+        "doxology-st-mary-vespers"
+       ]
+      },
+      {
+       "id": "grades-3-4-level-2",
+       "titles": {
+        "english": "Grades 3–4 · Level 2"
+       },
+       "entries": [
+        "second-doxology-apostles",
+        "psalm-150-4th-hoos",
+        "paralex-of-resurrection",
+        "distribution-refrain-resurrection"
+       ]
+      },
+      {
+       "id": "grades-5-6-level-1",
+       "titles": {
+        "english": "Grades 5–6 · Level 1"
+       },
+       "entries": [
+        "verse-cymbals-feast-cross",
+        "doxology-st-mary-matins",
+        "praxis-response-annual",
+        "doxology-resurrection",
+        "conclusion-midnight-praises"
+       ]
+      },
+      {
+       "id": "grades-5-6-level-2",
+       "titles": {
+        "english": "Grades 5–6 · Level 2"
+       },
+       "entries": [
+        "doxology-heavenly-orders",
+        "anaphora-responses-st-basil-st-gregory-liturgies",
+        "verse-cymbals-resurrection",
+        "praxis-response-resurrection"
+       ]
+      },
+      {
+       "id": "ms-level-1",
+       "titles": {
+        "english": "Middle School · Level 1"
+       },
+       "entries": [
+        "refrain-third-hour-pentecost",
+        "praxis-response-feast-cross",
+        "hymn-of-the-blessing",
+        "lobsh-first-hoos",
+        "christ-is-risen"
+       ]
+      },
+      {
+       "id": "ms-level-2",
+       "titles": {
+        "english": "Middle School · Level 2"
+       },
+       "entries": [
+        "paralex-shere-maria",
+        "aripalin",
+        "aspasmos-adam-resurrection"
+       ]
+      },
+      {
+       "id": "hs-level-1",
+       "titles": {
+        "english": "High School · Level 1"
+       },
+       "entries": [
+        "pi-oik",
+        "first-hoos",
+        "second-doxology-resurrection",
+        "pi-christos-aftonf",
+        "tou-lithou"
+       ]
+      },
+      {
+       "id": "hs-level-2",
+       "titles": {
+        "english": "High School · Level 2"
+       },
+       "entries": [
+        "tenoue-n-khok",
+        "kata-ni-khoros",
+        "joyful-agios-major"
+       ]
+      },
+      {
+       "id": "college-level-1",
+       "titles": {
+        "english": "College & Up · Level 1"
+       },
+       "entries": [
+        "arihouo-gasf-third-hoos",
+        "hossana-intro-doxologies-first-doxology",
+        "christos-analympsis",
+        "ethbe-ti-anastasis"
+       ]
+      },
+      {
+       "id": "college-level-2",
+       "titles": {
+        "english": "College & Up · Level 2"
+       },
+       "entries": [
+        "onim-nai-symfonia",
+        "ten-thinou",
+        "fai-etafenf",
+        "ou-katikisis"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "id": "anaphora-responses-st-basil-st-gregory-liturgies",
+   "titles": {
+    "english": "Anaphora Responses of St. Basil and St. Gregory Liturgies"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "anaphora-responses-st-basil-st-gregory-liturgies"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/anaphora-responses-st-basil-st-gregory-liturgies.json",
+    "bytes": 1162,
+    "sha256": "0c96647da7117e4101204843b61c47ab2f70514068e5feba4140d62f49742ce0"
+   }
+  },
+  {
+   "id": "arihouo-gasf-third-hoos",
+   "titles": {
+    "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "arihouo-gasf-third-hoos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/arihouo-gasf-third-hoos.json",
+    "bytes": 293,
+    "sha256": "3d6bbbd1c31086646315d8434590d53f4341fef5847198074fedf1983d224671"
+   }
+  },
+  {
+   "id": "aripalin",
+   "titles": {
+    "coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 24,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "aripalin"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aripalin.json",
+    "bytes": 21057,
+    "sha256": "68c40bd52760877ff9b4f681adc80fa907ea7b658beeb21ed0d3f6043fe9bcc9"
+   }
+  },
+  {
+   "id": "aspasmos-adam-resurrection",
+   "titles": {
+    "english": "Aspasmos Adam, Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "aspasmos-adam-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aspasmos-adam-resurrection.json",
+    "bytes": 942,
+    "sha256": "ab66bb6afb89f9aa48ce3f9d3fafb24ae83c39e8086f136c6a05a151a4c33a13"
+   }
+  },
+  {
+   "id": "blessed-pentecost",
+   "titles": {
+    "english": "Blessed, Pentecost"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "blessed-pentecost"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/blessed-pentecost.json",
+    "bytes": 553,
+    "sha256": "a6d4b84bcd8f3798061312a979f307201ecdc2aa23f1a2dda22b3f1b1b819849"
+   }
+  },
+  {
+   "id": "censer-annual",
+   "titles": {
+    "english": "The Golden Censer"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "censer-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/censer-annual.json",
+    "bytes": 565,
+    "sha256": "2c0b6294a9d63c8eb4076f1c8a921e47a1e0fc6a1ec0630f4e56796925c9c79e"
+   }
+  },
+  {
+   "id": "christ-is-risen",
+   "titles": {
+    "english": "Christ Is Risen"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "christ-is-risen"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/christ-is-risen.json",
+    "bytes": 1777,
+    "sha256": "d642f8df090ff315e08920bf7f3d8a6f6b96fb488d56ed4d5f0805bc1eab2012"
+   }
+  },
+  {
+   "id": "christos-analympsis",
+   "titles": {
+    "coptic": "ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "christos-analympsis"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/christos-analympsis.json",
+    "bytes": 1038,
+    "sha256": "e9e6b34cd51d855fb9b7196701215384d68fbea13e41e0554411b2ad0d36c7c7"
+   }
+  },
+  {
+   "id": "concluding-canon-feast-cross",
+   "titles": {
+    "english": "Concluding Canon for Feast of the Cross"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "concluding-canon-feast-cross"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/concluding-canon-feast-cross.json",
+    "bytes": 539,
+    "sha256": "ced541ba9a60ab5fe5742ea375f5109155423c3a252e5a75621cbd1c6cdc1c5e"
+   }
+  },
+  {
+   "id": "conclusion-canon-resurrection",
+   "titles": {
+    "english": "Conclusion Canon, Resurrection"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "conclusion-canon-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/conclusion-canon-resurrection.json",
+    "bytes": 241,
+    "sha256": "db9fd207971f912ea36526eeed39d351ad85800ec0998d6d2cc580d2933e8514"
+   }
+  },
+  {
+   "id": "conclusion-midnight-praises",
+   "titles": {
+    "english": "Conclusion of Midnight Praises"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 31,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "conclusion-midnight-praises"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/conclusion-midnight-praises.json",
+    "bytes": 4980,
+    "sha256": "656911de676aca43517ba40d57a56011af84e96ab71b10d2aa0eb3adb861ae61"
+   }
+  },
+  {
+   "id": "distribution-refrain-resurrection",
+   "titles": {
+    "english": "Distribution Refrain for Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "distribution-refrain-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/distribution-refrain-resurrection.json",
+    "bytes": 417,
+    "sha256": "a2e2e446e572ac4258f994a3e96b270696f410d53e8fd9adfad1ca9b931b3798"
+   }
+  },
+  {
+   "id": "doxology-heavenly-orders",
+   "titles": {
+    "english": "Doxology of Heavenly Orders"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 10,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "doxology-heavenly-orders"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-heavenly-orders.json",
+    "bytes": 8463,
+    "sha256": "5d9143b9fc3f99e14905de5e244f346993c22264e3822b3d6b61a9a34f10675b"
+   }
+  },
+  {
+   "id": "doxology-resurrection",
+   "titles": {
+    "english": "Doxology of Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "doxology-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-resurrection.json",
+    "bytes": 3616,
+    "sha256": "dae451b3e2c638e50df59d2903fd604e6fe50b57c7646d99ff6e3fb296f21752"
+   }
+  },
+  {
+   "id": "doxology-st-mary-matins",
+   "titles": {
+    "english": "Doxology of St. Mary, Matins"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 10,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "doxology-st-mary-matins"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-st-mary-matins.json",
+    "bytes": 4299,
+    "sha256": "08256f7b4964fa79489894dd9904323f310cbc36c8075740c06a7914968c89b2"
+   }
+  },
+  {
+   "id": "doxology-st-mary-vespers",
+   "titles": {
+    "english": "Doxology of St. Mary Vespers"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "doxology-st-mary-vespers"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-st-mary-vespers.json",
+    "bytes": 5013,
+    "sha256": "696e2797fe96a630b761f03da603e1c078eb7b3cb4ca6746c1b318445020f9fa"
+   }
+  },
+  {
+   "id": "ere-po-esmo-may-their-holy-blessing",
+   "titles": {
+    "english": "Ere Po Esmo (May Their Holy Blessing)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ere-po-esmo-may-their-holy-blessing"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ere-po-esmo-may-their-holy-blessing.json",
+    "bytes": 684,
+    "sha256": "9110dc94fdae216192be7adb26e3a5d000475becb80f9b6c045b31ec3844cb0c"
+   }
+  },
+  {
+   "id": "ethbe-ti-anastasis",
+   "titles": {
+    "coptic": "Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ethbe-ti-anastasis"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ethbe-ti-anastasis.json",
+    "bytes": 2222,
+    "sha256": "3ff90cb4c6abad49ab6533bc9a5ac85de63520bc5f977eb2ae7fa6a2cc1e5e72"
+   }
+  },
+  {
+   "id": "fai-etafenf",
+   "titles": {
+    "coptic": "Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "fai-etafenf"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/fai-etafenf.json",
+    "bytes": 824,
+    "sha256": "0fc220c9741ec4584ea645a14c8f5e0189035a6367422f9355605a265b6f52a1"
+   }
+  },
+  {
+   "id": "first-hoos",
+   "titles": {
+    "english": "First Hoos"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 25,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "first-hoos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/first-hoos.json",
+    "bytes": 11449,
+    "sha256": "d28ea85a296506dea3f704ab2661516fc4316cb06f38e73f40c5c8f1011245a3"
+   }
+  },
+  {
+   "id": "gospel-response-feast-cross",
+   "titles": {
+    "english": "Gospel Response of the Feast of the Cross"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "gospel-response-feast-cross"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/gospel-response-feast-cross.json",
+    "bytes": 4435,
+    "sha256": "18f42a097245b9187ade966ea03436b46560ea5739370a552327200bc6ddda99"
+   }
+  },
+  {
+   "id": "hiten-archangel-michael-feast-resurrection",
+   "titles": {
+    "english": "Hiten for Archangel Michael, Feast of Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "hiten-archangel-michael-feast-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hiten-archangel-michael-feast-resurrection.json",
+    "bytes": 704,
+    "sha256": "0db85bf53f52d35e2c27360a8fbac4a6b8cf9cd56ac7327beeb898321d749180"
+   }
+  },
+  {
+   "id": "hossana-intro-doxologies-first-doxology",
+   "titles": {
+    "english": "Hossana Intro to Doxologies & 1st Doxology"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "hossana-intro-doxologies-first-doxology"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hossana-intro-doxologies-first-doxology.json",
+    "bytes": 5566,
+    "sha256": "8303642e29f965abba952bf85117b305a1172a7bc7e1297b3928f8418150a58e"
+   }
+  },
+  {
+   "id": "hymn-of-the-blessing",
+   "titles": {
+    "english": "The Hymn of the Blessing"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "hymn-of-the-blessing"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hymn-of-the-blessing.json",
+    "bytes": 581,
+    "sha256": "80c3b2081ac6175bd7b1b86ae362f79c40c1fd83ab46583f62e124c55e0ffda6"
+   }
+  },
+  {
+   "id": "joyful-agios-major",
+   "titles": {
+    "coptic": "Joyful Ⲁⲅⲓⲟⲥ, Major"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "joyful-agios-major"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/joyful-agios-major.json",
+    "bytes": 3418,
+    "sha256": "a195e4cbf0032fe67a971ba4204b15bdc7fe99e0a082ba31d0a2fcae7698cafd"
+   }
+  },
+  {
+   "id": "kata-ni-khoros",
+   "titles": {
+    "coptic": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "kata-ni-khoros"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/kata-ni-khoros.json",
+    "bytes": 1054,
+    "sha256": "f9b513467caa258c4406154316dcff9ec551fecb5f0375d5c21975cdc837ae8d"
+   }
+  },
+  {
+   "id": "ke-ypertou",
+   "titles": {
+    "coptic": "Ⲕⲉ Ⲩ̀ⲡⲉⲣⲧⲟⲩ"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ke-ypertou"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ke-ypertou.json",
+    "bytes": 221,
+    "sha256": "2eea53b5b0b909384753baf79b7a34fd6bded934d06d1e6733a07a5f07a56aae"
+   }
+  },
+  {
+   "id": "liturgy-gospel-response-annual",
+   "titles": {
+    "english": "Liturgy Gospel Response, Annual"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "liturgy-gospel-response-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/liturgy-gospel-response-annual.json",
+    "bytes": 1495,
+    "sha256": "3af46d7923893e331ad5e4dea5842ac0c6dfc57bbb53accf5c8faa20018f5296"
+   }
+  },
+  {
+   "id": "liturgy-gospel-response-resurrection",
+   "titles": {
+    "english": "Liturgy Gospel Response, Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "liturgy-gospel-response-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/liturgy-gospel-response-resurrection.json",
+    "bytes": 1814,
+    "sha256": "ff4bc3794d9d2fdbaad9631250de0856b3012fc909a766324d1b609187e041b3"
+   }
+  },
+  {
+   "id": "lobsh-first-hoos",
+   "titles": {
+    "english": "Lobsh of First Hoos"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 9,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "lobsh-first-hoos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/lobsh-first-hoos.json",
+    "bytes": 3561,
+    "sha256": "9475ae93b93ea0076342dd285c7abf9af7a2f9d016072094afed8776b8acf297"
+   }
+  },
+  {
+   "id": "onim-nai-symfonia",
+   "titles": {
+    "coptic": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "onim-nai-symfonia"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/onim-nai-symfonia.json",
+    "bytes": 383,
+    "sha256": "2350d5b020fb4f248c5a0ef03c7b05f347af1a2844368d433e4ce186d0957aa7"
+   }
+  },
+  {
+   "id": "ou-katikisis",
+   "titles": {
+    "coptic": "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 9,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ou-katikisis"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ou-katikisis.json",
+    "bytes": 2377,
+    "sha256": "8d218127086c336864f9c04e04d7e9fb41083a5725d697b9f74c013247a163c1"
+   }
+  },
+  {
+   "id": "paralex-of-resurrection",
+   "titles": {
+    "english": "Paralex of Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "paralex-of-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/paralex-of-resurrection.json",
+    "bytes": 1484,
+    "sha256": "e693d8c83c80e2b2ffbbe0f42f136bf07b1c8a29e1f486d2f267c237cfb1a973"
+   }
+  },
+  {
+   "id": "paralex-shere-maria",
+   "titles": {
+    "english": "Paralex, Shere Maria"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 10,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "paralex-shere-maria"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/paralex-shere-maria.json",
+    "bytes": 4631,
+    "sha256": "001e5dd4201c8d16c09d0ad1a2e6be558dc33f81540c07d751d277a9cba505f0"
+   }
+  },
+  {
+   "id": "pi-christos-aftonf",
+   "titles": {
+    "coptic": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "pi-christos-aftonf"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/pi-christos-aftonf.json",
+    "bytes": 632,
+    "sha256": "e7c27035f6e0609a7df427f3fc18cc03b02d567e0773b288a618df5915dcc567"
+   }
+  },
+  {
+   "id": "pi-oik",
+   "titles": {
+    "coptic": "Ⲡⲓⲱⲓⲕ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 10,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "pi-oik"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/pi-oik.json",
+    "bytes": 3865,
+    "sha256": "5a87970a401a8444b722618684c5d9229223d8e84ef9537f5631cb8477ed6372"
+   }
+  },
+  {
+   "id": "pi-pnevma",
+   "titles": {
+    "coptic": "ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "pi-pnevma"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/pi-pnevma.json",
+    "bytes": 549,
+    "sha256": "fd7555e8ea6e83cb0621951c5634da930798fca7a4c78a6bccd4b6a33eef8aaa"
+   }
+  },
+  {
+   "id": "praxis-response-annual",
+   "titles": {
+    "english": "Praxis Response, Annual"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "praxis-response-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/praxis-response-annual.json",
+    "bytes": 551,
+    "sha256": "6cb5ffb43151b395c51326f69bbe95cdfeff8bb612a1e7f26f54e2338acf80cf"
+   }
+  },
+  {
+   "id": "praxis-response-feast-cross",
+   "titles": {
+    "english": "Praxis Response, Feast of the Cross"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "praxis-response-feast-cross"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/praxis-response-feast-cross.json",
+    "bytes": 491,
+    "sha256": "850385375942a78b14ccc81655e8854b62d01c3e85928f29665eb4a889d7a975"
+   }
+  },
+  {
+   "id": "praxis-response-resurrection",
+   "titles": {
+    "english": "Praxis Response for Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "praxis-response-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/praxis-response-resurrection.json",
+    "bytes": 646,
+    "sha256": "c5a13382dcc8045df1d361ba546f3baf0322e3d8acb8e6813e3fa7f2c6780596"
+   }
+  },
+  {
+   "id": "procession-refrain-feast-cross",
+   "titles": {
+    "english": "Procession Refrain, Feast of the Cross"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "procession-refrain-feast-cross"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/procession-refrain-feast-cross.json",
+    "bytes": 551,
+    "sha256": "101ffd8e84c8ee655b883cb582a124acf215680f7350d8ff39019ccbf8089b49"
+   }
+  },
+  {
+   "id": "psalm-150-4th-hoos",
+   "titles": {
+    "english": "Psalm 150, 4th Hoos"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 16,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "psalm-150-4th-hoos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/psalm-150-4th-hoos.json",
+    "bytes": 7802,
+    "sha256": "2e3cac1a79a73815f7fb3f80432e278c76f945f218d07fc1ac0b1e1852b6b16e"
+   }
+  },
+  {
+   "id": "psalm-response-resurrection",
+   "titles": {
+    "english": "Psalm Response, Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "psalm-response-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/psalm-response-resurrection.json",
+    "bytes": 650,
+    "sha256": "1e92347be57e420842aa5aed5899dc9264713158b887e5964a559eec04c3d3ab"
+   }
+  },
+  {
+   "id": "refrain-third-hour-pentecost",
+   "titles": {
+    "english": "Refrain of Third Hour, Pentecost"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "refrain-third-hour-pentecost"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/refrain-third-hour-pentecost.json",
+    "bytes": 894,
+    "sha256": "baa9350fb2eb34d072f95a2b03d9197fb4f84c4dbbd8e07ed7938874f85de6e3"
+   }
+  },
+  {
+   "id": "second-doxology-apostles",
+   "titles": {
+    "english": "The Second Doxology of the Apostles"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "second-doxology-apostles"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/second-doxology-apostles.json",
+    "bytes": 5091,
+    "sha256": "e800986367843a15105460e7554dd31a855749b845708983b9d3c078f52acae8"
+   }
+  },
+  {
+   "id": "second-doxology-resurrection",
+   "titles": {
+    "english": "Second Doxology of Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "second-doxology-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/second-doxology-resurrection.json",
+    "bytes": 5121,
+    "sha256": "a58aac937a259384719b3e2350a0593bdf1510e805f2268ddf0565dbcea3f7c6"
+   }
+  },
+  {
+   "id": "sotees-ameen-fast",
+   "titles": {
+    "english": "Sotees Ameen (Fast)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "sotees-ameen-fast"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sotees-ameen-fast.json",
+    "bytes": 298,
+    "sha256": "8b2200e3af78122c4dc912d45206685651d1041cdf8756ab37d8a11af07f1715"
+   }
+  },
+  {
+   "id": "st-mark-doxology-first-one",
+   "titles": {
+    "english": "St. Mark Doxology (First One)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "st-mark-doxology-first-one"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
+    "bytes": 2789,
+    "sha256": "0c49fde9b1f3915f4ea646ccba8c4b79f36414884ba7ba2b1ffb918d4241e824"
+   }
+  },
+  {
+   "id": "ten-thinou",
+   "titles": {
+    "coptic": "Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ten-thinou"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ten-thinou.json",
+    "bytes": 415,
+    "sha256": "d12fce1c4bff8861ccdcf9339bc5727a9f1459744eee5f69e7b27cae01c71da8"
+   }
+  },
+  {
+   "id": "tenoue-n-khok",
+   "titles": {
+    "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "tenoue-n-khok"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/tenoue-n-khok.json",
+    "bytes": 3532,
+    "sha256": "084d42aba04aed6269a542cb7e16e65fa3cd17658bac545e5186697cf860f9b9"
+   }
+  },
+  {
+   "id": "the-thought-of-man",
+   "titles": {
+    "english": "The Thought of Man"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-thought-of-man"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-thought-of-man.json",
+    "bytes": 726,
+    "sha256": "80b241aeb205bc4751249272b0bb4d19a9d12b4dca28cf7e654691393d2379d7"
+   }
+  },
+  {
+   "id": "this-is-the-day",
+   "titles": {
+    "english": "This Is the Day"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "this-is-the-day"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/this-is-the-day.json",
+    "bytes": 830,
+    "sha256": "f18b42f5c27283fd342fb4b7a4bfe8bab59ed70bf20c10d7f0a21e64702233a2"
+   }
+  },
+  {
+   "id": "ton-syna",
+   "titles": {
+    "coptic": "ⲧⲟⲛ ⲥⲩⲛⲁ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ton-syna"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ton-syna.json",
+    "bytes": 1093,
+    "sha256": "0a8cb46119569125a462e594ea7edf5c46f3836076815d688fcb95bb78c259aa"
+   }
+  },
+  {
+   "id": "tou-lithou",
+   "titles": {
+    "coptic": "Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "tou-lithou"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/tou-lithou.json",
+    "bytes": 1391,
+    "sha256": "62464dd101e7320f4c1c8be172d3c1ad05de19f9b0413c56254e3a17f17f148a"
+   }
+  },
+  {
+   "id": "verse-cymbals-feast-cross",
+   "titles": {
+    "english": "Verse of Cymbals for Feast of the Cross"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "verse-cymbals-feast-cross"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/verse-cymbals-feast-cross.json",
+    "bytes": 964,
+    "sha256": "e7efeba8fabd2fec29784da8de1cedf17a4c328abbbc73936ae23e0c31ba8438"
+   }
+  },
+  {
+   "id": "verse-cymbals-resurrection",
+   "titles": {
+    "english": "Verse of Cymbals for Resurrection"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 7,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "verse-cymbals-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/verse-cymbals-resurrection.json",
+    "bytes": 4167,
+    "sha256": "9e7819de3a60ed58c5ba6b634f3d12f92c6c35dc272699cc0dfb0263e5fe786f"
+   }
+  },
+  {
+   "id": "verses-cymbals-resurrection",
+   "titles": {
+    "english": "Verses of Cymbals, Resurrection"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "verses-cymbals-resurrection"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/verses-cymbals-resurrection.json",
+    "bytes": 240,
+    "sha256": "046db216fdb9011fc67bdf2601334ff215a271629c96af4fd5bd0855cb789723"
+   }
+  }
+ ],
+ "recordings": [
+  {
+   "id": "anaphora-responses-st-basil-st-gregory-liturgies",
+   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
+   "duration": 138.6,
+   "timing": {
+    "lines": 6,
+    "words": 0,
+    "of": 6
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-2/anaphora-responses-st-basil-st-gregory-liturgies/",
+   "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-responses-st-basil-st-gregory-liturgies.json",
+     "bytes": 410,
+     "sha256": "f24bd24a45b26dabadd3cd072d71f0cc7b756cb57a9ee7290e3ade470a7aa4cb",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/anaphora-responses-st-basil-st-gregory-liturgies/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2030730,
+     "sha256": "5989455369b253f237a8f83978f90a50b96150046055a196b60e9e11fb8d094c"
+    }
+   ]
+  },
+  {
+   "id": "arihouo-gasf-third-hoos",
+   "text": "arihouo-gasf-third-hoos",
+   "duration": 393.81,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/college/level-1/arihouo-gasf-third-hoos/",
+   "youtube": "https://youtu.be/h_DlDnldbcM?si=WasBqXX6VYPoabW0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/arihouo-gasf-third-hoos.json",
+     "bytes": 139,
+     "sha256": "2f32b72aa55528625890a0d56bdc8da033a5d25ac516f4b4c0d5e83f54ee412b",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-1/arihouo-gasf-third-hoos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 6274557,
+     "sha256": "eb92c2bb2e5401e7fa89a7e58b013fd8de8eb2e2163d5ed7d30ad3c060d25ba8"
+    }
+   ]
+  },
+  {
+   "id": "aripalin",
+   "text": "aripalin",
+   "duration": 550.08,
+   "timing": {
+    "lines": 24,
+    "words": 0,
+    "of": 24
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-2/aripalin/",
+   "youtube": "https://www.youtube.com/watch?v=wB1ygqD98WY",
+   "antiphonalGroup": 2,
+   "files": [
+    {
+     "url": "catalog/v1/timings/aripalin.json",
+     "bytes": 2781,
+     "sha256": "e11528c7e1850d0ef833606c73483ee3acf59dc2d1a7c531d0407fb472a1644f",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-2/aripalin/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 8798997,
+     "sha256": "b80db69454e77c562335ed0fc5f8776652320774d4c84cf1a473b4bb83c840e7"
+    }
+   ]
+  },
+  {
+   "id": "aspasmos-adam-resurrection",
+   "text": "aspasmos-adam-resurrection",
+   "duration": 147.95,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-2/aspasmos-adam-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=kvPwVdAWgQE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aspasmos-adam-resurrection.json",
+     "bytes": 2614,
+     "sha256": "73a68a41fcf38837d72b22fc81a5f464441585b51e6bb6876a875628151d4854",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-2/aspasmos-adam-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2185366,
+     "sha256": "5fdf22897d35a734c4c8ea254f8d7883be1cb58b47b3f6d217b28e6fc8917a9f"
+    }
+   ]
+  },
+  {
+   "id": "blessed-pentecost",
+   "text": "blessed-pentecost",
+   "duration": 69.35,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-1/blessed-pentecost/",
+   "youtube": "https://www.youtube.com/watch?v=6zHnZp87qA4",
+   "files": [
+    {
+     "url": "catalog/v1/timings/blessed-pentecost.json",
+     "bytes": 884,
+     "sha256": "7558cbe6b6965e14fbd49488da4c1bcfdc61a5932c767732e2c7eb2e2e115900",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/blessed-pentecost/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 902644,
+     "sha256": "ab9b5e85547d529afeaa487cf07472a8d5ac2614148bec29fb9bc3e6629aa395"
+    }
+   ]
+  },
+  {
+   "id": "censer-annual",
+   "text": "censer-annual",
+   "duration": 93.67,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/",
+   "youtube": "https://youtu.be/QYQu5Uza0fw",
+   "files": [
+    {
+     "url": "catalog/v1/timings/censer-annual.json",
+     "bytes": 1345,
+     "sha256": "2d021ce6e1b5f852b18eb4d55509ac145005d71fe235c22f504df3f20e03087a",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1306422,
+     "sha256": "2a5edfacdb10e5a9720471b34d789656b0f5fb55889b899ce826581994f8009e"
+    }
+   ]
+  },
+  {
+   "id": "christ-is-risen",
+   "text": "christ-is-risen",
+   "duration": 349.61,
+   "timing": {
+    "lines": 4,
+    "words": 4,
+    "of": 4
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-1/christ-is-risen/",
+   "youtube": "https://www.youtube.com/watch?v=c7otcvdH8u8",
+   "files": [
+    {
+     "url": "catalog/v1/timings/christ-is-risen.json",
+     "bytes": 5222,
+     "sha256": "a2dff6623052ba840b1c48b239f15504969966f334c20d4f548aa5c3dca2136b",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-1/christ-is-risen/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 5465377,
+     "sha256": "dfaa7d909da8027f41358d49b7b7ee0e420b256d30e815f15eb8ed99c55136c2"
+    }
+   ]
+  },
+  {
+   "id": "christos-analympsis",
+   "text": "christos-analympsis",
+   "duration": 307.08,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/college/level-1/christos-analympsis/",
+   "youtube": "https://youtu.be/UmHgilu3TSA?si=VxUsK691Hdr8Dxci",
+   "files": [
+    {
+     "url": "catalog/v1/timings/christos-analympsis.json",
+     "bytes": 2952,
+     "sha256": "37b04a370793d73ca0aa20070bd6c7d0de279fa591fedb25f4c41a29e00770ff",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-1/christos-analympsis/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 4997014,
+     "sha256": "480c2778d5467612b84945190c874e324b9380523ea1544a272a430478a15ce2"
+    }
+   ]
+  },
+  {
+   "id": "concluding-canon-feast-cross",
+   "text": "concluding-canon-feast-cross",
+   "duration": 34.35,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/kg/level-1/concluding-canon-feast-cross/",
+   "youtube": "https://www.youtube.com/watch?v=FoACFn5y174",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-canon-feast-cross.json",
+     "bytes": 603,
+     "sha256": "f6d3b3ba9d04659cc8c03309ae027f01fac758ec3fa45b48bc55dca24ebcb79e",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/kg/level-1/concluding-canon-feast-cross/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 336306,
+     "sha256": "38fbd1d3ade268883776a3b83711777a136ed3158e2f618ecfd6c7c3a31d6075"
+    }
+   ]
+  },
+  {
+   "id": "conclusion-canon-resurrection",
+   "text": "conclusion-canon-resurrection",
+   "duration": 77.48,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-1/conclusion-canon-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=QolNbrElAVI",
+   "files": [
+    {
+     "url": "catalog/v1/timings/conclusion-canon-resurrection.json",
+     "bytes": 149,
+     "sha256": "cc843a3f6d2011d91ca2666dbd667cbc5083c63f6def332f5a03b917d1cca739",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/conclusion-canon-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1026483,
+     "sha256": "9cbe9e8578a2a1c67d4a0de5dfc83544fbd135582c4541977fbdd14a3b92aa70"
+    }
+   ]
+  },
+  {
+   "id": "conclusion-midnight-praises",
+   "text": "conclusion-midnight-praises",
+   "duration": 263.87,
+   "timing": {
+    "lines": 31,
+    "words": 0,
+    "of": 31
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/",
+   "youtube": "https://www.youtube.com/watch?v=LhgEeCHUbME",
+   "files": [
+    {
+     "url": "catalog/v1/timings/conclusion-midnight-praises.json",
+     "bytes": 1505,
+     "sha256": "7df52774655069d619bd56c243825414c2cb3787c365d530f6e15f4f59fc554f",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 4079473,
+     "sha256": "be3a8b153697884ddaa0df3c21820aa62c182fee4cc7194d908799f87e2c4f69"
+    }
+   ]
+  },
+  {
+   "id": "distribution-refrain-resurrection",
+   "text": "distribution-refrain-resurrection",
+   "duration": 54.61,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-2/distribution-refrain-resurrection/",
+   "youtube": "https://youtu.be/A8T9bLaKzEs",
+   "files": [
+    {
+     "url": "catalog/v1/timings/distribution-refrain-resurrection.json",
+     "bytes": 942,
+     "sha256": "204df63ccc03041a13b71748b6d998f19bd86733ed885d23db0340c2a46ba7c2",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/distribution-refrain-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 688979,
+     "sha256": "625472961d424d4dad0b8da3cc79f5884619817cbd7f022dd261c67016e9a5a8"
+    }
+   ]
+  },
+  {
+   "id": "doxology-heavenly-orders",
+   "text": "doxology-heavenly-orders",
+   "duration": 165.67,
+   "timing": {
+    "lines": 10,
+    "words": 0,
+    "of": 10
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-2/doxology-heavenly-orders/",
+   "youtube": "https://www.youtube.com/watch?v=5bX5uDocLO8",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-heavenly-orders.json",
+     "bytes": 1198,
+     "sha256": "f055c8eaaaa82a9640e90b775602bf551023431fcca215689aa526848cb39031",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/doxology-heavenly-orders/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2474602,
+     "sha256": "884d091330ab288d038b626009de5585de3e6e7863238f5f204d9b0fbbd85546"
+    }
+   ]
+  },
+  {
+   "id": "doxology-resurrection",
+   "text": "doxology-resurrection",
+   "duration": 176.0,
+   "timing": {
+    "lines": 8,
+    "words": 8,
+    "of": 8
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=fwludc_k6WM",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-resurrection.json",
+     "bytes": 10044,
+     "sha256": "6ca58228a468dd81c64a74ecaf119ad9251edf347d276de91e7bf25e9262a76f",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2672805,
+     "sha256": "39b4a0bfb3975d411a3dff7b68776576bf923cd9700bba7d045cce109253397d"
+    }
+   ]
+  },
+  {
+   "id": "doxology-st-mary-matins",
+   "text": "doxology-st-mary-matins",
+   "duration": 195.14,
+   "timing": {
+    "lines": 10,
+    "words": 10,
+    "of": 10
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins/",
+   "youtube": "https://www.youtube.com/watch?v=dwCjweUAI5A",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-st-mary-matins.json",
+     "bytes": 11958,
+     "sha256": "311f85b0345685ab099481bfd524a71658b6e251457b86f287cd7864b79adccd",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2933797,
+     "sha256": "317a43fdc4ae692f59cae106021ddc4d6e4a9588ac9b049d6ba1452eec073c69"
+    }
+   ]
+  },
+  {
+   "id": "doxology-st-mary-vespers",
+   "text": "doxology-st-mary-vespers",
+   "duration": 141.42,
+   "timing": {
+    "lines": 6,
+    "words": 0,
+    "of": 6
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-1/doxology-st-mary-vespers/",
+   "youtube": "https://youtu.be/pY-9ScNsRdk",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-st-mary-vespers.json",
+     "bytes": 753,
+     "sha256": "e82cd6736720bd8f4dd0e7c8fba489ad13e178f9fd3f180e179935f1eaec6200",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/doxology-st-mary-vespers/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2085050,
+     "sha256": "08f043ffba5b421ab3666f26826fc0cafc63602a18a6867786d3de2f2e33746a"
+    }
+   ]
+  },
+  {
+   "id": "ere-po-esmo-may-their-holy-blessing",
+   "text": "ere-po-esmo-may-their-holy-blessing",
+   "duration": 64.47,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/kg/level-2/ere-po-esmo-may-their-holy-blessing/",
+   "youtube": "https://www.youtube.com/watch?v=UQeEvUJnwps",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ere-po-esmo-may-their-holy-blessing.json",
+     "bytes": 1115,
+     "sha256": "81d4443373192e33c5a1afd8e040340e95df0b6f630e8f2b83b32abbdc9abd13",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/kg/level-2/ere-po-esmo-may-their-holy-blessing/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 819220,
+     "sha256": "1423a1f7348709c2ca8fb3a2c5a1edffa62c988be90cdef21e0787025190a0c6"
+    }
+   ]
+  },
+  {
+   "id": "ethbe-ti-anastasis",
+   "text": "ethbe-ti-anastasis",
+   "duration": 631.02,
+   "timing": {
+    "lines": 3,
+    "words": 0,
+    "of": 3
+   },
+   "source": "content/mahragan-keraza-2026/college/level-1/ethbe-ti-anastasis/",
+   "youtube": "https://youtu.be/JQ0He5WoG7M?si=D3KlBK7v9sGdfc2I",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ethbe-ti-anastasis.json",
+     "bytes": 218,
+     "sha256": "cab1c87dc1d28dc62f00fa58f0a31670c519bf97ecc5090a797daeb078ea5cfd",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-1/ethbe-ti-anastasis/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 10141132,
+     "sha256": "3514a2865e1c216925fd0b4d3724c863a40fff249e4905f9e0e9edda2059fcd1"
+    }
+   ]
+  },
+  {
+   "id": "fai-etafenf",
+   "text": "fai-etafenf",
+   "duration": 474.56,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/college/level-2/fai-etafenf/",
+   "youtube": "https://youtu.be/CGO80x84joA?si=7J1NZTNI9t_mZgRp",
+   "files": [
+    {
+     "url": "catalog/v1/timings/fai-etafenf.json",
+     "bytes": 1983,
+     "sha256": "92000f666ac8ef968ecc85c4912b8b0b64e09d95e07e9a7d938b790c90de9fb1",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-2/fai-etafenf/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 7716643,
+     "sha256": "556f1f4814b925a5e0dee051de5fe1145aa4692389e94b4ca3d450f009472c99"
+    }
+   ]
+  },
+  {
+   "id": "first-hoos",
+   "text": "first-hoos",
+   "duration": 354.28,
+   "timing": {
+    "lines": 25,
+    "words": 0,
+    "of": 25
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-1/first-hoos/",
+   "youtube": "https://www.youtube.com/watch?v=Crxk4NGE3T4",
+   "files": [
+    {
+     "url": "catalog/v1/timings/first-hoos.json",
+     "bytes": 1202,
+     "sha256": "3cbc7766b22564309d5e9a0f234e434cb5b6da9214438166068c665ff5336b59",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-1/first-hoos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 5576817,
+     "sha256": "2643cda9ed86d94cc06b933ded7601d8a316a74f679bbc0b750a9940521876e4"
+    }
+   ]
+  },
+  {
+   "id": "gospel-response-feast-cross",
+   "text": "gospel-response-feast-cross",
+   "duration": 143.47,
+   "timing": {
+    "lines": 5,
+    "words": 0,
+    "of": 5
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-1/gospel-response-feast-cross/",
+   "youtube": "https://youtu.be/BsBt0rttUws",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-response-feast-cross.json",
+     "bytes": 646,
+     "sha256": "8f847e9b9486a6ac91a6b9585a0b3d542d1a9315f3a57993e1584818946e10d9",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/gospel-response-feast-cross/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2113001,
+     "sha256": "4c74034a94b4575bd2bbd105acf80d709d2861bda3031a3fe42cdadc2f37bbe2"
+    }
+   ]
+  },
+  {
+   "id": "hiten-archangel-michael-feast-resurrection",
+   "text": "hiten-archangel-michael-feast-resurrection",
+   "duration": 57.22,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/kg/level-2/hiten-archangel-michael-feast-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=Jn20Afby4zY",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hiten-archangel-michael-feast-resurrection.json",
+     "bytes": 1058,
+     "sha256": "d1dc655f70ca523fd489ca631369cdd462062916f41573e9f184f48137ee4bc5",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/kg/level-2/hiten-archangel-michael-feast-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 710925,
+     "sha256": "e7f32c16cbf5f063ac3d1b4fc7a8722bc2d97a68e1b37c9005dcfa09a1dec9cf"
+    }
+   ]
+  },
+  {
+   "id": "hossana-intro-doxologies-first-doxology",
+   "text": "hossana-intro-doxologies-first-doxology",
+   "duration": 361.49,
+   "timing": {
+    "lines": 12,
+    "words": 0,
+    "of": 12
+   },
+   "source": "content/mahragan-keraza-2026/college/level-1/hossana-intro-doxologies-first-doxology/",
+   "youtube": "https://youtu.be/Bw37LgrS4a0?si=5XraF2cjUDyWs5yK",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hossana-intro-doxologies-first-doxology.json",
+     "bytes": 669,
+     "sha256": "2e185675c42892f570284386a68a697a404a2876548b56f690731f6b8bb88b03",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-1/hossana-intro-doxologies-first-doxology/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 5926561,
+     "sha256": "44c776bf6c7f220065981c661e1227cf898462137eeb4375c003e94164cc586e"
+    }
+   ]
+  },
+  {
+   "id": "hymn-of-the-blessing",
+   "text": "hymn-of-the-blessing",
+   "duration": 187.75,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/",
+   "youtube": "https://www.youtube.com/watch?v=Geh09bSUpOM",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hymn-of-the-blessing.json",
+     "bytes": 1165,
+     "sha256": "251928491f0f60a22ab728b154dda37fe76dbc1dc1cacb6d764f4598788f6ddc",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2837688,
+     "sha256": "584cbd836e0770eb719316e09277a7b9cd4e2b793f3f49354939aff96ca41420"
+    }
+   ]
+  },
+  {
+   "id": "joyful-agios-major",
+   "text": "joyful-agios-major",
+   "duration": 300.01,
+   "timing": {
+    "lines": 5,
+    "words": 1,
+    "of": 5
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-2/joyful-agios-major/",
+   "youtube": "https://www.youtube.com/watch?v=6a2zMyCJ_Ps",
+   "files": [
+    {
+     "url": "catalog/v1/timings/joyful-agios-major.json",
+     "bytes": 992,
+     "sha256": "c5760a60c1fbd3b9725e413d5f4b80b6e99748ca10fbc3e464370e5b4ef476f8",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-2/joyful-agios-major/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 4650028,
+     "sha256": "b203c6cba8c71daeb99b40009aa6f6c859b54e5d6733ddcc94f1fbfd0e367b16"
+    }
+   ]
+  },
+  {
+   "id": "kata-ni-khoros",
+   "text": "kata-ni-khoros",
+   "duration": 371.82,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-2/kata-ni-khoros/",
+   "youtube": "https://www.youtube.com/watch?v=Lufig_jsNFY",
+   "files": [
+    {
+     "url": "catalog/v1/timings/kata-ni-khoros.json",
+     "bytes": 3168,
+     "sha256": "1619c0df91b5f6528394f3d07e0ec2f37c714ac80424aab79cd2d88ee453bd32",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-2/kata-ni-khoros/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 5820509,
+     "sha256": "7924b6bdda738ffbc6c4677a1aa3d37e7f086c946163401d0497d3afed036524"
+    }
+   ]
+  },
+  {
+   "id": "ke-ypertou",
+   "text": "ke-ypertou",
+   "duration": 537.88,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/college/level-1/ke-ypertou/",
+   "youtube": "https://youtu.be/1mIpzNnBCT0?si=7eiMUewoPTD4SKJU",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ke-ypertou.json",
+     "bytes": 111,
+     "sha256": "cce10659944aed711ea971dc430d02935f5ebef7ef34f88c331f30205a147d42",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-1/ke-ypertou/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 8611458,
+     "sha256": "fadf96582c6db03c685196e0295c787c9e24994dd373e5b75c5e2bc45ac14469"
+    }
+   ]
+  },
+  {
+   "id": "liturgy-gospel-response-annual",
+   "text": "liturgy-gospel-response-annual",
+   "duration": 108.54,
+   "timing": {
+    "lines": 3,
+    "words": 3,
+    "of": 3
+   },
+   "source": "content/mahragan-keraza-2026/kg/level-2/liturgy-gospel-response-annual/",
+   "youtube": "https://www.youtube.com/watch?v=09w51TVKzkg",
+   "files": [
+    {
+     "url": "catalog/v1/timings/liturgy-gospel-response-annual.json",
+     "bytes": 2225,
+     "sha256": "4f3692d6b048ff68764840e9607e3fdbd244cda99aeea90b51eb92f4788cec4b",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/kg/level-2/liturgy-gospel-response-annual/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1538496,
+     "sha256": "23571030b50708658ca05c29d9518137a427f8fd18ad02947083c186ef27b634"
+    }
+   ]
+  },
+  {
+   "id": "liturgy-gospel-response-resurrection",
+   "text": "liturgy-gospel-response-resurrection",
+   "duration": 193.75,
+   "timing": {
+    "lines": 4,
+    "words": 4,
+    "of": 4
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-2/liturgy-gospel-response-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=p4IqGabd2TQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/liturgy-gospel-response-resurrection.json",
+     "bytes": 3146,
+     "sha256": "13f06c7a9e2a524c7eccfa0e71fe3c2864b1e0df79abf8c12fbbc0a84bc52969",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/liturgy-gospel-response-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2931523,
+     "sha256": "6f03bce572af4413654ad7b232544d23047bed323de368904c36bc4cdfc21fba"
+    }
+   ]
+  },
+  {
+   "id": "lobsh-first-hoos",
+   "text": "lobsh-first-hoos",
+   "duration": 391.62,
+   "timing": {
+    "lines": 9,
+    "words": 9,
+    "of": 9
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-1/lobsh-first-hoos/",
+   "youtube": "https://www.youtube.com/watch?v=jFX-qC0LiBM",
+   "files": [
+    {
+     "url": "catalog/v1/timings/lobsh-first-hoos.json",
+     "bytes": 5964,
+     "sha256": "a3e32a4e7270513d5f0b6d0b78fa9c448f63728c78a6566ce29d7776c066fedc",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-1/lobsh-first-hoos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 6184244,
+     "sha256": "a154783dd42186176906ff23a420136dae58092aea5f387540d184a96fb015d6"
+    }
+   ]
+  },
+  {
+   "id": "onim-nai-symfonia",
+   "text": "onim-nai-symfonia",
+   "duration": 194.88,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/college/level-2/onim-nai-symfonia/",
+   "youtube": "https://www.youtube.com/watch?v=Mh9WsbCkVO4",
+   "files": [
+    {
+     "url": "catalog/v1/timings/onim-nai-symfonia.json",
+     "bytes": 127,
+     "sha256": "43f14ee0ecce724d774617a1947079064e8a2469358bb9b26836a18eda1124d6",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-2/onim-nai-symfonia/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2944699,
+     "sha256": "8510ec1c31436339d8037929f6b3476ffafc9b1d2801bd95b49af8012cb8dd25"
+    }
+   ]
+  },
+  {
+   "id": "ou-katikisis",
+   "text": "ou-katikisis",
+   "duration": 694.86,
+   "timing": {
+    "lines": 9,
+    "words": 0,
+    "of": 9
+   },
+   "source": "content/mahragan-keraza-2026/college/level-2/ou-katikisis/",
+   "youtube": "https://youtu.be/ZJC5Lm9jopM?si=dhkv2ENRV_Vd7A5q",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ou-katikisis.json",
+     "bytes": 479,
+     "sha256": "c0d4cd87833e50dee424574793758088e1b31100fec031a29ec7b6345b0f2751",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-2/ou-katikisis/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 11420965,
+     "sha256": "55374662ab1566d4cff304043656aa1994e44ace8ac6d432967af8b7a61836dc"
+    }
+   ]
+  },
+  {
+   "id": "paralex-of-resurrection",
+   "text": "paralex-of-resurrection",
+   "duration": 168.47,
+   "timing": {
+    "lines": 3,
+    "words": 3,
+    "of": 3
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-2/paralex-of-resurrection/",
+   "youtube": "https://youtu.be/AlYf9NPVoIQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/paralex-of-resurrection.json",
+     "bytes": 3783,
+     "sha256": "441b00203879ca5f60aef794223ee694508d78a5d2dd4230631d19ef6823c8b0",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/paralex-of-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2543447,
+     "sha256": "a7898d6e98879c3ed5c7c726416f0520e930ebe26a2e17170e71a4bc5d9a44ea"
+    }
+   ]
+  },
+  {
+   "id": "paralex-shere-maria",
+   "text": "paralex-shere-maria",
+   "duration": 474.82,
+   "timing": {
+    "lines": 10,
+    "words": 10,
+    "of": 10
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-2/paralex-shere-maria/",
+   "youtube": "https://www.youtube.com/watch?v=IkCJZdavhMU",
+   "files": [
+    {
+     "url": "catalog/v1/timings/paralex-shere-maria.json",
+     "bytes": 12850,
+     "sha256": "84505934b88eb5b77fd49a3b46920438d1d25201d3fca57b4a9d3199422ea675",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-2/paralex-shere-maria/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 7587788,
+     "sha256": "9caa860f2f87a9f726328fd07175a241f6f547b6756b67a283cd5f742b1ee438"
+    }
+   ]
+  },
+  {
+   "id": "pi-christos-aftonf",
+   "text": "pi-christos-aftonf",
+   "duration": 170.15,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-1/pi-christos-aftonf/",
+   "youtube": "https://www.youtube.com/watch?v=dDNRbBIMPQ4",
+   "files": [
+    {
+     "url": "catalog/v1/timings/pi-christos-aftonf.json",
+     "bytes": 1625,
+     "sha256": "50f02dd126e61f27685ade194c1996092655f7f205e23f790573528a268d677e",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-1/pi-christos-aftonf/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2550766,
+     "sha256": "3eea0c2fdcdd624efc90e7a550384c172898592516e80bffe2dfe8419db19fe4"
+    }
+   ]
+  },
+  {
+   "id": "pi-oik",
+   "text": "pi-oik",
+   "duration": 462.14,
+   "timing": {
+    "lines": 10,
+    "words": 10,
+    "of": 10
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-1/pi-oik/",
+   "youtube": "https://www.youtube.com/watch?v=bFXCadHOnqw",
+   "files": [
+    {
+     "url": "catalog/v1/timings/pi-oik.json",
+     "bytes": 10449,
+     "sha256": "143e79270abe8c750be1893bbe136d5a1f255058c13318de14d9a65c771b32e9",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-1/pi-oik/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 7359068,
+     "sha256": "25c6d8245a30e74b6aa055fdcfa719f99f5784272fc0554f7f100a2a2b161b31"
+    }
+   ]
+  },
+  {
+   "id": "pi-pnevma",
+   "text": "pi-pnevma",
+   "duration": 56.15,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-1/pi-pnevma/",
+   "youtube": "https://youtu.be/zLQW1qrXtSE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/pi-pnevma.json",
+     "bytes": 1136,
+     "sha256": "d40088408e7a951ee0b7aaae7ea378a6ec553de1b599c25d1e586f1492f65bb5",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/pi-pnevma/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 700600,
+     "sha256": "2f8acfd5fa4301c39946c84e5a1f4154a61cb5917c77cf32e297bb0f9f13a74f"
+    }
+   ]
+  },
+  {
+   "id": "praxis-response-annual",
+   "text": "praxis-response-annual",
+   "duration": 104.75,
+   "timing": {
+    "lines": 2,
+    "words": 1,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-1/praxis-response-annual/",
+   "youtube": "https://www.youtube.com/watch?v=evNcoc0Vt2g",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-annual.json",
+     "bytes": 962,
+     "sha256": "dc75fb251fa8ff39b624cd7ec14a7f0f101656952f2a1c02e0ecdac0bbf4a6df",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/praxis-response-annual/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1461838,
+     "sha256": "0ea164b266fe89f0473e9df443e0785a9268b0b74322d579a1c9adf8314ababf"
+    }
+   ]
+  },
+  {
+   "id": "praxis-response-feast-cross",
+   "text": "praxis-response-feast-cross",
+   "duration": 104.0,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-1/praxis-response-feast-cross/",
+   "youtube": "https://www.youtube.com/watch?v=2txyUqe_70E",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-feast-cross.json",
+     "bytes": 1106,
+     "sha256": "70beb496f146516ed52fd6b8a61ec3f50e4f052c327fa46bbb94db65c533ea24",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-1/praxis-response-feast-cross/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1459687,
+     "sha256": "c782520129595927a7c16b9b26c6569dd06b725dd2f463523186c58186d4b09e"
+    }
+   ]
+  },
+  {
+   "id": "praxis-response-resurrection",
+   "text": "praxis-response-resurrection",
+   "duration": 109.08,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-2/praxis-response-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=TqoYe4b2ElA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-resurrection.json",
+     "bytes": 1351,
+     "sha256": "46c2b6bb2d407bb59ca7f67999c5c505af05fbccb9352394bdf5243b544603f6",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/praxis-response-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1542822,
+     "sha256": "89d5815b48c12b9008f57bcd878ac1e0bfa1ee09be8f162b74b33192cab39914"
+    }
+   ]
+  },
+  {
+   "id": "procession-refrain-feast-cross",
+   "text": "procession-refrain-feast-cross",
+   "duration": 44.74,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-1/procession-refrain-feast-cross/",
+   "youtube": "https://www.youtube.com/watch?v=bxJe_TV8XO0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/procession-refrain-feast-cross.json",
+     "bytes": 689,
+     "sha256": "59f9792b8dde79112c3cb5e56b135fe8f5efd757ba315523b3c7669df4a8dcd6",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/procession-refrain-feast-cross/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 520540,
+     "sha256": "c672f4abd5071d9a943272d437d7cfaf7f972707363bb389f719ea2a8a8b1dea"
+    }
+   ]
+  },
+  {
+   "id": "psalm-150-4th-hoos",
+   "text": "psalm-150-4th-hoos",
+   "duration": 189.61,
+   "timing": {
+    "lines": 16,
+    "words": 0,
+    "of": 16
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-2/psalm-150-4th-hoos/",
+   "youtube": "https://youtu.be/XyZFvRkJyws",
+   "files": [
+    {
+     "url": "catalog/v1/timings/psalm-150-4th-hoos.json",
+     "bytes": 1505,
+     "sha256": "9945db281c4d29233d2b44d3d43da43aac45f39f3879f820939f669573bb9498",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/psalm-150-4th-hoos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2865718,
+     "sha256": "d2f908df0c084eac5678540724abe2657eba6307e69982b846baf88e4e12f8c9"
+    }
+   ]
+  },
+  {
+   "id": "psalm-response-resurrection",
+   "text": "psalm-response-resurrection",
+   "duration": 62.68,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/kg/level-1/psalm-response-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=HyvX_x_2HrQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/psalm-response-resurrection.json",
+     "bytes": 1107,
+     "sha256": "e4207d04a518a425c0f9376a741ee00c4d47de86a8d174b6a7916e209936bd9f",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/kg/level-1/psalm-response-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 801314,
+     "sha256": "49e88885f0715e03ab76d7fac00dd2ab640bc5e405457088fc90dd2b3e803ae3"
+    }
+   ]
+  },
+  {
+   "id": "refrain-third-hour-pentecost",
+   "text": "refrain-third-hour-pentecost",
+   "duration": 80.28,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/ms/level-1/refrain-third-hour-pentecost/",
+   "youtube": "https://www.youtube.com/watch?v=slWn_Rbnknk",
+   "files": [
+    {
+     "url": "catalog/v1/timings/refrain-third-hour-pentecost.json",
+     "bytes": 2276,
+     "sha256": "d84bea5c0b45109a54d575bbea7fef961bbe2fa0d0229ec6532571a05a761f17",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/ms/level-1/refrain-third-hour-pentecost/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1082535,
+     "sha256": "43733abecaf053c92aac076827a8c3bcbb47d49b5a7633ed4f07ca327d8702ea"
+    }
+   ]
+  },
+  {
+   "id": "second-doxology-apostles",
+   "text": "second-doxology-apostles",
+   "duration": 128.21,
+   "timing": {
+    "lines": 6,
+    "words": 0,
+    "of": 6
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-2/second-doxology-apostles/",
+   "youtube": "https://youtu.be/9f4HGAPySRA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-doxology-apostles.json",
+     "bytes": 748,
+     "sha256": "6a03fccae675ab3d799e4af7f43e17a632e66ec5d611fe8f24ff98ecfa1740e2",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/second-doxology-apostles/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1856550,
+     "sha256": "d6d24b0adee569c1f59a2ce671c9c0ed874289866717a9fa88819881d812d3fa"
+    }
+   ]
+  },
+  {
+   "id": "second-doxology-resurrection",
+   "text": "second-doxology-resurrection",
+   "duration": 130.35,
+   "timing": {
+    "lines": 6,
+    "words": 0,
+    "of": 6
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-1/second-doxology-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=uc-W6HZbMQA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-doxology-resurrection.json",
+     "bytes": 772,
+     "sha256": "3738ac4105c69e607b18ddde63a6945fd6e8de80291d08298551c0a0e9dbca87",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-1/second-doxology-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1910545,
+     "sha256": "b8ffd311137e8bd2a66777d895271bf20f50ec13a1feb88bf2f5c691cb7dfd5a"
+    }
+   ]
+  },
+  {
+   "id": "sotees-ameen-fast",
+   "text": "sotees-ameen-fast",
+   "duration": 42.82,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/kg/level-1/sotees-ameen-fast/",
+   "youtube": "https://www.youtube.com/watch?v=TGvH5dhbmF0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sotees-ameen-fast.json",
+     "bytes": 556,
+     "sha256": "cff243f8d8a414bf0ba45cb588e1708a9a46cfbd7797b6cc983d25af7fcd5759",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/kg/level-1/sotees-ameen-fast/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 469003,
+     "sha256": "b0b5e84572d6cc2fc0138128f2ae5f535f5daeb2ca8081b982893f84f0d181c5"
+    }
+   ]
+  },
+  {
+   "id": "st-mark-doxology-first-one",
+   "text": "st-mark-doxology-first-one",
+   "duration": 148.8,
+   "timing": {
+    "lines": 6,
+    "words": 0,
+    "of": 6
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-2/st-mark-doxology-first-one/",
+   "youtube": "https://www.youtube.com/watch?v=6vzXGvbvmnw",
+   "files": [
+    {
+     "url": "catalog/v1/timings/st-mark-doxology-first-one.json",
+     "bytes": 355,
+     "sha256": "6db14982313ab070c3fd004ee29871513e2cf5981a035e36fe230d1fcd5a04ba",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/st-mark-doxology-first-one/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2209300,
+     "sha256": "905b82f4612623dd8d9c400c6d170511afac59aba78a5974c5f1355798c3f9a7"
+    }
+   ]
+  },
+  {
+   "id": "ten-thinou",
+   "text": "ten-thinou",
+   "duration": 562.13,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/college/level-2/ten-thinou/",
+   "youtube": "https://youtu.be/pqkaJ2xs6Oc?si=hxn7AiT28rui0bbq",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-thinou.json",
+     "bytes": 112,
+     "sha256": "a9415422517be3d3881e49576a6fd8a463380287cfec12d268eba4ff031d5034",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/college/level-2/ten-thinou/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 9164718,
+     "sha256": "3a54ec05e5eb491f7f90e2e673362d020a33bace06376cd508e80017eba5e1ab"
+    }
+   ]
+  },
+  {
+   "id": "tenoue-n-khok",
+   "text": "tenoue-n-khok",
+   "duration": 407.15,
+   "timing": {
+    "lines": 6,
+    "words": 4,
+    "of": 6
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-2/tenoue-n-khok/",
+   "youtube": "https://www.youtube.com/watch?v=Dz2euPbaW_Y",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenoue-n-khok.json",
+     "bytes": 5017,
+     "sha256": "8ea16bbe9486c38c2ed918bc7f65eb553fad02e3b656c83cd386a3209f9f89ae",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-2/tenoue-n-khok/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 6432078,
+     "sha256": "d0f8bb63e84bf8b6f06377a2036a4bf615dd729070efe4c6fd4d67043cad3a77"
+    }
+   ]
+  },
+  {
+   "id": "the-thought-of-man",
+   "text": "the-thought-of-man",
+   "duration": 86.02,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-2/the-thought-of-man/",
+   "youtube": "https://www.youtube.com/watch?v=FoKPXLkfF_Q",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-thought-of-man.json",
+     "bytes": 1116,
+     "sha256": "51584542ecddd550fce505d9a6138406468895812760ffa461c5c0864fbe5aac",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/the-thought-of-man/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1177195,
+     "sha256": "731694a0acd1da510597f6d0e55e05826dfcb430f25a65c1b9f4fc56ce725b60"
+    }
+   ]
+  },
+  {
+   "id": "this-is-the-day",
+   "text": "this-is-the-day",
+   "duration": 100.35,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-1/this-is-the-day/",
+   "youtube": "https://www.youtube.com/watch?v=7B9iRv5NtmA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/this-is-the-day.json",
+     "bytes": 1144,
+     "sha256": "3ca7fb2274a1359efb71776f64e53ae749db6332b21a45261d46bb301e6d1b2d",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/this-is-the-day/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1412571,
+     "sha256": "8fa674a9979376f0cdfae2b5af830bd471560c2d8dba7a35e9ad4d1a6624def8"
+    }
+   ]
+  },
+  {
+   "id": "ton-syna",
+   "text": "ton-syna",
+   "duration": 99.61,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-3-4/level-1/ton-syna/",
+   "youtube": "https://youtu.be/ZO-D6SEOIVc",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ton-syna.json",
+     "bytes": 1842,
+     "sha256": "053e861b9ba079b86a1bceffc285d79fdde83c5425a8c5ee409c13b3bb352c61",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/ton-syna/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1405206,
+     "sha256": "f9ec6b95fdfda26419faf5e59fa4e79d577a2a7533799c829721c913391868cf"
+    }
+   ]
+  },
+  {
+   "id": "tou-lithou",
+   "text": "tou-lithou",
+   "duration": 155.75,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/hs/level-1/tou-lithou/",
+   "youtube": "https://www.youtube.com/watch?v=I23Es-AROr8",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tou-lithou.json",
+     "bytes": 4169,
+     "sha256": "ff02b831edc2dc5a109d03c33eff0280f4bd89f7aa1318db5eaa13caa90ee78e",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/hs/level-1/tou-lithou/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2321372,
+     "sha256": "952fb38dbed64e88af2c51f20906e4a88a1a31f2d735e6fe8d7c6edea109638a"
+    }
+   ]
+  },
+  {
+   "id": "verse-cymbals-feast-cross",
+   "text": "verse-cymbals-feast-cross",
+   "duration": 100.35,
+   "timing": {
+    "lines": 2,
+    "words": 2,
+    "of": 2
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-1/verse-cymbals-feast-cross/",
+   "youtube": "https://www.youtube.com/watch?v=pNvO2NtIRGs",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verse-cymbals-feast-cross.json",
+     "bytes": 2245,
+     "sha256": "91adeef298e96f271bd52d948d20cd3bd49130ba8188e16cc6688c7094f768cf",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/verse-cymbals-feast-cross/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1399196,
+     "sha256": "0684eea8dc2464ed45466aff3901e90b74e0594b2287be5eda62e95c6dca32bf"
+    }
+   ]
+  },
+  {
+   "id": "verse-cymbals-resurrection",
+   "text": "verse-cymbals-resurrection",
+   "duration": 212.67,
+   "timing": {
+    "lines": 7,
+    "words": 3,
+    "of": 7
+   },
+   "source": "content/mahragan-keraza-2026/grades-5-6/level-2/verse-cymbals-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=HvjTp7V0thU",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verse-cymbals-resurrection.json",
+     "bytes": 3992,
+     "sha256": "c8f740662c31b02ebfd19f7adb0eb185c8c75a907f4bbf8d6b9e31f911d92454",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/verse-cymbals-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 3231374,
+     "sha256": "6bff1ceb2ee0177467e4c02dea7755029186e3664bee90a098eab8b80952b8ed"
+    }
+   ]
+  },
+  {
+   "id": "verses-cymbals-resurrection",
+   "text": "verses-cymbals-resurrection",
+   "duration": 137.69,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/mahragan-keraza-2026/grades-1-2/level-2/verses-cymbals-resurrection/",
+   "youtube": "https://www.youtube.com/watch?v=iWdZ4Q_Bsbs",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verses-cymbals-resurrection.json",
+     "bytes": 145,
+     "sha256": "98d0d902f3f1cc4f9cdb4207e287b804b5ffa35166aea5143e5d63cedb6435ac",
+     "role": "timing"
+    },
+    {
+     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/verses-cymbals-resurrection/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2009481,
+     "sha256": "dce8491b9317b16a2e6df50774579c7c7d561ed7ac2996e0fd354f2fffce6b38"
+    }
+   ]
+  }
+ ]
+}

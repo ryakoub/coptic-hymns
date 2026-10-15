@@ -1,0 +1,15 @@
+{
+ "id": "onim-nai-symfonia",
+ "titles": {
+  "coptic": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "ⲱ̀ ⲛⲓⲙ ⲛⲁⲓ: ⲱ̀ ⲛⲓⲙ ⲛⲁⲓ: ⲱ̀ ⲛⲓⲙ ⲛⲁⲓ: ⲥⲩⲙⲫⲱⲛⲓⲁ",
+   "translations": {
+    "english": "Oh what are these? Oh what are these? Oh what are these? Symphonia."
+   }
+  }
+ ]
+}

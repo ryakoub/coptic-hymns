@@ -1,0 +1,134 @@
+{
+ "id": "doxology-st-mary-vespers",
+ "titles": {
+  "english": "Doxology of St. Mary Vespers"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲙ̀Ⲙⲁⲣⲓⲁⲙ: ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲉⲧ̀ⲥⲁ̀ⲡ̀ϣⲱⲓ: ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲡⲉⲥⲙⲉⲛⲣⲓⲧ: ⲉ̀ⲥⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ.",
+   "translations": {
+    "english": "The adornment of Mary, in the highest heaven, at the right hand of her Beloved, asking Him on our behalf."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲙ̀Ⲙⲁⲣⲓⲁⲙ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲉⲧ̀ⲥⲁ̀ⲡ̀ϣⲱⲓ"
+    },
+    {
+     "coptic": "ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲡⲉⲥⲙⲉⲛⲣⲓⲧ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲥⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁϥϫⲟⲥ: ⲛ̀ϫⲉ Ⲇⲁⲩⲓⲇ ϧⲉⲛ ⲡⲓⲯ̀ⲁⲗⲟⲙⲥ: ϫⲉ ⲁⲥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲥ ⲛ̀ϫⲉ ϯⲟⲩⲣⲱ: ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲙⲟⲕ ⲡ̀Ⲟⲩⲣⲟ.",
+   "translations": {
+    "english": "As David has said, in the book of Psalms, \"Upon Your right hand O King, did stand the Queen.\""
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁϥϫⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ Ⲇⲁⲩⲓⲇ ϧⲉⲛ ⲡⲓⲯ̀ⲁⲗⲟⲙⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲥ ⲛ̀ϫⲉ ϯⲟⲩⲣⲱ:"
+    },
+    {
+     "coptic": "ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲙⲟⲕ ⲡ̀Ⲟⲩⲣⲟ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲥⲟⲗⲟⲙⲱⲛ ⲙⲟⲩϯ ⲉⲣⲟⲥ: ϧⲉⲛ ⲡⲓϫⲱ ⲛ̀ⲧⲉ ⲛⲓϫⲱ: ϫⲉ ⲧⲁⲥⲱⲛⲓ ⲟⲩⲟϩ ⲧⲁϣ̀ⲫⲉⲣⲓ: ⲧⲁⲡⲟⲗⲓⲥ ⲙ̀ⲙⲏⲓ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ.",
+   "translations": {
+    "english": "Solomon has called her, in the Song of Songs, \"My sister and my spouse, my true city Jerusalem.\""
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥⲟⲗⲟⲙⲱⲛ ⲙⲟⲩϯ ⲉⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲡⲓϫⲱ ⲛ̀ⲧⲉ ⲛⲓϫⲱ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲧⲁⲥⲱⲛⲓ ⲟⲩⲟϩ ⲧⲁϣ̀ⲫⲉⲣⲓ:"
+    },
+    {
+     "coptic": "ⲧⲁⲡⲟⲗⲓⲥ ⲙ̀ⲙⲏⲓ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲁϥϯⲙⲏⲓⲛⲓ ⲅⲁⲣ ⲉ̀ⲣⲟⲥ: ϧⲉⲛ ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲁⲛ ⲉⲩϭⲟⲥⲓ: ϫⲉ ⲁ̀ⲙⲏ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲕⲏ̀ⲡⲟⲥ: ⲱ̀ ⲑⲏⲉ̀ⲧⲁⲥⲱⲧⲡ ⲛ̀ⲁ̀ⲣⲱⲙⲁⲧⲁ.",
+   "translations": {
+    "english": "For He has given a type of her, in diverse high names saying, \"Come out of your garden, O choicest aroma.\"."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁϥϯⲙⲏⲓⲛⲓ ⲅⲁⲣ ⲉ̀ⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲁⲛ ⲉⲩϭⲟⲥⲓ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁ̀ⲙⲏ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲕⲏ̀ⲡⲟⲥ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲑⲏⲉ̀ⲧⲁⲥⲱⲧⲡ ⲛ̀ⲁ̀ⲣⲱⲙⲁⲧⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ ϯⲠⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+   "translations": {
+    "english": "Hail to you O Virgin, the very and true queen, hail to the pride of our race, who gave birth to Emmanuel."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ ϯⲠⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ:"
+    },
+    {
+     "coptic": "ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "We ask you to remember us, O our trusted advocate, before our Lord Jesus Christ, that He may forgive us our sins."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀:"
+    },
+    {
+     "coptic": "ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ:"
+    },
+    {
+     "coptic": "ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "recording": "gospel-response-feast-cross",
+ "text": "gospel-response-feast-cross",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 4.5,
+   "stanzas": [
+    4.5,
+    10.04,
+    16.14,
+    22.82
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 29.09,
+   "stanzas": [
+    29.09,
+    33.75,
+    40.4,
+    46
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 52.71,
+   "stanzas": [
+    52.71,
+    58.3,
+    65.48,
+    70.83
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 77.54,
+   "stanzas": [
+    77.54,
+    83.15,
+    90.32,
+    95.73
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 102.77,
+   "stanzas": [
+    102.77,
+    109.25,
+    115.24,
+    120.85
+   ]
+  }
+ ]
+}

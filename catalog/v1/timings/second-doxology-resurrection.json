@@ -1,0 +1,66 @@
+{
+ "recording": "second-doxology-resurrection",
+ "text": "second-doxology-resurrection",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 5.59,
+   "stanzas": [
+    5.59,
+    10.385,
+    15.18,
+    19.975
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 24.77,
+   "stanzas": [
+    24.77,
+    29.615,
+    34.46,
+    39.305
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 44.15,
+   "stanzas": [
+    44.15,
+    48.83,
+    53.51,
+    58.19
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 62.87,
+   "stanzas": [
+    62.87,
+    67.168,
+    71.465,
+    75.763
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 80.06,
+   "stanzas": [
+    80.06,
+    84.382,
+    88.705,
+    93.028
+   ]
+  },
+  {
+   "line": "l6",
+   "start": 97.35,
+   "stanzas": [
+    97.35,
+    101.74,
+    106.13,
+    110.52
+   ]
+  }
+ ]
+}
