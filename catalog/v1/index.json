@@ -1,5 +1,5 @@
 {
- "version": "4aa1a87a072381ec",
+ "version": "2395a9763eda318f",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1507,7 +1507,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "first-hoos"
+    "first-hoos",
+    "first-hoos-english"
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos.json",
@@ -2837,6 +2838,36 @@
      "role": "audio",
      "bytes": 5576817,
      "sha256": "2643cda9ed86d94cc06b933ded7601d8a316a74f679bbc0b750a9940521876e4"
+    }
+   ]
+  },
+  {
+   "id": "first-hoos-english",
+   "text": "first-hoos",
+   "duration": 316.08,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/first-hoos-english.json",
+     "bytes": 78,
+     "sha256": "02c6432e28b4e68c48dd657859cdf977168c3b468d2fff7efd7a44a02c5e0c98",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/first-hoos-english/audio.mp3",
+     "role": "audio",
+     "bytes": 5058485,
+     "sha256": "ba5fb8b73834fadac43247c8ab5f0d8f23f75bbba3b24debdbd4eb2fd02d0b06"
     }
    ]
   },

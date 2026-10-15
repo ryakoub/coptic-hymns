@@ -16,7 +16,8 @@ splits them for the app and leaves content/ and the website untouched:
 A folder becomes another tune of an existing text by naming it in info.json:
   "text": "<text id>", "tune": { "english": "Lent tune" }
 and can describe its tune with "style" (major, medium, minor), "mode" (annual, festal, lenten, joyful)
-and "kind" (recital, melismatic).
+and "kind" (recital, melismatic). "language": "english" (or "arabic") marks a recording sung in that
+language: its word timings follow the line's sung text in it ("sung": {"english": …}), or else its translation.
 
 A folder places itself in the library with "places": ["resurrection/liturgy", "praises/midnight-praises"]
 (collection id / service or section id, as in catalog/library.json; an unambiguous part of the section
@@ -39,7 +40,7 @@ SCHEMA = 2
 
 COPTIC = re.compile("[Ⲁ-⳿Ϣ-ϯ]")
 AUDIO_PREFERENCE = ["audio.seek.m4a", "audio.m4a", "audio.mp3"]  # same order as the web player
-LINE_TEXT_KEYS = ("coptic", "translations", "transliterations", "role", "label", "static")
+LINE_TEXT_KEYS = ("coptic", "translations", "transliterations", "sung", "role", "label", "static")
 
 
 def sha256_bytes(data):
@@ -140,7 +141,12 @@ class Build:
         for i, l in enumerate(lines, 1):
             if l.get("label") or l.get("static") or not isinstance(l.get("start"), (int, float)):
                 continue
-            line_id = f"l{i}" if own_text else by_coptic.get(norm(l.get("coptic")))
+            # A recording of a shared text may name the line directly ("line": "l3"), as timings imported
+            # from the app do, especially for recordings sung in another language.
+            line_id = l.get("line") if l.get("line") else f"l{i}" if own_text else by_coptic.get(norm(l.get("coptic")))
+            if l.get("line") and l["line"] not in {t["id"] for t in text["lines"]}:
+                self.error(rid, f"entry {i} names line {l['line']}, which is not in text {tid}")
+                continue
             if not line_id:
                 self.error(rid, f"line {i} is not in text {tid}")
                 continue
@@ -169,7 +175,7 @@ class Build:
                  "source": folder.relative_to(ROOT).as_posix() + "/"}
         if info.get("tune"):
             entry["tune"] = info["tune"]
-        for key in ("youtube", "antiphonalGroup", "cantor", "style", "mode", "kind"):
+        for key in ("youtube", "antiphonalGroup", "cantor", "style", "mode", "kind", "language", "source"):
             if key in info:
                 entry[key] = info[key]
         if audio:
@@ -223,8 +229,11 @@ class Build:
                         elif tid and self.recordings[rid]["text"] != tid:
                             self.error(rid, f"in {where} it is listed as text {tid}, but it sings {self.recordings[rid]['text']}")
                         used.add(rid)
+        placed_texts = {self.recordings[r]["text"] for r in used if r in self.recordings}
         for rid in sorted(set(self.recordings) - used):
-            self.warn(rid, "not in the library yet")
+            # Another tune or language of a placed hymn is reached from that hymn, so it needs no place of its own.
+            if self.recordings[rid]["text"] not in placed_texts:
+                self.warn(rid, "not in the library yet")
 
 
 def main():

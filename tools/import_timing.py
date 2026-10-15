@@ -39,13 +39,61 @@ def written_words(words):
     return result
 
 
+def line_words(line, language):
+    """What a recording in `language` sings for a text line, word by word."""
+    if language == "coptic":
+        return (line.get("coptic") or "").split()
+    return ((line.get("sung") or {}).get(language) or (line.get("translations") or {}).get(language) or "").split()
+
+
+def merge_shared(path, doc, dry_run):
+    """A recording of another hymn's text (another tune or language): its timings go in its own lyrics.json
+    as entries naming the line ({"line": "l3", "start": …, "words": […]}); the text's lyrics are untouched."""
+    rec, text = doc["recording"], doc["text"]
+    folder, text_folder = find_folder(rec), find_folder(text)
+    info = json.loads((folder / "info.json").read_text(encoding="utf-8")) if (folder / "info.json").exists() else {}
+    language = info.get("language", "coptic")
+    text_lines = json.loads((text_folder / "lyrics.json").read_text(encoding="utf-8"))
+    lyrics_path = folder / "lyrics.json"
+    entries = json.loads(lyrics_path.read_text(encoding="utf-8")) if lyrics_path.exists() else []
+    by_line = {e["line"]: e for e in entries if e.get("line")}
+    changed = 0
+    for seg in doc["segments"]:
+        line_id = seg.get("line", "")
+        i = int(line_id[1:]) - 1 if line_id[1:].isdigit() else -1
+        if not 0 <= i < len(text_lines):
+            sys.exit(f"{path}: line {line_id} is not in {text}")
+        out = [{"text": w["text"], "start": round(float(w["start"]), 2), **({"end": round(float(w["end"]), 2)} if w.get("end") is not None else {}),
+                **({"trailingSpace": False} if w.get("trailingSpace") is False else {})}
+               for w in seg.get("words") or [] if w.get("start") is not None]
+        if not out:
+            continue
+        if written_words(out) != line_words(text_lines[i], language):
+            print(f"  line {i + 1}: marked words don't spell its {language} text; skipped (mark every word, or update the text)")
+            continue
+        entry = {"line": line_id, "start": out[0]["start"], "words": out}
+        if by_line.get(line_id) != entry:
+            by_line[line_id] = entry
+            changed += 1
+            print(f"  line {i + 1}: {len(out)} timed words")
+    if not changed:
+        print(f"{rec}: nothing new")
+        return
+    if dry_run:
+        print(f"{rec}: {changed} line(s) would change in {lyrics_path.relative_to(ROOT)} (dry run, nothing written)")
+        return
+    merged = sorted(by_line.values(), key=lambda e: e["start"])
+    lyrics_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{rec}: updated {changed} line(s) in {lyrics_path.relative_to(ROOT)} ({language})")
+
+
 def merge(path, dry_run):
     doc = json.loads(Path(path).read_text(encoding="utf-8"))
     rec, text = doc.get("recording"), doc.get("text")
     if not rec or not isinstance(doc.get("segments"), list):
         sys.exit(f"{path}: not a timing file exported from the app")
     if text != rec:
-        sys.exit(f"{path}: {rec} sings the text of {text}; importing timings for a shared text isn't supported yet")
+        return merge_shared(path, doc, dry_run)
     folder = find_folder(rec)
     lyrics_path = folder / "lyrics.json"
     lines = json.loads(lyrics_path.read_text(encoding="utf-8"))

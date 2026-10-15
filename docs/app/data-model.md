@@ -138,16 +138,19 @@ Later, when the website reads the catalog, texts can move to their own files and
 - Never included in exports meant for others. A timing export contains times and line ids, never PDFs or audio you added.
 - A shared copy of a hymn may include its public files and your timing edits, but not its private attachments.
 
-## Planned: recordings sung in English or Arabic
+## Recordings sung in English or Arabic
 
-Not built yet. Praises and doxologies are often sung in Coptic, English and Arabic, each with its own audio. The model leaves room for this:
+Praises and doxologies are often sung in Coptic, English and Arabic, each with its own audio. A recording sung in another language shares the hymn's text and says which language it sings:
 
-- A recording would add `"language": "coptic" | "english" | "arabic"` (Coptic when missing, as today). Its word timings would follow the words of that language.
-- Text lines would add `sung` slots (`"sung": { "english": "…", "arabic": "…" }`) for the singable version, which often differs from the literal `translations`.
-- Recordings in every language keep pointing at the same line ids, so line-by-line sync carries across languages; word timings stay per recording.
-- The hymn screen would offer a language picker beside the tune picker, showing only languages that have recordings.
+```json
+{ "text": "first-hoos", "language": "english", "tune": { "english": "English · St. Anthony Monastery" }, "source": "https://tasbeha.org/…" }
+```
 
-Until then, keep line ids stable and keep timings per recording, so this can be added without changing existing files.
+- Its word timings follow the words of that language: the line's `sung` wording when it has one (`"sung": { "english": "…" }`, for singable versions that differ from the literal translation), otherwise its translation.
+- Its own `lyrics.json` holds only timings, one entry per line, naming the line: `{ "line": "l3", "start": 12.4, "words": [ … ] }`. The text's lyrics are not touched.
+- The app shows a switch between the recordings of a text (Coptic · English) and highlights the words in the column of the language being sung.
+- `tools/import_timing.py` writes timings exported from the app into that file. A line is imported only when its marked words spell its text in that language.
+- Example: `content/english/first-hoos-english/` (St. Anthony Monastery, California, from Tasbeha.org).
 
 ## Open items
 
