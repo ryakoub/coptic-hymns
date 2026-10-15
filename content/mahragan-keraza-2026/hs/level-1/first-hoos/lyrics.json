@@ -1,177 +1,1643 @@
 [
   {
-    "start": 2.78,
+    "start": 2.61,
     "coptic": "Ⲁ̀ⲙⲏⲛ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
     "translations": {
       "english": "Amen Alleluia, Kerie leison, Kerie leison, Kerie lesion."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲙⲏⲛ",
+        "start": 2.61
+      },
+      {
+        "text": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+        "start": 3.31
+      },
+      {
+        "text": "Ⲕⲩⲣⲓⲉ",
+        "start": 4.31
+      },
+      {
+        "text": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
+        "start": 5.84
+      },
+      {
+        "text": "Ⲕⲩⲣⲓⲉ",
+        "start": 11.11
+      },
+      {
+        "text": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
+        "start": 12.11
+      },
+      {
+        "text": "Ⲕⲩⲣⲓⲉ",
+        "start": 13.61
+      },
+      {
+        "text": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+        "start": 15.51
+      }
+    ]
   },
   {
-    "start": 19.82,
+    "start": 19.38,
     "coptic": "Ⲧⲟⲧⲉ ⲁϥϩⲱⲥ ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲛⲉⲙ ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ⲧⲁⲓϩⲱⲇⲏ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ⲟⲩⲟϩ ⲁϥϫⲟⲥ ⲉⲑⲣⲟⲩϫⲟⲥ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
     "translations": {
       "english": "Then Moses and the children of Israel sang this song to the Lord, and spoke saying, \"Let us sing to the Lord for He has triumphed gloriously.\""
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲧⲟⲧⲉ",
+        "start": 19.38
+      },
+      {
+        "text": "ⲁϥϩⲱⲥ",
+        "start": 21.21
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 21.94
+      },
+      {
+        "text": "Ⲙⲱⲩ̀ⲥⲏⲥ",
+        "start": 22.71
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 23.44
+      },
+      {
+        "text": "ⲛⲉⲛϣⲏⲣⲓ",
+        "start": 24.18
+      },
+      {
+        "text": "ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ",
+        "start": 24.84
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲓϩⲱⲇⲏ",
+        "start": 26.01
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 27.21
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 28.01
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 28.71
+      },
+      {
+        "text": "ⲁϥϫⲟⲥ",
+        "start": 29.34
+      },
+      {
+        "text": "ⲉⲑⲣⲟⲩϫⲟⲥ:",
+        "start": 30.18
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 30.74
+      },
+      {
+        "text": "ⲙⲁⲣⲉⲛϩⲱⲥ",
+        "start": 31.44
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 32.51
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 33.68
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 34.21
+      },
+      {
+        "text": "ⲟⲩⲱ̀ⲟⲩ",
+        "start": 34.54
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 35.01
+      },
+      {
+        "text": "ⲁϥϭⲓⲱ̀ⲟⲩ.",
+        "start": 35.64
+      }
+    ]
   },
   {
-    "start": 38.06,
+    "start": 38.85,
     "coptic": "Ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ. Ⲟⲩⲃⲟⲏ̀ⲑⲟⲥ ⲛⲉⲙ ⲟⲩⲣⲉϥϩⲱⲃⲥ ⲉ̀ⲃⲟⲗ ϩⲓϫⲱⲓ: ⲁϥϣⲱⲡⲓ ⲛⲏⲓ ⲛ̀ⲟⲩⲥⲱⲧⲏⲣⲓⲁ.",
     "translations": {
       "english": "The horse and its rider He has thrown into the sea, the Lord is my strength and song, and He has become my salvation."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲟⲩϩ̀ⲑⲟ",
+        "start": 38.85
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 39.38
+      },
+      {
+        "text": "ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ",
+        "start": 39.85
+      },
+      {
+        "text": "ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ",
+        "start": 42.05
+      },
+      {
+        "text": "ⲉ̀ⲫ̀ⲓⲟⲙ.",
+        "start": 43.41
+      },
+      {
+        "text": "Ⲟⲩⲃⲟⲏ̀ⲑⲟⲥ",
+        "start": 44.31
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 45.48
+      },
+      {
+        "text": "ⲟⲩⲣⲉϥϩⲱⲃⲥ",
+        "start": 46.25
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 47.28
+      },
+      {
+        "text": "ϩⲓϫⲱⲓ:",
+        "start": 47.68
+      },
+      {
+        "text": "ⲁϥϣⲱⲡⲓ",
+        "start": 48.31
+      },
+      {
+        "text": "ⲛⲏⲓ",
+        "start": 48.88
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲥⲱⲧⲏⲣⲓⲁ.",
+        "start": 49.55
+      }
+    ]
   },
   {
-    "start": 52.15,
+    "start": 52.98,
     "coptic": "Ⲫⲁⲓ ⲡⲉ Ⲡⲁⲛⲟⲩϯ ϯⲛⲁϯⲱ̀ⲟⲩ ⲛⲁϥ: Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲡⲁⲓⲱⲧ ϯⲛⲁϭⲁⲥϥ.",
     "translations": {
       "english": "He is my God and I will glorify Him, my father's God and I will exalt Him."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲫⲁⲓ",
+        "start": 52.98
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 53.45
+      },
+      {
+        "text": "Ⲡⲁⲛⲟⲩϯ",
+        "start": 54.11
+      },
+      {
+        "text": "ϯⲛⲁϯⲱ̀ⲟⲩ",
+        "start": 54.75
+      },
+      {
+        "text": "ⲛⲁϥ:",
+        "start": 55.98
+      },
+      {
+        "text": "Ⲫ̀ⲛⲟⲩϯ",
+        "start": 56.58
+      },
+      {
+        "text": "ⲙ̀ⲡⲁⲓⲱⲧ",
+        "start": 57.35
+      },
+      {
+        "text": "ϯⲛⲁϭⲁⲥϥ.",
+        "start": 58.58
+      }
+    ]
   },
   {
-    "start": 61.31,
+    "start": 61.25,
     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲡⲉⲧϧⲟⲙϧⲉⲙ ⲛ̀ⲛⲓⲃⲱⲧⲥ: Ⲡ̀ϭⲟⲓⲥ ⲡⲉ ⲡⲉϥⲣⲁⲛ. Ⲛⲓⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ ⲛ̀ⲧⲉ Ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲧⲉϥϫⲟⲙ ⲧⲏⲣⲥ ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ.",
     "translations": {
       "english": "The Lord is a Man of war, the Lord is His name. Pharaoh's chariots and his army He has cast into the sea."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 61.25
+      },
+      {
+        "text": "ⲡⲉⲧϧⲟⲙϧⲉⲙ",
+        "start": 61.75
+      },
+      {
+        "text": "ⲛ̀ⲛⲓⲃⲱⲧⲥ:",
+        "start": 63.08
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 64.61
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 65.11
+      },
+      {
+        "text": "ⲡⲉϥⲣⲁⲛ.",
+        "start": 65.61
+      },
+      {
+        "text": "Ⲛⲓⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ",
+        "start": 66.21
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 67.18
+      },
+      {
+        "text": "Ⲫⲁⲣⲁⲱ̀",
+        "start": 67.81
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 68.48
+      },
+      {
+        "text": "ⲧⲉϥϫⲟⲙ",
+        "start": 69.08
+      },
+      {
+        "text": "ⲧⲏⲣⲥ",
+        "start": 69.28
+      },
+      {
+        "text": "ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ",
+        "start": 70.35
+      },
+      {
+        "text": "ⲉ̀ⲫ̀ⲓⲟⲙ.",
+        "start": 71.15
+      }
+    ]
   },
   {
-    "start": 72.89,
+    "start": 73.85,
     "coptic": "Ϩⲁⲛⲥⲱⲧⲡ ⲛ̀ⲁ̀ⲛⲁⲃⲁⲧⲏⲥ ⲛ̀ⲧ̀ⲣⲓⲥⲧⲁⲧⲏⲥ ⲁϥϫⲟⲗⲕⲟⲩ ϧⲉⲛ ⲫ̀ⲓⲟⲙ ⲛ̀ϣⲁⲣⲓ.",
     "translations": {
       "english": "His chosen captains also drowned in the Red Sea."
-    }
+    },
+    "words": [
+      {
+        "text": "Ϩⲁⲛⲥⲱⲧⲡ",
+        "start": 73.85
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲛⲁⲃⲁⲧⲏⲥ",
+        "start": 75.08
+      },
+      {
+        "text": "ⲛ̀ⲧ̀ⲣⲓⲥⲧⲁⲧⲏⲥ",
+        "start": 76.91
+      },
+      {
+        "text": "ⲁϥϫⲟⲗⲕⲟⲩ",
+        "start": 78.81
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 79.35
+      },
+      {
+        "text": "ⲫ̀ⲓⲟⲙ",
+        "start": 79.65
+      },
+      {
+        "text": "ⲛ̀ϣⲁⲣⲓ.",
+        "start": 80.08
+      }
+    ]
   },
   {
-    "start": 81.76,
+    "start": 82.88,
     "coptic": "Ⲁϥϩⲱⲃⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ: ⲁⲩⲱⲙⲥ ⲉ̀ϧ̀ⲣⲏⲓ ⲉ̀ⲡⲉⲧϣⲏⲕ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲱ̀ⲛⲓ.",
     "translations": {
       "english": "The depths have covered them, they sank to the bottom like a stone."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁϥϩⲱⲃⲥ",
+        "start": 82.88
+      },
+      {
+        "text": "ⲉ̀ϩ̀ⲣⲏⲓ",
+        "start": 84.01
+      },
+      {
+        "text": "ⲉ̀ϫⲱⲟⲩ",
+        "start": 84.51
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 86.15
+      },
+      {
+        "text": "ⲡⲓⲙⲱⲟⲩ:",
+        "start": 86.88
+      },
+      {
+        "text": "ⲁⲩⲱⲙⲥ",
+        "start": 88.18
+      },
+      {
+        "text": "ⲉ̀ϧ̀ⲣⲏⲓ",
+        "start": 89.25
+      },
+      {
+        "text": "ⲉ̀ⲡⲉⲧϣⲏⲕ",
+        "start": 90.48
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲣⲏϯ",
+        "start": 91.68
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲱ̀ⲛⲓ.",
+        "start": 93.08
+      }
+    ]
   },
   {
-    "start": 94.85,
+    "start": 96.08,
     "coptic": "Ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ Ⲡ̀ϭⲟⲓⲥ ⲁⲥϭⲓⲱ̀ⲟⲩ ϧⲉⲛ ⲟⲩϫⲟⲙ. Ⲧⲉⲕϫⲓϫ ⲛ̀ⲟⲩⲓ̀ⲛⲁⲙ Ⲡⲁⲛⲟⲩϯ ⲁⲥⲧⲁⲕⲉ ⲛⲉⲕϫⲁϫⲓ.",
     "translations": {
       "english": "Your right hand O Lord, has become glorious in power. Your right hand O Lord, has dashed the enemy in pieces."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ",
+        "start": 96.08
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 97.55
+      },
+      {
+        "text": "ⲁⲥϭⲓⲱ̀ⲟⲩ",
+        "start": 98.55
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 100.25
+      },
+      {
+        "text": "ⲟⲩϫⲟⲙ.",
+        "start": 100.61
+      },
+      {
+        "text": "Ⲧⲉⲕϫⲓϫ",
+        "start": 101.61
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲓ̀ⲛⲁⲙ",
+        "start": 102.68
+      },
+      {
+        "text": "Ⲡⲁⲛⲟⲩϯ",
+        "start": 103.65
+      },
+      {
+        "text": "ⲁⲥⲧⲁⲕⲉ",
+        "start": 104.38
+      },
+      {
+        "text": "ⲛⲉⲕϫⲁϫⲓ.",
+        "start": 105.21
+      }
+    ]
   },
   {
-    "start": 106.78,
+    "start": 107.65,
     "coptic": "Ϧⲉⲛ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ: ⲁⲕϧⲟⲙϧⲉⲙ ⲛ̀ⲛⲏⲉⲧϯⲟⲩⲃⲏⲛ: ⲁⲕⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉⲕϫⲱⲛⲧ: ⲁϥⲟⲩⲟ̀ⲙⲟⲩ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛⲣⲱⲟⲩⲓ̀.",
     "translations": {
       "english": "And in the greatness of Your excellence, You have overthrown those who rose against You. You sent forth Your wrath, it consumed them like stubble."
-    }
+    },
+    "words": [
+      {
+        "text": "Ϧⲉⲛ",
+        "start": 107.65
+      },
+      {
+        "text": "ⲡ̀ⲁ̀ϣⲁⲓ",
+        "start": 108.18
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 108.88
+      },
+      {
+        "text": "ⲡⲉⲕⲱ̀ⲟⲩ:",
+        "start": 109.51
+      },
+      {
+        "text": "ⲁⲕϧⲟⲙϧⲉⲙ",
+        "start": 110.18
+      },
+      {
+        "text": "ⲛ̀ⲛⲏⲉⲧϯⲟⲩⲃⲏⲛ:",
+        "start": 111.41
+      },
+      {
+        "text": "ⲁⲕⲟⲩⲱⲣⲡ",
+        "start": 113.25
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲕϫⲱⲛⲧ:",
+        "start": 114.58
+      },
+      {
+        "text": "ⲁϥⲟⲩⲟ̀ⲙⲟⲩ",
+        "start": 115.51
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲣⲏϯ",
+        "start": 116.78
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛⲣⲱⲟⲩⲓ̀.",
+        "start": 118.35
+      }
+    ]
   },
   {
-    "start": 121.16,
+    "start": 121.18,
     "coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲛ̀ⲧⲉ ⲡⲉⲕⲙ̀ⲃⲟⲛ ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ: ⲁⲩϭⲓⲥⲓ ⲛ̀ϫⲉ ⲛⲓⲙⲱⲟⲩ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲥⲟⲃⲧ: ⲁⲩϭⲱⲥ ⲛ̀ϫⲉ ⲛⲓϫⲟⲗ ϧⲉⲛ ⲑ̀ⲙⲏϯ ⲙ̀ⲫ̀ⲓⲟⲙ.",
     "translations": {
       "english": "And with the blast of Your nostrils the waters were gathered together, the flood stood upright like a heap, and the depths congealed in the heart of the sea."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲉ̀ⲃⲟⲗ",
+        "start": 121.18
+      },
+      {
+        "text": "ϩⲓⲧⲉⲛ",
+        "start": 121.71
+      },
+      {
+        "text": "ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
+        "start": 122.45
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 123.35
+      },
+      {
+        "text": "ⲡⲉⲕⲙ̀ⲃⲟⲛ",
+        "start": 124.05
+      },
+      {
+        "text": "ⲁϥⲟ̀ϩⲓ",
+        "start": 124.81
+      },
+      {
+        "text": "ⲉ̀ⲣⲁⲧϥ",
+        "start": 125.48
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 125.98
+      },
+      {
+        "text": "ⲡⲓⲙⲱⲟⲩ:",
+        "start": 126.55
+      },
+      {
+        "text": "ⲁⲩϭⲓⲥⲓ",
+        "start": 127.41
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 128.38
+      },
+      {
+        "text": "ⲛⲓⲙⲱⲟⲩ",
+        "start": 128.88
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲣⲏϯ",
+        "start": 129.75
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲥⲟⲃⲧ:",
+        "start": 131.18
+      },
+      {
+        "text": "ⲁⲩϭⲱⲥ",
+        "start": 132.25
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 133.25
+      },
+      {
+        "text": "ⲛⲓϫⲟⲗ",
+        "start": 133.91
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 134.51
+      },
+      {
+        "text": "ⲑ̀ⲙⲏϯ",
+        "start": 135.08
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲓⲟⲙ.",
+        "start": 135.75
+      }
+    ]
   },
   {
-    "start": 137.92,
+    "start": 138.45,
     "coptic": "Ⲁϥϫⲟⲥ ⲅⲁⲣ ⲛ̀ϫⲉ ⲡⲓϫⲁϫⲓ: ϫⲉ ϯⲛⲁϭⲟϫⲓ ⲛ̀ⲧⲁⲧⲁϩⲟ: ⲛ̀ⲧⲁⲫⲱϣ ⲛ̀ϩⲁⲛϣⲱⲗ: ⲛ̀ⲧⲁⲧ̀ⲥⲓⲟ ⲛ̀ⲧⲁⲯⲩⲭⲏ: ⲛ̀ⲧⲁϧⲱⲧⲉⲃ ϧⲉⲛ ⲧⲁⲥⲏϥⲓ ⲛ̀ⲧⲉ ⲧⲁϫⲓϫ ⲉⲣϭⲟⲓⲥ.",
     "translations": {
       "english": "The enemy said, \"I will pursue, I will overtake, I will divide the spoil, my desire shall be satisfied on them, I will draw my sword, and my hand shall destroy them.\""
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁϥϫⲟⲥ",
+        "start": 138.45
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 138.91
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 139.45
+      },
+      {
+        "text": "ⲡⲓϫⲁϫⲓ:",
+        "start": 140.08
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 140.75
+      },
+      {
+        "text": "ϯⲛⲁϭⲟϫⲓ",
+        "start": 141.35
+      },
+      {
+        "text": "ⲛ̀ⲧⲁⲧⲁϩⲟ:",
+        "start": 142.55
+      },
+      {
+        "text": "ⲛ̀ⲧⲁⲫⲱϣ",
+        "start": 143.75
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛϣⲱⲗ:",
+        "start": 145.05
+      },
+      {
+        "text": "ⲛ̀ⲧⲁⲧ̀ⲥⲓⲟ",
+        "start": 146.28
+      },
+      {
+        "text": "ⲛ̀ⲧⲁⲯⲩⲭⲏ:",
+        "start": 147.31
+      },
+      {
+        "text": "ⲛ̀ⲧⲁϧⲱⲧⲉⲃ",
+        "start": 148.51
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 149.68
+      },
+      {
+        "text": "ⲧⲁⲥⲏϥⲓ",
+        "start": 150.28
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 150.81
+      },
+      {
+        "text": "ⲧⲁϫⲓϫ",
+        "start": 151.45
+      },
+      {
+        "text": "ⲉⲣϭⲟⲓⲥ.",
+        "start": 152.15
+      }
+    ]
   },
   {
-    "start": 154.99,
+    "start": 155.05,
     "coptic": "Ⲁⲕⲟⲩⲱⲣⲡ ⲙ̀Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ: ⲁϥϩⲟⲃⲥⲟⲩ ⲛ̀ϫⲉ ⲫ̀ⲓⲟⲙ: ⲁⲩⲱⲙⲥ ⲉ̀ⲡⲉⲥⲏⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲧⲁⲧϩ ϧⲉⲛ ϩⲁⲛⲙⲱⲟⲩ ⲉⲩⲟϣ.",
     "translations": {
       "english": "You blew with Your wind, the sea covered them, they sank like lead in the mighty waters."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲕⲟⲩⲱⲣⲡ",
+        "start": 155.05
+      },
+      {
+        "text": "ⲙ̀Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ:",
+        "start": 156.08
+      },
+      {
+        "text": "ⲁϥϩⲟⲃⲥⲟⲩ",
+        "start": 157.11
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 157.88
+      },
+      {
+        "text": "ⲫ̀ⲓⲟⲙ:",
+        "start": 158.68
+      },
+      {
+        "text": "ⲁⲩⲱⲙⲥ",
+        "start": 159.61
+      },
+      {
+        "text": "ⲉ̀ⲡⲉⲥⲏⲧ",
+        "start": 160.85
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲣⲏϯ",
+        "start": 161.85
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲧⲁⲧϩ",
+        "start": 163.18
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 164.18
+      },
+      {
+        "text": "ϩⲁⲛⲙⲱⲟⲩ",
+        "start": 164.65
+      },
+      {
+        "text": "ⲉⲩⲟϣ.",
+        "start": 165.45
+      }
+    ]
   },
   {
-    "start": 167.05,
+    "start": 167.78,
     "coptic": "Ⲛⲓⲙ ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ Ⲡ̀ϭⲟⲓⲥ. Ⲛⲓⲙ ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ: ⲉ̀ⲁⲩϯⲱ̀ⲟⲩ ⲛⲁⲕ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ: ⲉⲩⲉⲣϣ̀ⲫⲏⲣⲓ ⲙ̀ⲙⲟⲕ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ: ⲉⲕⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛϣ̀ⲫⲏⲣⲓ.",
     "translations": {
       "english": "Who is like You O Lord, among the gods. Who is like You, glorified in his saints, amazing in glory, performing wonders."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲛⲓⲙ",
+        "start": 167.78
+      },
+      {
+        "text": "ⲉⲧⲟ̀ⲛⲓ",
+        "start": 168.25
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲕ",
+        "start": 168.75
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 169.35
+      },
+      {
+        "text": "ⲛⲓⲛⲟⲩϯ",
+        "start": 169.91
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ.",
+        "start": 170.38
+      },
+      {
+        "text": "Ⲛⲓⲙ",
+        "start": 171.11
+      },
+      {
+        "text": "ⲉⲧⲟ̀ⲛⲓ",
+        "start": 171.65
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲕ:",
+        "start": 172.15
+      },
+      {
+        "text": "ⲉ̀ⲁⲩϯⲱ̀ⲟⲩ",
+        "start": 172.88
+      },
+      {
+        "text": "ⲛⲁⲕ",
+        "start": 173.71
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 174.55
+      },
+      {
+        "text": "ⲛⲏⲉⲑⲟⲩⲁⲃ",
+        "start": 175.08
+      },
+      {
+        "text": "ⲛ̀ⲧⲁⲕ:",
+        "start": 176.11
+      },
+      {
+        "text": "ⲉⲩⲉⲣϣ̀ⲫⲏⲣⲓ",
+        "start": 176.78
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲕ",
+        "start": 177.85
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 178.28
+      },
+      {
+        "text": "ⲟⲩⲱ̀ⲟⲩ:",
+        "start": 179.05
+      },
+      {
+        "text": "ⲉⲕⲓ̀ⲣⲓ",
+        "start": 179.78
+      },
+      {
+        "text": "ⲛ̀ϩⲁⲛϣ̀ⲫⲏⲣⲓ.",
+        "start": 180.41
+      }
+    ]
   },
   {
-    "start": 182.93,
+    "start": 183.88,
     "coptic": "Ⲁⲕⲥⲟⲩⲧⲉⲛ ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ ⲉ̀ⲃⲟⲗ ⲁϥⲟⲙⲕⲟⲩ ⲛ̀ϫⲉ ⲡ̀ⲕⲁϩⲓ. Ⲁⲕϭⲓⲙⲱⲓⲧ ϧⲁϫⲱϥ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲫⲁⲓ ⲉ̀ⲧⲁⲕⲥⲟⲧⲡϥ: ⲁⲕϯϫⲟⲙ ⲛⲁϥ ϧⲉⲛ ⲧⲉⲕⲛⲟⲙϯ: ⲉⲩⲙⲁ ⲛ̀ⲉⲙⲧⲟⲛ ⲉϥⲟⲩⲁⲃ ⲛⲁⲕ.",
     "translations": {
       "english": "You stretched out Your right hand, the earth swallowed them. You in Your mercy, have led forth the people whom You have redeemed. You have guided them in Your strength, to Your holy habitation."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲕⲥⲟⲩⲧⲉⲛ",
+        "start": 183.88
+      },
+      {
+        "text": "ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ",
+        "start": 185.05
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 186.51
+      },
+      {
+        "text": "ⲁϥⲟⲙⲕⲟⲩ",
+        "start": 187.18
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 187.78
+      },
+      {
+        "text": "ⲡ̀ⲕⲁϩⲓ.",
+        "start": 188.35
+      },
+      {
+        "text": "Ⲁⲕϭⲓⲙⲱⲓⲧ",
+        "start": 188.98
+      },
+      {
+        "text": "ϧⲁϫⲱϥ",
+        "start": 189.91
+      },
+      {
+        "text": "ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ",
+        "start": 190.68
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 191.65
+      },
+      {
+        "text": "ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+        "start": 192.21
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 192.88
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲕⲥⲟⲧⲡϥ:",
+        "start": 193.48
+      },
+      {
+        "text": "ⲁⲕϯϫⲟⲙ",
+        "start": 194.38
+      },
+      {
+        "text": "ⲛⲁϥ",
+        "start": 195.18
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 195.75
+      },
+      {
+        "text": "ⲧⲉⲕⲛⲟⲙϯ:",
+        "start": 196.31
+      },
+      {
+        "text": "ⲉⲩⲙⲁ",
+        "start": 196.88
+      },
+      {
+        "text": "ⲛ̀ⲉⲙⲧⲟⲛ",
+        "start": 197.35
+      },
+      {
+        "text": "ⲉϥⲟⲩⲁⲃ",
+        "start": 198.18
+      },
+      {
+        "text": "ⲛⲁⲕ.",
+        "start": 199.38
+      }
+    ]
   },
   {
-    "start": 200.38,
+    "start": 201.31,
     "coptic": "Ⲁⲩⲥⲱⲧⲉⲙ ⲛ̀ϫⲉ ϩⲁⲛⲉⲑⲛⲟⲥ ⲟⲩⲟϩ ⲁⲩϫⲱⲛⲧ: ϩⲁⲛⲛⲁⲕϩⲓ ⲁⲩϭⲓ ⲛ̀ⲛⲏⲉⲧϣⲟⲡ ϧⲉⲛ Ⲛⲓⲫⲩⲗⲓⲥⲧⲓⲙ.",
     "translations": {
       "english": "The people will hear and be afraid, sorrow will take hold of the inhabitants of Palestine."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲩⲥⲱⲧⲉⲙ",
+        "start": 201.31
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 202.15
+      },
+      {
+        "text": "ϩⲁⲛⲉⲑⲛⲟⲥ",
+        "start": 202.85
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 203.68
+      },
+      {
+        "text": "ⲁⲩϫⲱⲛⲧ:",
+        "start": 204.25
+      },
+      {
+        "text": "ϩⲁⲛⲛⲁⲕϩⲓ",
+        "start": 205.05
+      },
+      {
+        "text": "ⲁⲩϭⲓ",
+        "start": 205.95
+      },
+      {
+        "text": "ⲛ̀ⲛⲏⲉⲧϣⲟⲡ",
+        "start": 207.11
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 208.31
+      },
+      {
+        "text": "Ⲛⲓⲫⲩⲗⲓⲥⲧⲓⲙ.",
+        "start": 208.88
+      }
+    ]
   },
   {
-    "start": 210.85,
+    "start": 211.31,
     "coptic": "Ⲧⲟⲧⲉ ⲁⲩⲓⲏⲥ ⲙ̀ⲙⲱⲟⲩ ⲛ̀ϫⲉ ⲛⲓϩⲏⲅⲉⲙⲱⲛ ⲛ̀ⲧⲉ Ⲉ̀ⲇⲱⲙ: ⲛⲓⲁⲣⲭⲱⲛ ⲛ̀ⲧⲉ Ⲛⲓⲙⲱⲁ̀ⲃⲓⲧⲏⲥ ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ ⲡⲉ ⲉ̀ⲧⲁϥϭⲓⲧⲟⲩ.",
     "translations": {
       "english": "Then the chiefs of Edom will be dismayed, the mighty men of Moab trembling, will take hold of them."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲧⲟⲧⲉ",
+        "start": 211.31
+      },
+      {
+        "text": "ⲁⲩⲓⲏⲥ",
+        "start": 212.25
+      },
+      {
+        "text": "ⲙ̀ⲙⲱⲟⲩ",
+        "start": 213.18
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 214.08
+      },
+      {
+        "text": "ⲛⲓϩⲏⲅⲉⲙⲱⲛ",
+        "start": 214.81
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 215.81
+      },
+      {
+        "text": "Ⲉ̀ⲇⲱⲙ:",
+        "start": 216.45
+      },
+      {
+        "text": "ⲛⲓⲁⲣⲭⲱⲛ",
+        "start": 217.31
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 218.08
+      },
+      {
+        "text": "Ⲛⲓⲙⲱⲁ̀ⲃⲓⲧⲏⲥ",
+        "start": 218.71
+      },
+      {
+        "text": "ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ",
+        "start": 219.68
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 220.38
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥϭⲓⲧⲟⲩ.",
+        "start": 221.45
+      }
+    ]
   },
   {
-    "start": 223.66,
+    "start": 224.51,
     "coptic": "Ⲁⲩⲃⲱⲗ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲧϣⲟⲡ ϧⲉⲛ Ⲭⲁⲛⲁⲁⲛ: ⲁϥⲓ̀ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ ⲛ̀ϫⲉ ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ ⲛⲉⲙ ⲟⲩϩⲟϯ.",
     "translations": {
       "english": "All the inhabitants of Canaan will melt away, fear and dread will fall on them."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲩⲃⲱⲗ",
+        "start": 224.51
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 225.05
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 225.65
+      },
+      {
+        "text": "ⲟⲩⲟⲛ",
+        "start": 226.25
+      },
+      {
+        "text": "ⲛⲓⲃⲉⲛ",
+        "start": 226.85
+      },
+      {
+        "text": "ⲉⲧϣⲟⲡ",
+        "start": 227.41
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 227.98
+      },
+      {
+        "text": "Ⲭⲁⲛⲁⲁⲛ:",
+        "start": 228.48
+      },
+      {
+        "text": "ⲁϥⲓ̀",
+        "start": 228.98
+      },
+      {
+        "text": "ⲉ̀ϩ̀ⲣⲏⲓ",
+        "start": 229.58
+      },
+      {
+        "text": "ⲉ̀ϫⲱⲟⲩ",
+        "start": 230.31
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 230.95
+      },
+      {
+        "text": "ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ",
+        "start": 231.81
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 233.01
+      },
+      {
+        "text": "ⲟⲩϩⲟϯ.",
+        "start": 233.58
+      }
+    ]
   },
   {
-    "start": 235.73,
+    "start": 236.45,
     "coptic": "Ϧⲉⲛ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕϫ̀ⲫⲟⲓ ⲙⲁⲣⲟⲩⲉⲣⲱ̀ⲛⲓ: ϣⲁⲧⲉϥⲥⲓⲛⲓ ⲛ̀ϫⲉ ⲡⲉⲕⲗⲁⲟⲥ Ⲡ̀ϭⲟⲓⲥ: ϣⲁⲧⲉϥⲥⲓⲛⲓ ⲛ̀ϫⲉ ⲡⲉⲕⲗⲁⲟⲥ: ⲫⲁⲓ ⲉ̀ⲧⲁⲕϫ̀ⲫⲟϥ.",
     "translations": {
       "english": "By the greatness of Your arm, they will be as still as a stone, till Your people pass over O Lord, till Your people pass over, whom You have purchased."
-    }
+    },
+    "words": [
+      {
+        "text": "Ϧⲉⲛ",
+        "start": 236.45
+      },
+      {
+        "text": "ⲡ̀ⲁ̀ϣⲁⲓ",
+        "start": 236.98
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 237.61
+      },
+      {
+        "text": "ⲡⲉⲕϫ̀ⲫⲟⲓ",
+        "start": 238.18
+      },
+      {
+        "text": "ⲙⲁⲣⲟⲩⲉⲣⲱ̀ⲛⲓ:",
+        "start": 238.91
+      },
+      {
+        "text": "ϣⲁⲧⲉϥⲥⲓⲛⲓ",
+        "start": 240.98
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 241.35
+      },
+      {
+        "text": "ⲡⲉⲕⲗⲁⲟⲥ",
+        "start": 241.91
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ:",
+        "start": 242.65
+      },
+      {
+        "text": "ϣⲁⲧⲉϥⲥⲓⲛⲓ",
+        "start": 243.31
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 244.08
+      },
+      {
+        "text": "ⲡⲉⲕⲗⲁⲟⲥ:",
+        "start": 244.75
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 245.45
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲕϫ̀ⲫⲟϥ.",
+        "start": 246.25
+      }
+    ]
   },
   {
-    "start": 247.78,
+    "start": 248.78,
     "coptic": "Ⲁ̀ⲛⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ ⲧⲟϫⲟⲩ ϩⲓϫⲉⲛ ⲟⲩⲧⲱⲟⲩ ⲛ̀ⲧⲉ ⲧⲉⲕⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ: ⲛⲉⲙ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲉⲕⲙⲁⲛ̀ϣⲱⲡⲓ ⲉⲧⲥⲉⲃⲧⲱⲧ: ⲫⲁⲓ ⲉ̀ⲧⲁⲕⲉⲣϩⲱⲃ ⲉ̀ⲣⲟϥ Ⲡ̀ϭⲟⲓⲥ.",
     "translations": {
       "english": "You will bring them in, and plant them in the mountain of Your inheritance, in the place O Lord, which You have made for Your own dwelling."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲛⲓⲧⲟⲩ",
+        "start": 248.78
+      },
+      {
+        "text": "ⲉ̀ϧⲟⲩⲛ",
+        "start": 249.35
+      },
+      {
+        "text": "ⲧⲟϫⲟⲩ",
+        "start": 250.08
+      },
+      {
+        "text": "ϩⲓϫⲉⲛ",
+        "start": 250.65
+      },
+      {
+        "text": "ⲟⲩⲧⲱⲟⲩ",
+        "start": 251.21
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 251.88
+      },
+      {
+        "text": "ⲧⲉⲕⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ:",
+        "start": 252.48
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 253.45
+      },
+      {
+        "text": "ⲉ̀ϧⲟⲩⲛ",
+        "start": 254.31
+      },
+      {
+        "text": "ⲉ̀ⲡⲉⲕⲙⲁⲛ̀ϣⲱⲡⲓ",
+        "start": 255.05
+      },
+      {
+        "text": "ⲉⲧⲥⲉⲃⲧⲱⲧ:",
+        "start": 256.18
+      },
+      {
+        "text": "ⲫⲁⲓ",
+        "start": 257.25
+      },
+      {
+        "text": "ⲉ̀ⲧⲁⲕⲉⲣϩⲱⲃ",
+        "start": 257.85
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 258.81
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ.",
+        "start": 259.45
+      }
+    ]
   },
   {
-    "start": 260.77,
+    "start": 261.45,
     "coptic": "Ⲡⲉⲕⲙⲁ ⲉⲑⲟⲩⲁⲃ Ⲡ̀ϭⲟⲓⲥ ⲫⲏⲉ̀ⲧⲁⲩⲥⲉⲃⲧⲱⲧϥ ⲛ̀ϫⲉ ⲛⲉⲕϫⲓϫ: Ⲡ̀ϭⲟⲓⲥ ⲉⲕⲟⲓ ⲛ̀ⲟⲩⲣⲟ ϣⲁ ⲉ̀ⲛⲉϩ ⲛⲉⲙ ⲓⲥϫⲉⲛ ⲡ̀ⲉ̀ⲛⲉϩ ⲟⲩⲟϩ ⲉ̀ⲧⲓ.",
     "translations": {
       "english": "Your sanctuary O Lord, which Your hands have established, the Lord shall reign forever and ever."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲡⲉⲕⲙⲁ",
+        "start": 261.45
+      },
+      {
+        "text": "ⲉⲑⲟⲩⲁⲃ",
+        "start": 262.35
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 262.88
+      },
+      {
+        "text": "ⲫⲏⲉ̀ⲧⲁⲩⲥⲉⲃⲧⲱⲧϥ",
+        "start": 263.61
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 265.01
+      },
+      {
+        "text": "ⲛⲉⲕϫⲓϫ:",
+        "start": 265.65
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 266.21
+      },
+      {
+        "text": "ⲉⲕⲟⲓ",
+        "start": 266.85
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲣⲟ",
+        "start": 267.38
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 267.95
+      },
+      {
+        "text": "ⲉ̀ⲛⲉϩ",
+        "start": 268.45
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 269.21
+      },
+      {
+        "text": "ⲓⲥϫⲉⲛ",
+        "start": 269.68
+      },
+      {
+        "text": "ⲡ̀ⲉ̀ⲛⲉϩ",
+        "start": 270.55
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 271.21
+      },
+      {
+        "text": "ⲉ̀ⲧⲓ.",
+        "start": 271.81
+      }
+    ]
   },
   {
-    "start": 273.00,
+    "start": 274.05,
     "coptic": "Ϫⲉ ⲁⲩⲓ̀ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲫ̀ⲓⲟⲙ ⲛ̀ϫⲉ ⲛⲓϩ̀ⲑⲱⲣ ⲛ̀ⲧⲉ Ⲫⲁⲣⲁⲱ̀: ⲛⲉⲙ ⲛⲉϥⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ ⲛⲉⲙ ⲛⲉϥϭⲁⲥⲓϩ̀ⲑⲟ.",
     "translations": {
       "english": "For the horses of Pharaoh, went with his chariots and his horsemen into the sea."
-    }
+    },
+    "words": [
+      {
+        "text": "Ϫⲉ",
+        "start": 274.05
+      },
+      {
+        "text": "ⲁⲩⲓ̀",
+        "start": 274.55
+      },
+      {
+        "text": "ⲉ̀ϧⲟⲩⲛ",
+        "start": 275.08
+      },
+      {
+        "text": "ⲉ̀ⲫ̀ⲓⲟⲙ",
+        "start": 275.65
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 276.61
+      },
+      {
+        "text": "ⲛⲓϩ̀ⲑⲱⲣ",
+        "start": 277.21
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 277.78
+      },
+      {
+        "text": "Ⲫⲁⲣⲁⲱ̀:",
+        "start": 278.25
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 278.71
+      },
+      {
+        "text": "ⲛⲉϥⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ",
+        "start": 279.35
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 280.48
+      },
+      {
+        "text": "ⲛⲉϥϭⲁⲥⲓϩ̀ⲑⲟ.",
+        "start": 280.95
+      }
+    ]
   },
   {
-    "start": 283.48,
+    "start": 284.18,
     "coptic": "Ⲁ̀ Ⲡ̀ϭⲟⲓⲥ ⲉⲛ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ: ⲛⲉⲛϣⲏⲣⲓ ⲇⲉ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ ⲛⲁⲩⲙⲟϣⲓ ϧⲉⲛ ⲡⲉⲧϣⲟⲩⲱ̀ⲟⲩ ϧⲉⲛ ⲑ̀ⲙⲏϯ ⲙ̀ⲫ̀ⲓⲟⲙ.",
     "translations": {
       "english": "The Lord came in the sea with His might, and the children of Israel went on dry land in the midst of the sea."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀",
+        "start": 284.18
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 284.55
+      },
+      {
+        "text": "ⲉⲛ",
+        "start": 285.11
+      },
+      {
+        "text": "ⲡⲓⲙⲱⲟⲩ",
+        "start": 285.61
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 286.11
+      },
+      {
+        "text": "ⲫ̀ⲓⲟⲙ",
+        "start": 286.65
+      },
+      {
+        "text": "ⲉ̀ϩ̀ⲣⲏⲓ",
+        "start": 287.28
+      },
+      {
+        "text": "ⲉ̀ϫⲱⲟⲩ:",
+        "start": 287.81
+      },
+      {
+        "text": "ⲛⲉⲛϣⲏⲣⲓ",
+        "start": 288.38
+      },
+      {
+        "text": "ⲇⲉ",
+        "start": 288.81
+      },
+      {
+        "text": "ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ",
+        "start": 289.41
+      },
+      {
+        "text": "ⲛⲁⲩⲙⲟϣⲓ",
+        "start": 290.28
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 291.01
+      },
+      {
+        "text": "ⲡⲉⲧϣⲟⲩⲱ̀ⲟⲩ",
+        "start": 291.58
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 292.78
+      },
+      {
+        "text": "ⲑ̀ⲙⲏϯ",
+        "start": 293.35
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲓⲟⲙ.",
+        "start": 294.05
+      }
+    ]
   },
   {
-    "start": 295.67,
+    "start": 296.41,
     "coptic": "Ⲁⲥϭⲓ ⲇⲉ ⲛⲁⲥ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁⲙ ϯⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲧ̀ⲥⲱⲛⲓ ⲛ̀Ⲁ̀ⲁ̀ⲣⲱⲛ ⲙ̀ⲡⲓⲕⲉⲙⲕⲉⲙ ϧⲉⲛ ⲛⲉⲥϫⲓϫ: ⲟⲩⲟϩ ⲁⲩⲓ̀ ⲉ̀ⲃⲟⲗ ⲥⲁⲙⲉⲛϩⲏⲥ ⲛ̀ϫⲉ ⲛⲓϩⲓⲟⲙⲓ ⲧⲏⲣⲟⲩ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ϩⲁⲛϩⲱⲥ.",
     "translations": {
       "english": "Then Miriam the prophetess, the sister of Aaron, took the timbrel in her hand, and all the women went out after her, with timbrels and with praises."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲥϭⲓ",
+        "start": 296.41
+      },
+      {
+        "text": "ⲇⲉ",
+        "start": 297.05
+      },
+      {
+        "text": "ⲛⲁⲥ",
+        "start": 297.61
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 298.18
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁⲙ",
+        "start": 298.55
+      },
+      {
+        "text": "ϯⲡ̀ⲣⲟⲫⲏⲧⲏⲥ",
+        "start": 299.38
+      },
+      {
+        "text": "ⲧ̀ⲥⲱⲛⲓ",
+        "start": 300.55
+      },
+      {
+        "text": "ⲛ̀Ⲁ̀ⲁ̀ⲣⲱⲛ",
+        "start": 301.25
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲕⲉⲙⲕⲉⲙ",
+        "start": 302.25
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 303.11
+      },
+      {
+        "text": "ⲛⲉⲥϫⲓϫ:",
+        "start": 304.15
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 304.68
+      },
+      {
+        "text": "ⲁⲩⲓ̀",
+        "start": 305.15
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 305.68
+      },
+      {
+        "text": "ⲥⲁⲙⲉⲛϩⲏⲥ",
+        "start": 306.41
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 307.28
+      },
+      {
+        "text": "ⲛⲓϩⲓⲟⲙⲓ",
+        "start": 307.95
+      },
+      {
+        "text": "ⲧⲏⲣⲟⲩ",
+        "start": 308.51
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 309.11
+      },
+      {
+        "text": "ϩⲁⲛⲕⲉⲙⲕⲉⲙ",
+        "start": 309.58
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 310.18
+      },
+      {
+        "text": "ϩⲁⲛϩⲱⲥ.",
+        "start": 310.71
+      }
+    ]
   },
   {
-    "start": 312.33,
+    "start": 312.71,
     "coptic": "Ⲁⲥⲉⲣϩⲏⲧⲥ ⲇⲉ ϧⲁϫⲱⲟⲩ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁⲙ ⲉⲥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
     "translations": {
       "english": "And Miriam answered them saying, \"Let us sing to the Lord, for He has triumphed gloriously. The horse and its rider He has thrown into the sea.\""
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁⲥⲉⲣϩⲏⲧⲥ",
+        "start": 312.71
+      },
+      {
+        "text": "ⲇⲉ",
+        "start": 313.65
+      },
+      {
+        "text": "ϧⲁϫⲱⲟⲩ",
+        "start": 314.25
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 315.21
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁⲙ",
+        "start": 316.11
+      },
+      {
+        "text": "ⲉⲥϫⲱ",
+        "start": 316.95
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲥ:",
+        "start": 317.48
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 318.05
+      },
+      {
+        "text": "ⲙⲁⲣⲉⲛϩⲱⲥ",
+        "start": 318.91
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ:",
+        "start": 319.18
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 319.91
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 320.48
+      },
+      {
+        "text": "ⲟⲩⲱ̀ⲟⲩ",
+        "start": 320.85
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 321.28
+      },
+      {
+        "text": "ⲁϥϭⲓⲱ̀ⲟⲩ.",
+        "start": 321.91
+      }
+    ]
   },
   {
-    "start": 323.75,
+    "start": 324.48,
     "coptic": "Ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ: ⲁϥⲉⲣⲃⲱⲣⲟⲩ ⲉ̀ⲫ̀ⲓⲟⲙ. Ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
     "translations": {
       "english": "The horse and its rider He has thrown into the sea. \"Let us sing to the Lord, for He has triumphed gloriously.\""
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲟⲩϩ̀ⲑⲟ",
+        "start": 324.48
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 325.05
+      },
+      {
+        "text": "ⲟⲩϭⲁⲥⲓϩ̀ⲑⲟ:",
+        "start": 325.78
+      },
+      {
+        "text": "ⲁϥⲉⲣⲃⲱⲣⲟⲩ",
+        "start": 327.58
+      },
+      {
+        "text": "ⲉ̀ⲫ̀ⲓⲟⲙ.",
+        "start": 329.48
+      },
+      {
+        "text": "Ϫⲉ",
+        "start": 331.41
+      },
+      {
+        "text": "ⲙⲁⲣⲉⲛϩⲱⲥ",
+        "start": 331.95
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ:",
+        "start": 333.15
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 334.51
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 335.08
+      },
+      {
+        "text": "ⲟⲩⲱ̀ⲟⲩ",
+        "start": 335.61
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 336.18
+      },
+      {
+        "text": "ⲁϥϭⲓⲱ̀ⲟⲩ.",
+        "start": 336.65
+      }
+    ]
   }
 ]

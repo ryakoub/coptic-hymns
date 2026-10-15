@@ -1,5 +1,5 @@
 {
- "version": "b21a64d80a958461",
+ "version": "92e42be02d737498",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2819,7 +2819,7 @@
    "duration": 354.28,
    "timing": {
     "lines": 25,
-    "words": 0,
+    "words": 25,
     "of": 25
    },
    "source": "content/mahragan-keraza-2026/hs/level-1/first-hoos/",
@@ -2828,8 +2828,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos.json",
-     "bytes": 1202,
-     "sha256": "3cbc7766b22564309d5e9a0f234e434cb5b6da9214438166068c665ff5336b59",
+     "bytes": 31969,
+     "sha256": "dda522fdbf0ea1e7a9e4f242207c9ce8f6aced6526fabf60b5ee43801828fb1f",
      "role": "timing"
     },
     {

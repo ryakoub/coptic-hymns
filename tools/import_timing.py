@@ -26,6 +26,19 @@ def find_folder(recording):
     return hits[0]
 
 
+def written_words(words):
+    """Words as written: a word with "trailingSpace": false joins the next."""
+    result, joined = [], ""
+    for w in words:
+        joined += w["text"]
+        if w.get("trailingSpace") is not False:
+            result.append(joined)
+            joined = ""
+    if joined:
+        result.append(joined)
+    return result
+
+
 def merge(path, dry_run):
     doc = json.loads(Path(path).read_text(encoding="utf-8"))
     rec, text = doc.get("recording"), doc.get("text")
@@ -63,25 +76,18 @@ def merge(path, dry_run):
             if w.get("trailingSpace") is False:
                 item["trailingSpace"] = False
             out.append(item)
-        missing = len(seg["words"]) - len(out)
-        # The marks were made against the text the app had then. If the lyrics were corrected since,
-        # importing those words would bring the old text back on the website, so skip the line.
-        marked_text, joined = [], ""
-        for w in seg["words"]:
-            joined += w["text"]
-            if w.get("trailingSpace") is not False:
-                marked_text.append(joined)
-                joined = ""
-        if joined:
-            marked_text.append(joined)
+        # The website shows a line's timed words in place of its text, so import a line only when the
+        # marked words spell out its current lyrics exactly. That also catches lyrics corrected after
+        # timing (old words would come back), while allowing words that were removed to stay unmarked.
         current_text = (lines[i].get("coptic") or "").split()
+        marked_text = written_words(out)
         if marked_text != current_text:
-            diff = next((k for k, (a, b) in enumerate(zip(marked_text, current_text)) if a != b), min(len(marked_text), len(current_text)))
-            print(f"  line {i + 1}: lyrics changed since it was timed (from word {diff + 1}); skipped, re-time it after updating the app")
-            continue
-        if missing:
-            # The website shows a line's timed words in place of its text, so a partly marked line would lose words.
-            print(f"  line {i + 1}: {len(out)} of {len(seg['words'])} words marked; skipped until all are marked")
+            all_text = written_words(seg["words"])
+            if all_text == current_text:
+                print(f"  line {i + 1}: {len(out)} of {len(seg['words'])} words marked; skipped until all are marked")
+            else:
+                diff = next((k for k, (a, b) in enumerate(zip(marked_text, current_text)) if a != b), min(len(marked_text), len(current_text)))
+                print(f"  line {i + 1}: marked words differ from the lyrics from word {diff + 1}; skipped, re-time it after updating the app")
             continue
         # The website picks the active line by its start: keep it at the first word when that was marked.
         first = seg["words"][0].get("start") if seg["words"] else None
