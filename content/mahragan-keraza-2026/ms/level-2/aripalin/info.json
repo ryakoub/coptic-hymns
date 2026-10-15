@@ -1,5 +1,10 @@
 {
   "title": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
   "youtube": "https://www.youtube.com/watch?v=wB1ygqD98WY",
-  "antiphonalGroup": 2
+  "antiphonalGroup": 2,
+  "titles": {
+    "coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
+    "english": "Aripsalin",
+    "arabic": "اريبصالين"
+  }
 }

@@ -1,5 +1,5 @@
 {
- "version": "dc608f51446d3b73",
+ "version": "a5f02159d20b0dcc",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -753,7 +753,9 @@
   {
    "id": "arihouo-gasf-third-hoos",
    "titles": {
-    "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos"
+    "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos",
+    "english": "Aree Hoo Ou Chasf (Third Canticle)",
+    "arabic": "اري هوؤو تشاسف (الهوس الثالث)"
    },
    "tags": [],
    "pending": false,
@@ -767,14 +769,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/arihouo-gasf-third-hoos.json",
-    "bytes": 293,
-    "sha256": "3d6bbbd1c31086646315d8434590d53f4341fef5847198074fedf1983d224671"
+    "bytes": 412,
+    "sha256": "4e3d940e1fe52c7fd8aef6807fe08b74d24764ead307f5341cef85df75c95458"
    }
   },
   {
    "id": "aripalin",
    "titles": {
-    "coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ"
+    "coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
+    "english": "Aripsalin",
+    "arabic": "اريبصالين"
    },
    "tags": [],
    "pending": false,
@@ -788,8 +792,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aripalin.json",
-    "bytes": 21057,
-    "sha256": "68c40bd52760877ff9b4f681adc80fa907ea7b658beeb21ed0d3f6043fe9bcc9"
+    "bytes": 21117,
+    "sha256": "a10d34d390167fd4904a1027b45c6477eaa1b22c0d81187d5652431d0961c0e8"
    }
   },
   {
@@ -879,7 +883,9 @@
   {
    "id": "christos-analympsis",
    "titles": {
-    "coptic": "ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ"
+    "coptic": "ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ",
+    "english": "Christos Analimpsis (Christ Ascended)",
+    "arabic": "اخرستوس أناليمبسيس"
    },
    "tags": [],
    "pending": false,
@@ -893,8 +899,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/christos-analympsis.json",
-    "bytes": 1038,
-    "sha256": "e9e6b34cd51d855fb9b7196701215384d68fbea13e41e0554411b2ad0d36c7c7"
+    "bytes": 1143,
+    "sha256": "4508c311182a8fbcfa32e89ef031be0f8fcdeda2179a703d6853d1c61d6bf930"
    }
   },
   {
@@ -1089,7 +1095,9 @@
   {
    "id": "ethbe-ti-anastasis",
    "titles": {
-    "coptic": "Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ"
+    "coptic": "Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ",
+    "english": "Ethve Ti Anastasis (For the Resurrection of the Dead)",
+    "arabic": "إثفي تي أنسطاسيس"
    },
    "tags": [],
    "pending": false,
@@ -1103,14 +1111,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ethbe-ti-anastasis.json",
-    "bytes": 2222,
-    "sha256": "3ff90cb4c6abad49ab6533bc9a5ac85de63520bc5f977eb2ae7fa6a2cc1e5e72"
+    "bytes": 2338,
+    "sha256": "1a749704eef8d23a646eeca69ab4f63c778021dfdd8e7c26db632752ea56eb0f"
    }
   },
   {
    "id": "fai-etafenf",
    "titles": {
-    "coptic": "Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ"
+    "coptic": "Ⲫⲁⲓ Ⲉⲧⲁϥⲉⲛϥ",
+    "english": "Fai Etaf Enf (This Is He Who Offered Himself)",
+    "arabic": "فاي إيتاف إنف"
    },
    "tags": [],
    "pending": false,
@@ -1124,8 +1134,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fai-etafenf.json",
-    "bytes": 824,
-    "sha256": "0fc220c9741ec4584ea645a14c8f5e0189035a6367422f9355605a265b6f52a1"
+    "bytes": 926,
+    "sha256": "92fbd4478101237753bf47997490a31cdb6f0540be46ffb3b89d729a4996204b"
    }
   },
   {
@@ -1236,7 +1246,9 @@
   {
    "id": "joyful-agios-major",
    "titles": {
-    "coptic": "Joyful Ⲁⲅⲓⲟⲥ, Major"
+    "coptic": "Joyful Ⲁⲅⲓⲟⲥ, Major",
+    "english": "Joyful Agios, Major",
+    "arabic": "آجيوس الفرايحي (كبير)"
    },
    "tags": [],
    "pending": false,
@@ -1250,14 +1262,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/joyful-agios-major.json",
-    "bytes": 3418,
-    "sha256": "a195e4cbf0032fe67a971ba4204b15bdc7fe99e0a082ba31d0a2fcae7698cafd"
+    "bytes": 3508,
+    "sha256": "69cfa3bac15d4a91229475e6c282b7cf6f121f15a108d9673113ded088a8d17e"
    }
   },
   {
    "id": "kata-ni-khoros",
    "titles": {
-    "coptic": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ"
+    "coptic": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ",
+    "english": "Kata Ni Khoros (All the Choirs)",
+    "arabic": "كاطا نيخوروس"
    },
    "tags": [],
    "pending": false,
@@ -1271,14 +1285,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/kata-ni-khoros.json",
-    "bytes": 1054,
-    "sha256": "f9b513467caa258c4406154316dcff9ec551fecb5f0375d5c21975cdc837ae8d"
+    "bytes": 1141,
+    "sha256": "8101c55f0bc81f8d86036b38bf597bae97a920e2aa7fcc72a6df96c25bd041a5"
    }
   },
   {
    "id": "ke-ypertou",
    "titles": {
-    "coptic": "Ⲕⲉ Ⲩ̀ⲡⲉⲣⲧⲟⲩ"
+    "coptic": "Ⲕⲉ Ⲩ̀ⲡⲉⲣⲧⲟⲩ",
+    "english": "Ke Ypertou",
+    "arabic": "كي إبرتو"
    },
    "tags": [],
    "pending": true,
@@ -1292,8 +1308,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ke-ypertou.json",
-    "bytes": 221,
-    "sha256": "2eea53b5b0b909384753baf79b7a34fd6bded934d06d1e6733a07a5f07a56aae"
+    "bytes": 279,
+    "sha256": "fd8e428057c9b4cfcbdbbb9fa93935f30c48058b2c7ebae063eb3e7d2bdd79eb"
    }
   },
   {
@@ -1362,7 +1378,9 @@
   {
    "id": "onim-nai-symfonia",
    "titles": {
-    "coptic": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ"
+    "coptic": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ",
+    "english": "Oonim Nai Symphonia (What Are These?)",
+    "arabic": "أونيم ناي سيمفونيا"
    },
    "tags": [],
    "pending": false,
@@ -1376,14 +1394,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/onim-nai-symfonia.json",
-    "bytes": 383,
-    "sha256": "2350d5b020fb4f248c5a0ef03c7b05f347af1a2844368d433e4ce186d0957aa7"
+    "bytes": 487,
+    "sha256": "6ab3dd6992dc4d00dce5ce7b87a8aa7988de21af0220835340dfad2877779c7e"
    }
   },
   {
    "id": "ou-katikisis",
    "titles": {
-    "coptic": "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ"
+    "coptic": "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ",
+    "english": "Ou Katikisis (A Homily)",
+    "arabic": "أوكاتيكيسيس"
    },
    "tags": [],
    "pending": false,
@@ -1397,8 +1417,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ou-katikisis.json",
-    "bytes": 2377,
-    "sha256": "8d218127086c336864f9c04e04d7e9fb41083a5725d697b9f74c013247a163c1"
+    "bytes": 2455,
+    "sha256": "ce8fce80fc5e3127b5aa6f03c0eb027ce16210c1e03a00018004219b7d6018be"
    }
   },
   {
@@ -1446,7 +1466,9 @@
   {
    "id": "pi-christos-aftonf",
    "titles": {
-    "coptic": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ"
+    "coptic": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ",
+    "english": "Pikhristos Aftonf (Christ Is Risen)",
+    "arabic": "بي إخرستوس آفتونف"
    },
    "tags": [],
    "pending": false,
@@ -1460,14 +1482,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-christos-aftonf.json",
-    "bytes": 632,
-    "sha256": "e7c27035f6e0609a7df427f3fc18cc03b02d567e0773b288a618df5915dcc567"
+    "bytes": 732,
+    "sha256": "abd40dd7e40d904392010a6e97ab0e5b2e45492281c7f23fe95dda4e68c4d87c"
    }
   },
   {
    "id": "pi-oik",
    "titles": {
-    "coptic": "Ⲡⲓⲱⲓⲕ"
+    "coptic": "Ⲡⲓⲱⲓⲕ",
+    "english": "Pi Oik (The Bread of Life)",
+    "arabic": "بي أويك"
    },
    "tags": [],
    "pending": false,
@@ -1481,14 +1505,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-oik.json",
-    "bytes": 3865,
-    "sha256": "5a87970a401a8444b722618684c5d9229223d8e84ef9537f5631cb8477ed6372"
+    "bytes": 3937,
+    "sha256": "312c8fb5621e4e2ca8129f173ad7021c3b264b3159997b6006ea6db66ddc8ec8"
    }
   },
   {
    "id": "pi-pnevma",
    "titles": {
-    "coptic": "ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ"
+    "coptic": "ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
+    "english": "Pi Pnevma (The Spirit of Comfort)",
+    "arabic": "بي إبنفما"
    },
    "tags": [],
    "pending": false,
@@ -1502,8 +1528,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-pnevma.json",
-    "bytes": 549,
-    "sha256": "fd7555e8ea6e83cb0621951c5634da930798fca7a4c78a6bccd4b6a33eef8aaa"
+    "bytes": 632,
+    "sha256": "6cd1bb06cb04d936b9593436b28a38ffa100eb45d546180893b2133d915dcf81"
    }
   },
   {
@@ -1740,7 +1766,9 @@
   {
    "id": "ten-thinou",
    "titles": {
-    "coptic": "Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ"
+    "coptic": "Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ",
+    "english": "Ten Theeno (Arise, O Children of the Light)",
+    "arabic": "تين ثينو"
    },
    "tags": [],
    "pending": false,
@@ -1754,14 +1782,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-thinou.json",
-    "bytes": 415,
-    "sha256": "d12fce1c4bff8861ccdcf9339bc5727a9f1459744eee5f69e7b27cae01c71da8"
+    "bytes": 506,
+    "sha256": "f26422c70b724c5a024e379b7473a01b5bd565971c5159a6ceee6a37ace8fb66"
    }
   },
   {
    "id": "tenoue-n-khok",
    "titles": {
-    "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ"
+    "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ",
+    "english": "Tenoueh Ensok (We Follow You)",
+    "arabic": "تين أوويه إنسوك"
    },
    "tags": [],
    "pending": false,
@@ -1775,8 +1805,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
-    "bytes": 3532,
-    "sha256": "084d42aba04aed6269a542cb7e16e65fa3cd17658bac545e5186697cf860f9b9"
+    "bytes": 3622,
+    "sha256": "cb25f26280ea113200a77766608fc33cd8adedb057a58e581c6ff62b1ef59798"
    }
   },
   {
@@ -1824,7 +1854,9 @@
   {
    "id": "ton-syna",
    "titles": {
-    "coptic": "ⲧⲟⲛ ⲥⲩⲛⲁ"
+    "coptic": "ⲧⲟⲛ ⲥⲩⲛⲁ",
+    "english": "Ton Sinanarkhon (We the Believers)",
+    "arabic": "طون سينانارخون"
    },
    "tags": [],
    "pending": false,
@@ -1838,14 +1870,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ton-syna.json",
-    "bytes": 1093,
-    "sha256": "0a8cb46119569125a462e594ea7edf5c46f3836076815d688fcb95bb78c259aa"
+    "bytes": 1187,
+    "sha256": "89cc2a1b21cd7066a0ae160db9ca75852d9a273783ce46308932dd965834a810"
    }
   },
   {
    "id": "tou-lithou",
    "titles": {
-    "coptic": "Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ"
+    "coptic": "Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ",
+    "english": "Tou Lithou (When the Stone Was Sealed)",
+    "arabic": "طو ليثو"
    },
    "tags": [],
    "pending": false,
@@ -1859,8 +1893,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tou-lithou.json",
-    "bytes": 1391,
-    "sha256": "62464dd101e7320f4c1c8be172d3c1ad05de19f9b0413c56254e3a17f17f148a"
+    "bytes": 1475,
+    "sha256": "e9430c53232850ae6acdfbec70b22be1d67c22397d84567c3016294a9a46451a"
    }
   },
   {

@@ -1,4 +1,9 @@
 {
-"title":"ⲧⲟⲛ ⲥⲩⲛⲁ",
-"youtube":"https://youtu.be/ZO-D6SEOIVc"
+  "title": "ⲧⲟⲛ ⲥⲩⲛⲁ",
+  "youtube": "https://youtu.be/ZO-D6SEOIVc",
+  "titles": {
+    "coptic": "ⲧⲟⲛ ⲥⲩⲛⲁ",
+    "english": "Ton Sinanarkhon (We the Believers)",
+    "arabic": "طون سينانارخون"
+  }
 }

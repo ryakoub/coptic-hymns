@@ -1,4 +1,9 @@
 {
   "title": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ",
-  "youtube": "https://www.youtube.com/watch?v=Lufig_jsNFY"
+  "youtube": "https://www.youtube.com/watch?v=Lufig_jsNFY",
+  "titles": {
+    "coptic": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ",
+    "english": "Kata Ni Khoros (All the Choirs)",
+    "arabic": "كاطا نيخوروس"
+  }
 }

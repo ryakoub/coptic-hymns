@@ -1,4 +1,9 @@
 {
   "title": "Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ",
-  "youtube": "https://www.youtube.com/watch?v=I23Es-AROr8"
+  "youtube": "https://www.youtube.com/watch?v=I23Es-AROr8",
+  "titles": {
+    "coptic": "Ⲧⲟⲩ Ⲗⲓⲑⲟⲩ",
+    "english": "Tou Lithou (When the Stone Was Sealed)",
+    "arabic": "طو ليثو"
+  }
 }

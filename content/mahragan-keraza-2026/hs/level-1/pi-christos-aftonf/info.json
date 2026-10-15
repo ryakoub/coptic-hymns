@@ -1,4 +1,9 @@
 {
   "title": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ",
-  "youtube": "https://www.youtube.com/watch?v=dDNRbBIMPQ4"
+  "youtube": "https://www.youtube.com/watch?v=dDNRbBIMPQ4",
+  "titles": {
+    "coptic": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ",
+    "english": "Pikhristos Aftonf (Christ Is Risen)",
+    "arabic": "بي إخرستوس آفتونف"
+  }
 }

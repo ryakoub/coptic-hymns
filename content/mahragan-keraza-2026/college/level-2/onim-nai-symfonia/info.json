@@ -1,4 +1,9 @@
 {
   "title": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ",
-  "youtube": "https://www.youtube.com/watch?v=Mh9WsbCkVO4"
+  "youtube": "https://www.youtube.com/watch?v=Mh9WsbCkVO4",
+  "titles": {
+    "coptic": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ",
+    "english": "Oonim Nai Symphonia (What Are These?)",
+    "arabic": "أونيم ناي سيمفونيا"
+  }
 }
