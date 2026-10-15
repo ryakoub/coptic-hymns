@@ -1,5 +1,5 @@
 {
- "version": "67a6fe9e4eb0b2db",
+ "version": "d8a486068034912a",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -729,7 +729,9 @@
         "english": "Midnight Praises",
         "arabic": "تسبحة نصف الليل"
        },
-       "entries": []
+       "entries": [
+        "first-hoos"
+       ]
       },
       {
        "id": "morning-praises",

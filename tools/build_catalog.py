@@ -19,7 +19,8 @@ and can describe its tune with "style" (major, medium, minor), "mode" (annual, f
 and "kind" (recital, melismatic).
 
 A folder places itself in the library with "places": ["resurrection/liturgy", "praises/midnight-praises"]
-(collection id / service or section id, as in catalog/library.json). Hymns listed in library.json
+(collection id / service or section id, as in catalog/library.json; an unambiguous part of the section
+id is enough, e.g. "praises/midnight"). Hymns listed in library.json
 keep their order there; hymns placed this way follow them.
 
 Usage:
@@ -189,13 +190,24 @@ class Build:
                     sections[f"{c['id']}/{s.get('service') or s.get('id')}"] = s
         for rid, places in sorted(self.places.items()):
             for place in places:
-                s = sections.get(place)
+                s = sections.get(place) or self.short_place(place, sections, rid)
                 if s is None:
-                    self.error(rid, f"places it in {place}, which is not in the library")
                     continue
                 listed = [e if isinstance(e, str) else e.get("recording") for e in s["entries"]]
                 if rid not in listed:
                     s["entries"].append(rid)
+
+    def short_place(self, place, sections, rid):
+        """Accept an unambiguous short form: "praises/midnight" for "praises/midnight-praises"."""
+        collection, _, part = place.partition("/")
+        matches = [k for k in sections if k.startswith(collection + "/") and part and part in k.split("/", 1)[1]]
+        if len(matches) == 1:
+            return sections[matches[0]]
+        if matches:
+            self.error(rid, f"places it in {place}, which could be any of: {', '.join(matches)}")
+        else:
+            self.error(rid, f"places it in {place}, which is not in the library")
+        return None
 
     def check_library(self, library):
         used = set()
