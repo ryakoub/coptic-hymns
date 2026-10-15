@@ -64,6 +64,21 @@ def merge(path, dry_run):
                 item["trailingSpace"] = False
             out.append(item)
         missing = len(seg["words"]) - len(out)
+        # The marks were made against the text the app had then. If the lyrics were corrected since,
+        # importing those words would bring the old text back on the website, so skip the line.
+        marked_text, joined = [], ""
+        for w in seg["words"]:
+            joined += w["text"]
+            if w.get("trailingSpace") is not False:
+                marked_text.append(joined)
+                joined = ""
+        if joined:
+            marked_text.append(joined)
+        current_text = (lines[i].get("coptic") or "").split()
+        if marked_text != current_text:
+            diff = next((k for k, (a, b) in enumerate(zip(marked_text, current_text)) if a != b), min(len(marked_text), len(current_text)))
+            print(f"  line {i + 1}: lyrics changed since it was timed (from word {diff + 1}); skipped, re-time it after updating the app")
+            continue
         if missing:
             # The website shows a line's timed words in place of its text, so a partly marked line would lose words.
             print(f"  line {i + 1}: {len(out)} of {len(seg['words'])} words marked; skipped until all are marked")
