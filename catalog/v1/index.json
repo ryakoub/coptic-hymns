@@ -1,5 +1,5 @@
 {
- "version": "7bdb48413c5cc17d",
+ "version": "67a6fe9e4eb0b2db",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -139,6 +139,54 @@
        "entries": []
       }
      ]
+    }
+   ]
+  },
+  {
+   "id": "feasts",
+   "titles": {
+    "english": "Feasts",
+    "arabic": "الأعياد"
+   },
+   "collections": [
+    {
+     "id": "feast-of-the-cross",
+     "titles": {
+      "english": "Feast of the Cross",
+      "arabic": "عيد الصليب"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        1,
+        17
+       ]
+      },
+      "to": {
+       "coptic": [
+        1,
+        19
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
     },
     {
      "id": "nativity",
@@ -151,6 +199,45 @@
        "coptic": [
         4,
         29
+       ]
+      },
+      "to": {
+       "coptic": [
+        5,
+        6
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "circumcision",
+     "titles": {
+      "english": "Circumcision",
+      "arabic": "عيد الختان"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        5,
+        6
        ]
       },
       "to": {
@@ -219,14 +306,92 @@
      ]
     },
     {
-     "id": "great-lent",
+     "id": "wedding-at-cana",
      "titles": {
-      "english": "Great Lent",
-      "arabic": "الصوم الكبير"
+      "english": "Wedding at Cana",
+      "arabic": "عرس قانا الجليل"
      },
      "dates": {
       "from": {
-       "easter": -55
+       "coptic": [
+        5,
+        13
+       ]
+      },
+      "to": {
+       "coptic": [
+        5,
+        13
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "presentation",
+     "titles": {
+      "english": "Presentation of the Lord",
+      "arabic": "دخول المسيح الهيكل"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        6,
+        8
+       ]
+      },
+      "to": {
+       "coptic": [
+        6,
+        8
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "lazarus-saturday",
+     "titles": {
+      "english": "Lazarus Saturday",
+      "arabic": "سبت لعازر"
+     },
+     "dates": {
+      "from": {
+       "easter": -8
       },
       "to": {
        "easter": -8
@@ -382,6 +547,120 @@
        "entries": []
       }
      ]
+    }
+   ]
+  },
+  {
+   "id": "fasts",
+   "titles": {
+    "english": "Fasts",
+    "arabic": "الأصوام"
+   },
+   "collections": [
+    {
+     "id": "advent",
+     "titles": {
+      "english": "Advent Fast",
+      "arabic": "صوم الميلاد"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        3,
+        16
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "jonahs-fast",
+     "titles": {
+      "english": "Jonah's Fast",
+      "arabic": "صوم يونان"
+     },
+     "dates": {
+      "from": {
+       "easter": -69
+      },
+      "to": {
+       "easter": -67
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "great-lent",
+     "titles": {
+      "english": "Great Lent",
+      "arabic": "الصوم الكبير"
+     },
+     "dates": {
+      "from": {
+       "easter": -55
+      },
+      "to": {
+       "easter": -8
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
     },
     {
      "id": "apostles-fast",
@@ -398,246 +677,6 @@
         11,
         4
        ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "feasts",
-   "titles": {
-    "english": "Feasts",
-    "arabic": "الأعياد"
-   },
-   "collections": [
-    {
-     "id": "feast-of-the-cross",
-     "titles": {
-      "english": "Feast of the Cross",
-      "arabic": "عيد الصليب"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        1,
-        17
-       ]
-      },
-      "to": {
-       "coptic": [
-        1,
-        19
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "circumcision",
-     "titles": {
-      "english": "Circumcision",
-      "arabic": "عيد الختان"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        5,
-        6
-       ]
-      },
-      "to": {
-       "coptic": [
-        5,
-        6
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "wedding-at-cana",
-     "titles": {
-      "english": "Wedding at Cana",
-      "arabic": "عرس قانا الجليل"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        5,
-        13
-       ]
-      },
-      "to": {
-       "coptic": [
-        5,
-        13
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "presentation",
-     "titles": {
-      "english": "Presentation of the Lord",
-      "arabic": "دخول المسيح الهيكل"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        6,
-        8
-       ]
-      },
-      "to": {
-       "coptic": [
-        6,
-        8
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "lazarus-saturday",
-     "titles": {
-      "english": "Lazarus Saturday",
-      "arabic": "سبت لعازر"
-     },
-     "dates": {
-      "from": {
-       "easter": -8
-      },
-      "to": {
-       "easter": -8
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fasts",
-   "titles": {
-    "english": "Fasts",
-    "arabic": "الأصوام"
-   },
-   "collections": [
-    {
-     "id": "jonahs-fast",
-     "titles": {
-      "english": "Jonah's Fast",
-      "arabic": "صوم يونان"
-     },
-     "dates": {
-      "from": {
-       "easter": -69
-      },
-      "to": {
-       "easter": -67
       }
      },
      "sections": [
@@ -2422,8 +2461,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/censer-annual.json",
-     "bytes": 1345,
-     "sha256": "2d021ce6e1b5f852b18eb4d55509ac145005d71fe235c22f504df3f20e03087a",
+     "bytes": 1374,
+     "sha256": "41e9ad31a764b13ba64b4fe4f4aa9c817e3e42afef36b7edbeddf7c5b803c4fc",
      "role": "timing"
     },
     {
@@ -2783,6 +2822,7 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-1/first-hoos/",
    "youtube": "https://www.youtube.com/watch?v=Crxk4NGE3T4",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos.json",
@@ -3228,8 +3268,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/pi-pnevma.json",
-     "bytes": 1136,
-     "sha256": "d40088408e7a951ee0b7aaae7ea378a6ec553de1b599c25d1e586f1492f65bb5",
+     "bytes": 1165,
+     "sha256": "cfb3682b7ee83117ad419ca17002b193651aa4e418ed23b0d2b044a5bca4ac39",
      "role": "timing"
     },
     {
@@ -3618,8 +3658,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/this-is-the-day.json",
-     "bytes": 1144,
-     "sha256": "3ca7fb2274a1359efb71776f64e53ae749db6332b21a45261d46bb301e6d1b2d",
+     "bytes": 1173,
+     "sha256": "3e915270671216ac75aca4c98e68a23cd00cca80fc5b22a5107fc0bc08337073",
      "role": "timing"
     },
     {

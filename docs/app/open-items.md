@@ -101,24 +101,25 @@ Keep the existing lines (`title`, `youtube`, `titles`) as they are.
 - Annual: `annual/raising-of-incense`, `annual/liturgy`, `annual/special`
 - Nayrouz (Coptic New Year): `nayrouz/midnight-praises`, `nayrouz/raising-of-incense`, `nayrouz/liturgy`, `nayrouz/special`
 - Kiahk: `kiahk/midnight-praises`, `kiahk/raising-of-incense`, `kiahk/liturgy`, `kiahk/special`
+
+**Feasts**
+- Feast of the Cross: `feast-of-the-cross/midnight-praises`, `feast-of-the-cross/raising-of-incense`, `feast-of-the-cross/liturgy`, `feast-of-the-cross/special`
 - Nativity: `nativity/midnight-praises`, `nativity/raising-of-incense`, `nativity/liturgy`, `nativity/special`
+- Circumcision: `circumcision/midnight-praises`, `circumcision/raising-of-incense`, `circumcision/liturgy`, `circumcision/special`
 - Theophany: `theophany/midnight-praises`, `theophany/raising-of-incense`, `theophany/liturgy`, `theophany/special`
-- Great Lent: `great-lent/midnight-praises`, `great-lent/raising-of-incense`, `great-lent/liturgy`, `great-lent/special`
+- Wedding at Cana: `wedding-at-cana/midnight-praises`, `wedding-at-cana/raising-of-incense`, `wedding-at-cana/liturgy`, `wedding-at-cana/special`
+- Presentation of the Lord: `presentation/midnight-praises`, `presentation/raising-of-incense`, `presentation/liturgy`, `presentation/special`
+- Lazarus Saturday: `lazarus-saturday/midnight-praises`, `lazarus-saturday/raising-of-incense`, `lazarus-saturday/liturgy`, `lazarus-saturday/special`
 - Palm Sunday: `palm-sunday/midnight-praises`, `palm-sunday/raising-of-incense`, `palm-sunday/liturgy`, `palm-sunday/special`
 - Resurrection: `resurrection/midnight-praises`, `resurrection/raising-of-incense`, `resurrection/liturgy`, `resurrection/special`
 - Ascension: `ascension/midnight-praises`, `ascension/raising-of-incense`, `ascension/liturgy`, `ascension/special`
 - Pentecost: `pentecost/midnight-praises`, `pentecost/raising-of-incense`, `pentecost/liturgy`, `pentecost/special`
-- Apostles' Fast: `apostles-fast/midnight-praises`, `apostles-fast/raising-of-incense`, `apostles-fast/liturgy`, `apostles-fast/special`
-
-**Feasts**
-- Feast of the Cross: `feast-of-the-cross/midnight-praises`, `feast-of-the-cross/raising-of-incense`, `feast-of-the-cross/liturgy`, `feast-of-the-cross/special`
-- Circumcision: `circumcision/midnight-praises`, `circumcision/raising-of-incense`, `circumcision/liturgy`, `circumcision/special`
-- Wedding at Cana: `wedding-at-cana/midnight-praises`, `wedding-at-cana/raising-of-incense`, `wedding-at-cana/liturgy`, `wedding-at-cana/special`
-- Presentation of the Lord: `presentation/midnight-praises`, `presentation/raising-of-incense`, `presentation/liturgy`, `presentation/special`
-- Lazarus Saturday: `lazarus-saturday/midnight-praises`, `lazarus-saturday/raising-of-incense`, `lazarus-saturday/liturgy`, `lazarus-saturday/special`
 
 **Fasts**
+- Advent Fast: `advent/midnight-praises`, `advent/raising-of-incense`, `advent/liturgy`, `advent/special`
 - Jonah's Fast: `jonahs-fast/midnight-praises`, `jonahs-fast/raising-of-incense`, `jonahs-fast/liturgy`, `jonahs-fast/special`
+- Great Lent: `great-lent/midnight-praises`, `great-lent/raising-of-incense`, `great-lent/liturgy`, `great-lent/special`
+- Apostles' Fast: `apostles-fast/midnight-praises`, `apostles-fast/raising-of-incense`, `apostles-fast/liturgy`, `apostles-fast/special`
 
 **Praises**
 - Praises (Psalmody): `praises/vesper-praises`, `praises/midnight-praises`, `praises/morning-praises`

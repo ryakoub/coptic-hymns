@@ -153,7 +153,8 @@ class Build:
                 ws = l["words"]
                 if any(b.get("start", 0) < a.get("start", 0) for a, b in zip(ws, ws[1:])):
                     self.error(rid, f"line {i}: words out of order")
-                seg["words"] = [{"text": w.get("text", ""), "start": w.get("start"), "end": w.get("end")} for w in ws]
+                seg["words"] = [{"text": w.get("text", ""), "start": w.get("start"), "end": w.get("end"),
+                                 **({"trailingSpace": False} if w.get("trailingSpace") is False else {})} for w in ws]
             segments.append(seg)
         if not text["pending"] and len(segments) < len(sung):
             self.warn(rid, f"{len(sung) - len(segments)} of {len(sung)} lines have no start time")

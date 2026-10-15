@@ -44,7 +44,8 @@
     {
      "text": "ⲙ̀ⲡ̀ϭⲟⲓⲥ: ⲁ̅ⲗ̅",
      "start": 64.13,
-     "end": 85.41
+     "end": 85.41,
+     "trailingSpace": false
     }
    ]
   }
