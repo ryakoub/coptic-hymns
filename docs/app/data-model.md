@@ -58,7 +58,13 @@ Phase 0, October 2026. How hymns, tunes, the library and user data are stored, f
 
 - `segments` lists what is sung, in order. A line may appear twice (a repeated verse) or not at all (a tune that skips it).
 - Times are seconds from the start of the recording's audio.
-- The catalog entry for a recording adds its tune name (`"tune": { "english": "Lent tune", "arabic": "…" }`), duration, cantor and YouTube link.
+- The catalog entry for a recording adds its duration, cantor and YouTube link, and names its tune. Tunes are named both ways people speak of them, so each recording may carry any of:
+  - `style`: `major`, `medium`, `minor`
+  - `mode`: `annual`, `festal`, `lenten`, `joyful` (more as needed)
+  - `kind`: `recital`, `melismatic`
+  - `tune`: a free name in each language, `{ "english": "…", "arabic": "…" }`, used when the facets don't say it well
+
+  The app shows `tune` when present, otherwise the facets joined, such as "Festal · Major" or "Lenten · Melismatic".
 
 ### Library
 

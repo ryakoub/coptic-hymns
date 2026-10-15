@@ -15,6 +15,8 @@ splits them for the app and leaves content/ and the website untouched:
 
 A folder becomes another tune of an existing text by naming it in info.json:
   "text": "<text id>", "tune": { "english": "Lent tune" }
+and can describe its tune with "style" (major, medium, minor), "mode" (annual, festal, lenten, joyful)
+and "kind" (recital, melismatic).
 
 Usage:
   python3 tools/build_catalog.py            # write the catalog and print a report
@@ -160,7 +162,7 @@ class Build:
                  "source": folder.relative_to(ROOT).as_posix() + "/"}
         if info.get("tune"):
             entry["tune"] = info["tune"]
-        for key in ("youtube", "antiphonalGroup", "cantor"):
+        for key in ("youtube", "antiphonalGroup", "cantor", "style", "mode", "kind"):
             if key in info:
                 entry[key] = info[key]
         if audio:
