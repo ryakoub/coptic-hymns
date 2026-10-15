@@ -98,6 +98,7 @@ body.picking .dot{opacity:1!important;width:14px!important;height:14px!important
 .proj .meta{font-size:13px;color:var(--muted);overflow-wrap:anywhere}
 .proj .acts{display:flex;gap:8px}
 .empty{color:var(--muted);font-style:italic;margin:0}
+.backup{display:flex;flex-direction:column;gap:10px}
 .libtools{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .libtools input{flex:1;min-width:200px;border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:var(--surface);-webkit-appearance:none;appearance:none}
 .chips{display:flex;gap:8px;flex-wrap:wrap}
@@ -248,6 +249,11 @@ dialog::backdrop{background:rgba(10,14,22,.45)}
     <div id="chips" class="chips" role="group" aria-label="Folders"></div>
     <div id="projList" class="projlist"></div>
     <p class="hint small" id="storeInfo"></p>
+    <div class="card backup">
+      <h2>Backup</h2>
+      <p class="hint small">One file with every hymn: its slides, recordings, taps, folders and start times. Save it to Files or AirDrop it; it is never uploaded. Use it to move to a new iPad or into the Coptic Chanter app.</p>
+      <div class="go"><button class="btn" id="backupBtn" type="button">Back up all hymns</button><label class="btn filebtn">Restore from backup<input type="file" id="restoreIn" accept=".marksync,application/octet-stream"></label><span class="hint small" id="backupMsg"></span></div>
+    </div>
   </div></div>
 </section>
 
@@ -550,6 +556,62 @@ function projCard(p,showFolder){
     await db.del('projects',p.id); await db.del('files',p.id+':pdf'); for(const t of p.tracks) await db.del('files',t.fileKey); renderLibrary(); };
   return c;
 }
+
+/* ---------- backup ----------
+   A .marksync file: a first line "MARKSYNC-BACKUP 1", a second line with the byte length of a JSON manifest,
+   the manifest, then the stored files (PDFs and recordings) back to back. The manifest lists every hymn
+   with its folders, recordings, taps and start times, and where each file's bytes are. */
+const BACKUP_MAGIC='MARKSYNC-BACKUP 1';
+async function backupAll(){
+  const msg=$('#backupMsg'); msg.textContent='Preparing…';
+  const projects=(await db.all('projects')).map(migrate), parts=[], files=[]; let offset=0;
+  const addFile=async key=>{ const f=await db.get('files',key); if(!f) return null;
+    files.push({offset,length:f.buf.byteLength}); parts.push(f.buf); offset+=f.buf.byteLength;
+    return {file:files.length-1,name:f.name,type:f.type}; };
+  const out=[];
+  for(const p of projects){
+    const pdf=await addFile(p.id+':pdf');
+    const tracks=[];
+    for(const t of p.tracks) tracks.push({id:t.id,name:t.name,fileName:t.fileName,startAt:Number.isFinite(t.startAt)?t.startAt:null,
+      points:t.points.map(q=>[q.t,q.page,q.x,q.y]),audio:await addFile(t.fileKey)});
+    out.push({id:p.id,name:p.name,folders:p.folders,pdfName:p.pdfName,pages:p.pages||null,created:p.created||null,updated:p.updated||null,pdf,tracks});
+  }
+  const manifest=new TextEncoder().encode(JSON.stringify({app:'mark-sync',kind:'backup',version:1,created:new Date().toISOString(),projects:out,files}));
+  const blob=new Blob([BACKUP_MAGIC+'\n'+manifest.byteLength+'\n',manifest,...parts],{type:'application/octet-stream'});
+  const fname=`Mark Sync backup ${new Date().toLocaleDateString('en-CA')}.marksync`;
+  const file=new File([blob],fname,{type:'application/octet-stream'});
+  msg.textContent=`${plural(out.length,'hymn')}, ${(blob.size/1048576).toFixed(1)} MB.`;
+  if(navigator.canShare&&navigator.canShare({files:[file]})){
+    try{ await navigator.share({files:[file],title:'Mark Sync backup'}); return; }catch(e){ if(e.name==='AbortError') return; } }
+  const a=document.createElement('a'); a.href=URL.createObjectURL(file); a.download=fname; document.body.append(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(a.href),10000);
+}
+/* Read a backup back in. Hymns already on this device (same id) are replaced only after confirming. */
+async function restoreBackup(f){
+  const msg=$('#backupMsg'); msg.textContent='Reading…';
+  const buf=await f.arrayBuffer(), bytes=new Uint8Array(buf);
+  const line=start=>{ const end=bytes.indexOf(10,start); return end<0?null:[new TextDecoder().decode(bytes.subarray(start,end)),end+1]; };
+  const first=line(0); if(!first||first[0]!==BACKUP_MAGIC){ msg.textContent='That file is not a Mark Sync backup.'; return; }
+  const second=line(first[1]); const len=+second[0]; const mstart=second[1];
+  let manifest; try{ manifest=JSON.parse(new TextDecoder().decode(bytes.subarray(mstart,mstart+len))); }catch(e){ msg.textContent='The backup is damaged.'; return; }
+  const dataStart=mstart+len, have=new Set((await db.all('projects')).map(p=>p.id));
+  const clash=manifest.projects.filter(p=>have.has(p.id));
+  if(clash.length&&!confirm(`${plural(clash.length,'hymn')} in the backup already exist here (${clash.map(p=>p.name).join(', ')}). Replace them with the backup's version?`)){
+    manifest.projects=manifest.projects.filter(p=>!have.has(p.id)); }
+  const fileOf=ref=>{ const e=manifest.files[ref.file]; return {buf:buf.slice(dataStart+e.offset,dataStart+e.offset+e.length),type:ref.type,name:ref.name}; };
+  for(const p of manifest.projects){
+    if(p.pdf) await db.put('files',fileOf(p.pdf),p.id+':pdf');
+    const tracks=[];
+    for(const t of p.tracks){ const key=p.id+':audio:'+t.id; if(t.audio) await db.put('files',fileOf(t.audio),key);
+      const tr={id:t.id,name:t.name,fileName:t.fileName,fileKey:key,points:t.points.map(([tt,page,x,y])=>({id:uid(),t:tt,page,x,y}))};
+      if(Number.isFinite(t.startAt)) tr.startAt=t.startAt; tracks.push(tr); }
+    await db.put('projects',{id:p.id,name:p.name,folders:p.folders||[],pdfName:p.pdfName,pages:p.pages,tracks,created:p.created||Date.now(),updated:Date.now()});
+  }
+  msg.textContent=`Restored ${plural(manifest.projects.length,'hymn')}.`;
+  renderLibrary();
+}
+$('#backupBtn').onclick=()=>backupAll().catch(e=>{ $('#backupMsg').textContent='Backup failed: '+e.message; });
+$('#restoreIn').onchange=e=>{ const f=e.target.files[0]; e.target.value=''; if(f) restoreBackup(f).catch(err=>{ $('#backupMsg').textContent='Restore failed: '+err.message; }); };
 
 /* ---------- open / close ---------- */
 async function openProject(id){
