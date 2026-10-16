@@ -1,5 +1,5 @@
 {
- "version": "5cb942ca4e9f6e4a",
+ "version": "f11fad5a0455e49e",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1514,8 +1514,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos.json",
-    "bytes": 11293,
-    "sha256": "fc6c697e42a33f3831de1f56588a5f307bab0b83fc0f501d89f8ce04d1372a4e"
+    "bytes": 11309,
+    "sha256": "5f1d31a8b601797c63e79c7c6481fb1a13e3daa3db6f63a96d64cadfacc038bb"
    }
   },
   {
