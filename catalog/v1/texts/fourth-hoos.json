@@ -149,6 +149,9 @@
    "transliterations": {
     "english": "Ni-ethrakon nem ninoun teerou alleelouia. Ou-ekrom o-al oushion ou-ekhristallos ou-epnevma ensaratheeou nee-etiri empefsaji."
    },
+   "sung": {
+    "english": "You great sea creatures and all the depths alleluia. Fire and hail, snow and clouds, and stormy wind, fulfilling His word."
+   },
    "stanzas": [
     {
      "coptic": "Ⲛⲓⲇ̀ⲣⲁⲕⲱⲛ ⲛⲉⲙ ⲛⲓⲛⲟⲩⲛ ⲧⲏⲣⲟⲩ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
@@ -304,6 +307,9 @@
    "transliterations": {
     "english": "Alleelouia: alleelouia: alleelouia."
    },
+   "sung": {
+    "english": "Alleluia, Alleluia,"
+   },
    "stanzas": [
     {
      "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
@@ -326,6 +332,9 @@
    "transliterations": {
     "english": "Go emepshois khen ougo emveri alleelouia. Je are pefesmou khen etekkleesia ente nee-ethowab."
    },
+   "sung": {
+    "english": "Alleluia Sing to Lord a new song alleluia. And His praise in the congregation of the saints."
+   },
    "stanzas": [
     {
      "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
@@ -345,6 +354,9 @@
    "transliterations": {
     "english": "Marefounof enje Pisraeel ejen fee-etafthamiof alleelouia. Nensheeri ension maroutheleel ejen Powouro."
    },
+   "sung": {
+    "english": "Let Israel rejoice in their Maker alleluia. Let the children of Zion be joyful in their King."
+   },
    "stanzas": [
     {
      "coptic": "Ⲙⲁⲣⲉϥⲟⲩⲛⲟϥ ⲛ̀ϫⲉ Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ϫⲉⲛ ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
@@ -363,6 +375,9 @@
    },
    "transliterations": {
     "english": "Marou-esmou epefran ethowab khen oukhoros alleelouia. Khen oukemkem nem oupsalteerion marowerpsalin erof."
+   },
+   "sung": {
+    "english": "Let them praise His name in the chorus alleluia. Let them sing praises unto Him with timbrel and harp."
    },
    "stanzas": [
     {
@@ -402,6 +417,9 @@
    "transliterations": {
     "english": "Eveshoushou emmoou enje nee-ethowab khen o-oou alleelouia. Evetheleel emmoou hijen noumanenkot."
    },
+   "sung": {
+    "english": "Let the saints be joyful in glory alleluia. Let them sing aloud on their beds."
+   },
    "stanzas": [
     {
      "coptic": "Ⲉⲩⲉ̀ϣⲟⲩϣⲟⲩ ⲙ̀ⲙⲱⲟⲩ ⲛ̀ϫⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
@@ -420,6 +438,9 @@
    },
    "transliterations": {
     "english": "Nichisi ente Efnoti etkee khen tou-eshvovi alleelouia. Hanseefi enro-esnav etkee khen noujig."
+   },
+   "sung": {
+    "english": "Let the high praises of God be in their mouth alleluia. And a two edged sword in their hand."
    },
    "stanzas": [
     {
@@ -497,6 +518,9 @@
    "transliterations": {
     "english": "Alleelouia: alleelouia: alleelouia."
    },
+   "sung": {
+    "english": "Alleluia, Alleluia,"
+   },
    "stanzas": [
     {
      "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
@@ -518,6 +542,9 @@
    },
    "transliterations": {
     "english": "Esmou e-efnoti khen nee-ethowab teerou entaf alleelouia."
+   },
+   "sung": {
+    "english": "Alleluia. Praise God, in all His saints alleluia."
    }
   },
   {
@@ -551,6 +578,9 @@
    },
    "transliterations": {
     "english": "Esmou erof kata epashai ente tefmetnishti alleelouia."
+   },
+   "sung": {
+    "english": "Praise Him, according to His excellent greatness alleluia."
    }
   },
   {
@@ -573,6 +603,9 @@
    },
    "transliterations": {
     "english": "Esmou erof khen oupsalteerion nem oukithara alleelouia."
+   },
+   "sung": {
+    "english": "Praise Him, with the psaltery and harp alleluia."
    }
   },
   {
@@ -584,6 +617,9 @@
    },
    "transliterations": {
     "english": "Esmou erof khen hankemkem nem hankhoros alleelouia."
+   },
+   "sung": {
+    "english": "Praise Him, with the timbrel and chorus alleluia."
    }
   },
   {
@@ -595,6 +631,9 @@
    },
    "transliterations": {
     "english": "Esmou erof khen hankap nem o-orghanon alleelouia."
+   },
+   "sung": {
+    "english": "Praise Him, with stringed instruments and organs alleluia."
    }
   },
   {
@@ -617,6 +656,9 @@
    },
    "transliterations": {
     "english": "Esmou erof khen hankimvalon ente o-eshleeloui alleelouia."
+   },
+   "sung": {
+    "english": "Praise Him, with cymbals of joy alleluia."
    }
   },
   {
@@ -628,6 +670,9 @@
    },
    "transliterations": {
     "english": "Nifi niven marou-esmou teerou e-efran emepshois Pennoti alleelouia."
+   },
+   "sung": {
+    "english": "Let everything that has breath praise the name of the Lord our God alleluia."
    }
   },
   {
@@ -661,6 +706,9 @@
    },
    "transliterations": {
     "english": "Alleelouia: alleelouia. Thoksa si o Theos eemon alleelouia."
+   },
+   "sung": {
+    "english": "Alleluia, Alleluia. Glory be to our God alleluia."
    },
    "stanzas": [
     {

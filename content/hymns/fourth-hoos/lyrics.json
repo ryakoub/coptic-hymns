@@ -141,7 +141,10 @@
       {
         "coptic": "Ⲟⲩⲭ̀ⲣⲱⲙ ⲟⲩⲁⲗ ⲟⲩⲭⲓⲱⲛ ⲟⲩⲭ̀ⲣⲩⲥⲧⲁⲗⲗⲟⲥ ⲟⲩⲡ̀ⲛⲉⲩⲙⲁ ⲛ̀ⲥⲁⲣⲁⲑⲏⲟⲩ ⲛⲏⲉⲧⲓ̀ⲣⲓ ⲙ̀ⲡⲉϥⲥⲁϫⲓ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "You great sea creatures and all the depths alleluia. Fire and hail, snow and clouds, and stormy wind, fulfilling His word."
+    }
   },
   {
     "coptic": "Ⲛⲓⲧⲱⲟⲩ ⲉⲧϭⲟⲥⲓ ⲛⲉⲙ ⲛⲓⲕⲁⲗⲁⲙⲫⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲓϣ̀ϣⲏⲛ ⲙ̀ϥⲁⲓⲟⲩⲧⲁϩ ⲛⲉⲙ ⲛⲓϣⲉⲛⲥⲓϥⲓ ⲧⲏⲣⲟⲩ.",
@@ -291,7 +294,10 @@
       {
         "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Alleluia, Alleluia,"
+    }
   },
   {
     "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ.",
@@ -309,7 +315,10 @@
       {
         "coptic": "Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Alleluia Sing to Lord a new song alleluia. And His praise in the congregation of the saints."
+    }
   },
   {
     "coptic": "Ⲙⲁⲣⲉϥⲟⲩⲛⲟϥ ⲛ̀ϫⲉ Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ϫⲉⲛ ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲉⲛϣⲏⲣⲓ ⲛ̀Ⲥⲓⲱⲛ ⲙⲁⲣⲟⲩⲑⲉⲗⲏⲗ ⲉ̀ϫⲉⲛ Ⲡⲟⲩⲟⲩⲣⲟ.",
@@ -327,7 +336,10 @@
       {
         "coptic": "Ⲛⲉⲛϣⲏⲣⲓ ⲛ̀Ⲥⲓⲱⲛ ⲙⲁⲣⲟⲩⲑⲉⲗⲏⲗ ⲉ̀ϫⲉⲛ Ⲡⲟⲩⲟⲩⲣⲟ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Let Israel rejoice in their Maker alleluia. Let the children of Zion be joyful in their King."
+    }
   },
   {
     "coptic": "Ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉϥⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ϧⲉⲛ ⲟⲩⲭⲟⲣⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϧⲉⲛ ⲟⲩⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲙⲁⲣⲟⲩⲉⲣⲯⲁⲗⲓⲛ ⲉ̀ⲣⲟϥ.",
@@ -345,7 +357,10 @@
       {
         "coptic": "Ϧⲉⲛ ⲟⲩⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲙⲁⲣⲟⲩⲉⲣⲯⲁⲗⲓⲛ ⲉ̀ⲣⲟϥ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Let them praise His name in the chorus alleluia. Let them sing praises unto Him with timbrel and harp."
+    }
   },
   {
     "coptic": "Ϫⲉ Ⲡ̀ϭⲟⲓⲥ ⲛⲁϯⲙⲁϯ ⲉ̀ϫⲉⲛ ⲡⲉϥⲗⲁⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϥ̀ⲛⲁϭⲓⲥⲓ ⲛ̀ⲛⲓⲣⲉⲙⲣⲁⲩϣ ϧⲉⲛ ⲟⲩⲟⲩϫⲁⲓ.",
@@ -381,7 +396,10 @@
       {
         "coptic": "Ⲉⲩⲉ̀ⲑⲉⲗⲏⲗ ⲙ̀ⲙⲱⲟⲩ ϩⲓϫⲉⲛ ⲛⲟⲩⲙⲁⲛⲉⲛⲕⲟⲧ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Let the saints be joyful in glory alleluia. Let them sing aloud on their beds."
+    }
   },
   {
     "coptic": "Ⲛⲓϭⲓⲥⲓ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ ⲉⲧⲭⲏ ϧⲉⲛ ⲧⲟⲩϣ̀ⲃⲱⲃⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϩⲁⲛⲥⲏϥⲓ ⲛ̀ⲣⲟⲥ̀ⲛⲁⲩ ⲉⲧⲭⲏ ϧⲉⲛ ⲛⲟⲩϫⲓϫ.",
@@ -399,7 +417,10 @@
       {
         "coptic": "Ϩⲁⲛⲥⲏϥⲓ ⲛ̀ⲣⲟⲥ̀ⲛⲁⲩ ⲉⲧⲭⲏ ϧⲉⲛ ⲛⲟⲩϫⲓϫ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Let the high praises of God be in their mouth alleluia. And a two edged sword in their hand."
+    }
   },
   {
     "coptic": "Ⲉ̀ⲡ̀ϫⲓⲛⲓ̀ⲣⲓ ⲛ̀ⲟⲩϭⲓⲙ̀ⲡ̀ϣⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲉⲙ ϩⲁⲛⲥⲟϩⲓ ϧⲉⲛ ⲛⲓⲗⲁⲟⲥ.",
@@ -474,7 +495,10 @@
       {
         "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Alleluia, Alleluia,"
+    }
   },
   {
     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
@@ -484,6 +508,9 @@
     },
     "transliterations": {
       "english": "Esmou e-efnoti khen nee-ethowab teerou entaf alleelouia."
+    },
+    "sung": {
+      "english": "Alleluia. Praise God, in all His saints alleluia."
     }
   },
   {
@@ -514,6 +541,9 @@
     },
     "transliterations": {
       "english": "Esmou erof kata epashai ente tefmetnishti alleelouia."
+    },
+    "sung": {
+      "english": "Praise Him, according to His excellent greatness alleluia."
     }
   },
   {
@@ -534,6 +564,9 @@
     },
     "transliterations": {
       "english": "Esmou erof khen oupsalteerion nem oukithara alleelouia."
+    },
+    "sung": {
+      "english": "Praise Him, with the psaltery and harp alleluia."
     }
   },
   {
@@ -544,6 +577,9 @@
     },
     "transliterations": {
       "english": "Esmou erof khen hankemkem nem hankhoros alleelouia."
+    },
+    "sung": {
+      "english": "Praise Him, with the timbrel and chorus alleluia."
     }
   },
   {
@@ -554,6 +590,9 @@
     },
     "transliterations": {
       "english": "Esmou erof khen hankap nem o-orghanon alleelouia."
+    },
+    "sung": {
+      "english": "Praise Him, with stringed instruments and organs alleluia."
     }
   },
   {
@@ -574,6 +613,9 @@
     },
     "transliterations": {
       "english": "Esmou erof khen hankimvalon ente o-eshleeloui alleelouia."
+    },
+    "sung": {
+      "english": "Praise Him, with cymbals of joy alleluia."
     }
   },
   {
@@ -584,6 +626,9 @@
     },
     "transliterations": {
       "english": "Nifi niven marou-esmou teerou e-efran emepshois Pennoti alleelouia."
+    },
+    "sung": {
+      "english": "Let everything that has breath praise the name of the Lord our God alleluia."
     }
   },
   {
@@ -625,7 +670,10 @@
       {
         "coptic": "Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "Alleluia, Alleluia. Glory be to our God alleluia."
+    }
   },
   {
     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁ̅ⲗ̅. Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",

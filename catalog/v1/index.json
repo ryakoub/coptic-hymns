@@ -1,5 +1,5 @@
 {
- "version": "602e49a216aabb01",
+ "version": "5e86692ae03af1b1",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1156,8 +1156,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aripalin.json",
-    "bytes": 24868,
-    "sha256": "0ec07fb33d823b88bd2461a2fcfb621035fecae21c22c99b0f33a219b4073314"
+    "bytes": 26015,
+    "sha256": "0b282cae0c91dff441209ce7ec517865b4f2ca462dcaaaa0e64a301ba4e7116a"
    }
   },
   {
@@ -1549,8 +1549,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fourth-hoos.json",
-    "bytes": 31080,
-    "sha256": "a5da06ac7a54754c78d0bd46dde25217c5ebce9f5c896befb61e033307ad676e"
+    "bytes": 32717,
+    "sha256": "53eb2e68b8051200bf3a83d046000ce2a2c7cfeb2b1c134122f095813ed1f8ea"
    }
   },
   {
@@ -2138,8 +2138,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos.json",
-    "bytes": 23752,
-    "sha256": "c221dcd373cb2996c861313f040a23d315c2e40e1245921f83859c0f2523bc6c"
+    "bytes": 25007,
+    "sha256": "00a72c27f40fa58fed95b15d9bac919464704b156d717ea0497ce99e5334de89"
    }
   },
   {
@@ -2207,8 +2207,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
-    "bytes": 24823,
-    "sha256": "b314c88c030d88e23b61d2ff8bd19c7abdafdbf28129c654bb8afc2d89489fc2"
+    "bytes": 25787,
+    "sha256": "40af4ac4d3afd71c9a610fd721f87e357d0b5bd806c7a6a5054282b686ade869"
    }
   },
   {
@@ -2301,8 +2301,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/third-hoos.json",
-    "bytes": 36337,
-    "sha256": "12f784655795813e306bd504d0980bec7d368174deec09b9814f1c08d40d2c40"
+    "bytes": 36858,
+    "sha256": "71ad5e132cf66dc2c041ba56600bab5de4de0fb613f285b0d18efbd3d9672eaa"
    }
   },
   {

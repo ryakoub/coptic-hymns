@@ -38,6 +38,14 @@ Lines start untimed.
 
 If the English singers use different words from Tasbeha's translation, correct the line's English (or add `"sung": {"english": "…"}`) before timing it.
 
+For St. Antony Monastery recordings, Tasbeha has the sung English (https://tasbeha.org/hymn_library/cat/219). Add it before timing:
+
+```
+python3 tools/add_sung_english.py <id> https://tasbeha.org/hymn_library/view/<St. Antony page> [--dry-run --show]
+```
+
+So far: Ten Theeno 1234, First Hoos 1237, Second Hoos 1239, Third Hoos 1241, Aripsalin 1242, Fourth Hoos 1244 (next: First Hoos Lobsh 1238, Second Hoos Lobsh 1240, We follow You 1243, Commemoration 1286, Psalis 1245–1246, Theotokia 1247–1259, Litany 1260).
+
 ## Midnight Praises (Sunday), in order
 
 From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
