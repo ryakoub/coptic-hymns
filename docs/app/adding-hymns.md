@@ -24,7 +24,7 @@ python3 tools/add_hymn.py https://tasbeha.org/hymn_library/view/106 \
 - `--coptic` / `--english`: any of
   - `mid:ID` — a recording from the hymn's own page (from `--list`)
   - an album page with the track number after `#` (leave it off to see the track list)
-  - a YouTube link (downloaded with yt-dlp)
+  - a YouTube link (downloaded with yt-dlp; if YouTube refuses with "403", run `brew upgrade yt-dlp`)
   - a Tasbeha download link, a direct audio link, or a file on the Mac
 
 Lines start untimed.
@@ -44,7 +44,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 
 | Order | Hymn | Tasbeha | |
 |---|---|---|---|
-| 10 | The Hymn of Ten-theno | view/92 | in the app as `ten-thinou` (Mahragan), not yet placed |
+| 10 | The Hymn of Ten-theno | view/92 | ✓ `ten-theeno` (YouTube, The Coptic Gate); English: Part 1 #2. The one-verse Mahragan version stays as `ten-thinou` |
 | 20 | The Hymn of the Resurrection – Tennav | view/104 | |
 | 30 | The Year Round Canticle | view/2539 | no recordings listed |
 | 40 | The First Hoos | view/103 | ✓ `first-hoos`, with English |

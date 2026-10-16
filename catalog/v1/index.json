@@ -1,5 +1,5 @@
 {
- "version": "799ec8f3fbedca47",
+ "version": "6bcc3442a25cae57",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -730,6 +730,7 @@
         "arabic": "تسبحة نصف الليل"
        },
        "entries": [
+        "ten-theeno",
         "first-hoos",
         "second-hoos",
         "aripalin"
@@ -2148,6 +2149,32 @@
     "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
     "bytes": 2789,
     "sha256": "0c49fde9b1f3915f4ea646ccba8c4b79f36414884ba7ba2b1ffb918d4241e824"
+   }
+  },
+  {
+   "id": "ten-theeno",
+   "titles": {
+    "english": "The Hymn of Ten-theno",
+    "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ⲧⲉⲛⲑⲏⲛⲟⲩ",
+    "arabic": "لحن تين ثينو"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 26,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ten-theeno"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ten-theeno.json",
+    "bytes": 24823,
+    "sha256": "b314c88c030d88e23b61d2ff8bd19c7abdafdbf28129c654bb8afc2d89489fc2"
    }
   },
   {
@@ -3713,6 +3740,32 @@
      "role": "audio",
      "bytes": 2209300,
      "sha256": "905b82f4612623dd8d9c400c6d170511afac59aba78a5974c5f1355798c3f9a7"
+    }
+   ]
+  },
+  {
+   "id": "ten-theeno",
+   "text": "ten-theeno",
+   "duration": 314.28,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 26
+   },
+   "source": "https://tasbeha.org/hymn_library/view/92",
+   "youtube": "https://youtu.be/CGnIpcb7sQw",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-theeno.json",
+     "bytes": 70,
+     "sha256": "fbe6708f6d02590b791f25477b9662d03403612f99d077e93cb56eeb9c3147bf",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ten-theeno/audio.m4a",
+     "role": "audio",
+     "bytes": 10968920,
+     "sha256": "8b5ff606a2f110af3db6155d1c816e7588962d9bca3d6932ee6679592116954e"
     }
    ]
   },
