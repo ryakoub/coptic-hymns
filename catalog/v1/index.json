@@ -1,5 +1,5 @@
 {
- "version": "f11fad5a0455e49e",
+ "version": "a3949ac7491e0568",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2879,9 +2879,9 @@
    "text": "first-hoos",
    "duration": 316.08,
    "timing": {
-    "lines": 20,
-    "words": 20,
-    "of": 20
+    "lines": 25,
+    "words": 25,
+    "of": 25
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -2892,8 +2892,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos-english.json",
-     "bytes": 30222,
-     "sha256": "d61acc2d5b6ce3edd46809c1bf62cc6e9dba012eced5be4134c8ac43a6527bf6",
+     "bytes": 40454,
+     "sha256": "fe9f1a665d4063a95bd4856c369b427db6c15becae2ee7f80b12fc26ef985a66",
      "role": "timing"
     },
     {

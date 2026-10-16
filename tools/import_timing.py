@@ -9,6 +9,7 @@ Everything else in lyrics.json is kept as it is.
 Usage:
   python3 tools/import_timing.py ~/Downloads/first-hoos.timing.json [more files…]
   python3 tools/import_timing.py --dry-run FILE     # show what would change, write nothing
+  python3 tools/import_timing.py --fill-gaps FILE   # also time words sung too fast to tap, between their neighbours
 
 Afterwards run python3 tools/build_catalog.py, and in the app repo scripts/sync-catalog.sh.
 """
@@ -16,6 +17,7 @@ import argparse, json, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+FILL = False
 CONTENT = ROOT / "content"
 
 
@@ -46,6 +48,27 @@ def line_words(line, language):
     return ((line.get("sung") or {}).get(language) or (line.get("translations") or {}).get(language) or "").split()
 
 
+def fill_gaps(words):
+    """Unmarked words between two marked ones (sung too fast to tap) get times spread evenly between them.
+    Returns how many were filled; words with no marked neighbour on one side stay unmarked."""
+    filled, i = 0, 0
+    while i < len(words):
+        if words[i].get("start") is not None:
+            i += 1
+            continue
+        j = i
+        while j < len(words) and words[j].get("start") is None:
+            j += 1
+        if i > 0 and j < len(words):
+            a, b = float(words[i - 1]["start"]), float(words[j]["start"])
+            if b > a:
+                for k in range(i, j):
+                    words[k]["start"] = a + (b - a) * (k - i + 1) / (j - i + 1)
+                    filled += 1
+        i = j
+    return filled
+
+
 def merge_shared(path, doc, dry_run):
     """A recording of another hymn's text (another tune or language): its timings go in its own lyrics.json
     as entries naming the line ({"line": "l3", "start": …, "words": […]}); the text's lyrics are untouched."""
@@ -60,6 +83,10 @@ def merge_shared(path, doc, dry_run):
     changed = 0
     for seg in doc["segments"]:
         line_id = seg.get("line", "")
+        if FILL and seg.get("words"):
+            n = fill_gaps(seg["words"])
+            if n:
+                print(f"  {line_id}: filled {n} unmarked word{'s' if n != 1 else ''} between marked ones")
         i = int(line_id[1:]) - 1 if line_id[1:].isdigit() else -1
         if not 0 <= i < len(text_lines):
             sys.exit(f"{path}: line {line_id} is not in {text}")
@@ -105,6 +132,10 @@ def merge(path, dry_run):
     done = set()
     for seg in doc["segments"]:
         line_id = seg.get("line", "")
+        if FILL and seg.get("words"):
+            n = fill_gaps(seg["words"])
+            if n:
+                print(f"  {line_id}: filled {n} unmarked word{'s' if n != 1 else ''} between marked ones")
         if not line_id.startswith("l") or not line_id[1:].isdigit():
             sys.exit(f"{path}: unexpected line id {line_id!r}")
         i = int(line_id[1:]) - 1
@@ -171,7 +202,11 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("files", nargs="+", help="timing files exported from the app")
     ap.add_argument("--dry-run", action="store_true", help="show what would change without writing")
+    ap.add_argument("--fill-gaps", action="store_true",
+                    help="give unmarked words between two marked ones times spread evenly between them")
     args = ap.parse_args()
+    global FILL
+    FILL = args.fill_gaps
     for f in args.files:
         merge(f, args.dry_run)
 
