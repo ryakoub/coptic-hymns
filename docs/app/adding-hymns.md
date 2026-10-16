@@ -44,7 +44,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 
 | Order | Hymn | Tasbeha | |
 |---|---|---|---|
-| 10 | The Hymn of Ten-theno | view/92 | ✓ `ten-theeno` (YouTube, The Coptic Gate); English: Part 1 #2. The one-verse Mahragan version stays as `ten-thinou` |
+| 10 | The Hymn of Ten-theno | view/92 | ✓ `ten-theeno` (YouTube, The Coptic Gate), with English (Part 1 #2). The one-verse Mahragan version stays as `ten-thinou` |
 | 20 | The Hymn of the Resurrection – Tennav | view/104 | |
 | 30 | The Year Round Canticle | view/2539 | no recordings listed |
 | 40 | The First Hoos | view/103 | ✓ `first-hoos`, with English |

@@ -1,5 +1,5 @@
 {
- "version": "33233578dea5fa58",
+ "version": "602e49a216aabb01",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2202,7 +2202,8 @@
     "english"
    ],
    "recordings": [
-    "ten-theeno"
+    "ten-theeno",
+    "ten-theeno-english"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
@@ -3886,6 +3887,36 @@
      "role": "audio",
      "bytes": 10968920,
      "sha256": "8b5ff606a2f110af3db6155d1c816e7588962d9bca3d6932ee6679592116954e"
+    }
+   ]
+  },
+  {
+   "id": "ten-theeno-english",
+   "text": "ten-theeno",
+   "duration": 335.7,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-theeno-english.json",
+     "bytes": 78,
+     "sha256": "a8cf3014878dd086e60b03041538a1bbb0b4732b0cd5dc7e5bd597940f12e141",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ten-theeno-english/audio.mp3",
+     "role": "audio",
+     "bytes": 5372387,
+     "sha256": "3f03a68f59b7fb143a42713864b92d2a1b94843b2e705b70a65934fe8fa35d48"
     }
    ]
   },
