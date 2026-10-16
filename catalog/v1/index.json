@@ -1,5 +1,5 @@
 {
- "version": "8a60d5af40128932",
+ "version": "5cb942ca4e9f6e4a",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1145,7 +1145,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "aripalin"
+    "aripalin",
+    "aripalin-english"
    ],
    "file": {
     "url": "catalog/v1/texts/aripalin.json",
@@ -2397,6 +2398,36 @@
      "role": "audio",
      "bytes": 8798997,
      "sha256": "b80db69454e77c562335ed0fc5f8776652320774d4c84cf1a473b4bb83c840e7"
+    }
+   ]
+  },
+  {
+   "id": "aripalin-english",
+   "text": "aripalin",
+   "duration": 621.71,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aripalin-english.json",
+     "bytes": 74,
+     "sha256": "bebafe4615dc914a534366ea669a464aae64bcfa315a1f32cf195fe9909a8252",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/aripalin-english/audio.mp3",
+     "role": "audio",
+     "bytes": 9948627,
+     "sha256": "52e21db9dc14123f7a2ad52b252b5dfd4048aba745ed87021468cd7b2e0df250"
     }
    ]
   },
