@@ -1,5 +1,5 @@
 {
- "version": "6bcc3442a25cae57",
+ "version": "b0593053fb72dd49",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3638,13 +3638,15 @@
   {
    "id": "second-hoos",
    "text": "second-hoos",
-   "duration": 390.44,
+   "duration": 318.94,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 28
    },
    "source": "https://tasbeha.org/hymn_library/view/106",
+   "youtube": "https://youtu.be/T4lSylX9S3E",
+   "cantor": "The Coptic Gate (Mahragan 2022, Middle School)",
    "kind": "recital",
    "files": [
     {
@@ -3654,10 +3656,10 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/second-hoos/audio.mp3",
+     "url": "content/hymns/second-hoos/audio.m4a",
      "role": "audio",
-     "bytes": 6248258,
-     "sha256": "44c001576c4207b5f356b28329a4ac20c94130fab2d0c82d0ad0ba4d328a6e39"
+     "bytes": 10949683,
+     "sha256": "c37a53933aee20be522c8bc8a93bd69cc1d87b0db117cedf46e5f3e64a0106ca"
     }
    ]
   },
