@@ -68,6 +68,9 @@ def merge_shared(path, doc, dry_run):
                for w in seg.get("words") or [] if w.get("start") is not None]
         if not out:
             continue
+        if any(b["start"] < a["start"] for a, b in zip(out, out[1:])):
+            print(f"  line {i + 1}: marks out of order; skipped, re-mark it in the app")
+            continue
         if written_words(out) != line_words(text_lines[i], language):
             print(f"  line {i + 1}: marked words don't spell its {language} text; skipped (mark every word, or update the text)")
             continue
@@ -124,6 +127,9 @@ def merge(path, dry_run):
             if w.get("trailingSpace") is False:
                 item["trailingSpace"] = False
             out.append(item)
+        if any(b["start"] < a["start"] for a, b in zip(out, out[1:])):
+            print(f"  line {i + 1}: marks out of order; skipped, re-mark it in the app")
+            continue
         # The website shows a line's timed words in place of its text, so import a line only when the
         # marked words spell out its current lyrics exactly. That also catches lyrics corrected after
         # timing (old words would come back), while allowing words that were removed to stay unmarked.

@@ -1,5 +1,2101 @@
 {
  "recording": "first-hoos-english",
  "text": "first-hoos",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.58,
+   "words": [
+    {
+     "text": "Amen",
+     "start": 0.58,
+     "end": null
+    },
+    {
+     "text": "Alleluia,",
+     "start": 0.94,
+     "end": null
+    },
+    {
+     "text": "Kerie",
+     "start": 1.68,
+     "end": null
+    },
+    {
+     "text": "leison,",
+     "start": 2.71,
+     "end": null
+    },
+    {
+     "text": "Kerie",
+     "start": 7.08,
+     "end": null
+    },
+    {
+     "text": "leison,",
+     "start": 8.58,
+     "end": null
+    },
+    {
+     "text": "Kerie",
+     "start": 10.94,
+     "end": null
+    },
+    {
+     "text": "lesion.",
+     "start": 13.51,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 31.58,
+   "words": [
+    {
+     "text": "The",
+     "start": 31.58,
+     "end": null
+    },
+    {
+     "text": "horse",
+     "start": 31.94,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 32.54,
+     "end": null
+    },
+    {
+     "text": "its",
+     "start": 32.94,
+     "end": null
+    },
+    {
+     "text": "rider",
+     "start": 33.24,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 33.81,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 34.28,
+     "end": null
+    },
+    {
+     "text": "thrown",
+     "start": 34.68,
+     "end": null
+    },
+    {
+     "text": "into",
+     "start": 35.08,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 35.44,
+     "end": null
+    },
+    {
+     "text": "sea,",
+     "start": 35.74,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 36.34,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 37.01,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 37.61,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 37.98,
+     "end": null
+    },
+    {
+     "text": "strength",
+     "start": 38.28,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 38.64,
+     "end": null
+    },
+    {
+     "text": "song,",
+     "start": 38.91,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 39.45,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 39.81,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 40.11,
+     "end": null
+    },
+    {
+     "text": "become",
+     "start": 40.44,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 40.81,
+     "end": null
+    },
+    {
+     "text": "salvation.",
+     "start": 41.44,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 44.28,
+   "words": [
+    {
+     "text": "He",
+     "start": 44.28,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 44.68,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 45.11,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 45.42,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 45.81,
+     "end": null
+    },
+    {
+     "text": "I",
+     "start": 46.28,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 46.71,
+     "end": null
+    },
+    {
+     "text": "glorify",
+     "start": 47.15,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 47.58,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 47.98,
+     "end": null
+    },
+    {
+     "text": "father's",
+     "start": 48.54,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 48.98,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 49.61,
+     "end": null
+    },
+    {
+     "text": "I",
+     "start": 50.11,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 50.48,
+     "end": null
+    },
+    {
+     "text": "exalt",
+     "start": 51.08,
+     "end": null
+    },
+    {
+     "text": "Him.",
+     "start": 51.64,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 53.34,
+   "words": [
+    {
+     "text": "The",
+     "start": 53.34,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 53.74,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 54.14,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 54.54,
+     "end": null
+    },
+    {
+     "text": "Man",
+     "start": 54.88,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 55.28,
+     "end": null
+    },
+    {
+     "text": "war,",
+     "start": 55.58,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 56.01,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 56.38,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 56.78,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 57.15,
+     "end": null
+    },
+    {
+     "text": "name.",
+     "start": 57.45,
+     "end": null
+    },
+    {
+     "text": "Pharaoh's",
+     "start": 58.01,
+     "end": null
+    },
+    {
+     "text": "chariots",
+     "start": 58.44,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 59.28,
+     "end": null
+    },
+    {
+     "text": "his",
+     "start": 59.58,
+     "end": null
+    },
+    {
+     "text": "army",
+     "start": 59.88,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 60.49,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 60.84,
+     "end": null
+    },
+    {
+     "text": "cast",
+     "start": 61.18,
+     "end": null
+    },
+    {
+     "text": "into",
+     "start": 61.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 62.8,
+     "end": null
+    },
+    {
+     "text": "sea.",
+     "start": 63.44,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l6",
+   "start": 65.14,
+   "words": [
+    {
+     "text": "His",
+     "start": 65.14,
+     "end": null
+    },
+    {
+     "text": "chosen",
+     "start": 65.61,
+     "end": null
+    },
+    {
+     "text": "captains",
+     "start": 66.28,
+     "end": null
+    },
+    {
+     "text": "also",
+     "start": 66.91,
+     "end": null
+    },
+    {
+     "text": "drowned",
+     "start": 68.11,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 68.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 69.28,
+     "end": null
+    },
+    {
+     "text": "Red",
+     "start": 69.91,
+     "end": null
+    },
+    {
+     "text": "Sea.",
+     "start": 70.38,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l7",
+   "start": 72.01,
+   "words": [
+    {
+     "text": "The",
+     "start": 72.01,
+     "end": null
+    },
+    {
+     "text": "depths",
+     "start": 72.58,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 73.18,
+     "end": null
+    },
+    {
+     "text": "covered",
+     "start": 73.68,
+     "end": null
+    },
+    {
+     "text": "them,",
+     "start": 73.98,
+     "end": null
+    },
+    {
+     "text": "they",
+     "start": 74.44,
+     "end": null
+    },
+    {
+     "text": "sank",
+     "start": 75.01,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 75.51,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 75.98,
+     "end": null
+    },
+    {
+     "text": "bottom",
+     "start": 76.31,
+     "end": null
+    },
+    {
+     "text": "like",
+     "start": 76.98,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 77.41,
+     "end": null
+    },
+    {
+     "text": "stone.",
+     "start": 77.81,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l8",
+   "start": 79.81,
+   "words": [
+    {
+     "text": "Your",
+     "start": 79.81,
+     "end": null
+    },
+    {
+     "text": "right",
+     "start": 80.14,
+     "end": null
+    },
+    {
+     "text": "hand",
+     "start": 80.44,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 80.81,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 81.04,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 81.58,
+     "end": null
+    },
+    {
+     "text": "become",
+     "start": 82.01,
+     "end": null
+    },
+    {
+     "text": "glorious",
+     "start": 82.91,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 83.51,
+     "end": null
+    },
+    {
+     "text": "power.",
+     "start": 83.98,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 84.78,
+     "end": null
+    },
+    {
+     "text": "right",
+     "start": 85.14,
+     "end": null
+    },
+    {
+     "text": "hand",
+     "start": 85.41,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 85.68,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 86.29,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 86.68,
+     "end": null
+    },
+    {
+     "text": "dashed",
+     "start": 86.91,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 87.28,
+     "end": null
+    },
+    {
+     "text": "enemy",
+     "start": 87.68,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 88.51,
+     "end": null
+    },
+    {
+     "text": "pieces.",
+     "start": 89.11,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l10",
+   "start": 104.38,
+   "words": [
+    {
+     "text": "And",
+     "start": 104.38,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 104.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 105.11,
+     "end": null
+    },
+    {
+     "text": "blast",
+     "start": 105.38,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 105.74,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 106.11,
+     "end": null
+    },
+    {
+     "text": "nostrils",
+     "start": 106.41,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 106.95,
+     "end": null
+    },
+    {
+     "text": "waters",
+     "start": 107.44,
+     "end": null
+    },
+    {
+     "text": "were",
+     "start": 107.98,
+     "end": null
+    },
+    {
+     "text": "gathered",
+     "start": 108.48,
+     "end": null
+    },
+    {
+     "text": "together,",
+     "start": 108.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 110.01,
+     "end": null
+    },
+    {
+     "text": "flood",
+     "start": 110.54,
+     "end": null
+    },
+    {
+     "text": "stood",
+     "start": 111.31,
+     "end": null
+    },
+    {
+     "text": "upright",
+     "start": 111.84,
+     "end": null
+    },
+    {
+     "text": "like",
+     "start": 112.38,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 112.95,
+     "end": null
+    },
+    {
+     "text": "heap,",
+     "start": 113.18,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 113.94,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 114.32,
+     "end": null
+    },
+    {
+     "text": "depths",
+     "start": 114.61,
+     "end": null
+    },
+    {
+     "text": "congealed",
+     "start": 115.01,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 115.44,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 115.78,
+     "end": null
+    },
+    {
+     "text": "heart",
+     "start": 116.31,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 116.98,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 117.41,
+     "end": null
+    },
+    {
+     "text": "sea.",
+     "start": 118.29,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 119.45,
+   "words": [
+    {
+     "text": "The",
+     "start": 119.45,
+     "end": null
+    },
+    {
+     "text": "enemy",
+     "start": 119.84,
+     "end": null
+    },
+    {
+     "text": "said,",
+     "start": 120.51,
+     "end": null
+    },
+    {
+     "text": "\"I",
+     "start": 120.84,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 121.38,
+     "end": null
+    },
+    {
+     "text": "pursue,",
+     "start": 121.81,
+     "end": null
+    },
+    {
+     "text": "I",
+     "start": 122.61,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 123.11,
+     "end": null
+    },
+    {
+     "text": "overtake,",
+     "start": 123.44,
+     "end": null
+    },
+    {
+     "text": "I",
+     "start": 124.51,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 124.98,
+     "end": null
+    },
+    {
+     "text": "divide",
+     "start": 125.64,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 125.69,
+     "end": null
+    },
+    {
+     "text": "spoil,",
+     "start": 125.74,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 126.25,
+     "end": null
+    },
+    {
+     "text": "desire",
+     "start": 126.78,
+     "end": null
+    },
+    {
+     "text": "shall",
+     "start": 127.68,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 128.05,
+     "end": null
+    },
+    {
+     "text": "satisfied",
+     "start": 128.44,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 128.91,
+     "end": null
+    },
+    {
+     "text": "them,",
+     "start": 129.39,
+     "end": null
+    },
+    {
+     "text": "I",
+     "start": 129.96,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 130.78,
+     "end": null
+    },
+    {
+     "text": "draw",
+     "start": 131.01,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 131.34,
+     "end": null
+    },
+    {
+     "text": "sword,",
+     "start": 131.61,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 132.28,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": 132.55,
+     "end": null
+    },
+    {
+     "text": "hand",
+     "start": 132.84,
+     "end": null
+    },
+    {
+     "text": "shall",
+     "start": 133.48,
+     "end": null
+    },
+    {
+     "text": "destroy",
+     "start": 134.01,
+     "end": null
+    },
+    {
+     "text": "them.\"",
+     "start": 134.92,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l12",
+   "start": 136.94,
+   "words": [
+    {
+     "text": "You",
+     "start": 136.94,
+     "end": null
+    },
+    {
+     "text": "blew",
+     "start": 137.38,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 137.98,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 138.48,
+     "end": null
+    },
+    {
+     "text": "wind,",
+     "start": 138.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 139.21,
+     "end": null
+    },
+    {
+     "text": "sea",
+     "start": 139.74,
+     "end": null
+    },
+    {
+     "text": "covered",
+     "start": 140.48,
+     "end": null
+    },
+    {
+     "text": "them,",
+     "start": 140.94,
+     "end": null
+    },
+    {
+     "text": "they",
+     "start": 141.71,
+     "end": null
+    },
+    {
+     "text": "sank",
+     "start": 142.41,
+     "end": null
+    },
+    {
+     "text": "like",
+     "start": 142.74,
+     "end": null
+    },
+    {
+     "text": "lead",
+     "start": 143.01,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 143.51,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 143.91,
+     "end": null
+    },
+    {
+     "text": "mighty",
+     "start": 144.34,
+     "end": null
+    },
+    {
+     "text": "waters.",
+     "start": 145.42,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l13",
+   "start": 147.31,
+   "words": [
+    {
+     "text": "Who",
+     "start": 147.31,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 147.94,
+     "end": null
+    },
+    {
+     "text": "like",
+     "start": 148.31,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 148.64,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 149.01,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 149.34,
+     "end": null
+    },
+    {
+     "text": "among",
+     "start": 149.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 150.18,
+     "end": null
+    },
+    {
+     "text": "gods.",
+     "start": 150.54,
+     "end": null
+    },
+    {
+     "text": "Who",
+     "start": 151.21,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 151.64,
+     "end": null
+    },
+    {
+     "text": "like",
+     "start": 152.05,
+     "end": null
+    },
+    {
+     "text": "You,",
+     "start": 152.64,
+     "end": null
+    },
+    {
+     "text": "glorified",
+     "start": 153.08,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 153.61,
+     "end": null
+    },
+    {
+     "text": "his",
+     "start": 154.01,
+     "end": null
+    },
+    {
+     "text": "saints,",
+     "start": 154.68,
+     "end": null
+    },
+    {
+     "text": "amazing",
+     "start": 155.34,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 156.02,
+     "end": null
+    },
+    {
+     "text": "glory,",
+     "start": 156.38,
+     "end": null
+    },
+    {
+     "text": "performing",
+     "start": 157.58,
+     "end": null
+    },
+    {
+     "text": "wonders.",
+     "start": 158.51,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l14",
+   "start": 161.08,
+   "words": [
+    {
+     "text": "You",
+     "start": 161.08,
+     "end": null
+    },
+    {
+     "text": "stretched",
+     "start": 161.34,
+     "end": null
+    },
+    {
+     "text": "out",
+     "start": 161.68,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 162.14,
+     "end": null
+    },
+    {
+     "text": "right",
+     "start": 162.64,
+     "end": null
+    },
+    {
+     "text": "hand,",
+     "start": 163.08,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 163.41,
+     "end": null
+    },
+    {
+     "text": "earth",
+     "start": 164.01,
+     "end": null
+    },
+    {
+     "text": "swallowed",
+     "start": 164.68,
+     "end": null
+    },
+    {
+     "text": "them.",
+     "start": 165.31,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 165.98,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 166.31,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 166.78,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 167.14,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 167.78,
+     "end": null
+    },
+    {
+     "text": "led",
+     "start": 168.18,
+     "end": null
+    },
+    {
+     "text": "forth",
+     "start": 168.48,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 168.91,
+     "end": null
+    },
+    {
+     "text": "people",
+     "start": 169.18,
+     "end": null
+    },
+    {
+     "text": "whom",
+     "start": 169.74,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 170.14,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 170.48,
+     "end": null
+    },
+    {
+     "text": "redeemed.",
+     "start": 170.95,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 171.78,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 172.04,
+     "end": null
+    },
+    {
+     "text": "guided",
+     "start": 172.38,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 172.78,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 173.21,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 174.11,
+     "end": null
+    },
+    {
+     "text": "strength,",
+     "start": 174.31,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 174.94,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 175.31,
+     "end": null
+    },
+    {
+     "text": "holy",
+     "start": 175.58,
+     "end": null
+    },
+    {
+     "text": "habitation.",
+     "start": 176.14,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l15",
+   "start": 178.75,
+   "words": [
+    {
+     "text": "The",
+     "start": 178.75,
+     "end": null
+    },
+    {
+     "text": "people",
+     "start": 179.04,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 179.44,
+     "end": null
+    },
+    {
+     "text": "hear",
+     "start": 179.91,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 180.24,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 180.61,
+     "end": null
+    },
+    {
+     "text": "afraid,",
+     "start": 180.91,
+     "end": null
+    },
+    {
+     "text": "sorrow",
+     "start": 181.91,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 182.31,
+     "end": null
+    },
+    {
+     "text": "take",
+     "start": 182.68,
+     "end": null
+    },
+    {
+     "text": "hold",
+     "start": 182.98,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 183.54,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 183.84,
+     "end": null
+    },
+    {
+     "text": "inhabitants",
+     "start": 184.18,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 185.54,
+     "end": null
+    },
+    {
+     "text": "Palestine.",
+     "start": 186.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l16",
+   "start": 188.84,
+   "words": [
+    {
+     "text": "Then",
+     "start": 188.84,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 189.21,
+     "end": null
+    },
+    {
+     "text": "chiefs",
+     "start": 189.51,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 189.88,
+     "end": null
+    },
+    {
+     "text": "Edom",
+     "start": 190.28,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 190.94,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 191.24,
+     "end": null
+    },
+    {
+     "text": "dismayed,",
+     "start": 191.54,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 192.44,
+     "end": null
+    },
+    {
+     "text": "mighty",
+     "start": 192.71,
+     "end": null
+    },
+    {
+     "text": "men",
+     "start": 193.21,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 193.58,
+     "end": null
+    },
+    {
+     "text": "Moab",
+     "start": 193.78,
+     "end": null
+    },
+    {
+     "text": "trembling,",
+     "start": 194.41,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 195.04,
+     "end": null
+    },
+    {
+     "text": "take",
+     "start": 195.41,
+     "end": null
+    },
+    {
+     "text": "hold",
+     "start": 195.74,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 196.14,
+     "end": null
+    },
+    {
+     "text": "them.",
+     "start": 196.56,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l17",
+   "start": 198.44,
+   "words": [
+    {
+     "text": "All",
+     "start": 198.44,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 198.78,
+     "end": null
+    },
+    {
+     "text": "inhabitants",
+     "start": 199.58,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 200.58,
+     "end": null
+    },
+    {
+     "text": "Canaan",
+     "start": 200.88,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 201.44,
+     "end": null
+    },
+    {
+     "text": "melt",
+     "start": 202.01,
+     "end": null
+    },
+    {
+     "text": "away,",
+     "start": 202.41,
+     "end": null
+    },
+    {
+     "text": "fear",
+     "start": 203.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 203.62,
+     "end": null
+    },
+    {
+     "text": "dread",
+     "start": 204.08,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": 204.44,
+     "end": null
+    },
+    {
+     "text": "fall",
+     "start": 204.94,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 205.61,
+     "end": null
+    },
+    {
+     "text": "them.",
+     "start": 205.98,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l20",
+   "start": 235.54,
+   "words": [
+    {
+     "text": "Your",
+     "start": 235.54,
+     "end": null
+    },
+    {
+     "text": "sanctuary",
+     "start": 236.08,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 237.01,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 237.51,
+     "end": null
+    },
+    {
+     "text": "which",
+     "start": 238.54,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 239.04,
+     "end": null
+    },
+    {
+     "text": "hands",
+     "start": 239.34,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 239.71,
+     "end": null
+    },
+    {
+     "text": "established,",
+     "start": 240.31,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 241.14,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 241.54,
+     "end": null
+    },
+    {
+     "text": "shall",
+     "start": 242.18,
+     "end": null
+    },
+    {
+     "text": "reign",
+     "start": 242.64,
+     "end": null
+    },
+    {
+     "text": "forever",
+     "start": 243.01,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 243.68,
+     "end": null
+    },
+    {
+     "text": "ever.",
+     "start": 244.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l21",
+   "start": 246.24,
+   "words": [
+    {
+     "text": "For",
+     "start": 246.24,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 246.58,
+     "end": null
+    },
+    {
+     "text": "horses",
+     "start": 246.84,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 247.31,
+     "end": null
+    },
+    {
+     "text": "Pharaoh,",
+     "start": 247.61,
+     "end": null
+    },
+    {
+     "text": "went",
+     "start": 248.31,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 249.11,
+     "end": null
+    },
+    {
+     "text": "his",
+     "start": 249.41,
+     "end": null
+    },
+    {
+     "text": "chariots",
+     "start": 249.78,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 250.08,
+     "end": null
+    },
+    {
+     "text": "his",
+     "start": 250.81,
+     "end": null
+    },
+    {
+     "text": "horsemen",
+     "start": 251.18,
+     "end": null
+    },
+    {
+     "text": "into",
+     "start": 251.91,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 253.04,
+     "end": null
+    },
+    {
+     "text": "sea.",
+     "start": 253.54,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l23",
+   "start": 266.98,
+   "words": [
+    {
+     "text": "Then",
+     "start": 266.98,
+     "end": null
+    },
+    {
+     "text": "Miriam",
+     "start": 267.28,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 267.74,
+     "end": null
+    },
+    {
+     "text": "prophetess,",
+     "start": 268.34,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 269.18,
+     "end": null
+    },
+    {
+     "text": "sister",
+     "start": 269.78,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 270.18,
+     "end": null
+    },
+    {
+     "text": "Aaron,",
+     "start": 270.48,
+     "end": null
+    },
+    {
+     "text": "took",
+     "start": 271.24,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 271.61,
+     "end": null
+    },
+    {
+     "text": "timbrel",
+     "start": 272.18,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 272.61,
+     "end": null
+    },
+    {
+     "text": "her",
+     "start": 272.98,
+     "end": null
+    },
+    {
+     "text": "hand,",
+     "start": 273.34,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 273.94,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 274.31,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 274.74,
+     "end": null
+    },
+    {
+     "text": "women",
+     "start": 275.28,
+     "end": null
+    },
+    {
+     "text": "went",
+     "start": 275.84,
+     "end": null
+    },
+    {
+     "text": "out",
+     "start": 276.28,
+     "end": null
+    },
+    {
+     "text": "after",
+     "start": 276.58,
+     "end": null
+    },
+    {
+     "text": "her,",
+     "start": 277.08,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 277.78,
+     "end": null
+    },
+    {
+     "text": "timbrels",
+     "start": 278.04,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 278.58,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 279.08,
+     "end": null
+    },
+    {
+     "text": "praises.",
+     "start": 279.64,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l24",
+   "start": 281.74,
+   "words": [
+    {
+     "text": "And",
+     "start": 281.74,
+     "end": null
+    },
+    {
+     "text": "Miriam",
+     "start": 282.01,
+     "end": null
+    },
+    {
+     "text": "answered",
+     "start": 282.98,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 284.34,
+     "end": null
+    },
+    {
+     "text": "saying,",
+     "start": 284.98,
+     "end": null
+    },
+    {
+     "text": "\"Let",
+     "start": 286.74,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 287.24,
+     "end": null
+    },
+    {
+     "text": "sing",
+     "start": 288.01,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 288.64,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 288.98,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 289.51,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 289.84,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 290.11,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 290.44,
+     "end": null
+    },
+    {
+     "text": "triumphed",
+     "start": 290.78,
+     "end": null
+    },
+    {
+     "text": "gloriously.\"",
+     "start": 291.84,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l25",
+   "start": 295.24,
+   "words": [
+    {
+     "text": "The",
+     "start": 295.24,
+     "end": null
+    },
+    {
+     "text": "horse",
+     "start": 295.58,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 296.08,
+     "end": null
+    },
+    {
+     "text": "its",
+     "start": 296.48,
+     "end": null
+    },
+    {
+     "text": "rider",
+     "start": 296.88,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 298.88,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 299.38,
+     "end": null
+    },
+    {
+     "text": "thrown",
+     "start": 299.74,
+     "end": null
+    },
+    {
+     "text": "into",
+     "start": 300.38,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 300.84,
+     "end": null
+    },
+    {
+     "text": "sea.",
+     "start": 301.48,
+     "end": null
+    },
+    {
+     "text": "\"Let",
+     "start": 303.28,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 303.88,
+     "end": null
+    },
+    {
+     "text": "sing",
+     "start": 304.21,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 305.08,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 305.54,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 305.94,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 306.38,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 307.08,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 307.44,
+     "end": null
+    },
+    {
+     "text": "triumphed",
+     "start": 307.78,
+     "end": null
+    },
+    {
+     "text": "gloriously.\"",
+     "start": 309.11,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

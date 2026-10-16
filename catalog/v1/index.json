@@ -1,5 +1,5 @@
 {
- "version": "2395a9763eda318f",
+ "version": "8a60d5af40128932",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -730,6 +730,7 @@
         "arabic": "تسبحة نصف الليل"
        },
        "entries": [
+        "aripalin",
         "first-hoos"
        ]
       },
@@ -2383,6 +2384,7 @@
    "source": "content/mahragan-keraza-2026/ms/level-2/aripalin/",
    "youtube": "https://www.youtube.com/watch?v=wB1ygqD98WY",
    "antiphonalGroup": 2,
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/aripalin.json",
@@ -2846,9 +2848,9 @@
    "text": "first-hoos",
    "duration": 316.08,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 20,
+    "words": 20,
+    "of": 20
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -2859,8 +2861,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos-english.json",
-     "bytes": 78,
-     "sha256": "02c6432e28b4e68c48dd657859cdf977168c3b468d2fff7efd7a44a02c5e0c98",
+     "bytes": 30222,
+     "sha256": "d61acc2d5b6ce3edd46809c1bf62cc6e9dba012eced5be4134c8ac43a6527bf6",
      "role": "timing"
     },
     {
