@@ -1,0 +1,773 @@
+{
+ "id": "third-hoos",
+ "titles": {
+  "english": "The Third Hoos",
+  "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ",
+  "arabic": "الهوس الثالث"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Blessed are You O Lord God of our fathers, and exceedingly to be blessed and exalted above all forever.",
+    "arabic": "مبارك أنت أيها الرب إله أبائنا، ومتزايد بركة ومتزايد علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Ekesmaroout Epshois Efnoti ente nenioti: ekerhowo esmaroout ekerhowo chisi sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ:"
+    },
+    {
+     "coptic": "ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡⲓⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ: ϥ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϥ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Blessed is Your holy name and Your glory, and exceedingly to be blessed and exalted above all forever.",
+    "arabic": "مبارك إسم مجدك القدوس، ومتزايد بركة ومتزايد علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Efesmaroout enje piran ethowab ente pekoou: eferhowo esmaroout eferhowo chisi sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡⲓⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ:"
+    },
+    {
+     "coptic": "ϥ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϥ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲉⲣⲫⲉⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ ⲉⲑⲟⲩⲁⲃ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Blessed are You in the holy temple of Your glory, and exceedingly to be blessed and exalted above all forever.",
+    "arabic": "مبارك أنت في هيكل مجدك المقدس، ومتزايد بركة ومتزايد علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Ekesmaroout khen pierfei ente pekoou ethowab: ekerhowo esmaroout ekerhowo chisi sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲉⲣⲫⲉⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲫⲏⲉⲑⲛⲁⲩ ⲉ̀ⲛⲓⲛⲟⲩⲛ ⲉϥϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Blessed are You who beholds the depths and sits upon the Cherubim, and exceedingly to be blessed and exalted above all forever.",
+    "arabic": "مبارك أنت أيها الناظر إلى الأعماق الجالس على الشاروبيم، ومتزايد بركة ومتزايد علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Ekesmaroout fee-ethnav eninoun efhemsi hijen Nisherouvim: ekerhowo esmaroout ekerhowo chisi sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲫⲏⲉⲑⲛⲁⲩ ⲉ̀ⲛⲓⲛⲟⲩⲛ ⲉϥϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
+    },
+    {
+     "coptic": "ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Blessed are You on the throne of Your kingdom, and exceedingly to be blessed and exalted above all forever.",
+    "arabic": "مبارك أنت على عرش مُلكك، ومتزايد بركة ومتزايد علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Ekesmaroout hijen pi-ethronos ente tekmetouro: ekerhowo esmaroout ekerhowo chisi sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ:"
+    },
+    {
+     "coptic": "ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲥ̀ⲧⲉⲣⲉⲱ̀ⲙⲁ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Blessed are You in the firmament of heaven, and exceedingly to be blessed and exalted above all forever.",
+    "arabic": "مبارك أنت في فلك السماء، ومتزايد بركة ومتزايد علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Ekesmaroout khen pi-estere-oma ente etfe: ekerhowo esmaroout ekerhowo chisi sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲥ̀ⲧⲉⲣⲉⲱ̀ⲙⲁ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩ̀ⲃⲏⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you works of the Lord, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب يا جميع أعمال الرب، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois ni-ehveeoui teerou ente Epshois: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩ̀ⲃⲏⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲫⲏⲟⲩⲓ̀: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O heaven, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها السموات، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nifeeoui: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲫⲏⲟⲩⲓ̀:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you angels of the Lord, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا جميع ملائكة الرب، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois niangelos teerou ente Epshois: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲧⲥⲁ ⲡ̀ϣⲱⲓ ⲛ̀ⲧ̀ⲫⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you waters above the heaven, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب يا جميع المياه التي فوق السماء، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nimoou teerou etsa epshoi enetfe: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲧⲥⲁ ⲡ̀ϣⲱⲓ ⲛ̀ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϫⲟⲙ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you powers of the Lord, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب يا جميع قوات الرب، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nigom teerou ente Epshois: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϫⲟⲙ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲣⲏ ⲛⲉⲙ ⲡⲓⲓⲟϩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O sun and moon, praise Him and exalt Him above all forever.",
+    "arabic": "باركا الرب أيتها الشمس والقمر، سبحاه وزيداه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois piree nem pioh: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲣⲏ ⲛⲉⲙ ⲡⲓⲓⲟϩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲥⲓⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you stars of heaven, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب يا سائر نجوم السماء، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nisiou teerou ente etfe: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲥⲓⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲟⲩⲛϩⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲱϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you rain and dew, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الأمطار مع الأنداء، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nimounhoou nem nioti: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲟⲩⲛϩⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲱϯ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l15",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϭⲏⲡⲓ ⲛⲉⲙ ⲛⲓⲑⲏⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you clouds and winds, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها السُحب والرياح، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nicheepi nem nitheeou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϭⲏⲡⲓ ⲛⲉⲙ ⲛⲓⲑⲏⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l16",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you spirits, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب يا جميع الأرواح، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois ni-epnevma teerou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲧⲏⲣⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l17",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲙⲁ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O fire and heat, praise Him and exalt Him above all forever.",
+    "arabic": "باركا الرب أيتها النار والحرارة، سبحاه وزيداه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois pi-ekrom nem pikavma: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲙⲁ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l18",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲱ̀ϫⲉⲃ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲥⲱⲛ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O cold and heat, praise Him and exalt Him above all forever.",
+    "arabic": "باركا الرب أيها البرد والحر، سبحاه وزيداه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois pi-ojeb nem pikavson: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲱ̀ϫⲉⲃ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲥⲱⲛ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l19",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲓⲱϯ ⲛⲉⲙ ⲛⲓⲛⲓϥⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you dew and winds, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الأهوية والأنداء، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nioti nem ninifi: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲓⲱϯ ⲛⲉⲙ ⲛⲓⲛⲓϥⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l20",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ϫⲱⲣϩ ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you nights and days, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الليالي والأيام، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois ni-egorh nem ni-ehoou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ϫⲱⲣϩ ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l21",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛⲉⲙ ⲡⲓⲭⲁⲕⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O light and darkness, praise Him and exalt Him above all forever.",
+    "arabic": "باركا الرب أيها النور والظلمة، سبحاه وزيداه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois piowoini nem pikaki: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛⲉⲙ ⲡⲓⲭⲁⲕⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l22",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓϫⲁϥ ⲛⲉⲙ ⲡⲓⲱ̀ϫⲉⲃ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O frost and cold, praise Him and exalt Him above all forever.",
+    "arabic": "باركا الرب أيها البرد والصقيع، سبحاه وزيداه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois pigaf nem pi-ojeb: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓϫⲁϥ ⲛⲉⲙ ⲡⲓⲱ̀ϫⲉⲃ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l23",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ϯⲡⲁⲭⲛⲏ ⲛⲉⲙ ⲡⲓⲭⲓⲱⲛ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O snow and ice, praise Him and exalt Him above all forever.",
+    "arabic": "باركا الرب أيها الجليد والثلج، سبحاه وزيداه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois tipakhnee nem pishion: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ϯⲡⲁⲭⲛⲏ ⲛⲉⲙ ⲡⲓⲭⲓⲱⲛ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l24",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲥⲉⲧⲉⲃⲣⲏϫ ⲛⲉⲙ ⲛⲓϭⲏⲡⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you lightnings and clouds, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها البروق والسحب، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nisetevreeg nem nicheepi: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲥⲉⲧⲉⲃⲣⲏϫ ⲛⲉⲙ ⲛⲓϭⲏⲡⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l25",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲕⲁϩⲓ ⲧⲏⲣϥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all the earth, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الأرض كلها، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois pikahi teerf: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲕⲁϩⲓ ⲧⲏⲣϥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l26",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲧⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲕⲁⲗⲁⲙⲫⲱⲟⲩ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you mountains and all hills, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الجبال وجميع الآكام، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nitoou nem nikalamfoou teerou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲧⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲕⲁⲗⲁⲙⲫⲱⲟⲩ ⲧⲏⲣⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l27",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏ ⲧⲏⲣⲟⲩ ⲉⲧⲣⲏⲧ ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you things that spring up on the earth, praise Him and exalt Him above all forever.",
+    "arabic": "بارك الرب يا جميع ما يَنبت على وجه الأرض، سبحه وزده علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nee teerou etreet hijen epho emepkahi: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏ ⲧⲏⲣⲟⲩ ⲉⲧⲣⲏⲧ ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l28",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲟⲩⲙⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you fountains, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الينابيع، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nimoumi: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲟⲩⲙⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l29",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲁ̀ⲙⲁⲓⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲁⲣⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you seas and rivers, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها البحار والأنهار، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois ni-amaiou nem niaroou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲁ̀ⲙⲁⲓⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲁⲣⲱⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l30",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲕⲏⲧⲟⲥ ⲛⲉⲙ ⲉⲛⲭⲁⲓ ⲛⲓⲃⲉⲛ ⲉⲧⲕⲓⲙ ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you whales and all that moves in the waters, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الحيتان وجميع ما يتحرك في الماء، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nikeetos nem enkai niven etkim khen nimoou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲕⲏⲧⲟⲥ ⲛⲉⲙ ⲉⲛⲭⲁⲓ ⲛⲓⲃⲉⲛ ⲉⲧⲕⲓⲙ ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l31",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩⲁⲗⲁϯ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you birds of the sky, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب يا جميع طيور السماء، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nihalati teerou ente etfe: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩⲁⲗⲁϯ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l32",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲑⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲛⲓⲧⲉⲃⲛⲱⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord all you wild beasts and cattle, praise Him and exalt Him above all forever.",
+    "arabic": "باركي الرب أيتها الوحوش وكل البهائم، سبحيه وزيديه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nitheerion nem nitevnooui teerou: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲑⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲛⲓⲧⲉⲃⲛⲱⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l33",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲛⲓⲣⲱⲙⲓ: ⲟⲩⲱϣⲧ ⲙ̀Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you sons of men, worship the Lord, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا بني البشر، وأُسجدوا للرب، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nisheeri ente niromi: o-osht emepshois: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲛⲓⲣⲱⲙⲓ:"
+    },
+    {
+     "coptic": "ⲟⲩⲱϣⲧ ⲙ̀Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l34",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲓⲥⲣⲁⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O Israel, praise Him and exalt Him above all forever.",
+    "arabic": "بارك الرب يا إسرائيل، سبحه وزده علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois Pisraeel: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲓⲥⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l35",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲟⲩⲏⲃ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you priests of the Lord, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا كهنة الرب، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nioweeb ente Epshois: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲟⲩⲏⲃ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l36",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ⲃⲓⲁⲓⲕ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you servants of the Lord, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا عبيد الرب، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois ni-eviaik ente Epshois: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ⲃⲓⲁⲓⲕ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l37",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲛⲉⲙ ⲛⲓⲯⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲓⲑ̀ⲙⲏⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you spirits and souls of the just, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا أرواح وأنفس الصديقين، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois ni-epnevma nem nipsishee ente ni-ethmee: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲛⲉⲙ ⲛⲓⲯⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲓⲑ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l38",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ ϧⲉⲛ ⲡⲟⲩϩⲏⲧ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you holy and humble of heart, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب أيها القديسون والمتواضعو القلوب، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nee-ethowab nem nee-etthevieeout khen pouheet: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ ϧⲉⲛ ⲡⲟⲩϩⲏⲧ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l39",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ Ⲙⲓⲥⲁⲏⲗ ⲕⲉ Ⲇⲁⲛⲓⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O Hananiah Azariah Mishael and Daniel, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا حنانيا وعزاريا وميصائيل ودانيال، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois Ananias Azarias Misaeel ke Danieel: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ Ⲙⲓⲥⲁⲏⲗ ⲕⲉ Ⲇⲁⲛⲓⲏⲗ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l40",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you who worship the Lord the God of our fathers, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا عابدي الرب إله أبائنا، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nee-eterseveste emepshois Efnoti ente nenioti: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  }
+ ]
+}

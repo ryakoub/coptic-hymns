@@ -1,5 +1,5 @@
 {
- "version": "b0593053fb72dd49",
+ "version": "2d9dcd552993e668",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -733,6 +733,7 @@
         "ten-theeno",
         "first-hoos",
         "second-hoos",
+        "third-hoos",
         "aripalin"
        ]
       },
@@ -2242,6 +2243,33 @@
     "url": "catalog/v1/texts/the-thought-of-man.json",
     "bytes": 726,
     "sha256": "80b241aeb205bc4751249272b0bb4d19a9d12b4dca28cf7e654691393d2379d7"
+   }
+  },
+  {
+   "id": "third-hoos",
+   "titles": {
+    "english": "The Third Hoos",
+    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ",
+    "arabic": "الهوس الثالث"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 40,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "third-hoos",
+    "third-hoos-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/third-hoos.json",
+    "bytes": 36337,
+    "sha256": "12f784655795813e306bd504d0980bec7d368174deec09b9814f1c08d40d2c40"
    }
   },
   {
@@ -3846,6 +3874,64 @@
      "role": "audio",
      "bytes": 1177195,
      "sha256": "731694a0acd1da510597f6d0e55e05826dfcb430f25a65c1b9f4fc56ce725b60"
+    }
+   ]
+  },
+  {
+   "id": "third-hoos",
+   "text": "third-hoos",
+   "duration": 460.2,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 40
+   },
+   "source": "https://tasbeha.org/hymn_library/view/108",
+   "youtube": "https://youtu.be/vSRZp__8fpc",
+   "cantor": "The Coptic Gate (Mahragan 2025, High School)",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/third-hoos.json",
+     "bytes": 70,
+     "sha256": "58cc2157c380710d3f73b455af0ab39895ace4ab47aff36c5ecd5ffba70ee71a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/third-hoos/audio.m4a",
+     "role": "audio",
+     "bytes": 13473900,
+     "sha256": "9481d90cc056b653a502da1a3577b5cbe27ff5734e35a83988be8e645b98091a"
+    }
+   ]
+  },
+  {
+   "id": "third-hoos-english",
+   "text": "third-hoos",
+   "duration": 468.58,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/third-hoos-english.json",
+     "bytes": 78,
+     "sha256": "55374d74b36ab6884dbc961ff2d0d476979709a2619020a761988ccc5978b31a",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/third-hoos-english/audio.mp3",
+     "role": "audio",
+     "bytes": 7498531,
+     "sha256": "0e63436bd0157d6391e510ed06b1d0fb82fd9740204ae6b83134f0f38f0b6cfa"
     }
    ]
   },

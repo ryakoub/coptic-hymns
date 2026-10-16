@@ -51,7 +51,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 | 50 | The First Hoos Lobsh | view/105 | English: Part 1 #5 |
 | 60 | The Second Hoos | view/106 | ✓ `second-hoos` (YouTube, The Coptic Gate), with English |
 | 70 | The Second Hoos Lobsh | view/182 | English: Part 1 #7 |
-| 80 | The Third Hoos | view/108 | English: Part 1 #8 |
+| 80 | The Third Hoos | view/108 | ✓ `third-hoos` (YouTube, The Coptic Gate), with English |
 | 85 | Aripsalin (Third Hoos Lobsh) | — | ✓ `aripalin`, with English (Part 1 #9) |
 | 90 | The Third Hoos – Esmo Epchois | view/453 | |
 | 100 | Psali Watos for the Three Saintly Children (Greek) | view/109 | |
