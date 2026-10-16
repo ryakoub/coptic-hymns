@@ -87,6 +87,7 @@ No need to fill a big table. Whenever you work on a hymn, open its `info.json` (
 | Line | What it does |
 |---|---|
 | `places` | Where the hymn appears in the library. List as many as apply. |
+| `order` | Its position in those places, lower first (e.g. `30`). Use steps of 10 so hymns can go in between. For a different position per place: `"places": [{"place": "praises/midnight", "order": 30}]` |
 | `kind` | `recital` or `melismatic` |
 | `style` | `major`, `medium` or `minor` |
 | `mode` | `annual`, `festal`, `lenten`, `joyful`… |

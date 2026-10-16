@@ -21,8 +21,9 @@ language: its word timings follow the line's sung text in it ("sung": {"english"
 
 A folder places itself in the library with "places": ["resurrection/liturgy", "praises/midnight-praises"]
 (collection id / service or section id, as in catalog/library.json; an unambiguous part of the section
-id is enough, e.g. "praises/midnight"). Hymns listed in library.json
-keep their order there; hymns placed this way follow them.
+id is enough, e.g. "praises/midnight"). "order": 10 sets its position in those sections (lower first);
+for a different position per place, write {"place": "praises/midnight", "order": 10}. Numbered hymns
+come first in their order, then the rest alphabetically, all after any listed in library.json.
 
 Usage:
   python3 tools/build_catalog.py            # write the catalog and print a report
@@ -180,7 +181,7 @@ class Build:
                 entry[key] = info[key]
         if audio:
             entry["_audio"] = audio
-        self.places[rid] = info.get("places", [])
+        self.places[rid] = (info.get("places", []), info.get("order"))
         self.recordings[rid] = entry
 
     def file(self, rel, data):
@@ -194,14 +195,27 @@ class Build:
             for c in g["collections"]:
                 for s in c.get("sections", []):
                     sections[f"{c['id']}/{s.get('service') or s.get('id')}"] = s
-        for rid, places in sorted(self.places.items()):
+        placed = {}   # section id -> [(order, title, recording)]
+        for rid, (places, default_order) in self.places.items():
             for place in places:
+                order = default_order
+                if isinstance(place, dict):
+                    order = place.get("order", default_order)
+                    place = place.get("place", "")
+                if order is not None and not isinstance(order, (int, float)):
+                    self.error(rid, f"order {order!r} is not a number")
+                    order = None
                 s = sections.get(place) or self.short_place(place, sections, rid)
                 if s is None:
                     continue
                 listed = [e if isinstance(e, str) else e.get("recording") for e in s["entries"]]
                 if rid not in listed:
-                    s["entries"].append(rid)
+                    title = self.texts.get(self.recordings[rid]["text"], {}).get("titles", {})
+                    placed.setdefault(id(s), (s, []))[1].append(
+                        (order if order is not None else float("inf"), (title.get("english") or title.get("coptic") or rid).lower(), rid))
+        # Numbered hymns in their order, then the rest alphabetically, after those listed in library.json.
+        for s, items in placed.values():
+            s["entries"].extend(rid for _, _, rid in sorted(items))
 
     def short_place(self, place, sections, rid):
         """Accept an unambiguous short form: "praises/midnight" for "praises/midnight-praises"."""

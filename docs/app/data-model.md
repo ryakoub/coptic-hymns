@@ -103,7 +103,7 @@ The builder then matches each of its lines to the text's lines by their Coptic, 
 
 `info.json` also accepts `titles` (`coptic`, `english`, `arabic`), `tags`, `kind` (`recital` or `melismatic`), `style`, `mode`, `cantor` and `lyricsSource`. The legacy `title` stays for the website.
 
-A folder can place itself in the library with `"places": ["resurrection/liturgy"]` (collection id / section, as in `catalog/library.json`). Hymns listed by hand in `library.json` keep their order there; hymns placed from `info.json` follow them. The builder reports places that don't exist.
+A folder can place itself in the library with `"places": ["resurrection/liturgy"]` (collection id / section, as in `catalog/library.json`). `"order": 30` sets its position there (lower first; per place with `{"place": …, "order": …}`). Hymns listed by hand in `library.json` come first; then numbered hymns in order; then the rest alphabetically. The builder reports places that don't exist.
 
 Later, when the website reads the catalog, texts can move to their own files and `lyrics.json` can be generated from text plus timings, so lyrics are edited in exactly one place.
 

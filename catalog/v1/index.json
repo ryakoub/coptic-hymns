@@ -1,5 +1,5 @@
 {
- "version": "a3949ac7491e0568",
+ "version": "c042ac8cee9c668e",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -730,8 +730,8 @@
         "arabic": "تسبحة نصف الليل"
        },
        "entries": [
-        "aripalin",
-        "first-hoos"
+        "first-hoos",
+        "aripalin"
        ]
       },
       {
