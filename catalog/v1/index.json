@@ -1,5 +1,5 @@
 {
- "version": "c042ac8cee9c668e",
+ "version": "799ec8f3fbedca47",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -731,6 +731,7 @@
        },
        "entries": [
         "first-hoos",
+        "second-hoos",
         "aripalin"
        ]
       },
@@ -2078,6 +2079,33 @@
     "url": "catalog/v1/texts/second-doxology-resurrection.json",
     "bytes": 5121,
     "sha256": "a58aac937a259384719b3e2350a0593bdf1510e805f2268ddf0565dbcea3f7c6"
+   }
+  },
+  {
+   "id": "second-hoos",
+   "titles": {
+    "english": "The Second Hoos",
+    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲁⲩ",
+    "arabic": "الهوس الثاني"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 28,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "second-hoos",
+    "second-hoos-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/second-hoos.json",
+    "bytes": 23752,
+    "sha256": "c221dcd373cb2996c861313f040a23d315c2e40e1245921f83859c0f2523bc6c"
    }
   },
   {
@@ -3577,6 +3605,62 @@
      "role": "audio",
      "bytes": 1910545,
      "sha256": "b8ffd311137e8bd2a66777d895271bf20f50ec13a1feb88bf2f5c691cb7dfd5a"
+    }
+   ]
+  },
+  {
+   "id": "second-hoos",
+   "text": "second-hoos",
+   "duration": 390.44,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 28
+   },
+   "source": "https://tasbeha.org/hymn_library/view/106",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-hoos.json",
+     "bytes": 72,
+     "sha256": "5704f2c5127e98e9bfc79371b010d95584182adba3f451552f916950109c9095",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/second-hoos/audio.mp3",
+     "role": "audio",
+     "bytes": 6248258,
+     "sha256": "44c001576c4207b5f356b28329a4ac20c94130fab2d0c82d0ad0ba4d328a6e39"
+    }
+   ]
+  },
+  {
+   "id": "second-hoos-english",
+   "text": "second-hoos",
+   "duration": 301.71,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-hoos-english.json",
+     "bytes": 80,
+     "sha256": "8dd314384f6ff107b9433638415b0e52261f90d84557439c739853b6591474c0",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/second-hoos-english/audio.mp3",
+     "role": "audio",
+     "bytes": 4828609,
+     "sha256": "334d04fe937f41db9b7557f4668b72dfea9d421509cc9ee46997a3c1ce58b527"
     }
    ]
   },
