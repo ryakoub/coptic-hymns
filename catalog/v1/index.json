@@ -1,5 +1,5 @@
 {
- "version": "2d9dcd552993e668",
+ "version": "1ecff175c97ffe95",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -734,7 +734,8 @@
         "first-hoos",
         "second-hoos",
         "third-hoos",
-        "aripalin"
+        "aripalin",
+        "fourth-hoos"
        ]
       },
       {
@@ -1519,6 +1520,33 @@
     "url": "catalog/v1/texts/first-hoos.json",
     "bytes": 11309,
     "sha256": "5f1d31a8b601797c63e79c7c6481fb1a13e3daa3db6f63a96d64cadfacc038bb"
+   }
+  },
+  {
+   "id": "fourth-hoos",
+   "titles": {
+    "english": "The Fourth Hoos",
+    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϥ̀ⲧⲟⲟⲩ",
+    "arabic": "الهوس الرابع"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 41,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "fourth-hoos",
+    "fourth-hoos-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/fourth-hoos.json",
+    "bytes": 31080,
+    "sha256": "a5da06ac7a54754c78d0bd46dde25217c5ebce9f5c896befb61e033307ad676e"
    }
   },
   {
@@ -2984,6 +3012,64 @@
      "role": "audio",
      "bytes": 5058485,
      "sha256": "ba5fb8b73834fadac43247c8ab5f0d8f23f75bbba3b24debdbd4eb2fd02d0b06"
+    }
+   ]
+  },
+  {
+   "id": "fourth-hoos",
+   "text": "fourth-hoos",
+   "duration": 441.94,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 41
+   },
+   "source": "https://tasbeha.org/hymn_library/view/127",
+   "youtube": "https://youtu.be/udKHxnPA3ps",
+   "cantor": "The Coptic Gate (Mahragan 2025, Middle School)",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/fourth-hoos.json",
+     "bytes": 72,
+     "sha256": "1bde5be6442b85d5fa5e3c7a139505301fae729d251d0e718ffc2f9cf4354dd6",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/fourth-hoos/audio.m4a",
+     "role": "audio",
+     "bytes": 13536735,
+     "sha256": "6fbc436b33c9e33f12445a24052dac530571cf5cf96f45127c202c9327ebaeeb"
+    }
+   ]
+  },
+  {
+   "id": "fourth-hoos-english",
+   "text": "fourth-hoos",
+   "duration": 437.63,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/fourth-hoos-english.json",
+     "bytes": 80,
+     "sha256": "202ff5dbf57f93dbe578fb5814c684e44c4eda3ba871ef529942fd72403115b5",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/fourth-hoos-english/audio.mp3",
+     "role": "audio",
+     "bytes": 7003250,
+     "sha256": "6cc91771522983e8511fbf0eff99d22971089ce3754bddc68957b0c176338fb2"
     }
    ]
   },

@@ -58,7 +58,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 | 110 | Watos Hymn – Ten-oweh Ensok | view/110 | in the app as `tenoue-n-khok` (Mahragan); English: Part 1 #10 |
 | 120 | The Commemoration of the Saints | view/111 | English: Part 1 #11 |
 | 130 | Doxology for Virgin Mary – Midnight Praise | view/25 | |
-| 140 | The Fourth Hoos | view/127 | |
+| 140 | The Fourth Hoos | view/127 | ✓ `fourth-hoos` (YouTube, The Coptic Gate), with English (Part 2 #1) |
 | 150 | The First Sunday Psali | view/112 | |
 | 160 | The Second Sunday Psali | view/174 | |
 | 170 | Intro of the Theotokia (Leebon) | view/465 | |
