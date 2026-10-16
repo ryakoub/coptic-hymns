@@ -52,9 +52,8 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 | 60 | The Second Hoos | view/106 | ✓ `second-hoos` (YouTube, The Coptic Gate), with English |
 | 70 | The Second Hoos Lobsh | view/182 | English: Part 1 #7 |
 | 80 | The Third Hoos | view/108 | ✓ `third-hoos` (YouTube, The Coptic Gate), with English |
-| 85 | Aripsalin (Third Hoos Lobsh) | — | ✓ `aripalin`, with English (Part 1 #9) |
 | 90 | The Third Hoos – Esmo Epchois | view/453 | |
-| 100 | Psali Watos for the Three Saintly Children (Greek) | view/109 | |
+| 100 | Psali Watos for the Three Saintly Children (Greek) — Aripsalin | view/109 | ✓ `aripalin` (Mahragan), with English (Part 1 #9) |
 | 110 | Watos Hymn – Ten-oweh Ensok | view/110 | in the app as `tenoue-n-khok` (Mahragan); English: Part 1 #10 |
 | 120 | The Commemoration of the Saints | view/111 | English: Part 1 #11 |
 | 130 | Doxology for Virgin Mary – Midnight Praise | view/25 | |

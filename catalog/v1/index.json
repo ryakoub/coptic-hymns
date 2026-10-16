@@ -1,5 +1,5 @@
 {
- "version": "1ecff175c97ffe95",
+ "version": "33233578dea5fa58",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1147,15 +1147,17 @@
    "translations": [
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
     "aripalin",
     "aripalin-english"
    ],
    "file": {
     "url": "catalog/v1/texts/aripalin.json",
-    "bytes": 21117,
-    "sha256": "a10d34d390167fd4904a1027b45c6477eaa1b22c0d81187d5652431d0961c0e8"
+    "bytes": 24868,
+    "sha256": "0ec07fb33d823b88bd2461a2fcfb621035fecae21c22c99b0f33a219b4073314"
    }
   },
   {
@@ -1511,15 +1513,17 @@
    "translations": [
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
     "first-hoos",
     "first-hoos-english"
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos.json",
-    "bytes": 11309,
-    "sha256": "5f1d31a8b601797c63e79c7c6481fb1a13e3daa3db6f63a96d64cadfacc038bb"
+    "bytes": 15063,
+    "sha256": "d572e69247aeb0f211b39a3f7463bb7941a72030c40a68e3c1590eed266f4a95"
    }
   },
   {

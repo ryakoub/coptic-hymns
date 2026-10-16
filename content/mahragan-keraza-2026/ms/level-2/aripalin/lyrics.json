@@ -22,7 +22,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 22.37
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Aripsalin efee-etavashf: e-ehree egon o-woh avkosf: aftonf afkorf emefmou aftishoshf: hos erof arihowo chasf."
+    }
   },
   {
     "start": 28.19,
@@ -47,7 +50,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 44.1
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Vosh empiromi empaleos: o-woh golh empiveri evekleos: o-woh ekhont emegha-eleos: hos erof arihowo chasf."
+    }
   },
   {
     "start": 49.41,
@@ -72,7 +78,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 65.15
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Genos enni-ekhristianos: ni-epresviteros ke thiakonos: ma-oou emepshois je ouhikanos: hos erof arihowo chasf."
+    }
   },
   {
     "start": 70.4,
@@ -97,7 +106,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 86.59
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Thevte haron o pishomt enalou: eta Pi-ekhristos Pennoti olou: afnahmou evol ha Pithiavolou: hos erof arihowo chasf."
+    }
   },
   {
     "start": 91.99,
@@ -122,7 +134,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 108.89
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Ethve Peknoti Masias: Efrefti enevergesias: amou sharon Ananias: hos erof arihowo chasf."
+    }
   },
   {
     "start": 114.53,
@@ -147,7 +162,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 130.73
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Zeelote Azarias: esperas ke epro-i ke meseem evrias: ma-oou enetgom enti-etrias: hos erof arihowo chasf."
+    }
   },
   {
     "start": 136.13,
@@ -172,7 +190,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 153.37
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Eeppe ghar is Emmanoweel: hi tenmeeti o Misaeel: lali khen ou-esmee entheleel: hos erof arihowo chasf."
+    }
   },
   {
     "start": 159.11,
@@ -197,7 +218,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 176.01
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Thoouti tinou kata shin teerou: saji nem ni-epresviterou: esmou e-epshois nefehveeoui teerou: hos erof arihowo chasf."
+    }
   },
   {
     "start": 181.64,
@@ -222,7 +246,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 199.38
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Is nifeeoui sesaji emepoou: emefnoti sha ekhoun emfoou: o niangelos etafegfoou: hos erof arihowo chasf."
+    }
   },
   {
     "start": 205.3,
@@ -247,7 +274,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 222.07
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Ke nin thinamis tou Kiriou: esmou epefran tou timiou: piree nem pioh nem nisiou: hos erof arihowo chasf."
+    }
   },
   {
     "start": 227.66,
@@ -272,7 +302,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 244.5
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Loipon nimou-enhoou nem nioti: evfeemisa te Penrefsoti: je enthof pe Efnoti ente nenioti: hos erof arihowo chasf."
+    }
   },
   {
     "start": 250.11,
@@ -297,7 +330,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 266.74
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Ma-oou emepshois o nicheepi evma: nitheeou nem ninifi nem ni-epnevma: pigaf nem pi-ekrom nem pikavma: hos erof arihowo chasf."
+    }
   },
   {
     "start": 272.28,
@@ -322,7 +358,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 288.74
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Niktes ke eemerero pe: fos ke eskotos ke asetrape: je thoksa si Filanethrope: hos erof arihowo chasf."
+    }
   },
   {
     "start": 294.23,
@@ -347,7 +386,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 310.42
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Ksila ke panta ta fi-omena: en tee gee ke panta ta kinoumena: hi nimoou nem nitoou nem ethrimona: hos erof arihowo chasf."
+    }
   },
   {
     "start": 315.81,
@@ -372,7 +414,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 332.46
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "O-woh on esmou enatkaroou: e-epshois Epouro ente niouroou: ni-amaiou nem niaroou: hos erof arihowo chasf."
+    }
   },
   {
     "start": 338.01,
@@ -397,7 +442,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 354.75
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Paireeti anon tennav eroou: marengos nem nai on teerou: esmou e-epshois nihalati teerou: hos erof arihowo chasf."
+    }
   },
   {
     "start": 360.33,
@@ -422,7 +470,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 376.26
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Ro ennipakhnee nem nishion: ke ekteenon nem nitheerion: esmou e-epshois ton kirion: hos erof arihowo chasf."
+    }
   },
   {
     "start": 381.57,
@@ -447,7 +498,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 398.0
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Esmou e-epshois kata eftomi: erof ke ou mee paranomi: o nisheeri ente niromi: hos erof arihowo chasf."
+    }
   },
   {
     "start": 403.47,
@@ -472,7 +526,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 419.62
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Timee ke thoksa o Pisraeel: ini nahraf khen ou-esmee entheleel: nioweeb ente Emmanoweel: hos erof arihowo chasf."
+    }
   },
   {
     "start": 425.01,
@@ -497,7 +554,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 440.65
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Ipeereton emefnoti emmee: nem nipsishee ente ni-ethmee: nee-etthevieeout enrefmei: hos erof arihowo chasf."
+    }
   },
   {
     "start": 445.86,
@@ -522,7 +582,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 462.5
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Efnoti Panoti egho: Petenrefsoti ek ton agho: Sedrak Misak Abdenagho: hos erof arihowo chasf."
+    }
   },
   {
     "start": 468.04,
@@ -547,7 +610,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 484.7
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Kolem khen ounishti eneshrois: o nee-eterseveste emepshois: nem nifisis teerou etafais: hos erof arihowo chasf."
+    }
   },
   {
     "start": 490.26,
@@ -572,7 +638,10 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 506.62
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Psikhos ke anapavsis: moi nan teeren khoris ethravsis: ethrengo khen o-apolavsis: hos erof arihowo chasf."
+    }
   },
   {
     "start": 512.07,
@@ -597,6 +666,9 @@
         "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
         "start": 529.33
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Osavtos pekvok pi-eptokhos: Sarkis aritf efoi enenokhos: esaji nem nai hos metokhos: hos erof arihowo chasf."
+    }
   }
 ]
