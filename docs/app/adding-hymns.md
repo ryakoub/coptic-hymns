@@ -34,7 +34,7 @@ Lines start untimed.
 1. `python3 tools/build_catalog.py`, commit and push (the app streams the audio from copticchanter.com).
 2. In the app repo: `scripts/sync-catalog.sh`, then Run in Xcode.
 3. On the iPad: open the hymn, pick Coptic or English above the play bar, tap the pencil and mark the words.
-4. Export to Downloads, then `python3 tools/import_timing.py --fill-gaps ~/Downloads/<file>.timing.json` (or ask Claude), rebuild, commit, push.
+4. Export to Downloads, then `python3 tools/import_timing.py ~/Downloads/<file>.timing.json` (partly marked lines are fine: skipped words are estimated) (or ask Claude), rebuild, commit, push.
 
 If the English singers use different words from Tasbeha's translation, correct the line's English (or add `"sung": {"english": "…"}`) before timing it.
 

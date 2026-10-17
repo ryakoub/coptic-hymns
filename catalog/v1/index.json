@@ -1,5 +1,5 @@
 {
- "version": "17a3b44fca8eef95",
+ "version": "18e3a91aa6b85d16",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -4832,8 +4832,8 @@
    "text": "second-hoos",
    "duration": 319.0,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 28,
+    "words": 28,
     "of": 28
    },
    "source": "https://tasbeha.org/hymn_library/view/106",
@@ -4843,8 +4843,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos.json",
-     "bytes": 72,
-     "sha256": "5704f2c5127e98e9bfc79371b010d95584182adba3f451552f916950109c9095",
+     "bytes": 29192,
+     "sha256": "a8e8513387c75bfc1f8c609089831ca1c8362beab1c1954548eda839ac9f6054",
      "role": "timing"
     },
     {
@@ -4860,9 +4860,9 @@
    "text": "second-hoos",
    "duration": 301.71,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 28,
+    "words": 28,
+    "of": 28
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -4873,8 +4873,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-english.json",
-     "bytes": 80,
-     "sha256": "8dd314384f6ff107b9433638415b0e52261f90d84557439c739853b6591474c0",
+     "bytes": 27921,
+     "sha256": "e68968498786373720ca3d6eb556bba41b1ecaccf7a500ccf6e1c92166a99fd8",
      "role": "timing"
     },
     {
@@ -5187,8 +5187,8 @@
    "text": "ten-theeno",
    "duration": 314.33,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 26,
+    "words": 26,
     "of": 26
    },
    "source": "https://tasbeha.org/hymn_library/view/92",
@@ -5196,8 +5196,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno.json",
-     "bytes": 70,
-     "sha256": "fbe6708f6d02590b791f25477b9662d03403612f99d077e93cb56eeb9c3147bf",
+     "bytes": 28870,
+     "sha256": "5ae684d722cfd869fa97bf51b3a45d2812b38be361b5c587bf9fe7877adf95df",
      "role": "timing"
     },
     {
@@ -5213,9 +5213,9 @@
    "text": "ten-theeno",
    "duration": 335.7,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 26,
+    "words": 26,
+    "of": 26
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -5226,8 +5226,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno-english.json",
-     "bytes": 78,
-     "sha256": "a8cf3014878dd086e60b03041538a1bbb0b4732b0cd5dc7e5bd597940f12e141",
+     "bytes": 39296,
+     "sha256": "3969dcd50c0b80af263ed9c68a895d53e9bd3e77fc6f470016829a14a7a4bc0f",
      "role": "timing"
     },
     {
@@ -5461,8 +5461,8 @@
    "text": "third-hoos",
    "duration": 460.24,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 40,
+    "words": 40,
     "of": 40
    },
    "source": "https://tasbeha.org/hymn_library/view/108",
@@ -5472,8 +5472,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/third-hoos.json",
-     "bytes": 70,
-     "sha256": "58cc2157c380710d3f73b455af0ab39895ace4ab47aff36c5ecd5ffba70ee71a",
+     "bytes": 43204,
+     "sha256": "0b329d8d58c21f020c5f59576c84ef02e6166411c6abcae7f12b26f3661e5a26",
      "role": "timing"
     },
     {
@@ -5489,9 +5489,9 @@
    "text": "third-hoos",
    "duration": 468.58,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 40,
+    "words": 40,
+    "of": 40
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -5502,8 +5502,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/third-hoos-english.json",
-     "bytes": 78,
-     "sha256": "55374d74b36ab6884dbc961ff2d0d476979709a2619020a761988ccc5978b31a",
+     "bytes": 51534,
+     "sha256": "b59ebe9801a36adfb1fcca0ecc6a8eb85d7fd3316b4a54f83a0cfaf30bde5c47",
      "role": "timing"
     },
     {

@@ -1,1 +1,2438 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.55,
+    "words": [
+      {
+        "text": "Arise",
+        "start": 0.55
+      },
+      {
+        "text": "O",
+        "start": 1.25
+      },
+      {
+        "text": "children",
+        "start": 2.25
+      },
+      {
+        "text": "of",
+        "start": 2.88
+      },
+      {
+        "text": "the",
+        "start": 3.31
+      },
+      {
+        "text": "light,",
+        "start": 3.76
+      },
+      {
+        "text": "let",
+        "start": 4.45
+      },
+      {
+        "text": "us",
+        "start": 4.91
+      },
+      {
+        "text": "praise",
+        "start": 5.38
+      },
+      {
+        "text": "the",
+        "start": 5.88
+      },
+      {
+        "text": "Lord",
+        "start": 6.35
+      },
+      {
+        "text": "of",
+        "start": 6.71,
+        "estimated": true
+      },
+      {
+        "text": "hosts.",
+        "start": 7.08
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 9.62,
+    "words": [
+      {
+        "text": "That",
+        "start": 9.62
+      },
+      {
+        "text": "He",
+        "start": 10.08
+      },
+      {
+        "text": "may",
+        "start": 10.58
+      },
+      {
+        "text": "grant",
+        "start": 11.08
+      },
+      {
+        "text": "us",
+        "start": 11.48
+      },
+      {
+        "text": "the",
+        "start": 11.98
+      },
+      {
+        "text": "salvation",
+        "start": 12.42
+      },
+      {
+        "text": "of",
+        "start": 12.99
+      },
+      {
+        "text": "our",
+        "start": 13.48
+      },
+      {
+        "text": "souls.",
+        "start": 13.81
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 16.65,
+    "words": [
+      {
+        "text": "Whenever",
+        "start": 16.65
+      },
+      {
+        "text": "we",
+        "start": 17.11
+      },
+      {
+        "text": "stand",
+        "start": 17.81
+      },
+      {
+        "text": "before",
+        "start": 18.33
+      },
+      {
+        "text": "You",
+        "start": 18.98
+      },
+      {
+        "text": "in",
+        "start": 19.68
+      },
+      {
+        "text": "the",
+        "start": 20.15
+      },
+      {
+        "text": "flesh.",
+        "start": 20.62
+      }
+    ]
+  },
+  {
+    "line": "l4",
+    "start": 23.55,
+    "words": [
+      {
+        "text": "Cast",
+        "start": 23.55
+      },
+      {
+        "text": "away",
+        "start": 23.98
+      },
+      {
+        "text": "from",
+        "start": 24.72
+      },
+      {
+        "text": "our",
+        "start": 25.35
+      },
+      {
+        "text": "minds",
+        "start": 25.86
+      },
+      {
+        "text": "the",
+        "start": 26.32
+      },
+      {
+        "text": "slumber",
+        "start": 26.75
+      },
+      {
+        "text": "of",
+        "start": 28.05
+      },
+      {
+        "text": "sleep.",
+        "start": 28.52
+      }
+    ]
+  },
+  {
+    "line": "l5",
+    "start": 31.25,
+    "words": [
+      {
+        "text": "Grant",
+        "start": 31.25
+      },
+      {
+        "text": "us",
+        "start": 31.68
+      },
+      {
+        "text": "sobriety",
+        "start": 32.45
+      },
+      {
+        "text": "O",
+        "start": 33.51
+      },
+      {
+        "text": "Lord,",
+        "start": 33.91
+      },
+      {
+        "text": "that",
+        "start": 34.58
+      },
+      {
+        "text": "we",
+        "start": 34.98
+      },
+      {
+        "text": "may",
+        "start": 35.45
+      },
+      {
+        "text": "know",
+        "start": 35.95
+      },
+      {
+        "text": "how",
+        "start": 36.42
+      },
+      {
+        "text": "to",
+        "start": 36.71
+      },
+      {
+        "text": "stand",
+        "start": 37.1,
+        "estimated": true
+      },
+      {
+        "text": "before",
+        "start": 37.49
+      },
+      {
+        "text": "You",
+        "start": 38.09
+      },
+      {
+        "text": "at",
+        "start": 38.62
+      },
+      {
+        "text": "times",
+        "start": 39.05
+      },
+      {
+        "text": "of",
+        "start": 39.57
+      },
+      {
+        "text": "prayer.",
+        "start": 40.02
+      }
+    ]
+  },
+  {
+    "line": "l6",
+    "start": 43.25,
+    "words": [
+      {
+        "text": "And",
+        "start": 43.25
+      },
+      {
+        "text": "ascribe",
+        "start": 43.63
+      },
+      {
+        "text": "unto",
+        "start": 44.48
+      },
+      {
+        "text": "You",
+        "start": 45.05
+      },
+      {
+        "text": "the",
+        "start": 45.68
+      },
+      {
+        "text": "befitting",
+        "start": 46.32
+      },
+      {
+        "text": "glorification,",
+        "start": 47.19
+      },
+      {
+        "text": "and",
+        "start": 48.42
+      },
+      {
+        "text": "win",
+        "start": 48.95
+      },
+      {
+        "text": "the",
+        "start": 49.29
+      },
+      {
+        "text": "forgiveness",
+        "start": 49.92
+      },
+      {
+        "text": "of",
+        "start": 50.58
+      },
+      {
+        "text": "our",
+        "start": 50.9
+      },
+      {
+        "text": "many",
+        "start": 51.52
+      },
+      {
+        "text": "sins.",
+        "start": 52.08
+      },
+      {
+        "text": "Glory",
+        "start": 52.89
+      },
+      {
+        "text": "be",
+        "start": 53.38
+      },
+      {
+        "text": "to",
+        "start": 53.78
+      },
+      {
+        "text": "You",
+        "start": 54.09
+      },
+      {
+        "text": "O",
+        "start": 54.57,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 54.89
+      },
+      {
+        "text": "of",
+        "start": 55.4,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 56.03
+      }
+    ]
+  },
+  {
+    "line": "l7",
+    "start": 59.15,
+    "words": [
+      {
+        "text": "Behold",
+        "start": 59.15
+      },
+      {
+        "text": "bless",
+        "start": 59.58
+      },
+      {
+        "text": "the",
+        "start": 60.31
+      },
+      {
+        "text": "Lord",
+        "start": 60.68
+      },
+      {
+        "text": "all",
+        "start": 61.21
+      },
+      {
+        "text": "you",
+        "start": 61.73
+      },
+      {
+        "text": "servants",
+        "start": 62.12
+      },
+      {
+        "text": "of",
+        "start": 62.76
+      },
+      {
+        "text": "the",
+        "start": 63.33
+      },
+      {
+        "text": "Lord.",
+        "start": 63.85,
+        "estimated": true
+      },
+      {
+        "text": "Glory",
+        "start": 64.37
+      },
+      {
+        "text": "be",
+        "start": 64.78
+      },
+      {
+        "text": "to",
+        "start": 65.13
+      },
+      {
+        "text": "You",
+        "start": 65.52
+      },
+      {
+        "text": "O",
+        "start": 66.08
+      },
+      {
+        "text": "Lover",
+        "start": 66.46
+      },
+      {
+        "text": "of",
+        "start": 66.85
+      },
+      {
+        "text": "Mankind.",
+        "start": 67.33
+      }
+    ]
+  },
+  {
+    "line": "l8",
+    "start": 70.62,
+    "words": [
+      {
+        "text": "You",
+        "start": 70.62
+      },
+      {
+        "text": "who",
+        "start": 70.95
+      },
+      {
+        "text": "stand",
+        "start": 71.35
+      },
+      {
+        "text": "in",
+        "start": 71.85
+      },
+      {
+        "text": "the",
+        "start": 72.29
+      },
+      {
+        "text": "house",
+        "start": 72.68
+      },
+      {
+        "text": "of",
+        "start": 73.18
+      },
+      {
+        "text": "the",
+        "start": 73.62
+      },
+      {
+        "text": "Lord,",
+        "start": 73.98
+      },
+      {
+        "text": "in",
+        "start": 74.63
+      },
+      {
+        "text": "the",
+        "start": 75.0
+      },
+      {
+        "text": "courts",
+        "start": 75.36
+      },
+      {
+        "text": "of",
+        "start": 76.18
+      },
+      {
+        "text": "the",
+        "start": 76.51
+      },
+      {
+        "text": "house",
+        "start": 76.88
+      },
+      {
+        "text": "of",
+        "start": 77.33
+      },
+      {
+        "text": "our",
+        "start": 77.72
+      },
+      {
+        "text": "God.",
+        "start": 78.2
+      },
+      {
+        "text": "Glory",
+        "start": 78.75
+      },
+      {
+        "text": "be",
+        "start": 79.15
+      },
+      {
+        "text": "to",
+        "start": 79.59
+      },
+      {
+        "text": "You",
+        "start": 80.05
+      },
+      {
+        "text": "O",
+        "start": 80.55
+      },
+      {
+        "text": "Lover",
+        "start": 80.92
+      },
+      {
+        "text": "of",
+        "start": 81.72
+      },
+      {
+        "text": "Mankind.",
+        "start": 81.97
+      }
+    ]
+  },
+  {
+    "line": "l9",
+    "start": 85.35,
+    "words": [
+      {
+        "text": "By",
+        "start": 85.35
+      },
+      {
+        "text": "night",
+        "start": 85.81
+      },
+      {
+        "text": "lift",
+        "start": 86.31
+      },
+      {
+        "text": "up",
+        "start": 86.75
+      },
+      {
+        "text": "your",
+        "start": 87.21
+      },
+      {
+        "text": "hands",
+        "start": 87.95
+      },
+      {
+        "text": "O",
+        "start": 88.2,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 88.46,
+        "estimated": true
+      },
+      {
+        "text": "saints",
+        "start": 88.72
+      },
+      {
+        "text": "and",
+        "start": 89.25
+      },
+      {
+        "text": "bless",
+        "start": 89.6,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 89.95
+      },
+      {
+        "text": "Lord.",
+        "start": 90.37,
+        "estimated": true
+      },
+      {
+        "text": "Glory",
+        "start": 90.78
+      },
+      {
+        "text": "be",
+        "start": 91.12,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 91.48,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 91.86
+      },
+      {
+        "text": "O",
+        "start": 92.22,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 92.49
+      },
+      {
+        "text": "of",
+        "start": 93.27,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 93.5
+      }
+    ]
+  },
+  {
+    "line": "l10",
+    "start": 96.9,
+    "words": [
+      {
+        "text": "The",
+        "start": 96.9
+      },
+      {
+        "text": "Lord",
+        "start": 97.09
+      },
+      {
+        "text": "bless",
+        "start": 97.53,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 97.97,
+        "estimated": true
+      },
+      {
+        "text": "from",
+        "start": 98.41
+      },
+      {
+        "text": "Zion,",
+        "start": 99.23
+      },
+      {
+        "text": "who",
+        "start": 99.82,
+        "estimated": true
+      },
+      {
+        "text": "made",
+        "start": 100.41
+      },
+      {
+        "text": "heaven",
+        "start": 100.89
+      },
+      {
+        "text": "and",
+        "start": 101.64,
+        "estimated": true
+      },
+      {
+        "text": "earth.",
+        "start": 102.02
+      },
+      {
+        "text": "Glory",
+        "start": 102.74
+      },
+      {
+        "text": "be",
+        "start": 103.28
+      },
+      {
+        "text": "to",
+        "start": 103.66,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 104.05
+      },
+      {
+        "text": "O",
+        "start": 104.49,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 104.81
+      },
+      {
+        "text": "of",
+        "start": 105.83,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 106.15
+      }
+    ]
+  },
+  {
+    "line": "l11",
+    "start": 108.58,
+    "words": [
+      {
+        "text": "Let",
+        "start": 108.58
+      },
+      {
+        "text": "my",
+        "start": 109.45
+      },
+      {
+        "text": "cry",
+        "start": 109.69
+      },
+      {
+        "text": "come",
+        "start": 110.41
+      },
+      {
+        "text": "before",
+        "start": 110.98
+      },
+      {
+        "text": "You",
+        "start": 111.45
+      },
+      {
+        "text": "O",
+        "start": 111.9,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 112.35
+      },
+      {
+        "text": "give",
+        "start": 113.19
+      },
+      {
+        "text": "me",
+        "start": 113.38
+      },
+      {
+        "text": "understanding",
+        "start": 114.42
+      },
+      {
+        "text": "according",
+        "start": 115.31
+      },
+      {
+        "text": "to",
+        "start": 115.86,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 116.05
+      },
+      {
+        "text": "word.",
+        "start": 116.83
+      },
+      {
+        "text": "Glory",
+        "start": 117.47
+      },
+      {
+        "text": "be",
+        "start": 117.71,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 117.98,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 118.25
+      },
+      {
+        "text": "O",
+        "start": 118.94
+      },
+      {
+        "text": "Lover",
+        "start": 119.29
+      },
+      {
+        "text": "of",
+        "start": 120.22
+      },
+      {
+        "text": "Mankind.",
+        "start": 120.47,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l12",
+    "start": 123.91,
+    "words": [
+      {
+        "text": "Let",
+        "start": 123.91
+      },
+      {
+        "text": "my",
+        "start": 124.45
+      },
+      {
+        "text": "supplication",
+        "start": 124.55
+      },
+      {
+        "text": "come",
+        "start": 125.67
+      },
+      {
+        "text": "before",
+        "start": 126.13
+      },
+      {
+        "text": "You,",
+        "start": 126.58
+      },
+      {
+        "text": "deliver",
+        "start": 127.28
+      },
+      {
+        "text": "me",
+        "start": 127.75
+      },
+      {
+        "text": "according",
+        "start": 128.19
+      },
+      {
+        "text": "to",
+        "start": 129.01,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 129.28
+      },
+      {
+        "text": "word.",
+        "start": 129.88
+      },
+      {
+        "text": "Glory",
+        "start": 130.85
+      },
+      {
+        "text": "be",
+        "start": 131.16,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 131.48,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 131.81
+      },
+      {
+        "text": "O",
+        "start": 132.51
+      },
+      {
+        "text": "Lover",
+        "start": 132.62
+      },
+      {
+        "text": "of",
+        "start": 133.82,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 134.19
+      }
+    ]
+  },
+  {
+    "line": "l13",
+    "start": 137.28,
+    "words": [
+      {
+        "text": "My",
+        "start": 137.28
+      },
+      {
+        "text": "lips",
+        "start": 137.52
+      },
+      {
+        "text": "shall",
+        "start": 137.86,
+        "estimated": true
+      },
+      {
+        "text": "utter",
+        "start": 138.2,
+        "estimated": true
+      },
+      {
+        "text": "praise,",
+        "start": 138.88
+      },
+      {
+        "text": "for",
+        "start": 139.71,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 140.13,
+        "estimated": true
+      },
+      {
+        "text": "teach",
+        "start": 140.54
+      },
+      {
+        "text": "me",
+        "start": 140.96,
+        "estimated": true
+      },
+      {
+        "text": "your",
+        "start": 141.37,
+        "estimated": true
+      },
+      {
+        "text": "statutes.",
+        "start": 141.78
+      },
+      {
+        "text": "Glory",
+        "start": 142.91
+      },
+      {
+        "text": "be",
+        "start": 143.48
+      },
+      {
+        "text": "to",
+        "start": 143.8,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 144.14
+      },
+      {
+        "text": "O",
+        "start": 144.75,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 144.84
+      },
+      {
+        "text": "of",
+        "start": 145.67,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 145.92
+      }
+    ]
+  },
+  {
+    "line": "l14",
+    "start": 149.14,
+    "words": [
+      {
+        "text": "My",
+        "start": 149.14
+      },
+      {
+        "text": "tongue",
+        "start": 149.58
+      },
+      {
+        "text": "shall",
+        "start": 150.38
+      },
+      {
+        "text": "speak",
+        "start": 150.82
+      },
+      {
+        "text": "of",
+        "start": 151.15,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 151.48,
+        "estimated": true
+      },
+      {
+        "text": "words,",
+        "start": 151.81
+      },
+      {
+        "text": "for",
+        "start": 152.25,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 152.68,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 153.12,
+        "estimated": true
+      },
+      {
+        "text": "commandments",
+        "start": 153.55
+      },
+      {
+        "text": "are",
+        "start": 154.71,
+        "estimated": true
+      },
+      {
+        "text": "righteousness.",
+        "start": 155.49,
+        "estimated": true
+      },
+      {
+        "text": "Glory",
+        "start": 156.65,
+        "estimated": true
+      },
+      {
+        "text": "be",
+        "start": 157.43,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 157.82,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 158.2,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 158.59,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 158.98,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 159.75,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 160.14
+      }
+    ]
+  },
+  {
+    "line": "l15",
+    "start": 163.21,
+    "words": [
+      {
+        "text": "Let",
+        "start": 163.21
+      },
+      {
+        "text": "Your",
+        "start": 163.74
+      },
+      {
+        "text": "hand",
+        "start": 164.11,
+        "estimated": true
+      },
+      {
+        "text": "become",
+        "start": 164.48
+      },
+      {
+        "text": "my",
+        "start": 165.03,
+        "estimated": true
+      },
+      {
+        "text": "help,",
+        "start": 165.21
+      },
+      {
+        "text": "for",
+        "start": 165.5,
+        "estimated": true
+      },
+      {
+        "text": "I",
+        "start": 165.78,
+        "estimated": true
+      },
+      {
+        "text": "have",
+        "start": 166.07,
+        "estimated": true
+      },
+      {
+        "text": "chosen",
+        "start": 166.64
+      },
+      {
+        "text": "Your",
+        "start": 167.33,
+        "estimated": true
+      },
+      {
+        "text": "precepts.",
+        "start": 167.68
+      },
+      {
+        "text": "Glory",
+        "start": 168.61
+      },
+      {
+        "text": "be",
+        "start": 169.02,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 169.47,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 169.93,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 170.44
+      },
+      {
+        "text": "Lover",
+        "start": 170.87,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 171.82,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 172.11
+      }
+    ]
+  },
+  {
+    "line": "l16",
+    "start": 174.98,
+    "words": [
+      {
+        "text": "I",
+        "start": 174.98
+      },
+      {
+        "text": "longed",
+        "start": 175.52
+      },
+      {
+        "text": "for",
+        "start": 176.31,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 176.71,
+        "estimated": true
+      },
+      {
+        "text": "salvation,",
+        "start": 177.11
+      },
+      {
+        "text": "O",
+        "start": 177.87,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 178.12
+      },
+      {
+        "text": "and",
+        "start": 178.53,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 178.94,
+        "estimated": true
+      },
+      {
+        "text": "Law",
+        "start": 179.35,
+        "estimated": true
+      },
+      {
+        "text": "is",
+        "start": 179.76,
+        "estimated": true
+      },
+      {
+        "text": "my",
+        "start": 180.17,
+        "estimated": true
+      },
+      {
+        "text": "delight.",
+        "start": 180.58
+      },
+      {
+        "text": "Glory",
+        "start": 181.4,
+        "estimated": true
+      },
+      {
+        "text": "be",
+        "start": 182.21,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 182.62,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 183.03,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 183.44,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 183.84
+      },
+      {
+        "text": "of",
+        "start": 184.82,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 185.12
+      }
+    ]
+  },
+  {
+    "line": "l17",
+    "start": 188.48,
+    "words": [
+      {
+        "text": "Let",
+        "start": 188.48
+      },
+      {
+        "text": "my",
+        "start": 188.76,
+        "estimated": true
+      },
+      {
+        "text": "soul",
+        "start": 189.04
+      },
+      {
+        "text": "live",
+        "start": 189.34,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 189.93,
+        "estimated": true
+      },
+      {
+        "text": "it",
+        "start": 190.22,
+        "estimated": true
+      },
+      {
+        "text": "shall",
+        "start": 190.52,
+        "estimated": true
+      },
+      {
+        "text": "praise",
+        "start": 190.81
+      },
+      {
+        "text": "You,",
+        "start": 191.48,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 191.82,
+        "estimated": true
+      },
+      {
+        "text": "let",
+        "start": 192.15,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 192.49,
+        "estimated": true
+      },
+      {
+        "text": "judgments",
+        "start": 192.82
+      },
+      {
+        "text": "help",
+        "start": 193.56,
+        "estimated": true
+      },
+      {
+        "text": "me.",
+        "start": 193.94,
+        "estimated": true
+      },
+      {
+        "text": "Glory",
+        "start": 194.31
+      },
+      {
+        "text": "be",
+        "start": 194.72,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 195.15,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 195.61,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 196.11,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 196.48,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 197.28,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 197.53,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l18",
+    "start": 201.11,
+    "words": [
+      {
+        "text": "I",
+        "start": 201.11
+      },
+      {
+        "text": "have",
+        "start": 201.39,
+        "estimated": true
+      },
+      {
+        "text": "gone",
+        "start": 201.95,
+        "estimated": true
+      },
+      {
+        "text": "astray",
+        "start": 202.51
+      },
+      {
+        "text": "like",
+        "start": 203.14,
+        "estimated": true
+      },
+      {
+        "text": "a",
+        "start": 203.78,
+        "estimated": true
+      },
+      {
+        "text": "lost",
+        "start": 204.09,
+        "estimated": true
+      },
+      {
+        "text": "sheep,",
+        "start": 204.41
+      },
+      {
+        "text": "seek",
+        "start": 205.14
+      },
+      {
+        "text": "Your",
+        "start": 205.5,
+        "estimated": true
+      },
+      {
+        "text": "servant",
+        "start": 205.86,
+        "estimated": true
+      },
+      {
+        "text": "for",
+        "start": 206.58
+      },
+      {
+        "text": "I",
+        "start": 206.87,
+        "estimated": true
+      },
+      {
+        "text": "do",
+        "start": 207.16,
+        "estimated": true
+      },
+      {
+        "text": "not",
+        "start": 207.45,
+        "estimated": true
+      },
+      {
+        "text": "forget",
+        "start": 207.74
+      },
+      {
+        "text": "Your",
+        "start": 208.59,
+        "estimated": true
+      },
+      {
+        "text": "commandments.",
+        "start": 209.01
+      },
+      {
+        "text": "Glory",
+        "start": 209.94
+      },
+      {
+        "text": "be",
+        "start": 210.35,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 210.79,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 211.24,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 211.75,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 212.11,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 212.91,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 213.16,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l19",
+    "start": 216.55,
+    "words": [
+      {
+        "text": "Glory",
+        "start": 216.55
+      },
+      {
+        "text": "be",
+        "start": 217.41,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 217.85,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 218.28,
+        "estimated": true
+      },
+      {
+        "text": "Father",
+        "start": 218.71
+      },
+      {
+        "text": "and",
+        "start": 219.31,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 219.61,
+        "estimated": true
+      },
+      {
+        "text": "Son",
+        "start": 219.91
+      },
+      {
+        "text": "and",
+        "start": 220.35,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 220.78,
+        "estimated": true
+      },
+      {
+        "text": "Holy",
+        "start": 221.22
+      },
+      {
+        "text": "Spirit.",
+        "start": 221.98,
+        "estimated": true
+      },
+      {
+        "text": "Glory",
+        "start": 222.75
+      },
+      {
+        "text": "be",
+        "start": 223.13,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 223.55,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 223.99,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 224.47,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 224.81
+      },
+      {
+        "text": "of",
+        "start": 225.62,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 225.87,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l20",
+    "start": 229.15,
+    "words": [
+      {
+        "text": "Now",
+        "start": 229.15
+      },
+      {
+        "text": "and",
+        "start": 229.74,
+        "estimated": true
+      },
+      {
+        "text": "forever",
+        "start": 230.01
+      },
+      {
+        "text": "and",
+        "start": 231.21,
+        "estimated": true
+      },
+      {
+        "text": "unto",
+        "start": 231.74
+      },
+      {
+        "text": "the",
+        "start": 232.44,
+        "estimated": true
+      },
+      {
+        "text": "age",
+        "start": 232.78
+      },
+      {
+        "text": "of",
+        "start": 233.35,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 233.64,
+        "estimated": true
+      },
+      {
+        "text": "ages",
+        "start": 233.92
+      },
+      {
+        "text": "Amen.",
+        "start": 234.54
+      },
+      {
+        "text": "Glory",
+        "start": 235.44
+      },
+      {
+        "text": "be",
+        "start": 235.87,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 236.34,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 236.82,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 237.35,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 237.74,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 238.58,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 238.84
+      }
+    ]
+  },
+  {
+    "line": "l21",
+    "start": 241.81,
+    "words": [
+      {
+        "text": "Glory",
+        "start": 241.81
+      },
+      {
+        "text": "be",
+        "start": 242.34
+      },
+      {
+        "text": "to",
+        "start": 242.82,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 243.3,
+        "estimated": true
+      },
+      {
+        "text": "Father,",
+        "start": 243.78
+      },
+      {
+        "text": "and",
+        "start": 244.51,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 244.88,
+        "estimated": true
+      },
+      {
+        "text": "Son",
+        "start": 245.24
+      },
+      {
+        "text": "and",
+        "start": 245.66,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 246.09,
+        "estimated": true
+      },
+      {
+        "text": "Holy",
+        "start": 246.51
+      },
+      {
+        "text": "Spirit,",
+        "start": 247.11
+      },
+      {
+        "text": "now",
+        "start": 247.94
+      },
+      {
+        "text": "and",
+        "start": 248.61
+      },
+      {
+        "text": "forever",
+        "start": 248.91
+      },
+      {
+        "text": "and",
+        "start": 249.79
+      },
+      {
+        "text": "unto",
+        "start": 250.18
+      },
+      {
+        "text": "all",
+        "start": 250.62
+      },
+      {
+        "text": "ages,",
+        "start": 251.41
+      },
+      {
+        "text": "amen.",
+        "start": 252.12
+      },
+      {
+        "text": "Glory",
+        "start": 252.91
+      },
+      {
+        "text": "be",
+        "start": 253.48
+      },
+      {
+        "text": "to",
+        "start": 253.88
+      },
+      {
+        "text": "You,",
+        "start": 254.45
+      },
+      {
+        "text": "O",
+        "start": 254.96,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 255.05
+      },
+      {
+        "text": "of",
+        "start": 256.01,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 256.31
+      }
+    ]
+  },
+  {
+    "line": "l22",
+    "start": 259.35,
+    "words": [
+      {
+        "text": "Glory",
+        "start": 259.35
+      },
+      {
+        "text": "be",
+        "start": 259.94
+      },
+      {
+        "text": "to",
+        "start": 260.31,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 260.68,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 261.04,
+        "estimated": true
+      },
+      {
+        "text": "good",
+        "start": 261.41
+      },
+      {
+        "text": "One",
+        "start": 261.85,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 262.74,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 263.18
+      },
+      {
+        "text": "of",
+        "start": 263.74,
+        "estimated": true
+      },
+      {
+        "text": "Mankind,",
+        "start": 263.91
+      },
+      {
+        "text": "glory",
+        "start": 264.92
+      },
+      {
+        "text": "be",
+        "start": 265.44
+      },
+      {
+        "text": "to",
+        "start": 265.91
+      },
+      {
+        "text": "Your",
+        "start": 266.22
+      },
+      {
+        "text": "Mother",
+        "start": 266.68
+      },
+      {
+        "text": "the",
+        "start": 267.58
+      },
+      {
+        "text": "Virgin",
+        "start": 268.11
+      },
+      {
+        "text": "and",
+        "start": 268.84
+      },
+      {
+        "text": "all",
+        "start": 269.21
+      },
+      {
+        "text": "Your",
+        "start": 269.61
+      },
+      {
+        "text": "saints.",
+        "start": 269.91
+      },
+      {
+        "text": "Glory",
+        "start": 270.51
+      },
+      {
+        "text": "be",
+        "start": 271.09
+      },
+      {
+        "text": "to",
+        "start": 271.41,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 271.88
+      },
+      {
+        "text": "O",
+        "start": 272.31
+      },
+      {
+        "text": "Lover",
+        "start": 272.75
+      },
+      {
+        "text": "of",
+        "start": 273.72,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 274.01
+      }
+    ]
+  },
+  {
+    "line": "l23",
+    "start": 276.88,
+    "words": [
+      {
+        "text": "Glory",
+        "start": 276.88
+      },
+      {
+        "text": "be",
+        "start": 277.39,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 277.76,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 278.28
+      },
+      {
+        "text": "O",
+        "start": 278.74,
+        "estimated": true
+      },
+      {
+        "text": "only-begotten",
+        "start": 279.21
+      },
+      {
+        "text": "One,",
+        "start": 280.04
+      },
+      {
+        "text": "O",
+        "start": 280.78
+      },
+      {
+        "text": "holy",
+        "start": 281.11,
+        "estimated": true
+      },
+      {
+        "text": "Trinity",
+        "start": 281.78
+      },
+      {
+        "text": "have",
+        "start": 282.69
+      },
+      {
+        "text": "mercy",
+        "start": 283.06
+      },
+      {
+        "text": "upon",
+        "start": 283.58
+      },
+      {
+        "text": "us.",
+        "start": 284.29
+      },
+      {
+        "text": "Glory",
+        "start": 285.21
+      },
+      {
+        "text": "be",
+        "start": 285.83,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 286.38
+      },
+      {
+        "text": "You",
+        "start": 286.92
+      },
+      {
+        "text": "O",
+        "start": 287.24,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 287.41,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 287.85
+      },
+      {
+        "text": "Mankind.",
+        "start": 288.09,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l24",
+    "start": 291.78,
+    "words": [
+      {
+        "text": "Let",
+        "start": 291.78
+      },
+      {
+        "text": "God",
+        "start": 292.26,
+        "estimated": true
+      },
+      {
+        "text": "arise",
+        "start": 292.75
+      },
+      {
+        "text": "and",
+        "start": 293.41
+      },
+      {
+        "text": "let",
+        "start": 293.79,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 294.17,
+        "estimated": true
+      },
+      {
+        "text": "His",
+        "start": 294.54
+      },
+      {
+        "text": "enemies",
+        "start": 295.01
+      },
+      {
+        "text": "be",
+        "start": 296.14
+      },
+      {
+        "text": "scattered",
+        "start": 296.41
+      },
+      {
+        "text": "and",
+        "start": 296.88
+      },
+      {
+        "text": "let",
+        "start": 297.29,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 297.7,
+        "estimated": true
+      },
+      {
+        "text": "that",
+        "start": 298.11
+      },
+      {
+        "text": "hate",
+        "start": 298.41,
+        "estimated": true
+      },
+      {
+        "text": "His",
+        "start": 299.01,
+        "estimated": true
+      },
+      {
+        "text": "holy",
+        "start": 299.31,
+        "estimated": true
+      },
+      {
+        "text": "name",
+        "start": 299.92
+      },
+      {
+        "text": "flee",
+        "start": 300.71
+      },
+      {
+        "text": "from",
+        "start": 301.21,
+        "estimated": true
+      },
+      {
+        "text": "before",
+        "start": 301.72
+      },
+      {
+        "text": "His",
+        "start": 302.41,
+        "estimated": true
+      },
+      {
+        "text": "face.",
+        "start": 302.64
+      },
+      {
+        "text": "Glory",
+        "start": 303.41
+      },
+      {
+        "text": "be",
+        "start": 303.98
+      },
+      {
+        "text": "to",
+        "start": 304.38,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 304.79,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 305.25,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 305.58
+      },
+      {
+        "text": "of",
+        "start": 306.38,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 306.63,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l25",
+    "start": 309.94,
+    "words": [
+      {
+        "text": "As",
+        "start": 309.94
+      },
+      {
+        "text": "for",
+        "start": 310.29,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 310.63,
+        "estimated": true
+      },
+      {
+        "text": "people",
+        "start": 310.98
+      },
+      {
+        "text": "let",
+        "start": 311.79,
+        "estimated": true
+      },
+      {
+        "text": "them",
+        "start": 312.2,
+        "estimated": true
+      },
+      {
+        "text": "be",
+        "start": 312.6,
+        "estimated": true
+      },
+      {
+        "text": "blessed,",
+        "start": 313.01
+      },
+      {
+        "text": "a",
+        "start": 313.83,
+        "estimated": true
+      },
+      {
+        "text": "thousand",
+        "start": 314.24
+      },
+      {
+        "text": "thousand",
+        "start": 314.78
+      },
+      {
+        "text": "fold",
+        "start": 315.25
+      },
+      {
+        "text": "and",
+        "start": 315.67,
+        "estimated": true
+      },
+      {
+        "text": "ten",
+        "start": 316.08,
+        "estimated": true
+      },
+      {
+        "text": "thousand",
+        "start": 316.49
+      },
+      {
+        "text": "ten",
+        "start": 316.91
+      },
+      {
+        "text": "thousand",
+        "start": 317.28
+      },
+      {
+        "text": "fold,",
+        "start": 317.91
+      },
+      {
+        "text": "doing",
+        "start": 318.67,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 319.42,
+        "estimated": true
+      },
+      {
+        "text": "will.",
+        "start": 320.18
+      }
+    ]
+  },
+  {
+    "line": "l26",
+    "start": 322.54,
+    "words": [
+      {
+        "text": "O",
+        "start": 322.54
+      },
+      {
+        "text": "Lord,",
+        "start": 322.98,
+        "estimated": true
+      },
+      {
+        "text": "open",
+        "start": 323.42,
+        "estimated": true
+      },
+      {
+        "text": "my",
+        "start": 324.3,
+        "estimated": true
+      },
+      {
+        "text": "lips,",
+        "start": 324.74
+      },
+      {
+        "text": "and",
+        "start": 325.49,
+        "estimated": true
+      },
+      {
+        "text": "my",
+        "start": 326.23,
+        "estimated": true
+      },
+      {
+        "text": "mouth",
+        "start": 326.98
+      },
+      {
+        "text": "shall",
+        "start": 327.88
+      },
+      {
+        "text": "show",
+        "start": 328.24
+      },
+      {
+        "text": "forth",
+        "start": 328.58
+      },
+      {
+        "text": "Your",
+        "start": 329.48
+      },
+      {
+        "text": "praise.",
+        "start": 330.41
+      }
+    ]
+  }
+]

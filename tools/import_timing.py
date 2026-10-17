@@ -9,15 +9,20 @@ Everything else in lyrics.json is kept as it is.
 Usage:
   python3 tools/import_timing.py ~/Downloads/first-hoos.timing.json [more files…]
   python3 tools/import_timing.py --dry-run FILE     # show what would change, write nothing
-  python3 tools/import_timing.py --fill-gaps FILE   # also time words sung too fast to tap, between their neighbours
+
+Lines can be partly marked: the words left unmarked get estimated times (tools/word_estimates.py, the same
+way the app does it), written with "estimated": true. The website uses them; the catalog builder leaves
+them out for the app, which estimates again from the marks.
 
 Afterwards run python3 tools/build_catalog.py, and in the app repo scripts/sync-catalog.sh.
 """
 import argparse, json, sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from word_estimates import estimate   # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
-FILL = False
 CONTENT = ROOT / "content"
 
 
@@ -48,27 +53,6 @@ def line_words(line, language):
     return ((line.get("sung") or {}).get(language) or (line.get("translations") or {}).get(language) or "").split()
 
 
-def fill_gaps(words):
-    """Unmarked words between two marked ones (sung too fast to tap) get times spread evenly between them.
-    Returns how many were filled; words with no marked neighbour on one side stay unmarked."""
-    filled, i = 0, 0
-    while i < len(words):
-        if words[i].get("start") is not None:
-            i += 1
-            continue
-        j = i
-        while j < len(words) and words[j].get("start") is None:
-            j += 1
-        if i > 0 and j < len(words):
-            a, b = float(words[i - 1]["start"]), float(words[j]["start"])
-            if b > a:
-                for k in range(i, j):
-                    words[k]["start"] = a + (b - a) * (k - i + 1) / (j - i + 1)
-                    filled += 1
-        i = j
-    return filled
-
-
 def merge_shared(path, doc, dry_run):
     """A recording of another hymn's text (another tune or language): its timings go in its own lyrics.json
     as entries naming the line ({"line": "l3", "start": …, "words": […]}); the text's lyrics are untouched."""
@@ -83,29 +67,24 @@ def merge_shared(path, doc, dry_run):
     changed = 0
     for seg in doc["segments"]:
         line_id = seg.get("line", "")
-        if FILL and seg.get("words"):
-            n = fill_gaps(seg["words"])
-            if n:
-                print(f"  {line_id}: filled {n} unmarked word{'s' if n != 1 else ''} between marked ones")
         i = int(line_id[1:]) - 1 if line_id[1:].isdigit() else -1
         if not 0 <= i < len(text_lines):
             sys.exit(f"{path}: line {line_id} is not in {text}")
-        out = [{"text": w["text"], "start": round(float(w["start"]), 2), **({"end": round(float(w["end"]), 2)} if w.get("end") is not None else {}),
-                **({"trailingSpace": False} if w.get("trailingSpace") is False else {})}
-               for w in seg.get("words") or [] if w.get("start") is not None]
-        if not out:
+        if not any(w.get("start") is not None and not w.get("estimated") for w in seg.get("words") or []):
             continue
-        if any(b["start"] < a["start"] for a, b in zip(out, out[1:])):
+        out = [word_item(w) for w in seg["words"]]
+        timed = [w["start"] for w in out if "start" in w]
+        if any(b < a for a, b in zip(timed, timed[1:])):
             print(f"  line {i + 1}: marks out of order; skipped, re-mark it in the app")
             continue
         if written_words(out) != line_words(text_lines[i], language):
-            print(f"  line {i + 1}: marked words don't spell its {language} text; skipped (mark every word, or update the text)")
+            print(f"  line {i + 1}: its words don't spell its {language} text; skipped (re-time it after updating the app)")
             continue
-        entry = {"line": line_id, "start": out[0]["start"], "words": out}
+        entry = {"line": line_id, "start": timed[0], "words": out}
         if by_line.get(line_id) != entry:
             by_line[line_id] = entry
             changed += 1
-            print(f"  line {i + 1}: {len(out)} timed words")
+            print(f"  line {i + 1}: {describe(out)}")
     if not changed:
         print(f"{rec}: nothing new")
         return
@@ -117,11 +96,32 @@ def merge_shared(path, doc, dry_run):
     print(f"{rec}: updated {changed} line(s) in {lyrics_path.relative_to(ROOT)} ({language})")
 
 
+def word_item(w):
+    item = {"text": w["text"]}
+    if w.get("start") is not None:
+        item["start"] = round(float(w["start"]), 2)
+        if w.get("estimated"):
+            item["estimated"] = True
+    if w.get("end") is not None and not w.get("estimated"):
+        item["end"] = round(float(w["end"]), 2)
+    if w.get("trailingSpace") is False:
+        item["trailingSpace"] = False
+    return item
+
+
+def describe(words):
+    marked = sum(1 for w in words if "start" in w and not w.get("estimated"))
+    return f"{len(words)} timed words" if marked == len(words) else f"{marked} of {len(words)} words marked, the rest estimated"
+
+
 def merge(path, dry_run):
     doc = json.loads(Path(path).read_text(encoding="utf-8"))
     rec, text = doc.get("recording"), doc.get("text")
     if not rec or not isinstance(doc.get("segments"), list):
         sys.exit(f"{path}: not a timing file exported from the app")
+    # Untimed lines the app placed at the far end (never marked) are not part of the recording's order.
+    doc["segments"] = [seg for seg in doc["segments"] if seg.get("start", 0) < 1e9]
+    estimate(doc["segments"])
     if text != rec:
         return merge_shared(path, doc, dry_run)
     folder = find_folder(rec)
@@ -132,10 +132,6 @@ def merge(path, dry_run):
     done = set()
     for seg in doc["segments"]:
         line_id = seg.get("line", "")
-        if FILL and seg.get("words"):
-            n = fill_gaps(seg["words"])
-            if n:
-                print(f"  {line_id}: filled {n} unmarked word{'s' if n != 1 else ''} between marked ones")
         if not line_id.startswith("l") or not line_id[1:].isdigit():
             sys.exit(f"{path}: unexpected line id {line_id!r}")
         i = int(line_id[1:]) - 1
@@ -145,34 +141,20 @@ def merge(path, dry_run):
             repeats += 1          # lyrics.json has one entry per line; the first time it is sung wins
             continue
         done.add(line_id)
-        words = [w for w in seg.get("words") or [] if w.get("start") is not None]
-        if not words:
+        if not any(w.get("start") is not None and not w.get("estimated") for w in seg.get("words") or []):
             continue
-        out = []
-        for w in seg["words"]:
-            if w.get("start") is None:
-                continue
-            item = {"text": w["text"], "start": round(float(w["start"]), 2)}
-            if w.get("end") is not None:
-                item["end"] = round(float(w["end"]), 2)
-            if w.get("trailingSpace") is False:
-                item["trailingSpace"] = False
-            out.append(item)
-        if any(b["start"] < a["start"] for a, b in zip(out, out[1:])):
+        out = [word_item(w) for w in seg["words"]]
+        timed = [w["start"] for w in out if "start" in w]
+        if any(b < a for a, b in zip(timed, timed[1:])):
             print(f"  line {i + 1}: marks out of order; skipped, re-mark it in the app")
             continue
-        # The website shows a line's timed words in place of its text, so import a line only when the
-        # marked words spell out its current lyrics exactly. That also catches lyrics corrected after
-        # timing (old words would come back), while allowing words that were removed to stay unmarked.
+        # The website shows a line's timed words in place of its text, so import a line only when its
+        # words spell out its current lyrics exactly (lyrics corrected after timing would bring old words back).
         current_text = (lines[i].get("coptic") or "").split()
-        marked_text = written_words(out)
-        if marked_text != current_text:
-            all_text = written_words(seg["words"])
-            if all_text == current_text:
-                print(f"  line {i + 1}: {len(out)} of {len(seg['words'])} words marked; skipped until all are marked")
-            else:
-                diff = next((k for k, (a, b) in enumerate(zip(marked_text, current_text)) if a != b), min(len(marked_text), len(current_text)))
-                print(f"  line {i + 1}: marked words differ from the lyrics from word {diff + 1}; skipped, re-time it after updating the app")
+        line_text = written_words(out)
+        if line_text != current_text:
+            diff = next((k for k, (a, b) in enumerate(zip(line_text, current_text)) if a != b), min(len(line_text), len(current_text)))
+            print(f"  line {i + 1}: its words differ from the lyrics from word {diff + 1}; skipped, re-time it after updating the app")
             continue
         # The website picks the active line by its start: keep it at the first word when that was marked.
         first = seg["words"][0].get("start") if seg["words"] else None
@@ -183,7 +165,7 @@ def merge(path, dry_run):
                 print(f"  line {i + 1}: start moved to its first word")
         if lines[i].get("words") != out:
             changed += 1
-            print(f"  line {i + 1}: {len(out)} timed words")
+            print(f"  line {i + 1}: {describe(out)}")
             lines[i]["words"] = out
 
     if repeats:
@@ -202,11 +184,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("files", nargs="+", help="timing files exported from the app")
     ap.add_argument("--dry-run", action="store_true", help="show what would change without writing")
-    ap.add_argument("--fill-gaps", action="store_true",
-                    help="give unmarked words between two marked ones times spread evenly between them")
     args = ap.parse_args()
-    global FILL
-    FILL = args.fill_gaps
     for f in args.files:
         merge(f, args.dry_run)
 

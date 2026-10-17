@@ -159,9 +159,11 @@ class Build:
                 seg["stanzas"] = [s.get("start") for s in l["stanzas"]]
             if l.get("words"):
                 ws = l["words"]
-                if any(b.get("start", 0) < a.get("start", 0) for a, b in zip(ws, ws[1:])):
+                timed = [w["start"] for w in ws if w.get("start") is not None]
+                if any(b < a for a, b in zip(timed, timed[1:])):
                     self.error(rid, f"line {i}: words out of order")
-                seg["words"] = [{"text": w.get("text", ""), "start": w.get("start"), "end": w.get("end"),
+                # Estimated times are for the website; the app estimates again from the marks.
+                seg["words"] = [{"text": w.get("text", ""), "start": None if w.get("estimated") else w.get("start"), "end": w.get("end"),
                                  **({"trailingSpace": False} if w.get("trailingSpace") is False else {})} for w in ws]
             segments.append(seg)
         if not text["pending"] and len(segments) < len(sung):

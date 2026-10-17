@@ -1,5 +1,1959 @@
 {
  "recording": "second-hoos-english",
  "text": "second-hoos",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 17.31,
+   "words": [
+    {
+     "text": "O",
+     "start": 17.31,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "thanks",
+     "start": 18.01,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 18.95,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "good,",
+     "start": 20.25,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 21.05,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 23.08,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 23.95,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 24.35,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 24.95,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 27.25,
+   "words": [
+    {
+     "text": "O",
+     "start": 27.25,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": 27.71,
+     "end": null
+    },
+    {
+     "text": "thanks",
+     "start": 28.18,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 28.71,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 29.21,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 29.51,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "gods,",
+     "start": 30.31,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 31.18,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 32.98,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 33.48,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 34.11,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 34.75,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 37.45,
+   "words": [
+    {
+     "text": "O",
+     "start": 37.45,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "thanks",
+     "start": 38.08,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 39.15,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "lords,",
+     "start": 39.81,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 40.61,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 42.61,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 43.01,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 43.78,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 44.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 46.61,
+   "words": [
+    {
+     "text": "To",
+     "start": 46.61,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 47.08,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 47.61,
+     "end": null
+    },
+    {
+     "text": "alone",
+     "start": 48.05,
+     "end": null
+    },
+    {
+     "text": "does",
+     "start": 48.51,
+     "end": null
+    },
+    {
+     "text": "great",
+     "start": 49.05,
+     "end": null
+    },
+    {
+     "text": "wonders,",
+     "start": 49.51,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 50.28,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 52.58,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 53.01,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 53.71,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 54.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 56.31,
+   "words": [
+    {
+     "text": "To",
+     "start": 56.31,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 56.85,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 57.31,
+     "end": null
+    },
+    {
+     "text": "by",
+     "start": 57.75,
+     "end": null
+    },
+    {
+     "text": "wisdom",
+     "start": 58.28,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": 58.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "heavens,",
+     "start": 59.65,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 60.28,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 61.68,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 62.35,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 62.88,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 63.68,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l6",
+   "start": 65.91,
+   "words": [
+    {
+     "text": "To",
+     "start": 65.91,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 66.41,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 66.95,
+     "end": null
+    },
+    {
+     "text": "laid",
+     "start": 67.38,
+     "end": null
+    },
+    {
+     "text": "out",
+     "start": 67.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 68.25,
+     "end": null
+    },
+    {
+     "text": "earth",
+     "start": 68.68,
+     "end": null
+    },
+    {
+     "text": "above",
+     "start": 69.05,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 69.51,
+     "end": null
+    },
+    {
+     "text": "waters,",
+     "start": 69.85,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 70.81,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 72.51,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 73.01,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 73.48,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 74.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l7",
+   "start": 76.21,
+   "words": [
+    {
+     "text": "To",
+     "start": 76.21,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 76.71,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": 77.81,
+     "end": null
+    },
+    {
+     "text": "great",
+     "start": 78.25,
+     "end": null
+    },
+    {
+     "text": "lights,",
+     "start": 78.81,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 79.55,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 81.78,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 82.28,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 82.85,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 83.55,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l8",
+   "start": 85.68,
+   "words": [
+    {
+     "text": "The",
+     "start": 85.68,
+     "end": null
+    },
+    {
+     "text": "sun",
+     "start": 86.15,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 86.68,
+     "end": null
+    },
+    {
+     "text": "rule",
+     "start": 87.18,
+     "end": null
+    },
+    {
+     "text": "by",
+     "start": 87.58,
+     "end": null
+    },
+    {
+     "text": "day,",
+     "start": 88.18,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 89.48,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 91.75,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 92.11,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 92.58,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 93.25,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l9",
+   "start": 95.41,
+   "words": [
+    {
+     "text": "The",
+     "start": 95.41,
+     "end": null
+    },
+    {
+     "text": "moon",
+     "start": 95.88,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "stars",
+     "start": 96.61,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "rule",
+     "start": 97.58,
+     "end": null
+    },
+    {
+     "text": "by",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "night,",
+     "start": 98.18,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 99.05,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 101.45,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 102.15,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 102.65,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l10",
+   "start": 104.75,
+   "words": [
+    {
+     "text": "To",
+     "start": 104.75,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "struck",
+     "start": 105.85,
+     "end": null
+    },
+    {
+     "text": "Egypt",
+     "start": 106.41,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "first-born,",
+     "start": 108.08,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 108.88,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 110.81,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 112.68,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 114.75,
+   "words": [
+    {
+     "text": "And",
+     "start": 114.75,
+     "end": null
+    },
+    {
+     "text": "brought",
+     "start": 115.11,
+     "end": null
+    },
+    {
+     "text": "out",
+     "start": 115.61,
+     "end": null
+    },
+    {
+     "text": "Israel",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "among",
+     "start": 117.28,
+     "end": null
+    },
+    {
+     "text": "them,",
+     "start": 117.81,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 118.68,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 120.15,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 121.41,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 122.05,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l12",
+   "start": 123.98,
+   "words": [
+    {
+     "text": "With",
+     "start": 123.98,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "strong",
+     "start": 125.01,
+     "end": null
+    },
+    {
+     "text": "hand",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "an",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "outstretched",
+     "start": 126.41,
+     "end": null
+    },
+    {
+     "text": "arm,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 128.31,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 130.35,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 132.08,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l13",
+   "start": 134.25,
+   "words": [
+    {
+     "text": "To",
+     "start": 134.25,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "divided",
+     "start": 135.58,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Red",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Sea",
+     "start": 136.85,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "two,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 139.08,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 141.15,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 141.95,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 142.81,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l14",
+   "start": 144.48,
+   "words": [
+    {
+     "text": "And",
+     "start": 144.48,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Israel",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "pass",
+     "start": 146.21,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": 146.75,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "midst",
+     "start": 147.71,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "it,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 149.18,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 151.15,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 151.95,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 153.11,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l15",
+   "start": 154.91,
+   "words": [
+    {
+     "text": "But",
+     "start": 154.91,
+     "end": null
+    },
+    {
+     "text": "overthrew",
+     "start": 155.45,
+     "end": null
+    },
+    {
+     "text": "pharaoh",
+     "start": 156.21,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 156.85,
+     "end": null
+    },
+    {
+     "text": "his",
+     "start": 157.35,
+     "end": null
+    },
+    {
+     "text": "army",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Red",
+     "start": 158.91,
+     "end": null
+    },
+    {
+     "text": "Sea,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 160.21,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 162.15,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 162.61,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 163.41,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l16",
+   "start": 165.21,
+   "words": [
+    {
+     "text": "To",
+     "start": 165.21,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 166.61,
+     "end": null
+    },
+    {
+     "text": "led",
+     "start": 167.28,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 167.91,
+     "end": null
+    },
+    {
+     "text": "people",
+     "start": 168.28,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": 168.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 169.21,
+     "end": null
+    },
+    {
+     "text": "wilderness,",
+     "start": 169.55,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 170.88,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 173.15,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 173.51,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 173.98,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 174.58,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l17",
+   "start": 176.61,
+   "words": [
+    {
+     "text": "To",
+     "start": 176.61,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 177.11,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 177.61,
+     "end": null
+    },
+    {
+     "text": "retrieved",
+     "start": 178.11,
+     "end": null
+    },
+    {
+     "text": "water",
+     "start": 178.95,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": 179.51,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "rock,",
+     "start": 180.25,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 180.85,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 182.98,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 183.58,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 184.11,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 184.75,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l18",
+   "start": 187.08,
+   "words": [
+    {
+     "text": "To",
+     "start": 187.08,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "struck",
+     "start": 188.61,
+     "end": null
+    },
+    {
+     "text": "down",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "great",
+     "start": 189.65,
+     "end": null
+    },
+    {
+     "text": "kings,",
+     "start": 190.18,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 190.91,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 193.25,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 193.65,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 195.05,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l19",
+   "start": 197.21,
+   "words": [
+    {
+     "text": "And",
+     "start": 197.21,
+     "end": null
+    },
+    {
+     "text": "slew",
+     "start": 197.71,
+     "end": null
+    },
+    {
+     "text": "famous",
+     "start": 198.28,
+     "end": null
+    },
+    {
+     "text": "kings,",
+     "start": 198.88,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 199.68,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 201.61,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 202.28,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 202.81,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 203.45,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l20",
+   "start": 205.68,
+   "words": [
+    {
+     "text": "Sihon",
+     "start": 205.68,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 206.85,
+     "end": null
+    },
+    {
+     "text": "king",
+     "start": 207.51,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Amorites,",
+     "start": 209.38,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 210.38,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 212.58,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 213.08,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 213.61,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l21",
+   "start": 216.28,
+   "words": [
+    {
+     "text": "And",
+     "start": 216.28,
+     "end": null
+    },
+    {
+     "text": "Og",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "king",
+     "start": 217.65,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Bashan,",
+     "start": 218.61,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 219.95,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 221.85,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 222.25,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 222.71,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 223.51,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l22",
+   "start": 225.51,
+   "words": [
+    {
+     "text": "And",
+     "start": 225.51,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "land",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "as",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "heritage,",
+     "start": 228.65,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 229.58,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 231.78,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l23",
+   "start": 235.58,
+   "words": [
+    {
+     "text": "A",
+     "start": 235.58,
+     "end": null
+    },
+    {
+     "text": "heritage",
+     "start": 236.28,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Israel",
+     "start": 237.08,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "servant,",
+     "start": 238.18,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 239.35,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l24",
+   "start": 245.08,
+   "words": [
+    {
+     "text": "The",
+     "start": 245.08,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "remembered",
+     "start": 246.68,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 247.28,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "lowly",
+     "start": 248.58,
+     "end": null
+    },
+    {
+     "text": "state,",
+     "start": 248.98,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": 250.05,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 252.21,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 253.38,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l25",
+   "start": 256.18,
+   "words": [
+    {
+     "text": "And",
+     "start": 256.18,
+     "end": null
+    },
+    {
+     "text": "rescued",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "enemies,",
+     "start": 258.98,
+     "end": null
+    },
+    {
+     "text": "alleluia",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 262.21,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 263.41,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l26",
+   "start": 265.88,
+   "words": [
+    {
+     "text": "Who",
+     "start": 265.88,
+     "end": null
+    },
+    {
+     "text": "gives",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "food",
+     "start": 266.98,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "flesh,",
+     "start": 268.65,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 269.51,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 271.65,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 272.15,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 272.78,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l27",
+   "start": 275.58,
+   "words": [
+    {
+     "text": "O",
+     "start": 275.58,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "thanks",
+     "start": 276.78,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 277.78,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "heaven,",
+     "start": 278.31,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 279.05,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 282.18,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l28",
+   "start": 284.71,
+   "words": [
+    {
+     "text": "O",
+     "start": 284.71,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "thanks",
+     "start": 285.91,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 287.05,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "lords",
+     "start": 287.95,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "good,",
+     "start": 289.35,
+     "end": null
+    },
+    {
+     "text": "Alleluia",
+     "start": 290.31,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 292.71,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 293.38,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 295.01,
+     "end": null
+    }
+   ]
+  }
+ ]
 }
