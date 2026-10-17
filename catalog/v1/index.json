@@ -1,5 +1,5 @@
 {
- "version": "2c58ab3fb18a3aae",
+ "version": "36038a5e029f75d4",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -4340,6 +4340,7 @@
    "tune": {
     "english": "English"
    },
+   "cantor": "George Beshara",
    "language": "english",
    "files": [
     {
