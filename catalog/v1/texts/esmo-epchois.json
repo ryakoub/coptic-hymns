@@ -1,0 +1,48 @@
+{
+ "id": "esmo-epchois",
+ "titles": {
+  "english": "The Third Hoos - Esmo Epchois",
+  "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ - Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+  "arabic": "الهوس الثالث - إسمو إبشويس"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ Ⲙⲓⲥⲁⲏⲗ ⲕⲉ Ⲇⲁⲛⲓⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O Hananiah Azariah Mishael and Daniel, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا حنانيا وعزاريا وميصائيل ودانيال، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois Ananias Azarias Misaeel ke Danieel: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ Ⲙⲓⲥⲁⲏⲗ ⲕⲉ Ⲇⲁⲛⲓⲏⲗ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Bless the Lord O you who worship the Lord the God of our fathers, praise Him and exalt Him above all forever.",
+    "arabic": "باركوا الرب يا عابدي الرب إله أبائنا، سبحوه وزيدوه علواً إلى الآباد."
+   },
+   "transliterations": {
+    "english": "Esmou e-epshois nee-eterseveste emepshois Efnoti ente nenioti: hos erof arihowo chasf sha ni-eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ."
+    }
+   ]
+  }
+ ]
+}

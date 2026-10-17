@@ -1,0 +1,350 @@
+{
+ "id": "nim-ghar",
+ "titles": {
+  "english": "The Sixteenth Part - Nim Ghar",
+  "coptic": "Ϯⲙⲁϩⲙⲏⲧⲥⲟ - Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ",
+  "arabic": "القطعة السادسة عشر - نيم غار"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ: ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ Ⲡ̀ϭⲟⲓⲥ: ⲛ̀ⲑⲟⲕ ⲡⲉ Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲙⲏⲓ: ⲉⲧⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛϣ̀ⲫⲏⲣⲓ",
+   "translations": {
+    "english": "Who is likened unto You, O Lord among the gods, You are the true God, the Performer of miracles.",
+    "arabic": "مَنْ في الآلهة، يشبهك يا رب، أنت هو الإله الحقيقي، الصانع العجائب."
+   },
+   "transliterations": {
+    "english": "Nim ghar khen ninoti: etoni emmok Epshois: enthok pe Efnoti emmee: etiri enhaneshfeeri"
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲑⲟⲕ ⲡⲉ Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲉⲧⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛϣ̀ⲫⲏⲣⲓ"
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲁⲕⲟⲩⲱⲛϩ ⲛ̀ⲧⲉⲕϫⲟⲙ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲗⲁⲟⲥ: ⲁⲕⲥⲱϯ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ: ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲉⲕϣⲱⲃϣ.",
+   "translations": {
+    "english": "You revealed Your power, to the people, and You saved Your people, with Your arm.",
+    "arabic": "أظهرت قوتك، في الشعوب، وخلصت شعبك، بذراعك."
+   },
+   "transliterations": {
+    "english": "Akowonh entekgom: evol khen nilaos: aksoti empeklaos: enehree khen pekshovsh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲕⲟⲩⲱⲛϩ ⲛ̀ⲧⲉⲕϫⲟⲙ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲗⲁⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁⲕⲥⲱϯ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲉⲕϣⲱⲃϣ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲁⲕϣⲉⲛⲁⲕ ⲉ̀Ⲁ̀ⲙⲉⲛϯ: ⲁⲕⲓ̀ⲛⲓ ⲉ̀ⲡ̀ϣⲱⲓ: ⲛ̀ϯⲉⲭⲙⲁⲗⲱⲥⲓⲁ: ϧⲉⲛ ⲡⲓⲙⲁ ⲉ̀ⲧⲉ ⲙ̀ⲙⲁⲩ.",
+   "translations": {
+    "english": "You descended into Hades, and brought up, those who were captives, in that place.",
+    "arabic": "مضيت إلى الجحيم، وأصعدتَ، السبي من ذلك، المكان."
+   },
+   "transliterations": {
+    "english": "Akshenak e-amenti: akini e-epshoi: entiekhmalosia: khen pima ete emmav."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲕϣⲉⲛⲁⲕ ⲉ̀Ⲁ̀ⲙⲉⲛϯ:"
+    },
+    {
+     "coptic": "ⲁⲕⲓ̀ⲛⲓ ⲉ̀ⲡ̀ϣⲱⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ϯⲉⲭⲙⲁⲗⲱⲥⲓⲁ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲡⲓⲙⲁ ⲉ̀ⲧⲉ ⲙ̀ⲙⲁⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲁⲕⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲛ̀ⲕⲉⲥⲟⲡ: ⲛ̀ϯⲉ̀ⲗⲉⲩⲑⲉⲣⲓⲁ: ϩⲱⲥ Ⲛⲟⲩϯ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+   "translations": {
+    "english": "And granted us again, the freedom, as a good God, for You have risen and saved us.",
+    "arabic": "وأنعمت علينا، مرة أخرى بالحرية، كإله صالح، لأنك قُمت وخلصتنا."
+   },
+   "transliterations": {
+    "english": "Akerehmot nan enkesop: enti-elevtheria: hos Noti enaghathos: je aktonk aksoti emmon."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲕⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲛ̀ⲕⲉⲥⲟⲡ:"
+    },
+    {
+     "coptic": "ⲛ̀ϯⲉ̀ⲗⲉⲩⲑⲉⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ Ⲛⲟⲩϯ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ϯⲙⲁϩⲙⲏⲧϣⲁϣϥⲓ:",
+   "translations": {
+    "english": "The Seventeenth Part:",
+    "arabic": "القطعة السابعة عشر:"
+   },
+   "transliterations": {
+    "english": "Timahmeetshashfi:"
+   },
+   "sung": {
+    "english": "Seventeenth Part Christ our God,"
+   }
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲁ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
+   "translations": {
+    "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed.",
+    "arabic": "المسيح إلهنا، قام من الأموات، وهو باكورة، الراقدين."
+   },
+   "transliterations": {
+    "english": "A Pi-ekhristos Pennoti: tonf evol khen nee-ethmoout: enthof pe etaparshee: ente nee-etavenkot."
+   },
+   "sung": {
+    "english": "has risen from the dead, He is the first-fruit, of those who slept."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "coptic": "Ⲁϥⲟⲩⲟⲛϩϥ ⲉ̀Ⲙⲁⲣⲓⲁ: Ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ: ⲁϥⲥⲁϫⲓ ⲛⲉⲙⲁⲥ: ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ.",
+   "translations": {
+    "english": "He appeared to Mary, Magdalene, and spoke to her, and likewise said.",
+    "arabic": "ظهر لمريم، المجدلية، وخاطبها، هكذا قائلاً."
+   },
+   "transliterations": {
+    "english": "Afowonhf emaria: Timaghdalinee: afsaji nemas: empaireeti efgo emmos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁϥⲟⲩⲟⲛϩϥ ⲉ̀Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "Ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ:"
+    },
+    {
+     "coptic": "ⲁϥⲥⲁϫⲓ ⲛⲉⲙⲁⲥ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "coptic": "Ϫⲉ ⲙⲁⲧⲁⲙⲉ ⲛⲁⲥ̀ⲛⲏⲟⲩ: ϩⲓⲛⲁ ⲛ̀ⲧⲟⲩϣⲉⲛⲱⲟⲩ: ⲉ̀Ϯⲅⲁⲗⲓⲗⲉⲁ̀: ⲥⲉⲛⲁⲛⲁⲩ ⲉ̀ⲣⲟⲓ ⲙ̀ⲙⲁⲩ.",
+   "translations": {
+    "english": "\"Tell My brethren, to proceed, to Galilee, and there they will see Me.\"",
+    "arabic": "\"إعلمي إخوتي، أن يذهبوا، إلى الجليل، هناك يرونني.\""
+   },
+   "transliterations": {
+    "english": "Je matame na-esneeou: hina entoushenoou: etighalile-a: senanav eroi emmav."
+   },
+   "sung": {
+    "english": "\"Tell My brethren, to go to, Galilee, and there they will see Me.\""
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϫⲉ ⲙⲁⲧⲁⲙⲉ ⲛⲁⲥ̀ⲛⲏⲟⲩ:"
+    },
+    {
+     "coptic": "ϩⲓⲛⲁ ⲛ̀ⲧⲟⲩϣⲉⲛⲱⲟⲩ:"
+    },
+    {
+     "coptic": "ⲉ̀Ϯⲅⲁⲗⲓⲗⲉⲁ̀:"
+    },
+    {
+     "coptic": "ⲥⲉⲛⲁⲛⲁⲩ ⲉ̀ⲣⲟⲓ ⲙ̀ⲙⲁⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "coptic": "Ⲁⲥⲓ̀ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁ: ϣⲁ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: ⲡⲉϫⲁⲥ ϫⲉ ⲁⲓⲛⲁⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ⲟⲩⲟϩ ⲛⲁⲓ ⲡⲉⲧⲁϥϫⲟⲧⲟⲩ ⲛⲁⲥ.",
+   "translations": {
+    "english": "So Mary came forth, to the disciples, and told them she had seen the Lord, and that He told her so.",
+    "arabic": "فجاءت مريم، إلى التلاميذ، وقالت أنها رأت الرب، وأنه قال لها هذا."
+   },
+   "transliterations": {
+    "english": "Asi enje Maria: sha nimatheetees: pegas je ainav e-epshois: o-woh nai petafgotou nas."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲥⲓ̀ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϣⲁ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲡⲉϫⲁⲥ ϫⲉ ⲁⲓⲛⲁⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲛⲁⲓ ⲡⲉⲧⲁϥϫⲟⲧⲟⲩ ⲛⲁⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "coptic": "Ϯⲙⲁϩⲙⲏⲧϣ̀ⲙⲏⲛⲓ:",
+   "translations": {
+    "english": "The Eighteenth Part:",
+    "arabic": "القطعة الثامنة عشر:"
+   },
+   "transliterations": {
+    "english": "Timahmeeteshmeeni:"
+   },
+   "sung": {
+    "english": "Eighteenth"
+   }
+  },
+  {
+   "id": "l11",
+   "coptic": "Ⲕⲁⲗⲱⲥ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁⲥϣⲱⲡⲓ ϧⲉⲛ ⲟⲩϥⲓⲣⲱⲟⲩϣ: ⲛ̀ϫⲉ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ",
+   "translations": {
+    "english": "Truly indeed, it was good caring, of the Saint Mary, Magdalene.",
+    "arabic": "كان بالحقيقة، إهتمام القديسة، مريم المجدلية، حسناً."
+   },
+   "transliterations": {
+    "english": "Kalos khen oumethmee: asshopi khen oufirooush: enje thee-ethowab Maria: Timaghdalinee"
+   },
+   "sung": {
+    "english": "Part It was truly, good caring, of the Saint, Mary Magdalene."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕⲁⲗⲱⲥ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲁⲥϣⲱⲡⲓ ϧⲉⲛ ⲟⲩϥⲓⲣⲱⲟⲩϣ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "Ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ"
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "coptic": "Ⲁⲥⲓ̀ ⲉ̀ⲡⲓⲙ̀ϩⲁⲩ: ϧⲉⲛ ⲫ̀ⲟⲩⲁⲓ ⲛ̀ⲧⲉ ⲛⲓⲥⲁⲃⲃⲁⲧⲟⲛ: ⲁⲥⲕⲱϯ ϧⲉⲛ ⲟⲩⲥ̀ⲡⲟⲩⲇⲏ: ⲛ̀ⲥⲁ Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡ̀ϭⲟⲓⲥ.",
+   "translations": {
+    "english": "She came to the grave, on one of the Sabbath days, seeking earnestly, the Resurrection of the Lord.",
+    "arabic": "في أحد السبوت، أتت إلى القبر، طالبة باجتهاد، قيامة الرب."
+   },
+   "transliterations": {
+    "english": "Asi epi-emhav: khen efowai ente nisabbaton: askoti khen ou-espouthee: ensa Etanastasis emepshois."
+   },
+   "sung": {
+    "english": "She came to the tomb, on the first day of the week, seeking earnestly, the Resurrection of the Lord."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲥⲓ̀ ⲉ̀ⲡⲓⲙ̀ϩⲁⲩ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲫ̀ⲟⲩⲁⲓ ⲛ̀ⲧⲉ ⲛⲓⲥⲁⲃⲃⲁⲧⲟⲛ:"
+    },
+    {
+     "coptic": "ⲁⲥⲕⲱϯ ϧⲉⲛ ⲟⲩⲥ̀ⲡⲟⲩⲇⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲥⲁ Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡ̀ϭⲟⲓⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "coptic": "Ⲁⲥⲛⲁⲩ ⲉ̀ⲡⲓⲁⲅⲅⲉⲗⲟⲥ: ⲉϥϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲡⲓⲱ̀ⲛⲓ: ⲉϥⲱϣ ⲉ̀ⲃⲟⲗ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲁϥⲧⲱⲛϥ ϥ̀ⲭⲏ ⲙ̀ⲡⲁⲓ ⲙⲁⲛ ⲁⲛ.",
+   "translations": {
+    "english": "She saw the angel, sitting on the stone, proclaiming and saying, \"He is risen He is not here.\"",
+    "arabic": "فرأت الملاك، جالساً على الحجر، صارخاً قائلاً، \"قد قام ليس هو ههنا.\""
+   },
+   "transliterations": {
+    "english": "Asnav epiangelos: efhemsi hijen pi-oni: efosh evol efgo emmos: je aftonf efkee empai man an."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲥⲛⲁⲩ ⲉ̀ⲡⲓⲁⲅⲅⲉⲗⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉϥϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲡⲓⲱ̀ⲛⲓ:"
+    },
+    {
+     "coptic": "ⲉϥⲱϣ ⲉ̀ⲃⲟⲗ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁϥⲧⲱⲛϥ ϥ̀ⲭⲏ ⲙ̀ⲡⲁⲓ ⲙⲁⲛ ⲁⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ: ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ.",
+   "translations": {
+    "english": "Wherefore we glorify Him, proclaiming and saying, \"Blessed are You O my Lord Jesus, for You have risen and saved us.\"",
+    "arabic": "فلهذا نمجده، صارخين قائلين، \"مبارك أنت يا ربي يسوع، لأنك قُمت وخلصتنا.\""
+   },
+   "transliterations": {
+    "english": "Ethve fai tenti-oou naf: enosh evol engo emmos: je ekesmaroout o Pashois Ieesous: je aktonk aksoti."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ:"
+    },
+    {
+     "coptic": "ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ."
+    }
+   ]
+  }
+ ]
+}

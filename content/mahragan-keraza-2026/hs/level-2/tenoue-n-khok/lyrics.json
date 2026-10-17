@@ -76,7 +76,13 @@
         "start": 140.7,
         "end": 144.6
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Tenoweh ensok khen penheet teerf: tenerhoti khatekhee: o-woh tenkoti ensa pekho: Efnoti empertishipi nan."
+    },
+    "sung": {
+      "english": "We follow You with all our hearts, and we fear You, and we seek Your face, O God do not forsake us."
+    }
   },
   {
     "start": 144.6,
@@ -145,7 +151,10 @@
         "start": 276.55,
         "end": 281.21
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Alla arioui neman: kata tekmetepikees: nem kata epashai ente peknai: Epshois arivo-eethin eron."
+    }
   },
   {
     "start": 281.21,
@@ -219,7 +228,13 @@
         "start": 313.0,
         "end": 318.43
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Mare teneprosevshee Penneeb: i e-epshoi empekemtho: emefreeti enhanchlil ente hanoili: nem hanmasi evkeni-oout."
+    },
+    "sung": {
+      "english": "May our prayers ascend unto You, O our Master, like burnt offerings of lambs, and fatted calves."
+    }
   },
   {
     "start": 318.43,
@@ -283,7 +298,13 @@
         "start": 353.27,
         "end": 354.34
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Empererpovsh entithiatheekee: thee-etaksemneets nem nenioti: Abra-am Isa-ak Yakob: Pisraeel pe-ethowab entak."
+    },
+    "sung": {
+      "english": "Do not forget the covenant, which You have made with our fathers, Abraham Isaac and Jacob, Israel Your holy one."
+    }
   },
   {
     "start": 354.34,
@@ -312,7 +333,10 @@
         "english": "above all forever.",
         "start": 368.77
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Esmou e-epshois nilaos teerou: nifilee niaspi enlas: hos erof ma-oou naf: arihowo chasf sha ni-eneh."
+    }
   },
   {
     "start": 373.18,
@@ -341,6 +365,9 @@
         "english": "that He may forgive us our sins.",
         "start": 387.47
       }
-    ]
+    ],
+    "transliterations": {
+      "english": "Tovh emepshois e-ehree egon: o pishomt enalou enagios: Sedrak Misak Abdenagho: entefka nennovi nan evol."
+    }
   }
 ]

@@ -5,5 +5,9 @@
     "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ",
     "english": "Tenoueh Ensok (We Follow You)",
     "arabic": "تين أوويه إنسوك"
-  }
+  },
+  "places": [
+    "praises/midnight"
+  ],
+  "order": 110
 }

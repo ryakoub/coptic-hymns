@@ -1,0 +1,346 @@
+{
+ "id": "tennav",
+ "titles": {
+  "english": "The Hymn of the Resurrection - Tennav",
+  "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ - Ⲧⲉⲛⲛⲁⲩ",
+  "arabic": "لحن القيامة - تينناف"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲉ̀Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲫⲏⲉⲑⲟⲩⲁⲃ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛϭⲟⲓⲥ: ⲫⲏⲉⲧⲟⲓ ⲛ̀ⲁⲑⲛⲟⲃⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ. Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲕⲥ̀ⲧⲁⲩⲣⲟⲥ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲧⲉⲛϩⲱⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛ̀Ⲧⲉⲕⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ. Ϫⲉ ⲛ̀ⲑⲟⲕ ⲅⲁⲣ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲥⲱⲟⲩⲛ ⲛ̀ⲕⲉⲟⲩⲁⲓ ⲁⲛ ⲉ̀ⲃⲏⲗ ⲉ̀ⲣⲟⲕ: ⲟⲩⲟϩ ϧⲉⲛ ⲡⲉⲕⲣⲁⲛ ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟⲛ. Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ.",
+   "translations": {
+    "english": "We look at the Resurrection of Christ and we worship the holy Jesus Christ our Lord, who alone is without sin. We bow down to Your Cross O Christ, and we praise and glorify Your Resurrection. For You are our God, and we know none but You, and after Your name we are called. Glory be to the Father and the Son and the Holy Spirit.",
+    "arabic": "ننظر إلى قيامة المسيح ونسجد للقدوس يسوع المسيح ربنا، الذي بلا خطية وحده. نسجد لصليبك أيها المسيح، نسجد ونمجد قيامتك. لأنك أنت هو إلهنا، ولا نعرف أحداً سواك، وبإسمك دعينا. المجد للآب والإبن والروح القدس."
+   },
+   "transliterations": {
+    "english": "Tennav e-etanastasis empi-ekhristos o-woh tenowosht emfee-ethowab Ieesous Pi-ekhristos Penshois: fee-etoi enathnovi emmavatf. Tenowosht empekestavros o Pi-ekhristos: tenhos tenti-oou entekanastasis. Je enthok ghar pe Pennoti: o-woh entensooun enkeowai an eveel erok: o-woh khen pekran semouti eron. Thoksa Patri ke I-io ke Agio Epnevmati."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲉ̀Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲫⲏⲉⲑⲟⲩⲁⲃ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲫⲏⲉⲧⲟⲓ ⲛ̀ⲁⲑⲛⲟⲃⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ."
+    },
+    {
+     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲕⲥ̀ⲧⲁⲩⲣⲟⲥ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲧⲉⲛϩⲱⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛ̀Ⲧⲉⲕⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ."
+    },
+    {
+     "coptic": "Ϫⲉ ⲛ̀ⲑⲟⲕ ⲅⲁⲣ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲥⲱⲟⲩⲛ ⲛ̀ⲕⲉⲟⲩⲁⲓ ⲁⲛ ⲉ̀ⲃⲏⲗ ⲉ̀ⲣⲟⲕ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ϧⲉⲛ ⲡⲉⲕⲣⲁⲛ ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟⲛ."
+    },
+    {
+     "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲧⲏⲣⲟⲩ ⲛⲓⲡⲓⲥⲧⲟⲥ ⲛ̀ⲧⲉⲛⲟⲩⲱϣⲧ ⲛ̀Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ. Ϫⲉ ϩⲏⲡⲡⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲡⲉϥⲥ̀ⲧⲁⲩⲁⲣⲟⲥ: ⲁϥⲓ̀ ⲛ̀ϫⲉ ⲫ̀ⲣⲁϣⲓ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ. Ⲙⲁⲣⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛ̀Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ. Ϫⲉ ⲁϥⲉⲣϩⲩⲡⲟⲙⲟⲛⲓⲛ ⲟⲩⲟϩ ⲁϥϧⲟⲙϧⲉⲙ ⲙ̀ⲫ̀ⲙⲟⲩ ϩⲓⲧⲉⲛ Ⲡⲉϥⲙⲟⲩ. Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Come all you believers let us bow down to the Resurrection of Christ. For behold through His Cross, joy has entered into the whole world. Let us bless the Lord continually, and glorify His Resurrection. For He was patient and destroyed death by His Death. Now and forever and unto the age of all ages, Amen.",
+    "arabic": "تعالوا يا جميع المؤمنين لنسجد لقيامة المسيح. لأنه من قِبَل صليبه، دخل الفرح إلى العالم كله. فلنبارك الرب كل حين، ونمجد قيامته. لأنه صبر وسحق الموت بموته. الآن وكل أوان وإلى دهر الدهور، آمين."
+   },
+   "transliterations": {
+    "english": "Amoini teerou nipistos entenowosht enetanastasis empi-ekhristos. Je heeppe evol hiten Pefestavaros: afi enje efrashi ekhoun epikosmos teerf. Marenesmou e-epshois enseeou niven: o-woh ententi-oou entefanastasis. Je aferhipomonin o-woh afkhomkhem emefmou hiten Pefmou. Ke nin ke a-i ke is tous e-onas ton e-onon: ameen."
+   },
+   "sung": {
+    "english": "Come all you believers let us bow down to the Resurrection of Christ. Behold, through His Cross, joy has entered into the whole world. Let us bless the Lord continually, and glorify His Resurrection. For He was patient and destroyed death by His Death. Now and forever and unto the age of all ages, Amen."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲧⲏⲣⲟⲩ ⲛⲓⲡⲓⲥⲧⲟⲥ ⲛ̀ⲧⲉⲛⲟⲩⲱϣⲧ ⲛ̀Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+    },
+    {
+     "coptic": "Ϫⲉ ϩⲏⲡⲡⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲡⲉϥⲥ̀ⲧⲁⲩⲁⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁϥⲓ̀ ⲛ̀ϫⲉ ⲫ̀ⲣⲁϣⲓ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ."
+    },
+    {
+     "coptic": "Ⲙⲁⲣⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛ̀Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ."
+    },
+    {
+     "coptic": "Ϫⲉ ⲁϥⲉⲣϩⲩⲡⲟⲙⲟⲛⲓⲛ ⲟⲩⲟϩ ⲁϥϧⲟⲙϧⲉⲙ ⲙ̀ⲫ̀ⲙⲟⲩ ϩⲓⲧⲉⲛ Ⲡⲉϥⲙⲟⲩ."
+    },
+    {
+     "coptic": "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲙⲏⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲛⲓⲣⲁϣⲓ ⲧⲏⲣⲟⲩ ⲥⲉⲧⲱⲙⲓ ⲉ̀ⲣⲟ ⲱ̀ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ. Ϫⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟϯ ⲁⲩⲧⲁⲥⲑⲟ ⲛ̀Ⲁ̀ⲇⲁⲙ ⲉ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ. Ⲉ̀ⲁⲥϭⲓ ⲛ̀ⲟⲩⲥⲟⲗⲥⲉⲗ ⲛ̀ϫⲉ Ⲉ̀ⲩⲁ ⲉ̀ⲫ̀ⲙⲁ ⲙ̀ⲡⲉⲥⲙ̀ⲕⲁϩⲛ̀ϩⲏⲧ. Ⲉ̀ⲁⲥϭⲓ ⲛ̀ϯⲉ̀ⲗⲉⲩⲑⲉⲣⲓⲁ ⲛ̀ⲕⲉⲥⲟⲡ: ⲉⲑⲃⲏϯ ⲛⲉⲙ ⲡⲓⲟⲩϫⲁⲓ ⲛ̀ⲉ̀ⲱ̀ⲛⲓⲟⲛ. Ⲁ̀ⲛⲟⲛ ⲇⲉ ϩⲱⲛ ⲙⲁⲣⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ: ϩⲱⲥ ⲟⲩⲁ̀ϩⲟ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ. Ϫⲉ ⲭⲉⲣⲉ ⲡⲓⲑⲩⲥⲁⲩⲣⲟⲥ ⲉⲧⲧⲟⲃ ⲉ̀ⲧⲁⲛⲉⲣⲁ̀ⲡⲟⲗⲉⲩⲓⲛ ⲙ̀ⲡⲓⲱⲛϧ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ. Ⲭⲉⲣⲉ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲟⲩⲟϩ ⲁϥϯ ⲛⲁⲛ ⲙ̀ⲡⲓⲱⲛϧ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ. Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ: ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ.",
+   "translations": {
+    "english": "All joy befits you O Theotokos. For through you Adam returned to Paradise. And Eve gained grace to replace her sadness. Through you she gained freedom once more, as well as eternal salvation. And we too let us glorify you, as a treasure of the Resurrection. \"Hail to the sealed treasure through which we were given life. Hail to her who gave birth to Christ our God, who gave us life through His Resurrection.\" Blessed are You O Lord, teach me Your justice.",
+    "arabic": "كل الأفراح تليق بك يا والدة الإله. لأنه من قِبَلِك أُرجع آدم إلى الفردوس. ونالت الزينة حواء عوض حزنها. وأخذت الحرية دفعة أخرى من أجلك، والخلاص الدهري. ونحن أيضاً فلنمجدِك، ككنز القيامة. \"السلام للكنز المختوم الذي إمتلأنا بالحياة من قِبَله. السلام للتي ولدت لنا المسيح إلهنا، وأعطانا الحياة من قِبَل قيامته.\" مبارك أنت يا رب، علمني عدلك."
+   },
+   "transliterations": {
+    "english": "Nirashi teerou setomi ero o Tithe-otokos. Je evol hitoti avtasto enadam epiparathisos. Easchi enousolsel enje Eva e-efma empesemkahenheet. Easchi enti-elevtheria enkesop: ethveeti nem piougai ene-onion. Anon the hon marenti-oou ne: hos o-aho ente Ti-anastasis. Je shere pithisavros ettob etanerapolevin empionkh evol hitotf. Shere thee-etasmisi nan empi-ekhristos Pennoti: o-woh afti nan empionkh evol hiten Tefanastasis. Ekesmaroout Epshois: ma-etsavoi enekmethmee."
+   },
+   "sung": {
+    "english": "All joy befits you, O Mother of God, for through you, Adam returned to Paradise. And Eve gained grace to replace her sadness. Through you she gained freedom once more, as well as eternal salvation. And we too let us glorify you, as a treasure of the Resurrection. Hail to the sealed treasure, through which we were given life. Hail to her who gave birth to Christ our God who gave us life, through His Resurrection. Blessed are you O Lord, teach me Your statutes."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛⲓⲣⲁϣⲓ ⲧⲏⲣⲟⲩ ⲥⲉⲧⲱⲙⲓ ⲉ̀ⲣⲟ ⲱ̀ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ."
+    },
+    {
+     "coptic": "Ϫⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟϯ ⲁⲩⲧⲁⲥⲑⲟ ⲛ̀Ⲁ̀ⲇⲁⲙ ⲉ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ."
+    },
+    {
+     "coptic": "Ⲉ̀ⲁⲥϭⲓ ⲛ̀ⲟⲩⲥⲟⲗⲥⲉⲗ ⲛ̀ϫⲉ Ⲉ̀ⲩⲁ ⲉ̀ⲫ̀ⲙⲁ ⲙ̀ⲡⲉⲥⲙ̀ⲕⲁϩⲛ̀ϩⲏⲧ."
+    },
+    {
+     "coptic": "Ⲉ̀ⲁⲥϭⲓ ⲛ̀ϯⲉ̀ⲗⲉⲩⲑⲉⲣⲓⲁ ⲛ̀ⲕⲉⲥⲟⲡ:"
+    },
+    {
+     "coptic": "ⲉⲑⲃⲏϯ ⲛⲉⲙ ⲡⲓⲟⲩϫⲁⲓ ⲛ̀ⲉ̀ⲱ̀ⲛⲓⲟⲛ."
+    },
+    {
+     "coptic": "Ⲁ̀ⲛⲟⲛ ⲇⲉ ϩⲱⲛ ⲙⲁⲣⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲟⲩⲁ̀ϩⲟ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ."
+    },
+    {
+     "coptic": "Ϫⲉ ⲭⲉⲣⲉ ⲡⲓⲑⲩⲥⲁⲩⲣⲟⲥ ⲉⲧⲧⲟⲃ ⲉ̀ⲧⲁⲛⲉⲣⲁ̀ⲡⲟⲗⲉⲩⲓⲛ ⲙ̀ⲡⲓⲱⲛϧ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ."
+    },
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲁϥϯ ⲛⲁⲛ ⲙ̀ⲡⲓⲱⲛϧ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ."
+    },
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲛⲓⲥ̀ⲧ̀ⲣⲁⲧⲓⲁ ⲛ̀ⲁⲅⲅⲉⲗⲓⲕⲟⲛ ⲁⲩⲧⲱⲙⲧ ϧⲉⲛ ⲡ̀ϫⲓⲛⲑ̀ⲣⲟⲩⲛⲁⲩ ⲉ̀ⲣⲟⲕ ⲉ̀ⲁⲩⲟⲡⲕ ⲛⲉⲙ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ. Ⲟⲩⲟϩ ⲁⲕϧⲟⲙϧⲉⲙ ⲛ̀ϯϫⲟⲙ ⲛ̀ⲧⲉ ⲫ̀ⲙⲟⲩ ⲱ̀ Ⲡⲓⲥⲱⲧⲏⲣ. Ⲟⲩⲟϩ ⲁⲕⲧⲟⲩⲛⲟⲥ Ⲁ̀ⲇⲁⲙ ⲛⲉⲙⲁⲕ ⲟⲩⲟϩ ⲁⲕⲁⲓϥ ⲛ̀ⲣⲉⲙϩⲉ ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲁ̀ⲙⲉⲛϯ. Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ: ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ.",
+   "translations": {
+    "english": "The angelic hosts were amazed when they saw You counted among the dead. Yet You destroyed the power of death O Savior. You raised Adam with You and freed him from Hades. Blessed are You O Lord, teach me Your justice.",
+    "arabic": "الجنود الملائكية بهتوا عندما رأوك حُسبت مع الأموات. وحطمت قوة الموت أيها المخلص. وأقمت آدم معك وأعتقته من الجحيم. مبارك أنت يا رب، علمني عدلك."
+   },
+   "transliterations": {
+    "english": "Ni-esetratia enangelikon avtomt khen epjinethrounav erok eavopk nem nirefmoout. O-woh akkhomkhem entigom ente efmou o Pisoteer. O-woh aktounos Adam nemak o-woh akaif enremhe evol khen Amenti. Ekesmaroout Epshois: ma-etsavoi enekmethmee."
+   },
+   "sung": {
+    "english": "The angelic hosts were amazed when they saw You counted among the dead. Yet You destroyed the power of death O Savior. You raised Adam with You and freed him form Hades. Blessed are you, O Lord, teach me Your statutes."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛⲓⲥ̀ⲧ̀ⲣⲁⲧⲓⲁ ⲛ̀ⲁⲅⲅⲉⲗⲓⲕⲟⲛ ⲁⲩⲧⲱⲙⲧ ϧⲉⲛ ⲡ̀ϫⲓⲛⲑ̀ⲣⲟⲩⲛⲁⲩ ⲉ̀ⲣⲟⲕ ⲉ̀ⲁⲩⲟⲡⲕ ⲛⲉⲙ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ."
+    },
+    {
+     "coptic": "Ⲟⲩⲟϩ ⲁⲕϧⲟⲙϧⲉⲙ ⲛ̀ϯϫⲟⲙ ⲛ̀ⲧⲉ ⲫ̀ⲙⲟⲩ ⲱ̀ Ⲡⲓⲥⲱⲧⲏⲣ."
+    },
+    {
+     "coptic": "Ⲟⲩⲟϩ ⲁⲕⲧⲟⲩⲛⲟⲥ Ⲁ̀ⲇⲁⲙ ⲛⲉⲙⲁⲕ ⲟⲩⲟϩ ⲁⲕⲁⲓϥ ⲛ̀ⲣⲉⲙϩⲉ ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲁ̀ⲙⲉⲛϯ."
+    },
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ⲉⲑⲃⲉ ⲟⲩ ⲛⲓⲥⲟϫⲉⲛ ⲛⲉⲙ ⲛⲓⲛⲉϩⲡⲓ ⲛⲉⲙ ⲛⲓⲣⲓⲙⲓ ⲧⲉⲧⲉⲛⲑⲱⲧ ⲙ̀ⲙⲱⲟⲩ ⲛⲉⲙ ⲛⲟⲩⲉ̀ⲣⲏⲟⲩ: ⲱ̀ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ. Ⲡⲉϫⲉ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ ⲉⲧϩⲓⲉⲃⲣⲏϫ ⲉ̀ⲃⲟⲗ ϧⲁⲧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ ⲛ̀ⲛⲓϩⲓⲟⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ: ⲁ̀ⲛⲁⲩ ⲇⲉ ⲛ̀ⲑⲱⲧⲉⲛ ⲟⲩⲟϩ ⲁ̀ⲣⲓⲉ̀ⲙⲓ: ϫⲉ ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ⲛ̀ϫⲉ Ⲡⲓⲥⲱⲧⲏⲣ ⲟⲩⲟϩ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ. Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ: ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ.",
+   "translations": {
+    "english": "Why did you mix fragrant oil weeping and mourning with each other, O followers of the Lord? The luminous angel said to the women carrying the spices, \"Look and be aware that the Savior has risen from the dead.\" Blessed are You O Lord, teach me Your justice.",
+    "arabic": "لماذا الطيب والنحيب والبكاء تمزجنها مع بعضها يا تلميذات الرب. قال الملاك اللامع عند القبر للنسوة حاملات الطيب، \"أنظرنَّ أنتنَّ وأعلمنَّ أنه قد نهض المخلص وقام من الأموات.\" مبارك أنت يا رب، علمني عدلك."
+   },
+   "transliterations": {
+    "english": "Ethve ou nisojen nem ninehpi nem nirimi tetenthot emmoou nem nowereeou: o nimatheetees ente Epshois. Peje piangelos ethievreeg evol khaten pi-emhav ennihiomi emfaisojen: anav the enthoten o-woh ari-emi: je afohi eratf enje Pisoteer o-woh aftonf evol khen nee-ethmoout. Ekesmaroout Epshois: ma-etsavoi enekmethmee."
+   },
+   "sung": {
+    "english": "Why did you mix fragrant oil, weeping and mourning, with each other O Disciples of the Lord? The luminous angel at the tomb said to the women carrying the spices, \"Look and be aware that the Savior has risen from the dead.\" Blessed are you, O Lord, teach me Your statutes."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲑⲃⲉ ⲟⲩ ⲛⲓⲥⲟϫⲉⲛ ⲛⲉⲙ ⲛⲓⲛⲉϩⲡⲓ ⲛⲉⲙ ⲛⲓⲣⲓⲙⲓ ⲧⲉⲧⲉⲛⲑⲱⲧ ⲙ̀ⲙⲱⲟⲩ ⲛⲉⲙ ⲛⲟⲩⲉ̀ⲣⲏⲟⲩ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ."
+    },
+    {
+     "coptic": "Ⲡⲉϫⲉ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ ⲉⲧϩⲓⲉⲃⲣⲏϫ ⲉ̀ⲃⲟⲗ ϧⲁⲧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ ⲛ̀ⲛⲓϩⲓⲟⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲛⲁⲩ ⲇⲉ ⲛ̀ⲑⲱⲧⲉⲛ ⲟⲩⲟϩ ⲁ̀ⲣⲓⲉ̀ⲙⲓ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ⲛ̀ϫⲉ Ⲡⲓⲥⲱⲧⲏⲣ ⲟⲩⲟϩ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ."
+    },
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲛ̀ϣⲱⲣⲡ ⲉ̀ⲙⲁϣⲱ ⲁⲩⲓⲏⲥ ⲙ̀ⲙⲱⲟⲩ ⲉ̀ⲡⲉⲕⲙ̀ϩⲁⲩ: ⲛ̀ϫⲉ ⲛⲓϩⲓⲟⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ ⲉⲩⲛⲉϩⲡⲓ. Ⲁⲗⲗⲁ ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ϩⲓϫⲱⲟⲩ ⲛ̀ϫⲉ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲱⲟⲩ: ϫⲉ ⲡ̀ⲥⲏⲟⲩ ⲙ̀ⲡⲓⲣⲓⲙⲓ: ⲁϥϩⲉⲣⲓ ⲙ̀ⲡⲉⲣⲣⲓⲙⲓ: ⲁⲗⲗⲁ ⲁ̀ⲣⲓϩⲓⲱⲓϣ ⲛ̀Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ. Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ: ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ.",
+   "translations": {
+    "english": "The women rushed very early to Your tomb, carrying fragrant oil while crying. But the angel stood before them saying, \"The time of weeping is over, do not weep, but preach the Resurrection to the Apostles.\" Blessed are You O Lord, teach me Your justice.",
+    "arabic": "أسرعت النسوة باكراً جداً إلى قبرك، حاملات الطيب ينحنَ. لكن وقف بهنَّ الملاك قائلاً لهنَ، \"إن زمن البكاء قد إنقضى، لا تبكينَّ، بل بشرنَّ بالقيامة للرسل.\" مبارك أنت يا رب، علمني عدلك."
+   },
+   "transliterations": {
+    "english": "Enshorp emasho aviees emmoou epekemhav: enje nihiomi emfaisojen evnehpi. Alla afohi eratf higoou enje piangelos efgo emmos noou: je epseeou empirimi: afheri emperrimi: alla arihioish enti-anastasis enni-apostolos. Ekesmaroout Epshois: ma-etsavoi enekmethmee."
+   },
+   "sung": {
+    "english": "The women rushed very early to Your tomb, carrying fragrant oil while crying. But the angel stood before them saying, \"The time of weeping is over, do not weep but preach the Resurrection to the Apostles.\" Blessed are you, O Lord, teach me Your statutes."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛ̀ϣⲱⲣⲡ ⲉ̀ⲙⲁϣⲱ ⲁⲩⲓⲏⲥ ⲙ̀ⲙⲱⲟⲩ ⲉ̀ⲡⲉⲕⲙ̀ϩⲁⲩ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲛⲓϩⲓⲟⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ ⲉⲩⲛⲉϩⲡⲓ."
+    },
+    {
+     "coptic": "Ⲁⲗⲗⲁ ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ ϩⲓϫⲱⲟⲩ ⲛ̀ϫⲉ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲱⲟⲩ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲡ̀ⲥⲏⲟⲩ ⲙ̀ⲡⲓⲣⲓⲙⲓ:"
+    },
+    {
+     "coptic": "ⲁϥϩⲉⲣⲓ ⲙ̀ⲡⲉⲣⲣⲓⲙⲓ:"
+    },
+    {
+     "coptic": "ⲁⲗⲗⲁ ⲁ̀ⲣⲓϩⲓⲱⲓϣ ⲛ̀Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ."
+    },
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "coptic": "Ⲛⲓϩⲓⲟⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ ⲁⲩⲓ̀ ⲉ̀ⲡⲉⲕⲙ̀ϩⲁⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲱ̀ Ⲡⲓⲥⲱⲧⲏⲣ. Ⲟⲩⲟϩ ⲁⲩⲥⲱⲧⲉⲙ ⲉ̀ⲡⲓⲁⲅⲅⲉⲗⲟⲥ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲱⲟⲩ: ϫⲉ ⲉⲑⲃⲉ ⲟⲩ ⲧⲉⲧⲉⲛⲕⲱϯ ⲛ̀ⲥⲁ ⲫⲏⲉⲧⲟⲛϧ ⲛⲉⲙ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ. Ⲟⲩⲟϩ ⲛ̀ⲑⲟϥ ϩⲱⲥ Ⲛⲟⲩϯ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ. Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ.",
+   "translations": {
+    "english": "The women came to Your tomb carrying fragrant oil and incense O Savior. They heard the angel say to them, \"Why do you seek the living among the dead.\" And He being God has risen from the tomb. Glory be to the Father and the Son and the Holy Spirit.",
+    "arabic": "أتينَّ النسوة حاملات الطيب إلى قبرك مع البخور أيها المخلص. وسمعنَّ الملاك قائلاً لهنَّ، \"لماذا تطلبنَّ الحي بين الأموات.\" وهو كإله قام من القبر. المجد للآب والإبن والروح القدس."
+   },
+   "transliterations": {
+    "english": "Nihiomi emfaisojen avi epekemhav nem pi-estoinoufi o Pisoteer. O-woh avsotem epiangelos efgo emmos noou: je ethve ou tetenkoti ensa fee-etonkh nem nirefmoout. O-woh enthof hos Noti aftonf evol khen pi-emhav. Thoksa Patri ke I-io ke Agio Epnevmati."
+   },
+   "sung": {
+    "english": "The women came to Your tomb, carrying fragrant oil and incense O Savior. They heard the angel say to them, \"Why do you seek the living among the dead,\" and He being God is risen from the tomb. Glory be to the Father, and the Son, and the Holy Spirit."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛⲓϩⲓⲟⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ ⲁⲩⲓ̀ ⲉ̀ⲡⲉⲕⲙ̀ϩⲁⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲱ̀ Ⲡⲓⲥⲱⲧⲏⲣ."
+    },
+    {
+     "coptic": "Ⲟⲩⲟϩ ⲁⲩⲥⲱⲧⲉⲙ ⲉ̀ⲡⲓⲁⲅⲅⲉⲗⲟⲥ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲱⲟⲩ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲉⲑⲃⲉ ⲟⲩ ⲧⲉⲧⲉⲛⲕⲱϯ ⲛ̀ⲥⲁ ⲫⲏⲉⲧⲟⲛϧ ⲛⲉⲙ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ."
+    },
+    {
+     "coptic": "Ⲟⲩⲟϩ ⲛ̀ⲑⲟϥ ϩⲱⲥ Ⲛⲟⲩϯ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ."
+    },
+    {
+     "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϧⲉⲛ ϯⲙⲉⲧⲟⲩⲁⲓ ⲛ̀ⲧⲉ ϯⲟⲩⲥⲓⲁ. Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲛ̀ⲑⲟⲕ Ⲡ̀ϭⲟⲓⲥ. Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ. (ⲅ̅)",
+   "translations": {
+    "english": "We worship the Father and the Son and the Holy Spirit, one in essence. And we proclaim with the Cherubim saying, \"Holy, holy, holy are You O Lord.\" Now and forever and unto the age of all ages, Amen. [Three Times]",
+    "arabic": "نسجد للآب والإبن والروح القدس، في وحدانية الجوهر. ونصرخ مع الشاروبيم قائلين، \"قدوس قدوس قدوس، أنت يا رب.\" الآن وكل أوان وإلى دهر الدهور، آمين. [ثلاث مرات]"
+   },
+   "transliterations": {
+    "english": "Tenowosht emefiot nem Epsheeri nem Pi-epnevma ethowab: khen timetowai ente tiousia. O-woh entenosh evol nem Nisherouvim: je ekowab ekowab ekowab enthok Epshois. Ke nin ke a-i ke is tous e-onas ton e-onon: ameen. (shomt)"
+   },
+   "sung": {
+    "english": "We worship the Father, and the Son, and the Holy Spirit, one in essence. And we proclaim and say with the Cherubim, \"Holy, holy, holy are You O Lord.\" Now and forever, and unto the age of all ages amen. (3)"
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ϯⲙⲉⲧⲟⲩⲁⲓ ⲛ̀ⲧⲉ ϯⲟⲩⲥⲓⲁ."
+    },
+    {
+     "coptic": "Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲛ̀ⲑⲟⲕ Ⲡ̀ϭⲟⲓⲥ."
+    },
+    {
+     "coptic": "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲙⲏⲛ."
+    },
+    {
+     "coptic": "(ⲅ̅)"
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "coptic": "Ⲁ̀ⲣⲉⲙⲓⲥⲓ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲙ̀Ⲫ̀ⲣⲉϥϯ ⲙ̀ⲡ̀ⲱⲛϧ: ⲟⲩⲟϩ ⲁ̀ⲣⲉⲛⲟϩⲉⲙ ⲛ̀Ⲁ̀ⲇⲁⲙ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲫ̀ⲛⲟⲃⲓ. Ⲁ̀ⲣⲉϯ ⲙ̀ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀Ⲉ̀ⲩⲁ ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲙ̀ⲡⲉⲥⲙ̀ⲕⲁϩⲛ̀ϩⲏⲧ: ⲟⲩⲟϩ ⲁ̀ⲣⲉⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡ̀ⲱⲛϧ ⲛⲉⲙ ⲫ̀ⲛⲟϩⲉⲙ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡ̀ⲧⲁⲕⲟ ⲛⲉⲙ ⲡ̀ϣⲓⲃϯ. Ⲁ̀ⲣⲉϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲛⲁϩⲣⲉⲛ Ⲫ̀ⲛⲟⲩϯ Ⲡⲉⲛⲣⲉϥⲥⲱϯ: ⲫⲏⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ.",
+   "translations": {
+    "english": "You gave birth O Virgin to the Giver of life, and you saved Adam from sin. You gave joy to Eve instead of sorrow, and gave us life and salvation from corruption and alteration. You became our intercessor before God our Savior, who was incarnate of you.",
+    "arabic": "ولدتِ أيتها العذراء معطي الحياة، وخلصتِ آدم من الخطية. ومنحتِ حواء الفرح عوض حزنها، وأنعمتِ لنا بالحياة والخلاص من الفساد والتغير. صرتِ لنا شفيعة أمام الله مخلصنا، الذي تجسد منك."
+   },
+   "transliterations": {
+    "english": "Aremisi o Tiparthenos emefrefti emeponkh: o-woh arenohem enadam evol khen efnovi. Areti emepounof eneva enetshevio empesemkahenheet: o-woh are-erehmot nan emeponkh nem efnohem evol khen eptako nem epshivti. Areshopi nan enou-eprostatees nahren Efnoti Penrefsoti: fee-etafchisarks evol enkheeti."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲣⲉⲙⲓⲥⲓ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲙ̀Ⲫ̀ⲣⲉϥϯ ⲙ̀ⲡ̀ⲱⲛϧ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲁ̀ⲣⲉⲛⲟϩⲉⲙ ⲛ̀Ⲁ̀ⲇⲁⲙ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲫ̀ⲛⲟⲃⲓ."
+    },
+    {
+     "coptic": "Ⲁ̀ⲣⲉϯ ⲙ̀ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀Ⲉ̀ⲩⲁ ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲙ̀ⲡⲉⲥⲙ̀ⲕⲁϩⲛ̀ϩⲏⲧ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲁ̀ⲣⲉⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡ̀ⲱⲛϧ ⲛⲉⲙ ⲫ̀ⲛⲟϩⲉⲙ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡ̀ⲧⲁⲕⲟ ⲛⲉⲙ ⲡ̀ϣⲓⲃϯ."
+    },
+    {
+     "coptic": "Ⲁ̀ⲣⲉϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲛⲁϩⲣⲉⲛ Ⲫ̀ⲛⲟⲩϯ Ⲡⲉⲛⲣⲉϥⲥⲱϯ:"
+    },
+    {
+     "coptic": "ⲫⲏⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ."
+    }
+   ]
+  }
+ ]
+}

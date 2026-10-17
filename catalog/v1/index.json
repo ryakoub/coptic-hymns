@@ -1,5 +1,5 @@
 {
- "version": "5e86692ae03af1b1",
+ "version": "40c560fd04de355f",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -731,11 +731,30 @@
        },
        "entries": [
         "ten-theeno",
+        "tennav",
         "first-hoos",
+        "first-hoos-lobsh",
         "second-hoos",
+        "second-hoos-lobsh",
         "third-hoos",
+        "esmo-epchois",
         "aripalin",
-        "fourth-hoos"
+        "tenoue-n-khok",
+        "commemoration-of-saints",
+        "doxology-virgin-midnight",
+        "fourth-hoos",
+        "first-sunday-psali",
+        "second-sunday-psali",
+        "leebon",
+        "gospel-luke",
+        "shere-ne-maria",
+        "semoti",
+        "shashf-ensop",
+        "teoi-enhekanos",
+        "aven-pi-arshee-erevs",
+        "nim-ghar",
+        "adam-theotokias-conclusion",
+        "concluding-litany"
        ]
       },
       {
@@ -1091,6 +1110,33 @@
  ],
  "texts": [
   {
+   "id": "adam-theotokias-conclusion",
+   "titles": {
+    "english": "The Adam Theotokias Conclusion",
+    "coptic": "Ⲧ̀ϧⲁⲉ̀ ⲛ̀Ⲛⲓⲑⲉⲟ̀ⲧⲟⲕⲓⲁ ⲛ̀Ⲁ̀ⲇⲁⲙ",
+    "arabic": "ختام الثيؤطوكيات الأدام"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 17,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "adam-theotokias-conclusion",
+    "adam-theotokias-conclusion-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
+    "bytes": 17308,
+    "sha256": "44dca3764e85b7fdef4a5db6f39218161615dd6324be122061521487d33cfe0b"
+   }
+  },
+  {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "titles": {
     "english": "Anaphora Responses of St. Basil and St. Gregory Liturgies"
@@ -1182,6 +1228,32 @@
    }
   },
   {
+   "id": "aven-pi-arshee-erevs",
+   "titles": {
+    "english": "The Fifteenth Part - Aven Pi-arshee-erevs",
+    "coptic": "Ϯⲙⲁϩⲙⲏⲧϯ - Ⲁⲩⲉⲛ ⲡⲓⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ",
+    "arabic": "القطعة الخامسة عشر - أف إن بي أرشي إريفس"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "aven-pi-arshee-erevs"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aven-pi-arshee-erevs.json",
+    "bytes": 5883,
+    "sha256": "39c97b29c07a96047371118697e5ef71ec39e9ced00ab64987b0ea3c05b0a5e6"
+   }
+  },
+  {
    "id": "blessed-pentecost",
    "titles": {
     "english": "Blessed, Pentecost"
@@ -1268,6 +1340,33 @@
    }
   },
   {
+   "id": "commemoration-of-saints",
+   "titles": {
+    "english": "The Commemoration of the Saint",
+    "coptic": "Ⲡⲓⲥⲩⲛⲇⲟⲥ ⲛ̀ⲧⲉ Ⲛⲏⲉⲑⲟⲩⲁⲃ",
+    "arabic": "مجمع القديسين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 75,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "commemoration-of-saints",
+    "commemoration-of-saints-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/commemoration-of-saints.json",
+    "bytes": 98645,
+    "sha256": "acbbb3ccf3275dde0233b9f284048d723c61d19c3d443df4a99835c3adef724d"
+   }
+  },
+  {
    "id": "concluding-canon-feast-cross",
    "titles": {
     "english": "Concluding Canon for Feast of the Cross"
@@ -1286,6 +1385,33 @@
     "url": "catalog/v1/texts/concluding-canon-feast-cross.json",
     "bytes": 539,
     "sha256": "ced541ba9a60ab5fe5742ea375f5109155423c3a252e5a75621cbd1c6cdc1c5e"
+   }
+  },
+  {
+   "id": "concluding-litany",
+   "titles": {
+    "english": "The Concluding Litany",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+    "arabic": "طلبة الختام"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 19,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "concluding-litany",
+    "concluding-litany-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/concluding-litany.json",
+    "bytes": 5677,
+    "sha256": "675848d1e04bd485e89ab963364574f8357f2eaa9b3090eea8f4019f6a1c242f"
    }
   },
   {
@@ -1436,6 +1562,32 @@
    }
   },
   {
+   "id": "doxology-virgin-midnight",
+   "titles": {
+    "english": "Doxology for Virgin Mary - Midnight Praise",
+    "coptic": "Ϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ ⲛ̀ⲧⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁ - Ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀ⲧⲉ Ⲧ̀ⲫⲁϣⲓ ⲙ̀Ⲡⲓⲉ̀ϫⲱⲣϩ",
+    "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-virgin-midnight"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-virgin-midnight.json",
+    "bytes": 7339,
+    "sha256": "55c0262288de1259991dfb2f6e0aac7b8f587249ffde51f68a814702c99162bc"
+   }
+  },
+  {
    "id": "ere-po-esmo-may-their-holy-blessing",
    "titles": {
     "english": "Ere Po Esmo (May Their Holy Blessing)"
@@ -1454,6 +1606,32 @@
     "url": "catalog/v1/texts/ere-po-esmo-may-their-holy-blessing.json",
     "bytes": 684,
     "sha256": "9110dc94fdae216192be7adb26e3a5d000475becb80f9b6c045b31ec3844cb0c"
+   }
+  },
+  {
+   "id": "esmo-epchois",
+   "titles": {
+    "english": "The Third Hoos - Esmo Epchois",
+    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ - Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+    "arabic": "الهوس الثالث - إسمو إبشويس"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "esmo-epchois"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/esmo-epchois.json",
+    "bytes": 2282,
+    "sha256": "0c7657ec9b056c657097adab40ac43a91c54820d2b352e4636445ca3b9bb2933"
    }
   },
   {
@@ -1527,6 +1705,60 @@
    }
   },
   {
+   "id": "first-hoos-lobsh",
+   "titles": {
+    "english": "The First Hoos Lobsh",
+    "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲛ̀Ϩⲟⲩⲓⲧ",
+    "arabic": "لبش الهوس الأول"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 9,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "first-hoos-lobsh",
+    "first-hoos-lobsh-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/first-hoos-lobsh.json",
+    "bytes": 9460,
+    "sha256": "e1a28d58ff6bf706fc6dc44af8aa702553e7dd70601ebf5296417fc64cec331e"
+   }
+  },
+  {
+   "id": "first-sunday-psali",
+   "titles": {
+    "english": "The First Sunday Psali",
+    "coptic": "Ϯⲯⲁⲗⲓ ⲛ̀Ϩⲟⲩⲓϯ ⲛ̀ⲧⲉ Ϯⲕⲩⲣⲓⲁⲕⲏ",
+    "arabic": "إبصالية الأحد الأول"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "first-sunday-psali",
+    "first-sunday-psali-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/first-sunday-psali.json",
+    "bytes": 20536,
+    "sha256": "6633277e27e9dd05311e4c7a0cdd5b3a70091cf2ab584b3e2dd159d28677ac4c"
+   }
+  },
+  {
    "id": "fourth-hoos",
    "titles": {
     "english": "The Fourth Hoos",
@@ -1551,6 +1783,33 @@
     "url": "catalog/v1/texts/fourth-hoos.json",
     "bytes": 32717,
     "sha256": "53eb2e68b8051200bf3a83d046000ce2a2c7cfeb2b1c134122f095813ed1f8ea"
+   }
+  },
+  {
+   "id": "gospel-luke",
+   "titles": {
+    "english": "Gospel According to St. Luke",
+    "coptic": "Ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ Ⲁ̀ⲅⲓⲟⲛ",
+    "arabic": "الإنجيل لمعلمنا مار لوقا"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "gospel-luke",
+    "gospel-luke-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/gospel-luke.json",
+    "bytes": 4144,
+    "sha256": "effc97677d408a53884dbd2f8e0587831f881809370de33870905df6d2442224"
    }
   },
   {
@@ -1707,6 +1966,32 @@
    }
   },
   {
+   "id": "leebon",
+   "titles": {
+    "english": "Intro of the Theotokia (Leebon)",
+    "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ",
+    "arabic": "مقدمة الثيؤطوكية - ليبون"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "leebon"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/leebon.json",
+    "bytes": 4215,
+    "sha256": "5add5e841b45e4f93b009791b48f4296141913705cf7d5a09aaf95fea995057a"
+   }
+  },
+  {
    "id": "liturgy-gospel-response-annual",
    "titles": {
     "english": "Liturgy Gospel Response, Annual"
@@ -1767,6 +2052,33 @@
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
     "bytes": 3561,
     "sha256": "9475ae93b93ea0076342dd285c7abf9af7a2f9d016072094afed8776b8acf297"
+   }
+  },
+  {
+   "id": "nim-ghar",
+   "titles": {
+    "english": "The Sixteenth Part - Nim Ghar",
+    "coptic": "Ϯⲙⲁϩⲙⲏⲧⲥⲟ - Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ",
+    "arabic": "القطعة السادسة عشر - نيم غار"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 14,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "nim-ghar",
+    "nim-ghar-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/nim-ghar.json",
+    "bytes": 12886,
+    "sha256": "f7af188db8faf7a4b7c5730d9a5f1ae707a6492a3ddf40868fced836cee785ea"
    }
   },
   {
@@ -2143,6 +2455,140 @@
    }
   },
   {
+   "id": "second-hoos-lobsh",
+   "titles": {
+    "english": "The Second Hoos Lobsh",
+    "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲁⲩ",
+    "arabic": "لبش الهوس الثاني"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "second-hoos-lobsh",
+    "second-hoos-lobsh-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/second-hoos-lobsh.json",
+    "bytes": 12290,
+    "sha256": "8382ce40eaeba35c76d7d7621b66414232565e59921fcafa01e91baaf64c0b6a"
+   }
+  },
+  {
+   "id": "second-sunday-psali",
+   "titles": {
+    "english": "The Second Sunday Psali",
+    "coptic": "Ϯⲯⲁⲗⲓ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ Ϯⲕⲩⲣⲓⲁⲕⲏ",
+    "arabic": "إبصالية الأحد الثانية"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 16,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "second-sunday-psali",
+    "second-sunday-psali-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/second-sunday-psali.json",
+    "bytes": 27903,
+    "sha256": "0c9219a2d5a8188b90ccdbfcabd656ceeec5f99db72bff7b06edad8cfd340736"
+   }
+  },
+  {
+   "id": "semoti",
+   "titles": {
+    "english": "The Seventh Part - Semoti",
+    "coptic": "Ϯⲙⲁϩϣⲁϣϥⲓ - Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
+    "arabic": "القطعة السابعة - سيموتي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 7,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "semoti",
+    "semoti-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/semoti.json",
+    "bytes": 6871,
+    "sha256": "6d3529bd0b09ad40f61314dfacf47fbf2edf4f9ccabc61002bd9b8aa1bb2ba3f"
+   }
+  },
+  {
+   "id": "shashf-ensop",
+   "titles": {
+    "english": "The Eighth Part - Shashf Ensop",
+    "coptic": "Ϯⲙⲁϩϣ̀ⲙⲏⲛⲓ - Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ",
+    "arabic": "القطعة الثامنة - شاشف إنسوب"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 25,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "shashf-ensop",
+    "shashf-ensop-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/shashf-ensop.json",
+    "bytes": 31764,
+    "sha256": "54a2be922b17420ba3996c0d3e2d315a55b86000eae75c4c267ce427219ab4a4"
+   }
+  },
+  {
+   "id": "shere-ne-maria",
+   "titles": {
+    "english": "The Seventh Part - Shere ne Maria",
+    "coptic": "Ϯⲙⲁϩϣⲁϣϥⲓ - Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+    "arabic": "القطعة السابعة - شيري نيه ماريا"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "shere-ne-maria"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/shere-ne-maria.json",
+    "bytes": 5851,
+    "sha256": "abacecb0b0b675d11942c00d24f2ba4c09f0e0643f997f5757d955e415e4a0b9"
+   }
+  },
+  {
    "id": "sotees-ameen-fast",
    "titles": {
     "english": "Sotees Ameen (Fast)"
@@ -2235,6 +2681,33 @@
    }
   },
   {
+   "id": "tennav",
+   "titles": {
+    "english": "The Hymn of the Resurrection - Tennav",
+    "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ - Ⲧⲉⲛⲛⲁⲩ",
+    "arabic": "لحن القيامة - تينناف"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 9,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "tennav",
+    "tennav-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/tennav.json",
+    "bytes": 27520,
+    "sha256": "719a0188079eeec046be80bac40a1f59090a6225d349505b2e5743e2e956b16a"
+   }
+  },
+  {
    "id": "tenoue-n-khok",
    "titles": {
     "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ",
@@ -2247,14 +2720,44 @@
    "translations": [
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
-    "tenoue-n-khok"
+    "tenoue-n-khok",
+    "tenoue-n-khok-english"
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
-    "bytes": 3622,
-    "sha256": "cb25f26280ea113200a77766608fc33cd8adedb057a58e581c6ff62b1ef59798"
+    "bytes": 4958,
+    "sha256": "ad2a83f62e3cfe3fe97b805cf294e15b0ee745881b8e04891745c25295fafe7a"
+   }
+  },
+  {
+   "id": "teoi-enhekanos",
+   "titles": {
+    "english": "The Tenth Part - Teoi Enhekanos",
+    "coptic": "Ϯⲙⲁϩⲙⲏϯ - Ⲧⲉⲟⲓ ⲛ̀ϩⲓⲕⲁⲛⲟⲥ",
+    "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 59,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "teoi-enhekanos",
+    "teoi-enhekanos-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/teoi-enhekanos.json",
+    "bytes": 55071,
+    "sha256": "3bc73335011f7a43b196eb30869e742e3a35f09d64e97e41d680395668662c27"
    }
   },
   {
@@ -2438,6 +2941,61 @@
  ],
  "recordings": [
   {
+   "id": "adam-theotokias-conclusion",
+   "text": "adam-theotokias-conclusion",
+   "duration": 247.92,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 17
+   },
+   "source": "https://tasbeha.org/hymn_library/view/477",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-theotokias-conclusion.json",
+     "bytes": 102,
+     "sha256": "969f30bcc50ba196b685fef3474971b8459ee99e94244487197b2fffb8eb0e4a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/adam-theotokias-conclusion/audio.mp3",
+     "role": "audio",
+     "bytes": 3967908,
+     "sha256": "deffce921fa15ab11d5c1bd857dae7cb946ce6ccdbbb883ef3a4a0706fab5b69"
+    }
+   ]
+  },
+  {
+   "id": "adam-theotokias-conclusion-english",
+   "text": "adam-theotokias-conclusion",
+   "duration": 223.97,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-theotokias-conclusion-english.json",
+     "bytes": 110,
+     "sha256": "087e18e47abb16a845e7c1628478650b7d2e5aa2a31fa02d89780592a7b0e087",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/adam-theotokias-conclusion-english/audio.mp3",
+     "role": "audio",
+     "bytes": 3584779,
+     "sha256": "fd0c89c106e5890fbf923b3dddaa02823bb0e7a6ca7e73f989efb25756d07be5"
+    }
+   ]
+  },
+  {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "text": "anaphora-responses-st-basil-st-gregory-liturgies",
    "duration": 138.6,
@@ -2574,6 +3132,31 @@
    ]
   },
   {
+   "id": "aven-pi-arshee-erevs",
+   "text": "aven-pi-arshee-erevs",
+   "duration": 719.04,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/480",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aven-pi-arshee-erevs.json",
+     "bytes": 90,
+     "sha256": "11a0e3fb76e109dd17db61b6d0f84fedf642df1468502a42d1f5c6a0ea80f582",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/aven-pi-arshee-erevs/audio.mp3",
+     "role": "audio",
+     "bytes": 11505773,
+     "sha256": "fae098b29afce1156e1481fb25e2f7a2c933a2ecc9b1eabdc7da0c973d7dc8a8"
+    }
+   ]
+  },
+  {
    "id": "blessed-pentecost",
    "text": "blessed-pentecost",
    "duration": 69.35,
@@ -2678,6 +3261,61 @@
    ]
   },
   {
+   "id": "commemoration-of-saints",
+   "text": "commemoration-of-saints",
+   "duration": 1631.93,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 75
+   },
+   "source": "https://tasbeha.org/hymn_library/view/111",
+   "files": [
+    {
+     "url": "catalog/v1/timings/commemoration-of-saints.json",
+     "bytes": 96,
+     "sha256": "a9af93560240d01076cad65bd68409db747a5b280829a4faf846d459dd777b80",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/commemoration-of-saints/audio.mp3",
+     "role": "audio",
+     "bytes": 26112122,
+     "sha256": "335becce5bcd403a6c06dbe6de7b6809651ca201307ff7744c953c378530af70"
+    }
+   ]
+  },
+  {
+   "id": "commemoration-of-saints-english",
+   "text": "commemoration-of-saints",
+   "duration": 1113.55,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/commemoration-of-saints-english.json",
+     "bytes": 104,
+     "sha256": "a09fd3c6444a771820384201f8580143fc8da2ae5870e4c8ab0f8cfd52fdb063",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/commemoration-of-saints-english/audio.mp3",
+     "role": "audio",
+     "bytes": 17817960,
+     "sha256": "b40cc8e0ebdc1962e71d04510f809a9920c7ae84e6a5ac1ccf4454710d42f0ba"
+    }
+   ]
+  },
+  {
    "id": "concluding-canon-feast-cross",
    "text": "concluding-canon-feast-cross",
    "duration": 34.35,
@@ -2700,6 +3338,61 @@
      "role": "audio",
      "bytes": 336306,
      "sha256": "38fbd1d3ade268883776a3b83711777a136ed3158e2f618ecfd6c7c3a31d6075"
+    }
+   ]
+  },
+  {
+   "id": "concluding-litany",
+   "text": "concluding-litany",
+   "duration": 344.52,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 19
+   },
+   "source": "https://tasbeha.org/hymn_library/view/147",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-litany.json",
+     "bytes": 84,
+     "sha256": "2f48cbb1eeb122355b47e2420d4713f397aca920322c53374a98e9834899f981",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/concluding-litany/audio.mp3",
+     "role": "audio",
+     "bytes": 5513515,
+     "sha256": "2945b88070525a2df2cad9ae412d8a8215c4be0a3cb5c0a1b828fa09fdb621bf"
+    }
+   ]
+  },
+  {
+   "id": "concluding-litany-english",
+   "text": "concluding-litany",
+   "duration": 258.59,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-litany-english.json",
+     "bytes": 92,
+     "sha256": "875af8f2cac35a625bd2ed4b8bebcb1bab3663016c6a488b8c6b3157e8de4ac8",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/concluding-litany-english/audio.mp3",
+     "role": "audio",
+     "bytes": 4138556,
+     "sha256": "0ec638b730287aa07efc8389fce192fd9415b5736ef704c0fad74a6a1997e65f"
     }
    ]
   },
@@ -2886,6 +3579,31 @@
    ]
   },
   {
+   "id": "doxology-virgin-midnight",
+   "text": "doxology-virgin-midnight",
+   "duration": 185.31,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/25",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-virgin-midnight.json",
+     "bytes": 98,
+     "sha256": "fe1c9015a47d5749f9e8f3250c61bc5522361530bc7532dd656db308d625925a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-virgin-midnight/audio.mp3",
+     "role": "audio",
+     "bytes": 2966078,
+     "sha256": "1ad2e3222df71f68b3495193538fa4c01ec71a893242d1b8aae8555a7561c1b9"
+    }
+   ]
+  },
+  {
    "id": "ere-po-esmo-may-their-holy-blessing",
    "text": "ere-po-esmo-may-their-holy-blessing",
    "duration": 64.47,
@@ -2908,6 +3626,31 @@
      "role": "audio",
      "bytes": 819220,
      "sha256": "1423a1f7348709c2ca8fb3a2c5a1edffa62c988be90cdef21e0787025190a0c6"
+    }
+   ]
+  },
+  {
+   "id": "esmo-epchois",
+   "text": "esmo-epchois",
+   "duration": 390.24,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/453",
+   "files": [
+    {
+     "url": "catalog/v1/timings/esmo-epchois.json",
+     "bytes": 74,
+     "sha256": "b648bc824800135470d9bdbb371253cd8829d0f609edd7448455f8fb63fa6fc8",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/esmo-epchois/audio.mp3",
+     "role": "audio",
+     "bytes": 6244930,
+     "sha256": "67ad7bde61bac6a6b080e56b6658bdfeee18f070d0341e841e544cdc8e575ed7"
     }
    ]
   },
@@ -3021,6 +3764,116 @@
    ]
   },
   {
+   "id": "first-hoos-lobsh",
+   "text": "first-hoos-lobsh",
+   "duration": 874.57,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 9
+   },
+   "source": "https://tasbeha.org/hymn_library/view/105",
+   "files": [
+    {
+     "url": "catalog/v1/timings/first-hoos-lobsh.json",
+     "bytes": 82,
+     "sha256": "7ab5fc904b8dc4cc4f9d63974e34e839a163d4f02a283f289bad251513108bdc",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/first-hoos-lobsh/audio.mp3",
+     "role": "audio",
+     "bytes": 13994333,
+     "sha256": "219fd2d30eccc8ae0fc08cbcdf6d717759204729a302f022204526be0f98abc4"
+    }
+   ]
+  },
+  {
+   "id": "first-hoos-lobsh-english",
+   "text": "first-hoos-lobsh",
+   "duration": 311.54,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/first-hoos-lobsh-english.json",
+     "bytes": 90,
+     "sha256": "630e077ad032fc4510ab1d856ba5f3fc5bbc1558045bbb5707997094e20bc6c7",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/first-hoos-lobsh-english/audio.mp3",
+     "role": "audio",
+     "bytes": 4985780,
+     "sha256": "11f400a0553c67163c4745dd15cad6b92843b9bd6a1fc490e86671578ba2b72c"
+    }
+   ]
+  },
+  {
+   "id": "first-sunday-psali",
+   "text": "first-sunday-psali",
+   "duration": 425.5,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/112",
+   "files": [
+    {
+     "url": "catalog/v1/timings/first-sunday-psali.json",
+     "bytes": 86,
+     "sha256": "a7f61408668ed6cc30000e6f4dcbe7d8dfc8a7ce16089ba9a611b29ab4dc3077",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/first-sunday-psali/audio.mp3",
+     "role": "audio",
+     "bytes": 6809194,
+     "sha256": "7486dd206095ed2d7c3c994af137955bf43f393c5fe3c243d582bc08802d3b87"
+    }
+   ]
+  },
+  {
+   "id": "first-sunday-psali-english",
+   "text": "first-sunday-psali",
+   "duration": 361.85,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/first-sunday-psali-english.json",
+     "bytes": 94,
+     "sha256": "eb0801540c12129006a1461a81ff2d54e6524c4f18f01a9fdb1d2932af971311",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/first-sunday-psali-english/audio.mp3",
+     "role": "audio",
+     "bytes": 5790766,
+     "sha256": "c7e4ff6ff3a892772d605ffab02e3b9ab574d65673248625b518037f0d3d9c2a"
+    }
+   ]
+  },
+  {
    "id": "fourth-hoos",
    "text": "fourth-hoos",
    "duration": 441.94,
@@ -3075,6 +3928,61 @@
      "role": "audio",
      "bytes": 7003250,
      "sha256": "6cc91771522983e8511fbf0eff99d22971089ce3754bddc68957b0c176338fb2"
+    }
+   ]
+  },
+  {
+   "id": "gospel-luke",
+   "text": "gospel-luke",
+   "duration": 57.8,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/138",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-luke.json",
+     "bytes": 72,
+     "sha256": "febabbccd7b0d2fb70d5de31406da5c22e1f25c9a2c4659f211801f9e3945d6e",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/gospel-luke/audio.mp3",
+     "role": "audio",
+     "bytes": 925984,
+     "sha256": "edafc221e092ada223fb784df5da70b31b9d3d63fa200444a8eb30dade803ddd"
+    }
+   ]
+  },
+  {
+   "id": "gospel-luke-english",
+   "text": "gospel-luke",
+   "duration": 33.88,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-luke-english.json",
+     "bytes": 80,
+     "sha256": "091bfccd11f30c92db4b82dafa8925a0bce36a9aaab91f869cffd997e41a9b0b",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/gospel-luke-english/audio.mp3",
+     "role": "audio",
+     "bytes": 543283,
+     "sha256": "2b2e3376ede0c25c435aa8765f7e7ea9b54e360d8f5df466de163743c44c9fa9"
     }
    ]
   },
@@ -3261,6 +4169,31 @@
    ]
   },
   {
+   "id": "leebon",
+   "text": "leebon",
+   "duration": 519.75,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/465",
+   "files": [
+    {
+     "url": "catalog/v1/timings/leebon.json",
+     "bytes": 62,
+     "sha256": "4f25d4eec6cfd121f103f8e530b958119e1a793f832bed11914cf3d88b142961",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/leebon/audio.mp3",
+     "role": "audio",
+     "bytes": 8317173,
+     "sha256": "8fa1004103b7d4e22fc66edf8cdb7f14293e8976534193525ad9e5bb8f26e5b6"
+    }
+   ]
+  },
+  {
    "id": "liturgy-gospel-response-annual",
    "text": "liturgy-gospel-response-annual",
    "duration": 108.54,
@@ -3335,6 +4268,61 @@
      "role": "audio",
      "bytes": 6184244,
      "sha256": "a154783dd42186176906ff23a420136dae58092aea5f387540d184a96fb015d6"
+    }
+   ]
+  },
+  {
+   "id": "nim-ghar",
+   "text": "nim-ghar",
+   "duration": 257.59,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 14
+   },
+   "source": "https://tasbeha.org/hymn_library/view/481",
+   "files": [
+    {
+     "url": "catalog/v1/timings/nim-ghar.json",
+     "bytes": 66,
+     "sha256": "9e69c4cfc410aa54cd3afba63ecd1a852abc5744585207d160c1f57df266a44f",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/nim-ghar/audio.mp3",
+     "role": "audio",
+     "bytes": 4122541,
+     "sha256": "fe9cb5344ff1bb7d8b533334a4e83cedd77e6ed437e942a6f326957f10ceeef0"
+    }
+   ]
+  },
+  {
+   "id": "nim-ghar-english",
+   "text": "nim-ghar",
+   "duration": 189.02,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/nim-ghar-english.json",
+     "bytes": 74,
+     "sha256": "6d1ca8a9e5c81302d760cb0207215dd465c0762f6e4d5b8f6da31bd32bc25b2c",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/nim-ghar-english/audio.mp3",
+     "role": "audio",
+     "bytes": 3025544,
+     "sha256": "aabccd4221fbe2fd750c0a6b656b20eff766d5bed968588a130ef47b02456166"
     }
    ]
   },
@@ -3813,6 +4801,251 @@
    ]
   },
   {
+   "id": "second-hoos-lobsh",
+   "text": "second-hoos-lobsh",
+   "duration": 1047.79,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/182",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-hoos-lobsh.json",
+     "bytes": 84,
+     "sha256": "fcf79cab5f53e519d416b83aafa28bb2c90197c11207ab48ccde2d373a5cb773",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/second-hoos-lobsh/audio.mp3",
+     "role": "audio",
+     "bytes": 16765831,
+     "sha256": "d03a2c2371cfffca45fe015bdabba64be782a2c80300ac9e7e174e1089080ccf"
+    }
+   ]
+  },
+  {
+   "id": "second-hoos-lobsh-english",
+   "text": "second-hoos-lobsh",
+   "duration": 413.68,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-hoos-lobsh-english.json",
+     "bytes": 92,
+     "sha256": "79b8bbc4aa6fc22a72c43d83ce9fca5f79c3077226cbe14fc1ab915aa57477b1",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/second-hoos-lobsh-english/audio.mp3",
+     "role": "audio",
+     "bytes": 6620001,
+     "sha256": "6c7b9127214c71ae63ee9606b5ff061265fe964c8647882edbc37e700b0778cf"
+    }
+   ]
+  },
+  {
+   "id": "second-sunday-psali",
+   "text": "second-sunday-psali",
+   "duration": 526.23,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 16
+   },
+   "source": "https://tasbeha.org/hymn_library/view/174",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-sunday-psali.json",
+     "bytes": 88,
+     "sha256": "5a54750ee313fdc71d4e7734d479cee332a6a3051656c78fd34c05df0096e025",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/second-sunday-psali/audio.mp3",
+     "role": "audio",
+     "bytes": 8420832,
+     "sha256": "9b990243d205c64369c4d040288c569a4216f39b0abcd0e5742020301eb45fff"
+    }
+   ]
+  },
+  {
+   "id": "second-sunday-psali-english",
+   "text": "second-sunday-psali",
+   "duration": 480.47,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-sunday-psali-english.json",
+     "bytes": 96,
+     "sha256": "0cf21abb2581f3f19887b4d0b3bbc62358a8f28509bda97213a7417e58f26d0e",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/second-sunday-psali-english/audio.mp3",
+     "role": "audio",
+     "bytes": 7688717,
+     "sha256": "c537495350d45014c83baeb6bdadd8dc84375f87485111b39a2e9efaab8f7eb3"
+    }
+   ]
+  },
+  {
+   "id": "semoti",
+   "text": "semoti",
+   "duration": 1090.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 7
+   },
+   "source": "https://tasbeha.org/hymn_library/view/452",
+   "files": [
+    {
+     "url": "catalog/v1/timings/semoti.json",
+     "bytes": 62,
+     "sha256": "30197833dbae840ea051193fe0b26ed25afc5af82e8211ce7ac8850fe0cc1f49",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/semoti/audio.mp3",
+     "role": "audio",
+     "bytes": 17446661,
+     "sha256": "bf94f91cd460a1fa0d12a3dd873eaed8a9437d9a444918bc88c04ecf39c8256b"
+    }
+   ]
+  },
+  {
+   "id": "semoti-english",
+   "text": "semoti",
+   "duration": 100.39,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/semoti-english.json",
+     "bytes": 70,
+     "sha256": "1f8d10e0b7ea1db8ca5e7481e1196e21a2065034035b64bf63af027344f931ac",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/semoti-english/audio.mp3",
+     "role": "audio",
+     "bytes": 1607410,
+     "sha256": "ba683b22621b726c1916c231c4d4e4a67a60a83bfc5ec91c59c4d63f8efe78ba"
+    }
+   ]
+  },
+  {
+   "id": "shashf-ensop",
+   "text": "shashf-ensop",
+   "duration": 677.4,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 25
+   },
+   "source": "https://tasbeha.org/hymn_library/view/140",
+   "files": [
+    {
+     "url": "catalog/v1/timings/shashf-ensop.json",
+     "bytes": 74,
+     "sha256": "d7924ef9f3f2378161f438927403efa44f64e9452b8fa65dcb4b90a72696aeb2",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/shashf-ensop/audio.mp3",
+     "role": "audio",
+     "bytes": 10839565,
+     "sha256": "b9d9ff31188d6a8392b6236a0af7f4d250f1cbb542f2cc67ad59d7ebb5d97421"
+    }
+   ]
+  },
+  {
+   "id": "shashf-ensop-english",
+   "text": "shashf-ensop",
+   "duration": 480.94,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/shashf-ensop-english.json",
+     "bytes": 82,
+     "sha256": "83687418043987fecee22ca62f281ab6344d9211d0d2f5d1108ca8c48ae4b09f",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/shashf-ensop-english/audio.mp3",
+     "role": "audio",
+     "bytes": 7696245,
+     "sha256": "c8f5945e34055222ce3273ecde0a779ace656cee6c1c52778d2aa6c595826663"
+    }
+   ]
+  },
+  {
+   "id": "shere-ne-maria",
+   "text": "shere-ne-maria",
+   "duration": 511.06,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/139",
+   "files": [
+    {
+     "url": "catalog/v1/timings/shere-ne-maria.json",
+     "bytes": 78,
+     "sha256": "b0f4e6f8104d55af7a67119d858ae4e7f3d7553a2af28c5c154d738c6d3d2fd6",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/shere-ne-maria/audio.mp3",
+     "role": "audio",
+     "bytes": 8178092,
+     "sha256": "77aa591740c97edcc08778f73e1c749eee613e70ffb69b5ac93e76a58524941e"
+    }
+   ]
+  },
+  {
    "id": "sotees-ameen-fast",
    "text": "sotees-ameen-fast",
    "duration": 42.82,
@@ -3947,6 +5180,61 @@
    ]
   },
   {
+   "id": "tennav",
+   "text": "tennav",
+   "duration": 520.95,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 9
+   },
+   "source": "https://tasbeha.org/hymn_library/view/104",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tennav.json",
+     "bytes": 62,
+     "sha256": "7d195e9de590aa45bca1a25462ba8354781bc1ae459b81ccd0eb3d4550c367dc",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/tennav/audio.mp3",
+     "role": "audio",
+     "bytes": 8336406,
+     "sha256": "4c394a0a8c23a2e42b450e437bd95fbbb853bce97ecf5de1c5e5ad27de72c133"
+    }
+   ]
+  },
+  {
+   "id": "tennav-english",
+   "text": "tennav",
+   "duration": 383.24,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tennav-english.json",
+     "bytes": 70,
+     "sha256": "ba6202cfde57bea8f6fb0791a7034ee83e1a3d1da90e3236d8768ef91e9eef9d",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/tennav-english/audio.mp3",
+     "role": "audio",
+     "bytes": 6133075,
+     "sha256": "88d38d1f9ac7d4767d6c963f4be3c106c7a812ee0b10d4c42b5c487e61d1b269"
+    }
+   ]
+  },
+  {
    "id": "tenoue-n-khok",
    "text": "tenoue-n-khok",
    "duration": 407.15,
@@ -3969,6 +5257,91 @@
      "role": "audio",
      "bytes": 6432078,
      "sha256": "d0f8bb63e84bf8b6f06377a2036a4bf615dd729070efe4c6fd4d67043cad3a77"
+    }
+   ]
+  },
+  {
+   "id": "tenoue-n-khok-english",
+   "text": "tenoue-n-khok",
+   "duration": 231.47,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenoue-n-khok-english.json",
+     "bytes": 84,
+     "sha256": "239c90ed24255832bf3471da63c17d0c315653ed106cc6daf9e73ed83dfa8ee9",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/tenoue-n-khok-english/audio.mp3",
+     "role": "audio",
+     "bytes": 3704734,
+     "sha256": "955b72cecc16a490675807b9da7a1696fcea039abd4d96a2c59f2b22519701b1"
+    }
+   ]
+  },
+  {
+   "id": "teoi-enhekanos",
+   "text": "teoi-enhekanos",
+   "duration": 899.6,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 59
+   },
+   "source": "https://tasbeha.org/hymn_library/view/479",
+   "files": [
+    {
+     "url": "catalog/v1/timings/teoi-enhekanos.json",
+     "bytes": 78,
+     "sha256": "24bed8f906516708ac6c0a826449851b49ea014ee8dd729d4b17193f0975fc45",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/teoi-enhekanos/audio.mp3",
+     "role": "audio",
+     "bytes": 14394727,
+     "sha256": "840f11a9e9cf37e35e2f73f8d4b094d2d07a9166f1183f29c253aaeffd43a672"
+    }
+   ]
+  },
+  {
+   "id": "teoi-enhekanos-english",
+   "text": "teoi-enhekanos",
+   "duration": 737.99,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/teoi-enhekanos-english.json",
+     "bytes": 86,
+     "sha256": "1fc35a48a28830736aa9f75ca6bf861a84e897c31c5741f7a7e64423a1f1ccf4",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/teoi-enhekanos-english/audio.mp3",
+     "role": "audio",
+     "bytes": 11808953,
+     "sha256": "91cb5352134c11790ea819da76ba617150298b2aecc5d413877a1a3630af079b"
     }
    ]
   },

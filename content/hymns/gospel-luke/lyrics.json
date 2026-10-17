@@ -1,0 +1,84 @@
+[
+  {
+    "coptic": "Ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ: ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ ⲁ̀ⲅⲓⲟⲛ.",
+    "translations": {
+      "english": "Holy, holy, holy, a chapter reading from the Gospel according to our teacher Saint Luke the Evangelist. May his blessings be with us all. Amen.",
+      "arabic": "قدوس قدوس قدوس، فصل من الإنجيل لمعلمنا مار لوقا البشير. بركاته على جميعناً. آمين."
+    },
+    "transliterations": {
+      "english": "Ekowab ekowab ekowab: pievangelion kata Loukan agion."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ:"
+      },
+      {
+        "coptic": "ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ ⲁ̀ⲅⲓⲟⲛ."
+      }
+    ],
+    "sung": {
+      "english": "Holy, holy, holy, the gospel according to St. Luke. May his blessings be with us all. Amen."
+    }
+  },
+  {
+    "coptic": "Ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ Ⲕⲉⲫⲁⲗⲉⲟⲛ ⲃ̅ :",
+    "translations": {
+      "english": "Luke",
+      "arabic": "لوقا 2:"
+    },
+    "transliterations": {
+      "english": "Kata Loukan Kefaleon esnav :"
+    }
+  },
+  {
+    "coptic": "Ϯⲛⲟⲩ Ⲡⲁⲛⲏⲃ ⲭ̀ⲛⲁⲭⲁ ⲡⲉⲕⲃⲱⲕ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲕⲁⲧⲁ ⲡⲉⲕⲥⲁϫⲓ. Ϫⲉ ⲁⲩⲛⲁⲩ ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲉ̀ⲡⲉⲕⲛⲟϩⲉⲙ: ⲫⲏⲉ̀ⲧⲁⲕⲥⲉⲃⲧⲱⲧϥ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲛ̀ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ. Ⲟⲩⲟⲩⲱⲓⲛⲓ ⲉⲩϭⲱⲣⲡ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ϩⲁⲛⲉⲑⲛⲟⲥ: ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲕⲗⲁⲟⲥ Ⲡⲓⲥⲣⲁⲏⲗ.",
+    "translations": {
+      "english": "\"Lord, now You are letting Your servant depart in peace, according to Your word. For my eyes have seen Your salvation which You have prepared before the face of all peoples. A light to bring revelation to the Gentiles, and the glory of Your people Israel.\"",
+      "arabic": "\"الآن يا سيدي أطلق عبدك بسلام بحسب قولك. لأن عيني قد أبصرتا خلاصك الذي أعددته قدام جميع الشعوب. نوراً تجلى للأمم، ومجداً لشعبك إسرائيل.\""
+    },
+    "transliterations": {
+      "english": "Tinou Paneeb eknaka pekvok evol: khen ouhireenee kata peksaji. Je avnav enje naval epeknohem: fee-etaksevtotf empe-emtho ennilaos teerou. O-o-oini evchorp evol ente hanethnos: nem o-oou ente peklaos Pisraeel."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ϯⲛⲟⲩ Ⲡⲁⲛⲏⲃ ⲭ̀ⲛⲁⲭⲁ ⲡⲉⲕⲃⲱⲕ ⲉ̀ⲃⲟⲗ:"
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲕⲁⲧⲁ ⲡⲉⲕⲥⲁϫⲓ."
+      },
+      {
+        "coptic": "Ϫⲉ ⲁⲩⲛⲁⲩ ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲉ̀ⲡⲉⲕⲛⲟϩⲉⲙ:"
+      },
+      {
+        "coptic": "ⲫⲏⲉ̀ⲧⲁⲕⲥⲉⲃⲧⲱⲧϥ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲛ̀ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ."
+      },
+      {
+        "coptic": "Ⲟⲩⲟⲩⲱⲓⲛⲓ ⲉⲩϭⲱⲣⲡ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ϩⲁⲛⲉⲑⲛⲟⲥ:"
+      },
+      {
+        "coptic": "ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲕⲗⲁⲟⲥ Ⲡⲓⲥⲣⲁⲏⲗ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ. Ⲁ̀ⲙⲏⲛ.",
+    "translations": {
+      "english": "Glory be to God forever. Amen.",
+      "arabic": "والمجد لله دائماً. آمين."
+    },
+    "transliterations": {
+      "english": "Pi-oou fa Pennoti pe. Ameen."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ."
+      },
+      {
+        "coptic": "Ⲁ̀ⲙⲏⲛ."
+      }
+    ],
+    "sung": {
+      "english": "Glory be to our God forever. Amen."
+    }
+  }
+]

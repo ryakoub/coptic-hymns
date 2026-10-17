@@ -53,34 +53,34 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 | Order | Hymn | Tasbeha | |
 |---|---|---|---|
 | 10 | The Hymn of Ten-theno | view/92 | ✓ `ten-theeno` (YouTube, The Coptic Gate), with English (Part 1 #2). The one-verse Mahragan version stays as `ten-thinou` |
-| 20 | The Hymn of the Resurrection – Tennav | view/104 | |
+| 20 | The Hymn of the Resurrection – Tennav | view/104 | ✓ `tennav`, Ibrahim Ayad, with English |
 | 30 | The Year Round Canticle | view/2539 | no recordings listed |
 | 40 | The First Hoos | view/103 | ✓ `first-hoos`, with English |
-| 50 | The First Hoos Lobsh | view/105 | English: Part 1 #5 |
+| 50 | The First Hoos Lobsh | view/105 | ✓ `first-hoos-lobsh`, Ibrahim Ayad, with English |
 | 60 | The Second Hoos | view/106 | ✓ `second-hoos` (YouTube, The Coptic Gate), with English |
-| 70 | The Second Hoos Lobsh | view/182 | English: Part 1 #7 |
+| 70 | The Second Hoos Lobsh | view/182 | ✓ `second-hoos-lobsh`, Ibrahim Ayad, with English |
 | 80 | The Third Hoos | view/108 | ✓ `third-hoos` (YouTube, The Coptic Gate), with English |
-| 90 | The Third Hoos – Esmo Epchois | view/453 | |
+| 90 | The Third Hoos – Esmo Epchois | view/453 | ✓ `esmo-epchois`, Ibrahim Ayad |
 | 100 | Psali Watos for the Three Saintly Children (Greek) — Aripsalin | view/109 | ✓ `aripalin` (Mahragan), with English (Part 1 #9) |
-| 110 | Watos Hymn – Ten-oweh Ensok | view/110 | in the app as `tenoue-n-khok` (Mahragan); English: Part 1 #10 |
-| 120 | The Commemoration of the Saints | view/111 | English: Part 1 #11 |
-| 130 | Doxology for Virgin Mary – Midnight Praise | view/25 | |
+| 110 | Watos Hymn – Ten-oweh Ensok | view/110 | ✓ `tenoue-n-khok` (Mahragan), with English |
+| 120 | The Commemoration of the Saints | view/111 | ✓ `commemoration-of-saints`, Ibrahim Ayad, with English |
+| 130 | Doxology for Virgin Mary – Midnight Praise | view/25 | ✓ `doxology-virgin-midnight`, Ibrahim Ayad |
 | 140 | The Fourth Hoos | view/127 | ✓ `fourth-hoos` (YouTube, The Coptic Gate), with English (Part 2 #1) |
-| 150 | The First Sunday Psali | view/112 | |
-| 160 | The Second Sunday Psali | view/174 | |
-| 170 | Intro of the Theotokia (Leebon) | view/465 | |
+| 150 | The First Sunday Psali | view/112 | ✓ `first-sunday-psali`, Ibrahim Ayad, with English (Part 2 #2) |
+| 160 | The Second Sunday Psali | view/174 | ✓ `second-sunday-psali`, Ibrahim Ayad, with English (Part 2 #3) |
+| 170 | Intro of the Theotokia (Leebon) | view/465 | ✓ `leebon`, Ibrahim Ayad |
 | 180 | The Sunday Theotokia | view/476 | |
-| 190 | Gospel According to St. Luke | view/138 | |
-| 200 | The Seventh Part – Shere ne Maria | view/139 | |
-| 210 | The Seventh Part – Semoti | view/452 | |
-| 220 | The Eighth Part – Shashf Ensop | view/140 | |
-| 230 | The Tenth Part – Teoi Enhekanos | view/479 | |
+| 190 | Gospel According to St. Luke | view/138 | ✓ `gospel-luke`, Ibrahim Ayad, with English |
+| 200 | The Seventh Part – Shere ne Maria | view/139 | ✓ `shere-ne-maria`, Ibrahim Ayad (English is split over Part 2 #11–12) |
+| 210 | The Seventh Part – Semoti | view/452 | ✓ `semoti`, Ibrahim Ayad, with English |
+| 220 | The Eighth Part – Shashf Ensop | view/140 | ✓ `shashf-ensop`, Ibrahim Ayad, with English |
+| 230 | The Tenth Part – Teoi Enhekanos | view/479 | ✓ `teoi-enhekanos`, Ibrahim Ayad, with English |
 | 240 | Evol Hetin – Long | view/2170 | no recordings listed |
-| 250 | The Fifteenth Part – Aven Pi-arshee-erevs | view/480 | |
-| 260 | The Sixteenth Part – Nim Ghar | view/481 | |
+| 250 | The Fifteenth Part – Aven Pi-arshee-erevs | view/480 | ✓ `aven-pi-arshee-erevs`, Ibrahim Ayad |
+| 260 | The Sixteenth Part – Nim Ghar | view/481 | ✓ `nim-ghar`, Ibrahim Ayad, with English |
 | 270 | Intro of the Difnar – Adam | view/661 | |
-| 280 | The Adam Theotokias Conclusion | view/477 | |
-| 290 | The Concluding Litany | view/147 | |
+| 280 | The Adam Theotokias Conclusion | view/477 | ✓ `adam-theotokias-conclusion`, Ibrahim Ayad, with English |
+| 290 | The Concluding Litany | view/147 | ✓ `concluding-litany`, Ibrahim Ayad, with English |
 | 300 | The Morning Doxology | view/2716 | no recordings listed |
 
 The St. Anthony Monastery English album continues on Part 2, Part 3… pages of the same album for the later hymns.

@@ -1,0 +1,241 @@
+{
+ "id": "first-hoos-lobsh",
+ "titles": {
+  "english": "The First Hoos Lobsh",
+  "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲛ̀Ϩⲟⲩⲓⲧ",
+  "arabic": "لبش الهوس الأول"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ: ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ: ⲟⲩⲟϩ ⲫ̀ⲛⲟⲩⲛ ⲉⲧϣⲏⲕ: ⲁϥϣⲱⲡⲓ ⲛ̀ⲟⲩⲙⲁ ⲙ̀ⲙⲟϣⲓ.",
+   "translations": {
+    "english": "With the split, the waters of the sea split, and the very deep, became a walkway.",
+    "arabic": "قطعاً إنقطع، ماء البحر، والعمق العميق، صار مَسلكاً."
+   },
+   "transliterations": {
+    "english": "Khen oushot afshot: enje pimoou ente efiom: o-woh efnoun etsheek: afshopi enouma emmoshi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲫ̀ⲛⲟⲩⲛ ⲉⲧϣⲏⲕ:"
+    },
+    {
+     "coptic": "ⲁϥϣⲱⲡⲓ ⲛ̀ⲟⲩⲙⲁ ⲙ̀ⲙⲟϣⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "coptic": "Ⲟⲩⲕⲁϩⲓ ⲛ̀ⲁⲑⲟⲩⲱⲛϩ: ⲁ̀ⲫ̀ⲣⲏ ϣⲁⲓ ϩⲓϫⲱϥ: ⲟⲩⲙⲱⲓⲧ ⲛ̀ⲁⲧⲥⲓⲛⲓ: ⲁⲩⲙⲟϣⲓ ϩⲓⲱⲧϥ.",
+   "translations": {
+    "english": "A hidden earth, was shone upon by the sun, and an untrodden road, was walked upon.",
+    "arabic": "أرض غير ظاهرة، أشرقت الشمس عليها، وطريق غير مسلوكة، مشوا عليها."
+   },
+   "transliterations": {
+    "english": "Oukahi enathowonh: a-efree shai higof: oumoit enatsini: avmoshi hiotf."
+   },
+   "sung": {
+    "english": "A hidden earth, was shone upon by the sun, and the untrodden road, was walked upon."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲟⲩⲕⲁϩⲓ ⲛ̀ⲁⲑⲟⲩⲱⲛϩ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲫ̀ⲣⲏ ϣⲁⲓ ϩⲓϫⲱϥ:"
+    },
+    {
+     "coptic": "ⲟⲩⲙⲱⲓⲧ ⲛ̀ⲁⲧⲥⲓⲛⲓ:"
+    },
+    {
+     "coptic": "ⲁⲩⲙⲟϣⲓ ϩⲓⲱⲧϥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "coptic": "Ⲟⲩⲙⲱⲟⲩ ⲉϥⲃⲏⲗ ⲉ̀ⲃⲟⲗ: ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ: ϧⲉⲛ ⲟⲩϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲙ̀ⲡⲁⲣⲁⲇⲟⲝⲟⲛ.",
+   "translations": {
+    "english": "The flowing water, stood still, by a miraculous, act of wonder.",
+    "arabic": "ماء مُنحل، وقف، بفِعل عجيب، مُعِجز."
+   },
+   "transliterations": {
+    "english": "Oumoou efveel evol: afohi eratf: khen ouhob eneshfeeri: emparathokson."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲟⲩⲙⲱⲟⲩ ⲉϥⲃⲏⲗ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ⲁϥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧϥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲁⲣⲁⲇⲟⲝⲟⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "coptic": "Ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲛⲉϥϩⲁⲣⲙⲁ: ⲁⲩⲱⲙⲥ ⲉ̀ⲡⲉⲥⲏⲧ: ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ⲁⲩⲉⲣϫⲓⲛⲓⲟⲣ ⲙ̀ⲫ̀ⲓⲟⲙ.",
+   "translations": {
+    "english": "Pharaoh and his chariots, were drowned, and the children of Israel, crossed the sea.",
+    "arabic": "غرق فرعون، ومركباته، وعبر بنو إسرائيل، البحر."
+   },
+   "transliterations": {
+    "english": "Fara-o nem nefharma: avoms epeseet: nensheeri empisraeel: averjinior emefiom."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲛⲉϥϩⲁⲣⲙⲁ:"
+    },
+    {
+     "coptic": "ⲁⲩⲱⲙⲥ ⲉ̀ⲡⲉⲥⲏⲧ:"
+    },
+    {
+     "coptic": "ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ⲁⲩⲉⲣϫⲓⲛⲓⲟⲣ ⲙ̀ⲫ̀ⲓⲟⲙ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "coptic": "Ⲉ̀ⲛⲁϥϩⲱⲥ ϧⲁϫⲱⲟⲩ ⲡⲉ: ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ϣⲁ ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ: ϩⲓ ⲡ̀ϣⲁϥⲉ ⲛ̀Ⲥⲓⲛⲁ.",
+   "translations": {
+    "english": "And in front of them was, Moses the prophet praising, until he brought them, to the wilderness of Sinai.",
+    "arabic": "وكان موسى النبي، يسبح قدامهم، حتى أدخلهم، برية سيناء."
+   },
+   "transliterations": {
+    "english": "Enafhos khagoou pe: enje Mo-isees pi-eprofeetees: sha entefchitou ekhoun: hi epshafe ensina."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉ̀ⲛⲁϥϩⲱⲥ ϧⲁϫⲱⲟⲩ ⲡⲉ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ϣⲁ ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ:"
+    },
+    {
+     "coptic": "ϩⲓ ⲡ̀ϣⲁϥⲉ ⲛ̀Ⲥⲓⲛⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "coptic": "Ⲉ̀ⲛⲁϥϩⲱⲥ ⲉ̀Ⲫ̀ⲛⲟⲩϯ: ϧⲉⲛ ⲧⲁⲓϩⲱⲇⲏ ⲙ̀ⲃⲉⲣⲓ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
+   "translations": {
+    "english": "And they were praising God, with this new psalmody, saying \"Let us sing to the Lord, for He has triumphed gloriously.\"",
+    "arabic": "وكانوا يسبحون الله، بهذه التسبحة الجديدة قائلين، \"فلنسبح الرب، لأنه بالمجد قد تمجد.\""
+   },
+   "transliterations": {
+    "english": "Enafhos e-efnoti: khen taihothee emveri: je marenhos e-epshois: je khen o-oou ghar afchi-oou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉ̀ⲛⲁϥϩⲱⲥ ⲉ̀Ⲫ̀ⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲧⲁⲓϩⲱⲇⲏ ⲙ̀ⲃⲉⲣⲓ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲁⲣⲭⲏⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers, of Moses the archprophet, O Lord grant us, the forgiveness of our sins.",
+    "arabic": "بصلوات، موسى رئيس الأنبياء، يا رب إنعم لنا، بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten nievshee: ente Mo-isees piarshee-eprofeetees: Epshois ari-ehmot nan: empiko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲁⲣⲭⲏⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the intercessions, of the Mother of God Saint Mary, O Lord grant us, the forgiveness of our sins.",
+    "arabic": "بشفاعات، والدة الإله القديسة مريم، يا رب إنعم لنا، بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-epresvia: ente Tithe-otokos ethowab Maria: Epshois ari-ehmot nan: empiko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+   "translations": {
+    "english": "We worship You O Christ, with Your good Father, and the Holy Spirit, for You have (risen/come) and saved us.",
+    "arabic": "نسجد لك أيها المسيح، مع أبيك الصالح، والروح القدس، لأنك (قُمتأتيت) وخلصتنا."
+   },
+   "transliterations": {
+    "english": "Tenowosht emmok o Pi-ekhristos: nem Pekiot enaghathos: nem Pi-epnevma ethowab: je (aktonk/aki) aksoti emmon."
+   },
+   "sung": {
+    "english": "We worship You O Christ, with Your good Father, and the Holy Spirit, for You have (risen) and saved us."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ."
+    }
+   ]
+  }
+ ]
+}
