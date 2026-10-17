@@ -81,7 +81,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 | 270 | Intro of the Difnar – Adam | view/661 | |
 | 280 | The Adam Theotokias Conclusion | view/477 | ✓ `adam-theotokias-conclusion`, Ibrahim Ayad, with English |
 | 290 | The Concluding Litany | view/147 | ✓ `concluding-litany`, Ibrahim Ayad, with English |
-| 300 | The Morning Doxology | view/2716 | no recordings listed |
+| 300 | The Morning Doxology | view/485 | ✓ `morning-doxology`, placed in **Morning Praises** (Bola Mounir, YouTube), with English |
 
 The St. Anthony Monastery English album continues on Part 2, Part 3… pages of the same album for the later hymns.
 
