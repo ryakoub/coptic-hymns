@@ -1,5 +1,5 @@
 {
- "version": "8fd6d823a9969461",
+ "version": "2c58ab3fb18a3aae",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -4330,13 +4330,13 @@
   {
    "id": "morning-doxology-english",
    "text": "morning-doxology",
-   "duration": 553.61,
+   "duration": 679.21,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 0
    },
-   "source": "The_Morning_Doxologies.mp3",
+   "source": "https://soundcloud.com/user-698602791/coptic-morning-doxology-english",
    "tune": {
     "english": "English"
    },
@@ -4349,10 +4349,10 @@
      "role": "timing"
     },
     {
-     "url": "content/english/morning-doxology-english/audio.mp3",
+     "url": "content/english/morning-doxology-english/audio.m4a",
      "role": "audio",
-     "bytes": 8858271,
-     "sha256": "33ba0fe524605569bf866bcdcdd9d6ad6616c7aff1d4d592f136ffc27a7543c5"
+     "bytes": 13702279,
+     "sha256": "78b7b0f263dbced43a4e1ec32bb95eb5fec93e8a3d33ef56069ab90b466c76e9"
     }
    ]
   },
