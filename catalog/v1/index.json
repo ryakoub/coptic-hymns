@@ -1,5 +1,5 @@
 {
- "version": "e6a2cb7836346d97",
+ "version": "17a3b44fca8eef95",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3905,7 +3905,7 @@
   {
    "id": "fourth-hoos",
    "text": "fourth-hoos",
-   "duration": 441.94,
+   "duration": 441.99,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -3925,8 +3925,8 @@
     {
      "url": "content/hymns/fourth-hoos/audio.m4a",
      "role": "audio",
-     "bytes": 13536735,
-     "sha256": "6fbc436b33c9e33f12445a24052dac530571cf5cf96f45127c202c9327ebaeeb"
+     "bytes": 7148913,
+     "sha256": "2264fa08434aac4596b636f7ecb17e3ffb18bb677f6d7a7e2ba3a23e158c1d07"
     }
    ]
   },
@@ -4303,7 +4303,7 @@
   {
    "id": "morning-doxology",
    "text": "morning-doxology",
-   "duration": 1503.19,
+   "duration": 1503.24,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -4322,8 +4322,8 @@
     {
      "url": "content/hymns/morning-doxology/audio.m4a",
      "role": "audio",
-     "bytes": 36250367,
-     "sha256": "36136ee0efd72c02dc992d52350e475e9134f26bfb917b45b9f9362a3e9719ef"
+     "bytes": 24311981,
+     "sha256": "a5d41af9b5a74f63ea23eede9d546390b0b71cb2afe3b42cd5a25786825030cf"
     }
    ]
   },
@@ -4830,7 +4830,7 @@
   {
    "id": "second-hoos",
    "text": "second-hoos",
-   "duration": 318.94,
+   "duration": 319.0,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -4850,8 +4850,8 @@
     {
      "url": "content/hymns/second-hoos/audio.m4a",
      "role": "audio",
-     "bytes": 10949683,
-     "sha256": "c37a53933aee20be522c8bc8a93bd69cc1d87b0db117cedf46e5f3e64a0106ca"
+     "bytes": 5159767,
+     "sha256": "438e58eb4fa0ab1ce4207cbb8513988ef794046cf9cb6e5eb6f608be53ee904e"
     }
    ]
   },
@@ -5185,7 +5185,7 @@
   {
    "id": "ten-theeno",
    "text": "ten-theeno",
-   "duration": 314.28,
+   "duration": 314.33,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -5203,8 +5203,8 @@
     {
      "url": "content/hymns/ten-theeno/audio.m4a",
      "role": "audio",
-     "bytes": 10968920,
-     "sha256": "8b5ff606a2f110af3db6155d1c816e7588962d9bca3d6932ee6679592116954e"
+     "bytes": 5084353,
+     "sha256": "a5f1e510ca8ae5e56140dccd67624f7266efaf2f604c649ed7f10265fc24e1a5"
     }
    ]
   },
@@ -5459,7 +5459,7 @@
   {
    "id": "third-hoos",
    "text": "third-hoos",
-   "duration": 460.2,
+   "duration": 460.24,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -5479,8 +5479,8 @@
     {
      "url": "content/hymns/third-hoos/audio.m4a",
      "role": "audio",
-     "bytes": 13473900,
-     "sha256": "9481d90cc056b653a502da1a3577b5cbe27ff5734e35a83988be8e645b98091a"
+     "bytes": 7444099,
+     "sha256": "53c02a9a88c3734e06f448949f9d2086e79d3e90bbfa775b3f77aff4583a7c9a"
     }
    ]
   },

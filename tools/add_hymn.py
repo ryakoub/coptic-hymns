@@ -136,7 +136,16 @@ def get_audio(source, hymn_url, folder):
         if not shutil.which("yt-dlp"):
             sys.exit("yt-dlp is needed for YouTube links: brew install yt-dlp")
         out = folder / "audio.m4a"
-        subprocess.run(["yt-dlp", "-q", "--no-playlist", "-x", "--audio-format", "m4a", "-o", str(folder / "audio.%(ext)s"), source], check=True)
+        # Take YouTube's own AAC stream as it is (format 140). Re-encoding (yt-dlp -x turns the Opus stream into
+        # AAC with ffmpeg's built-in encoder) adds audible blips to chant; only when a video has no m4a stream is it
+        # converted, with Apple's encoder at a high bitrate.
+        # "bestaudio[ext=m4a]" ranks the original language first, so auto-dubbed tracks YouTube adds are skipped.
+        r = subprocess.run(["yt-dlp", "-q", "--no-playlist", "-f", "bestaudio[ext=m4a]", "-o", str(out), source])
+        if r.returncode != 0 or not out.exists():
+            raw = folder / "audio.source"
+            subprocess.run(["yt-dlp", "-q", "--no-playlist", "-f", "bestaudio", "-o", str(raw), source], check=True)
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(raw), "-vn", "-c:a", "aac_at", "-b:a", "192k", str(out)], check=True)
+            raw.unlink()
         return out
     url = audio_url(source, hymn_url)
     if url:
