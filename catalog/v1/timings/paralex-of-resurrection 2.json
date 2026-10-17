@@ -1,0 +1,224 @@
+{
+ "recording": "paralex-of-resurrection",
+ "text": "paralex-of-resurrection",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 2.66,
+   "words": [
+    {
+     "text": "Ⲡⲁϭⲟⲓⲥ",
+     "start": 2.66,
+     "end": null
+    },
+    {
+     "text": "Ⲓⲏⲥⲟⲩⲥ",
+     "start": 8.03,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:",
+     "start": 9.62,
+     "end": null
+    },
+    {
+     "text": "ⲫⲏⲉ̀ⲧⲁϥⲧⲱⲛϥ",
+     "start": 15.55,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲃⲟⲗ",
+     "start": 21.7,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": 22.9,
+     "end": null
+    },
+    {
+     "text": "ⲛⲏⲉⲑⲙⲱⲟⲩⲧ:",
+     "start": 23.84,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": 26.93,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲉ̀ϩⲟⲟⲩ",
+     "start": 28.34,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲙⲁϩϣⲟⲙⲧ:",
+     "start": 34.51,
+     "end": null
+    },
+    {
+     "text": "ⲉⲕⲉ̀ⲧⲟⲩⲛⲟⲥⲧⲉⲛ",
+     "start": 41.38,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": 49.45,
+     "end": null
+    },
+    {
+     "text": "ⲧⲉⲕϫⲟⲙ.",
+     "start": 50.91,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 52.81,
+   "words": [
+    {
+     "text": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ",
+     "start": 52.81,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 59.06,
+     "end": null
+    },
+    {
+     "text": "Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ:",
+     "start": 59.71,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲁⲅⲅⲉⲗⲟⲥ",
+     "start": 67.24,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 74.05,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ:",
+     "start": 74.56,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲥ̀ⲧⲣⲁⲧⲓⲁ",
+     "start": 78.71,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 85.01,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲉⲝⲟⲩⲥⲓⲁ:",
+     "start": 85.46,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ",
+     "start": 92.59,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲙⲉⲧϭⲟⲓⲥ",
+     "start": 99.13,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓϫⲟⲙ.",
+     "start": 102.25,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 103.93,
+   "words": [
+    {
+     "text": "Ⲉⲩⲱϣ",
+     "start": 103.93,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲃⲟⲗ",
+     "start": 106.06,
+     "end": null
+    },
+    {
+     "text": "ⲉⲩϫⲱ",
+     "start": 110.89,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲙⲟⲥ:",
+     "start": 115.28,
+     "end": null
+    },
+    {
+     "text": "ϫⲉ",
+     "start": 117.89,
+     "end": null
+    },
+    {
+     "text": "ⲭ̀ⲟⲩⲁⲃ",
+     "start": 118.66,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲟϩ",
+     "start": 124.39,
+     "end": null
+    },
+    {
+     "text": "ⲭ̀ⲟⲩⲁⲃ:",
+     "start": 125.56,
+     "end": null
+    },
+    {
+     "text": "ⲭ̀ⲟⲩⲁⲃ",
+     "start": 128.88,
+     "end": null
+    },
+    {
+     "text": "Ⲡ̀ϭⲟⲓⲥ",
+     "start": 135.64,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲛⲓⲉ̀ⲱⲛ:",
+     "start": 139.07,
+     "end": null
+    },
+    {
+     "text": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ",
+     "start": 141.76,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲛⲉⲥⲧⲏ",
+     "start": 146.86,
+     "end": null
+    },
+    {
+     "text": "ⲉⲕ",
+     "start": 149.75,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲕⲣⲱⲛ.",
+     "start": 151.37,
+     "end": null
+    }
+   ]
+  }
+ ]
+}

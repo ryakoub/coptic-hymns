@@ -6,8 +6,8 @@
    "line": "l1",
    "start": 4.88,
    "stanzas": [
-    null,
-    null
+    4.88,
+    9.75
    ],
    "words": [
     {
@@ -169,8 +169,8 @@
    "line": "l5",
    "start": 38.55,
    "stanzas": [
-    null,
-    null
+    38.55,
+    42.75
    ],
    "words": [
     {
@@ -239,9 +239,9 @@
    "line": "l6",
    "start": 53.85,
    "stanzas": [
-    null,
-    null,
-    null
+    53.85,
+    60.85,
+    66.68
    ],
    "words": [
     {
@@ -330,8 +330,8 @@
    "line": "l7",
    "start": 71.38,
    "stanzas": [
-    null,
-    null
+    71.38,
+    76.21
    ],
    "words": [
     {
@@ -390,9 +390,9 @@
    "line": "l8",
    "start": 80.75,
    "stanzas": [
-    null,
-    null,
-    null
+    80.75,
+    85.75,
+    90.05
    ],
    "words": [
     {
@@ -466,8 +466,8 @@
    "line": "l9",
    "start": 94.38,
    "stanzas": [
-    null,
-    null
+    94.38,
+    102.38
    ],
    "words": [
     {
@@ -536,9 +536,9 @@
    "line": "l10",
    "start": 106.95,
    "stanzas": [
-    null,
-    null,
-    null
+    106.95,
+    111.18,
+    114.28
    ],
    "words": [
     {
@@ -612,9 +612,9 @@
    "line": "l11",
    "start": 119.01,
    "stanzas": [
-    null,
-    null,
-    null
+    119.01,
+    123.25,
+    125.78
    ],
    "words": [
     {
@@ -683,9 +683,9 @@
    "line": "l12",
    "start": 130.05,
    "stanzas": [
-    null,
-    null,
-    null
+    130.05,
+    134.71,
+    137.15
    ],
    "words": [
     {
@@ -749,9 +749,9 @@
    "line": "l13",
    "start": 141.41,
    "stanzas": [
-    null,
-    null,
-    null
+    141.41,
+    145.35,
+    149.08
    ],
    "words": [
     {
@@ -810,8 +810,8 @@
    "line": "l14",
    "start": 153.65,
    "stanzas": [
-    null,
-    null
+    153.65,
+    160.78
    ],
    "words": [
     {
@@ -880,8 +880,8 @@
    "line": "l15",
    "start": 165.45,
    "stanzas": [
-    null,
-    null
+    165.45,
+    173.25
    ],
    "words": [
     {
@@ -945,9 +945,9 @@
    "line": "l16",
    "start": 178.05,
    "stanzas": [
-    null,
-    null,
-    null
+    178.05,
+    181.28,
+    184.45
    ],
    "words": [
     {
@@ -1006,9 +1006,9 @@
    "line": "l17",
    "start": 189.18,
    "stanzas": [
-    null,
-    null,
-    null
+    189.18,
+    193.78,
+    197.15
    ],
    "words": [
     {
@@ -1082,9 +1082,9 @@
    "line": "l18",
    "start": 202.11,
    "stanzas": [
-    null,
-    null,
-    null
+    202.11,
+    207.45,
+    212.25
    ],
    "words": [
     {
@@ -1158,8 +1158,8 @@
    "line": "l19",
    "start": 216.68,
    "stanzas": [
-    null,
-    null
+    216.68,
+    221.68
    ],
    "words": [
     {
@@ -1218,8 +1218,8 @@
    "line": "l20",
    "start": 225.58,
    "stanzas": [
-    null,
-    null
+    225.58,
+    232.05
    ],
    "words": [
     {
@@ -1298,9 +1298,9 @@
    "line": "l21",
    "start": 236.38,
    "stanzas": [
-    null,
-    null,
-    null
+    236.38,
+    241.58,
+    246.81
    ],
    "words": [
     {
@@ -1404,9 +1404,9 @@
    "line": "l22",
    "start": 251.31,
    "stanzas": [
-    null,
-    null,
-    null
+    251.31,
+    255.28,
+    261.35
    ],
    "words": [
     {
@@ -1485,9 +1485,9 @@
    "line": "l23",
    "start": 265.88,
    "stanzas": [
-    null,
-    null,
-    null
+    265.88,
+    268.35,
+    271.41
    ],
    "words": [
     {
@@ -1546,8 +1546,8 @@
    "line": "l24",
    "start": 276.35,
    "stanzas": [
-    null,
-    null
+    276.35,
+    289.11
    ],
    "words": [
     {
@@ -1661,9 +1661,9 @@
    "line": "l25",
    "start": 293.51,
    "stanzas": [
-    null,
-    null,
-    null
+    293.51,
+    297.08,
+    299.85
    ],
    "words": [
     {
@@ -1732,8 +1732,8 @@
    "line": "l26",
    "start": 304.05,
    "stanzas": [
-    null,
-    null
+    304.05,
+    307.75
    ],
    "words": [
     {

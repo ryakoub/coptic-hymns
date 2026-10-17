@@ -82,6 +82,31 @@ def norm(s):
     return " ".join((s or "").split())
 
 
+def stanza_starts(line):
+    """Each quarter's start: its own when given, else the time of its first word (marked or estimated).
+    None when any quarter has no time, so the line simply has no quarters to light."""
+    stanzas = line.get("stanzas") or []
+    if not stanzas:
+        return None
+    starts = [s.get("start") for s in stanzas]
+    if all(t is not None for t in starts):
+        return starts
+    words = line.get("words") or []
+    written, current = [], None          # the start of each word as written (a split word starts at its first part)
+    for w in words:
+        if current is None:
+            current = w.get("start")
+        if w.get("trailingSpace") is not False:
+            written.append(current)
+            current = None
+    k = 0
+    for i, s in enumerate(stanzas):
+        if starts[i] is None and k < len(written):
+            starts[i] = written[k]
+        k += len((s.get("coptic") or "").split())
+    return starts if all(t is not None for t in starts) else None
+
+
 class Build:
     def __init__(self):
         self.problems = []
@@ -155,8 +180,9 @@ class Build:
                 self.error(rid, f"line {i} starts before the line above it")
             prev = l["start"]
             seg = {"line": line_id, "start": l["start"]}
-            if l.get("stanzas"):
-                seg["stanzas"] = [s.get("start") for s in l["stanzas"]]
+            stanzas = stanza_starts(l)
+            if stanzas:
+                seg["stanzas"] = stanzas
             if l.get("words"):
                 ws = l["words"]
                 timed = [w["start"] for w in ws if w.get("start") is not None]

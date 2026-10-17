@@ -1,0 +1,37 @@
+{
+ "recording": "sotees-ameen-fast",
+ "text": "sotees-ameen-fast",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 3,
+   "words": [
+    {
+     "text": "Ⲥⲱⲑⲓⲥ",
+     "start": 3.4,
+     "end": 5.93
+    },
+    {
+     "text": "ⲁ̀ⲙⲏⲛ:",
+     "start": 5.99,
+     "end": 9.44
+    },
+    {
+     "text": "ⲕⲉ ⲧⲱ",
+     "start": 9.5,
+     "end": 13.56
+    },
+    {
+     "text": "ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ",
+     "start": 13.62,
+     "end": 23.25
+    },
+    {
+     "text": "ⲥⲟⲩ",
+     "start": 23.3,
+     "end": 28
+    }
+   ]
+  }
+ ]
+}
