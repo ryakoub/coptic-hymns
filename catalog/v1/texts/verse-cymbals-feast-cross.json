@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲉ̀ⲧⲁⲩⲉϣ Ⲡⲁϭⲟⲓⲥ ⲉ̀ⲣⲟϥ: ⲭⲉⲣⲉ ⲡⲓⲙ̀ϩⲁⲩ: ⲉ̀ⲧⲁⲩⲭⲱ ⲙ̀Ⲡⲉϥⲥⲱⲙⲁ ⲛ̀ϧⲏⲧϥ.",
    "translations": {
     "english": "Hail to the Cross, which my Lord was crucified upon, hail to the grave, where they placed His Body."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲡⲉ ⲡⲉⲛϩⲟⲡⲗⲟⲛ: Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲡⲉ ⲧⲉⲛϩⲉⲗⲡⲓⲥ: Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲡⲉ ⲡⲉⲛⲧⲁϫⲣⲟ: ϧⲉⲛ ⲛⲉⲛϩⲟϫϩⲉϫ ⲛⲉⲙ ⲛⲉⲛⲑ̀ⲗⲓⲯⲓⲥ.",
    "translations": {
     "english": "The Cross is our weapon, the Cross is our hope, the Cross is our confirmation, in our struggles and sufferings."

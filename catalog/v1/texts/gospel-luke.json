@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ: ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ ⲁ̀ⲅⲓⲟⲛ.",
    "translations": {
     "english": "Holy, holy, holy, a chapter reading from the Gospel according to our teacher Saint Luke the Evangelist. May his blessings be with us all. Amen.",
@@ -30,6 +31,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ Ⲕⲉⲫⲁⲗⲉⲟⲛ ⲃ̅ :",
    "translations": {
     "english": "Luke",
@@ -41,6 +43,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ϯⲛⲟⲩ Ⲡⲁⲛⲏⲃ ⲭ̀ⲛⲁⲭⲁ ⲡⲉⲕⲃⲱⲕ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲕⲁⲧⲁ ⲡⲉⲕⲥⲁϫⲓ. Ϫⲉ ⲁⲩⲛⲁⲩ ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲉ̀ⲡⲉⲕⲛⲟϩⲉⲙ: ⲫⲏⲉ̀ⲧⲁⲕⲥⲉⲃⲧⲱⲧϥ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲛ̀ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ. Ⲟⲩⲟⲩⲱⲓⲛⲓ ⲉⲩϭⲱⲣⲡ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ϩⲁⲛⲉⲑⲛⲟⲥ: ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲕⲗⲁⲟⲥ Ⲡⲓⲥⲣⲁⲏⲗ.",
    "translations": {
     "english": "\"Lord, now You are letting Your servant depart in peace, according to Your word. For my eyes have seen Your salvation which You have prepared before the face of all peoples. A light to bring revelation to the Gentiles, and the glory of Your people Israel.\"",
@@ -72,6 +75,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ. Ⲁ̀ⲙⲏⲛ.",
    "translations": {
     "english": "Glory be to God forever. Amen.",

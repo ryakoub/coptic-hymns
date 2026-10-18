@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ: ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ: Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ",
    "translations": {
     "english": "Moreover He was placed in the tomb, according to the prophetic voices, on the third day, Christ rose from the dead."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅): Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ",
    "translations": {
     "english": "Alleluia (4), Jesus Christ the King of glory, has risen from the dead."
@@ -20,6 +22,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲫⲁⲓ ⲉⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲉⲣⲡ̀ⲣⲉⲡⲓⲛⲁϥ: ⲛⲉⲙ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲓⲥϫⲉⲛ ϯⲛⲟⲩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ",
    "translations": {
     "english": "This is He to whom the glory is due, with His good Father and the Holy Spirit, now and forever."
@@ -27,6 +30,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ",
    "translations": {
     "english": "Blessed be the Father and the Son and the Holy Spirit, the perfect Trinity. We worship Him and glorify Him."

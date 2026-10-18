@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲱⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ̀: ϯⲥⲁⲃⲉ ⲟⲩⲟϩ ⲛ̀ⲥⲉⲙⲛⲉ: ϯⲙⲁϩⲥ̀ⲛⲟⲩϯ ⲛ̀ⲥ̀ⲕⲏⲛⲏ: ⲡⲓⲁ̀ϩⲟ ⲙ̀Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ.",
    "translations": {
     "english": "Blessed are you O Mary, the prudent and the chaste, the second tabernacle, the treasure of the Spirit."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ϯϭⲣⲟⲙⲡϣⲁⲗ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ: ⲑⲏⲉⲧⲁⲥⲙⲟⲩϯ ϧⲉⲛ ⲡⲉⲛⲕⲁϩⲓ: ⲟⲩⲟϩ ⲁⲥⲫⲓⲣⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲛ̀ⲟⲩⲕⲁⲣⲡⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ.",
    "translations": {
     "english": "The pure turtle-dove, that declared in our land, and brought unto us, the Fruit of the Spirit."
@@ -20,6 +22,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "ⲠⲓⲠ̀ⲛⲉⲩⲙⲁ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ: ⲫⲏⲉ̀ⲧⲁϥⲓ̀ ⲉϫⲉⲛ ⲡⲉϢⲏⲣⲓ: ϩⲓϫⲉⲛ ⲛⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲡⲓⲒⲟⲣⲇⲁⲛⲏⲥ: ⲕⲁⲧⲁ ⲡ̀ⲧⲩⲡⲟⲥ ⲛ̀Ⲛⲱⲉ̀.",
    "translations": {
     "english": "The Spirit of comfort, that came upon your Son, in the waters of the Jordan, as in the type of Noah."
@@ -27,6 +30,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ϯϭⲣⲟⲙⲡⲓ ⲅⲁⲣ ⲉⲧⲉ ⲙ̀ⲙⲁⲩ: ⲛ̀ⲑⲟⲥ ⲁⲥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲛ: ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ Ⲫϯ: ⲑⲏⲉⲧⲁⲥϣⲱⲡⲓ ϣⲁ ⲛⲓⲣⲱⲙⲓ.",
    "translations": {
     "english": "For that dove, has declared unto us, the peace of God, toward mankind."
@@ -34,6 +38,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲛ̀ⲑⲟ ϩⲱⲓ ⲱ̀ ⲧⲉⲛϩⲉⲗⲡⲓⲥ: ϯϭⲣⲟⲙⲡ̀ϣⲁⲗ ⲛ̀ⲛⲟⲏ̀ⲧⲉ: ⲁⲣⲉⲓ̀ⲛⲓ ⲙ̀ⲡⲓⲛⲁⲓ ⲛⲁⲛ: ⲁⲣⲉϥⲁⲓ ϧⲁⲣⲟϥ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ.",
    "translations": {
     "english": "Likewise you O our hope, the rational turtle-dove, have brought mercy unto us, and carried Him in your womb."
@@ -41,6 +46,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏ̅ⲥ̅: ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ: ⲁⲩⲙⲁⲥϥ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ: ⲁϥⲉⲣ ⲡⲉⲛϫⲉⲛⲟⲥ ⲛ̀ⲣⲉⲙϩⲉ.",
    "translations": {
     "english": "Who is Jesus our Lord, the only-begotten of the Father, He was born of you unto us, and set free our race."
@@ -48,6 +54,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲫⲁⲓ ⲅⲁⲣ ⲙⲁⲣⲉⲛⲧⲁⲟⲩⲟϥ: ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲛϩⲏⲧ ⲛ̀ϣⲟⲣⲡ: ⲙⲉⲛⲉⲛⲥⲱⲥ ⲟⲛ ϧⲉⲛ ⲡⲉⲛⲕⲉⲗⲁⲥ: ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ.",
    "translations": {
     "english": "Wherefore let us declare, first with our hearts, and then with our tongues also, proclaiming and saying."
@@ -55,6 +62,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ϫⲉ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲙⲁⲑⲁⲙⲓⲟ̀ ⲛⲁⲕ ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧⲉⲛ: ⲛ̀ⲟⲩⲉ̀ⲣⲫⲉⲓ ⲛ̀ⲧⲉ ⲠⲉⲕⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: ⲉⲩϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ̀ ⲛⲁⲕ.",
    "translations": {
     "english": "O our Lord Jesus Christ, make in us a sanctuary, for Your Holy Spirit, ever-glorifying You."
@@ -62,6 +70,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
    "translations": {
     "english": "Hail to you O Virgin, the very and true queen, hail to the pride of our race, who gave birth to Emmanuel."
@@ -69,6 +78,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲧⲉⲛϯϩⲟ ⲁⲣⲉⲡⲉⲛⲙⲉⲩⲓ: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲁⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "We ask you to remember us, O our trusted advocate, before our Lord Jesus Christ, that He may forgive us our sins."

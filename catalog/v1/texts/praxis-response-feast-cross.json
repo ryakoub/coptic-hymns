@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲫⲏⲉ̀ⲧⲁⲩⲉϣ Ⲡⲁϭⲟⲓⲥ ̀ⲉ̀ⲣⲟϥ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Hail to the Cross, which my Lord was crucified upon, in order to save us, from our sins."

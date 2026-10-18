@@ -446,6 +446,8 @@ fetch(`${base}/lyrics.json`)
 currentLines = lines.filter(l => !l.label && !l.static);
 
 let colorIndex = 0;
+// Lines marked with "side" (the books' crosses) say which side sings them; otherwise verses alternate.
+const explicitSides = lines.some(l => "side" in l);
 lines.forEach((line, index)=>{
 
 if (line.label) {
@@ -475,7 +477,7 @@ return;
 
 const div=document.createElement("div");
 div.className="line";
-div.classList.add(`color-group-${Math.floor(colorIndex / antiphonalGroup) % 2}`);
+div.classList.add(`color-group-${explicitSides ? (line.side || 0) : Math.floor(colorIndex / antiphonalGroup) % 2}`);
 colorIndex++;
 
 const copticDiv = document.createElement("div");

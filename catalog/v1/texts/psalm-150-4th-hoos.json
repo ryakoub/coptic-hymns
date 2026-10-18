@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Alleluia, Alleluia, Alleluia."
@@ -18,6 +19,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ: ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise God in all His saints Alleluia."
@@ -33,6 +35,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲡⲓⲧⲁϫⲣⲟ: ⲛ̀ⲧⲉ ⲧⲉϥϫⲟⲙ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him in the firmament of His power Alleluia."
@@ -48,6 +51,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ϩⲓϫⲉⲛ: ⲧⲉϥⲙⲉⲧϫⲱⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him for His mighty acts Alleluia."
@@ -63,6 +67,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ: ⲛ̀ⲧⲉ ⲧⲉϥⲙⲉⲧⲛⲓϣϯ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him according to the multitudes of His greatness Alleluia."
@@ -78,6 +83,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ: ⲛ̀ⲥⲁⲗⲡⲓⲅⲅⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with the sound of the trumpet Alleluia."
@@ -93,6 +99,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ: ⲛⲉⲙ ⲟⲩⲕⲩⲑⲁⲣⲁ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with psaltery and harp Alleluia."
@@ -108,6 +115,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ: ⲛⲉⲙ ϩⲁⲛⲭⲟⲣⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with timbrel and chorus Alleluia."
@@ -123,6 +131,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲁⲡ: ⲛⲉⲙ ⲟⲩⲟⲣⲅⲁⲛⲟⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with strings and organs Alleluia."
@@ -138,6 +147,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ: ⲉ̀ⲛⲉⲥⲉ ⲧⲟⲩⲥ̀ⲙⲏ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with pleasant sounding cymbals Alleluia."
@@ -153,6 +163,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ: ⲛ̀ⲧⲉ ⲟⲩⲉϣⲗⲏⲗⲟⲩⲓ̀ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him upon the cymbals of joy Alleluia."
@@ -168,6 +179,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲛⲓϥⲓ ⲛⲓⲃⲉⲛ ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲧⲏⲣⲟⲩ ⲉ̀ⲫ̀ⲣⲁⲛ: ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Let every thing that has breath praise the name of the Lord our God Alleluia."
@@ -183,6 +195,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ: ⲕⲉ Ⲩ̀ⲓⲱ: ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Glory be to the Father and the Son and the Holy Spirit Alleluia."
@@ -201,6 +214,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀: ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ: ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Now and forever and unto the age of all ages Amen Alleluia."
@@ -219,6 +233,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": " Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Alleluia, Alleluia. Glory to You, O our God Alleluia."
@@ -234,6 +249,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Alleluia, Alleluia. Glory be to our God Alleluia."

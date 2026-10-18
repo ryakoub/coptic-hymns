@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫϯ ⲡⲓⲖⲟⲅⲟⲥ.",
    "translations": {
     "english": "Hail to you O Mary, the beautiful dove, who gave birth to, God the Word."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ...",
    "translations": {
     "english": "Blessed ..."

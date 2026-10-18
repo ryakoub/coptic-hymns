@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥϣⲁⲛϣ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ⲛ̀ϩ̀ⲙⲉ ⲛ̀ⲣⲟⲙⲡⲓ ϩⲓ ⲡ̀ϣⲁϥⲉ: ⲁϥϯ ⲙ̀ⲡⲓⲙⲁⲛⲛⲁ ⲛⲱⲟⲩ ⲉ̀ⲟⲩⲟⲙϥ: ⲡ̀ⲱⲓⲕ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ.",
    "translations": {
     "english": "He who sustained Israel, forty years in the desert, gave them the manna to eat, the bread of the angels."
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲅⲁⲣ ⲙ̀ⲡⲓⲙⲁⲛⲛⲁ: ⲁⲩϯ ⲛ̀ⲟⲩϩⲉⲙϫ ⲉϥⲉⲛϣⲁϣⲓ ⲛⲁϥ: ⲛ̀ⲧ̀ϣⲉⲃⲓⲱ ⲛ̀ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ: ⲁⲩϯⲭ̀ⲗⲟⲙ ⲛ̀ⲥⲟⲩⲣⲓ ⲉ̀ϫⲱϥ.",
    "translations": {
     "english": "In place of the manna, they gave Him bitter vinegar, in place of the good things, they placed a crown of thorns on Him."
@@ -48,6 +50,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲁⲩⲕⲟⲥϥ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲫⲏⲉⲧⲭⲏ ⲥⲁⲃⲟⲗ ⲛ̀ϯⲃⲁⲕⲓ: ⲉ̀ⲧⲁⲩϫⲟⲥ ϧⲉⲛ ⲧⲟⲩⲙⲉⲧⲁⲧϩⲏⲧ: ϫⲉ ⲫⲁⲓ ϥ̀ⲛⲁ ϣ̀ⲧⲱⲛϥ ⲁⲛ ϫⲉ.",
    "translations": {
     "english": "They wrapped and placed Him in the tomb, which was outside the city, in their ignorance they said, “It is impossible for Him to rise.”"
@@ -69,6 +72,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ϣⲱⲣⲡ ⲙ̀ⲫ̀ⲟⲩⲁⲓ ⲛ̀ⲧⲉ ⲛⲓⲥⲁⲃⲃⲁⲧⲟⲛ: ⲁ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲁϥⲧⲁⲥⲑⲟ ⲛ̀ⲛⲉϥϫⲁϫⲓ ⲉ̀ⲫⲁϩⲟⲩ: ⲁϥϯ ⲛⲱⲟⲩ ⲛ̀ⲟⲩϣ̀ⲫⲓⲧ ϣⲁ ⲛ̀ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Early on one Sunday, Christ rose from the dead, He placed His enemies behind Him, He put them in eternal shame."
@@ -90,6 +94,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛⲉⲣⲭⲟⲣⲉⲩⲓⲛ: ⲛⲉⲙ ⲡⲓϩⲩⲙⲛⲟⲇⲟⲥ Ⲇⲁⲩⲓⲇ: ϫⲉ ⲁϥⲧⲱⲛϥ ⲛ̀ϫⲉ Ⲫ̀ⲛⲟⲩϯ: ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲫⲏⲉⲧⲉⲛⲕⲟⲧ.",
    "translations": {
     "english": "Therefore we praise, with David the hymnist, saying “God rose, like one who sleeps.”"
@@ -111,6 +116,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ (ⲇ̅): Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
    "translations": {
     "english": "Alleluia (4), Jesus Christ the King of glory, has risen from the dead."

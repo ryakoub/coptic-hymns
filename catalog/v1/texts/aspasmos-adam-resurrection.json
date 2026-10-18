@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲁ̀ Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
    "translations": {
     "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ: ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "Therefore we glorify Him, proclaiming and saying, “You are blessed O my Lord Jesus, for You have risen and saved us.”"

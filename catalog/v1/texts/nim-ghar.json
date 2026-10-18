@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ: ⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟⲕ Ⲡ̀ϭⲟⲓⲥ: ⲛ̀ⲑⲟⲕ ⲡⲉ Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲙⲏⲓ: ⲉⲧⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛϣ̀ⲫⲏⲣⲓ",
    "translations": {
     "english": "Who is likened unto You, O Lord among the gods, You are the true God, the Performer of miracles.",
@@ -33,6 +34,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲁⲕⲟⲩⲱⲛϩ ⲛ̀ⲧⲉⲕϫⲟⲙ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲗⲁⲟⲥ: ⲁⲕⲥⲱϯ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ: ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲉⲕϣⲱⲃϣ.",
    "translations": {
     "english": "You revealed Your power, to the people, and You saved Your people, with Your arm.",
@@ -58,6 +60,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲁⲕϣⲉⲛⲁⲕ ⲉ̀Ⲁ̀ⲙⲉⲛϯ: ⲁⲕⲓ̀ⲛⲓ ⲉ̀ⲡ̀ϣⲱⲓ: ⲛ̀ϯⲉⲭⲙⲁⲗⲱⲥⲓⲁ: ϧⲉⲛ ⲡⲓⲙⲁ ⲉ̀ⲧⲉ ⲙ̀ⲙⲁⲩ.",
    "translations": {
     "english": "You descended into Hades, and brought up, those who were captives, in that place.",
@@ -83,6 +86,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲁⲕⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲛ̀ⲕⲉⲥⲟⲡ: ⲛ̀ϯⲉ̀ⲗⲉⲩⲑⲉⲣⲓⲁ: ϩⲱⲥ Ⲛⲟⲩϯ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "And granted us again, the freedom, as a good God, for You have risen and saved us.",
@@ -108,6 +112,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧϣⲁϣϥⲓ:",
    "translations": {
     "english": "The Seventeenth Part:",
@@ -122,6 +127,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲁ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
    "translations": {
     "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed.",
@@ -150,6 +156,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲁϥⲟⲩⲟⲛϩϥ ⲉ̀Ⲙⲁⲣⲓⲁ: Ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ: ⲁϥⲥⲁϫⲓ ⲛⲉⲙⲁⲥ: ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ.",
    "translations": {
     "english": "He appeared to Mary, Magdalene, and spoke to her, and likewise said.",
@@ -175,6 +182,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ϫⲉ ⲙⲁⲧⲁⲙⲉ ⲛⲁⲥ̀ⲛⲏⲟⲩ: ϩⲓⲛⲁ ⲛ̀ⲧⲟⲩϣⲉⲛⲱⲟⲩ: ⲉ̀Ϯⲅⲁⲗⲓⲗⲉⲁ̀: ⲥⲉⲛⲁⲛⲁⲩ ⲉ̀ⲣⲟⲓ ⲙ̀ⲙⲁⲩ.",
    "translations": {
     "english": "\"Tell My brethren, to proceed, to Galilee, and there they will see Me.\"",
@@ -203,6 +211,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲁⲥⲓ̀ ⲛ̀ϫⲉ Ⲙⲁⲣⲓⲁ: ϣⲁ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: ⲡⲉϫⲁⲥ ϫⲉ ⲁⲓⲛⲁⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ: ⲟⲩⲟϩ ⲛⲁⲓ ⲡⲉⲧⲁϥϫⲟⲧⲟⲩ ⲛⲁⲥ.",
    "translations": {
     "english": "So Mary came forth, to the disciples, and told them she had seen the Lord, and that He told her so.",
@@ -228,6 +237,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧϣ̀ⲙⲏⲛⲓ:",
    "translations": {
     "english": "The Eighteenth Part:",
@@ -242,6 +252,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲕⲁⲗⲱⲥ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁⲥϣⲱⲡⲓ ϧⲉⲛ ⲟⲩϥⲓⲣⲱⲟⲩϣ: ⲛ̀ϫⲉ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ",
    "translations": {
     "english": "Truly indeed, it was good caring, of the Saint Mary, Magdalene.",
@@ -270,6 +281,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲁⲥⲓ̀ ⲉ̀ⲡⲓⲙ̀ϩⲁⲩ: ϧⲉⲛ ⲫ̀ⲟⲩⲁⲓ ⲛ̀ⲧⲉ ⲛⲓⲥⲁⲃⲃⲁⲧⲟⲛ: ⲁⲥⲕⲱϯ ϧⲉⲛ ⲟⲩⲥ̀ⲡⲟⲩⲇⲏ: ⲛ̀ⲥⲁ Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲙ̀Ⲡ̀ϭⲟⲓⲥ.",
    "translations": {
     "english": "She came to the grave, on one of the Sabbath days, seeking earnestly, the Resurrection of the Lord.",
@@ -298,6 +310,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲁⲥⲛⲁⲩ ⲉ̀ⲡⲓⲁⲅⲅⲉⲗⲟⲥ: ⲉϥϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲡⲓⲱ̀ⲛⲓ: ⲉϥⲱϣ ⲉ̀ⲃⲟⲗ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲁϥⲧⲱⲛϥ ϥ̀ⲭⲏ ⲙ̀ⲡⲁⲓ ⲙⲁⲛ ⲁⲛ.",
    "translations": {
     "english": "She saw the angel, sitting on the stone, proclaiming and saying, \"He is risen He is not here.\"",
@@ -323,6 +336,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ: ⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ.",
    "translations": {
     "english": "Wherefore we glorify Him, proclaiming and saying, \"Blessed are You O my Lord Jesus, for You have risen and saved us.\"",

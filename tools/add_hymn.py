@@ -39,7 +39,7 @@ def text_of(fragment):
 
 
 def unmarked(text):
-    """Tasbeha starts some lines with "+" (a cue for the reader); the lyrics leave it out."""
+    """Tasbeha starts some lines with "+" (the other side of the choir); the lyrics keep that as "side": 1."""
     return re.sub(r"^\+\s*", "", text).strip()
 
 
@@ -63,7 +63,8 @@ def parse_hymn(page):
             en = re.search(r'<div class="sync-english">(.*?)</div>', row, re.S)
             ar = re.search(r'<div class="sync-arabic[^"]*"[^>]*>(.*?)</div>', row, re.S)
             if coptic:
-                lines.append({"coptic": unmarked(" ".join(w for w in coptic if w != "+")),
+                lines.append({"marked": "+" in coptic or bool(re.match(r"^\+", " ".join(coptic))),
+                              "coptic": unmarked(" ".join(w for w in coptic if w != "+")),
                               "translit": unmarked(" ".join(w for w in translit if w != "+")),
                               "english": unmarked(text_of(en.group(1))) if en else "",
                               "arabic": unmarked(text_of(ar.group(1))) if ar else ""})
@@ -96,6 +97,9 @@ def lyrics_from(verses):
             line["transliterations"] = {"english": translit}
         if len(lines) > 1:
             line["stanzas"] = [{"coptic": l["coptic"]} for l in lines]
+        # Tasbeha's "+" marks the verses sung by the other side of the choir.
+        if any(l.get("marked") for l in lines):
+            line["side"] = 1
         out.append(line)
     return out
 

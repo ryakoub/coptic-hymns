@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲟⲩⲟϩ ⲡⲓⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲡⲓⲙⲉⲑⲣⲉ ϧⲁ ⲛⲓⲙ̀ⲕⲁⲩϩ: ⲛ̀ⲧⲉ ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀ⲛⲟⲩϯ",
    "translations": {
     "english": "O Mark the Apostle, and the evangelist, the witness to the passion, of the only-begotten God."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲁⲕⲓ̀ ⲁⲕⲉ̀ⲣⲟ̀ⲩⲱⲓⲛⲓ ⲉ̀ⲣⲟⲛ: ϩⲓⲧⲉⲛ ⲡⲉⲕⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲟⲛ: ⲁⲕⲧ̀ⲥⲁⲃⲟⲛ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ: ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅",
    "translations": {
     "english": "You have come and enlightened us, through your Gospel, and taught us the Father and the Son, and the Holy Spirit."
@@ -20,6 +22,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲁⲕⲉⲛⲧⲉⲛ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡ̀ⲭⲁⲕⲓ: ⲉϧⲟⲩⲛ ⲉ̀ⲡⲓⲞⲩⲱⲓⲛⲓ ⲙ̀ⲙⲏⲓ: ⲁⲕⲧⲉⲙⲙⲟⲛ ⲙ̀ⲡⲓⲱⲓⲕ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ: ⲉⲧⲁϥⲓ̀ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ",
    "translations": {
     "english": "You brought us out of the darkness, into the true Light, and nourished us with the Bread of life, that came down from heaven."
@@ -27,6 +30,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲁⲩϭⲓⲥ̀ⲙⲟⲩ ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧⲕ: ⲛ̀ϫⲉ ⲛⲓⲫⲩⲗⲏ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲡ̀ⲕⲁϩⲓ: ⲟⲩⲟϩ ⲛⲉⲕⲥⲁϫⲓ ⲁⲩⲫⲟϩ: ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ",
    "translations": {
     "english": "All the tribes of the earth, were blessed through you, and your words have reached, the ends of the world."
@@ -34,6 +38,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲭⲉⲣⲉ ⲡⲓⲁ̀ⲡⲟⲥⲧⲗⲟⲥ: ⲁⲃⲃⲁ Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲑⲉⲱⲣⲓⲙⲟⲥ",
    "translations": {
     "english": "Hail to you O martyr, hail to the evangelist, hail to the Apostle, Mark the beholder of God."
@@ -41,6 +46,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ ⲡⲓⲑⲉⲱⲣⲓⲙⲟⲥ ⲛ̀ⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲁⲃⲃⲁ Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
    "translations": {
     "english": "Pray to the Lord on our behalf, O beholder of God and evangelist, Saint Mark the Apostle, that He may forgive us our sins."

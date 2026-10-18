@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "-",
    "translations": {
     "english": "Kerie leysoun (Lord have mercy) is said three times before every part",
@@ -19,6 +20,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲁ̀ⲙⲏⲛ.",
    "translations": {
     "english": "Amen.",
@@ -30,6 +32,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
    "translations": {
     "english": "Kerie leysoun (3).",
@@ -44,6 +47,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ.",
    "translations": {
     "english": "O God have mercy on us.",
@@ -55,6 +59,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ.",
    "translations": {
     "english": "O God hear us.",
@@ -66,6 +71,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲥⲟⲙⲥ ⲉ̀ⲣⲟⲛ.",
    "translations": {
     "english": "O God look to us.",
@@ -80,6 +86,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲫ̀ⲛⲟⲩϯ ϫⲟⲩϣⲧ ⲉ̀ⲣⲟⲛ.",
    "translations": {
     "english": "O God behold us.",
@@ -94,6 +101,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲫ̀ⲛⲟⲩϯ ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲩⲛ.",
    "translations": {
     "english": "O God have compassion on us.",
@@ -105,6 +113,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲗⲁⲟⲥ.",
    "translations": {
     "english": "We are Your people.",
@@ -116,6 +125,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲡ̀ⲗⲁⲥⲙⲁ.",
    "translations": {
     "english": "We are Your creation.",
@@ -127,6 +137,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛϫⲁϫⲓ.",
    "translations": {
     "english": "Deliver us from our enemies.",
@@ -138,6 +149,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲟⲩϩ̀ⲃⲱⲛ.",
    "translations": {
     "english": "Deliver us from inflation.",
@@ -149,6 +161,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ.",
    "translations": {
     "english": "We are Your servants.",
@@ -160,6 +173,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ.",
    "translations": {
     "english": "You are the Son of God.",
@@ -171,6 +185,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲁⲛⲛⲁϩϯ ⲉ̀ⲣⲟⲕ.",
    "translations": {
     "english": "We believe in You.",
@@ -182,6 +197,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "For You have (risen/come) and saved us.",
@@ -196,6 +212,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ.",
    "translations": {
     "english": "Visit us with Your salvation.",
@@ -207,6 +224,7 @@
   },
   {
    "id": "l18",
+   "side": 1,
    "coptic": "Ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "And forgive us our sins.",
@@ -218,6 +236,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
    "translations": {
     "english": "Kerie leysoun.",

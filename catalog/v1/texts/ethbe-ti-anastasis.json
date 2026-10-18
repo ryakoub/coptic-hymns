@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲉⲑⲃⲉ ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ ⲁⲩⲉⲙⲧⲟⲛ ⲙ̀ⲙⲱⲟⲩ ϧⲉⲛ ⲫ̀ⲛⲁϩϯ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲙⲁⲙ̀ⲧⲟⲛ ⲛ̀ⲛⲟⲩⲯⲩⲭⲏ ⲧⲏⲣⲟⲩ.",
    "translations": {
     "english": "For the resurrection of the dead who have fallen asleep and reposed in the faith of Christ. O Lord repose their souls."
@@ -15,6 +16,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲡⲁⲩⲗⲟⲥ ⲫ̀ⲃⲱⲕ ⲙ̀Ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲧⲑⲁϩⲉⲙ: ⲫⲏⲉ̀ⲧⲁⲩⲑⲁϣϥ ⲉ̀ⲡⲓϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛ̀ⲧⲉ Ⲫϯ.",
    "translations": {
     "english": "Paul, a bondservant of Jesus Christ, called to be an apostle, separated to the gospel of God."
@@ -50,6 +52,7 @@
   },
   {
    "id": "l8",
+   "side": 0,
    "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲛⲉⲙⲱⲧⲉⲛ ⲧⲏⲣⲟⲩ ϫⲉ ⲁⲙⲏⲛ ⲉ̀ⲥⲉϣⲱⲡⲓ.",
    "translations": {
     "english": "The grace of God the Father be with you all. Amen."

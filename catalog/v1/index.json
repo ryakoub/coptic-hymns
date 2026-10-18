@@ -1,5 +1,5 @@
 {
- "version": "36038a5e029f75d4",
+ "version": "b07bb2e0452b241c",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1134,8 +1134,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
-    "bytes": 17308,
-    "sha256": "44dca3764e85b7fdef4a5db6f39218161615dd6324be122061521487d33cfe0b"
+    "bytes": 17546,
+    "sha256": "b846559feaf9a6566d2b553b7e7765dcf4111151305e7b641a5082d91ea6390d"
    }
   },
   {
@@ -1155,8 +1155,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/anaphora-responses-st-basil-st-gregory-liturgies.json",
-    "bytes": 1162,
-    "sha256": "0c96647da7117e4101204843b61c47ab2f70514068e5feba4140d62f49742ce0"
+    "bytes": 1246,
+    "sha256": "b1c59d10f55271e0b316fac67f11d50a76ab7df88fd0cee10442c9d54e08c5d1"
    }
   },
   {
@@ -1178,8 +1178,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/arihouo-gasf-third-hoos.json",
-    "bytes": 412,
-    "sha256": "4e3d940e1fe52c7fd8aef6807fe08b74d24764ead307f5341cef85df75c95458"
+    "bytes": 426,
+    "sha256": "fa54ad75722eb8c7c4518f16fa12819336e8f74e3f4a43560f28fe4a940b8a5c"
    }
   },
   {
@@ -1204,8 +1204,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aripalin.json",
-    "bytes": 26015,
-    "sha256": "0b282cae0c91dff441209ce7ec517865b4f2ca462dcaaaa0e64a301ba4e7116a"
+    "bytes": 26351,
+    "sha256": "8c7a2d917c137464cfa713f7bf48761373defb7eb94edc82a18ea376e39135b4"
    }
   },
   {
@@ -1225,8 +1225,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aspasmos-adam-resurrection.json",
-    "bytes": 942,
-    "sha256": "ab66bb6afb89f9aa48ce3f9d3fafb24ae83c39e8086f136c6a05a151a4c33a13"
+    "bytes": 970,
+    "sha256": "3cfce13cfb780e6d7404906fc2488c976d1f922beea75609408c8d6c20bddfb9"
    }
   },
   {
@@ -1251,8 +1251,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aven-pi-arshee-erevs.json",
-    "bytes": 5883,
-    "sha256": "39c97b29c07a96047371118697e5ef71ec39e9ced00ab64987b0ea3c05b0a5e6"
+    "bytes": 5967,
+    "sha256": "5a3967f215ef475f7a5cdab006efedc1f07f8df17160f98190f1eba0e74724bf"
    }
   },
   {
@@ -1272,8 +1272,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/blessed-pentecost.json",
-    "bytes": 553,
-    "sha256": "a6d4b84bcd8f3798061312a979f307201ecdc2aa23f1a2dda22b3f1b1b819849"
+    "bytes": 567,
+    "sha256": "4362367e292ae51f7e0e53722a043a2cffcedc339465e4726f75f9e8dbddaccc"
    }
   },
   {
@@ -1293,8 +1293,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/censer-annual.json",
-    "bytes": 565,
-    "sha256": "2c0b6294a9d63c8eb4076f1c8a921e47a1e0fc6a1ec0630f4e56796925c9c79e"
+    "bytes": 579,
+    "sha256": "d05ab0bc54794165e48e46b419342696bae25bb5f5b1174b6ef3a1107a8678fd"
    }
   },
   {
@@ -1314,8 +1314,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/christ-is-risen.json",
-    "bytes": 1777,
-    "sha256": "d642f8df090ff315e08920bf7f3d8a6f6b96fb488d56ed4d5f0805bc1eab2012"
+    "bytes": 1833,
+    "sha256": "7a5639c3f7510a2f6756dbd3296b169201957bae9ddac4e599704f4711acb8f0"
    }
   },
   {
@@ -1337,8 +1337,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/christos-analympsis.json",
-    "bytes": 1146,
-    "sha256": "bee1e4593a27090f212f37f8027560f802356f2e72787ec31f391e216c8ba870"
+    "bytes": 1174,
+    "sha256": "b55a9fe70bf5542a2974cf602cdb52b2369a9e61a068d75c81a44e11e1eee1d2"
    }
   },
   {
@@ -1364,8 +1364,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/commemoration-of-saints.json",
-    "bytes": 98645,
-    "sha256": "acbbb3ccf3275dde0233b9f284048d723c61d19c3d443df4a99835c3adef724d"
+    "bytes": 99695,
+    "sha256": "ec06272e97b6f69cc10b3659184883c8a9bdbcc8ab965a56c505b48c5a1988a9"
    }
   },
   {
@@ -1385,8 +1385,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-feast-cross.json",
-    "bytes": 539,
-    "sha256": "ced541ba9a60ab5fe5742ea375f5109155423c3a252e5a75621cbd1c6cdc1c5e"
+    "bytes": 553,
+    "sha256": "bf23237d7df0d1df1d6baf4edefaa0473bdd9e70e34db70ac6dfe8561854b79b"
    }
   },
   {
@@ -1412,8 +1412,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-litany.json",
-    "bytes": 5677,
-    "sha256": "675848d1e04bd485e89ab963364574f8357f2eaa9b3090eea8f4019f6a1c242f"
+    "bytes": 5943,
+    "sha256": "02304881d3a38672df67f2efae1f70cdbc2d4b3c5618b37f51a652e030dc18ae"
    }
   },
   {
@@ -1433,8 +1433,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-canon-resurrection.json",
-    "bytes": 241,
-    "sha256": "db9fd207971f912ea36526eeed39d351ad85800ec0998d6d2cc580d2933e8514"
+    "bytes": 255,
+    "sha256": "4becd6d4645e2d092f93c74e6fcdc9b952d47fe33f18467f0dcde5b4484cf898"
    }
   },
   {
@@ -1454,8 +1454,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-midnight-praises.json",
-    "bytes": 4980,
-    "sha256": "656911de676aca43517ba40d57a56011af84e96ab71b10d2aa0eb3adb861ae61"
+    "bytes": 5414,
+    "sha256": "6e7b35ec441509a751588de5795c26a0d9b5550b8c3757019ad714eb5150ef35"
    }
   },
   {
@@ -1475,8 +1475,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/distribution-refrain-resurrection.json",
-    "bytes": 417,
-    "sha256": "a2e2e446e572ac4258f994a3e96b270696f410d53e8fd9adfad1ca9b931b3798"
+    "bytes": 431,
+    "sha256": "87163969417595eda04420360e506468733fa0b6c9f4f57f4b7ab2b85e107634"
    }
   },
   {
@@ -1496,8 +1496,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-heavenly-orders.json",
-    "bytes": 8463,
-    "sha256": "5d9143b9fc3f99e14905de5e244f346993c22264e3822b3d6b61a9a34f10675b"
+    "bytes": 8603,
+    "sha256": "693f57d277edf7a265938b11f0ab18f647af2803c70da5c26aa116b52776fc86"
    }
   },
   {
@@ -1517,8 +1517,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-resurrection.json",
-    "bytes": 3616,
-    "sha256": "dae451b3e2c638e50df59d2903fd604e6fe50b57c7646d99ff6e3fb296f21752"
+    "bytes": 3728,
+    "sha256": "6560628b7c8df19f8eeb63ec521b4575b2d60b6b4a59c1beb3e6c3e8717f5f68"
    }
   },
   {
@@ -1538,8 +1538,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-st-mary-matins.json",
-    "bytes": 4299,
-    "sha256": "08256f7b4964fa79489894dd9904323f310cbc36c8075740c06a7914968c89b2"
+    "bytes": 4439,
+    "sha256": "8b72c4f2576d14f8c8bdd0d02e956648b35242743a712dbefdb8d9c85c0892a6"
    }
   },
   {
@@ -1559,8 +1559,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-st-mary-vespers.json",
-    "bytes": 5013,
-    "sha256": "696e2797fe96a630b761f03da603e1c078eb7b3cb4ca6746c1b318445020f9fa"
+    "bytes": 5097,
+    "sha256": "e11b9aab695395e9116ddc0bc4262da398bd0968ec5cc19d13a6f5bb18fdc182"
    }
   },
   {
@@ -1585,8 +1585,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-virgin-midnight.json",
-    "bytes": 7339,
-    "sha256": "55c0262288de1259991dfb2f6e0aac7b8f587249ffde51f68a814702c99162bc"
+    "bytes": 7423,
+    "sha256": "7f5f82fdf77231e496f134ff560cc543326925b277868f8a519131bb9476dca6"
    }
   },
   {
@@ -1606,8 +1606,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ere-po-esmo-may-their-holy-blessing.json",
-    "bytes": 684,
-    "sha256": "9110dc94fdae216192be7adb26e3a5d000475becb80f9b6c045b31ec3844cb0c"
+    "bytes": 698,
+    "sha256": "75a8262a98d441045c47035733597279d0f8f7ca1bbbe3c39e5529b97281dce7"
    }
   },
   {
@@ -1632,8 +1632,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/esmo-epchois.json",
-    "bytes": 2282,
-    "sha256": "0c7657ec9b056c657097adab40ac43a91c54820d2b352e4636445ca3b9bb2933"
+    "bytes": 2310,
+    "sha256": "510bd5e942647524f467b9e92bb6f7da25049ebb38114546bce5df0dac1cc65d"
    }
   },
   {
@@ -1655,8 +1655,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ethbe-ti-anastasis.json",
-    "bytes": 2338,
-    "sha256": "1a749704eef8d23a646eeca69ab4f63c778021dfdd8e7c26db632752ea56eb0f"
+    "bytes": 2380,
+    "sha256": "aa5316f3f324e6f574efa05e10fa70481088eb2a4ac1fcaf11dedfa797cec573"
    }
   },
   {
@@ -1678,8 +1678,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fai-etafenf.json",
-    "bytes": 926,
-    "sha256": "92fbd4478101237753bf47997490a31cdb6f0540be46ffb3b89d729a4996204b"
+    "bytes": 954,
+    "sha256": "dfa86c1121a148286660235e6d131f4fca46b1535d71cb8272b74313f4aeab02"
    }
   },
   {
@@ -1702,8 +1702,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos.json",
-    "bytes": 15063,
-    "sha256": "d572e69247aeb0f211b39a3f7463bb7941a72030c40a68e3c1590eed266f4a95"
+    "bytes": 15413,
+    "sha256": "0c0e06c0bf308a61a79910bbba890bd70ba25b167e53dc714dd4d394c6c59dfb"
    }
   },
   {
@@ -1729,8 +1729,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos-lobsh.json",
-    "bytes": 9460,
-    "sha256": "e1a28d58ff6bf706fc6dc44af8aa702553e7dd70601ebf5296417fc64cec331e"
+    "bytes": 9586,
+    "sha256": "0fb81d72b0c91e55f28b33508fa58045309367d0edcabf5d0e37e54f4aee89d1"
    }
   },
   {
@@ -1756,8 +1756,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-sunday-psali.json",
-    "bytes": 20536,
-    "sha256": "6633277e27e9dd05311e4c7a0cdd5b3a70091cf2ab584b3e2dd159d28677ac4c"
+    "bytes": 20704,
+    "sha256": "d83e9a4c8a2c9317a36cd6ea34f14dbae743b39438f76b2f7b9e98471ec9d828"
    }
   },
   {
@@ -1783,8 +1783,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fourth-hoos.json",
-    "bytes": 32717,
-    "sha256": "53eb2e68b8051200bf3a83d046000ce2a2c7cfeb2b1c134122f095813ed1f8ea"
+    "bytes": 33291,
+    "sha256": "b545e7fdaa37160bb71cb083b93f6c76f3927d55ba24b33657b9e77450d83bff"
    }
   },
   {
@@ -1810,8 +1810,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-luke.json",
-    "bytes": 4144,
-    "sha256": "effc97677d408a53884dbd2f8e0587831f881809370de33870905df6d2442224"
+    "bytes": 4200,
+    "sha256": "9487153fbbff5287316bc096fa2f645a4f70cfcf0139e7d405d04205bb087810"
    }
   },
   {
@@ -1831,8 +1831,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-response-feast-cross.json",
-    "bytes": 4435,
-    "sha256": "18f42a097245b9187ade966ea03436b46560ea5739370a552327200bc6ddda99"
+    "bytes": 4505,
+    "sha256": "0df43351b2fe26a096efdfa87a01694300b32a8d1007e8e0ff01c81ff9c19fd7"
    }
   },
   {
@@ -1852,8 +1852,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hiten-archangel-michael-feast-resurrection.json",
-    "bytes": 704,
-    "sha256": "0db85bf53f52d35e2c27360a8fbac4a6b8cf9cd56ac7327beeb898321d749180"
+    "bytes": 718,
+    "sha256": "ef0f1fecccc3e6ae8797d15319bc3602c878cac7f4d88017495374b8241b69f8"
    }
   },
   {
@@ -1873,8 +1873,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hossana-intro-doxologies-first-doxology.json",
-    "bytes": 5566,
-    "sha256": "8303642e29f965abba952bf85117b305a1172a7bc7e1297b3928f8418150a58e"
+    "bytes": 5710,
+    "sha256": "76c41af613b67854eba0c5e3122c00aea5285c60f312035d4f0704086dcca49e"
    }
   },
   {
@@ -1894,8 +1894,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hymn-of-the-blessing.json",
-    "bytes": 581,
-    "sha256": "80c3b2081ac6175bd7b1b86ae362f79c40c1fd83ab46583f62e124c55e0ffda6"
+    "bytes": 595,
+    "sha256": "71bcbe4f59108be8019f5c0711572acb5b90a54eaf7b5964b72d31865c9318fa"
    }
   },
   {
@@ -1917,8 +1917,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/joyful-agios-major.json",
-    "bytes": 3508,
-    "sha256": "69cfa3bac15d4a91229475e6c282b7cf6f121f15a108d9673113ded088a8d17e"
+    "bytes": 3578,
+    "sha256": "3c595c19e5417d94721349e9b480792b357fc6ea34d40df8d30a80f97dd9ede3"
    }
   },
   {
@@ -1940,8 +1940,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/kata-ni-khoros.json",
-    "bytes": 1142,
-    "sha256": "3d4e250974bce16ea2924e8d82a1d30d3e699e899be8cc200cb768955ccb8ac2"
+    "bytes": 1170,
+    "sha256": "080f9ad59979fc5685c28bcec7b05ae2eb49b738ab81bc73a1b285ae0fb4b428"
    }
   },
   {
@@ -1963,8 +1963,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ke-ypertou.json",
-    "bytes": 279,
-    "sha256": "fd8e428057c9b4cfcbdbbb9fa93935f30c48058b2c7ebae063eb3e7d2bdd79eb"
+    "bytes": 293,
+    "sha256": "9cdb77aaeaeed2602edc7075d70a37117b1d48763a7c6c7a3c16c0750254748f"
    }
   },
   {
@@ -1989,8 +1989,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/leebon.json",
-    "bytes": 4215,
-    "sha256": "5add5e841b45e4f93b009791b48f4296141913705cf7d5a09aaf95fea995057a"
+    "bytes": 4271,
+    "sha256": "473f3e7ef7d13c85fee1f73cf62ffd4c8dcb0977f93dffd980893dce048ff786"
    }
   },
   {
@@ -2010,8 +2010,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/liturgy-gospel-response-annual.json",
-    "bytes": 1495,
-    "sha256": "3af46d7923893e331ad5e4dea5842ac0c6dfc57bbb53accf5c8faa20018f5296"
+    "bytes": 1537,
+    "sha256": "4b10798aa01ebb813a1a48d68ec8121b9944536dd9d4b9fb965fe987afb06f2b"
    }
   },
   {
@@ -2031,8 +2031,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/liturgy-gospel-response-resurrection.json",
-    "bytes": 1814,
-    "sha256": "ff4bc3794d9d2fdbaad9631250de0856b3012fc909a766324d1b609187e041b3"
+    "bytes": 1870,
+    "sha256": "5e7d991bb035b6e841114e2427aa402edb03d7b424c765146f0db6e10ba11d6d"
    }
   },
   {
@@ -2052,8 +2052,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
-    "bytes": 3561,
-    "sha256": "9475ae93b93ea0076342dd285c7abf9af7a2f9d016072094afed8776b8acf297"
+    "bytes": 3687,
+    "sha256": "242b83387c10def4669261110da12353ae5f5ce7aef9b442c70b0c1b94166b49"
    }
   },
   {
@@ -2079,8 +2079,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/morning-doxology.json",
-    "bytes": 61748,
-    "sha256": "0182dc43f79b0588f7145754e0bf133c48b114c2914a78097481a25ac5b9bd44"
+    "bytes": 62404,
+    "sha256": "f0a855f4504c87719c499194905db07517e14220273c53fb504e104c71e98827"
    }
   },
   {
@@ -2106,8 +2106,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/nim-ghar.json",
-    "bytes": 12886,
-    "sha256": "f7af188db8faf7a4b7c5730d9a5f1ae707a6492a3ddf40868fced836cee785ea"
+    "bytes": 13082,
+    "sha256": "05c1ccfcdd9c13d28317b77eb83b57744467e740b77d5dfd0d341c9d533b9f76"
    }
   },
   {
@@ -2129,8 +2129,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/onim-nai-symfonia.json",
-    "bytes": 487,
-    "sha256": "6ab3dd6992dc4d00dce5ce7b87a8aa7988de21af0220835340dfad2877779c7e"
+    "bytes": 501,
+    "sha256": "7cfb99ee4882ea0be8a1e793f0d4ae66aa199337a98e6b02fc985bf8e6d18e2c"
    }
   },
   {
@@ -2152,8 +2152,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ou-katikisis.json",
-    "bytes": 2456,
-    "sha256": "e27a435b1f9d529f838eedfe912589fd67fc68ae57a42a44fee994611d71fcc7"
+    "bytes": 2582,
+    "sha256": "0cf6d96f9d936f8c354fc0fb5b13759482a4b1117db5e9340ecbd126d739f3dc"
    }
   },
   {
@@ -2173,8 +2173,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/paralex-of-resurrection.json",
-    "bytes": 1484,
-    "sha256": "e693d8c83c80e2b2ffbbe0f42f136bf07b1c8a29e1f486d2f267c237cfb1a973"
+    "bytes": 1526,
+    "sha256": "fa17e421820a9762de8d7abf418bc1d30df04b16e93c82b5b42649a36b824315"
    }
   },
   {
@@ -2194,8 +2194,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/paralex-shere-maria.json",
-    "bytes": 4631,
-    "sha256": "001e5dd4201c8d16c09d0ad1a2e6be558dc33f81540c07d751d277a9cba505f0"
+    "bytes": 4771,
+    "sha256": "536f2b66f27857b542c78a93395fcc7d6be380bf4e0160a30db6ab03b88e20fd"
    }
   },
   {
@@ -2217,8 +2217,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-christos-aftonf.json",
-    "bytes": 732,
-    "sha256": "abd40dd7e40d904392010a6e97ab0e5b2e45492281c7f23fe95dda4e68c4d87c"
+    "bytes": 746,
+    "sha256": "b0d703458e2202d5c312212974482f120a5c460447cdf479ceece69ea83736eb"
    }
   },
   {
@@ -2240,8 +2240,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-oik.json",
-    "bytes": 3937,
-    "sha256": "312c8fb5621e4e2ca8129f173ad7021c3b264b3159997b6006ea6db66ddc8ec8"
+    "bytes": 4077,
+    "sha256": "832ebd59a6e13a6183c1c170f8336c2b81612f2009d7b976d4e3b193f8376aa0"
    }
   },
   {
@@ -2263,8 +2263,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-pnevma.json",
-    "bytes": 632,
-    "sha256": "6cd1bb06cb04d936b9593436b28a38ffa100eb45d546180893b2133d915dcf81"
+    "bytes": 646,
+    "sha256": "55fa9cdaf79975e0039c5c5c6928d8cb36c9f0cf65567d72edce12fce5015e44"
    }
   },
   {
@@ -2284,8 +2284,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-annual.json",
-    "bytes": 551,
-    "sha256": "6cb5ffb43151b395c51326f69bbe95cdfeff8bb612a1e7f26f54e2338acf80cf"
+    "bytes": 579,
+    "sha256": "74510430b6ca9b84022c859e1fca96ae519bbe3661cad6f3cbe9c5e97e79c90c"
    }
   },
   {
@@ -2305,8 +2305,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-feast-cross.json",
-    "bytes": 491,
-    "sha256": "850385375942a78b14ccc81655e8854b62d01c3e85928f29665eb4a889d7a975"
+    "bytes": 505,
+    "sha256": "5031096c548ecd3361fa8933a87d6226cf022c165abf2e5cebc3e159e6699273"
    }
   },
   {
@@ -2326,8 +2326,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-resurrection.json",
-    "bytes": 646,
-    "sha256": "c5a13382dcc8045df1d361ba546f3baf0322e3d8acb8e6813e3fa7f2c6780596"
+    "bytes": 674,
+    "sha256": "c226106629eab9699da1e02c709b21c61e2aa49f1ac5e8d150edc37a644c01f9"
    }
   },
   {
@@ -2347,8 +2347,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/procession-refrain-feast-cross.json",
-    "bytes": 551,
-    "sha256": "101ffd8e84c8ee655b883cb582a124acf215680f7350d8ff39019ccbf8089b49"
+    "bytes": 565,
+    "sha256": "b11c47008ff20088f0f0fc4d62f5874bb3038d3756e6656e68fb9aa97cd6ac63"
    }
   },
   {
@@ -2368,8 +2368,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/psalm-150-4th-hoos.json",
-    "bytes": 7802,
-    "sha256": "2e3cac1a79a73815f7fb3f80432e278c76f945f218d07fc1ac0b1e1852b6b16e"
+    "bytes": 8026,
+    "sha256": "b311d6c6532de9fd0814cc2213b1ce1ef9b20a76372a71b5d29846179c79d281"
    }
   },
   {
@@ -2389,8 +2389,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/psalm-response-resurrection.json",
-    "bytes": 650,
-    "sha256": "1e92347be57e420842aa5aed5899dc9264713158b887e5964a559eec04c3d3ab"
+    "bytes": 664,
+    "sha256": "58aa62b0acc50c6407c84032718e9a90f6ce84fb3bfb296d90652878ea8de22d"
    }
   },
   {
@@ -2410,8 +2410,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/refrain-third-hour-pentecost.json",
-    "bytes": 894,
-    "sha256": "baa9350fb2eb34d072f95a2b03d9197fb4f84c4dbbd8e07ed7938874f85de6e3"
+    "bytes": 908,
+    "sha256": "b45309c4cb4d9d57d7f851802eca989c16b0250f64dae6d6c3cd4d26de3e94d0"
    }
   },
   {
@@ -2431,8 +2431,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-doxology-apostles.json",
-    "bytes": 5091,
-    "sha256": "e800986367843a15105460e7554dd31a855749b845708983b9d3c078f52acae8"
+    "bytes": 5175,
+    "sha256": "42668bf0f5379671a45958bc3e5d27aaf418dec0749ec5f2dc54bd3cb10c9d5f"
    }
   },
   {
@@ -2452,8 +2452,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-doxology-resurrection.json",
-    "bytes": 5121,
-    "sha256": "a58aac937a259384719b3e2350a0593bdf1510e805f2268ddf0565dbcea3f7c6"
+    "bytes": 5205,
+    "sha256": "7a21e5c599d494f6fe3bc80a49bbc87b619eb406ac11902755b85d51c79feede"
    }
   },
   {
@@ -2479,8 +2479,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos.json",
-    "bytes": 25007,
-    "sha256": "00a72c27f40fa58fed95b15d9bac919464704b156d717ea0497ce99e5334de89"
+    "bytes": 25399,
+    "sha256": "d16cc7b12c51244bc8fcfec013dd6a72ab23f2c5fb67fd200dc537f1572551d6"
    }
   },
   {
@@ -2506,8 +2506,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos-lobsh.json",
-    "bytes": 12290,
-    "sha256": "8382ce40eaeba35c76d7d7621b66414232565e59921fcafa01e91baaf64c0b6a"
+    "bytes": 12458,
+    "sha256": "9a55a8a30346661aecb650f0be1d8b5ee5fd39f765ac8ab1671fde42c2273ba0"
    }
   },
   {
@@ -2533,8 +2533,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-sunday-psali.json",
-    "bytes": 27903,
-    "sha256": "0c9219a2d5a8188b90ccdbfcabd656ceeec5f99db72bff7b06edad8cfd340736"
+    "bytes": 28127,
+    "sha256": "4a25c90c9409dc444e419cbb08542e9fa1d5e51d9e1021867d2d756bf79972ba"
    }
   },
   {
@@ -2560,8 +2560,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/semoti.json",
-    "bytes": 6871,
-    "sha256": "6d3529bd0b09ad40f61314dfacf47fbf2edf4f9ccabc61002bd9b8aa1bb2ba3f"
+    "bytes": 6969,
+    "sha256": "940f79d9d9c4fedb9aa1b1193473488714725ce5df12937b76ef14783f6ce87e"
    }
   },
   {
@@ -2587,8 +2587,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shashf-ensop.json",
-    "bytes": 31764,
-    "sha256": "54a2be922b17420ba3996c0d3e2d315a55b86000eae75c4c267ce427219ab4a4"
+    "bytes": 32114,
+    "sha256": "e73d51a72d8b50dd5da740333a441b7598f3edd8457053ffc5a966c7fee5e203"
    }
   },
   {
@@ -2613,8 +2613,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shere-ne-maria.json",
-    "bytes": 5851,
-    "sha256": "abacecb0b0b675d11942c00d24f2ba4c09f0e0643f997f5757d955e415e4a0b9"
+    "bytes": 5935,
+    "sha256": "774c8f492f747a4753bc30cd4951f7c437af6b67ce44ff9276891191b873ab97"
    }
   },
   {
@@ -2634,8 +2634,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sotees-ameen-fast.json",
-    "bytes": 298,
-    "sha256": "8b2200e3af78122c4dc912d45206685651d1041cdf8756ab37d8a11af07f1715"
+    "bytes": 312,
+    "sha256": "d0cc0f2bf76f12a0ed2d8806654e0522a06a3697d4543a7f324b4cf68b15fe98"
    }
   },
   {
@@ -2655,8 +2655,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
-    "bytes": 2789,
-    "sha256": "0c49fde9b1f3915f4ea646ccba8c4b79f36414884ba7ba2b1ffb918d4241e824"
+    "bytes": 2873,
+    "sha256": "c31d2273fb7c5401085a4b113c57156dbe1252539558ff99fde1bb7626247cc5"
    }
   },
   {
@@ -2682,8 +2682,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
-    "bytes": 25787,
-    "sha256": "40af4ac4d3afd71c9a610fd721f87e357d0b5bd806c7a6a5054282b686ade869"
+    "bytes": 26151,
+    "sha256": "45f904bd26175d836ded3667d7be6a304cb1f729347af0c618453094891d0617"
    }
   },
   {
@@ -2705,8 +2705,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-thinou.json",
-    "bytes": 506,
-    "sha256": "f26422c70b724c5a024e379b7473a01b5bd565971c5159a6ceee6a37ace8fb66"
+    "bytes": 520,
+    "sha256": "8f3bbbaeeb47d03d4fce1e9f3b886835d6537633365fdcad9ad17b58e13e8e6c"
    }
   },
   {
@@ -2732,8 +2732,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tennav.json",
-    "bytes": 27520,
-    "sha256": "719a0188079eeec046be80bac40a1f59090a6225d349505b2e5743e2e956b16a"
+    "bytes": 27646,
+    "sha256": "b2bac764c27dc9e03187a001ede38fb80bc181f35a59f664c815b97a83c2e4d1"
    }
   },
   {
@@ -2758,8 +2758,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
-    "bytes": 4958,
-    "sha256": "ad2a83f62e3cfe3fe97b805cf294e15b0ee745881b8e04891745c25295fafe7a"
+    "bytes": 5042,
+    "sha256": "b375ae29d44b8b775b658eb94014874c3f6798c26c56eff58717afa90ee7c11c"
    }
   },
   {
@@ -2785,8 +2785,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/teoi-enhekanos.json",
-    "bytes": 55071,
-    "sha256": "3bc73335011f7a43b196eb30869e742e3a35f09d64e97e41d680395668662c27"
+    "bytes": 55897,
+    "sha256": "1594e1c831ceb3b095d3ce0b30eaa34b8fd640a692a3412c99bc1fd5cbbb4da2"
    }
   },
   {
@@ -2806,8 +2806,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/the-thought-of-man.json",
-    "bytes": 726,
-    "sha256": "80b241aeb205bc4751249272b0bb4d19a9d12b4dca28cf7e654691393d2379d7"
+    "bytes": 740,
+    "sha256": "24fef309a6d5c828bd230d17d7003aa5d43207775d1a34d4a01c71acfb47ccfe"
    }
   },
   {
@@ -2833,8 +2833,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/third-hoos.json",
-    "bytes": 36858,
-    "sha256": "71ad5e132cf66dc2c041ba56600bab5de4de0fb613f285b0d18efbd3d9672eaa"
+    "bytes": 37418,
+    "sha256": "17040d6cf1227c19d44d923ac0048c2eaa0e7b20619f57415d8ea3b982f77f41"
    }
   },
   {
@@ -2854,8 +2854,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/this-is-the-day.json",
-    "bytes": 830,
-    "sha256": "f18b42f5c27283fd342fb4b7a4bfe8bab59ed70bf20c10d7f0a21e64702233a2"
+    "bytes": 844,
+    "sha256": "734302a28b2f54ec4524e5ad9c9c82479b0fb92f73582dfc60f2bf9a0cf311c4"
    }
   },
   {
@@ -2877,8 +2877,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ton-syna.json",
-    "bytes": 1187,
-    "sha256": "89cc2a1b21cd7066a0ae160db9ca75852d9a273783ce46308932dd965834a810"
+    "bytes": 1201,
+    "sha256": "cbbc116714133a5dab1be5222d0c5a7d6fab14e3b685bbf8c3759ceb9353886c"
    }
   },
   {
@@ -2900,8 +2900,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tou-lithou.json",
-    "bytes": 1475,
-    "sha256": "e9430c53232850ae6acdfbec70b22be1d67c22397d84567c3016294a9a46451a"
+    "bytes": 1503,
+    "sha256": "ff6d6a52329a5c1852dd617df5693805814400750a92b164b9620cd4b97b0d53"
    }
   },
   {
@@ -2921,8 +2921,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verse-cymbals-feast-cross.json",
-    "bytes": 964,
-    "sha256": "e7efeba8fabd2fec29784da8de1cedf17a4c328abbbc73936ae23e0c31ba8438"
+    "bytes": 992,
+    "sha256": "a9c6ce318446e115ebfb7a25729f076ed25d3efbe5f325e8a69529df9c08a762"
    }
   },
   {
@@ -2942,8 +2942,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verse-cymbals-resurrection.json",
-    "bytes": 4167,
-    "sha256": "9e7819de3a60ed58c5ba6b634f3d12f92c6c35dc272699cc0dfb0263e5fe786f"
+    "bytes": 4265,
+    "sha256": "f03a09eced1ad2a06e685e92deb9ad69ac8ed45d34ec4f0ffcb068ec7ddce610"
    }
   },
   {
@@ -2963,8 +2963,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verses-cymbals-resurrection.json",
-    "bytes": 240,
-    "sha256": "046db216fdb9011fc67bdf2601334ff215a271629c96af4fd5bd0855cb789723"
+    "bytes": 254,
+    "sha256": "ddf73a54786b6358b8d1c0ab71c718c094fae480e4988f9bfe46f664a93fe4ed"
    }
   }
  ],
@@ -3857,6 +3857,7 @@
     "of": 12
    },
    "source": "https://tasbeha.org/hymn_library/view/112",
+   "antiphonalGroup": 2,
    "files": [
     {
      "url": "catalog/v1/timings/first-sunday-psali.json",
@@ -4951,6 +4952,7 @@
     "of": 16
    },
    "source": "https://tasbeha.org/hymn_library/view/174",
+   "antiphonalGroup": 2,
    "files": [
     {
      "url": "catalog/v1/timings/second-sunday-psali.json",

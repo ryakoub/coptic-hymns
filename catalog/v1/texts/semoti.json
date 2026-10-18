@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ: ⲱ̀ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: ϫⲉ ϯⲙⲁϩⲥ̀ⲛⲟⲩϯ ⲛ̀ⲥ̀ⲕⲏⲛⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ.",
    "translations": {
     "english": "You are called righteous, O Saint Mary, the second tabernacle, belonging to the holies.",
@@ -33,6 +34,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲑⲏⲉ̀ⲧⲟⲩⲭⲏ ⲛ̀ϧⲏⲧⲥ: ⲛ̀ϫⲉ ⲡⲓϣ̀ⲃⲱⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲛⲉⲙ ϯϩ̀ⲣⲏⲣⲓ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ.",
    "translations": {
     "english": "Wherein is placed, the rod of Aaron, and the holy flower, of incense.",
@@ -58,6 +60,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲧⲉϫⲟⲗϩ ⲙ̀ⲡⲓⲧⲟⲩⲃⲟ: ⲥⲁϧⲟⲩⲛ ⲛⲉⲙ ⲥⲁⲃⲟⲗ: ⲱ̀ ϯⲥ̀ⲕⲏⲛⲏ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ: ⲫ̀ⲙⲁ ⲛ̀ϣⲱⲡⲓ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ.",
    "translations": {
     "english": "You are clothed with purity, within and without, O pure tabernacle, the dwelling of the righteous.",
@@ -83,6 +86,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲧⲉ ⲡ̀ϭⲓⲥⲓ: ⲛⲉⲙ ⲡ̀ⲭⲟⲣⲟⲥ ⲛ̀ⲧⲉ ⲛⲓⲑ̀ⲙⲏⲓ: ⲥⲉⲉⲣⲉⲩⲇⲟⲝⲁⲍⲓⲛ: ⲛ̀ⲛⲉⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ.",
    "translations": {
     "english": "The hosts of the high standings, and the chorus of the just, glorify you, and your blessedness.",
@@ -108,6 +112,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϭⲓⲥⲓ: ⲙ̀ⲙⲟ ⲁⲝⲓⲱⲥ: ϧⲉⲛ ϩⲁⲛⲩⲙⲛⲟⲗⲟⲅⲓⲁ: ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
    "translations": {
     "english": "Wherefore we, magnify you befittingly, with prophetic, hymnology.",
@@ -133,6 +138,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ϫⲉ ⲁⲩⲥⲁϫⲓ ⲉⲑⲃⲏϯ: ⲛ̀ϩⲁⲛϩ̀ⲃⲏⲟⲩⲓ̀ ⲉⲩⲧⲁⲓⲏⲟⲩⲧ: ϯⲃⲁⲕⲓ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲧⲉ ⲡⲓⲛⲓϣϯ ⲛ̀Ⲟⲩⲣⲟ.",
    "translations": {
     "english": "For they spoke of you, with great honor, O holy city, of the great King.",
@@ -158,6 +164,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲧⲉⲛϯϩⲟ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
    "translations": {
     "english": "We entreat and pray, that we may win mercy, through your intercessions, with the Lover of Mankind.",

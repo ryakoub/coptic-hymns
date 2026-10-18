@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ϣⲁϣϥ (ⲍ̅) ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ: ⲥⲉⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲉ̀ⲩⲉ̀ⲣϩⲩⲙⲛⲟⲥ: ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲡⲓⲠⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲉ̀ⲩϣⲉⲙϣⲓ ⲙ̀ⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲉ̀ⲧϩⲏⲡ.",
    "translations": {
     "english": "Seven archangels, praising as they stand, before the Pantocrator, serving the hidden mystery."
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡⲉ ⲡⲓϩⲟⲩⲓⲧ: Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲉ ⲡⲓⲙⲁϩ ⲥ̀ⲛⲁⲩ: Ⲣⲁⲫⲁⲏⲗ ⲡⲉ ⲡⲓⲙⲁϩ ϣⲟⲙⲧ: ⲕⲁⲧⲁ ⲡ̀ⲧⲩⲡⲟⲥ ⲛ̀ϯⲦ̀ⲣⲓⲁⲥ.",
    "translations": {
     "english": "Michael is the first, Gabriel is the second, Raphael is the third, a symbol of the Trinity."
@@ -48,6 +50,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲥⲟⲩⲣⲓⲏⲗ Ⲥⲉⲇⲁⲕⲓⲏⲗ: Ⲥⲁⲣⲁⲑⲓⲏⲗ ⲛⲉⲙ Ⲁⲛⲁⲛⲓⲏⲗ: ⲛⲁⲓⲛⲓϣϯ ⲛ̀ⲣⲉϥⲉ̀ⲣⲟⲩⲱⲓⲛⲓ ⲉ̅ⲑ̅ⲩ̅: ⲛⲏⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲥⲱⲛⲧ.",
    "translations": {
     "english": "Suriel Sedakiel, Sarathiel and Ananiel, the luminous the great and the holy, asking Him for the creation."
@@ -69,6 +72,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "ⲚⲓⲬⲉⲣⲟⲃⲓⲙ ⲛⲉⲙ ⲛⲓⲤⲉⲣⲁⲫⲓⲙ: ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛⲓⲙⲉⲧⲟ̅ⲥ̅ ⲛⲓϫⲟⲙ: ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲍⲱⲟⲛ ⲛ̀ⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓϩⲁⲣⲙⲁ ⲛ̀Ⲑⲉⲟⲥ.",
    "translations": {
     "english": "The Cherubim the Seraphim, the Thrones the Dominions and Powers, the four incorporeal creatures, carrying the throne of God."
@@ -90,6 +94,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲡⲓϫⲟⲩⲧ ϥ̀ⲧⲟⲟⲩ ⲙ̀ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ: ϧⲉⲛ ϯⲉ̀ⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲓϣⲟⲣⲡ ⲙ̀ⲙⲓⲥⲓ: ⲉ̀ⲩϩⲱⲥ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁ̀ⲧⲙⲟⲩⲛⲕ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ.",
    "translations": {
     "english": "The twenty-four presbyters, in the Church of the firstborn, praising Him incessantly, proclaiming and saying."
@@ -111,6 +116,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ: ⲛⲏⲉ̀ⲧϣⲱⲛⲓ ⲙⲁⲧⲁⲗϭ̀ⲱⲟⲩ: ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ: ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲕⲟⲧ Ⲡⲟ̅ⲥ̅ ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ.",
    "translations": {
     "english": "Holy O God, the sick O Lord heal them, holy O Mighty, those who slept repose them."
@@ -132,6 +138,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲧⲉⲕⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ: ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
    "translations": {
     "english": "Holy O Immortal, bless Your inheritance, and may Your mercy and Your peace, be a fortress unto Your people."
@@ -153,6 +160,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲟⲩⲟϩ ⲭ̀ⲟⲩⲁⲃ: ⲭ̀ⲟⲩⲁⲃ Ⲡⲟ̅ⲥ̅ ⲥⲁⲃⲁⲱⲑ: ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ ⲙⲉϩ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲉⲕⲧⲁⲓⲟ.",
    "translations": {
     "english": "Holy holy, holy O Lord of hosts, heaven and earth are full of, Your glory and Your honor."
@@ -174,6 +182,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲁⲩϣⲁⲛϫⲟⲥ ⲙ̀ⲡⲓ ⲁ̅ⲗ̅: ϣⲁⲣⲉ ⲛⲁⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲙ̀ⲙⲱⲟⲩ: ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲙⲏⲛ ⲁ̅ⲗ̅: ⲡⲓⲱ̀ⲟⲩ ⲫⲁ ⲡⲉⲛⲚⲟⲩϯ ⲡⲉ.",
    "translations": {
     "english": "And when they say \"Alleluia\", the heavenly follow them saying, \"Holy Amen Alleluia, glory be to our God.\""
@@ -195,6 +204,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛⲓⲥ̀ⲧⲣⲁⲧⲓⲁ ⲛ̀ⲁ̀ⲅⲅⲉⲗⲓⲕⲟⲛ: ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ.",
    "translations": {
     "english": "Intercede on our behalf, O angelic hosts, and all the heavenly multitudes, that He may forgive us our sins."

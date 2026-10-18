@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ: ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲛⲉⲙ ⲡⲓⲓⲉⲣⲟⲯⲁⲗⲧⲏⲥ: Ⲇⲁⲩⲓⲇ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
    "translations": {
     "english": "Let us give thanks, to Christ our God, with David the prophet, and psalmist.",
@@ -36,6 +37,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ϫⲉ ⲁϥⲑⲁⲙⲓⲟ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ̀: ⲛⲉⲙ ⲛⲟⲩⲇⲩⲛⲁⲙⲓⲥ: ⲁϥϩⲓⲥⲉⲛϯ ⲙ̀ⲡⲓⲕⲁϩⲓ: ⲉ̀ϩ̀ⲣⲏⲓ ϩⲓϫⲉⲛ ⲛⲓⲙⲱⲟⲩ.",
    "translations": {
     "english": "For He has made the heavens, and all its hosts, and established the earth, on the waters.",
@@ -61,6 +63,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲛⲁⲓⲛⲓϣϯ ⲙ̀ⲫⲱⲥⲧⲏⲣ: ⲡⲓⲣⲏ ⲛⲉⲙ ⲡⲓⲓⲟϩ: ⲁϥⲭⲁⲩ ⲉⲩⲉⲣⲟⲩⲱⲓⲛⲓ: ϧⲉⲛ ⲡⲓⲥ̀ⲧⲉⲣⲉⲱ̀ⲙⲁ.",
    "translations": {
     "english": "These two great stars, the sun and the moon, He has made to enlighten, the firmament.",
@@ -86,6 +89,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲁϥⲓ̀ⲛⲓ ⲛ̀ϩⲁⲛⲑⲏⲟⲩ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉϥⲁ̀ϩⲱⲣ: ⲁϥⲛⲓϥⲓ ⲛ̀ⲥⲁ ⲛⲓϣ̀ϣⲏⲛ: ϣⲁ ⲛ̀ⲧⲟⲩⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "He brought forth the winds, out of His treasure box, He breathed unto the trees, and they blossomed.",
@@ -111,6 +115,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲁϥϩⲱⲟⲩ ⲛ̀ⲟⲩⲙⲟⲩⲛϩⲱⲟⲩ: ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ: ϣⲁ ⲛ̀ⲧⲉϥⲣⲱⲧ ⲉ̀ⲡ̀ϣⲱⲓ: ⲛ̀ⲧⲉϥϯ ⲙ̀ⲡⲉϥⲟⲩⲧⲁϩ.",
    "translations": {
     "english": "He caused the rain to fall, upon the face of the earth, and it sprouted, and gave its fruit.",
@@ -136,6 +141,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲁϥⲓ̀ⲛⲓ ⲛ̀ⲟⲩⲙⲱⲟⲩ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲟⲩⲡⲉⲧⲣⲁ: ⲁϥⲧ̀ⲥⲟ ⲙ̀ⲡⲉϥⲗⲁⲟⲥ: ⲛ̀ϩ̀ⲣⲏⲓ ϩⲓ ⲡ̀ϣⲁϥⲉ.",
    "translations": {
     "english": "He brought forth water, out of a rock, and gave it to His people, in the wilderness.",
@@ -161,6 +167,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲁϥⲑⲁⲙⲓⲟ ⲙ̀ⲡⲓⲣⲱⲙⲓ: ⲕⲁⲧⲁ ⲡⲉϥⲓ̀ⲛⲓ: ⲛⲉⲙ ⲧⲉϥϩⲓⲕⲱⲛ: ⲉⲑⲣⲉϥⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ.",
    "translations": {
     "english": "He made man, in His image, and His likeness, that he may praise Him.",
@@ -186,6 +193,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲙⲁⲣⲉⲛϩⲱⲥ ⲉ̀ⲣⲟϥ: ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲡⲉϥⲣⲁⲛ: ⲧⲉⲛⲟⲩⲱⲛϩ ⲛⲁϥ ⲉ̀ⲃⲟⲗ: ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Let us praise Him, and exalt His name, and give thanks to Him, His mercy endures forever.",
@@ -211,6 +219,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡⲓⲓⲉⲣⲟⲯⲁⲗⲧⲏⲥ Ⲇⲁⲩⲓⲇ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Through the prayers, of David the psalmist, O Lord grant us, the forgiveness of our sins.",
@@ -236,6 +245,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Through the intercessions, of the Mother of God Saint Mary, O Lord grant us, the forgiveness of our sins.",
@@ -261,6 +271,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Through the intercessions, of all the heavenly hosts, O Lord grant us, the forgiveness of our sins.",
@@ -289,6 +300,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲁ̀ⲗⲏⲑⲱⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "Blessed are You indeed, with Your good Father, and the Holy Spirit, for You have (risen/come) and saved us.",

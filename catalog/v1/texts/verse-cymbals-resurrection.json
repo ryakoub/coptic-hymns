@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲁ̀ Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛ̀ⲑⲟϥ ⲡⲉ ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ.",
    "translations": {
     "english": "Christ our God, has risen from the dead, He is the first-fruit, of those who departed."
@@ -13,6 +14,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ Ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ: ⲉ̀ⲧⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Hail to His Resurrection, when He rose from the dead, that He may save us, from our sins."
@@ -20,6 +22,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲕⲁⲧⲁ ⲛⲓⲥ̀ⲙⲏ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ: ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ: Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ.",
    "translations": {
     "english": "Moreover He was placed in the tomb, according to the prophetic voices, on the third day, Christ rose from the dead."
@@ -27,6 +30,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲗⲟⲅⲟⲥ.",
    "translations": {
     "english": "Hail to you O Mary, the beautiful dove, who gave birth to, God the Word."
@@ -48,6 +52,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ.",
    "translations": {
     "english": "Hail to you O Mary, a holy hail, hail to you O Mary, the Mother of the Holy One."
@@ -69,6 +74,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲡⲓⲭ̀ⲣⲓⲙⲁⲛ ⲛ̀ⲟⲩⲅⲁⲓ: ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ.",
    "translations": {
     "english": "Hail to Michael, the great archangel, the announcer of salvation, of the Resurrection."
@@ -90,6 +96,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲛ̀ⲥⲁϥ ⲛⲉⲙ ⲫⲟⲟⲩ: ⲛ̀ⲑⲟϥ ⲛ̀ⲑⲟϥ ⲡⲉ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ: ϧⲉⲛ ⲟⲩϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛ̀ⲟⲩⲱⲧ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ.",
    "translations": {
     "english": "Jesus Christ the same yesterday, today and forever, in one hypostasis, we worship and glorify Him."

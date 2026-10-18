@@ -44,6 +44,21 @@ AUDIO_PREFERENCE = ["audio.seek.m4a", "audio.m4a", "audio.mp3"]  # same order as
 LINE_TEXT_KEYS = ("coptic", "translations", "transliterations", "sung", "role", "label", "static")
 
 
+def sides(lines, group):
+    """Which side of the choir sings each line (0 or 1), for colouring alternate verses as the website does.
+    Lines with "side" given (from the books' marks) say so; otherwise verses alternate, `group` at a time
+    (Aripsalin and the Psalis go by two). Headings and fixed lines have none."""
+    explicit = any("side" in l for l in lines)
+    out, n = [], 0
+    for l in lines:
+        if l.get("label") or l.get("static"):
+            out.append(None)
+            continue
+        out.append(int(l.get("side", 0)) if explicit else (n // max(group, 1)) % 2)
+        n += 1
+    return out
+
+
 def sha256_bytes(data):
     return hashlib.sha256(data).hexdigest()
 
@@ -139,8 +154,11 @@ class Build:
     def add_text(self, tid, info, lines, rid):
         """Text lines get stable ids l1, l2, … in order; timings refer to them."""
         tlines = []
+        side = sides(lines, int(info.get("antiphonalGroup", 1)))
         for i, l in enumerate(lines, 1):
             t = {"id": f"l{i}"}
+            if side[i - 1] is not None:
+                t["side"] = side[i - 1]
             for k in LINE_TEXT_KEYS:
                 if l.get(k):
                     t[k] = l[k]

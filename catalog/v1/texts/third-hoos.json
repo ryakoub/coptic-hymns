@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Blessed are You O Lord God of our fathers, and exceedingly to be blessed and exalted above all forever.",
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡⲓⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ: ϥ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϥ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Blessed is Your holy name and Your glory, and exceedingly to be blessed and exalted above all forever.",
@@ -49,6 +51,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲉⲣⲫⲉⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ ⲉⲑⲟⲩⲁⲃ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Blessed are You in the holy temple of Your glory, and exceedingly to be blessed and exalted above all forever.",
@@ -68,6 +71,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲫⲏⲉⲑⲛⲁⲩ ⲉ̀ⲛⲓⲛⲟⲩⲛ ⲉϥϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Blessed are You who beholds the depths and sits upon the Cherubim, and exceedingly to be blessed and exalted above all forever.",
@@ -87,6 +91,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Blessed are You on the throne of Your kingdom, and exceedingly to be blessed and exalted above all forever.",
@@ -106,6 +111,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲥ̀ⲧⲉⲣⲉⲱ̀ⲙⲁ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲕ̀ⲉⲣϩⲟⲩⲟ̀ ϭⲓⲥⲓ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Blessed are You in the firmament of heaven, and exceedingly to be blessed and exalted above all forever.",
@@ -125,6 +131,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩ̀ⲃⲏⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you works of the Lord, praise Him and exalt Him above all forever.",
@@ -147,6 +154,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲫⲏⲟⲩⲓ̀: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O heaven, praise Him and exalt Him above all forever.",
@@ -166,6 +174,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you angels of the Lord, praise Him and exalt Him above all forever.",
@@ -185,6 +194,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲧⲥⲁ ⲡ̀ϣⲱⲓ ⲛ̀ⲧ̀ⲫⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you waters above the heaven, praise Him and exalt Him above all forever.",
@@ -204,6 +214,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϫⲟⲙ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you powers of the Lord, praise Him and exalt Him above all forever.",
@@ -223,6 +234,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲣⲏ ⲛⲉⲙ ⲡⲓⲓⲟϩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O sun and moon, praise Him and exalt Him above all forever.",
@@ -242,6 +254,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲥⲓⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you stars of heaven, praise Him and exalt Him above all forever.",
@@ -261,6 +274,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲟⲩⲛϩⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲱϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you rain and dew, praise Him and exalt Him above all forever.",
@@ -280,6 +294,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϭⲏⲡⲓ ⲛⲉⲙ ⲛⲓⲑⲏⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you clouds and winds, praise Him and exalt Him above all forever.",
@@ -299,6 +314,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you spirits, praise Him and exalt Him above all forever.",
@@ -318,6 +334,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲙⲁ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O fire and heat, praise Him and exalt Him above all forever.",
@@ -337,6 +354,7 @@
   },
   {
    "id": "l18",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲱ̀ϫⲉⲃ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲥⲱⲛ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O cold and heat, praise Him and exalt Him above all forever.",
@@ -356,6 +374,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲓⲱϯ ⲛⲉⲙ ⲛⲓⲛⲓϥⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you dew and winds, praise Him and exalt Him above all forever.",
@@ -375,6 +394,7 @@
   },
   {
    "id": "l20",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ϫⲱⲣϩ ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you nights and days, praise Him and exalt Him above all forever.",
@@ -397,6 +417,7 @@
   },
   {
    "id": "l21",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛⲉⲙ ⲡⲓⲭⲁⲕⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O light and darkness, praise Him and exalt Him above all forever.",
@@ -416,6 +437,7 @@
   },
   {
    "id": "l22",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓϫⲁϥ ⲛⲉⲙ ⲡⲓⲱ̀ϫⲉⲃ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O frost and cold, praise Him and exalt Him above all forever.",
@@ -435,6 +457,7 @@
   },
   {
    "id": "l23",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ϯⲡⲁⲭⲛⲏ ⲛⲉⲙ ⲡⲓⲭⲓⲱⲛ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O snow and ice, praise Him and exalt Him above all forever.",
@@ -454,6 +477,7 @@
   },
   {
    "id": "l24",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲥⲉⲧⲉⲃⲣⲏϫ ⲛⲉⲙ ⲛⲓϭⲏⲡⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you lightnings and clouds, praise Him and exalt Him above all forever.",
@@ -473,6 +497,7 @@
   },
   {
    "id": "l25",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲡⲓⲕⲁϩⲓ ⲧⲏⲣϥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all the earth, praise Him and exalt Him above all forever.",
@@ -492,6 +517,7 @@
   },
   {
    "id": "l26",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲧⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲕⲁⲗⲁⲙⲫⲱⲟⲩ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you mountains and all hills, praise Him and exalt Him above all forever.",
@@ -511,6 +537,7 @@
   },
   {
    "id": "l27",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏ ⲧⲏⲣⲟⲩ ⲉⲧⲣⲏⲧ ϩⲓϫⲉⲛ ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you things that spring up on the earth, praise Him and exalt Him above all forever.",
@@ -533,6 +560,7 @@
   },
   {
    "id": "l28",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲙⲟⲩⲙⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you fountains, praise Him and exalt Him above all forever.",
@@ -552,6 +580,7 @@
   },
   {
    "id": "l29",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲁ̀ⲙⲁⲓⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲁⲣⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you seas and rivers, praise Him and exalt Him above all forever.",
@@ -571,6 +600,7 @@
   },
   {
    "id": "l30",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲕⲏⲧⲟⲥ ⲛⲉⲙ ⲉⲛⲭⲁⲓ ⲛⲓⲃⲉⲛ ⲉⲧⲕⲓⲙ ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you whales and all that moves in the waters, praise Him and exalt Him above all forever.",
@@ -590,6 +620,7 @@
   },
   {
    "id": "l31",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩⲁⲗⲁϯ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you birds of the sky, praise Him and exalt Him above all forever.",
@@ -609,6 +640,7 @@
   },
   {
    "id": "l32",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲑⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲛⲓⲧⲉⲃⲛⲱⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord all you wild beasts and cattle, praise Him and exalt Him above all forever.",
@@ -628,6 +660,7 @@
   },
   {
    "id": "l33",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲛⲓⲣⲱⲙⲓ: ⲟⲩⲱϣⲧ ⲙ̀Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you sons of men, worship the Lord, praise Him and exalt Him above all forever.",
@@ -650,6 +683,7 @@
   },
   {
    "id": "l34",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲓⲥⲣⲁⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O Israel, praise Him and exalt Him above all forever.",
@@ -669,6 +703,7 @@
   },
   {
    "id": "l35",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲟⲩⲏⲃ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you priests of the Lord, praise Him and exalt Him above all forever.",
@@ -688,6 +723,7 @@
   },
   {
    "id": "l36",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ⲃⲓⲁⲓⲕ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you servants of the Lord, praise Him and exalt Him above all forever.",
@@ -707,6 +743,7 @@
   },
   {
    "id": "l37",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲛⲉⲙ ⲛⲓⲯⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲓⲑ̀ⲙⲏⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you spirits and souls of the just, praise Him and exalt Him above all forever.",
@@ -726,6 +763,7 @@
   },
   {
    "id": "l38",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ ϧⲉⲛ ⲡⲟⲩϩⲏⲧ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you holy and humble of heart, praise Him and exalt Him above all forever.",
@@ -745,6 +783,7 @@
   },
   {
    "id": "l39",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ Ⲙⲓⲥⲁⲏⲗ ⲕⲉ Ⲇⲁⲛⲓⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O Hananiah Azariah Mishael and Daniel, praise Him and exalt Him above all forever.",
@@ -764,6 +803,7 @@
   },
   {
    "id": "l40",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you who worship the Lord the God of our fathers, praise Him and exalt Him above all forever.",

@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲁⲓⲕⲱϯ ⲛ̀ⲥⲱⲕ: ϧⲉⲛ ⲡ̀ϣⲱⲕ ⲙ̀ⲡⲁϩⲏⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲃⲱⲗ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: ⲛ̀ⲛⲓⲥ̀ⲛⲁⲩϩ ⲛ̀ⲧⲉ ⲫ̀ⲛⲟⲃⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "I sought after You, from the depths of my heart, my Lord Jesus, help me. Loosen for me, all the bonds of sin, my Lord Jesus Christ, help me.",
@@ -48,6 +49,7 @@
   },
   {
    "id": "l2",
+   "side": 0,
    "coptic": "Ⲅⲉⲛⲧⲏⲓ ⲙ̀ⲃⲟⲏ̀ⲑⲟⲥ: ⲉⲑⲣⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲇⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ: ⲙⲁⲣⲉⲥⲧⲁϩⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Be a help to me, so that You may save me, my Lord Jesus, help me. May Your goodness, come speedily to me, my Lord Jesus Christ, help me.",
@@ -85,6 +87,7 @@
   },
   {
    "id": "l3",
+   "side": 1,
    "coptic": "Ⲉⲕⲉⲣϧⲏⲓⲃⲓ ⲉ̀ϫⲱⲓ: ϧⲁ ⲧ̀ϧⲏⲓⲃⲓ ⲛ̀ⲧⲉ ⲛⲉⲕⲧⲉⲛϩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲥⲟⲟⲩ (ⲋ) ⲅⲁⲣ ⲛ̀ⲉ̀ϩⲟⲟⲩ: ⲁⲕⲑⲁⲙⲓⲟ ⲛ̀ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Overshadow me, with the shadow of Your wings, my Lord Jesus, help me. In six days You have made, all the creation, my Lord Jesus Christ, help me.",
@@ -122,6 +125,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ: ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲏⲥ ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: ⲥⲉϯⲱ̀ⲟⲩ ⲙ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Seven times everyday, I will praise Your name, my Lord Jesus, help me. All the creation, glorifies Your name, my Lord Jesus Christ, help me.",
@@ -159,6 +163,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧϭⲟⲓⲥ: ⲛⲉⲙ ϯⲉⲝⲟⲩⲥⲓⲁ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲓⲱⲥ ⲙ̀ⲙⲟⲕ Ⲡⲁⲛⲟⲩϯ: ⲉⲑⲣⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Yours is the lordship, and the authority, my Lord Jesus, help me. Make haste O my God, so that You may save me, my Lord Jesus Christ, help me.",
@@ -196,6 +201,7 @@
   },
   {
    "id": "l6",
+   "side": 0,
    "coptic": "Ⲕⲉⲗⲓ ⲛⲓⲃⲉⲛ ⲥⲉⲕⲱⲗϫ: ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲉ̀ⲃⲟⲗ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲗⲁⲥ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Every knee, bows down before You, my Lord Jesus, help me. All the diverse tongues, together bless Your name, my Lord Jesus Christ, help me.",
@@ -233,6 +239,7 @@
   },
   {
    "id": "l7",
+   "side": 1,
    "coptic": "Ⲙⲁⲧⲁⲥⲑⲟ ⲙ̀ⲡⲉⲕϩⲟ: ⲥⲁⲃⲟⲗ ⲛ̀ⲛⲁⲛⲟⲃⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ ⲧⲏⲣⲟⲩ: Ⲫ̀ⲛⲟⲩϯ ⲉⲕⲉ̀ⲥⲱⲗϫⲟⲩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Turn away Your face, from all of my sins, my Lord Jesus, help me. Blot out O God, all my iniquities, my Lord Jesus Christ, help me.",
@@ -270,6 +277,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲝ̀ⲟⲩⲱⲛ ⲛ̀ⲛⲁⲙⲉⲩⲓ̀: ⲕ̀ϧⲟⲧϧⲉⲧ ⲛ̀ⲛⲁϭⲗⲱⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ Ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲉⲕⲉ̀ⲥⲟⲛⲧϥ ⲛ̀ϧⲏⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "You know my thoughts, and You search my reins, my Lord Jesus, help me. Create in me, a clean heart, my Lord Jesus Christ, help me.",
@@ -310,6 +318,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲙ̀ⲡⲉⲣⲟⲗϥ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲣⲉⲕⲡⲉⲕⲙⲁϣϫ ⲉ̀ⲣⲟⲓ: ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Your Holy Spirit, do not take away from me, my Lord Jesus, help me. Incline Your ears, make haste and hear me, my Lord Jesus Christ, help me.",
@@ -347,6 +356,7 @@
   },
   {
    "id": "l10",
+   "side": 0,
    "coptic": "Ⲥⲉⲙⲛⲉ ⲛⲟⲙⲟⲥ ⲛⲏⲓ: ϩⲓ ⲫ̀ⲙⲱⲓⲧ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ: ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲉ̀ⲛⲉϩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Set before me a law, in the way of Your justice, my Lord Jesus, help me. Your kingdom O my God, is an eternal kingdom, my Lord Jesus Christ, help me.",
@@ -384,6 +394,7 @@
   },
   {
    "id": "l11",
+   "side": 1,
    "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ: ⲁⲓⲛⲁϩϯ ⲉ̀ⲣⲟⲕ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ: ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛⲁⲓ ⲛⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "You are the Son of God, I believe in You, my Lord Jesus, help me. You who carries the sins of the world, have mercy upon me, my Lord Jesus Christ, help me.",
@@ -421,6 +432,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲁ̀ϣⲁⲓ: ⲛ̀ⲧⲉ ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Forgive me the multitude, of my transgressions, my Lord Jesus, help me. All of the souls, together bless Your name, my Lord Jesus Christ, help me.",
@@ -461,6 +473,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ ⲛⲉⲙⲏⲓ: ⲙ̀ⲡⲉⲣⲧⲁⲕⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϣⲁⲓⲧⲱⲛⲧ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ: ⲛ̀ⲧⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Have patience with me, do not hasten to destroy me, my Lord Jesus, help me. Early in the morning, I will rise and bless Your name, my Lord Jesus Christ, help me.",
@@ -498,6 +511,7 @@
   },
   {
    "id": "l14",
+   "side": 0,
    "coptic": "Ϥ̀ϩⲟⲗϫ ⲛ̀ϫⲉ ⲡⲉⲕⲛⲁϩⲃⲉϥ: ⲧⲉⲕⲉⲧⲫⲱ ⲁⲓⲥⲓⲱ̀ⲟⲩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϧⲉⲛ ⲟⲩⲥⲏⲟⲩ ⲉϥϣⲏⲡ: ⲉⲕⲉ̀ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Your yoke is sweet, and Your burden is light, my Lord Jesus, help me. In the accepted time, hear me, my Lord Jesus Christ, help me.",
@@ -535,6 +549,7 @@
   },
   {
    "id": "l15",
+   "side": 1,
    "coptic": "Ϩⲱⲥ ⲟⲩϣⲟⲩⲙⲉⲛⲣⲓⲧϥ: ⲡⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϫⲱⲣ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: ⲛ̀ⲇⲓⲁⲃⲟⲗⲏ ⲛⲓⲃⲉⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "O how beloved, is Your holy name, my Lord Jesus, help me. Disperse away from me, all of the devils, my Lord Jesus Christ, help me.",
@@ -575,6 +590,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ϭⲟ ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧ: ⲙ̀ⲡ̀ⲟⲩⲧⲁϩ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϯⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲙ̀ⲙⲏⲓ: ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
     "english": "Sow within me, the seed of Your righteousness, my Lord Jesus, help me. Grant us Your true peace, and forgive us our sins, my Lord Jesus Christ, help me.",

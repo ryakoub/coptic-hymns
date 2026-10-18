@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲙ̀ⲙⲁϩϣⲟⲙⲧ. Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
    "translations": {
     "english": "Alleluia, alleluia. Jesus Christ the King of glory, has risen from the dead on the third day. Alleluia, alleluia."

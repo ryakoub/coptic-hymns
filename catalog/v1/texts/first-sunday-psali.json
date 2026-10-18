@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ: ⲁⲓⲥⲁϫⲓ ϧⲉⲛ ⲟⲩϫⲟⲙ: ⲉⲑⲃⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ: Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ Ⲡⲁϭⲟⲓⲥ: Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲣⲉϥϣⲉⲛϩⲏⲧ: ⲉⲑⲣⲓϯⲱ̀ⲟⲩ ⲛ̀ⲧⲁϭⲟⲓⲥ: Ⲧⲉⲕⲙⲁⲩ ⲛ̀ϣⲉⲗⲉⲧ.",
    "translations": {
     "english": "I believe wherefore I spoke, with great strength, about Your great mercy, O Lord of powers. Help me my Lord, Jesus the Compassionate, to glorify my Lady, Your Mother the bride.",
@@ -45,6 +46,7 @@
   },
   {
    "id": "l2",
+   "side": 0,
    "coptic": "Ⲅⲉ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲁⲥϭⲓⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲛ̀ϫⲉ ⲧⲁⲓⲠⲁⲣⲑⲉⲛⲟⲥ: ⲉⲑⲙⲉϩ ⲛ̀ⲧⲁⲓⲟ. Ⲇⲁⲩⲓⲇ ⲁϥⲥⲁϫⲓ ⲉⲑⲃⲏⲧⲥ: ϫⲉ ⲁ̀Ⲡ̀ϭⲟⲓⲥ ⲥⲱⲧⲡ ⲛ̀Ⲥⲓⲱⲛ: ⲁϥⲓ̀ ⲁϥϣⲱⲡⲓ ⲛ̀ϧⲏⲧⲥ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "For truly, this Virgin, who is full of honor, was greatly exalted. David spoke of her saying, \"The Lord has chosen Zion, He came and dwelt in her, in order to save us.\"",
@@ -82,6 +84,7 @@
   },
   {
    "id": "l3",
+   "side": 1,
    "coptic": "Ⲉ̀ⲧⲉ ⲑⲁⲓ ⲧⲉ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲧⲁⲥⲓ̀ⲛⲓ ϣⲁⲣⲟⲛ: ⲛ̀ϯⲉ̀ⲗⲉⲑⲩⲣⲓⲁ: ⲛ̀ⲉ̀ⲱ̀ⲛⲓⲟⲛ. Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲁϥϫⲟⲥ: ϫⲉ ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲑⲏⲉ̀ⲧⲁⲩⲑⲁⲙⲓⲟⲥ: ϧⲉⲛ ϩⲁⲛϫⲓϫ ⲛ̀ⲛⲟⲩⲃ.",
    "translations": {
     "english": "This is Mary, who brought unto us, the eternal, freedom. Zachariah has said, \"The golden lampstand, which was made, with golden hands.\"",
@@ -119,6 +122,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲏ̀ⲥⲁⲏ̀ⲁⲥ ⲁϥϫⲟⲥ ⲛⲁⲛ: ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ϫⲉ ⲉⲥⲉ̀ⲙⲓⲥⲓ ⲛⲁⲛ: ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ. Ⲑⲁⲓ ⲧⲉ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲧ̀ⲡⲟⲗⲓⲥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ: ⲡ̀ϩⲁⲣⲙⲁ ⲛ̀Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲑⲟ ⲛ̀ⲣⲏϯ.",
    "translations": {
     "english": "Isaiah said to us, with a joyful voice, that \"She will give birth to, Emmanuel for us.\" + This is Jerusalem, the city of our God, the throne of all ranks, of the Cherubim.",
@@ -159,6 +163,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲓⲉⲍⲉⲕⲓⲏⲗ ⲁⲩⲉⲣⲙⲉⲑⲣⲉ: ⲁϥⲟⲩⲱⲛϩ ⲛⲁⲛ ⲙ̀ⲫⲁⲓ: ϫⲉ ⲁⲓⲛⲁⲩ ⲉ̀ⲟⲩⲡⲩⲗⲏ: ⲛ̀ⲥⲁ ⲛⲓⲙⲁⲛϣⲁⲓ. Ⲕⲩⲣⲓⲟⲥ Ⲡⲓⲣⲉϥⲛⲟϩⲉⲙ: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ϣⲁⲣⲟⲥ: ⲁⲥⲟ̀ϩⲓ ⲉⲥϣⲟⲧⲉⲙ: ⲙ̀ⲡⲉⲥⲣⲏϯ ⲕⲁⲗⲱⲥ.",
    "translations": {
     "english": "Ezekiel has witnessed, and revealed this to us, saying \"I saw a door, to the east. The Lord the Savior, entered into it, and it remained, thoroughly shut as before.\"",
@@ -196,6 +201,7 @@
   },
   {
    "id": "l6",
+   "side": 0,
    "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ: ⲛⲉⲙ ⲛⲓⲁⲥⲡⲓ ⲛ̀ⲗⲁⲥ: ⲉ̀Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲙⲁⲥⲓⲁⲥ. Ⲙⲁⲣⲓⲁ ϯⲥⲉⲙⲛⲉ: ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ: ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲫ̀ⲣⲁϣⲓ ⲛ̀ⲛⲓⲡⲓⲥⲧⲟⲥ.",
    "translations": {
     "english": "All the nations sing, with different tongues, to the Theotokos, the Mother of the Messiah. Mary the chaste, the joy of the righteous, and truly she is the joy, of the faithful.",
@@ -233,6 +239,7 @@
   },
   {
    "id": "l7",
+   "side": 1,
    "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲧⲁ Ⲙⲱⲩ̀ⲥⲏⲥ ⲑⲁⲙⲓⲟⲥ: ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲛ̀ⲧⲓⲙⲏ: ⲟⲩⲟϩ ⲛ̀ϯⲕⲓⲃⲱⲧⲟⲥ. Ⲝⲁⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲙⲉⲩⲓ̀: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ⲛ̀ϫⲉ ⲡⲁⲓϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲛ̀ⲧⲉ ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ.",
    "translations": {
     "english": "You are the tabernacle, and the ark, which Moses has made, with great honor. Beyond all the thoughts, of the heavens, is this mysterious matter, of the mercy seat.",
@@ -270,6 +277,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲟⲩⲛⲓϣϯ ⲡⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ. Ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ: ⲟⲩⲟϩ ϯⲗⲩⲭⲛⲓⲁ: ϯϣⲟⲩⲣⲏ ⲉⲧⲧⲟⲩⲃⲏⲟⲩⲧ: ⲉⲑⲙⲉϩ ⲛ̀ⲉⲩⲗⲟⲅⲓⲁ.",
    "translations": {
     "english": "Great is the glory, of your virginity, O full of glory, O Saint Mary. The honored vessel, and the lampstand, the pure censer, full of blessings.",
@@ -307,6 +315,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲣⲁⲛ ⲛⲓⲃⲉⲛ ⲉⲧϭⲟⲥⲓ: ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲙ̀ⲡⲟⲩϣ̀ⲫⲟϩ ⲉ̀ⲡ̀ϭⲓⲥⲓ: ⲛ̀ⲧⲉ ⲛⲉⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ. Ⲥⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ⲡⲓϣ̀ⲃⲱⲧ: ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ ⲁϥⲣⲱⲧ: ⲟⲩⲟϩ ⲁϥϯⲕⲁⲣⲡⲟⲛ.",
    "translations": {
     "english": "All the high names, of the incorporeal, did not reach the height, of your blessedness. You resemble the rod, of Aaron, which blossomed and budded, and produced its fruit.",
@@ -344,6 +353,7 @@
   },
   {
    "id": "l10",
+   "side": 0,
    "coptic": "Ⲧⲉϭⲟⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲉ̀ϩⲟⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ϩⲟⲩⲟ̀: ⲉ̀Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ. Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲁ̀ⲣⲉⲙⲓⲥⲓ ⲙ̀ⲙⲟϥ: ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ ϩⲱⲥ Ⲛⲟⲩϯ: ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ.",
    "translations": {
     "english": "You are exalted, more than the Cherubim, and honored more, than the Seraphim. The Son of God our God, you gave birth to, we glorify Him as God, and also worship Him.",
@@ -381,6 +391,7 @@
   },
   {
    "id": "l11",
+   "side": 1,
    "coptic": "Ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ: ⲁϥⲟⲩⲱⲛϩ ⲛ̀ⲛⲉϥⲙⲏⲓⲛⲓ: ⲁ̀ⲣⲉϯ ⲉ̀ⲣⲱϯ ⲉ̀ⲣⲱϥ. Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲉⲑⲙⲉϩ ⲛ̀ⲥⲟⲫⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
    "translations": {
     "english": "He who abides in light, whom no one can approach, showed us His miracles, and you fed Him. Hail to you Mary, the beautiful dove, full of wisdom, the Mother of Jesus Christ.",
@@ -418,6 +429,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲯⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲉⲛⲉ̀ϩⲟⲟⲩ: ⲧⲉⲛⲉⲣⲉⲩⲫⲟⲙⲓⲛ ⲙ̀ⲙⲟ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ⲧⲉϫⲟⲗϩ ⲙ̀ⲡⲓⲧⲟⲩⲃⲟ. Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ: ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲃⲱⲕ: ⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲉⲛⲛⲟⲃⲓ: ⲟⲩⲟϩ ϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟⲕ.",
    "translations": {
     "english": "For the rest of our days, we will praise you, O full of glory, and clothed with purity. Be patient O Lover of Man, with Your servant, and forgive us our sins, and accept us.",

@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ Ⲡⲁⲛⲟⲩϯ: ϩⲁⲛⲁⲧϭⲓⲏ̀ⲡⲓ ⲙ̀ⲙⲱⲟⲩ: ⲥⲉⲟϣ ⲉ̀ⲙⲁϣⲱ: ⲛ̀ϫⲉ ⲛⲉⲕⲙⲉⲧϣⲉⲛϩⲏⲧ.",
    "translations": {
     "english": "Your mercies O my God, are countless, and exceedingly plenteous, are Your compassion.",
@@ -36,6 +37,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲛⲓⲧⲉⲗⲧⲓⲗⲓ ⲙ̀ⲙⲟⲩⲛϩⲱⲟⲩ: ⲥⲉⲏⲡ ⲛ̀ⲧⲟⲧⲕ ⲧⲏⲣⲟⲩ: ⲡⲓⲕⲉϣⲱ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ: ⲥⲉⲭⲏ ⲛⲁϩⲣⲉⲛ ⲛⲉⲕⲃⲁⲗ.",
    "translations": {
     "english": "All the rain drops, are counted by You, and the sand of the sea, is before Your eyes.",
@@ -61,6 +63,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲓⲉ ⲁⲩⲏⲣ ⲙⲁⲗⲗⲟⲛ: ⲛⲓⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲧⲁⲯⲩⲭⲏ: ⲛⲁⲓ ⲉⲑⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ Ⲡⲁϭⲟⲓⲥ.",
    "translations": {
     "english": "How much more are, the sins of my soul, manifest before You, O my Lord.",
@@ -86,6 +89,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲛⲓⲛⲟⲃⲓ ⲉ̀ⲧⲁⲓⲁⲧⲟⲩ: Ⲡⲁϭⲟⲓⲥ ⲛ̀ⲛⲉⲕⲉⲣⲡⲟⲩⲙⲉⲩⲓ̀: ⲟⲩⲇⲉ ⲙ̀ⲡⲉⲣϯϩ̀ⲑⲏⲕ: ⲉ̀ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ.",
    "translations": {
     "english": "The sins that I have committed, do not remember my Lord, and do not count, my iniquities.",
@@ -111,6 +115,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ϫⲉ ⲡⲓⲧⲉⲗⲱⲛⲏⲥ ⲁⲕⲥⲟⲧⲡϥ: ϯⲡⲟⲣⲛⲏ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲥ: ⲡⲓⲥⲟⲛⲓ ⲉⲧⲥⲁⲟⲩⲓ̀ⲛⲁⲙ: Ⲡⲁϭⲟⲓⲥ ⲁⲕⲉⲣⲡⲉϥⲙⲉⲩⲓ̀.",
    "translations": {
     "english": "For You have chosen the publican, and the adulteress You have saved, and the right-hand thief, my Lord You have remembered.",
@@ -139,6 +144,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲁ̀ⲛⲟⲕ ϩⲱ Ⲡⲁϭⲟⲓⲥ: ϧⲁ ⲡⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ: ⲙⲁⲧ̀ⲥⲁⲃⲟⲓ ⲛ̀ⲧⲁⲓ̀ⲣⲓ: ⲛ̀ⲟⲩⲙⲉⲧⲁⲛⲟⲓⲁ.",
    "translations": {
     "english": "And me too, the sinner, teach me O my Master, to offer repentance.",
@@ -167,6 +173,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ϫⲉ ⲭ̀ⲟⲩⲱϣ ⲙ̀ⲫ̀ⲙⲟⲩ ⲁⲛ: ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲧⲉϥⲧⲁⲥⲑⲟϥ: ⲛ̀ⲧⲉⲥⲱⲛϧ ⲛ̀ϫⲉ ⲧⲉϥⲯⲩⲭⲏ.",
    "translations": {
     "english": "For You do not desire, the death of a sinner, but rather that he returns, and that his soul may live.",
@@ -192,6 +199,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲙⲁⲧⲁⲥⲑⲟⲛ Ⲫ̀ⲛⲟⲩϯ: ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲉⲕⲟⲩϫⲁⲓ: ⲁ̀ⲣⲓⲟⲩⲓ̀ ⲛⲉⲙⲁⲛ: ⲕⲁⲧⲁ ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ.",
    "translations": {
     "english": "Restore us O God, to Your salvation, and deal with us, according to Your goodness.",
@@ -217,6 +225,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ϫⲉ ⲛ̀ⲑⲟⲕ ⲟⲩⲁ̀ⲅⲁⲑⲟⲥ: ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ: ⲙⲁⲣⲟⲩⲧⲁϩⲟⲛ ⲛ̀ⲭⲱⲗⲉⲙ: ⲛ̀ϫⲉ ⲛⲉⲕⲙⲉⲧϣⲉⲛϩⲏⲧ.",
    "translations": {
     "english": "For You are good, and merciful, let Your compassion, speedily come to us.",
@@ -242,6 +251,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ ⲧⲏⲣⲉⲛ: Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ: ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.",
    "translations": {
     "english": "Have compassion upon us all, O Lord God our Savior, and have mercy upon us, according to Your great mercy.",
@@ -267,6 +277,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲛⲁⲓ ⲕ̀ⲓ̀ⲣⲓ ⲙ̀ⲡⲟⲩⲙⲉⲩⲓ̀: ⲱ̀ Ⲡⲉⲛⲛⲏⲃ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲉⲕⲉ̀ϣⲱⲡⲓ ϧⲉⲛ ⲧⲉⲛⲙⲏϯ: ⲉⲕⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲕϫⲱ ⲙ̀ⲙⲟⲥ.",
    "translations": {
     "english": "Remember those, O Christ our Master, be among us, and proclaim and say.",
@@ -292,6 +303,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ϫⲉ ⲧⲁϩⲓⲣⲏⲛⲏ ⲁ̀ⲛⲟⲕ: ϯϯ ⲙ̀ⲙⲟⲥ ⲛⲱⲧⲉⲛ: ⲧ̀ϩⲓⲣⲏⲛⲏ ⲙ̀Ⲡⲁⲓⲱⲧ: ϯⲭⲱ ⲙ̀ⲙⲟⲥ ⲛⲉⲙⲱⲧⲉⲛ.",
    "translations": {
     "english": "\"My peace I, give to you, the peace of My Father, I leave with you.\"",
@@ -317,6 +329,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ: ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲥⲉⲙⲛⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "O King of peace, grant us Your peace, render unto us Your peace, and forgive us our sins.",
@@ -342,6 +355,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲓϫⲁϫⲓ: ⲛ̀ⲧⲉ Ϯⲉⲕⲕⲗⲏⲥⲓⲁ: ⲁ̀ⲣⲓⲥⲟⲃⲧ ⲉ̀ⲣⲟⲥ: ⲛ̀ⲛⲉⲥⲕⲓⲙ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Disperse the enemies, of the Church, and fortify her that she, may not be shaken forever.",
@@ -367,6 +381,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ: ϧⲉⲛ ⲧⲉⲛⲙⲏϯ ϯⲛⲟⲩ: ϧⲉⲛ ⲡ̀ⲱ̀ⲟⲩ ⲛ̀ⲧⲉ Ⲡⲉϥⲓⲱⲧ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.",
    "translations": {
     "english": "Emmanuel our God, is now in our midst, with the glory of His Father, and the Holy Spirit.",
@@ -395,6 +410,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲛ̀ⲧⲉϥⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲛ ⲧⲏⲣⲉⲛ: ⲛ̀ⲧⲉϥⲧⲟⲩⲃⲟ ⲛ̀ⲛⲉⲛϩⲏⲧ: ⲛ̀ⲧⲉϥⲧⲁⲗϭⲟ ⲛ̀ⲛⲓϣⲱⲛⲓ: ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲥⲱⲙⲁ.",
    "translations": {
     "english": "May He bless us all, and purify our hearts, and heal the sicknesses, of our souls and bodies.",
@@ -423,6 +439,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "We worship You O Christ, with Your good Father, and the Holy Spirit, for You have (risen/come) and saved us.",

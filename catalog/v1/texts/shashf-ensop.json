@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡⲁϩⲏⲧ ⲧⲏⲣϥ: ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡ̀ϭⲟⲓⲥ ⲙ̀ⲡⲓⲉ̀ⲡ̀ⲧⲏⲣϥ.",
    "translations": {
     "english": "Seven times every day, I will praise Your name, with all my heart, O God of everyone.",
@@ -36,6 +37,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲁⲓⲉⲣⲫ̀ⲙⲉⲩⲓ̀ ⲙ̀ⲡⲉⲕⲣⲁⲛ: ⲟⲩⲟϩ ⲁⲓϫⲉⲙⲛⲟⲙϯ: Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲛⲓⲉ̀ⲱⲛ: Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲩϯ.",
    "translations": {
     "english": "I remembered Your name, and I was comforted, O King of the ages, and God of all gods.",
@@ -61,6 +63,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: Ⲡⲓⲁ̀ⲗⲏⲑⲓⲛⲟⲥ: ⲫⲏⲉ̀ⲧⲁϥⲓ̀ ⲉⲑⲃⲉ ⲡⲉⲛⲥⲱϯ: ⲁϥⲉⲣⲥⲱⲙⲁⲧⲓⲕⲟⲥ.",
    "translations": {
     "english": "Jesus Christ our true God, who has come, for our salvation, was incarnate.",
@@ -86,6 +89,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲙⲁⲣⲓⲁ: ϯϣⲉⲗⲉⲧ ⲉⲑⲟⲩⲁⲃ.",
    "translations": {
     "english": "He was incarnate, of the Holy Spirit, and of Mary, the pure bride.",
@@ -111,6 +115,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲁϥⲫⲱⲛϩ ⲙ̀ⲡⲉⲛϩⲏⲃⲓ: ⲛⲉⲙ ⲡⲉⲛϩⲟϫϩⲉϫ ⲧⲏⲣϥ: ⲉ̀ⲟⲩⲣⲁϣⲓ ⲛ̀ϩⲏⲧ: ⲛⲉⲙ ⲟⲩⲑⲉⲗⲏⲗ ⲉ̀ⲡ̀ⲧⲏⲣϥ.",
    "translations": {
     "english": "And changed our sorrow, and all our troubles, to joy for our hearts, and total rejoicing.",
@@ -136,6 +141,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩϣⲧ ⲙ̀ⲙⲟϥ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲉⲣϩⲩⲙⲛⲟⲥ: ⲛ̀Ⲧⲉϥⲙⲁⲩ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ.",
    "translations": {
     "english": "Let us worship Him, and sing about His Mother, the Virgin Mary, the beautiful dove.",
@@ -164,6 +170,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ϫⲉ ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
    "translations": {
     "english": "And let us all proclaim, with a voice of joy, saying hail to you Mary, the Mother of Emmanuel.",
@@ -192,6 +199,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲡ̀ⲥⲱϯ ⲛ̀Ⲁ̀ⲇⲁⲙ ⲡⲉⲛⲓⲱⲧ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲓⲙⲁⲙ̀ⲫⲱⲧ: ⲭ̅ⲉ̅: ⲡ̀ⲑⲉⲗⲏⲗ ⲛ̀Ⲉ̀ⲩⲁ: ⲭ̅ⲉ̅: ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀ⲛⲓⲅⲉⲛⲉⲁ̀.",
    "translations": {
     "english": "Hail to you Mary, the salvation of our father Adam, hail... the Mother of the Refuge, hail... the rejoicing of Eve, hail... the joy of all generations.",
@@ -229,6 +237,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲫ̀ⲣⲁϣⲓ ⲛ̀Ⲁ̀ⲃⲉⲗ ⲡⲓⲑ̀ⲙⲏⲓ: ⲭ̅ⲉ̅: Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲭ̅ⲉ̅: ⲫ̀ⲛⲟϩⲉⲙ ⲛ̀Ⲛⲱⲉ̀: ⲭ̅ⲉ̅: ϯⲁⲧⲑⲱⲗⲉⲃ ⲛ̀ⲥⲉⲙⲛⲉ.",
    "translations": {
     "english": "Hail to you Mary, the joy of the righteous Abel, hail... the true Virgin, hail... the salvation of Noah, hail... the chaste and undefiled.",
@@ -269,6 +278,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲡ̀ϩ̀ⲙⲟⲧ ⲛ̀Ⲁⲃⲣⲁⲁⲙ: ⲭ̅ⲉ̅: ⲡⲓⲭ̀ⲗⲟⲙ ⲛ̀ⲁⲑⲗⲱⲙ: ⲭ̅ⲉ̅: ⲡ̀ⲥⲱϯ ⲛ̀Ⲓ̀ⲥⲁⲁⲕ ⲡⲉⲑⲟⲩⲁⲃ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ.",
    "translations": {
     "english": "Hail to you Mary, the grace of Abraham, hail... the unfading crown, hail... the redemption of St. Isaac, hail... the Mother of the Holy.",
@@ -309,6 +319,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲡ̀ⲑⲉⲗⲏⲗ ⲛ̀Ⲓⲁⲕⲱⲃ: ⲭ̅ⲉ̅: ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲕⲱⲃ: ⲭ̅ⲉ̅: ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀Ⲓⲟⲩⲇⲁ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲓⲇⲉⲥⲡⲟⲧⲁ.",
    "translations": {
     "english": "Hail to you Mary, the rejoicing of Jacob, hail... myriads of myriads, hail... the pride of Judah, hail... the Mother of the Master.",
@@ -346,6 +357,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲡ̀ϩⲓⲱⲓϣ ⲙ̀Ⲙⲱⲩ̀ⲥⲏⲥ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲓⲇⲉⲥⲡⲟⲧⲏⲥ: ⲭ̅ⲉ̅: ⲡ̀ⲧⲁⲓⲟ ⲛ̀Ⲥⲁⲙⲟⲩⲏⲗ: ⲭ̅ⲉ̅: ⲡ̀ϣⲟⲩϣⲟⲩ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ.",
    "translations": {
     "english": "Hail to you Mary, the preaching of Moses, hail... the Mother of the Master, hail... the honor of Samuel, hail... the pride of Israel.",
@@ -383,6 +395,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲡ̀ⲧⲁϫⲣⲟ ⲛ̀Ⲓⲱⲃ ⲡⲓⲑ̀ⲙⲏⲓ: ⲭ̅ⲉ̅: ⲡⲓⲱ̀ⲛⲓ ⲛ̀ⲁ̀ⲛⲁⲙⲏⲓ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲓⲙⲉⲛⲣⲓⲧ: ⲭ̅ⲉ̅: ⲧ̀ϣⲉⲣⲓ ⲙ̀ⲡ̀ⲟⲩⲣⲟ Ⲇⲁⲩⲓⲇ.",
    "translations": {
     "english": "Hail to you Mary, the steadfastness of Job the righteous, hail... the precious stone, hail... the Mother of the Beloved, hail... the daughter of King David.",
@@ -423,6 +436,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϣ̀ⲫⲉⲣⲓ ⲛ̀Ⲥⲟⲗⲟⲙⲱⲛ: ⲭ̅ⲉ̅: ⲡ̀ϭⲓⲥⲓ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲛ: ⲭ̅ⲉ̅: ⲡ̀ⲟⲩϫⲁⲓ ⲛ̀Ⲏ̀ⲥⲁⲏ̀ⲁⲥ: ⲭ̅ⲉ̅: ⲡ̀ⲧⲁⲗϭⲟ ⲛ̀Ⲓⲉⲣⲉⲙⲓⲁⲥ.",
    "translations": {
     "english": "Hail to you Mary, the friend of Solomon, hail... the exaltation of the just, hail... the redemption of Isaiah, hail... the healing of Jeremiah.",
@@ -463,6 +477,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲡ̀ⲉ̀ⲙⲓ ⲛ̀Ⲓⲉⲍⲉⲕⲓⲏⲗ: ⲭ̅ⲉ̅: ⲭⲁⲣⲓⲥ ⲧⲟⲩ Ⲇⲁⲛⲓⲏⲗ: ⲭ̅ⲉ̅: ⲧ̀ϫⲟⲙ ⲛ̀Ⲏⲗⲓⲁⲥ: ⲭ̅ⲉ̅: ⲡⲓϩ̀ⲙⲟⲧ ⲛ̀Ⲉ̀ⲗⲓⲥⲉⲟⲥ.",
    "translations": {
     "english": "Hail to you Mary, the knowledge of Ezekiel, hail... the grace of Daniel, hail... the power of Elijah, hail... the grace of Elisha.",
@@ -500,6 +515,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲭ̅ⲉ̅: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲭ̅ⲉ̅: Ⲑ̀ⲙⲁⲩ ⲛ̀Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ.",
    "translations": {
     "english": "Hail to you Mary, the Mother of God, hail... the Mother of Jesus Christ, hail... the beautiful dove, hail... the Mother of the Son of God.",
@@ -537,6 +553,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲧⲁⲩⲉⲣⲙⲉⲑⲣⲉ ⲛⲁⲥ: ⲛ̀ϫⲉ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲧⲏⲣⲟⲩ: ⲟⲩⲟϩ ⲁⲫϫⲱ ⲙ̀ⲙⲟⲥ. Ϩⲏⲡⲡⲉ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲗⲟⲅⲟⲥ: ⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲛ̀ϧⲏϯ: ϧⲉⲛ ⲟⲩⲙⲉⲧⲟⲩⲁⲓ: ⲛ̀ⲁⲧⲥⲁϫⲓ ⲙ̀ⲡⲉⲥⲣⲏϯ.",
    "translations": {
     "english": "Hail to you Mary, who was witnessed by, all the prophets, and they said. Behold God the Word, took flesh from you, in an undescribable, unity.",
@@ -577,6 +594,7 @@
   },
   {
    "id": "l18",
+   "side": 1,
    "coptic": "Ⲧⲉϭⲟⲥⲓ ⲁ̀ⲗⲏⲑⲱⲥ: ⲉ̀ϩⲟⲧⲉ ⲡⲓϣ̀ⲃⲱⲧ: ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ϩ̀ⲙⲟⲧ. Ⲁϣⲡⲉ ⲡⲓϣ̀ⲃⲱⲧ: ⲉ̀ⲃⲏⲗ ⲉ̀Ⲙⲁⲣⲓⲁ: ϫⲉ ⲛ̀ⲑⲟϥ ⲡⲉ ⲡ̀ⲧⲩⲡⲟⲥ: ⲛ̀ⲧⲉⲥⲡⲁⲣⲑⲉⲛⲓⲁ.",
    "translations": {
     "english": "You are truly exalted, more than the rod, of Aaron, O full of grace. What is the rod, but Mary, for it is the symbol, of her virginity.",
@@ -614,6 +632,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲁⲥⲉⲣⲃⲟⲕⲓ ⲁⲥⲙⲓⲥⲓ: ⲭⲱⲣⲓⲥ ⲥⲩⲛⲟⲥⲓⲁ: ⲙ̀Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫⲏⲉⲧϭⲟⲥⲓ: Ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀Ⲁⲓⲇⲓⲁ. Ϩⲓⲧⲉⲛ ⲛⲉⲥⲉⲩⲭⲏ: ⲛⲉⲙ ⲛⲉⲥⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲁ̀ⲟⲩⲱⲛ ⲛⲁⲛ Ⲡ̀ϭⲟⲓⲥ: ⲙ̀ⲫ̀ⲣⲟ ⲛ̀ⲧⲉ Ϯⲉⲕⲕⲗⲏⲥⲓⲁ.",
    "translations": {
     "english": "She conceived and gave birth, without a man, to the Son of the Highest, the Word Himself. Through her prayers, and intercessions, O Lord open unto us, the gates of the Church.",
@@ -651,6 +670,7 @@
   },
   {
    "id": "l20",
+   "side": 1,
    "coptic": "Ϯϯϩⲟ ⲉ̀ⲣⲟ: ⲱ̀ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲭⲁ ⲫ̀ⲣⲟ ⲛ̀ⲛⲓⲉⲕⲕⲗⲏⲥⲓⲁ: ⲉϥⲟⲩⲏⲛ ⲛ̀ⲛⲓⲡⲓⲥⲧⲟⲥ. Ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲥ: ⲉⲑⲣⲉⲥⲧⲱⲃϩ ⲉ̀ϫⲱⲛ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲥⲙⲉⲛⲣⲓⲧ: ⲉⲑⲣⲉϥⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "I entreat you, O Mother of God, keep the gates of the church, open to the faithful. Let us ask her, to intercede for us, before her Beloved, that He may forgive us.",
@@ -688,6 +708,7 @@
   },
   {
    "id": "l21",
+   "side": 0,
    "coptic": "Ϯⲙⲁϩⲯⲓϯ: Ⲁⲩⲙⲟⲩϯ ⲉ̀ⲣⲟ: Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ϫⲉ ϯϩ̀ⲣⲏⲣⲓ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ.",
    "translations": {
     "english": "The Ninth Part: You are called, O Virgin Mary, the holy flower, of the incense.",
@@ -719,6 +740,7 @@
   },
   {
    "id": "l22",
+   "side": 1,
    "coptic": "Ⲑⲏⲉ̀ⲧⲁⲥϯⲟⲩⲱ̀ ⲉ̀ⲡ̀ϣⲱⲓ: ⲁⲥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲑ̀ⲛⲟⲩⲛⲓ ⲛ̀ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
    "translations": {
     "english": "Which came out, and blossomed, from the roots of the patriarchs, and the prophets.",
@@ -744,6 +766,7 @@
   },
   {
    "id": "l23",
+   "side": 0,
    "coptic": "Ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓϣ̀ⲃⲱⲧ: ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ ⲡⲓⲟⲩⲏⲃ: ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ⲁϥⲟⲡⲧ ⲛ̀ⲕⲁⲣⲡⲟⲥ.",
    "translations": {
     "english": "Like the rod, of Aaron the priest, which blossomed, and brought forth fruit.",
@@ -769,6 +792,7 @@
   },
   {
    "id": "l24",
+   "side": 1,
    "coptic": "Ϫⲉ ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲙ̀Ⲡⲓⲗⲟⲅⲟⲥ: ⲁϭⲛⲉ ⲥ̀ⲡⲉⲣⲙⲁ ⲛ̀ⲣⲱⲙⲓ: ⲉⲥⲟⲓ ⲛ̀ⲁⲧⲧⲁⲕⲟ: ⲛ̀ϫⲉ ⲧⲉⲥⲡⲁⲣⲑⲉⲛⲓⲁ.",
    "translations": {
     "english": "For you gave birth to the Word, without the seed of man, and your virginity, was not corrupted.",
@@ -794,6 +818,7 @@
   },
   {
    "id": "l25",
+   "side": 0,
    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ: ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲙⲁϯϩⲟ ⲙ̀Ⲡⲉϣⲏⲣⲓ: ⲉⲑⲣⲉϥⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "Wherefore we magnify you, as the Mother of God, ask your Son, to forgive us.",

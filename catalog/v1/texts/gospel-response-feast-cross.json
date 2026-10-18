@@ -6,6 +6,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ϥ̀ⲧⲁⲓⲏ̀ⲟⲩⲧ ⲅⲁⲣ ⲉ̀ⲙⲁϣⲱ: ⲛ̀ϫⲉ ⲡⲓⲙⲏⲓⲛⲓ ⲛ̀ⲧⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲛ̀ⲧⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ⲟⲩⲣⲟ: Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ.",
    "translations": {
     "english": "For greatly honored, is the sign of the Cross, of Jesus Christ the King, our true God."
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲛⲉⲙ ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲉⲑⲟⲩⲁⲃ: ⲁϥⲧⲁⲥⲑⲟ ⲙ̀ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲕⲉⲥⲟⲡ: ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ.",
    "translations": {
     "english": "Through His Cross: and His holy Resurrection: He restored man once again: to the Paradise."
@@ -48,6 +50,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲙⲁⲣⲓⲁ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "Intercede on our behalf, O the Lady of us all the Theotokos, Mary the Mother of our Savior, that He may forgive us our sins."
@@ -69,6 +72,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡ̀ⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲡⲁⲟ̅ⲥ̅ ⲡ̀ⲟⲩⲣⲟ Ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ: ⲛⲉⲙ Ⲏ̀ⲗⲁⲛⲏ ϯⲟⲩⲣⲱ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "Pray to the Lord on our behalf, my lord King Constantine, and Queen Helen, that He may forgive us our sins."
@@ -90,6 +94,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ.",
    "translations": {
     "english": "Blessed be the Father and the Son, and the Holy Spirit, the perfect Trinity, we worship Him and glorify Him."

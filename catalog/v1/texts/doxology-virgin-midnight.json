@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ: Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲁⲧⲑⲱⲗⲉⲃ: ⲥ̀ⲟ̀ⲛⲓ ⲙ̀ⲡⲓϭⲓⲥⲓ ⲙ̀ⲡⲓⲃⲉⲛⲓ: ⲉ̀ⲧⲁ Ⲥⲟⲗⲟⲙⲱⲛ ⲥⲁϫⲓ ⲉⲑⲃⲏⲧϥ.",
    "translations": {
     "english": "Your greatness O Mary, the undefiled Virgin, is likened to the height of the palm tree, spoken of by Solomon.",
@@ -33,6 +34,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲙⲟⲩⲙⲓ ⲙ̀ⲙⲱⲟⲩ ⲛ̀ⲱⲛϧ: ⲉⲧϧⲁϯ ⲙ̀Ⲡⲓⲗⲓⲃⲁⲛⲟⲥ: ⲉ̀ⲧⲁ ⲡⲓϩ̀ⲙⲟⲧ ⲛ̀ⲧⲉ ϯⲙⲉⲑⲛⲟⲩϯ: ⲃⲉⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧⲥ.",
    "translations": {
     "english": "You are the spring of living water, that flows from Lebanon, for out of you sprang unto us, the grace of the divinity.",
@@ -58,6 +60,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲁ̀ⲣⲉⲙⲓⲥⲓ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ϧⲉⲛ ⲧⲉⲙⲉⲧⲣⲁ ⲙ̀ⲡⲁⲣⲑⲉⲛⲓⲕⲓ: ⲁϥⲁⲓⲧⲉⲛ ⲛ̀ⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲟⲥ: ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲑ̀ⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ̀.",
    "translations": {
     "english": "You gave birth to Emmanuel, out of your virginal womb, and He has made us heirs, to the kingdom of heaven.",
@@ -83,6 +86,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲕⲁⲧⲁ ⲡⲓⲱϣ ⲉ̀ⲧⲁϥⲱϣ ⲙ̀ⲙⲟϥ: ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲙ̀ⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ ⲡ̀ⲟⲩⲣⲟ Ⲇⲁⲩⲓⲇ: ⲁϥⲓ̀ ⲁϥϫⲟⲕϥ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "According to the promise, He promised to our father, King David the patriarch, He came and fulfilled to us.",
@@ -108,6 +112,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
    "translations": {
     "english": "Hail to you O Virgin, the very and true Queen, hail to the pride of our race, who gave birth to Emmanuel.",
@@ -133,6 +138,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "We ask you to remember us, O our trusted advocate, before our Lord Jesus Christ, that He may forgive us our sins.",

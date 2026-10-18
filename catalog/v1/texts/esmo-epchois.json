@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ Ⲙⲓⲥⲁⲏⲗ ⲕⲉ Ⲇⲁⲛⲓⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O Hananiah Azariah Mishael and Daniel, praise Him and exalt Him above all forever.",
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Bless the Lord O you who worship the Lord the God of our fathers, praise Him and exalt Him above all forever.",

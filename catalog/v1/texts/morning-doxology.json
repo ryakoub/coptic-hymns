@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̅ⲛ̅ⲁ̅ ⲉ̅ⲑ̅ⲩ̅: ⲭⲉⲣⲉ ϯⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀: ⲡ̀ⲏⲓ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ.",
    "translations": {
     "english": "We worship the Father and the Son, and the Holy Spirit, Hail to the Church, the house of the angels.",
@@ -33,17 +34,18 @@
   },
   {
    "id": "l2",
-   "coptic": "* Ⲭⲉⲣⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ: ⲉ̀ⲧⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲥ.",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ: ⲉ̀ⲧⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲥ.",
    "translations": {
-    "english": "* Hail to the Virgin, who gave birth to our Savior, Hail to Gabriel who announced, to her the Good News.",
+    "english": "Hail to the Virgin, who gave birth to our Savior, Hail to Gabriel who announced, to her the Good News.",
     "arabic": "السلام للعذراء التى ولدت مخلصنا السلام لغبريال الذى بشرها."
    },
    "transliterations": {
-    "english": "* Shere tiparthenos: etasmes Pensoteer: shere Ghabrieel: etafhishennoufi nas."
+    "english": "Shere tiparthenos: etasmes Pensoteer: shere Ghabrieel: etafhishennoufi nas."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲭⲉⲣⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+     "coptic": "Ⲭⲉⲣⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
     },
     {
      "coptic": "ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ:"
@@ -58,6 +60,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϫⲟⲩⲧ ϥ̀ⲧⲟⲩ: ⲙ̀ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ.",
    "translations": {
     "english": "Hail to Michael, the archangel, Hail to the twenty four, Presbyters.",
@@ -83,17 +86,18 @@
   },
   {
    "id": "l4",
-   "coptic": "* Ⲭⲉⲣⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲭⲉⲣⲉ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲧⲁⲅⲙⲁ ⲧⲏⲣⲟⲩ: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ.",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲭⲉⲣⲉ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲧⲁⲅⲙⲁ ⲧⲏⲣⲟⲩ: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ.",
    "translations": {
-    "english": "* Hail to the Cherubim, Hail to the Seraphim, Hail to all the hosts, of the heavens.",
+    "english": "Hail to the Cherubim, Hail to the Seraphim, Hail to all the hosts, of the heavens.",
     "arabic": "السلام للشاروبيم السلام للسارافيم. السلام لجميع الطغمات السمائية."
    },
    "transliterations": {
-    "english": "* Shere Nisherouvim: shere Niserafim: shere nitaghma teerou: enepouranion."
+    "english": "Shere Nisherouvim: shere Niserafim: shere nitaghma teerou: enepouranion."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲭⲉⲣⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
+     "coptic": "Ⲭⲉⲣⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
     },
     {
      "coptic": "ⲭⲉⲣⲉ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ:"
@@ -108,6 +112,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ Ⲓⲱⲁⲛⲛⲏⲥ: ⲡⲓⲛⲓϣϯ ⲙ̀ⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲙⲏⲧ ⲥ̀ⲛⲁⲩ: ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ.",
    "translations": {
     "english": "Hail to John, the great forerunner, Hail to the, twelve apostles.",
@@ -133,17 +138,18 @@
   },
   {
    "id": "l6",
-   "coptic": "* Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ Ⲙⲁⲣⲕⲟⲥ: ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲡⲓⲣⲉϥϫⲱⲣ ⲉ̀ⲃⲟⲗ: ⲛ̀ⲧⲉ ⲛⲓⲓ̀ⲇⲱⲗⲟⲛ.",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ Ⲙⲁⲣⲕⲟⲥ: ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲡⲓⲣⲉϥϫⲱⲣ ⲉ̀ⲃⲟⲗ: ⲛ̀ⲧⲉ ⲛⲓⲓ̀ⲇⲱⲗⲟⲛ.",
    "translations": {
-    "english": "* Hail to our father Mark, the Evangelist, the destroyer, of the idols.",
+    "english": "Hail to our father Mark, the Evangelist, the destroyer, of the idols.",
     "arabic": "السلام لأبينا مرقس الانجيلى مبدد الأوثان."
    },
    "transliterations": {
-    "english": "* Shere peniot Markos: pievangelistees: pirefgor evol: ente nitholon."
+    "english": "Shere peniot Markos: pievangelistees: pirefgor evol: ente nitholon."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ Ⲙⲁⲣⲕⲟⲥ:"
+     "coptic": "Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ Ⲙⲁⲣⲕⲟⲥ:"
     },
     {
      "coptic": "ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ:"
@@ -158,6 +164,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ Ⲥⲧⲉⲫⲁⲛⲟⲥ: ⲡⲓϣⲟⲣⲡ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ Ⲅⲱⲉⲣⲅⲓⲟⲥ: ⲡⲓⲥⲓⲟⲩ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀.",
    "translations": {
     "english": "Hail to Stephen, the first martyr, Hail to George, the morning star.",
@@ -183,17 +190,18 @@
   },
   {
    "id": "l8",
-   "coptic": "* Ⲭⲉⲣⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ: ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ Ⲁⲃⲃⲁ Ⲁⲛⲧⲱⲛⲓ: ⲛⲉⲙ ⲡⲓϣⲟⲙⲧ Ⲙⲁⲕⲁⲣⲓⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ: ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ Ⲁⲃⲃⲁ Ⲁⲛⲧⲱⲛⲓ: ⲛⲉⲙ ⲡⲓϣⲟⲙⲧ Ⲙⲁⲕⲁⲣⲓⲟⲥ.",
    "translations": {
-    "english": "* Hail to the whole choir, of the martyrs, Hail to Abba Antony, and the three Macarii.",
+    "english": "Hail to the whole choir, of the martyrs, Hail to Abba Antony, and the three Macarii.",
     "arabic": "السلام لجميع صفوف الشهداء السلام لأنبا انطونيوس والثلاثة المقارات."
    },
    "transliterations": {
-    "english": "* Shere epkhoros teerf: ente nimartiros: shere Abba Antoni: nem pishomt Makarios."
+    "english": "Shere epkhoros teerf: ente nimartiros: shere Abba Antoni: nem pishomt Makarios."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲭⲉⲣⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ:"
+     "coptic": "Ⲭⲉⲣⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ:"
     },
     {
      "coptic": "ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ:"
@@ -208,6 +216,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ: ⲛ̀ⲧⲉ ⲛⲓⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ: ⲭⲉⲣⲉ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲧⲏⲣⲟⲩ: ⲉ̀ⲧⲁϥⲣⲁⲛⲁϥ Ⲡⲟ̅ⲥ̅.",
    "translations": {
     "english": "Hail to the whole choir, of the cross-bearers, Hail to all the saints, who have pleased the Lord.",
@@ -233,17 +242,18 @@
   },
   {
    "id": "l10",
-   "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ: Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲟⲩⲣⲟ: ⲁ̀ⲣⲓⲟⲩⲛⲁⲓ ⲛⲉⲙⲁⲛ: ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ: Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲟⲩⲣⲟ: ⲁ̀ⲣⲓⲟⲩⲛⲁⲓ ⲛⲉⲙⲁⲛ: ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.",
    "translations": {
-    "english": "* Through their prayers, O Christ our King, have mercy upon us, in Your kingdom.",
+    "english": "Through their prayers, O Christ our King, have mercy upon us, in Your kingdom.",
     "arabic": "أيها المسيح ملكنا بصلواتهم إصنع معنا رحمة فى ملكوتك."
    },
    "transliterations": {
-    "english": "* Hiten nowevshee: Pi-ekhristos Penouro: ariounai neman: khen tekmetouro."
+    "english": "Hiten nowevshee: Pi-ekhristos Penouro: ariounai neman: khen tekmetouro."
    },
    "stanzas": [
     {
-     "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ:"
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ:"
     },
     {
      "coptic": "Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲟⲩⲣⲟ:"
@@ -258,6 +268,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲫⲏⲉ̀ⲧⲉⲣⲟⲩⲱⲓⲛⲓ: ⲉ̀ⲣⲱⲙⲓ ⲛⲓⲃⲉⲛ: ⲉⲑⲛⲏⲟⲩ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
    "translations": {
     "english": "O True Light, that gives light, to every man, that comes into the world.",
@@ -283,17 +294,18 @@
   },
   {
    "id": "l12",
-   "coptic": "* Ⲁⲕⲓ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ϩⲓⲧⲉⲛ ⲧⲉⲕⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ: ⲁ̀ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: ⲑⲉⲗⲏⲗ ϧⲁ ⲡⲉⲕϫⲓⲛⲓ̀.",
+   "side": 1,
+   "coptic": "Ⲁⲕⲓ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ϩⲓⲧⲉⲛ ⲧⲉⲕⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ: ⲁ̀ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: ⲑⲉⲗⲏⲗ ϧⲁ ⲡⲉⲕϫⲓⲛⲓ̀.",
    "translations": {
-    "english": "* You came into the world, through Your Love for man, and all the creation, rejoiced at Your coming.",
+    "english": "You came into the world, through Your Love for man, and all the creation, rejoiced at Your coming.",
     "arabic": "أتيت إلى العالم بمحبتك للبشر وكل الخليقة تهللت بمجيئك."
    },
    "transliterations": {
-    "english": "* Aki epikosmos: hiten tekmetmairomi: ati-ekteesis teers: theleel kha pekjini."
+    "english": "Aki epikosmos: hiten tekmetmairomi: ati-ekteesis teers: theleel kha pekjini."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲁⲕⲓ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ:"
+     "coptic": "Ⲁⲕⲓ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ:"
     },
     {
      "coptic": "ϩⲓⲧⲉⲛ ⲧⲉⲕⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ:"
@@ -308,6 +320,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲁⲕⲥⲱϯ ⲛ̀Ⲁⲇⲁⲙ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ϯⲁ̀ⲡⲁⲧⲏ: ⲁⲕⲉⲣ Ⲉⲩⲁ ⲛ̀ⲣⲉⲙϩⲉ: ϧⲉⲛ ⲛⲓⲛⲁⲕϩⲓ ⲛ̀ⲧⲉ ⲫ̀ⲙⲟⲩ.",
    "translations": {
     "english": "You have saved Adam, from seduction, and delivered Eve, from the pangs of death.",
@@ -333,17 +346,18 @@
   },
   {
    "id": "l14",
-   "coptic": "* Ⲁⲕϯ ⲛⲁⲛ ⲙ̀Ⲡⲓⲡ̅ⲛ̅ⲁ̅: ⲛ̀ⲧⲉ ϯⲙⲉⲧϣⲏⲣⲓ: ⲉⲛϩⲱⲥ ⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲛⲉⲙ ⲛⲉⲕⲁⲅⲅⲉⲗⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲁⲕϯ ⲛⲁⲛ ⲙ̀Ⲡⲓⲡ̅ⲛ̅ⲁ̅: ⲛ̀ⲧⲉ ϯⲙⲉⲧϣⲏⲣⲓ: ⲉⲛϩⲱⲥ ⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲛⲉⲙ ⲛⲉⲕⲁⲅⲅⲉⲗⲟⲥ.",
    "translations": {
-    "english": "* You gave unto us, the Spirit of Sonship, we praise and bless You, with Your angels.",
+    "english": "You gave unto us, the Spirit of Sonship, we praise and bless You, with Your angels.",
     "arabic": "أعطيتنا روح البنوة نسبحك ونباركك مع ملائكتك."
    },
    "transliterations": {
-    "english": "* Akti nan empi-epnevma: ente timetsheeri: enhos enesmou erok: nem nekangelos."
+    "english": "Akti nan empi-epnevma: ente timetsheeri: enhos enesmou erok: nem nekangelos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲁⲕϯ ⲛⲁⲛ ⲙ̀Ⲡⲓⲡ̅ⲛ̅ⲁ̅:"
+     "coptic": "Ⲁⲕϯ ⲛⲁⲛ ⲙ̀Ⲡⲓⲡ̅ⲛ̅ⲁ̅:"
     },
     {
      "coptic": "ⲛ̀ⲧⲉ ϯⲙⲉⲧϣⲏⲣⲓ:"
@@ -358,6 +372,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ϧⲉⲛ ⲡ̀ϫⲓⲛⲏ̀ⲣⲉϥⲓ̀ ⲛⲁⲛ ⲉ̀ϧⲟⲩⲛ: ⲛ̀ϫⲉ ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ: ⲱ̀ Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ.",
    "translations": {
     "english": "When the morning hour, comes upon us, O Christ our God, the True Light.",
@@ -383,17 +398,18 @@
   },
   {
    "id": "l16",
-   "coptic": "* Ⲙⲁⲣⲟⲩϣⲁⲓ ⲛ̀ϧⲏⲧⲉⲛ: ⲛ̀ϫⲉ ⲛⲓⲗⲟⲅⲓⲥⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲛⲏ̀ⲣⲉϥϩⲟⲃⲥⲧⲉⲛ: ⲛ̀ϫⲉ ⲡ̀ⲭⲁⲕⲓ ⲛ̀ⲛⲓⲡⲁⲑⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲙⲁⲣⲟⲩϣⲁⲓ ⲛ̀ϧⲏⲧⲉⲛ: ⲛ̀ϫⲉ ⲛⲓⲗⲟⲅⲓⲥⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲛⲏ̀ⲣⲉϥϩⲟⲃⲥⲧⲉⲛ: ⲛ̀ϫⲉ ⲡ̀ⲭⲁⲕⲓ ⲛ̀ⲛⲓⲡⲁⲑⲟⲥ.",
    "translations": {
-    "english": "* Let the thought of light, shine within us, and do not let the darkness, of pain cover us.",
+    "english": "Let the thought of light, shine within us, and do not let the darkness, of pain cover us.",
     "arabic": "فلتشرق فينا حواس النور ولا تغطينا ظلمة الآلام."
    },
    "transliterations": {
-    "english": "* Maroushai enkheeten: enje nilogismos ente piowoini: o-woh empeneerefhovsten: enje epkaki ennipathos."
+    "english": "Maroushai enkheeten: enje nilogismos ente piowoini: o-woh empeneerefhovsten: enje epkaki ennipathos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲙⲁⲣⲟⲩϣⲁⲓ ⲛ̀ϧⲏⲧⲉⲛ:"
+     "coptic": "Ⲙⲁⲣⲟⲩϣⲁⲓ ⲛ̀ϧⲏⲧⲉⲛ:"
     },
     {
      "coptic": "ⲛ̀ϫⲉ ⲛⲓⲗⲟⲅⲓⲥⲙⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ:"
@@ -408,6 +424,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ϩⲓⲛⲁ ⲛ̀ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ: ⲛ̀ⲛⲟⲏⲧⲟⲥ ⲛⲉⲙ Ⲇⲁⲩⲓⲇ: ⲉⲛⲱϣ ⲟⲩⲃⲏⲕ: ⲟⲩⲟϩ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ.",
    "translations": {
     "english": "That we may praise You, with understanding, proclaiming and saying, with David.",
@@ -433,17 +450,18 @@
   },
   {
    "id": "l18",
-   "coptic": "* Ϫⲉ ⲁⲩⲉⲣϣⲟⲣⲡ ⲙ̀ⲫⲟϩ: ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ: ⲉ̀ⲉⲣⲙⲉⲗⲉⲧⲁⲛ: ϧⲉⲛ ⲛⲉⲕⲥⲁϫⲓ ⲧⲏⲣⲟⲩ.",
+   "side": 1,
+   "coptic": "Ϫⲉ ⲁⲩⲉⲣϣⲟⲣⲡ ⲙ̀ⲫⲟϩ: ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ: ⲉ̀ⲉⲣⲙⲉⲗⲉⲧⲁⲛ: ϧⲉⲛ ⲛⲉⲕⲥⲁϫⲓ ⲧⲏⲣⲟⲩ.",
    "translations": {
-    "english": "* My eyes have reached, the morning watch, that I might meditate, upon all Your words.",
+    "english": "My eyes have reached, the morning watch, that I might meditate, upon all Your words.",
     "arabic": "سبق أن بلغت عيناى وقت السحر لأتلو جميع أقوالك."
    },
    "transliterations": {
-    "english": "* Je avershorp emfoh: enje naval emefnav enshorp: e-ermeletan: khen neksaji teerou."
+    "english": "Je avershorp emfoh: enje naval emefnav enshorp: e-ermeletan: khen neksaji teerou."
    },
    "stanzas": [
     {
-     "coptic": "* Ϫⲉ ⲁⲩⲉⲣϣⲟⲣⲡ ⲙ̀ⲫⲟϩ:"
+     "coptic": "Ϫⲉ ⲁⲩⲉⲣϣⲟⲣⲡ ⲙ̀ⲫⲟϩ:"
     },
     {
      "coptic": "ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ:"
@@ -458,6 +476,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲥⲱⲧⲉⲙ ⲉ̀ⲧⲉⲛⲥ̀ⲙⲏ: ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ: ⲛⲁϩⲙⲉⲛ Ⲡⲟ̅ⲥ̅ Ⲡⲉⲛⲛⲟⲩϯ: ⲕⲁⲧⲁ ⲛⲉⲕⲙⲉⲧϣⲉⲛϩⲏⲧ.",
    "translations": {
     "english": "Hear our voices, according to Your great mercy, save us O Lord our God, according to Your compassion.",
@@ -483,17 +502,18 @@
   },
   {
    "id": "l20",
-   "coptic": "* Ⲫϯ ⲡⲓϥⲁⲓⲣⲱⲟⲩϣ: ⲛ̀ⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ: ⲡⲓⲣⲉϥⲉⲣⲟⲓⲕⲟⲛⲟⲙⲓⲛ: ⲛ̀ⲛⲉϥⲥⲱⲧⲡ ⲛ̀ⲕⲁⲗⲱⲥ.",
+   "side": 1,
+   "coptic": "Ⲫϯ ⲡⲓϥⲁⲓⲣⲱⲟⲩϣ: ⲛ̀ⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ: ⲡⲓⲣⲉϥⲉⲣⲟⲓⲕⲟⲛⲟⲙⲓⲛ: ⲛ̀ⲛⲉϥⲥⲱⲧⲡ ⲛ̀ⲕⲁⲗⲱⲥ.",
    "translations": {
-    "english": "* O Caring God, the Maker of all good things, who governs well, with His chosen ones.",
+    "english": "O Caring God, the Maker of all good things, who governs well, with His chosen ones.",
     "arabic": "يا الله المهتم صانع الخيرات مدبر مختاريه حسنا."
    },
    "transliterations": {
-    "english": "* Efnoti pifairooush: enreferpethnanef: pireferoikonomin: ennefsotp enkalos."
+    "english": "Efnoti pifairooush: enreferpethnanef: pireferoikonomin: ennefsotp enkalos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲫϯ ⲡⲓϥⲁⲓⲣⲱⲟⲩϣ:"
+     "coptic": "Ⲫϯ ⲡⲓϥⲁⲓⲣⲱⲟⲩϣ:"
     },
     {
      "coptic": "ⲛ̀ⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ:"
@@ -508,6 +528,7 @@
   },
   {
    "id": "l21",
+   "side": 0,
    "coptic": "Ⲡⲓⲣⲉϥⲉⲣϩⲉⲙⲓ ⲉⲧϫⲟⲣ: ⲛ̀ⲛⲏⲉ̀ⲧⲁⲩⲫⲱⲧ ϩⲁⲣⲟϥ: ⲫ̀ⲣⲉϥϭⲓϣϣⲱⲟⲩ ⲛ̀ⲧⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ: ⲛⲟϩⲉⲙ ⲛ̀ⲧⲟⲩⲟⲩϫⲁⲓ.",
    "translations": {
     "english": "The strong governor for those, who take refuge in Him, who longs for the salvation, and deliverance of everyone.",
@@ -533,17 +554,18 @@
   },
   {
    "id": "l22",
-   "coptic": "* Ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲭⲣⲏⲥⲧⲟⲥ: ⲁⲕⲥⲟⲃϯ ⲛⲁⲛ ⲙ̀ⲡⲓⲉϫⲱⲣϩ: ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲁⲓⲉ̀ϩⲟⲟⲩ: ⲉⲛⲟⲓ ⲛ̀ⲁⲑⲛⲟⲃⲓ.",
+   "side": 1,
+   "coptic": "Ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲭⲣⲏⲥⲧⲟⲥ: ⲁⲕⲥⲟⲃϯ ⲛⲁⲛ ⲙ̀ⲡⲓⲉϫⲱⲣϩ: ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲁⲓⲉ̀ϩⲟⲟⲩ: ⲉⲛⲟⲓ ⲛ̀ⲁⲑⲛⲟⲃⲓ.",
    "translations": {
-    "english": "* Through Your goodness, Thou provided for us the night, grant us to pass, this day without sin.",
+    "english": "Through Your goodness, Thou provided for us the night, grant us to pass, this day without sin.",
     "arabic": "بصلاحك هيأت لنا الليل. انعم لنا بهذا اليوم ونحن بغير خطية."
    },
    "transliterations": {
-    "english": "* Khen tekmetkhreestos: aksovti nan empiegorh: ari-ehmot nan empai-ehoou: enoi enathnovi."
+    "english": "Khen tekmetkhreestos: aksovti nan empiegorh: ari-ehmot nan empai-ehoou: enoi enathnovi."
    },
    "stanzas": [
     {
-     "coptic": "* Ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲭⲣⲏⲥⲧⲟⲥ:"
+     "coptic": "Ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲭⲣⲏⲥⲧⲟⲥ:"
     },
     {
      "coptic": "ⲁⲕⲥⲟⲃϯ ⲛⲁⲛ ⲙ̀ⲡⲓⲉϫⲱⲣϩ:"
@@ -558,6 +580,7 @@
   },
   {
    "id": "l23",
+   "side": 0,
    "coptic": "Ⲉⲑⲣⲉⲛⲉⲣⲡ̀ⲉⲙⲡ̀ϣⲁ: ⲉ̀ϥⲁⲓ ⲛ̀ⲛⲉⲛϫⲓϫ ⲉ̀ⲡ̀ϣⲱⲓ: ϩⲁⲣⲟⲕ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ: ⲭⲱⲣⲓⲥ ϫⲱⲛⲧ ⲛⲉⲙ ⲙⲟⲕⲙⲉⲕ ⲉϥϩⲱⲟⲩ.",
    "translations": {
     "english": "That we may be worthy, to lift up our hands, before You without anger, or evil thoughts.",
@@ -583,17 +606,18 @@
   },
   {
    "id": "l24",
-   "coptic": "* Ϧⲉⲛ ⲧⲁⲓ ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀: ⲥⲟⲩⲧⲱⲛ ⲛⲉⲛⲙⲱⲓⲧ ⲉ̀ϧⲟⲩⲛ: ⲛⲉⲙ ⲛⲉⲛⲙⲱⲓⲧ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀ⲧⲉ ⲧⲉⲕⲥ̀ⲕⲉⲡⲏ.",
+   "side": 1,
+   "coptic": "Ϧⲉⲛ ⲧⲁⲓ ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀: ⲥⲟⲩⲧⲱⲛ ⲛⲉⲛⲙⲱⲓⲧ ⲉ̀ϧⲟⲩⲛ: ⲛⲉⲙ ⲛⲉⲛⲙⲱⲓⲧ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀ⲧⲉ ⲧⲉⲕⲥ̀ⲕⲉⲡⲏ.",
    "translations": {
-    "english": "* At this dawn, make straight our coming in, and our going out, in the joy of Your protection.",
+    "english": "At this dawn, make straight our coming in, and our going out, in the joy of Your protection.",
     "arabic": "فى هذا السحر سهل طرقنا الداخلية والخارجية بسترك المفرح."
    },
    "transliterations": {
-    "english": "* Khen tai hanatooui: souton nenmoit ekhoun: nem nenmoit evol: khen epounof ente tekeskepee."
+    "english": "Khen tai hanatooui: souton nenmoit ekhoun: nem nenmoit evol: khen epounof ente tekeskepee."
    },
    "stanzas": [
     {
-     "coptic": "* Ϧⲉⲛ ⲧⲁⲓ ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀:"
+     "coptic": "Ϧⲉⲛ ⲧⲁⲓ ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀:"
     },
     {
      "coptic": "ⲥⲟⲩⲧⲱⲛ ⲛⲉⲛⲙⲱⲓⲧ ⲉ̀ϧⲟⲩⲛ:"
@@ -608,6 +632,7 @@
   },
   {
    "id": "l25",
+   "side": 0,
    "coptic": "Ⲉⲑⲣⲉⲛϫⲱ ⲛ̀ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲛⲓⲃⲉⲛ: ⲛ̀ⲧⲉⲛϩⲱⲥ ⲉ̀ⲧⲉⲕϫⲟⲙ: ⲛⲉⲙ Ⲇⲁⲩⲓⲇ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
    "translations": {
     "english": "That we may proclaim, Your righteousness daily, and praise Your power, with David the prophet.",
@@ -633,17 +658,18 @@
   },
   {
    "id": "l26",
-   "coptic": "* Ϫⲉ ϧⲉⲛ ⲧⲉⲕϩⲓⲣⲏⲛⲏ: Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲥ̅ⲱ̅ⲣ̅: ⲁⲛⲉⲛⲕⲟⲧ ⲁⲛⲧⲱⲟⲩⲛ: ϫⲉ ⲁⲛⲉⲣϩⲉⲗⲡⲓⲥ ⲉ̀ⲣⲟⲕ.",
+   "side": 1,
+   "coptic": "Ϫⲉ ϧⲉⲛ ⲧⲉⲕϩⲓⲣⲏⲛⲏ: Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲥ̅ⲱ̅ⲣ̅: ⲁⲛⲉⲛⲕⲟⲧ ⲁⲛⲧⲱⲟⲩⲛ: ϫⲉ ⲁⲛⲉⲣϩⲉⲗⲡⲓⲥ ⲉ̀ⲣⲟⲕ.",
    "translations": {
-    "english": "* Saying \"In Your peace, O Christ our Savior, we slept and arose, for we have hoped in You.",
+    "english": "Saying \"In Your peace, O Christ our Savior, we slept and arose, for we have hoped in You.",
     "arabic": "قائلين بسلامك أيها المسيح مخلصنا رقدنا وقمنا لأننا توكلنا عليك."
    },
    "transliterations": {
-    "english": "* Je khen tekhireenee: Pi-ekhristos Pensoteer: anenkot antooun: je anerhelpis erok."
+    "english": "Je khen tekhireenee: Pi-ekhristos Pensoteer: anenkot antooun: je anerhelpis erok."
    },
    "stanzas": [
     {
-     "coptic": "* Ϫⲉ ϧⲉⲛ ⲧⲉⲕϩⲓⲣⲏⲛⲏ:"
+     "coptic": "Ϫⲉ ϧⲉⲛ ⲧⲉⲕϩⲓⲣⲏⲛⲏ:"
     },
     {
      "coptic": "Ⲡⲭ̅ⲥ̅ Ⲡⲉⲛⲥ̅ⲱ̅ⲣ̅:"
@@ -658,6 +684,7 @@
   },
   {
    "id": "l27",
+   "side": 0,
    "coptic": "Ϩⲏⲡⲡⲉ ⲟⲩⲡⲉⲑⲛⲁⲛⲉϥ: ⲓⲉ ⲟⲩⲡⲉⲧϩⲟⲗϫ ⲉ̀ⲃⲏⲗ: ⲉ̀̀ⲡ̀ϯⲙⲁϯ ⲛ̀ϩⲁⲛⲥ̀ⲛⲏⲟⲩ: ⲉⲩϣⲟⲡ ϩⲓ ⲟⲩⲙⲁ.",
    "translations": {
     "english": "Behold how beneficent, and how pleasant, it is for brethren, to dwell together in unity.\"",
@@ -683,17 +710,18 @@
   },
   {
    "id": "l28",
-   "coptic": "* Ⲉⲩⲉⲣⲥⲩⲙⲫⲱⲛⲓⲛ: ϧⲉⲛ ⲟⲩⲁⲅⲁⲡⲏ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲉⲩⲁⲅⲅⲉⲗⲓⲕⲏ: ⲕⲁⲧⲁ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲉⲩⲉⲣⲥⲩⲙⲫⲱⲛⲓⲛ: ϧⲉⲛ ⲟⲩⲁⲅⲁⲡⲏ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲉⲩⲁⲅⲅⲉⲗⲓⲕⲏ: ⲕⲁⲧⲁ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ.",
    "translations": {
-    "english": "* United, in the True, evangelic love, like the apostles.",
+    "english": "United, in the True, evangelic love, like the apostles.",
     "arabic": "متفقين بمحبة حقيقية انجيلية كمثل الرسل."
    },
    "transliterations": {
-    "english": "* Eversimfonin: khen o-aghapee emmee: enevangelikee: kata ni-apostolos."
+    "english": "Eversimfonin: khen o-aghapee emmee: enevangelikee: kata ni-apostolos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲉⲩⲉⲣⲥⲩⲙⲫⲱⲛⲓⲛ:"
+     "coptic": "Ⲉⲩⲉⲣⲥⲩⲙⲫⲱⲛⲓⲛ:"
     },
     {
      "coptic": "ϧⲉⲛ ⲟⲩⲁⲅⲁⲡⲏ ⲙ̀ⲙⲏⲓ:"
@@ -708,6 +736,7 @@
   },
   {
    "id": "l29",
+   "side": 0,
    "coptic": "Ⲙⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓⲥⲟϫⲉⲛ: ⲉ̀ϯⲁ̀ⲫⲉ ⲙ̀Ⲡⲭ̅ⲥ̅: ⲉϥⲛⲏⲟⲩ ⲉ̀ϫⲉⲛ ϯⲙⲟⲣⲧ: ϣⲁ ̀ⲉϧ̀ⲣⲏⲓ ⲉ̀ⲛⲓϭⲁⲗⲁⲩϫ.",
    "translations": {
     "english": "It is like the fragrant oil, on the head of Christ, running down the beard, down to the feet.",
@@ -733,17 +762,18 @@
   },
   {
    "id": "l30",
-   "coptic": "* Ⲉϥⲑⲱϩⲥ ⲙ̀ⲙⲏⲛⲓ ⲛⲓⲃⲉⲛ: ⲛⲓϧⲉⲗⲗⲟⲓ ⲛⲉⲙ ⲛⲓⲁⲗⲱⲟⲩⲓ̀: ⲛⲉⲙ ⲛⲓϧⲉⲗϣⲓⲣⲓ: ⲛⲉⲙ ⲛⲓⲇⲓⲁ̀ⲕⲟⲛⲓⲥⲧⲏⲥ.",
+   "side": 1,
+   "coptic": "Ⲉϥⲑⲱϩⲥ ⲙ̀ⲙⲏⲛⲓ ⲛⲓⲃⲉⲛ: ⲛⲓϧⲉⲗⲗⲟⲓ ⲛⲉⲙ ⲛⲓⲁⲗⲱⲟⲩⲓ̀: ⲛⲉⲙ ⲛⲓϧⲉⲗϣⲓⲣⲓ: ⲛⲉⲙ ⲛⲓⲇⲓⲁ̀ⲕⲟⲛⲓⲥⲧⲏⲥ.",
    "translations": {
-    "english": "* That anoints every day, the elders, the children and young men, and the deacons.",
+    "english": "That anoints every day, the elders, the children and young men, and the deacons.",
     "arabic": "يمسح كل يوم الشيوخ والصبيان والفتيان والخدام."
    },
    "transliterations": {
-    "english": "* Efthohs emmeeni niven: nikhelloi nem nialooui: nem nikhelshiri: nem nithi-akonistees."
+    "english": "Efthohs emmeeni niven: nikhelloi nem nialooui: nem nikhelshiri: nem nithi-akonistees."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲉϥⲑⲱϩⲥ ⲙ̀ⲙⲏⲛⲓ ⲛⲓⲃⲉⲛ:"
+     "coptic": "Ⲉϥⲑⲱϩⲥ ⲙ̀ⲙⲏⲛⲓ ⲛⲓⲃⲉⲛ:"
     },
     {
      "coptic": "ⲛⲓϧⲉⲗⲗⲟⲓ ⲛⲉⲙ ⲛⲓⲁⲗⲱⲟⲩⲓ̀:"
@@ -758,6 +788,7 @@
   },
   {
    "id": "l31",
+   "side": 0,
    "coptic": "Ⲛⲁⲓ ⲉ̀ⲧⲁϥϩⲟⲧⲡⲟⲩ ⲉⲩⲥⲟⲡ: ⲛ̀ϫⲉ Ⲡⲓⲡ̅ⲛ̅ⲁ̅ ⲉ̅ⲑ̅ⲩ̅: ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲕⲩⲑⲁⲣⲁ: ⲉⲩⲥ̀ⲙⲟⲩ ⲉ̀Ⲫϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ.",
    "translations": {
     "english": "Those whom the Holy Spirit, has attuned together, as a stringed instrument, always blessing God.",
@@ -783,17 +814,18 @@
   },
   {
    "id": "l32",
-   "coptic": "* Ϧⲉⲛ ϩⲁⲛⲁⲗⲙⲟⲥ ⲛⲉⲙ ϩⲁⲛϩⲱⲥ: ⲛⲉⲙ ϩⲁⲛϩⲱⲇⲏ ⲙ̀ⲡ̅ⲛ̅ⲁ̅ⲧⲓⲕⲟⲛ: ⲙ̀ⲡⲓⲉ̀ϩⲟⲟⲩ ⲛⲉⲙ ⲡⲓⲉ̀ϫⲱⲣϩ: ϧⲉⲛ ⲟⲩϩⲏⲧ ⲛ̀ⲁⲧⲭⲁⲣⲱϥ.",
+   "side": 1,
+   "coptic": "Ϧⲉⲛ ϩⲁⲛⲁⲗⲙⲟⲥ ⲛⲉⲙ ϩⲁⲛϩⲱⲥ: ⲛⲉⲙ ϩⲁⲛϩⲱⲇⲏ ⲙ̀ⲡ̅ⲛ̅ⲁ̅ⲧⲓⲕⲟⲛ: ⲙ̀ⲡⲓⲉ̀ϩⲟⲟⲩ ⲛⲉⲙ ⲡⲓⲉ̀ϫⲱⲣϩ: ϧⲉⲛ ⲟⲩϩⲏⲧ ⲛ̀ⲁⲧⲭⲁⲣⲱϥ.",
    "translations": {
-    "english": "* By psalms and hymns, and spiritual songs, by day and by night, with an incessant heart.",
+    "english": "By psalms and hymns, and spiritual songs, by day and by night, with an incessant heart.",
     "arabic": "بمزامير وتسابيح وترانيم روحية النهار والليل بقلب لا يفتر."
    },
    "transliterations": {
-    "english": "* Khen hanalmos nem hanhos: nem hanhothee empnevmatikon: empi-ehoou nem pi-egorh: khen ouheet enatkarof."
+    "english": "Khen hanalmos nem hanhos: nem hanhothee empnevmatikon: empi-ehoou nem pi-egorh: khen ouheet enatkarof."
    },
    "stanzas": [
     {
-     "coptic": "* Ϧⲉⲛ ϩⲁⲛⲁⲗⲙⲟⲥ ⲛⲉⲙ ϩⲁⲛϩⲱⲥ:"
+     "coptic": "Ϧⲉⲛ ϩⲁⲛⲁⲗⲙⲟⲥ ⲛⲉⲙ ϩⲁⲛϩⲱⲥ:"
     },
     {
      "coptic": "ⲛⲉⲙ ϩⲁⲛϩⲱⲇⲏ ⲙ̀ⲡ̅ⲛ̅ⲁ̅ⲧⲓⲕⲟⲛ:"
@@ -808,6 +840,7 @@
   },
   {
    "id": "l33",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ) Ⲛⲑⲟ ⲏ̀ⲙⲁⲩ ⲙ̀ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲙ̀ⲙⲁⲥⲛⲟⲩϯ: ⲁ̀ⲣⲉϥⲁⲓ ϧⲁ ⲡⲓⲗⲟⲅⲟⲥ: ⲡⲓⲁⲭⲱⲣⲓⲧⲟⲥ.",
    "translations": {
     "english": "(For the Virgin) You are the Mother of Light, the honored Mother of God, you have carried, the Uncircumscript Logos.",
@@ -836,17 +869,18 @@
   },
   {
    "id": "l34",
-   "coptic": "* Ⲙⲉⲛⲉⲛⲥⲁ ⲏ̀ⲣⲉⲙⲁⲥϥ: ⲁ̀ⲣⲉⲟ̀ϩⲓ ⲉ̀ⲣⲉⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ: ϧⲉⲛ ϩⲁⲛϩⲱⲥ ⲛⲉⲙ ϩⲁⲛⲥ̀ⲙⲟⲩ:ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ.",
+   "side": 1,
+   "coptic": "Ⲙⲉⲛⲉⲛⲥⲁ ⲏ̀ⲣⲉⲙⲁⲥϥ: ⲁ̀ⲣⲉⲟ̀ϩⲓ ⲉ̀ⲣⲉⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ: ϧⲉⲛ ϩⲁⲛϩⲱⲥ ⲛⲉⲙ ϩⲁⲛⲥ̀ⲙⲟⲩ:ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ.",
    "translations": {
-    "english": "* After you gave birth to Him, you remained a virgin, with praises and blessings, we magnify you.",
+    "english": "After you gave birth to Him, you remained a virgin, with praises and blessings, we magnify you.",
     "arabic": "ومن بعد أن ولدته بقيت عذراء. نعظمك بتسابيح وبركات."
    },
    "transliterations": {
-    "english": "* Menensa eeremasf: are-ohi ereoi emparthenos: khen hanhos nem hanesmou:tenchisi emmo."
+    "english": "Menensa eeremasf: are-ohi ereoi emparthenos: khen hanhos nem hanesmou:tenchisi emmo."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲙⲉⲛⲉⲛⲥⲁ ⲏ̀ⲣⲉⲙⲁⲥϥ:"
+     "coptic": "Ⲙⲉⲛⲉⲛⲥⲁ ⲏ̀ⲣⲉⲙⲁⲥϥ:"
     },
     {
      "coptic": "ⲁ̀ⲣⲉⲟ̀ϩⲓ ⲉ̀ⲣⲉⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ:"
@@ -858,6 +892,7 @@
   },
   {
    "id": "l35",
+   "side": 0,
    "coptic": "Ϫⲉ ⲛ̀ⲑⲟϥ ϧⲉⲛ ⲡⲉϥⲟⲩⲱϣ: ⲛⲉⲙ ⲡ̀ϯⲙⲁϯ ⲙ̀Ⲡⲉϥⲓⲱⲧ: ⲛⲉⲙ Ⲡⲓⲡ̅ⲛ̅ⲁ̅ ⲉ̅ⲑ̅ⲩ̅: ⲁϥⲓ̀ ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "For of His own will, and the pleasure of His Father, and the Holy Spirit, He came and saved us.",
@@ -883,17 +918,18 @@
   },
   {
    "id": "l36",
-   "coptic": "* Ⲁⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ̀: ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
+   "side": 1,
+   "coptic": "Ⲁⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ̀: ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
    "translations": {
-    "english": "* And we too, hope to win mercy, through your intercessions, with the Lover of mankind.",
+    "english": "And we too, hope to win mercy, through your intercessions, with the Lover of mankind.",
     "arabic": "ونحن أيضا نطلب أن نفوز برحمة بشفاعاتك لدى محب البشر."
    },
    "transliterations": {
-    "english": "* Anon hon tentovh: ethrenshashni evnai: hiten ne-epresvi-a: entotf empimairomi."
+    "english": "Anon hon tentovh: ethrenshashni evnai: hiten ne-epresvi-a: entotf empimairomi."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲁⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ:"
+     "coptic": "Ⲁⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ:"
     },
     {
      "coptic": "ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ:"
@@ -908,6 +944,7 @@
   },
   {
    "id": "l37",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲟⲛ) Ⲁⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ ⲉⲧⲥⲱⲧⲡ: ⲛ̀ⲧⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ̀: ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ: ϣⲁ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ ⲙ̀Ⲫⲓⲱⲧ.",
    "translations": {
     "english": "(Also for the Virgin) The select incense, of your virginity, ascended to the throne, of the Father.",
@@ -936,17 +973,18 @@
   },
   {
    "id": "l38",
-   "coptic": "* Ⲉϩⲟⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ: ⲛ̀ⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: Ⲙⲁⲣⲓⲁ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲉϩⲟⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ: ⲛ̀ⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: Ⲙⲁⲣⲓⲁ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",
    "translations": {
-    "english": "* Better than the incense, of the Cherubim, and the Seraphim, O Virgin Mary.",
+    "english": "Better than the incense, of the Cherubim, and the Seraphim, O Virgin Mary.",
     "arabic": "أفضل من بخور الشاروبيم والسارافيم يامريم العذراء."
    },
    "transliterations": {
-    "english": "* Ehote pi-estoinofi: ente Nisherouvim: nem Niserafim: Mari-a tiparthenos."
+    "english": "Ehote pi-estoinofi: ente Nisherouvim: nem Niserafim: Mari-a tiparthenos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲉϩⲟⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ:"
+     "coptic": "Ⲉϩⲟⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ:"
     },
     {
      "coptic": "ⲛ̀ⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
@@ -961,6 +999,7 @@
   },
   {
    "id": "l39",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ϯⲫⲉ ⲙ̀ⲃⲉⲣⲓ: ⲑⲏⲉ̀ⲧⲁ Ⲫⲓⲱⲧ ⲑⲁⲙⲓⲟⲥ: ⲁϥⲭⲁⲥ ⲛ̀ⲟⲩⲙⲁⲛ̀ⲉⲙⲧⲟⲛ: ⲙ̀Ⲡⲉϥϣⲏⲣⲓ ⲙ̀ⲙⲉⲛⲣⲓⲧ.",
    "translations": {
     "english": "Hail to the New heaven, whom the Father has created, and made a place of rest, for His beloved Son.",
@@ -986,17 +1025,18 @@
   },
   {
    "id": "l40",
-   "coptic": "* Ⲭⲉⲣⲉ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ: ⲙ̀ⲃⲁⲥⲓⲗⲓⲕⲟⲛ: ⲙ̀ⲫⲏⲉ̀ⲧⲟⲩϥⲁⲓ ⲙ̀ⲙⲟϥ: ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ.",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ: ⲙ̀ⲃⲁⲥⲓⲗⲓⲕⲟⲛ: ⲙ̀ⲫⲏⲉ̀ⲧⲟⲩϥⲁⲓ ⲙ̀ⲙⲟϥ: ϩⲓϫⲉⲛ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ.",
    "translations": {
-    "english": "* Hail to the Royal throne, of Him who is, carried by, the Cherubim.",
+    "english": "Hail to the Royal throne, of Him who is, carried by, the Cherubim.",
     "arabic": "السلام للكرسى الملوكى الذى للمحمول على الشاروبيم."
    },
    "transliterations": {
-    "english": "* Shere pi-eeronos: emvasilikon: emfee-etoufai emmof: hijen Nisherouvim."
+    "english": "Shere pi-eeronos: emvasilikon: emfee-etoufai emmof: hijen Nisherouvim."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲭⲉⲣⲉ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ:"
+     "coptic": "Ⲭⲉⲣⲉ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ:"
     },
     {
      "coptic": "ⲙ̀ⲃⲁⲥⲓⲗⲓⲕⲟⲛ:"
@@ -1011,6 +1051,7 @@
   },
   {
    "id": "l41",
+   "side": 0,
    "coptic": "Ⲭⲉⲣⲉ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ: ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ: ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲡⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲙ̀ⲡⲉⲛⲅⲉⲛⲟⲥ.",
    "translations": {
     "english": "Hail to the advocate, of our souls, you are indeed, the pride of our race.",
@@ -1036,17 +1077,18 @@
   },
   {
    "id": "l42",
-   "coptic": "* Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ϩ̀ⲙⲟⲧ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛⲥ̅ⲱ̅ⲣ̅: Ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅.",
+   "side": 1,
+   "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ϩ̀ⲙⲟⲧ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛⲥ̅ⲱ̅ⲣ̅: Ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅.",
    "translations": {
-    "english": "* Intercede on our behalf, O full of grace, before our Savior, Our Lord Jesus Christ.",
+    "english": "Intercede on our behalf, O full of grace, before our Savior, Our Lord Jesus Christ.",
     "arabic": "اشفعى فينا ياممتلئة نعمة لدى مخلصنا ربنا يسوع المسيح."
    },
    "transliterations": {
-    "english": "* Ari-epresvevin egon: o thee-ethmeh enehmot: nahren Pensoteer: Penshois Ieesous Pi-ekhristos."
+    "english": "Ari-epresvevin egon: o thee-ethmeh enehmot: nahren Pensoteer: Penshois Ieesous Pi-ekhristos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϫⲱⲛ:"
+     "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϫⲱⲛ:"
     },
     {
      "coptic": "ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ϩ̀ⲙⲟⲧ:"
@@ -1061,6 +1103,7 @@
   },
   {
    "id": "l43",
+   "side": 0,
    "coptic": "Ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲧⲁϫⲣⲟⲛ: ϧⲉⲛ ⲡⲓⲛⲁϩϯ ⲉⲧⲥⲟⲩⲧⲱⲛ: ⲟⲩⲟϩ ⲛ̀ⲧⲉϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "That He may confirm us, in the upright faith, and grant us the forgiveness, of our sins.",
@@ -1086,17 +1129,18 @@
   },
   {
    "id": "l44",
-   "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ̀: ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲁⲣⲓⲁ̀: Ⲡⲟ̅ⲥ̅ ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ̀: ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲁⲣⲓⲁ̀: Ⲡⲟ̅ⲥ̅ ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
-    "english": "* Through the intercessions, of the Mother of God Saint Mary, O Lord grant us, the forgiveness of our sins.",
+    "english": "Through the intercessions, of the Mother of God Saint Mary, O Lord grant us, the forgiveness of our sins.",
     "arabic": "بشفاعات والدة الاله القديسة مريم يارب أنعم لنا بمغفرة خطايانا."
    },
    "transliterations": {
-    "english": "* Hiten ni-epresvi-a: ente tithe-otokos ethowab Mari-a: Epshois ari-ehmot nan: empiko evol ente nennovi."
+    "english": "Hiten ni-epresvi-a: ente tithe-otokos ethowab Mari-a: Epshois ari-ehmot nan: empiko evol ente nennovi."
    },
    "stanzas": [
     {
-     "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ̀:"
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ̀:"
     },
     {
      "coptic": "ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲁⲣⲓⲁ̀:"
@@ -1111,6 +1155,7 @@
   },
   {
    "id": "l45",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ) Ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ: ⲛⲉⲙ ϩⲁⲛⲏ̀ⲃⲁ ⲛ̀̀ⲏ̀ⲃⲁ: ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲁⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅.",
    "translations": {
     "english": "(For the Angels) Thousands of thousands, and myriads of myriads, of archangels, and holy angels.",
@@ -1139,17 +1184,18 @@
   },
   {
    "id": "l46",
-   "coptic": "* Ⲉⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ: ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ: ⲛ̀ⲧⲉ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲉⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ: ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ: ⲛ̀ⲧⲉ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ.",
    "translations": {
-    "english": "* They stand before, the throne, of the Pantocrator, proclaiming and saying.",
+    "english": "They stand before, the throne, of the Pantocrator, proclaiming and saying.",
     "arabic": "وقوف أمام كرسى ضابط الكل صارخين قائلين."
    },
    "transliterations": {
-    "english": "* Evohi eratou: empe-emtho empi-eeronos: ente pipantokrator: evosh evol evgo emmos."
+    "english": "Evohi eratou: empe-emtho empi-eeronos: ente pipantokrator: evosh evol evgo emmos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲉⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ:"
+     "coptic": "Ⲉⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ:"
     },
     {
      "coptic": "ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ:"
@@ -1164,6 +1210,7 @@
   },
   {
    "id": "l47",
+   "side": 0,
    "coptic": "Ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ: ⲭ̀ⲟⲩⲁⲃ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲧⲁⲓⲟ̀: ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ.",
    "translations": {
     "english": "Holy Holy, Holy in truth, the glory and the honor, befit the Trinity.",
@@ -1189,17 +1236,18 @@
   },
   {
    "id": "l48",
-   "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: Ⲡⲟ̅ⲥ̅....",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: Ⲡⲟ̅ⲥ̅....",
    "translations": {
-    "english": "* Through the intercessions, of the whole choir of the angels, O Lord....",
+    "english": "Through the intercessions, of the whole choir of the angels, O Lord....",
     "arabic": "بشفاعات جميع صفوف الملائكة يارب...."
    },
    "transliterations": {
-    "english": "* Hiten ni-epresvia: ente epkhoros teerf ente niangelos: Epshois...."
+    "english": "Hiten ni-epresvia: ente epkhoros teerf ente niangelos: Epshois...."
    },
    "stanzas": [
     {
-     "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
     },
     {
      "coptic": "ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ:"
@@ -1211,6 +1259,7 @@
   },
   {
    "id": "l49",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ) Ⲛⲉⲛⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲁⲩϩⲓⲱⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ: ϧⲉⲛ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ: ⲛ̀ⲧⲉ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅.",
    "translations": {
     "english": "(For the Apostles) Our fathers the apostles, preached unto the nations, the Gospel, of Jesus Christ.",
@@ -1239,17 +1288,18 @@
   },
   {
    "id": "l50",
-   "coptic": "* Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ: ϩⲓϫⲉⲛ ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ: ⲟⲩⲟϩ ⲛⲟⲩⲥⲁϫⲓ ⲁⲩⲫⲟϩ: ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ.",
+   "side": 1,
+   "coptic": "Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ: ϩⲓϫⲉⲛ ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ: ⲟⲩⲟϩ ⲛⲟⲩⲥⲁϫⲓ ⲁⲩⲫⲟϩ: ϣⲁ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ.",
    "translations": {
-    "english": "* Their voices went forth, into all the earth, and their words have reached, the ends of the world.",
+    "english": "Their voices went forth, into all the earth, and their words have reached, the ends of the world.",
     "arabic": "خرجت أصواتهم الى الأرض كلها وبلغ كلامهم الى أقطار المسكونة."
    },
    "transliterations": {
-    "english": "* Apou-ekhroou shenaf: hijen epkahi teerf: o-woh nousaji avfoh: sha avreegs entioikoumenee."
+    "english": "Apou-ekhroou shenaf: hijen epkahi teerf: o-woh nousaji avfoh: sha avreegs entioikoumenee."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ:"
+     "coptic": "Ⲁⲡⲟⲩϧ̀ⲣⲱⲟⲩ ϣⲉⲛⲁϥ:"
     },
     {
      "coptic": "ϩⲓϫⲉⲛ ⲡ̀ⲕⲁϩⲓ ⲧⲏⲣϥ:"
@@ -1264,6 +1314,7 @@
   },
   {
    "id": "l51",
+   "side": 0,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ...",
    "translations": {
     "english": "Through the prayers, of my fathers the apostles, O Lord.....",
@@ -1286,6 +1337,7 @@
   },
   {
    "id": "l52",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ) * Ϩⲁⲛⲭ̀ⲗⲟⲙ ⲛ̀ⲁⲧⲗⲱⲙ: ⲁϥⲧⲏⲓⲧⲟⲩ ⲛ̀ϫⲉ Ⲡⲟ̅ⲥ̅: ϩⲓϫⲉⲛ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ: ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ.",
    "translations": {
     "english": "(For the Martyrs) * Unfading crowns, the Lord has placed, upon the whole choir, of the martyrs.",
@@ -1314,6 +1366,7 @@
   },
   {
    "id": "l53",
+   "side": 0,
    "coptic": "Ⲁϥⲧⲟⲩϫⲱⲟⲩ ⲁϥⲛⲁϩⲙⲟⲩ: ϫⲉ ⲁⲩⲫⲱⲧ ϩⲁⲣⲟϥ: ⲁⲩⲉⲣϣⲁⲓ ⲛⲉⲙⲁϥ: ϧⲉⲛ ⲧⲉϥⲙⲉⲧⲟⲩⲣⲟ.",
    "translations": {
     "english": "He saved and delivered them, because they took refuge in Him, they celebrated with Him, in His Kingdom.",
@@ -1339,17 +1392,18 @@
   },
   {
    "id": "l54",
-   "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: Ⲡⲟ̅ⲥ̅....",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: Ⲡⲟ̅ⲥ̅....",
    "translations": {
-    "english": "* Through the prayers, of the whole choir of the martyrs, O Lord....",
+    "english": "Through the prayers, of the whole choir of the martyrs, O Lord....",
     "arabic": "بصلوات جميع صفوف الشهداء يارب ..."
    },
    "transliterations": {
-    "english": "* Hiten nievshee: ente epkhoros teerf ente nimartiros: Epshois...."
+    "english": "Hiten nievshee: ente epkhoros teerf ente nimartiros: Epshois...."
    },
    "stanzas": [
     {
-     "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ:"
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ:"
     },
     {
      "coptic": "ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ:"
@@ -1361,6 +1415,7 @@
   },
   {
    "id": "l55",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ) Ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲁⲕ: ⲉⲩⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲉ̀ⲩⲉⲥⲁϫⲓ ⲙ̀ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.",
    "translations": {
     "english": "(For the Saints) Your saints bless You, and they speak, of the glory, of Your Kingdom)",
@@ -1389,17 +1444,18 @@
   },
   {
    "id": "l56",
-   "coptic": "* Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ: ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲉ̀ⲛⲉϩ: ⲟⲩⲟϩ ⲧⲉⲕⲙⲉⲧⲟ̅ⲥ̅: ϣⲁ ⲛⲓⲅⲉⲛⲉⲁ̀ ⲧⲏⲣⲟⲩ.",
+   "side": 1,
+   "coptic": "Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ: ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲉ̀ⲛⲉϩ: ⲟⲩⲟϩ ⲧⲉⲕⲙⲉⲧⲟ̅ⲥ̅: ϣⲁ ⲛⲓⲅⲉⲛⲉⲁ̀ ⲧⲏⲣⲟⲩ.",
    "translations": {
-    "english": "* Your Kingdom O my God, is an eternal kingdom, and Your Lordship, is unto all ages.",
+    "english": "Your Kingdom O my God, is an eternal kingdom, and Your Lordship, is unto all ages.",
     "arabic": "ملكوتك يا الهى ملكوت أبدى وربوبيتك الى كل الأجيال."
    },
    "transliterations": {
-    "english": "* Tekmetouro Panoti: oumetouro eneneh: o-woh tekmetshois: sha nigene-a teerou."
+    "english": "Tekmetouro Panoti: oumetouro eneneh: o-woh tekmetshois: sha nigene-a teerou."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ:"
+     "coptic": "Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ:"
     },
     {
      "coptic": "ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲉ̀ⲛⲉϩ:"
@@ -1414,6 +1470,7 @@
   },
   {
    "id": "l57",
+   "side": 0,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ: ⲛⲉⲙ ⲛⲓⲏ̀ⲙⲏⲓ ⲛⲉⲙ ⲛⲓⲇⲓⲕⲉⲟⲥ: Ⲡⲟ̅ⲥ̅...",
    "translations": {
     "english": "Through the prayers, of the whole choir of the cross-bearers, the righteous and the just, O Lord....",
@@ -1439,6 +1496,7 @@
   },
   {
    "id": "l58",
+   "side": 0,
    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ) * Ⲭⲉⲣⲉ Ⲉⲗⲓⲁⲥ: ⲡⲓⲥⲟⲫⲣⲟⲛ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ⲛⲉⲙ Ⲉⲗⲓⲥⲉⲟⲥ: ⲡⲉϥⲥⲱⲧⲡ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ.",
    "translations": {
     "english": "(For the Patriarchs and the Prophets) * Hail to Elijah, the prophet of temperance, and Elisha, his elect disciple.",
@@ -1467,6 +1525,7 @@
   },
   {
    "id": "l59",
+   "side": 0,
    "coptic": "Ⲡⲓⲛⲓϣϯ ⲛ̀ⲣⲉϥϩⲓⲱⲓϣ: ϧⲉⲛ ϯⲭⲱⲣⲁ ⲛ̀ⲧⲉ Ⲭⲏⲙⲓ: Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲡⲉⲥϣⲟⲣⲡ ⲛ̀ⲛⲉϥⲉⲣϩⲉⲙⲓ.",
    "translations": {
     "english": "The great Evangelist, of the land of Egypt, Mark the Apostle, the first prelate.",
@@ -1492,17 +1551,18 @@
   },
   {
    "id": "l60",
-   "coptic": "* Ⲛⲑⲟ ⲡⲉ ⲏ̀ⲙⲁⲩ ⲙ̀Ⲫϯ: Ⲙⲁⲣⲓⲁ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϫⲱⲛ: ⲉⲑⲣⲉϥⲛⲁⲓ ϧⲁ ⲡⲉⲛⲅⲉⲛⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲛⲑⲟ ⲡⲉ ⲏ̀ⲙⲁⲩ ⲙ̀Ⲫϯ: Ⲙⲁⲣⲓⲁ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲧⲱⲃϩ ⲙ̀ⲙⲟϥ ⲉ̀ϫⲱⲛ: ⲉⲑⲣⲉϥⲛⲁⲓ ϧⲁ ⲡⲉⲛⲅⲉⲛⲟⲥ.",
    "translations": {
-    "english": "* You are the Mother of God, O Virgin Mary, ask Him on our behalf, to have mercy upon our race.",
+    "english": "You are the Mother of God, O Virgin Mary, ask Him on our behalf, to have mercy upon our race.",
     "arabic": "أنت هى أم الله يامريم العذراء. أطلبى منه عنا أن يرحم جنسنا."
    },
    "transliterations": {
-    "english": "* Ntho pe eemav emefnoti: Mari-a tiparthenos: tovh emmof egon: ethrefnai kha pengenos."
+    "english": "Ntho pe eemav emefnoti: Mari-a tiparthenos: tovh emmof egon: ethrefnai kha pengenos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲛⲑⲟ ⲡⲉ ⲏ̀ⲙⲁⲩ ⲙ̀Ⲫϯ:"
+     "coptic": "Ⲛⲑⲟ ⲡⲉ ⲏ̀ⲙⲁⲩ ⲙ̀Ⲫϯ:"
     },
     {
      "coptic": "Ⲙⲁⲣⲓⲁ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
@@ -1517,6 +1577,7 @@
   },
   {
    "id": "l61",
+   "side": 0,
    "coptic": "Ⲡⲓⲛⲓϣϯ ⲙ̀ⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲥⲉⲩⲏ̀ⲣⲟⲥ: ⲫⲏⲉⲧⲁ ⲛⲉϥⲥ̀ⲃⲱⲟⲩⲓ̀ ⲉ̅ⲑ̅ⲩ̅: ⲉ̀ⲣⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲉⲛⲛⲟⲩⲥ.",
    "translations": {
     "english": "The great patriarch, our father Abba Severus, whose holy teachings, enlightened our minds.",
@@ -1542,17 +1603,18 @@
   },
   {
    "id": "l62",
-   "coptic": "* Ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲟ̀ⲙⲟⲗⲟⲅⲓⲧⲏⲥ: ⲁⲃⲃⲁ Ⲇⲓⲟⲥⲕⲟⲣⲟⲥ: ⲁϥⲙⲓϣⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲛⲁϩϯ: ⲟⲩⲃⲉ ⲛⲓϩⲉⲣⲉⲧⲓⲕⲟⲥ.",
+   "side": 1,
+   "coptic": "Ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲟ̀ⲙⲟⲗⲟⲅⲓⲧⲏⲥ: ⲁⲃⲃⲁ Ⲇⲓⲟⲥⲕⲟⲣⲟⲥ: ⲁϥⲙⲓϣⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲛⲁϩϯ: ⲟⲩⲃⲉ ⲛⲓϩⲉⲣⲉⲧⲓⲕⲟⲥ.",
    "translations": {
-    "english": "* Our father the confessor, Abba Dioscorus, defended the faith, against the heretics.",
+    "english": "Our father the confessor, Abba Dioscorus, defended the faith, against the heretics.",
     "arabic": "أبونا المعترف أنبا ديسقوروس حارب عن الايمان ضد الهراطقة."
    },
    "transliterations": {
-    "english": "* Peniot enomologitees: abba Dioskoros: afmishi ejen pinahti: ouve niheretikos."
+    "english": "Peniot enomologitees: abba Dioskoros: afmishi ejen pinahti: ouve niheretikos."
    },
    "stanzas": [
     {
-     "coptic": "* Ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲟ̀ⲙⲟⲗⲟⲅⲓⲧⲏⲥ:"
+     "coptic": "Ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲟ̀ⲙⲟⲗⲟⲅⲓⲧⲏⲥ:"
     },
     {
      "coptic": "ⲁⲃⲃⲁ Ⲇⲓⲟⲥⲕⲟⲣⲟⲥ:"
@@ -1567,6 +1629,7 @@
   },
   {
    "id": "l63",
+   "side": 0,
    "coptic": "Ⲛⲉⲙ ⲛⲉⲛⲓⲟϯ ⲧⲏⲣⲟⲩ: ⲉ̀ⲧⲁⲩⲣⲁⲛⲁϥ ⲙ̀Ⲡⲟ̅ⲥ̅: ⲉ̀ⲣⲉ ⲡⲟⲩⲥ̀ⲙⲟⲩ ⲉ̅ⲑ̅ⲩ̅: ϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲣⲉϥⲣⲱⲓⲥ.",
    "translations": {
     "english": "And all of our fathers, who have pleased the Lord, may their holy blessings, be a guard unto us.",
@@ -1592,17 +1655,18 @@
   },
   {
    "id": "l64",
-   "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ: ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ Ⲫϯ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ: ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲥⲱϯ.",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ: ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ Ⲫϯ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ: ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲥⲱϯ.",
    "translations": {
-    "english": "* Through their prayers, O God grant us, the forgiveness of our sins, and give us peace.",
+    "english": "Through their prayers, O God grant us, the forgiveness of our sins, and give us peace.",
     "arabic": "بصلواتهم أنعم لنا يا الله بمغفرة خطايانا وأعطنا سلاما."
    },
    "transliterations": {
-    "english": "* Hiten nowevshee: ari-ehmot nan Efnoti: empiko evol ente nennovi: moi nan enousoti."
+    "english": "Hiten nowevshee: ari-ehmot nan Efnoti: empiko evol ente nennovi: moi nan enousoti."
    },
    "stanzas": [
     {
-     "coptic": "* Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ:"
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ:"
     },
     {
      "coptic": "ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ Ⲫϯ:"

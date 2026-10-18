@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϫⲉ ⲟⲩⲭ̀ⲣⲏⲥⲧⲟⲥ ⲟⲩⲁ̀ⲅⲁⲑⲟⲥ ⲡⲉ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "O give thanks to the Lord for He is good, Alleluia His mercy endures forever.",
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲩϯ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "O give thanks to the God of gods, Alleluia His mercy endures forever.",
@@ -46,6 +48,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϭⲟⲓⲥ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "O give thanks to the Lord of lords, Alleluia His mercy endures forever.",
@@ -65,6 +68,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲫⲏⲉⲧⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛⲛⲓϣϯ ⲛ̀ϣ̀ⲫⲏⲣⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who alone does great wonders, Alleluia His mercy endures forever.",
@@ -84,6 +88,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ̀ ϧⲉⲛ ⲟⲩⲕⲁϯ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who by wisdom made the heavens, Alleluia His mercy endures forever.",
@@ -103,6 +108,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲧⲁϫⲣⲟ ⲙ̀ⲡⲓⲕⲁϩⲓ ϩⲓϫⲉⲛ ⲛⲓⲙⲱⲟⲩ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who stretched out the earth above the waters, Alleluia His mercy endures forever.",
@@ -125,6 +131,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟ ⲛ̀ϩⲁⲛⲛⲓϣϯ ⲛ̀ⲣⲉϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who made great lights, Alleluia His mercy endures forever.",
@@ -144,6 +151,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲫ̀ⲣⲏ ⲉ̀ⲟⲩⲉⲣϣⲓϣⲓ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ϩⲟⲟⲩ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "The sun to rule by day, Alleluia His mercy endures forever.",
@@ -163,6 +171,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲡⲓⲓⲟϩ ⲛⲉⲙ ⲛⲓⲥⲓⲟⲩ ⲉⲩⲉⲝⲟⲩⲥⲓⲁ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ϫⲱⲣϩ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "The moon and stars to rule by night, Alleluia His mercy endures forever.",
@@ -182,6 +191,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥϣⲁⲣⲓ ⲉ̀ⲛⲁ Ⲭⲏⲙⲓ ⲛⲉⲙ ⲛⲟⲩϣⲁⲙⲓⲥⲓ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who smote Egypt in their firstborn, Alleluia His mercy endures forever.",
@@ -204,6 +214,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲟⲩⲟϩ ⲁϥⲓ̀ⲛⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧⲟⲩⲙⲏϯ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "And brought out Israel from among them, Alleluia His mercy endures forever.",
@@ -223,6 +234,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ϧⲉⲛ ⲟⲩϫⲓϫ ⲉⲥⲁ̀ⲙⲁϩⲓ ⲛⲉⲙ ⲟⲩϣⲱⲃϣ ⲉϥϭⲟⲥⲓ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "With a strong hand and with a stretched out arm, Alleluia His mercy endures forever.",
@@ -245,6 +257,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲫⲱⲣϫ ⲙ̀ⲫ̀ⲓⲟⲙ ⲛ̀ϣⲁⲣⲓ ϧⲉⲛ ϩⲁⲛⲫⲱⲣϫ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who divided the Red Sea into parts, Alleluia His mercy endures forever.",
@@ -267,6 +280,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲟⲩⲟϩ ⲁϥⲓ̀ⲛⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ⲙⲏⲣ ϧⲉⲛ ⲧⲉϥⲙⲏϯ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "And made Israel to pass through the midst of it, Alleluia His mercy endures forever.",
@@ -289,6 +303,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲟⲩⲟϩ ⲁϥⲃⲟⲣⲃⲉⲣ ⲙ̀ⲫⲁⲣⲁⲱ̀ ⲛⲉⲙ ⲧⲉϥϫⲟⲙ ⲧⲏⲣⲥ ⲉ̀ⲫ̀ⲓⲟⲙ ⲛ̀ϣⲁⲣⲓ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "But overthrew pharaoh and his hosts in the Red Sea, Alleluia His mercy endures forever.",
@@ -311,6 +326,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲓ̀ⲛⲓ ⲙ̀ⲡⲉϥⲗⲁⲟⲥ ⲉ̀ⲃⲟⲗ ⲛ̀ϩ̀ⲣⲏⲓ ϩⲓ ⲡ̀ϣⲁϥⲉ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who led His people through the wilderness, Alleluia His mercy endures forever.",
@@ -330,6 +346,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲓ̀ⲛⲓ ⲛ̀ⲟⲩⲙⲱⲟⲩ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲟⲩⲡⲉⲧⲣⲁ ⲛ̀ⲕⲟϩ ⲛ̀ϣⲱⲧ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who retrieved water from a rock, Alleluia His mercy endures forever.",
@@ -349,6 +366,7 @@
   },
   {
    "id": "l18",
+   "side": 1,
    "coptic": "Ⲫⲏⲉ̀ⲧⲁϥϣⲁⲣⲓ ⲉ̀ϩⲁⲛⲛⲓϣϯ ⲛ̀ⲟⲩⲣⲱⲟⲩ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "To Him who smote great kings, Alleluia His mercy endures forever.",
@@ -371,6 +389,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲟⲩⲟϩ ⲁϥϧⲱⲧⲉⲃ ⲛ̀ϩⲁⲛⲟⲩⲣⲱⲟⲩ ⲉⲩⲟⲓ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "And slew famous kings, Alleluia His mercy endures forever.",
@@ -390,6 +409,7 @@
   },
   {
    "id": "l20",
+   "side": 1,
    "coptic": "Ⲥⲏⲱⲛ ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ Ⲛⲓⲁ̀ⲙⲟⲣⲣⲉⲟⲥ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Sihon the king of the Amorites, Alleluia His mercy endures forever.",
@@ -409,6 +429,7 @@
   },
   {
    "id": "l21",
+   "side": 0,
    "coptic": "Ⲛⲉⲙ Ⲱⲅ ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲑ̀Ⲃⲁⲥⲁⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "And Og the king of Bashan, Alleluia His mercy endures forever.",
@@ -428,6 +449,7 @@
   },
   {
    "id": "l22",
+   "side": 1,
    "coptic": "Ⲁϥϯ ⲙ̀ⲡⲟⲩⲕⲁϩⲓ ⲉⲩⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "And gave their lands for a heritage, Alleluia His mercy endures forever.",
@@ -450,6 +472,7 @@
   },
   {
    "id": "l23",
+   "side": 0,
    "coptic": "Ⲉⲩⲕ̀ⲗⲏⲣⲟⲛⲟⲙⲓⲁ ⲙ̀ⲡⲉϥⲃⲱⲕ Ⲡⲓⲥⲣⲁⲏⲗ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "A heritage unto Israel His servant, Alleluia His mercy endures forever.",
@@ -472,6 +495,7 @@
   },
   {
    "id": "l24",
+   "side": 1,
    "coptic": "Ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲉⲛⲑⲉⲃⲓⲟ ⲁϥⲉⲣⲡⲉⲛⲙⲉⲩⲓ̀ ⲛ̀ϫⲉ Ⲡ̀ϭⲟⲓⲥ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Who remembered us in our low estate, Alleluia His mercy endures forever.",
@@ -494,6 +518,7 @@
   },
   {
    "id": "l25",
+   "side": 0,
    "coptic": "Ⲟⲩⲟϩ ⲁϥⲥⲟⲧⲧⲉⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛϫⲓϫ ⲛ̀ⲧⲉ ⲛⲉⲛϫⲁϫⲓ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "And has redeemed us from our enemies, Alleluia His mercy endures forever.",
@@ -516,6 +541,7 @@
   },
   {
    "id": "l26",
+   "side": 1,
    "coptic": "Ⲫⲏⲉⲧϯ ϧ̀ⲣⲉ ⲛ̀ⲥⲁⲣⲝ ⲛⲓⲃⲉⲛ ⲉⲧⲟⲛϧ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "Who gives food to all flesh, Alleluia His mercy endures forever.",
@@ -535,6 +561,7 @@
   },
   {
    "id": "l27",
+   "side": 0,
    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "O give thanks to the God of heaven, Alleluia His mercy endures forever.",
@@ -554,6 +581,7 @@
   },
   {
    "id": "l28",
+   "side": 1,
    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϭⲟⲓⲥ ϫⲉ ⲟⲩⲭ̀ⲣⲏⲥⲧⲟⲥ ⲟⲩⲁ̀ⲅⲁⲑⲟⲥ ⲡⲉ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "O give thanks to the Lord of lords for He is good, Alleluia His mercy endures forever.",

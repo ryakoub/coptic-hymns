@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲉ̅ⲑ̅ⲩ̅ ...",
    "translations": {
     "english": "A homily of our holy father ..."
@@ -15,6 +16,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲏⲙⲁⲛⲇ̀ⲣⲓⲧⲏⲥ.",
    "translations": {
     "english": "Abba Shenouda the Archimandrite."
@@ -22,6 +24,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "ⲁⲃⲃⲁ Ⲓⲱ̅ⲁ̅ ⲡⲓⲭ̀ⲣⲩⲥⲟⲥⲧⲟⲙⲟⲥ.",
    "translations": {
     "english": "Abba John Chrysostom."
@@ -29,6 +32,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "ⲁⲃⲃⲁ Ⲁ̀ⲑⲁⲛⲁⲥⲓⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲟⲥ.",
    "translations": {
     "english": "Abba Athanasius the Apostolic."
@@ -36,6 +40,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "ⲁⲃⲃⲁ Ⲥⲉⲩⲏⲣⲓⲁⲛⲟⲥ.",
    "translations": {
     "english": "Abba Severianus."
@@ -43,6 +48,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "ⲉ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ⲉ̅ⲑ̅ⲩ̅ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲁ̀ⲙⲏⲛ.",
    "translations": {
     "english": "may his holy blessings be with us. Amen."
@@ -54,6 +60,7 @@
   },
   {
    "id": "l8",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲉⲛⲉⲣⲥ̀ⲫ̀ⲣⲁϫⲓⲍⲓⲛ ⲛ̀ϯⲕⲁⲧⲏⲭⲏⲥⲓⲥ ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲉ̅ⲑ̅ⲩ̅ ...",
    "translations": {
     "english": "We conclude the homily of our holy father ..."
@@ -61,6 +68,7 @@
   },
   {
    "id": "l9",
+   "side": 1,
    "coptic": "ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲏⲙⲁⲛⲇ̀ⲣⲓⲧⲏⲥ.",
    "translations": {
     "english": "Abba Shenouda the Archimandrite."
@@ -72,6 +80,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "ⲫⲏⲉ̀ⲧⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲉⲛⲛⲟⲩⲥ ⲛⲉⲙ ⲛⲓⲃⲁⲗ ⲛ̀ⲧⲉ ⲛⲉⲛϩⲏⲧ: ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ Ⲟⲩⲛⲟⲩϯ ⲛ̀ⲟⲩⲱⲧ ⲁ̀ⲙⲏⲛ.",
    "translations": {
     "english": "who enlightened our minds and our hearts. In the name of the Father, and the Son, and the Holy Spirit, one God. Amen."

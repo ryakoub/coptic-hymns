@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲡⲓⲱⲓⲕ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ: ⲉ̀ⲧⲁϥⲓ̀ ⲉⲡⲉⲥⲏⲧ: ⲛⲁⲛ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ: ⲁⲫϯ ⲙ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
    "translations": {
     "english": "The Bread of life, which came down for us from heaven, has given life to the world."
@@ -15,6 +16,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲛ̀ⲑⲟ ϩⲱⲓ Ⲙⲁⲣⲓⲁ̀: ⲁ̀ⲣⲉϥⲁⲓ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ: ⲙ̀ⲡⲓⲘⲁⲛⲛⲁ ⲛ̀ⲛⲟ ⲏ̀ⲧⲟⲛ: ⲉ̀ⲧⲁϥⲓ̀ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ.",
    "translations": {
     "english": "And you too, O Mary, have born in your womb the rational Manna, which came from the Father."
@@ -22,6 +24,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲁ̀ⲣⲉⲙⲁⲥϥ ⲁϭⲛⲉ ⲑⲱⲗⲉⲃ: ⲁϥϯ ⲛⲁⲛ ⲙ̀ⲡⲉϥⲥⲱⲙⲁ: ⲛⲉⲙ ⲡⲉϥⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ: ⲁⲛⲱⲛϧ ϣⲁ ⲉ̀ⲛⲉϩ.",
    "translations": {
     "english": "You have brought Him forth without blemish; He gave us His body and His precious blood, and we live forever."
@@ -29,6 +32,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲥⲉⲧⲱⲟⲩⲛⲟⲩ ϩⲁⲣⲟⲕ: ⲛ̀ϫⲉ ⲛⲓⲬⲉⲣⲟⲩⲃⲓⲙ: ⲛⲉⲙ ⲛⲓⲤⲉⲣⲁⲫⲓⲙ: ⲥⲉϣ̀ⲛⲁⲩ ⲉ̀ⲣⲟⲕ ⲁⲛ.",
    "translations": {
     "english": "Around You stand the Cherubim, and the Seraphim, and they cannot look at You."
@@ -36,6 +40,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲉ̀ⲣⲟⲕ ⲙ̀ⲙⲏⲓ: ϩⲓϫⲉⲛ ⲡⲓⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ: ⲧⲉⲛϭⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲕⲥⲱⲙⲁ ⲛⲉⲙ ⲡⲉⲕ ⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ.",
    "translations": {
     "english": "We behold You upon the Altar and we partake of Your body and Your precious blood."
@@ -43,6 +48,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲉ̀ⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϭⲓⲥⲓ: ⲙ̀ⲙⲟ ⲁ̀ⲝⲓⲱⲥ ϧⲉⲛ ϩⲁⲛⲩ̀ⲙⲛⲟⲗⲟⲅⲓⲁ̀: ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
    "translations": {
     "english": "Therefore we exalt you befittingly, with prophetic hymnology."
@@ -50,6 +56,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ϫⲉ ⲁⲩⲥⲁϫⲓ ⲉⲑⲃⲏϯ: ⲛ̀ϩⲁⲛ ϩ̀ⲃⲏⲟⲩⲓ̀ ⲉⲩⲧⲁⲓⲏ̀ⲟⲩⲧ ϯⲃⲁⲕⲓ ⲉ̀ⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲓⲛⲓϣϯ ⲛ̀Ⲟⲩⲣⲟ.",
    "translations": {
     "english": "For they spoke of you with great honor, O holy city of the great King."
@@ -57,6 +64,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲧⲉⲛϯϩⲟ ⲧⲉⲛⲧⲱⲃϩ: ⲉ̀ⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀: ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
    "translations": {
     "english": "We entreat and pray that we may win mercy through your intercessions with the Lover of mankind."
@@ -64,6 +72,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀ ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̀ⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ̀: Ⲡ̀ⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Through the intercessions of the Theotokos Saint Mary, O Lord, grant us the forgiveness of our sins."
@@ -71,6 +80,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲩⲓⲁ̀ ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲓⲭⲁⲏⲗ ⲛⲉⲛ Ⲅⲁⲃⲣⲓⲏⲗ: Ⲡ̀ⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
     "english": "Through the intercessions of the holy archangels Michael and Gabriel, O Lord, grant us the forgiveness of our sins."

@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲧⲉⲟⲓ ⲛ̀ϩⲓⲕⲁⲛⲟⲥ: ⲉ̀ϩⲟⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ: ⲉⲑⲣⲉⲧⲱⲃϩ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ϩ̀ⲙⲟⲧ.",
    "translations": {
     "english": "You are more worthy, than all of the saints, to ask on our behalf, O full of grace.",
@@ -36,6 +37,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ⲧⲉϭⲟⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲉ̀ϩⲟⲧⲉ ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲟⲩⲟϩ ⲧⲉⲧⲁⲓⲏⲟⲩⲧ: ⲉ̀ϩⲟⲧⲉ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
    "translations": {
     "english": "You are exalted, more than the patriarchs, and honored more, than the prophets.",
@@ -61,6 +63,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ⲟⲩⲟⲛ ⲧⲉ ϫⲓⲛⲙⲟϣⲓ: ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ: ⲉ̀ϩⲟⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ.",
    "translations": {
     "english": "And you have a seeking, more special, than the Cherubim, and the Seraphim.",
@@ -86,6 +89,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲡⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲙ̀ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲟⲩⲟϩ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ: ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ.",
    "translations": {
     "english": "For you are truly, the pride of our race, and the intercessor, of our souls.",
@@ -111,6 +115,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϫⲱⲛ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛⲥⲱⲧⲏⲣ: ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲧⲁϫⲣⲟⲛ: ϧⲉⲛ ⲡⲓⲛⲁϩϯ ⲉⲧⲥⲟⲩⲧⲱⲛ.",
    "translations": {
     "english": "Intercede for us, before our Savior, that He may keep us firm, in the upright faith.",
@@ -136,6 +141,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲛ̀ⲧⲉϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ: ⲛ̀ⲧⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ.",
    "translations": {
     "english": "That He may grant us, the forgiveness of our sins, in order to win mercy, through your intercessions.",
@@ -161,6 +167,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧⲟⲩⲓ̀:",
    "translations": {
     "english": "The Eleventh Part:",
@@ -175,6 +182,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲣⲁⲛ ⲛⲓⲃⲉⲛ ⲉⲧϭⲟⲥⲓ: ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲛⲓⲁ̀ⲛⲁⲛϣⲟ ⲛ̀ⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ.",
    "translations": {
     "english": "All the high names, of the incorporeal, thousands of angels, and archangels.",
@@ -200,6 +208,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲙ̀ⲡⲟϣ̀ⲫⲟϩ ⲉ̀ⲡ̀ϭⲓⲥⲓ: ⲛ̀ⲧⲉ ⲛⲉⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ: ⲱ̀ ⲑⲏⲉⲧϫⲟⲗϩ ⲙ̀ⲡⲓⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ⲥⲁⲃⲁⲱⲑ.",
    "translations": {
     "english": "They did not attain, your high blessedness, O who is clothed in, the glory of the Lord of hosts.",
@@ -225,6 +234,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲧⲉϩⲓⲁⲕⲧⲓⲛ ⲉ̀ⲃⲟⲗ: ⲉ̀ϩⲟⲧⲉ ⲫ̀ⲣⲏ: ⲧⲉⲟⲓ ⲛ̀ⲗⲁⲙⲡ̀ⲣⲟⲥ: ⲉ̀ϩⲟⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ.",
    "translations": {
     "english": "You are more brighter, than the sun, and more sparkling, than the Cherubim.",
@@ -253,6 +263,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲛⲁ ⲡⲓⲥⲟⲟⲩ ⲛ̀ⲧⲉⲛϩ: ⲥⲉⲉⲣⲣⲓⲡⲓⲍⲓⲛ ϧⲁϫⲱ: ϧⲉⲛ ⲟⲩⲉ̀ϣ̀ⲗⲏⲗⲟⲩⲓ̀.",
    "translations": {
     "english": "And the Seraphim, with the six wings, which are joyfully, hovering over you.",
@@ -278,6 +289,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧⲥ̀ⲛⲟⲩϯ:",
    "translations": {
     "english": "The Twelfth Part:",
@@ -292,6 +304,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲡⲉⲱ̀ⲟⲩ Ⲙⲁⲣⲓⲁ: ϭⲟⲥⲓ ⲉ̀ϩⲟⲧⲉ ⲧ̀ⲫⲉ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲉ̀ⲡ̀ⲕⲁϩⲓ: ⲛⲉⲙ ⲛⲏⲉⲧϣⲟⲡ ⲛ̀ϧⲏⲧϥ.",
    "translations": {
     "english": "Your glory O Mary, is higher than the heaven, you are more honored than the earth, and its inhabitants.",
@@ -320,6 +333,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲧⲉ ϯⲥ̀ⲧⲣⲁⲧⲁ ⲙ̀ⲙⲏⲓ: ⲉⲧⲟⲓ ⲙ̀ⲙⲁⲙ̀ⲙⲟϣⲓ: ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀.",
    "translations": {
     "english": "For you are truly, the real path, leading up, to the heavens.",
@@ -345,6 +359,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲁ̀ⲣⲉϯϩⲓⲱϯ: ⲙ̀ⲫ̀ⲣⲁϣⲓ ⲛⲉⲙ ⲡ̀ⲑⲉⲗⲏⲗ: ⲁ̀ⲣⲉⲙⲟⲣϯ ⲛ̀ⲟⲩϫⲟⲙ: ⲱ̀ ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲥⲓⲱⲛ.",
    "translations": {
     "english": "You are clothed, with joy and gladness, and girdled with power, O daughter of Zion.",
@@ -370,6 +385,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲱ̀ ⲑⲏⲉ̀ⲧⲁⲥϯϩⲓⲱⲧⲥ: ⲛ̀ⲧ̀ϩⲉⲃⲥⲱ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀: ϣⲁ ⲛ̀ⲧⲉⲥϩⲱⲃⲥ ⲛ̀Ⲁ̀ⲇⲁⲙ: ⲛ̀ⲧ̀ϩⲉⲃⲥⲱ ⲙ̀ⲡⲓϩ̀ⲙⲟⲧ.",
    "translations": {
     "english": "O who was clothed, with the garments of the heavenly, so that you covered Adam, with the garments of grace.",
@@ -395,6 +411,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ⲁ̀ⲣⲉⲧⲁⲥⲑⲟϥ ⲛ̀ⲕⲉⲥⲟⲡ: ⲉ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ: ⲡ̀ⲧⲟⲡⲟⲥ ⲙ̀ⲡ̀ⲟⲩⲛⲟϥ: ⲫ̀ⲙⲁ ⲛ̀ϣⲱⲡⲓ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ.",
    "translations": {
     "english": "And restored him again, to the Paradise, the rejoicing place, and dwelling of the righteous.",
@@ -423,6 +440,7 @@
   },
   {
    "id": "l18",
+   "side": 1,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧϣⲟⲙϯ:",
    "translations": {
     "english": "The Thirteenth Part:",
@@ -437,6 +455,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲟⲩⲥ̀ⲕⲏⲛⲏ ⲙ̀ⲙⲏⲓ: ⲧⲉ Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉⲩⲭⲏ ϧⲉⲛ ⲧⲉⲥⲙⲏϯ: ⲛ̀ϫⲉ ⲛⲓⲙⲉⲧⲙⲉⲑⲣⲉⲩ ⲉ̀ⲧⲉⲛϩⲟⲧ.",
    "translations": {
     "english": "A true tabernacle, is Mary the Virgin, placed in its midst, the true testimonies.",
@@ -462,6 +481,7 @@
   },
   {
    "id": "l20",
+   "side": 1,
    "coptic": "Ϯⲕⲓⲃⲱⲧⲟⲥ ⲛ̀ⲁⲧⲑⲱⲗⲉⲃ: ⲉⲧⲟϣϫ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲥⲁⲥⲁ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ: ⲛ̀ⲭⲉⲣⲟⲩⲃⲓⲙⲓⲕⲟⲛ.",
    "translations": {
     "english": "The undefiled ark, overlaid roundabout with gold, and the mercy seat, of the Cherubim.",
@@ -487,6 +507,7 @@
   },
   {
    "id": "l21",
+   "side": 0,
    "coptic": "Ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ ⲛ̀ⲛⲟⲩⲃ: ⲉ̀ⲣⲉ ⲡⲓⲙⲁⲛⲛⲁ ϩⲏⲡ ⲛ̀ϧⲏⲧϥ: ⲓⲥ Ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ: ⲓ̀ ⲁϥϭⲓⲥⲁⲣⲝ ⲛ̀ϧⲏϯ.",
    "translations": {
     "english": "The golden vessel, where the manna was hidden, behold the Word of the Father, came and took flesh from you.",
@@ -515,6 +536,7 @@
   },
   {
    "id": "l22",
+   "side": 1,
    "coptic": "Ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲉⲧϥⲁⲓ ϧⲁ Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲙ̀ⲙⲏⲓ: ⲉ̀ⲧⲉ Ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲡⲓⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ.",
    "translations": {
     "english": "The golden lampstand, carrying the true Light, who is the unapproachable, Light of the world.",
@@ -540,6 +562,7 @@
   },
   {
    "id": "l23",
+   "side": 0,
    "coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ: ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓϫⲉⲃⲥ ⲛ̀ⲭ̀ⲣⲱⲙ: ⲛⲉⲙ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲉⲧⲥⲱⲧⲡ: ⲛ̀ⲁ̀ⲣⲱⲙⲁⲧⲁ.",
    "translations": {
     "english": "The golden censer, carrying the live coal, and the chosen incense, with a rich aroma.",
@@ -565,6 +588,7 @@
   },
   {
    "id": "l24",
+   "side": 1,
    "coptic": "Ⲡⲓϣ̀ⲃⲱⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ⲛⲉⲙ ϯϩ̀ⲣⲏⲣⲓ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ.",
    "translations": {
     "english": "The rod of Aaron, that blossomed, and the holy flower, of the incense.",
@@ -593,6 +617,7 @@
   },
   {
    "id": "l25",
+   "side": 0,
    "coptic": "Ⲛⲁⲓ ⲧⲏⲣⲟⲩ ⲉⲩⲥⲟⲡ: ⲥⲉⲉⲣⲥⲩⲙⲙⲉⲛⲓⲛ ⲛⲁⲛ: ⲙ̀Ⲡⲓϫⲓⲛⲙⲓⲥⲓ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲱ̀ Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",
    "translations": {
     "english": "All these together, direct us to, the miraculous Birth, O Virgin Mary.",
@@ -618,6 +643,7 @@
   },
   {
    "id": "l26",
+   "side": 1,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧϥ̀ⲧⲟ:",
    "translations": {
     "english": "The Fourteenth Part:",
@@ -632,6 +658,7 @@
   },
   {
    "id": "l27",
+   "side": 0,
    "coptic": "Ⲁⲕⲥⲟⲗⲥⲉⲗ ⲛ̀ⲛⲉⲛⲯⲩⲭⲏ: ⲱ̀ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ϧⲉⲛ ⲡ̀ⲧⲁⲓⲟ ⲛ̀ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲧⲁⲕⲥⲉⲗⲥⲱⲗⲥ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "You decorated our souls, O Moses the prophet, by the honor of the tabernacle, which you have adorned.",
@@ -657,6 +684,7 @@
   },
   {
    "id": "l28",
+   "side": 1,
    "coptic": "Ϯⲥ̀ⲕⲏⲛⲏ ⲛ̀ϩⲟⲩⲓϯ: ⲉ̀ⲧⲁ Ⲙⲱⲩ̀ⲥⲏⲥ ⲑⲁⲙⲓⲟⲥ: ⲛ̀ⲟⲩⲙⲁ ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ: ⲛ̀ⲧⲉ ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ.",
    "translations": {
     "english": "The first tabernacle, which Moses had made, was the place of the forgiveness, for the children of Israel.",
@@ -682,6 +710,7 @@
   },
   {
    "id": "l29",
+   "side": 0,
    "coptic": "Ⲁϥⲑⲁⲙⲓⲟⲥ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ: ⲕⲁⲧⲁ ⲡ̀ⲥⲁϫⲓ ⲙ̀Ⲡ̀ϭⲟⲓⲥ: ⲛⲉⲙ ⲕⲁⲧⲁ ⲛⲓⲧⲩⲡⲟⲥ ⲧⲏⲣⲟⲩ: ⲉ̀ⲧⲁϥⲧⲁⲙⲟϥ ⲉ̀ⲣⲱⲟⲩ.",
    "translations": {
     "english": "He made it with glory, as commanded by the Lord, and according to the patterns, shown unto him.",
@@ -707,6 +736,7 @@
   },
   {
    "id": "l30",
+   "side": 1,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲕⲓⲃⲱⲧⲟⲥ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉⲥⲗⲁⲗⲏⲟⲩⲧ ⲛ̀ⲛⲟⲩⲃ: ⲥⲁϧⲟⲩⲛ ⲛⲉⲙ ⲥⲁⲃⲟⲗ.",
    "translations": {
     "english": "There was an ark, in the tabernacle, overlaid with gold, from within and without.",
@@ -735,6 +765,7 @@
   },
   {
    "id": "l31",
+   "side": 0,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ϩⲁⲛⲬⲉⲣⲟⲩⲃⲓⲙ ⲛ̀ⲛⲟⲩⲃ: ⲥⲉⲉⲣϧⲏⲓⲃⲓ ⲉ̀ϫⲱϥ.",
    "translations": {
     "english": "There was a mercy seat, in the tabernacle, and the golden Cherubim, overshadowed it.",
@@ -760,6 +791,7 @@
   },
   {
    "id": "l32",
+   "side": 1,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲥ̀ⲧⲁⲙⲛⲟⲥ ⲛ̀ⲛⲟⲩⲃ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲣⲉ ⲟⲩϣⲓ ⲙ̀ⲙⲁⲛⲛⲁ ϩⲏⲡ: ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧϥ.",
    "translations": {
     "english": "There was a golden pot, in the tabernacle, and a measure of the manna, was hidden in it.",
@@ -785,6 +817,7 @@
   },
   {
    "id": "l33",
+   "side": 0,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲣⲉ ⲡⲓϣⲁϣϥ ⲛ̀ϧⲏⲃⲥ: ⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ϫⲱⲥ.",
    "translations": {
     "english": "There was a golden lampstand, in the tabernacle, and the seven lamps, shone upon it.",
@@ -813,6 +846,7 @@
   },
   {
    "id": "l34",
+   "side": 1,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲣⲉ ⲡⲓⲕⲩⲛⲁⲙⲱⲛⲟⲛ: ⲉⲧⲥⲱⲧⲡ ϧⲉⲛ ⲧⲉⲥⲙⲏϯ.",
    "translations": {
     "english": "There was a golden censer, in the tabernacle, and the chosen aloe, was in its midst.",
@@ -838,6 +872,7 @@
   },
   {
    "id": "l35",
+   "side": 0,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩϩ̀ⲣⲏⲣⲓ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉⲩϣⲱⲗⲉⲙ ⲉ̀ⲣⲟⲥ ⲧⲏⲣⲟⲩ: ⲛ̀ϫⲉ ⲛⲁ ⲡ̀ⲏⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ.",
    "translations": {
     "english": "There was a flower of incense, in the tabernacle, inhaled by all, the house of Israel.",
@@ -866,6 +901,7 @@
   },
   {
    "id": "l36",
+   "side": 1,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩϣ̀ⲃⲱⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲫⲁⲓ ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ⲭⲱⲣⲓⲥ ϭⲟ ⲛⲉⲙ ⲧ̀ⲥⲟ.",
    "translations": {
     "english": "There was the rod of Aaron, in the tabernacle, this which has blossomed, without planting or watering.",
@@ -891,6 +927,7 @@
   },
   {
    "id": "l37",
+   "side": 0,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲧ̀ⲣⲁⲡⲉⲍⲁ ⲛ̀ⲛⲟⲩⲃ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲡ̀ⲱⲓⲕ ⲛ̀ϯⲡ̀ⲣⲟⲥⲑⲉⲥⲓⲥ: ⲭⲏ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲥ.",
    "translations": {
     "english": "There was a golden table, in the tabernacle, and the oblation bread, was placed upon it.",
@@ -916,6 +953,7 @@
   },
   {
    "id": "l38",
+   "side": 1,
    "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉϥⲉⲛ ϣⲟⲩϣⲱⲟⲩϣⲓ ⲉ̀ⲡ̀ϣⲱⲓ: ⲉ̀ϫⲉⲛ ⲛⲓⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲗⲁⲟⲥ.",
    "translations": {
     "english": "There was a high priest, in the tabernacle, offering sacrifices, on account of the peoples sins.",
@@ -944,6 +982,7 @@
   },
   {
    "id": "l39",
+   "side": 0,
    "coptic": "Ⲁϥϣⲁⲛϣⲱⲗⲉⲙ ⲉ̀ⲣⲟϥ: ⲛ̀ϫⲉ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ϣⲁϥⲱ̀ⲗⲓ ⲙ̀ⲙⲁⲩ: ⲛ̀ⲛⲓⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲗⲁⲟⲥ.",
    "translations": {
     "english": "When the Pantocrator, smelled the aroma, He lifted up the sins, of the people.",
@@ -972,6 +1011,7 @@
   },
   {
    "id": "l40",
+   "side": 1,
    "coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ⲁⲛⲥⲟⲩⲉⲛ Ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "Through Mary, the daughter of Joachim, we learned of the true Sacrifice, for the forgiveness of sin.",
@@ -1000,6 +1040,7 @@
   },
   {
    "id": "l41",
+   "side": 0,
    "coptic": "Ϯⲙⲁϩⲙⲏⲧϯ:",
    "translations": {
     "english": "The Fifteenth Part:",
@@ -1014,6 +1055,7 @@
   },
   {
    "id": "l42",
+   "side": 1,
    "coptic": "Ⲛⲓⲙ ⲡⲉⲑⲛⲁϣ̀ⲥⲁϫⲓ: ⲙ̀ⲡ̀ⲧⲁⲓⲟ ⲛ̀ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲧⲁϥⲥⲉⲗⲥⲱⲗⲥ ⲉ̀ⲃⲟⲗ: ⲛ̀ϫⲉ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
    "translations": {
     "english": "Who can speak of, the honor of the tabernacle, which was decorated, by the prophet.",
@@ -1039,6 +1081,7 @@
   },
   {
    "id": "l43",
+   "side": 0,
    "coptic": "Ⲉ̀ⲧⲁⲩⲛⲁⲩ ⲉ̀ⲣⲟⲥ: ⲛ̀ϫⲉ ⲛⲓⲥⲱⲧⲡ ⲛ̀ⲥⲁϧ: ⲛ̀ⲧⲉ ⲛⲓⲅ̀ⲣⲁⲫⲏ ⲉⲑⲟⲩⲁⲃ: ⲁⲩϭⲓϣ̀ⲫⲏⲣⲓ ⲉ̀ⲙⲁϣⲱ.",
    "translations": {
     "english": "When the chosen scholars, of the holy books, saw it, they were greatly amazed.",
@@ -1064,6 +1107,7 @@
   },
   {
    "id": "l44",
+   "side": 1,
    "coptic": "Ⲁⲩⲙⲟⲕⲙⲉⲕ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲡⲟⲩⲕⲁϯ ⲉⲧϣⲟⲙ: ⲁⲩⲉⲣⲙⲏⲛⲉⲩⲓⲛ ⲙ̀ⲙⲟⲥ: ϧⲉⲛ ⲛⲓⲅ̀ⲣⲁⲫⲏ ⲉⲑⲟⲩⲁⲃ.",
    "translations": {
     "english": "They thought, with their bright minds, and explained it, through the holy books.",
@@ -1092,6 +1136,7 @@
   },
   {
    "id": "l45",
+   "side": 0,
    "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀Ⲙⲁⲣⲓⲁ: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ϫⲉ ϯⲥ̀ⲕⲏⲛⲏ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ⲥⲁⲃⲁⲱⲑ.",
    "translations": {
     "english": "They called Mary, the daughter of Joachim, the true tabernacle, of the Lord of hosts.",
@@ -1117,6 +1162,7 @@
   },
   {
    "id": "l46",
+   "side": 1,
    "coptic": "Ⲁⲩⲉⲛ ϯⲕⲓⲃⲱⲧⲟⲥ: ϩⲓϫⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲡⲉⲥⲕⲉⲛⲟⲩⲃ ⲉⲧⲥⲱⲧⲡ: ϩⲓϫⲉⲛ ⲡⲉⲥⲧⲟⲩⲃⲟ.",
    "translations": {
     "english": "They likened the ark, to the Virgin, and its chosen gold, to her purity.",
@@ -1142,6 +1188,7 @@
   },
   {
    "id": "l47",
+   "side": 0,
    "coptic": "Ⲁⲩⲉⲛ ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ: ϩⲓϫⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲓⲥ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲥⲉⲉⲣϧⲏⲓⲃⲓ ⲉ̀ϫⲱⲥ.",
    "translations": {
     "english": "They likened the mercy seat, to the Virgin, and the Cherubim of glory, overshadowing her.",
@@ -1167,6 +1214,7 @@
   },
   {
    "id": "l48",
+   "side": 1,
    "coptic": "Ⲁⲩⲉⲛ ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ ⲛ̀ⲛⲟⲩⲃ: ϩⲓϫⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲡⲉϥⲕⲉϣⲓ ⲙ̀ⲙⲁⲛⲛⲁ: ϩⲓϫⲉⲛ Ⲡⲉⲛⲥⲱⲧⲏⲣ.",
    "translations": {
     "english": "They likened the golden pot, to the Virgin, and the measure of the manna, to our Savior.",
@@ -1192,6 +1240,7 @@
   },
   {
    "id": "l49",
+   "side": 0,
    "coptic": "Ⲁⲩⲉⲛ ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ϩⲓϫⲉⲛ Ϯⲉⲕⲕⲗⲏⲥⲓⲁ: ⲡⲉⲥⲕⲉϣⲁϣϥ ⲛ̀ϧⲏⲃⲥ: ϩⲓϫⲉⲛ ⲡⲓϣⲁϣϥ ⲛ̀ⲧⲁⲅⲙⲁ.",
    "translations": {
     "english": "They likened the golden candlestand, to the Church, and the seven lamps, to its seven orders.",
@@ -1217,6 +1266,7 @@
   },
   {
    "id": "l50",
+   "side": 1,
    "coptic": "Ⲁⲩⲉⲛ ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ: ϩⲓϫⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲡⲉⲥⲕⲩⲛⲁⲙⲱⲛⲟⲛ: ϩⲓϫⲉⲛ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
    "translations": {
     "english": "They likened the golden censer, to the Virgin, and its aloes, to Emmanuel.",
@@ -1242,6 +1292,7 @@
   },
   {
    "id": "l51",
+   "side": 0,
    "coptic": "Ⲁⲩⲉⲛ ϯϩ̀ⲣⲏⲣⲓ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ: ϩⲓϫⲉⲛ Ⲙⲁⲣⲓⲁ ϯⲟⲩⲣⲱ: ⲡⲉⲥⲕⲉⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲉⲧⲥⲱⲧⲡ: ϩⲓϫⲉⲛ ⲧⲉⲥⲡⲁⲣⲑⲉⲛⲓⲁ.",
    "translations": {
     "english": "They likened the flower of incense, to Mary the Queen, and the chosen incense, to her virginity.",
@@ -1267,6 +1318,7 @@
   },
   {
    "id": "l52",
+   "side": 1,
    "coptic": "Ⲁⲩⲉⲛ ⲡⲓϣ̀ⲃⲱⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ϩⲓϫⲉⲛ ⲡ̀ϣⲉ ⲛ̀ⲧⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲉ̀ⲧⲁⲩⲉϣ Ⲡⲁϭⲟⲓⲥ ⲉ̀ⲣⲟϥ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
    "translations": {
     "english": "They likened the rod of Aaron, to the wood of the Cross, which my Lord was crucified upon, in order to save us.",
@@ -1292,6 +1344,7 @@
   },
   {
    "id": "l53",
+   "side": 0,
    "coptic": "Ⲁⲩⲉⲛ ϯⲧ̀ⲣⲁⲡⲉⲍⲁ ⲛ̀ⲛⲟⲩⲃ: ϩⲓϫⲉⲛ ⲡⲓⲙⲁ ⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ: ⲡ̀ⲱⲓⲕ ⲛ̀ϯⲡ̀ⲣⲟⲑⲉⲥⲓⲥ: ϩⲓϫⲉⲛ Ⲡ̀ⲥⲱⲙⲁ ⲙ̀Ⲡ̀ϭⲟⲓⲥ.",
    "translations": {
     "english": "They likened the golden table, to the altar, and the oblation bread, to the Body of the Lord.",
@@ -1317,6 +1370,7 @@
   },
   {
    "id": "l54",
+   "side": 1,
    "coptic": "Ⲁⲩⲉⲛ ⲡⲓⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ: ϩⲓϫⲉⲛ Ⲡⲉⲛⲥⲱⲧⲏⲣ: Ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "They likened the high priest, to our Savior, the true Sacrifice, for the forgiveness of sins.",
@@ -1342,6 +1396,7 @@
   },
   {
    "id": "l55",
+   "side": 0,
    "coptic": "Ⲫⲁⲓ ⲉ̀ⲧⲁϥⲉⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ: ⲛ̀ⲟⲩⲑⲩⲥⲓⲁ ⲉⲥϣⲏⲡ: ϩⲓϫⲉⲛ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ϧⲁ ⲡ̀ⲟⲩϫⲁⲓ ⲙ̀ⲡⲉⲛⲅⲉⲛⲟⲥ.",
    "translations": {
     "english": "He who offered Himself, as an acceptable sacrifice, upon the Cross, for the salvation of our race.",
@@ -1367,6 +1422,7 @@
   },
   {
    "id": "l56",
+   "side": 1,
    "coptic": "Ⲁϥϣⲱⲗⲉⲙ ⲉ̀ⲣⲟϥ: ⲛ̀ϫⲉ Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲣⲟⲩϩⲓ: ϩⲓϫⲉⲛ Ϯⲅⲟⲗⲅⲟⲑⲁ.",
    "translations": {
     "english": "His good Father, smelled Him, in the evening, on Golgotha.",
@@ -1395,6 +1451,7 @@
   },
   {
    "id": "l57",
+   "side": 0,
    "coptic": "Ⲁϥⲟⲩⲱⲛ ⲙ̀ⲫ̀ⲣⲟ: ⲙ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ: ⲁϥⲧⲁⲥⲑⲟ ⲛ̀Ⲁ̀ⲇⲁⲙ: ⲉ̀ⲧⲉϥⲁⲣⲭⲏ ⲛ̀ⲕⲉⲥⲟⲡ.",
    "translations": {
     "english": "He opened the gate, of Paradise, and restored Adam again, to his authority.",
@@ -1423,6 +1480,7 @@
   },
   {
    "id": "l58",
+   "side": 1,
    "coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ⲁⲛⲥⲟⲩⲉⲛ Ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ.",
    "translations": {
     "english": "Through Mary, the daughter of Joachim, we learned of the true Sacrifice, for the forgiveness of sins.",
@@ -1448,6 +1506,7 @@
   },
   {
    "id": "l59",
+   "side": 0,
    "coptic": "Ⲁ̀ⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
    "translations": {
     "english": "And we too, hope to win mercy, through your intercessions, with the Lover of Mankind.",

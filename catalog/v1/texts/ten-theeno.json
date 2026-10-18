@@ -8,6 +8,7 @@
  "lines": [
   {
    "id": "l1",
+   "side": 0,
    "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ ⲉ̀ⲡ̀ϣⲱⲓ ⲛⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲧⲉⲛϩⲱⲥ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.",
    "translations": {
     "english": "Arise O children of the light, let us praise the Lord of hosts.",
@@ -27,6 +28,7 @@
   },
   {
    "id": "l2",
+   "side": 1,
    "coptic": "Ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡ̀ⲥⲱϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ.",
    "translations": {
     "english": "That He may grant us the salvation of our souls.",
@@ -38,6 +40,7 @@
   },
   {
    "id": "l3",
+   "side": 0,
    "coptic": "Ϧⲉⲛ ⲡ̀ϫⲓⲛⲑ̀ⲣⲉⲛⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲉⲛ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲥⲱⲙⲁⲧⲓⲕⲱⲥ.",
    "translations": {
     "english": "Whenever we stand before You in the flesh.",
@@ -49,6 +52,7 @@
   },
   {
    "id": "l4",
+   "side": 1,
    "coptic": "Ⲁ̀ⲗⲓⲟⲩⲓ̀ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉⲛⲛⲟⲩⲥ ⲙ̀ⲡⲓϩⲩⲛⲓⲙ ⲛ̀ⲧⲉ ϯⲉⲃϣⲓ.",
    "translations": {
     "english": "Cast away from our minds the slumber of sleep.",
@@ -60,6 +64,7 @@
   },
   {
    "id": "l5",
+   "side": 0,
    "coptic": "Ⲙⲟⲓ ⲛⲁⲛ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲟⲩⲙⲉⲧⲣⲉϥⲉⲣⲛⲩⲙⲫⲓⲛ: ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉⲛⲕⲁϯ ⲛ̀ⲧⲉⲛⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲉⲛ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ⲧⲉ ϯⲡ̀ⲣⲟⲥⲉⲩⲭⲏ.",
    "translations": {
     "english": "Grant us sobriety O Lord, that we may know how to stand before You at times of prayer.",
@@ -79,6 +84,7 @@
   },
   {
    "id": "l6",
+   "side": 1,
    "coptic": "Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲟⲩⲱⲣⲡ ⲛⲁⲕ ⲉ̀ⲡ̀ϣⲱⲓ ⲛ̀ϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ ⲉ̀ⲧⲉⲣⲡ̀ⲣⲉⲡⲓ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϣⲁϣⲛⲓ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ ⲉⲧⲟϣ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "And ascribe unto You the befitting glorification, and win the forgiveness of our many sins. Glory be to You O Lover of Mankind.",
@@ -101,6 +107,7 @@
   },
   {
    "id": "l7",
+   "side": 0,
    "coptic": "Ϩⲏⲡⲡⲉ ⲇⲉ ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓⲉ̀ⲃⲓⲁⲓⲕ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Behold bless the Lord all you servants of the Lord. Glory be to You O Lover of Mankind.",
@@ -120,6 +127,7 @@
   },
   {
    "id": "l8",
+   "side": 1,
    "coptic": "Ⲛⲏⲉⲧⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ϧⲉⲛ ⲡ̀ⲏⲓ ⲙ̀Ⲡ̀ϭⲟⲓⲥ: ϧⲉⲛ ⲛⲓⲁⲩⲗⲏⲟⲩ ⲛ̀ⲧⲉ ⲡ̀ⲏⲓ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "You who stand in the house of the Lord, in the courts of the house of our God. Glory be to You O Lover of Mankind.",
@@ -142,6 +150,7 @@
   },
   {
    "id": "l9",
+   "side": 0,
    "coptic": "Ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲛⲓⲉ̀ϫⲱⲣϩ ϥⲁⲓ ⲛ̀ⲛⲉⲧⲉⲛϫⲓϫ ⲉ̀ⲡ̀ϣⲱⲓ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "By night lift up your hands O you saints and bless the Lord. Glory be to You O Lover of Mankind.",
@@ -161,6 +170,7 @@
   },
   {
    "id": "l10",
+   "side": 1,
    "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲉϥⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲥⲓⲱⲛ: ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟ ⲛ̀ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "The Lord bless you from Zion, who created heaven and earth. Glory be to You O Lover of Mankind.",
@@ -186,6 +196,7 @@
   },
   {
    "id": "l11",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲉ ⲡⲁϯϩⲟ ϧⲱⲛⲧ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ Ⲡ̀ϭⲟⲓⲥ: ⲙⲁⲕⲁϯ ⲛⲏⲓ ⲕⲁⲧⲁ ⲡⲉⲕⲥⲁϫⲓ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Let my cry come before You O Lord, give me understanding according to Your word. Glory be to You O Lover of Mankind.",
@@ -208,6 +219,7 @@
   },
   {
    "id": "l12",
+   "side": 1,
    "coptic": "Ⲉϥⲉ̀ⲓ̀ ⲉ̀ϧⲟⲩⲛ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲛ̀ϫⲉ ⲡⲁⲁⲝⲓⲱⲙⲁ: ⲕⲁⲧⲁ ⲡⲉⲕⲥⲁϫⲓ ⲙⲁⲧⲁⲛϧⲟⲓ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Let my supplication come before You, deliver me according to Your word. Glory be to You O Lover of Mankind.",
@@ -230,6 +242,7 @@
   },
   {
    "id": "l13",
+   "side": 0,
    "coptic": "Ⲉ̀ⲣⲉ ⲛⲁⲥ̀ⲫⲟⲧⲟⲩ ⲃⲉⲃⲓ ⲛ̀ⲟⲩⲥ̀ⲙⲟⲩ: ⲉ̀ϣⲱⲡ ⲁⲕϣⲁⲛⲧ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "My lips shall overflow with praise, when You have taught me Your statutes. Glory be to You O Lover of Mankind.",
@@ -255,6 +268,7 @@
   },
   {
    "id": "l14",
+   "side": 1,
    "coptic": "Ⲡⲁⲗⲁⲥ ⲉϥⲉ̀ⲉⲣⲟⲩⲱ̀ ϧⲉⲛ ⲛⲉⲕⲥⲁϫⲓ ϫⲉ ⲛⲉⲕⲉⲛⲧⲟⲗⲏ ⲧⲏⲣⲟⲩ ϩⲁⲛⲙⲉⲑⲙⲏⲓ ⲛⲉ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "My tongue shall speak of Your words for all Your commandments are righteous. Glory be to You O Lover of Mankind.",
@@ -277,6 +291,7 @@
   },
   {
    "id": "l15",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲉⲥϣⲱⲡⲓ ⲛ̀ϫⲉ ⲧⲉⲕϫⲓϫ ⲉ̀ⲫ̀ⲛⲁϩⲙⲉⲧ ϫⲉ ⲛⲉⲕⲉⲛⲧⲟⲗⲏ ⲁⲓⲉⲣⲉ̀ⲡⲓⲑⲩⲙⲓⲛ ⲉ̀ⲣⲱⲟⲩ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Let Your hand help me for I have chosen Your precepts. Glory be to You O Lover of Mankind.",
@@ -299,6 +314,7 @@
   },
   {
    "id": "l16",
+   "side": 1,
    "coptic": "Ⲁⲓϭⲓϣϣⲱⲟⲩ ⲙ̀ⲡⲉⲕⲟⲩϫⲁⲓ Ⲡ̀ϭⲟⲓⲥ: ⲟⲩⲟϩ Ⲡⲉⲕⲛⲟⲙⲟⲥ ⲡⲉ ⲧⲁⲙⲉⲗⲉⲧⲏ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "I have longed for Your salvation O Lord, and Your Law is my delight. Glory be to You O Lover of Mankind.",
@@ -324,6 +340,7 @@
   },
   {
    "id": "l17",
+   "side": 0,
    "coptic": "Ⲉⲥⲉ̀ⲱⲛϧ ⲛ̀ϫⲉ ⲧⲁⲯⲩⲭⲏ ⲟⲩⲟϩ ⲉⲥⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲟⲩⲟϩ ⲛⲉⲕϩⲁⲡ ⲉⲩⲉ̀ⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Let my soul live and it shall praise You, and let Your judgments help me. Glory be to You O Lover of Mankind.",
@@ -346,6 +363,7 @@
   },
   {
    "id": "l18",
+   "side": 1,
    "coptic": "Ⲁⲓⲥⲱⲣⲉⲙ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲉ̀ⲥⲱⲟⲩ ⲉ̀ⲁϥⲧⲁⲕⲟ: ⲕⲱϯ ⲛ̀ⲥⲁ ⲡⲉⲕⲃⲱⲕ ϫⲉ ⲛⲉⲕⲉⲛⲧⲟⲗⲏ ⲙ̀ⲡⲓⲉⲣⲡⲟⲩⲱⲃϣ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "I have gone astray like a lost sheep, seek Your servant for I do not forget Your commandments. Glory be to You O Lover of Mankind.",
@@ -368,6 +386,7 @@
   },
   {
    "id": "l19",
+   "side": 0,
    "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Glory be to the Father and the Son and the Holy Spirit. Glory be to You O Lover of Mankind.",
@@ -387,6 +406,7 @@
   },
   {
    "id": "l20",
+   "side": 1,
    "coptic": "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Now and forever and unto the age of all ages Amen. Glory be to You O Lover of Mankind.",
@@ -406,6 +426,7 @@
   },
   {
    "id": "l21",
+   "side": 0,
    "coptic": "Ⲡⲓⲱ̀ⲟⲩ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲓⲥϫⲉⲛ ϯⲛⲟⲩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ ⲁ̀ⲙⲏⲛ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Glory be to the Father and the Son and the Holy Spirit, now and forever and unto all the ages Amen. Glory be to You O Lover of Mankind.",
@@ -431,6 +452,7 @@
   },
   {
    "id": "l22",
+   "side": 1,
    "coptic": "Ⲡⲓⲱ̀ⲟⲩ ⲛⲁⲕ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲡⲓⲱ̀ⲟⲩ ⲛ̀Ⲧⲉⲕⲙⲁⲩ ⲙ̀Ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁⲕ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Glory be to You O good One the Lover of Mankind, glory be to Your Mother the Virgin and all Your saints. Glory be to You O Lover of Mankind.",
@@ -453,6 +475,7 @@
   },
   {
    "id": "l23",
+   "side": 0,
    "coptic": "Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ⲙⲟⲛⲟⲅⲉⲛⲏⲥ: ⲁ̀ⲅⲓⲁ Ⲧ̀ⲣⲓⲁⲥ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Glory be to You O only-begotten One, O holy Trinity have mercy upon us. Glory be to You O Lover of Mankind.",
@@ -475,6 +498,7 @@
   },
   {
    "id": "l24",
+   "side": 1,
    "coptic": "Ⲙⲁⲣⲉϥⲧⲱⲛϥ ⲛ̀ϫⲉ Ⲫ̀ⲛⲟⲩϯ ⲙⲁⲣⲟⲩϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲉϥϫⲁϫⲓ ⲧⲏⲣⲟⲩ ⲙⲁⲣⲟⲩⲫⲱⲧ ⲉ̀ⲃⲟⲗ ϧⲁⲧ̀ϩⲏ ⲙ̀ⲡⲉϥϩⲟ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲙⲟⲥϯ ⲙ̀ⲡⲉϥⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ. Ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
    "translations": {
     "english": "Let God arise and let all His enemies be scattered and let all that hate His holy name flee from before His face. Glory be to You O Lover of Mankind.",
@@ -494,6 +518,7 @@
   },
   {
    "id": "l25",
+   "side": 0,
    "coptic": "Ⲡⲉⲕⲗⲁⲟⲥ ⲇⲉ ⲙⲁⲣⲉϥϣⲱⲡⲓ ϧⲉⲛ ⲡⲓⲥ̀ⲙⲟⲩ: ⲉ̀ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ ⲛⲉⲙ ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲑ̀ⲃⲁ: ⲉⲩⲓ̀ⲣⲓ ⲙ̀ⲡⲉⲕⲟⲩⲱϣ.",
    "translations": {
     "english": "As for Your people let them be blessed, a thousand thousand fold and ten thousand ten thousand fold, doing Your will.",
@@ -516,6 +541,7 @@
   },
   {
    "id": "l26",
+   "side": 1,
    "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲉⲕⲉ̀ⲁ̀ⲟⲩⲱⲛ ⲛ̀ⲛⲁⲥ̀ⲫⲟⲧⲟⲩ: ⲟⲩⲟϩ ⲉ̀ⲣⲉ ⲣⲱⲓ ϫⲱ ⲙ̀ⲡⲉⲕⲥ̀ⲙⲟⲩ.",
    "translations": {
     "english": "O Lord open my lips, and my mouth shall declare Your praise.",
