@@ -234,6 +234,52 @@ class Build:
         self.out_files[rel] = data
         return {"url": f"catalog/v1/{rel}", "bytes": len(data), "sha256": sha256_bytes(data)}
 
+    def notations(self, library):
+        """Hymns with notation: content/notations/<id>/notation.json names a PDF (a score or hand-made marks),
+        its recordings with the cursor's marks ([seconds, page from 1, x, y], x and y as fractions of the page),
+        and "places": the collections listing it ("annual", or "annual/liturgy"). Each collection gets
+        "notations": [ids]."""
+        collections = {c["id"]: c for g in library["groups"] for c in g["collections"]}
+        out = []
+        for path in sorted((CONTENT / "notations").glob("*/notation.json")):
+            nid, folder = path.parent.name, path.parent
+            try:
+                n = json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError as e:
+                self.error(nid, f"notation.json: {e}")
+                continue
+            pdf = folder / n.get("pdf", "notation.pdf")
+            if not pdf.exists():
+                self.error(nid, f"no PDF {pdf.name}")
+                continue
+            ref = lambda f, role: {"url": f.relative_to(ROOT).as_posix(), "role": role, "bytes": f.stat().st_size, "sha256": sha256_file(f)}
+            recs = []
+            for i, r in enumerate(n.get("recordings", []), 1):
+                audio = folder / r.get("audio", "")
+                if not r.get("audio") or not audio.exists():
+                    self.error(nid, f"recording {i}: no audio file {r.get('audio')!r}")
+                    continue
+                points = sorted(r.get("points", []))
+                if any(len(p) != 4 or p[1] < 1 for p in points):
+                    self.error(nid, f"recording {i}: marks are [seconds, page from 1, x, y]")
+                    continue
+                recs.append({"id": f"{nid}-{i}", "name": r.get("name") or f"Recording {i}",
+                             **({"cantor": r["cantor"]} if r.get("cantor") else {}), "audio": ref(audio, "audio"), "points": points})
+            entry = {"id": nid, "titles": n.get("titles", {}), "kind": n.get("kind", "score"), "pdf": ref(pdf, "pdf"),
+                     "recordings": recs, **({"credit": n["credit"]} if n.get("credit") else {}),
+                     **({"cursor": n["cursor"]} if n.get("cursor") else {})}
+            if "english" not in entry["titles"]:
+                self.warn(nid, "notation without an English title")
+            entry["version"] = sha256_bytes(json.dumps(entry, sort_keys=True, ensure_ascii=False).encode())[:16]
+            for place in n.get("places", []):
+                c = collections.get(place.split("/")[0])
+                if c is None:
+                    self.error(nid, f"places it in {place}, which is not in the library")
+                    continue
+                c.setdefault("notations", []).append(nid)
+            out.append(entry)
+        return out
+
     def apply_places(self, library):
         """Add each recording to the library sections its info.json names, after any listed in library.json."""
         sections = {}
@@ -324,6 +370,7 @@ def main():
     library = json.loads(LIBRARY.read_text(encoding="utf-8"))
     b.apply_places(library)
     b.check_library(library)
+    notations_out = b.notations(library)
 
     texts_out = []
     for tid, t in sorted(b.texts.items()):
@@ -347,7 +394,7 @@ def main():
         recordings_out.append(e)
 
     payload = {"schema": SCHEMA, "baseUrl": BASE_URL, "services": library["services"], "library": library["groups"],
-               "texts": texts_out, "recordings": recordings_out}
+               "texts": texts_out, "recordings": recordings_out, "notations": notations_out}
     # The version changes only when content does, so the app can tell cheaply whether anything is new.
     payload = {"version": sha256_bytes(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode())[:16], **payload}
 
