@@ -3,5 +3,12 @@
   "youtube": "https://www.youtube.com/watch?v=c7otcvdH8u8",
   "places": [
     "resurrection/special"
+  ],
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Christ is Risen",
+      "url": "https://www.coptichymnsinenglish.com/album/5/track/22"
+    }
   ]
 }

@@ -9,5 +9,12 @@
     "praises/midnight"
   ],
   "order": 10,
-  "youtube": "https://youtu.be/CGnIpcb7sQw"
+  "youtube": "https://youtu.be/CGnIpcb7sQw",
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Arise O Children",
+      "url": "https://www.coptichymnsinenglish.com/album/40/track/36"
+    }
+  ]
 }

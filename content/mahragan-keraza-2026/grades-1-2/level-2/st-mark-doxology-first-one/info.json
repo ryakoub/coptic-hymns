@@ -6,5 +6,12 @@
   "titles": {
     "english": "St. Mark Doxology (First One)",
     "arabic": "الذكصولوجية الاولى لمار مرقس"
-  }
+  },
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Doxology - St. Mark",
+      "url": "https://www.coptichymnsinenglish.com/album/16/track/55"
+    }
+  ]
 }

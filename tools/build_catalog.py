@@ -171,7 +171,8 @@ class Build:
             self.warn(tid, "no English title")
         if pending:
             self.warn(tid, "lyrics not added yet")
-        self.texts[tid] = {"id": tid, "titles": titles, "tags": info.get("tags", []), "pending": pending, "lines": tlines}
+        self.texts[tid] = {"id": tid, "titles": titles, "tags": info.get("tags", []), "pending": pending, "lines": tlines,
+                           "links": info.get("links", [])}
 
     def add_recording(self, folder, rid, info, lines):
         tid = info.get("text", rid)
@@ -377,6 +378,8 @@ def main():
         lines = [l for l in t["lines"] if not l.get("label") and not l.get("static")]
         doc = json.dumps({"id": tid, "titles": t["titles"], "lines": t["lines"]}, ensure_ascii=False, indent=1).encode()
         texts_out.append({"id": tid, "titles": t["titles"], "tags": t["tags"], "pending": t["pending"],
+                          # Where else to hear it (another site's recording, linked rather than copied).
+                          **({"links": t["links"]} if t["links"] else {}),
                           "lines": len(lines),
                           "translations": sorted({k for l in lines for k, v in (l.get("translations") or {}).items() if v}),
                           "transliterations": sorted({k for l in lines for k, v in (l.get("transliterations") or {}).items() if v}),

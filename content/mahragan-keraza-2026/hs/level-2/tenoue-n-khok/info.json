@@ -9,5 +9,12 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 110
+  "order": 110,
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "We follow You",
+      "url": "https://www.coptichymnsinenglish.com/album/40/track/419"
+    }
+  ]
 }

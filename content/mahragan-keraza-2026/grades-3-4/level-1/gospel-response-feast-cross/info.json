@@ -6,5 +6,12 @@
   "titles": {
     "english": "Gospel Response of the Feast of the Cross",
     "arabic": "مرد الانجيل لعيد الصليب"
-  }
+  },
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Gospel Response",
+      "url": "https://www.coptichymnsinenglish.com/album/7/track/445"
+    }
+  ]
 }

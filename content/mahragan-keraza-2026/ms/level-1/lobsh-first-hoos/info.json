@@ -3,5 +3,12 @@
   "youtube": "https://www.youtube.com/watch?v=jFX-qC0LiBM",
   "places": [
     "praises/midnight"
+  ],
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "With the Split",
+      "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
+    }
   ]
 }

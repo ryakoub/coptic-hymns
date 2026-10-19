@@ -11,5 +11,12 @@
   ],
   "order": 10,
   "youtube": "https://youtu.be/tbreXiaMnmE",
-  "cantor": "Bola Mounir"
+  "cantor": "Bola Mounir",
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Morning Doxology",
+      "url": "https://www.coptichymnsinenglish.com/album/4/track/701"
+    }
+  ]
 }

@@ -8,5 +8,12 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 200
+  "order": 200,
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Hail to you Mary",
+      "url": "https://www.coptichymnsinenglish.com/album/40/track/779"
+    }
+  ]
 }

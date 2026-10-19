@@ -1,5 +1,5 @@
 {
- "version": "a5c44ce476bbd555",
+ "version": "93f0a5b4469073e7",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1200,6 +1200,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Anaphora Responses",
+     "url": "https://www.coptichymnsinenglish.com/album/50/track/710"
+    }
+   ],
    "lines": 6,
    "translations": [
     "english"
@@ -1294,6 +1301,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "They Likened the Archpriest",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/425"
+    }
+   ],
    "lines": 6,
    "translations": [
     "arabic",
@@ -1342,6 +1356,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "The Golden Censer",
+     "url": "https://www.coptichymnsinenglish.com/album/20/track/789"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -1363,6 +1384,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Christ is Risen",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/22"
+    }
+   ],
    "lines": 4,
    "translations": [
     "english"
@@ -1386,6 +1414,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Christ has Ascended",
+     "url": "https://www.coptichymnsinenglish.com/album/15/track/412"
+    }
+   ],
    "lines": 2,
    "translations": [
     "english"
@@ -1546,6 +1581,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "All You Heavenly Orders",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/15"
+    }
+   ],
    "lines": 10,
    "translations": [
     "english"
@@ -1567,6 +1609,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - Resurrection",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/466"
+    }
+   ],
    "lines": 8,
    "translations": [
     "english"
@@ -1588,6 +1637,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - St. Mary - Matins",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/645"
+    }
+   ],
    "lines": 10,
    "translations": [
     "english"
@@ -1610,6 +1666,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - St. Mary - Vespers",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/646"
+    }
+   ],
    "lines": 6,
    "translations": [
     "english"
@@ -1633,6 +1696,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - Midnight",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/840"
+    }
+   ],
    "lines": 6,
    "translations": [
     "arabic",
@@ -1680,6 +1750,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Bless the Lord",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/424"
+    }
+   ],
    "lines": 2,
    "translations": [
     "arabic",
@@ -1776,6 +1853,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "With the Split",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
+    }
+   ],
    "lines": 9,
    "translations": [
     "arabic",
@@ -1883,6 +1967,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Gospel Response",
+     "url": "https://www.coptichymnsinenglish.com/album/7/track/445"
+    }
+   ],
    "lines": 5,
    "translations": [
     "english"
@@ -1993,6 +2084,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "All the Choirs",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/578"
+    }
+   ],
    "lines": 2,
    "translations": [
     "english"
@@ -2085,6 +2183,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Gospel Response",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/581"
+    }
+   ],
    "lines": 4,
    "translations": [
     "english"
@@ -2106,6 +2211,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "With the Split",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
+    }
+   ],
    "lines": 9,
    "translations": [
     "english"
@@ -2129,6 +2241,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Morning Doxology",
+     "url": "https://www.coptichymnsinenglish.com/album/4/track/701"
+    }
+   ],
    "lines": 64,
    "translations": [
     "arabic",
@@ -2183,6 +2302,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "O What are these",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/821"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2295,6 +2421,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "The Bread of Life",
+     "url": "https://www.coptichymnsinenglish.com/album/42/track/81"
+    }
+   ],
    "lines": 10,
    "translations": [
     "english"
@@ -2318,6 +2451,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "The Spirit of Comfort",
+     "url": "https://www.coptichymnsinenglish.com/album/22/track/428"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2405,6 +2545,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Procession Refrain - Feast of the Cross",
+     "url": "https://www.coptichymnsinenglish.com/album/7/track/435"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2447,6 +2594,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Psalm Response",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/582"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2490,6 +2644,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - Apostles",
+     "url": "https://www.coptichymnsinenglish.com/album/24/track/150"
+    }
+   ],
    "lines": 6,
    "translations": [
     "english"
@@ -2615,6 +2776,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "You are Called",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/416"
+    }
+   ],
    "lines": 7,
    "translations": [
     "arabic",
@@ -2669,6 +2837,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Hail to you Mary",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/779"
+    }
+   ],
    "lines": 6,
    "translations": [
     "arabic",
@@ -2693,6 +2868,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Saved Amen",
+     "url": "https://www.coptichymnsinenglish.com/album/19/track/96"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2715,6 +2897,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - St. Mark",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/55"
+    }
+   ],
    "lines": 6,
    "translations": [
     "english"
@@ -2738,6 +2927,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Arise O Children",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/36"
+    }
+   ],
    "lines": 26,
    "translations": [
     "arabic",
@@ -2765,6 +2961,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Arise O Children",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/36"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2788,6 +2991,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "We Look for the Resurrection",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/49"
+    }
+   ],
    "lines": 9,
    "translations": [
     "arabic",
@@ -2815,6 +3025,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "We follow You",
+     "url": "https://www.coptichymnsinenglish.com/album/40/track/419"
+    }
+   ],
    "lines": 6,
    "translations": [
     "english"
@@ -2941,6 +3158,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "We the believers",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/17"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
@@ -2964,6 +3188,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "When the stone was sealed",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/18"
+    }
+   ],
    "lines": 2,
    "translations": [
     "english"
@@ -3028,6 +3259,13 @@
    },
    "tags": [],
    "pending": true,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Verses of the Cymbals",
+     "url": "https://www.coptichymnsinenglish.com/album/5/track/16"
+    }
+   ],
    "lines": 1,
    "translations": [
     "english"
