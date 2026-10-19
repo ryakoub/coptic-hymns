@@ -1,7 +1,11 @@
 {
-  "title": "This Is the Day",
   "youtube": "https://www.youtube.com/watch?v=7B9iRv5NtmA",
   "places": [
     "annual/liturgy"
-  ]
+  ],
+  "titles": {
+    "english": "This Is the Day",
+    "coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉϩⲟⲩⲟ",
+    "arabic": "هذا هو اليوم الذي صنعه الرب"
+  }
 }

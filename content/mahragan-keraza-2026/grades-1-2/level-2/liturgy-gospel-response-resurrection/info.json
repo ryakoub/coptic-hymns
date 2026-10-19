@@ -1,7 +1,10 @@
 {
-  "title": "Liturgy Gospel Response, Resurrection",
   "youtube": "https://www.youtube.com/watch?v=p4IqGabd2TQ",
   "places": [
     "resurrection/liturgy"
-  ]
+  ],
+  "titles": {
+    "english": "Liturgy Gospel Response, Resurrection",
+    "arabic": "مرد الانجيل لعيد القيامة"
+  }
 }

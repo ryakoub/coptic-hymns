@@ -1,7 +1,10 @@
 {
-  "title": "Doxology of St. Mary Vespers",
   "youtube": "https://youtu.be/pY-9ScNsRdk",
   "places": [
     "annual/raising-of-incense"
-  ]
+  ],
+  "titles": {
+    "english": "Doxology of St. Mary Vespers",
+    "arabic": "ذكصولوجية العذراء - عشية"
+  }
 }

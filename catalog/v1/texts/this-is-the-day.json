@@ -1,7 +1,9 @@
 {
  "id": "this-is-the-day",
  "titles": {
-  "english": "This Is the Day"
+  "english": "This Is the Day",
+  "coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉϩⲟⲩⲟ",
+  "arabic": "هذا هو اليوم الذي صنعه الرب"
  },
  "lines": [
   {

@@ -1,7 +1,10 @@
 {
-  "title": "Aspasmos Adam, Resurrection",
   "youtube": "https://www.youtube.com/watch?v=kvPwVdAWgQE",
   "places": [
     "resurrection/liturgy"
-  ]
+  ],
+  "titles": {
+    "english": "Aspasmos Adam, Resurrection",
+    "arabic": "اسبسمس ادام"
+  }
 }

@@ -1,7 +1,11 @@
 {
-  "title": "The Golden Censer",
   "youtube": "https://youtu.be/QYQu5Uza0fw",
   "places": [
     "annual/raising-of-incense"
-  ]
+  ],
+  "titles": {
+    "english": "The Golden Censer",
+    "coptic": "Ϯϣⲟⲩⲣⲓ",
+    "arabic": "المجمرة الذهب"
+  }
 }

@@ -1,7 +1,10 @@
 {
-  "title": "Paralex, Shere Maria",
   "youtube": "https://www.youtube.com/watch?v=IkCJZdavhMU",
   "places": [
     "annual/liturgy"
-  ]
+  ],
+  "titles": {
+    "english": "Paralex, Shere Maria",
+    "arabic": "برلكس لحن البركة - شيري ني ماريا"
+  }
 }

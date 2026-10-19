@@ -1,7 +1,11 @@
 {
-  "title": "Procession Refrain, Feast of the Cross",
   "youtube": "https://www.youtube.com/watch?v=bxJe_TV8XO0",
   "places": [
     "feast-of-the-cross/special"
-  ]
+  ],
+  "titles": {
+    "english": "Procession Refrain, Feast of the Cross",
+    "coptic": "Ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ",
+    "arabic": "مرد اناجيل دورة عيد الصليب"
+  }
 }

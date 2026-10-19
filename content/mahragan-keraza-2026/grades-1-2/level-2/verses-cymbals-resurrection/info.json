@@ -1,7 +1,10 @@
 {
-  "title": "Verses of Cymbals, Resurrection",
   "youtube": "https://www.youtube.com/watch?v=iWdZ4Q_Bsbs",
   "places": [
     "resurrection/raising-of-incense"
-  ]
+  ],
+  "titles": {
+    "english": "Verses of Cymbals, Resurrection",
+    "arabic": "ارباع الناقوس لعيد القيامة"
+  }
 }

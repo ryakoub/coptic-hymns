@@ -1,7 +1,11 @@
 {
-  "title": "The Thought of Man",
   "youtube": "https://www.youtube.com/watch?v=FoKPXLkfF_Q",
   "places": [
     "annual/liturgy"
-  ]
+  ],
+  "titles": {
+    "english": "The Thought of Man",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀",
+    "arabic": "الليلويا ان فكر الانسان"
+  }
 }

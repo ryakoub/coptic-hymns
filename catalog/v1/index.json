@@ -1,5 +1,5 @@
 {
- "version": "7b293cd4ca0b1df3",
+ "version": "a5c44ce476bbd555",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1217,8 +1217,8 @@
   {
    "id": "arihouo-gasf-third-hoos",
    "titles": {
-    "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos",
     "english": "Aree Hoo Ou Chasf (Third Canticle)",
+    "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ",
     "arabic": "اري هوؤو تشاسف (الهوس الثالث)"
    },
    "tags": [],
@@ -1233,8 +1233,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/arihouo-gasf-third-hoos.json",
-    "bytes": 426,
-    "sha256": "fa54ad75722eb8c7c4518f16fa12819336e8f74e3f4a43560f28fe4a940b8a5c"
+    "bytes": 412,
+    "sha256": "3743b11d33e48f2c21010b69a117d3740a9c1ac5e71666b4bdccbaad04f23090"
    }
   },
   {
@@ -1266,7 +1266,8 @@
   {
    "id": "aspasmos-adam-resurrection",
    "titles": {
-    "english": "Aspasmos Adam, Resurrection"
+    "english": "Aspasmos Adam, Resurrection",
+    "arabic": "اسبسمس ادام"
    },
    "tags": [],
    "pending": false,
@@ -1280,15 +1281,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aspasmos-adam-resurrection.json",
-    "bytes": 970,
-    "sha256": "3cfce13cfb780e6d7404906fc2488c976d1f922beea75609408c8d6c20bddfb9"
+    "bytes": 1007,
+    "sha256": "e664ca697b2362e5b0524c33ebf0e06fdea69c4ac34e9e10f154219140a01c18"
    }
   },
   {
    "id": "aven-pi-arshee-erevs",
    "titles": {
     "english": "The Fifteenth Part - Aven Pi-arshee-erevs",
-    "coptic": "Ϯⲙⲁϩⲙⲏⲧϯ - Ⲁⲩⲉⲛ ⲡⲓⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ",
+    "coptic": "Ⲁⲩⲉⲛ ⲡⲓⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ",
     "arabic": "القطعة الخامسة عشر - أف إن بي أرشي إريفس"
    },
    "tags": [],
@@ -1306,14 +1307,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aven-pi-arshee-erevs.json",
-    "bytes": 5967,
-    "sha256": "5a3967f215ef475f7a5cdab006efedc1f07f8df17160f98190f1eba0e74724bf"
+    "bytes": 5943,
+    "sha256": "d402819296e89e42b9d0a8915de76b06f53152f6f065ea3be7deb774d506e51c"
    }
   },
   {
    "id": "blessed-pentecost",
    "titles": {
-    "english": "Blessed, Pentecost"
+    "english": "Blessed, Pentecost",
+    "arabic": "جي اف اسماوؤت - البنطيقسطي"
    },
    "tags": [],
    "pending": false,
@@ -1327,14 +1329,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/blessed-pentecost.json",
-    "bytes": 567,
-    "sha256": "4362367e292ae51f7e0e53722a043a2cffcedc339465e4726f75f9e8dbddaccc"
+    "bytes": 630,
+    "sha256": "8ff767430b2771f052f94bec3a7093ccc831a49053f89903d19b3bcff116c2b4"
    }
   },
   {
    "id": "censer-annual",
    "titles": {
-    "english": "The Golden Censer"
+    "english": "The Golden Censer",
+    "coptic": "Ϯϣⲟⲩⲣⲓ",
+    "arabic": "المجمرة الذهب"
    },
    "tags": [],
    "pending": false,
@@ -1348,8 +1352,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/censer-annual.json",
-    "bytes": 579,
-    "sha256": "d05ab0bc54794165e48e46b419342696bae25bb5f5b1174b6ef3a1107a8678fd"
+    "bytes": 652,
+    "sha256": "548cd5b39a9b12ebc74e9ecb7f5436c2a258aade4508790bef949d62a905b79c"
    }
   },
   {
@@ -1376,8 +1380,8 @@
   {
    "id": "christos-analympsis",
    "titles": {
-    "coptic": "ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ",
     "english": "Christos Analimpsis (Christ Ascended)",
+    "coptic": "Ⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲁⲗⲩⲙⲯⲓⲥ",
     "arabic": "اخرستوس أناليم ابسيس"
    },
    "tags": [],
@@ -1393,7 +1397,7 @@
    "file": {
     "url": "catalog/v1/texts/christos-analympsis.json",
     "bytes": 1174,
-    "sha256": "b55a9fe70bf5542a2974cf602cdb52b2369a9e61a068d75c81a44e11e1eee1d2"
+    "sha256": "9217fe0e5506f1bbb98ab0e1edeece33108fbb6e07a8a2d3f1d5ac58153d4243"
    }
   },
   {
@@ -1474,7 +1478,8 @@
   {
    "id": "conclusion-canon-resurrection",
    "titles": {
-    "english": "Conclusion Canon, Resurrection"
+    "english": "Conclusion Canon, Resurrection",
+    "arabic": "قطعة ختام الصلوات لعيد القيامة"
    },
    "tags": [],
    "pending": true,
@@ -1488,8 +1493,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-canon-resurrection.json",
-    "bytes": 255,
-    "sha256": "4becd6d4645e2d092f93c74e6fcdc9b952d47fe33f18467f0dcde5b4484cf898"
+    "bytes": 327,
+    "sha256": "c875ecabb17498a3385ca432c1db165b1e19e0b07ad2aac8fd01e58800d96376"
    }
   },
   {
@@ -1600,7 +1605,8 @@
   {
    "id": "doxology-st-mary-vespers",
    "titles": {
-    "english": "Doxology of St. Mary Vespers"
+    "english": "Doxology of St. Mary Vespers",
+    "arabic": "ذكصولوجية العذراء - عشية"
    },
    "tags": [],
    "pending": false,
@@ -1614,8 +1620,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-st-mary-vespers.json",
-    "bytes": 5097,
-    "sha256": "e11b9aab695395e9116ddc0bc4262da398bd0968ec5cc19d13a6f5bb18fdc182"
+    "bytes": 5157,
+    "sha256": "14c05df81ef8fa91f9aca6964786f6a547d5a16b6a2e5a8c6ada571089e6cfd4"
    }
   },
   {
@@ -1872,7 +1878,8 @@
   {
    "id": "gospel-response-feast-cross",
    "titles": {
-    "english": "Gospel Response of the Feast of the Cross"
+    "english": "Gospel Response of the Feast of the Cross",
+    "arabic": "مرد الانجيل لعيد الصليب"
    },
    "tags": [],
    "pending": false,
@@ -1886,8 +1893,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-response-feast-cross.json",
-    "bytes": 4505,
-    "sha256": "0df43351b2fe26a096efdfa87a01694300b32a8d1007e8e0ff01c81ff9c19fd7"
+    "bytes": 4564,
+    "sha256": "eba665ae9911cab5194b8928439c266e336f81cf640e8dae4a5e7d05bb672b08"
    }
   },
   {
@@ -1914,7 +1921,8 @@
   {
    "id": "hossana-intro-doxologies-first-doxology",
    "titles": {
-    "english": "Hossana Intro to Doxologies & 1st Doxology"
+    "english": "Hossana Intro to Doxologies & 1st Doxology",
+    "arabic": "مقدمة الذكصولوجيات الشعانيني + الذكصولوجية الاولى"
    },
    "tags": [],
    "pending": false,
@@ -1928,8 +1936,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hossana-intro-doxologies-first-doxology.json",
-    "bytes": 5710,
-    "sha256": "76c41af613b67854eba0c5e3122c00aea5285c60f312035d4f0704086dcca49e"
+    "bytes": 5818,
+    "sha256": "519e601eaa9e68ddc7c315b507357f29098403d5ca24800a88edd56328af95c5"
    }
   },
   {
@@ -2072,7 +2080,8 @@
   {
    "id": "liturgy-gospel-response-resurrection",
    "titles": {
-    "english": "Liturgy Gospel Response, Resurrection"
+    "english": "Liturgy Gospel Response, Resurrection",
+    "arabic": "مرد الانجيل لعيد القيامة"
    },
    "tags": [],
    "pending": false,
@@ -2086,8 +2095,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/liturgy-gospel-response-resurrection.json",
-    "bytes": 1870,
-    "sha256": "5e7d991bb035b6e841114e2427aa402edb03d7b424c765146f0db6e10ba11d6d"
+    "bytes": 1931,
+    "sha256": "7b2c0e8fc5d116342bc936f82d7d08d35aa56fdf2e17707a2e9b7f55b5751f51"
    }
   },
   {
@@ -2142,7 +2151,7 @@
    "id": "nim-ghar",
    "titles": {
     "english": "The Sixteenth Part - Nim Ghar",
-    "coptic": "Ϯⲙⲁϩⲙⲏⲧⲥⲟ - Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ",
+    "coptic": "Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ",
     "arabic": "القطعة السادسة عشر - نيم غار"
    },
    "tags": [],
@@ -2161,8 +2170,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/nim-ghar.json",
-    "bytes": 13082,
-    "sha256": "05c1ccfcdd9c13d28317b77eb83b57744467e740b77d5dfd0d341c9d533b9f76"
+    "bytes": 13054,
+    "sha256": "3e5fc5de62d0d7756bdb6d2e6908aeda421f4a2ff671c56e4c0ae88c05b1f544"
    }
   },
   {
@@ -2235,7 +2244,8 @@
   {
    "id": "paralex-shere-maria",
    "titles": {
-    "english": "Paralex, Shere Maria"
+    "english": "Paralex, Shere Maria",
+    "arabic": "برلكس لحن البركة - شيري ني ماريا"
    },
    "tags": [],
    "pending": false,
@@ -2249,8 +2259,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/paralex-shere-maria.json",
-    "bytes": 4771,
-    "sha256": "536f2b66f27857b542c78a93395fcc7d6be380bf4e0160a30db6ab03b88e20fd"
+    "bytes": 4844,
+    "sha256": "0568c4c101a70fb40840924d14addc17c5f7d837fc01e2f30d68ad34ea59bd17"
    }
   },
   {
@@ -2302,8 +2312,8 @@
   {
    "id": "pi-pnevma",
    "titles": {
-    "coptic": "ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
     "english": "Pi Pnevma (The Spirit of Comfort)",
+    "coptic": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
     "arabic": "بي إبنفما"
    },
    "tags": [],
@@ -2319,7 +2329,7 @@
    "file": {
     "url": "catalog/v1/texts/pi-pnevma.json",
     "bytes": 646,
-    "sha256": "55fa9cdaf79975e0039c5c5c6928d8cb36c9f0cf65567d72edce12fce5015e44"
+    "sha256": "43d643a72a8754cc89194ad957e299d4f7630e368a165e2b51d8a9476a3fa1b1"
    }
   },
   {
@@ -2346,7 +2356,8 @@
   {
    "id": "praxis-response-feast-cross",
    "titles": {
-    "english": "Praxis Response, Feast of the Cross"
+    "english": "Praxis Response, Feast of the Cross",
+    "arabic": "مرد الابركسيس لعيد الصليب"
    },
    "tags": [],
    "pending": false,
@@ -2360,8 +2371,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-feast-cross.json",
-    "bytes": 505,
-    "sha256": "5031096c548ecd3361fa8933a87d6226cf022c165abf2e5cebc3e159e6699273"
+    "bytes": 568,
+    "sha256": "d65a2b19b1238766162a351a13c08ae5a06e1f20be4e4612fa4a65885b999a57"
    }
   },
   {
@@ -2388,7 +2399,9 @@
   {
    "id": "procession-refrain-feast-cross",
    "titles": {
-    "english": "Procession Refrain, Feast of the Cross"
+    "english": "Procession Refrain, Feast of the Cross",
+    "coptic": "Ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ",
+    "arabic": "مرد اناجيل دورة عيد الصليب"
    },
    "tags": [],
    "pending": false,
@@ -2402,8 +2415,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/procession-refrain-feast-cross.json",
-    "bytes": 565,
-    "sha256": "b11c47008ff20088f0f0fc4d62f5874bb3038d3756e6656e68fb9aa97cd6ac63"
+    "bytes": 704,
+    "sha256": "7231e5fc1f24e98fe4f32ebc31ff8d2467cc10f792baef7cab780142cbf8ac8e"
    }
   },
   {
@@ -2451,7 +2464,8 @@
   {
    "id": "refrain-third-hour-pentecost",
    "titles": {
-    "english": "Refrain of Third Hour, Pentecost"
+    "english": "Refrain of Third Hour, Pentecost",
+    "arabic": "مرد قطع الساعة الثالثة - عيد حلول الروح القدس"
    },
    "tags": [],
    "pending": false,
@@ -2465,8 +2479,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/refrain-third-hour-pentecost.json",
-    "bytes": 908,
-    "sha256": "b45309c4cb4d9d57d7f851802eca989c16b0250f64dae6d6c3cd4d26de3e94d0"
+    "bytes": 1005,
+    "sha256": "1bf2d51324152187f1add86f6d35c37de115519e20ff690ca950766ed4c13278"
    }
   },
   {
@@ -2596,7 +2610,7 @@
    "id": "semoti",
    "titles": {
     "english": "The Seventh Part - Semoti",
-    "coptic": "Ϯⲙⲁϩϣⲁϣϥⲓ - Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
+    "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
     "arabic": "القطعة السابعة - سيموتي"
    },
    "tags": [],
@@ -2615,15 +2629,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/semoti.json",
-    "bytes": 6969,
-    "sha256": "940f79d9d9c4fedb9aa1b1193473488714725ce5df12937b76ef14783f6ce87e"
+    "bytes": 6944,
+    "sha256": "e65f6130746cf2a11b9b9a4d411ee1e6763e328c409b0fe6c6e6bec4e14b60b8"
    }
   },
   {
    "id": "shashf-ensop",
    "titles": {
     "english": "The Eighth Part - Shashf Ensop",
-    "coptic": "Ϯⲙⲁϩϣ̀ⲙⲏⲛⲓ - Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ",
+    "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ",
     "arabic": "القطعة الثامنة - شاشف إنسوب"
    },
    "tags": [],
@@ -2642,15 +2656,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shashf-ensop.json",
-    "bytes": 32114,
-    "sha256": "e73d51a72d8b50dd5da740333a441b7598f3edd8457053ffc5a966c7fee5e203"
+    "bytes": 32085,
+    "sha256": "d279b3faf56925a9b22142cca48ca0578f0de867610307f137553fb811bd4f6a"
    }
   },
   {
    "id": "shere-ne-maria",
    "titles": {
     "english": "The Seventh Part - Shere ne Maria",
-    "coptic": "Ϯⲙⲁϩϣⲁϣϥⲓ - Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
     "arabic": "القطعة السابعة - شيري نيه ماريا"
    },
    "tags": [],
@@ -2668,8 +2682,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shere-ne-maria.json",
-    "bytes": 5935,
-    "sha256": "774c8f492f747a4753bc30cd4951f7c437af6b67ce44ff9276891191b873ab97"
+    "bytes": 5910,
+    "sha256": "e7595e780cd1ef841bbd821ab64a36cb28eab7b4ac435f7a6456e8c82c77513f"
    }
   },
   {
@@ -2696,7 +2710,8 @@
   {
    "id": "st-mark-doxology-first-one",
    "titles": {
-    "english": "St. Mark Doxology (First One)"
+    "english": "St. Mark Doxology (First One)",
+    "arabic": "الذكصولوجية الاولى لمار مرقس"
    },
    "tags": [],
    "pending": false,
@@ -2710,15 +2725,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
-    "bytes": 2873,
-    "sha256": "c31d2273fb7c5401085a4b113c57156dbe1252539558ff99fde1bb7626247cc5"
+    "bytes": 2942,
+    "sha256": "9642dc8cca7c97cebe5ad5b3901240397e895edf08d398765160fc8b259610ab"
    }
   },
   {
    "id": "ten-theeno",
    "titles": {
     "english": "The Hymn of Ten-theno",
-    "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ⲧⲉⲛⲑⲏⲛⲟⲩ",
+    "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ",
     "arabic": "لحن تين ثينو"
    },
    "tags": [],
@@ -2737,8 +2752,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
-    "bytes": 26151,
-    "sha256": "45f904bd26175d836ded3667d7be6a304cb1f729347af0c618453094891d0617"
+    "bytes": 26118,
+    "sha256": "2cd9face1183e99b5468599b34c484c93fd5e7fb70f284c25a0c57a3396541c1"
    }
   },
   {
@@ -2768,7 +2783,7 @@
    "id": "tennav",
    "titles": {
     "english": "The Hymn of the Resurrection - Tennav",
-    "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ - Ⲧⲉⲛⲛⲁⲩ",
+    "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
     "arabic": "لحن القيامة - تينناف"
    },
    "tags": [],
@@ -2787,8 +2802,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tennav.json",
-    "bytes": 27646,
-    "sha256": "b2bac764c27dc9e03187a001ede38fb80bc181f35a59f664c815b97a83c2e4d1"
+    "bytes": 27623,
+    "sha256": "adb865871d37bf9cf68b354cd0df02b9f95ff7b496de08ec495516ebdc009518"
    }
   },
   {
@@ -2821,7 +2836,7 @@
    "id": "teoi-enhekanos",
    "titles": {
     "english": "The Tenth Part - Teoi Enhekanos",
-    "coptic": "Ϯⲙⲁϩⲙⲏϯ - Ⲧⲉⲟⲓ ⲛ̀ϩⲓⲕⲁⲛⲟⲥ",
+    "coptic": "Ⲧⲉⲟⲓ ⲛ̀ϩⲓⲕⲁⲛⲟⲥ",
     "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
    },
    "tags": [],
@@ -2840,14 +2855,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/teoi-enhekanos.json",
-    "bytes": 55897,
-    "sha256": "1594e1c831ceb3b095d3ce0b30eaa34b8fd640a692a3412c99bc1fd5cbbb4da2"
+    "bytes": 55876,
+    "sha256": "41a00465acaa570ae224c770aab67029e7d6246b943771cff0a6b16619e6252e"
    }
   },
   {
    "id": "the-thought-of-man",
    "titles": {
-    "english": "The Thought of Man"
+    "english": "The Thought of Man",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀",
+    "arabic": "الليلويا ان فكر الانسان"
    },
    "tags": [],
    "pending": false,
@@ -2861,8 +2878,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/the-thought-of-man.json",
-    "bytes": 740,
-    "sha256": "24fef309a6d5c828bd230d17d7003aa5d43207775d1a34d4a01c71acfb47ccfe"
+    "bytes": 868,
+    "sha256": "d3d47f74e2bdc260f46d1aa5f02ea0289df098f93cb7136465c2e64fd34d35f7"
    }
   },
   {
@@ -2895,7 +2912,9 @@
   {
    "id": "this-is-the-day",
    "titles": {
-    "english": "This Is the Day"
+    "english": "This Is the Day",
+    "coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉϩⲟⲩⲟ",
+    "arabic": "هذا هو اليوم الذي صنعه الرب"
    },
    "tags": [],
    "pending": false,
@@ -2909,15 +2928,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/this-is-the-day.json",
-    "bytes": 844,
-    "sha256": "734302a28b2f54ec4524e5ad9c9c82479b0fb92f73582dfc60f2bf9a0cf311c4"
+    "bytes": 962,
+    "sha256": "c6ffa78396280fe93d97182521445b0ee3185af5e3957ef821e62b24e2d7f136"
    }
   },
   {
    "id": "ton-syna",
    "titles": {
-    "coptic": "ⲧⲟⲛ ⲥⲩⲛⲁ",
     "english": "Ton Sinanarkhon (We the Believers)",
+    "coptic": "Ⲧⲟⲛ ⲥⲩⲛⲁ",
     "arabic": "طون سينانارخون"
    },
    "tags": [],
@@ -2933,7 +2952,7 @@
    "file": {
     "url": "catalog/v1/texts/ton-syna.json",
     "bytes": 1201,
-    "sha256": "cbbc116714133a5dab1be5222d0c5a7d6fab14e3b685bbf8c3759ceb9353886c"
+    "sha256": "54c1b29d15b1e6647dcbb591785d8468c7a619792153ed34aa4532b28bcab234"
    }
   },
   {
@@ -3004,7 +3023,8 @@
   {
    "id": "verses-cymbals-resurrection",
    "titles": {
-    "english": "Verses of Cymbals, Resurrection"
+    "english": "Verses of Cymbals, Resurrection",
+    "arabic": "ارباع الناقوس لعيد القيامة"
    },
    "tags": [],
    "pending": true,
@@ -3018,8 +3038,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verses-cymbals-resurrection.json",
-    "bytes": 254,
-    "sha256": "ddf73a54786b6358b8d1c0ab71c718c094fae480e4988f9bfe46f664a93fe4ed"
+    "bytes": 319,
+    "sha256": "f83fa40df791a860ef13ceead90bf7f80b734c603e13d3be8a6eda33a439ea3d"
    }
   }
  ],
