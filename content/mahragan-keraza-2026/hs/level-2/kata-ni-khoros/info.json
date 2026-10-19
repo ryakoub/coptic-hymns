@@ -5,5 +5,8 @@
     "coptic": "Ⲕⲁⲧⲁ Ⲛⲓⲭⲟⲣⲟⲥ",
     "english": "Kata Ni Khoros (All the Choirs)",
     "arabic": "كاطا ني خوروس"
-  }
+  },
+  "places": [
+    "resurrection/liturgy"
+  ]
 }

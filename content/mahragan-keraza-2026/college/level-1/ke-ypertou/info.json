@@ -5,5 +5,11 @@
     "coptic": "Ⲕⲉ Ⲩ̀ⲡⲉⲣⲧⲟⲩ",
     "english": "Ke Ypertou",
     "arabic": "كي إبرتو"
-  }
+  },
+  "places": [
+    {
+      "place": "holy-week/hymns",
+      "order": 20
+    }
+  ]
 }

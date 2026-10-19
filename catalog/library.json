@@ -764,44 +764,10 @@
      },
      "sections": [
       {
-       "id": "palm-sunday-evening",
+       "id": "hymns",
        "titles": {
-        "english": "Palm Sunday evening"
-       },
-       "entries": []
-      },
-      {
-       "id": "monday",
-       "titles": {
-        "english": "Monday"
-       },
-       "entries": []
-      },
-      {
-       "id": "tuesday",
-       "titles": {
-        "english": "Tuesday"
-       },
-       "entries": []
-      },
-      {
-       "id": "wednesday",
-       "titles": {
-        "english": "Wednesday"
-       },
-       "entries": []
-      },
-      {
-       "id": "thursday",
-       "titles": {
-        "english": "Covenant Thursday"
-       },
-       "entries": []
-      },
-      {
-       "id": "friday",
-       "titles": {
-        "english": "Good Friday"
+        "english": "Hymns",
+        "arabic": "الألحان"
        },
        "entries": []
       }

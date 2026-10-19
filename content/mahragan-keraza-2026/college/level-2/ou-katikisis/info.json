@@ -5,5 +5,11 @@
     "coptic": "Ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ",
     "english": "Ou Katikisis (A Homily)",
     "arabic": "أوكاتي شيسيس"
-  }
+  },
+  "places": [
+    {
+      "place": "holy-week/hymns",
+      "order": 30
+    }
+  ]
 }

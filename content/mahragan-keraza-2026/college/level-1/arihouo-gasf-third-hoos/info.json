@@ -5,5 +5,8 @@
     "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ from 3rd Hoos",
     "english": "Aree Hoo Ou Chasf (Third Canticle)",
     "arabic": "اري هوؤو تشاسف (الهوس الثالث)"
-  }
+  },
+  "places": [
+    "praises/midnight"
+  ]
 }

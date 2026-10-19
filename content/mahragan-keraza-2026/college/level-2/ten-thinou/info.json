@@ -5,5 +5,8 @@
     "coptic": "Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ",
     "english": "Ten Theeno (Arise, O Children of the Light)",
     "arabic": "تين ثينو"
-  }
+  },
+  "places": [
+    "praises/midnight"
+  ]
 }

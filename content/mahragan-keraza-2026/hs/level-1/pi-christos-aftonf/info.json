@@ -5,5 +5,8 @@
     "coptic": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲁϥⲧⲟⲛϥ",
     "english": "Pikhristos Aftonf (Christ Is Risen)",
     "arabic": "بي إخرستوس آفتونف"
-  }
+  },
+  "places": [
+    "resurrection/liturgy"
+  ]
 }

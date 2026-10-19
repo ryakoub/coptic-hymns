@@ -5,5 +5,8 @@
     "coptic": "ⲧⲟⲛ ⲥⲩⲛⲁ",
     "english": "Ton Sinanarkhon (We the Believers)",
     "arabic": "طون سينانارخون"
-  }
+  },
+  "places": [
+    "resurrection/liturgy"
+  ]
 }

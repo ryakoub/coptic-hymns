@@ -6,5 +6,12 @@
     "coptic": "Ⲉⲑⲃⲉ Ϯⲁⲛⲁⲥⲧⲁⲥⲓⲥ",
     "english": "Ethve Ti Anastasis (For the Resurrection of the Dead)",
     "arabic": "إثفي تي أنسطاسيس"
-  }
+  },
+  "places": [
+    {
+      "place": "holy-week/hymns",
+      "order": 40
+    }
+  ],
+  "kind": "melismatic"
 }

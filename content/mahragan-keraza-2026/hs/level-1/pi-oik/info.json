@@ -5,5 +5,8 @@
     "coptic": "Ⲡⲓⲱⲓⲕ",
     "english": "Pi Oik (The Bread of Life)",
     "arabic": "بي أويك"
-  }
+  },
+  "places": [
+    "annual/liturgy"
+  ]
 }

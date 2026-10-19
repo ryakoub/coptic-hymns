@@ -1,5 +1,5 @@
 {
- "version": "ea1e0d0b0ae17a1f",
+ "version": "8ebd91e2927ae604",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -50,11 +50,28 @@
      "sections": [
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "doxology-heavenly-orders",
+        "doxology-st-mary-vespers",
+        "doxology-st-mary-matins",
+        "st-mark-doxology-first-one",
+        "censer-annual"
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "anaphora-responses-st-basil-st-gregory-liturgies",
+        "ere-po-esmo-may-their-holy-blessing",
+        "liturgy-gospel-response-annual",
+        "paralex-shere-maria",
+        "pi-oik",
+        "praxis-response-annual",
+        "sotees-ameen-fast",
+        "hymn-of-the-blessing",
+        "the-thought-of-man",
+        "this-is-the-day"
+       ]
       },
       {
        "service": "special",
@@ -179,15 +196,24 @@
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "concluding-canon-feast-cross",
+        "verse-cymbals-feast-cross"
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "gospel-response-feast-cross",
+        "joyful-agios-major",
+        "praxis-response-feast-cross"
+       ]
       },
       {
        "service": "special",
-       "entries": []
+       "entries": [
+        "procession-refrain-feast-cross"
+       ]
       }
      ]
     },
@@ -222,7 +248,9 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -261,7 +289,9 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -300,7 +330,9 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -339,7 +371,9 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -378,7 +412,9 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -411,7 +447,9 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -440,11 +478,15 @@
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "hossana-intro-doxologies-first-doxology"
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -469,19 +511,42 @@
      "sections": [
       {
        "service": "midnight-praises",
-       "entries": []
+       "entries": [
+        "paralex-of-resurrection"
+       ]
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "conclusion-canon-resurrection",
+        "doxology-resurrection",
+        "second-doxology-resurrection",
+        "verse-cymbals-resurrection",
+        "verses-cymbals-resurrection"
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "aspasmos-adam-resurrection",
+        "distribution-refrain-resurrection",
+        "hiten-archangel-michael-feast-resurrection",
+        "joyful-agios-major",
+        "kata-ni-khoros",
+        "liturgy-gospel-response-resurrection",
+        "onim-nai-symfonia",
+        "pi-christos-aftonf",
+        "praxis-response-resurrection",
+        "psalm-response-resurrection",
+        "ton-syna",
+        "tou-lithou"
+       ]
       },
       {
        "service": "special",
-       "entries": []
+       "entries": [
+        "christ-is-risen"
+       ]
       }
      ]
     },
@@ -510,7 +575,10 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "christos-analympsis",
+        "joyful-agios-major"
+       ]
       },
       {
        "service": "special",
@@ -543,11 +611,17 @@
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "blessed-pentecost",
+        "joyful-agios-major",
+        "pi-pnevma"
+       ]
       },
       {
        "service": "special",
-       "entries": []
+       "entries": [
+        "refrain-third-hour-pentecost"
+       ]
       }
      ]
     }
@@ -689,7 +763,9 @@
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "second-doxology-apostles"
+       ]
       },
       {
        "service": "liturgy",
@@ -757,7 +833,12 @@
         "aven-pi-arshee-erevs",
         "nim-ghar",
         "adam-theotokias-conclusion",
-        "concluding-litany"
+        "concluding-litany",
+        "arihouo-gasf-third-hoos",
+        "conclusion-midnight-praises",
+        "lobsh-first-hoos",
+        "psalm-150-4th-hoos",
+        "ten-thinou"
        ]
       },
       {
@@ -797,46 +878,17 @@
      },
      "sections": [
       {
-       "id": "palm-sunday-evening",
+       "id": "hymns",
        "titles": {
-        "english": "Palm Sunday evening"
+        "english": "Hymns",
+        "arabic": "الألحان"
        },
-       "entries": []
-      },
-      {
-       "id": "monday",
-       "titles": {
-        "english": "Monday"
-       },
-       "entries": []
-      },
-      {
-       "id": "tuesday",
-       "titles": {
-        "english": "Tuesday"
-       },
-       "entries": []
-      },
-      {
-       "id": "wednesday",
-       "titles": {
-        "english": "Wednesday"
-       },
-       "entries": []
-      },
-      {
-       "id": "thursday",
-       "titles": {
-        "english": "Covenant Thursday"
-       },
-       "entries": []
-      },
-      {
-       "id": "friday",
-       "titles": {
-        "english": "Good Friday"
-       },
-       "entries": []
+       "entries": [
+        "fai-etafenf",
+        "ke-ypertou",
+        "ou-katikisis",
+        "ethbe-ti-anastasis"
+       ]
       }
      ]
     },
@@ -3697,6 +3749,7 @@
    },
    "source": "content/mahragan-keraza-2026/college/level-1/ethbe-ti-anastasis/",
    "youtube": "https://youtu.be/JQ0He5WoG7M?si=D3KlBK7v9sGdfc2I",
+   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/ethbe-ti-anastasis.json",

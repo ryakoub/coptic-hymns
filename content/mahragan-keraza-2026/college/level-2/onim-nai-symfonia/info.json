@@ -5,5 +5,8 @@
     "coptic": "Ⲱ̀ⲛⲓⲙ Ⲛⲁⲓ Ⲥⲩⲙⲫⲱⲛⲓⲁ",
     "english": "Oonim Nai Symphonia (What Are These?)",
     "arabic": "أونيم ناي سيمفونيا"
-  }
+  },
+  "places": [
+    "resurrection/liturgy"
+  ]
 }
