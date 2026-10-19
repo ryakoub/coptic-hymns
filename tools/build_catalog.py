@@ -29,7 +29,7 @@ Usage:
   python3 tools/build_catalog.py            # write the catalog and print a report
   python3 tools/build_catalog.py --check    # report only, exit 1 on errors
 """
-import argparse, hashlib, json, re, shutil, subprocess, sys
+import argparse, datetime, hashlib, json, re, shutil, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -399,7 +399,12 @@ def main():
     payload = {"schema": SCHEMA, "baseUrl": BASE_URL, "services": library["services"], "library": library["groups"],
                "texts": texts_out, "recordings": recordings_out, "notations": notations_out}
     # The version changes only when content does, so the app can tell cheaply whether anything is new.
-    payload = {"version": sha256_bytes(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode())[:16], **payload}
+    version = sha256_bytes(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode())[:16]
+    # When the content last changed, so the app takes only a newer catalog (the version is a fingerprint, not an order).
+    previous = json.loads((ROOT / "catalog/v1/index.json").read_text(encoding="utf-8")) if (ROOT / "catalog/v1/index.json").exists() else {}
+    updated = previous.get("updated") if previous.get("version") == version and previous.get("updated") else \
+        datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    payload = {"version": version, "updated": updated, **payload}
 
     total = sum(f["bytes"] for r in recordings_out for f in r["files"]) + sum(t["file"]["bytes"] for t in texts_out)
     shared = [t for t in texts_out if len(t["recordings"]) > 1]
