@@ -1,5 +1,5 @@
 {
- "version": "8ebd91e2927ae604",
+ "version": "7b293cd4ca0b1df3",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -884,10 +884,10 @@
         "arabic": "الألحان"
        },
        "entries": [
-        "fai-etafenf",
-        "ke-ypertou",
+        "ethbe-ti-anastasis",
         "ou-katikisis",
-        "ethbe-ti-anastasis"
+        "ke-ypertou",
+        "fai-etafenf"
        ]
       }
      ]
