@@ -736,6 +736,14 @@
         "arabic": "تسبحة باكر"
        },
        "entries": []
+      },
+      {
+       "id": "special",
+       "titles": {
+        "english": "Special hymns",
+        "arabic": "ألحان خاصة"
+       },
+       "entries": []
       }
      ]
     }
@@ -846,6 +854,23 @@
      "titles": {
       "english": "Veneration",
       "arabic": "تمجيد"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "crowning",
+     "titles": {
+      "english": "Crowning (Wedding)",
+      "arabic": "الإكليل"
      },
      "dates": null,
      "sections": [

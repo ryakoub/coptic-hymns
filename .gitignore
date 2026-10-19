@@ -9,3 +9,6 @@ __pycache__/
 # iCloud conflict copies ("index 2.json"); the repo lives in iCloud-synced Documents
 catalog/**/* [0-9].json
 catalog/**/* [0-9][0-9].json
+
+# YouTube scan cache (tools/inventory/scan.sh)
+tools/inventory/cache/

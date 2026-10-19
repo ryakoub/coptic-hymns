@@ -1,0 +1,7860 @@
+[
+ {
+  "key": "this-is-the-day",
+  "english": "Alleluia Fai Pe Pi (This is the day)",
+  "arabic": "الليلويا فاي بي بي إيهوؤ",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "this-is-the-day",
+  "note": "",
+  "video": {
+   "id": "mivvdRNOVFs",
+   "url": "https://www.youtube.com/watch?v=mivvdRNOVFs",
+   "title": "لحن الليلويا فاى بى بى-مرحلة أولى وثانية ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 122,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "2wqnlcGxCPI",
+    "year": 2024,
+    "stage": "simeon-elders",
+    "level": "1"
+   },
+   {
+    "id": "YlanPdsQW5I",
+    "year": 2024,
+    "stage": "adult-learners",
+    "level": "2"
+   },
+   {
+    "id": "F8jFL6bsgsU",
+    "year": 2024,
+    "stage": "grades-1-2",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "the-thought-of-man",
+  "english": "Alleluia Je Efmevi (The thought of man)",
+  "arabic": "الليلويا جي إفميفئي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "the-thought-of-man",
+  "note": "",
+  "video": {
+   "id": "YqQ2dkd_fEY",
+   "url": "https://www.youtube.com/watch?v=YqQ2dkd_fEY",
+   "title": "لحن الليلويا جى اف ميفئى- مرحلة أولى وثانية ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 111,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "5_kOgCcyNJI",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "gifted"
+   },
+   {
+    "id": "M6oRGsRwAnc",
+    "year": 2022,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "alleluia-offertory",
+  "english": "Alleluia of the Offertory (Al el-Korban)",
+  "arabic": "لحن آللي القربان",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "the website has its notation (score-sync-library/alleluia-offertory)",
+  "video": {
+   "id": "eK2o0fFxlUU",
+   "url": "https://www.youtube.com/watch?v=eK2o0fFxlUU",
+   "title": "لحن اللى القربان - الحان مرحلة ثانوى - مستوى ثانى - مهرجان الكرزاة المرقسية 2025",
+   "year": 2025,
+   "stage": "hs",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 524,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "5QR46g-oNPI",
+    "year": 2023,
+    "stage": "college",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "amen-ton-thanaton",
+  "english": "Amen, Amen, Amen, Ton thanaton sou",
+  "arabic": "مرد آمين آمين آمين تون ثاناتون سو",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "T3ywO9kj6Ck",
+   "url": "https://www.youtube.com/watch?v=T3ywO9kj6Ck",
+   "title": "مرد القداس امين امين امين تون ثاناتون سو - الحان أولى و ثانية - م٢- مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 127,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "GreOieUXNL0",
+    "year": 2023,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "aspasmos-adam-annual",
+  "english": "Annual Aspasmos Adam",
+  "arabic": "الأسبسمس الآدام السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "NQx-vLB1r10",
+   "url": "https://www.youtube.com/watch?v=NQx-vLB1r10",
+   "title": "الاسبازموس الآدام السنوى- المرحلة الثانوية - المستوى الأول- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 847,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aspasmos-watos-annual",
+  "english": "Annual Aspasmos Watos",
+  "arabic": "الأسبسمس الواطس السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "tw-HRF4We70",
+   "url": "https://www.youtube.com/watch?v=tw-HRF4We70",
+   "title": "الاسبزمس الواطس السنوي-مرحلة أولى وثانية ابتدائى-الموهبين فردى وجماعى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20260415",
+   "duration": 501,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-alleluia-annual",
+  "english": "Annual Distribution Alleluia",
+  "arabic": "آللي التوزيع السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "OA5AUcE20mY",
+   "url": "https://www.youtube.com/watch?v=OA5AUcE20mY",
+   "title": "اللي التوزيع السنوى - الحان أولى و ثانية - موهوبين - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 210,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "5TXLAMnPLyE",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "distribution-annual-psalm-150",
+  "english": "Annual Distribution and Psalm 150",
+  "arabic": "التوزيع السنوي والمزمور 150",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "LwC3t6WzFd0",
+   "url": "https://www.youtube.com/watch?v=LwC3t6WzFd0",
+   "title": "1التوزيع السنوى والمزمور 150- المرحلة الإعدادية- المستوى الثاني- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 500,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "praxis-response-annual",
+  "english": "Annual Praxis Response (Shere ne Maria)",
+  "arabic": "مرد الإبركسيس السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "praxis-response-annual",
+  "note": "",
+  "video": {
+   "id": "UO_xP8QhG0M",
+   "url": "https://www.youtube.com/watch?v=UO_xP8QhG0M",
+   "title": "مرد الإبركسيس السنوى-مرحلة خامسة وسادسة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 129,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "LVH5kCByLwc",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "praxis-response-annual-major",
+  "english": "Annual Praxis Response (long)",
+  "arabic": "مرد الإبركسيس السنوي الكبير",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "G_FW2slQdfg",
+   "url": "https://www.youtube.com/watch?v=G_FW2slQdfg",
+   "title": "مرد الإبركسيس السنوى الكبير-مرحلة ثالثة ورابعة ابتدائى-مستوى الموهبين-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20260415",
+   "duration": 610,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "UXqmVSHSoYY",
+    "year": 2024,
+    "stage": "hs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "os-ein-response",
+  "english": "As it was (Os ein) response",
+  "arabic": "مرد كما كان (أوس بارين)",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "m5S7daNdUQc",
+   "url": "https://www.youtube.com/watch?v=m5S7daNdUQc",
+   "title": "مرد (كما كان ) (أوس بارين) - الحان مرحلة ثالثة و رابعة م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 122,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "BxIAqF7sG_Q",
+    "year": 2023,
+    "stage": "grades-3-4",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "commemoration-response-basil",
+  "english": "Commemoration of the Saints Response (St. Basil)",
+  "arabic": "مرد المجمع الباسيلي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "MG9lcCUZjnw",
+   "url": "https://www.youtube.com/watch?v=MG9lcCUZjnw",
+   "title": "مرد المجمع الباسيلى - مرحلة حضانة- المستوى الثانى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 92,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "XwqvCpAKJFA",
+    "year": 2024,
+    "stage": "kg",
+    "level": "2"
+   },
+   {
+    "id": "8FMgiIunrbA",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "2"
+   },
+   {
+    "id": "6Yhulo4UW_c",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "1"
+   },
+   {
+    "id": "a90i8CC2rlk",
+    "year": 2022,
+    "stage": "kg",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "eleison-imas-je-nai-nan",
+  "english": "Eleison Imas and Je Nai Nan",
+  "arabic": "إليسون إيماس وجي ناي نان",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "2r3OzfVD1nQ",
+   "url": "https://www.youtube.com/watch?v=2r3OzfVD1nQ",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة ثالثة و رابعة ابتدائى -المستوي الثاني - اليسون ايماس و جى ناى نان",
+   "year": 2023,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20230303",
+   "duration": 205,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ere-po-esmo-may-their-holy-blessing",
+  "english": "Ere Po Esmo (May Their Holy Blessing)",
+  "arabic": "",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ere-po-esmo-may-their-holy-blessing",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "fol-evol-gregory",
+  "english": "Fol Evol (St. Gregory Liturgy)",
+  "arabic": "لحن فول إيفول من القداس الغريغوري",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "WFJWWbr29F4",
+   "url": "https://www.youtube.com/watch?v=WFJWWbr29F4",
+   "title": "لحن فول ايفول - الحان مرحلة خامسة وسادسة م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 169,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "8IMHfozZTmI",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "2"
+   },
+   {
+    "id": "xGQYM9CcE7M",
+    "year": 2023,
+    "stage": "grades-5-6",
+    "level": "1"
+   },
+   {
+    "id": "nIYsB1shtnw",
+    "year": 2023,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "hymn-of-the-blessing",
+  "english": "Hymn of the Blessing (Ten Oosht)",
+  "arabic": "لحن البركة (تين أوؤشت)",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "hymn-of-the-blessing",
+  "note": "",
+  "video": {
+   "id": "j6fZcVjHWgE",
+   "url": "https://www.youtube.com/watch?v=j6fZcVjHWgE",
+   "title": "لحن البركة تين اووشت-المرحلة الإعدادية المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 207,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "LXkZ_mZGTF0",
+    "year": 2026,
+    "stage": "kg",
+    "level": "gifted"
+   },
+   {
+    "id": "RcZI-8fLhqs",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "1"
+   },
+   {
+    "id": "Vh5UYONJmtw",
+    "year": 2023,
+    "stage": "ms",
+    "level": "1"
+   },
+   {
+    "id": "XWZFrJYNyIs",
+    "year": 2022,
+    "stage": "kg",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "je-nai-nan",
+  "english": "Je Nai Nan response",
+  "arabic": "مرد جي ناي نان",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "u0vaygdZyoE",
+   "url": "https://www.youtube.com/watch?v=u0vaygdZyoE",
+   "title": "مرد جى ناى نان - الحان مرحلة ثالثة و رابعة م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 207,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "liturgy-gospel-response-annual",
+  "english": "Liturgy Gospel Response (annual)",
+  "arabic": "مرد إنجيل القداس السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "liturgy-gospel-response-annual",
+  "note": "",
+  "video": {
+   "id": "zd-fK72u3VQ",
+   "url": "https://www.youtube.com/watch?v=zd-fK72u3VQ",
+   "title": "مرد إنجيل القداس السنوى- مرحلة حضانة- المستوى الثانى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 126,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "V64OpwWbruY",
+    "year": 2025,
+    "stage": "adult-learners",
+    "level": "1"
+   },
+   {
+    "id": "JZCPsLTLPa0",
+    "year": 2024,
+    "stage": "kg",
+    "level": "2"
+   },
+   {
+    "id": "9BQ6zEZo2kI",
+    "year": 2024,
+    "stage": "special-needs",
+    "level": "gifted"
+   },
+   {
+    "id": "7n50wZ1J1no",
+    "year": 2022,
+    "stage": "kg",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "paralex-shere-maria",
+  "english": "Paralex of the Blessing hymn",
+  "arabic": "برلكس لحن البركة",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "paralex-shere-maria",
+  "note": "",
+  "video": {
+   "id": "0RkIDINpcwg",
+   "url": "https://www.youtube.com/watch?v=0RkIDINpcwg",
+   "title": "برلكس لحن البركة--المرحلة الإعدادية-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 561,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "pauline-response-short",
+  "english": "Pauline Epistle Response (short)",
+  "arabic": "مرد البولس المختصر",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "ZmC2MeYyxOk",
+   "url": "https://www.youtube.com/watch?v=ZmC2MeYyxOk",
+   "title": "2مرد البولس المختصر- مرحلة حضانة - المستوى الأول- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 76,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "ZeROuBKqGOM",
+    "year": 2023,
+    "stage": "kg",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "pi-ehmot-ghar-small",
+  "english": "Pi Ehmot Ghar (short)",
+  "arabic": "لحن بي أهموت غار الصغيرة",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "BtWccQma1NQ",
+   "url": "https://www.youtube.com/watch?v=BtWccQma1NQ",
+   "title": "لحن بى أهموت غار الصغيرة - الحان مرحلة ثالثة و رابعة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 224,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "oSeRXfEBOro",
+    "year": 2024,
+    "stage": "simeon-elders",
+    "level": "1"
+   },
+   {
+    "id": "izH6izQ2qgE",
+    "year": 2024,
+    "stage": "adult-learners",
+    "level": "1"
+   },
+   {
+    "id": "92MW_ylqu3Y",
+    "year": 2023,
+    "stage": "kg",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "pi-oik",
+  "english": "Pi Oik (annual distribution)",
+  "arabic": "لحن التوزيع السنوي بي أويك",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "pi-oik",
+  "note": "",
+  "video": {
+   "id": "zhpvlzZbads",
+   "url": "https://www.youtube.com/watch?v=zhpvlzZbads",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة ثانوى - المستوى الأول- لحن التوزيع السنوى بى أويك",
+   "year": 2023,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20230311",
+   "duration": 619,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "praxis-response-short",
+  "english": "Praxis Response (short)",
+  "arabic": "مرد الإبركسيس المختصر",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "I01Mh-jasUQ",
+   "url": "https://www.youtube.com/watch?v=I01Mh-jasUQ",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة حضانة - المستوى الأول- مرد الابركسيس المختصر",
+   "year": 2023,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20230303",
+   "duration": 71,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "reconciliation-response-basil",
+  "english": "Reconciliation Prayer Response, St. Basil",
+  "arabic": "مرد صلاة الصلح من القداس الباسيلي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "2Qz4ONEmdQE",
+   "url": "https://www.youtube.com/watch?v=2Qz4ONEmdQE",
+   "title": "2مرد صلاة الصلح من القداس الباسيلى- مرحلة حضانة - المستوى الثانى- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 111,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "zIjaYQ021Qo",
+    "year": 2024,
+    "stage": "special-needs",
+    "level": null
+   },
+   {
+    "id": "zTHLoMcVP9E",
+    "year": 2023,
+    "stage": "grades-3-4",
+    "level": "1"
+   },
+   {
+    "id": "4gwsOiKP1Hg",
+    "year": 2023,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "reconciliation-response-gregory",
+  "english": "Reconciliation Prayer Response, St. Gregory",
+  "arabic": "مرد صلاة الصلح للقداس الغريغوري",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "zCjBUWtgfs8",
+   "url": "https://www.youtube.com/watch?v=zCjBUWtgfs8",
+   "title": "الحان مهرجان الكرازة 2023 - خامسة وسادسة ابتدائى -المستوى الاول-مرد صلاة الصلح للقداس الغريغورى",
+   "year": 2023,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20230309",
+   "duration": 120,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "cherubim-response",
+  "english": "Response of the Cherubim's praise",
+  "arabic": "مرد تسبحة الشاروبيم",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "o1_JdUm4lAc",
+   "url": "https://www.youtube.com/watch?v=o1_JdUm4lAc",
+   "title": "مرد تسبحة الشاروبيم - الحان مرحلة ثالثة و رابعة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 139,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "tfXLfSqXP_4",
+    "year": 2023,
+    "stage": "grades-3-4",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "anaphora-responses-st-basil-st-gregory",
+  "english": "Responses at the start of the Anaphora (St. Basil and St. Gregory)",
+  "arabic": "مردات بدء القداس (باسيلي وغريغوري)",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "anaphora-responses-st-basil-st-gregory-liturgies",
+  "note": "",
+  "video": {
+   "id": "YPEmbnucwfg",
+   "url": "https://www.youtube.com/watch?v=YPEmbnucwfg",
+   "title": "مردات بدء القداس -مرحلة خامسة وسادسة ابتدائى- المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 180,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "8GvCHLJoXoQ",
+    "year": 2024,
+    "stage": "grades-5-6",
+    "level": "1"
+   },
+   {
+    "id": "PAyPqnHwynA",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "sotees-ameen-fast",
+  "english": "Sotis Amen (combined)",
+  "arabic": "لحن سوتيس آمين دمجًا",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sotees-ameen-fast",
+  "note": "",
+  "video": {
+   "id": "Yn39f7QLpUY",
+   "url": "https://www.youtube.com/watch?v=Yn39f7QLpUY",
+   "title": "لحن سوتيس آمين دمجًا- مرحلة حضانة - المستوى الأول - مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 67,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "7mIOu_KUe3A",
+    "year": 2024,
+    "stage": "kg",
+    "level": "1"
+   },
+   {
+    "id": "lidt6qYwDOk",
+    "year": 2024,
+    "stage": "special-needs",
+    "level": null
+   },
+   {
+    "id": "pjNvu9FFTBM",
+    "year": 2022,
+    "stage": "kg",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "sotees-ameen-major",
+  "english": "Sotis Amen (long)",
+  "arabic": "لحن سوتيس آمين الكبير",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "O0iFDsaPRLM",
+   "url": "https://www.youtube.com/watch?v=O0iFDsaPRLM",
+   "title": "لحن سوتيس أمين الكبير- الحان خدام و اعداد خدام - المستوى ٢- مهرجان الكرازة المرقسية ٢٠٢٤",
+   "year": 2024,
+   "stage": "servants",
+   "level": null,
+   "uploaded": "20240514",
+   "duration": 335,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "n1sl77Usg-0",
+    "year": 2023,
+    "stage": "college",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "tai-shouri",
+  "english": "Tai Shouri (annual)",
+  "arabic": "لحن طاي شوري السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "the official 2026 video is damaged; another copy of the same hymn",
+  "video": {
+   "id": "Wj4Ar8LPDoQ",
+   "url": "https://www.youtube.com/watch?v=Wj4Ar8LPDoQ",
+   "title": "الحان مهرجان الكرازة المرقسية 2026 اسرة قانا الجليل - المستوى الثاني | لحن طاي شوري السنوي",
+   "year": 2026,
+   "stage": "cana-family",
+   "level": "2",
+   "uploaded": null,
+   "duration": null,
+   "playable": true,
+   "channel": "The Coptic Gate"
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ten-oosht-evol-basil",
+  "english": "Ten Oosht Evol response, St. Basil Liturgy",
+  "arabic": "مرد تين جوشت إيفول للقداس الباسيلي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "TFdhGe604Qc",
+   "url": "https://www.youtube.com/watch?v=TFdhGe604Qc",
+   "title": "مرد تين جوشت للقداس الباسيلي - الحان أولى و ثانية - م١ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 80,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "Xi1QuAmReTk",
+    "year": 2023,
+    "stage": "grades-1-2",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "ten-oosht-evol-gregory",
+  "english": "Ten Oosht Evol response, St. Gregory Liturgy",
+  "arabic": "مرد تين جوشت إيفول للقداس الغريغوري",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "ClsklKxm630",
+   "url": "https://www.youtube.com/watch?v=ClsklKxm630",
+   "title": "مرد تين جوشت ايفول للقداس الغريغورى - الحان أولى و ثانية - م٢ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 93,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "MywUCpB4YYA",
+    "year": 2023,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "agios-annual",
+  "english": "Trisagion (annual)",
+  "arabic": "الثلاث تقديسات السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "oXB8Mtb0iEA",
+   "url": "https://www.youtube.com/watch?v=oXB8Mtb0iEA",
+   "title": "الثلاثة تقديسات السنوى- مرحلة حضانة - المستوى الثانى- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 146,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "BXKLIRlNt4w",
+    "year": 2025,
+    "stage": "simeon-elders",
+    "level": "1"
+   },
+   {
+    "id": "hvOVv9lJMzw",
+    "year": 2025,
+    "stage": "adult-learners",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "hetenyat-annual",
+  "english": "Annual Hetenyat (intercessions)",
+  "arabic": "الهيتنيات السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "9Qk_Q1g-7Q8",
+   "url": "https://www.youtube.com/watch?v=9Qk_Q1g-7Q8",
+   "title": "1الهيتنيات السنوى- المرحلة الإعدادية- المستوى الأول- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 674,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "HgX_iuFETTI",
+    "year": 2022,
+    "stage": "ms",
+    "level": "1"
+   },
+   {
+    "id": "XuWU8Tta18Y",
+    "year": 2022,
+    "stage": "ms",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "verses-cymbals-annual",
+  "english": "Annual Verses of the Cymbals",
+  "arabic": "أرباع الناقوس السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "-4R8kInrRBI",
+   "url": "https://www.youtube.com/watch?v=-4R8kInrRBI",
+   "title": "أرباع الناقوس السنوى-المستوى الأول-ألحان المرحلة الإعدادية-مهرجان الكرازة المرقسية2024",
+   "year": 2024,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 673,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "concluding-canon-annual",
+  "english": "Closing Canon of the communal prayers (annual)",
+  "arabic": "ختام الصلوات الجماعية السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   },
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "DPLZ9fyQxow",
+   "url": "https://www.youtube.com/watch?v=DPLZ9fyQxow",
+   "title": "1ختام الصلوات الاجتماعية السنوى- مرحلة حضانة - المستوى الأول- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20250227",
+   "duration": 157,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "GZqg1xUMAfk",
+    "year": 2023,
+    "stage": "kg",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "doxology-archangel-michael",
+  "english": "Doxology of Archangel Michael",
+  "arabic": "ذكصولوجية الملاك ميخائيل",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "EEJM7reUfwA",
+   "url": "https://www.youtube.com/watch?v=EEJM7reUfwA",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة خامسة وسادسة - المستوى التانى- ذكصولوجية الملاك ميخائيل",
+   "year": 2022,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20220327",
+   "duration": 172,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-st-mary-matins",
+  "english": "Doxology of St. Mary, Matins",
+  "arabic": "ذكصولوجية العذراء لرفع بخور باكر",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "doxology-st-mary-matins",
+  "note": "",
+  "video": {
+   "id": "zHbUrcy1OwM",
+   "url": "https://www.youtube.com/watch?v=zHbUrcy1OwM",
+   "title": "ذكصولوجية السيدة العذراء لرفع بخور باكر - مرحلة خامسة وسادسة - مستوى1 - مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 270,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-st-mary-vespers",
+  "english": "Doxology of St. Mary, Vespers",
+  "arabic": "ذكصولوجية العذراء لرفع بخور عشية",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "doxology-st-mary-vespers",
+  "note": "",
+  "video": {
+   "id": "hfNjpxEfnMI",
+   "url": "https://www.youtube.com/watch?v=hfNjpxEfnMI",
+   "title": "ذكصولوجية السيدة العذراء -مرحلة ثالثة ورابعة ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 177,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "xxx59A_MnhA",
+    "year": 2024,
+    "stage": "grades-3-4",
+    "level": "1"
+   },
+   {
+    "id": "4J0DQ5DfsZI",
+    "year": 2024,
+    "stage": "simeon-elders",
+    "level": "2"
+   },
+   {
+    "id": "k-0rFj2rMXk",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "2"
+   },
+   {
+    "id": "oBsuUKomIN0",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "doxology-heavenly-orders",
+  "english": "Doxology of the Heavenly Orders",
+  "arabic": "ذكصولوجية السمائيين",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "doxology-heavenly-orders",
+  "note": "",
+  "video": {
+   "id": "6_tRpav5NNk",
+   "url": "https://www.youtube.com/watch?v=6_tRpav5NNk",
+   "title": "ذكصولوجية السمائيين-مرحلة خامسة وسادسة ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 274,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "bsApjyhgX1A",
+    "year": 2024,
+    "stage": "grades-5-6",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "doxology-john-baptist-1",
+  "english": "First Doxology of St. John the Baptist",
+  "arabic": "ذكصولوجية القديس يوحنا المعمدان الأولى",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "vjrHui5z_I0",
+   "url": "https://www.youtube.com/watch?v=vjrHui5z_I0",
+   "title": "ذكصولوجية القديس يوحنا المعمدان الأولى - الحان مرحلة خامسة وسادسة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 134,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "zB5s9wCK8Zs",
+    "year": 2023,
+    "stage": "grades-5-6",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "st-mark-doxology-first-one",
+  "english": "First Doxology of St. Mark",
+  "arabic": "الذكصولوجية الأولى لمار مرقس",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "st-mark-doxology-first-one",
+  "note": "",
+  "video": {
+   "id": "IMmRTLS-EQ4",
+   "url": "https://www.youtube.com/watch?v=IMmRTLS-EQ4",
+   "title": "ذكصولوجية القديس مارمرقس-مرحلة أولى وثانية ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20260418",
+   "duration": 168,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "uT-xi4QME5Q",
+    "year": 2024,
+    "stage": "grades-1-2",
+    "level": "2"
+   },
+   {
+    "id": "cLdIg1p0NLI",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "gifted"
+   },
+   {
+    "id": "DeI7luoPrZs",
+    "year": 2022,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "kyrie-eleison-major",
+  "english": "Kyrie Eleison (long)",
+  "arabic": "لحن كيرياليسون الكبير",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "sung on many occasions",
+  "video": {
+   "id": "-HFXg7KhSlI",
+   "url": "https://www.youtube.com/watch?v=-HFXg7KhSlI",
+   "title": "ألحان مهرجان الكرازة المرقسية 2023 - مرحلة جامعة - المستوى الأول- لحن كيرياليسون الكبير",
+   "year": 2023,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20230318",
+   "duration": 169,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-matins-annual",
+  "english": "Matins Gospel Response (annual)",
+  "arabic": "مرد إنجيل باكر السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "hYn4Oi-EpJQ",
+   "url": "https://www.youtube.com/watch?v=hYn4Oi-EpJQ",
+   "title": "مرد انجيل باكر السنوى - الحان أولى و ثانية - م١ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 132,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "pVjW8q6Ta2o",
+    "year": 2023,
+    "stage": "grades-1-2",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "doxology-john-baptist-2",
+  "english": "Second Doxology of St. John the Baptist",
+  "arabic": "ذكصولوجية القديس يوحنا المعمدان الثانية",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "urJ1fMlibnY",
+   "url": "https://www.youtube.com/watch?v=urJ1fMlibnY",
+   "title": "ذكصولوجية القديس يوحنا المعمدان الثانية - الحان مرحلة خامسة وسادسة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 139,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ten-oosht-evol-vespers-matins",
+  "english": "Ten Oosht Evol response, Vespers and Matins",
+  "arabic": "مرد تين جوشت إيفول عشية وباكر",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "2ILrPC8vnHA",
+   "url": "https://www.youtube.com/watch?v=2ILrPC8vnHA",
+   "title": "مرد تين جوشت ايفول عشية و باكر - الحان مرحلة خامسة وسادسة م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 113,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ti-shouri-major",
+  "english": "Ti Shouri (long)",
+  "arabic": "لحن تي شوري الكبيرة",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "3IM1pr4MbuE",
+   "url": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
+   "title": "لحن تى شورى الكبيرة- الحان المرحلة الإعدادية - مستوى تميز جماعى - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 434,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "censer-annual",
+  "english": "Ti Shouri (the golden censer), annual",
+  "arabic": "لحن تي شوري السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "censer-annual",
+  "note": "",
+  "video": {
+   "id": "zLsDf4hUrzM",
+   "url": "https://www.youtube.com/watch?v=zLsDf4hUrzM",
+   "title": "لحن تي شوري السنوى- مرحلة ثالثة ورابعة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20260418",
+   "duration": 126,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "jUEZOT29aX4",
+    "year": 2025,
+    "stage": "simeon-elders",
+    "level": "2"
+   },
+   {
+    "id": "udJ9lIL4YP8",
+    "year": 2024,
+    "stage": "kg",
+    "level": "gifted"
+   },
+   {
+    "id": "ZUKfdWFfTA8",
+    "year": 2024,
+    "stage": "grades-3-4",
+    "level": "2"
+   },
+   {
+    "id": "KUQUwKogE9s",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "2"
+   },
+   {
+    "id": "T5LbO0YRPHc",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "gospel-response-vespers-annual",
+  "english": "Vespers Gospel Response (annual)",
+  "arabic": "مرد إنجيل رفع بخور عشية السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "np_DWSwzRJo",
+   "url": "https://www.youtube.com/watch?v=np_DWSwzRJo",
+   "title": "لحن مرد إنجيل رفع بخور عشية السنوي-مرحلة حضانة - المستوى الأول - مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 79,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "h_8X9aVsqtg",
+    "year": 2024,
+    "stage": "kg",
+    "level": "1"
+   },
+   {
+    "id": "Vg80_lDnN7M",
+    "year": 2022,
+    "stage": "kg",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "aspazisti",
+  "english": "Aspazisti",
+  "arabic": "أسبازيستي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Special hymns",
+    "arabic": "السنوي · ألحان خاصة",
+    "id": "annual/special"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Ocyf-pEQDYQ",
+   "url": "https://www.youtube.com/watch?v=Ocyf-pEQDYQ",
+   "title": "الحان مهرجان الكرازة المرقسية 2022 - مرحلة ثانوى-مستوى التميز الجماعى - لحن اسبازيستى",
+   "year": 2022,
+   "stage": "hs",
+   "level": "gifted",
+   "uploaded": "20220310",
+   "duration": 630,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ti-stoli",
+  "english": "Ti Stoli",
+  "arabic": "لحن تي إستولي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Special hymns",
+    "arabic": "السنوي · ألحان خاصة",
+    "id": "annual/special"
+   },
+   {
+    "collection": "crowning",
+    "english": "Crowning (Wedding) · Hymns",
+    "arabic": "الإكليل · Hymns",
+    "id": "crowning/hymns"
+   },
+   {
+    "collection": "veneration",
+    "english": "Veneration · Hymns",
+    "arabic": "تمجيد · Hymns",
+    "id": "veneration/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "jzCkqSmljCQ",
+   "url": "https://www.youtube.com/watch?v=jzCkqSmljCQ",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة ثانوى - مستوى الموهوبين فردى وجماعى- لحن تى استولى",
+   "year": 2023,
+   "stage": "hs",
+   "level": "gifted",
+   "uploaded": "20230311",
+   "duration": 339,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aspasmos-adam-kiahk",
+  "english": "Aspasmos Adam for Kiahk",
+  "arabic": "أسبسمس آدام لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "KHGg7NKDXtE",
+   "url": "https://www.youtube.com/watch?v=KHGg7NKDXtE",
+   "title": "الحان مهرجان الكرازة المرقسية 2022 - مرحلة جامعة - المستوى الأول - اسبزمس آدام لشهر كيهك",
+   "year": 2022,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20220311",
+   "duration": 195,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-kiahk-sunday-2",
+  "english": "Gospel Response, Second Sunday of Kiahk",
+  "arabic": "مرد إنجيل الأحد الثاني من شهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "zuZ-lkE8e4Y",
+   "url": "https://www.youtube.com/watch?v=zuZ-lkE8e4Y",
+   "title": "الحان مهرجان الكرازة 2022-ذوى القدرات الخاصة- بسيط ومتوسط الإعاقةم1-مرد انجيل الاحد الثانى  شهر كيهك",
+   "year": 2022,
+   "stage": "special-needs",
+   "level": "1",
+   "uploaded": "20220321",
+   "duration": 85,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "IQjh3Jlri9M",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "2"
+   },
+   {
+    "id": "TGL1D8WXeL4",
+    "year": 2022,
+    "stage": "kg",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "gospel-response-kiahk-sunday-3",
+  "english": "Gospel Response, Third Sunday of Kiahk",
+  "arabic": "مرد إنجيل الأحد الثالث من شهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "oD3-0NiOZYk",
+   "url": "https://www.youtube.com/watch?v=oD3-0NiOZYk",
+   "title": "الحان مهرجان الكرازة 2022-ذوى القدرات الخاصة- بسيط ومتوسط الإعاقةم2-مرد انجيل الاحد الثالث شهر كيهك",
+   "year": 2022,
+   "stage": "special-needs",
+   "level": "2",
+   "uploaded": "20220321",
+   "duration": 87,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "4H9dLXLW0Cg",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "1"
+   },
+   {
+    "id": "pUreGng0a6M",
+    "year": 2022,
+    "stage": "grades-1-2",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "distribution-kiahk",
+  "english": "Kiahk Distribution hymn (Alleluia)",
+  "arabic": "آللي التوزيع الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "vQDBjKmavLY",
+   "url": "https://www.youtube.com/watch?v=vQDBjKmavLY",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة اولى وثانية - الموهوبين الفردى والجماعى- لحن التوزيع الكيهكى",
+   "year": 2022,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20220318",
+   "duration": 163,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "Wvv7_Z-u3x0",
+    "year": 2022,
+    "stage": "college",
+    "level": "1"
+   },
+   {
+    "id": "73PoMHxjSyw",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "psalm-kiahk",
+  "english": "Kiahk Psalm",
+  "arabic": "المزمور الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "dxiGW6WuRmQ",
+   "url": "https://www.youtube.com/watch?v=dxiGW6WuRmQ",
+   "title": "الحان مهرجان الكرازة المرقسية 2022 - مرحلة اعدادى - المستوى التانى - المزمور الكيهكى",
+   "year": 2022,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20220315",
+   "duration": 266,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "DC7ZhrpfbA4",
+    "year": 2022,
+    "stage": "kg",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "praxis-response-kiahk",
+  "english": "Praxis Response for Kiahk",
+  "arabic": "مرد الإبركسيس لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "6IeF4fTywts",
+   "url": "https://www.youtube.com/watch?v=6IeF4fTywts",
+   "title": "الحان مهرجان الكرازة 2022 - ذوى القدرات الخاصة- المستوى المتميز -مرد الإبركسيس لشهر كيهك",
+   "year": 2022,
+   "stage": "special-needs",
+   "level": "gifted",
+   "uploaded": "20220322",
+   "duration": 127,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "3oKe0Tsi244",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "1"
+   },
+   {
+    "id": "kHBItOP3rfk",
+    "year": 2022,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "psalm-procession-kiahk",
+  "english": "Procession of the Kiahk Psalm",
+  "arabic": "لحن طواف المزمور الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Liturgy",
+    "arabic": "كيهك · القداس",
+    "id": "kiahk/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "hCg8CJpFkUE",
+   "url": "https://www.youtube.com/watch?v=hCg8CJpFkUE",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة ثالثة ورابعة - المستوى الثانى- لحن طواف المزمور الكيهكى",
+   "year": 2022,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20220309",
+   "duration": 118,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aritenthonti",
+  "english": "Aritenthonti",
+  "arabic": "أريتين ثونتي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "90wll0NbLVA",
+   "url": "https://www.youtube.com/watch?v=90wll0NbLVA",
+   "title": "ألحان مهرجان الكرازة 2022 - مرحلة الخريجين- المستوى الثانى-  لحن أريتين ثونتى",
+   "year": 2022,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": "20220531",
+   "duration": 847,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "conclusion-tarh-workers",
+  "english": "Conclusion of the Tarh of the Workers",
+  "arabic": "لحن ختام طرح الفعلة القديسين",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "2AqCqDuizbw",
+   "url": "https://www.youtube.com/watch?v=2AqCqDuizbw",
+   "title": "ألحان مهرجان الكرازة 2022 - مرحلة الخريجين- المستوى الأول- لحن ختام طرح الفعلة القديسين",
+   "year": 2022,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": "20220531",
+   "duration": 336,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "IvqoOCqvA0U",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "adam-psali-kiahk-1",
+  "english": "Kiahk Adam Psali on the First Hoos",
+  "arabic": "إبصالية آدام كيهكي على الهوس الأول",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "muGaOkjZIPU",
+   "url": "https://www.youtube.com/watch?v=muGaOkjZIPU",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة جامعة - المستوى الثانى- أبصالية آدام كيهكى على الهوس الاول",
+   "year": 2022,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20220315",
+   "duration": 511,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "adam-psali-kiahk-4",
+  "english": "Kiahk Adam Psali on the Fourth Hoos",
+  "arabic": "إبصالية آدام كيهكي على الهوس الرابع",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "XuhpMKrls6Y",
+   "url": "https://www.youtube.com/watch?v=XuhpMKrls6Y",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة خريجين- المستوى الأول- إبصالية آدام كيهكى على الهوس الرابع",
+   "year": 2022,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": "20220518",
+   "duration": 421,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "adam-psali-kiahk-2",
+  "english": "Kiahk Adam Psali on the Second Hoos",
+  "arabic": "إبصالية آدام كيهكي على الهوس الثاني",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "zr-k8Z35XxI",
+   "url": "https://www.youtube.com/watch?v=zr-k8Z35XxI",
+   "title": "الحان مهرجان الكرازة المرقسية 2022 - مرحلة ثانوى- المستوى الأول - أبصالية آدام على الهوس التانى",
+   "year": 2022,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20220310",
+   "duration": 719,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "RaokScFQ4mQ",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "adam-psali-kiahk-3",
+  "english": "Kiahk Adam Psali on the Third Hoos",
+  "arabic": "إبصالية آدام كيهكي على الهوس الثالث",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "_vk9E4-JWQs",
+   "url": "https://www.youtube.com/watch?v=_vk9E4-JWQs",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة خامسة وسادسة - المستوى التانى -ابصالية آدام كيهكى على الهوس الثالث",
+   "year": 2022,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20220331",
+   "duration": 218,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "VsFgv_Kfvtk",
+    "year": 2022,
+    "stage": "college",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "sheraat-kiahk",
+  "english": "Kiahk Sheraat (Hail to you)",
+  "arabic": "الشيرات الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "1pThhrWkXAs",
+   "url": "https://www.youtube.com/watch?v=1pThhrWkXAs",
+   "title": "ألحان مهرجان الكرازة 2022 - مرحلة الخريجين- المستوى الثانى- الشيرات الكيهكى",
+   "year": 2022,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": "20220521",
+   "duration": 1684,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tenen",
+  "english": "Tenen",
+  "arabic": "لحن تينين",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   },
+   {
+    "collection": "bright-saturday",
+    "english": "Bright Saturday · Hymns",
+    "arabic": "سبت الفرح · Hymns",
+    "id": "bright-saturday/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "PuuTmT66oKI",
+   "url": "https://www.youtube.com/watch?v=PuuTmT66oKI",
+   "title": "لحن تينين - الحان مرحلة ثالثة و رابعة موهوبين - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 744,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tenoueh-ensok-kiahk",
+  "english": "Tenoueh Ensok, Kiahk tune",
+  "arabic": "تين أويه إنسوك الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Midnight Praises",
+    "arabic": "كيهك · التسبحة",
+    "id": "kiahk/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "n0kOGhi5_NM",
+   "url": "https://www.youtube.com/watch?v=n0kOGhi5_NM",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة ثالثة ورابعة - المستوى الثانى- لحن تين اويه أنسوك الكيهكى دمجًا",
+   "year": 2022,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20220316",
+   "duration": 177,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "RVfh_UKJtCY",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "gifted"
+   },
+   {
+    "id": "GDwnTekHLYQ",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "conclusion-kiahk",
+  "english": "Closing Canon for Kiahk",
+  "arabic": "جملة ختام الصلوات لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "-WTyw9BflSQ",
+   "url": "https://www.youtube.com/watch?v=-WTyw9BflSQ",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة حضانة - جملة ختام الصلوات لشهر كيهك",
+   "year": 2022,
+   "stage": "kg",
+   "level": null,
+   "uploaded": "20220304",
+   "duration": 83,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-kiahk-5",
+  "english": "Fifth Kiahk Doxology",
+  "arabic": "الذكصولوجية الخامسة لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "HODwuFRK330",
+   "url": "https://www.youtube.com/watch?v=HODwuFRK330",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة جامعة - المستوى الثانى- الذكصولوجية الخامسة لشهر كيهك",
+   "year": 2022,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20220321",
+   "duration": 319,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-kiahk-1",
+  "english": "First Kiahk Doxology",
+  "arabic": "ذكصولوجية كيهك الأولى",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "9tJrNgLj7Sk",
+   "url": "https://www.youtube.com/watch?v=9tJrNgLj7Sk",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة خامسة وسادسة - المستوى الأول- ذكصولوجية كيهك الأولى",
+   "year": 2022,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20220331",
+   "duration": 321,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "tVKnHQG_mxo",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "doxology-kiahk-4",
+  "english": "Fourth Kiahk Doxology",
+  "arabic": "الذكصولوجية الرابعة لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "gBGKZxpx5dA",
+   "url": "https://www.youtube.com/watch?v=gBGKZxpx5dA",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة ثالثة ورابعة - المستوى الأول- الذكصولوجية الرابعة لشهر كيهك",
+   "year": 2022,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20220316",
+   "duration": 169,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "d_Wgsr-CSBE",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "hetenyat-gabriel-zechariah-elizabeth",
+  "english": "Hetenyat of Gabriel, Zechariah and Elizabeth",
+  "arabic": "هيتنيات الملاك غبريال وزكريا وأليصابات",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "atsEpkUJTY0",
+   "url": "https://www.youtube.com/watch?v=atsEpkUJTY0",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة حضانة - المستوى التانى-هيتنيات الملاك غبريال وزكريا وأليصابات",
+   "year": 2022,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20220305",
+   "duration": 116,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "hetenyat-john-joachim-anna",
+  "english": "Hetenyat of John the Baptist, Joachim and Anna",
+  "arabic": "هيتنيات يوحنا المعمدان ويواقيم وحنة",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "0fr_kcQnBNQ",
+   "url": "https://www.youtube.com/watch?v=0fr_kcQnBNQ",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة اولى وثانية - المستوى الثانى- هيتنيات يوحنا المعمدان ويواقيم وحنة",
+   "year": 2022,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20220318",
+   "duration": 97,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "intro-doxologies-kiahk",
+  "english": "Introduction to the Doxologies, Kiahk",
+  "arabic": "مقدمة الذكصولوجيات الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Xp4dDuybqxQ",
+   "url": "https://www.youtube.com/watch?v=Xp4dDuybqxQ",
+   "title": "الحان مهرجان الكرازة المرقسية 2022 - مرحلة ثانوى - المستوى الأول - مقدمة الذكصولوجيات كيهكى",
+   "year": 2022,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20220310",
+   "duration": 225,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "hetenyat-kiahk",
+  "english": "Kiahk Hetenyat (intercessions)",
+  "arabic": "الهيتنيات الكيهكي",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "HR35VeTAM5A",
+   "url": "https://www.youtube.com/watch?v=HR35VeTAM5A",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة خامسة وسادسة - المستوى الثانى - الهيتنيات الكيهكى",
+   "year": 2022,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20220327",
+   "duration": 185,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "13QRIVGo3d8",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "intro-doxologies-last-two",
+  "english": "Last two verses of the Introduction to the Doxologies",
+  "arabic": "الربعان الأخيران من مقدمة الذكصولوجيات",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "rI_pR3eyjY4",
+   "url": "https://www.youtube.com/watch?v=rI_pR3eyjY4",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة حضانة - المستوى الأول- الربعان الاخران من مقدمة الذكصولوجيات",
+   "year": 2022,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20220304",
+   "duration": 75,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-kiahk-2",
+  "english": "Second Kiahk Doxology",
+  "arabic": "ذكصولوجية كيهك الثانية",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "8qS9YZk8QWc",
+   "url": "https://www.youtube.com/watch?v=8qS9YZk8QWc",
+   "title": "الحان مهرجان الكرازة المرقسية 2022 - مرحلة اعدادى - المستوى الأول - ذكصولوجية كيهك التانية",
+   "year": 2022,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20220311",
+   "duration": 224,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-kiahk-6",
+  "english": "Sixth Kiahk Doxology",
+  "arabic": "الذكصولوجية السادسة لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "0vl5DVjnCmw",
+   "url": "https://www.youtube.com/watch?v=0vl5DVjnCmw",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة خريجين- المستوى الأول- الذكصولوجية السادسة لشهر كيهك",
+   "year": 2022,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": "20220517",
+   "duration": 173,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-kiahk-3",
+  "english": "Third Kiahk Doxology",
+  "arabic": "الذكصولوجية الثالثة لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Exyjt981CVM",
+   "url": "https://www.youtube.com/watch?v=Exyjt981CVM",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة جامعة - المستوى الأول- الذكصولوجية الثالثة لشهر كيهك",
+   "year": 2022,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20220314",
+   "duration": 319,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "verses-cymbals-kiahk",
+  "english": "Verses of the Cymbals for Kiahk",
+  "arabic": "أرباع الناقوس لشهر كيهك",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Raising of Incense",
+    "arabic": "كيهك · رفع البخور",
+    "id": "kiahk/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "ehdnQC71mZg",
+   "url": "https://www.youtube.com/watch?v=ehdnQC71mZg",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة اولى وثانية - المستوى الاول - أرباع الناقوس لشهر كيهك",
+   "year": 2022,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20220317",
+   "duration": 78,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tarh-watos-intro",
+  "english": "Introduction to the Watos Tarh (long)",
+  "arabic": "لحن مقدمة الطرح الواطس الكبير",
+  "places": [
+   {
+    "collection": "kiahk",
+    "english": "Kiahk · Special hymns",
+    "arabic": "كيهك · ألحان خاصة",
+    "id": "kiahk/special"
+   },
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Special hymns",
+    "arabic": "الصوم الكبير · ألحان خاصة",
+    "id": "great-lent/special"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "Vesper Praises of Kiahk and Lent",
+  "video": {
+   "id": "_7fxXJW-kKs",
+   "url": "https://www.youtube.com/watch?v=_7fxXJW-kKs",
+   "title": "لحن مقدمة الطرح الواطس الكبير- المرحلة الجامعية - مستوى التميز- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "college",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 1967,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-psalm-feast-cross",
+  "english": "Distribution Psalm for the Feasts of the Cross",
+  "arabic": "مزمور التوزيع لعيدي الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Liturgy",
+    "arabic": "عيد الصليب · القداس",
+    "id": "feast-of-the-cross/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "iH2fzEt5NBI",
+   "url": "https://www.youtube.com/watch?v=iH2fzEt5NBI",
+   "title": "مزمور التوزيع لعيدى الصليب-اللحن الإجبارى-المرحلة الثانوية-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "hs",
+   "level": "required",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-feast-cross",
+  "english": "Gospel Response for the Feasts of the Cross",
+  "arabic": "مرد إنجيل عيدي الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Liturgy",
+    "arabic": "عيد الصليب · القداس",
+    "id": "feast-of-the-cross/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "gospel-response-feast-cross",
+  "note": "",
+  "video": {
+   "id": "uBUs3idAIPM",
+   "url": "https://www.youtube.com/watch?v=uBUs3idAIPM",
+   "title": "مرد إنجيل عيدى الصليب-ثالثة ورابعة ابتدائى-اللحن الاجبارى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "required",
+   "uploaded": "20260415",
+   "duration": 121,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "praxis-response-feast-cross",
+  "english": "Praxis Response for the Feasts of the Cross",
+  "arabic": "مرد الإبركسيس لعيدي الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Liturgy",
+    "arabic": "عيد الصليب · القداس",
+    "id": "feast-of-the-cross/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "praxis-response-feast-cross",
+  "note": "",
+  "video": {
+   "id": "Lon4pxj3d5c",
+   "url": "https://www.youtube.com/watch?v=Lon4pxj3d5c",
+   "title": "مرد الإبركسيس لعيدى الصليب-المرحلة الإعدادية اللحن الإجبارى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "required",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "concluding-canon-feast-cross",
+  "english": "Closing Canon for the Feasts of the Cross",
+  "arabic": "جملة ختام الصلوات لعيدي الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Raising of Incense",
+    "arabic": "عيد الصليب · رفع البخور",
+    "id": "feast-of-the-cross/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "concluding-canon-feast-cross",
+  "note": "the 2026 KG Level 1 title leaves out the feast",
+  "video": {
+   "id": "RodFtt7Z1ug",
+   "url": "https://www.youtube.com/watch?v=RodFtt7Z1ug",
+   "title": "ختام الصلوات الجماعية -مرحلة حضانة -المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-feast-cross",
+  "english": "Doxology for the Feasts of the Cross",
+  "arabic": "ذكصولوجية عيدي الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Raising of Incense",
+    "arabic": "عيد الصليب · رفع البخور",
+    "id": "feast-of-the-cross/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "HCR_AMCmcno",
+   "url": "https://www.youtube.com/watch?v=HCR_AMCmcno",
+   "title": "ذكصولوجية عيدى الصليب-المستوى الأول-ألحان شباب الخريجون-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "6A9SUmADeJg",
+    "year": 2025,
+    "stage": "servants",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "verse-cymbals-feast-cross",
+  "english": "Verses of the Cymbals for the Feasts of the Cross",
+  "arabic": "أرباع الناقوس الفرايحي لعيدي الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Raising of Incense",
+    "arabic": "عيد الصليب · رفع البخور",
+    "id": "feast-of-the-cross/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "verse-cymbals-feast-cross",
+  "note": "",
+  "video": {
+   "id": "ZzYKc1NPL6c",
+   "url": "https://www.youtube.com/watch?v=ZzYKc1NPL6c",
+   "title": "أرباع الناقوس الفرايحى لعيدى الصليب-مرحلة خامسة وسادسة ابتدائى-اللحن الاجبارى-مهرجان الكرازة 2026",
+   "year": 2026,
+   "stage": "grades-5-6",
+   "level": "required",
+   "uploaded": "20260418",
+   "duration": 183,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "procession-refrain-feast-cross",
+  "english": "Procession Refrain, Feast of the Cross",
+  "arabic": "مرد اناجيل دورة عيد الصليب",
+  "places": [
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Special hymns",
+    "arabic": "عيد الصليب · ألحان خاصة",
+    "id": "feast-of-the-cross/special"
+   }
+  ],
+  "status": "in app",
+  "app_id": "procession-refrain-feast-cross",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aspasmos-adam-nativity",
+  "english": "Aspasmos Adam for the Nativity",
+  "arabic": "أسبسمس آدام لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Ub3J-ovSkag",
+   "url": "https://www.youtube.com/watch?v=Ub3J-ovSkag",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة ثانوى - المستوى الأول- أسبسمس آدام لعيد الميلاد",
+   "year": 2023,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20230311",
+   "duration": 206,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aspasmos-watos-nativity",
+  "english": "Aspasmos Watos for the Nativity",
+  "arabic": "أسبسمس واطس لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "rQyBnHS-dww",
+   "url": "https://www.youtube.com/watch?v=rQyBnHS-dww",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة ثانوى - المستوى الأول- أسبسمس واطس لعيد الميلاد",
+   "year": 2023,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20230311",
+   "duration": 428,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-alleluia-nativity",
+  "english": "Distribution Alleluia for the Nativity",
+  "arabic": "آللي التوزيع لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Rn05DoEn3FA",
+   "url": "https://www.youtube.com/watch?v=Rn05DoEn3FA",
+   "title": "الحان مهرجان الكرازة 2023 -ثالثة و رابعة ابتدائى -موهوبين فردى وجماعي-آلى التوزيع لعيد الميلاد",
+   "year": 2023,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20230303",
+   "duration": 299,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-response-nativity",
+  "english": "Distribution Response for the Nativity",
+  "arabic": "مرد توزيع عيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "EJc8oTfU5lI",
+   "url": "https://www.youtube.com/watch?v=EJc8oTfU5lI",
+   "title": "الحان مهرجان الكرازة 2023 - خامسة وسادسة ابتدائى -المستوى الأول-مرد توزيع عيد الميلاد",
+   "year": 2023,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20230305",
+   "duration": 74,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "agios-nativity",
+  "english": "Joyful Agios for the Nativity",
+  "arabic": "أجيوس الفرايحي لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "jb1LVaTMCus",
+   "url": "https://www.youtube.com/watch?v=jb1LVaTMCus",
+   "title": "الحان مهرجان الكرازة 2023 -أولى وتانية ابتدائى -موهوبين فردي وجماعي-اجيوس الفرايحى لعيد الميلاد",
+   "year": 2023,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20230303",
+   "duration": 347,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-nativity",
+  "english": "Liturgy Gospel Response for the Nativity",
+  "arabic": "مرد إنجيل قداس عيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "wVRcXhWSC1Y",
+   "url": "https://www.youtube.com/watch?v=wVRcXhWSC1Y",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة حضانة - المستوى الثانى- مرد إنجيل قداس عيد الميلاد المجيد",
+   "year": 2023,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20230303",
+   "duration": 147,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "bh59kizS8r8",
+    "year": 2023,
+    "stage": "grades-3-4",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "mohayar-nativity",
+  "english": "Mohayar for the Nativity",
+  "arabic": "المحير لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "TL0NDDsfBd0",
+   "url": "https://www.youtube.com/watch?v=TL0NDDsfBd0",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة حضانة - الموهوبين فردى وجماعى - المحير لعيد الميلاد",
+   "year": 2023,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20230303",
+   "duration": 231,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "pi-gen-misi",
+  "english": "Pi Gen Misi (Nativity hymn)",
+  "arabic": "لحن الميلاد بي جين ميسي",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "mtarEw-_kE0",
+   "url": "https://www.youtube.com/watch?v=mtarEw-_kE0",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة أولى وتانية ابتدائى -م٢ - لحن الميلاد بي جين ميسي",
+   "year": 2023,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20230303",
+   "duration": 107,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "praxis-response-nativity",
+  "english": "Praxis Response for the Nativity",
+  "arabic": "مرد الإبركسيس لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "woF1r2yu5mU",
+   "url": "https://www.youtube.com/watch?v=woF1r2yu5mU",
+   "title": "الحان مهرجان الكرازة 2023 - خامسة وسادسة ابتدائى -المستوى الاول-مرد الابركسيس لعيد الميلاد",
+   "year": 2023,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20230309",
+   "duration": 171,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "hvlHdqH_sGU",
+    "year": 2023,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "psalm-response-nativity",
+  "english": "Psalm Response for the Nativity",
+  "arabic": "مرد مزمور عيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "qEQUYKWcBGw",
+   "url": "https://www.youtube.com/watch?v=qEQUYKWcBGw",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة حضانة - المستوى الأول- مرد مزمور عيد الميلاد",
+   "year": 2023,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20230303",
+   "duration": 87,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sengari-psalm-nativity",
+  "english": "Sengari Psalm for the Nativity",
+  "arabic": "المزمور السنجاري لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "J5Tp-feGJQA",
+   "url": "https://www.youtube.com/watch?v=J5Tp-feGJQA",
+   "title": "الحان مهرجان الكرازة 2023 -أولى وتانية ابتدائى -موهوبين فردي وجماعي-المزمور السنجارى لعيد الميلاد",
+   "year": 2023,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20230303",
+   "duration": 340,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "ePormosXbfY",
+    "year": 2023,
+    "stage": "grades-3-4",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "sengari-psalm-nativity-major",
+  "english": "Sengari Psalm for the Nativity (long)",
+  "arabic": "المزمور السنجاري الكبير لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "37mnp7oVLY0",
+   "url": "https://www.youtube.com/watch?v=37mnp7oVLY0",
+   "title": "ألحان مهرجان الكرازة المرقسية 2023- مرحلة جامعة- المستوى الثانى-المزمور السنجارى الكبير لعيد الميلاد",
+   "year": 2023,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20230329",
+   "duration": 494,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sengari-psalm-nativity-short",
+  "english": "Sengari Psalm for the Nativity (short)",
+  "arabic": "المزمور السنجاري المختصر لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Liturgy",
+    "arabic": "الميلاد · القداس",
+    "id": "nativity/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "zI9c-Tmqx1c",
+   "url": "https://www.youtube.com/watch?v=zI9c-Tmqx1c",
+   "title": "ألحان مهرجان الكرازة المرقسية2023 -مرحلة جامعة - المستوى الأول-المزمور السنجارى المختصر لعيد الميلاد",
+   "year": 2023,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20230329",
+   "duration": 263,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-nativity-1",
+  "english": "First Doxology for the Nativity",
+  "arabic": "ذكصولوجية عيد الميلاد الأولى",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Raising of Incense",
+    "arabic": "الميلاد · رفع البخور",
+    "id": "nativity/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "hMu26-7OL3o",
+   "url": "https://www.youtube.com/watch?v=hMu26-7OL3o",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة اعدادى - المستوى الأول- ذكصولوجية عيد الميلاد الاولى",
+   "year": 2023,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20230313",
+   "duration": 271,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "hetenya-nativity",
+  "english": "Hetenya for the Nativity",
+  "arabic": "هيتينية لعيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Raising of Incense",
+    "arabic": "الميلاد · رفع البخور",
+    "id": "nativity/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "73BPKT086Cg",
+   "url": "https://www.youtube.com/watch?v=73BPKT086Cg",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة أولى وتانية ابتدائى -م1 - هيتينية لعيد الميلاد",
+   "year": 2023,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20230303",
+   "duration": 82,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "matins-gospel-response-nativity",
+  "english": "Matins Gospel Response for the Nativity",
+  "arabic": "مرد إنجيل باكر عيد الميلاد",
+  "places": [
+   {
+    "collection": "nativity",
+    "english": "Nativity · Raising of Incense",
+    "arabic": "الميلاد · رفع البخور",
+    "id": "nativity/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "wbW12P20t1E",
+   "url": "https://www.youtube.com/watch?v=wbW12P20t1E",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة ثالثة و رابعة ابتدائى -المستوي الثاني-مرد انجيل باكر عيد الميلاد",
+   "year": 2023,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20230303",
+   "duration": 111,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "agios-theophany",
+  "english": "Agios for Theophany",
+  "arabic": "لحن أجيوس لعيد الغطاس",
+  "places": [
+   {
+    "collection": "theophany",
+    "english": "Theophany · Liturgy",
+    "arabic": "الغطاس · القداس",
+    "id": "theophany/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "VCft8NFOsOc",
+   "url": "https://www.youtube.com/watch?v=VCft8NFOsOc",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة ثالثة و رابعة ابتدائى -المستوي الاول- لحن أجيوس لعيد الغطاس",
+   "year": 2023,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20230303",
+   "duration": 155,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-theophany",
+  "english": "Liturgy Gospel Response for Theophany",
+  "arabic": "مرد إنجيل قداس عيد الغطاس",
+  "places": [
+   {
+    "collection": "theophany",
+    "english": "Theophany · Liturgy",
+    "arabic": "الغطاس · القداس",
+    "id": "theophany/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "zMDxccju0W4",
+   "url": "https://www.youtube.com/watch?v=zMDxccju0W4",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة أولى وتانية ابتدائى -م1 - مرد إنجيل لقداس عيد الغطاس",
+   "year": 2023,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20230303",
+   "duration": 145,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "kLJivyaevI8",
+    "year": 2023,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "ouran-enshosho",
+  "english": "Ouran Enshosho",
+  "arabic": "لحن أوران إنشوشو",
+  "places": [
+   {
+    "collection": "theophany",
+    "english": "Theophany · Liturgy",
+    "arabic": "الغطاس · القداس",
+    "id": "theophany/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "CrjwO5mSjsQ",
+   "url": "https://www.youtube.com/watch?v=CrjwO5mSjsQ",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة اعدادى - موهوبين فردى وجماعى- لحن أوران انشوشو",
+   "year": 2023,
+   "stage": "ms",
+   "level": "gifted",
+   "uploaded": "20230311",
+   "duration": 770,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "4EcKByGogpY",
+    "year": 2023,
+    "stage": "grades-3-4",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "psalm-response-theophany",
+  "english": "Psalm Response for Theophany",
+  "arabic": "مرد مزمور عيد الغطاس",
+  "places": [
+   {
+    "collection": "theophany",
+    "english": "Theophany · Liturgy",
+    "arabic": "الغطاس · القداس",
+    "id": "theophany/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "t36ddmsAuO8",
+   "url": "https://www.youtube.com/watch?v=t36ddmsAuO8",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة حضانة - المستوى الثانى- مرد مزمور عيد الغطاس",
+   "year": 2023,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20230303",
+   "duration": 80,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-theophany-1",
+  "english": "First Doxology for Theophany",
+  "arabic": "ذكصولوجية عيد الغطاس الأولى",
+  "places": [
+   {
+    "collection": "theophany",
+    "english": "Theophany · Raising of Incense",
+    "arabic": "الغطاس · رفع البخور",
+    "id": "theophany/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "6CwnkVLsCH8",
+   "url": "https://www.youtube.com/watch?v=6CwnkVLsCH8",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة ثانوى - المستوى الأول- ذكصولوجية عيد الغطاس الاولى",
+   "year": 2023,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20230311",
+   "duration": 332,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "hetenya-theophany",
+  "english": "Hetenya for Theophany",
+  "arabic": "هيتنية عيد الغطاس",
+  "places": [
+   {
+    "collection": "theophany",
+    "english": "Theophany · Raising of Incense",
+    "arabic": "الغطاس · رفع البخور",
+    "id": "theophany/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "EWQcJrCXQgA",
+   "url": "https://www.youtube.com/watch?v=EWQcJrCXQgA",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة حضانة - المستوى الأول- هيتنية عيد الغطاس",
+   "year": 2023,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20230303",
+   "duration": 85,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-lazarus",
+  "english": "Distribution pieces for Lazarus Saturday",
+  "arabic": "قطع توزيع قداس سبت لعازر",
+  "places": [
+   {
+    "collection": "lazarus-saturday",
+    "english": "Lazarus Saturday · Liturgy",
+    "arabic": "سبت لعازر · القداس",
+    "id": "lazarus-saturday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "10e6Wam2sqg",
+   "url": "https://www.youtube.com/watch?v=10e6Wam2sqg",
+   "title": "قطع توزيع قداس سبت لعازر - مرحلة خريجين م٢-مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 751,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "psalm-summary-palm-4",
+  "english": "Annual summary Psalm for the fourth Gospel of Palm Sunday",
+  "arabic": "المزمور الملخص السنوي للإنجيل الرابع لأحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "KW3x-gPF-DA",
+   "url": "https://www.youtube.com/watch?v=KW3x-gPF-DA",
+   "title": "المزمور الملخص السنوى للإنجيل الرابع لأحد الشعانين - مرحلة خريجين م٢-مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 355,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "evlogimenos",
+  "english": "Evlogimenos",
+  "arabic": "لحن إيفلوجيمينوس",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "the usual one",
+  "video": {
+   "id": "F1TwczrkBD4",
+   "url": "https://www.youtube.com/watch?v=F1TwczrkBD4",
+   "title": "لحن ايفلوجيمينوس - الحان أولى و ثانية - موهوبين - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 496,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "wRPNs45aDvY",
+    "year": 2025,
+    "stage": "servants",
+    "level": "2"
+   },
+   {
+    "id": "Ik3QknWhXDw",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "evlogimenos-small",
+  "english": "Evlogimenos (short)",
+  "arabic": "لحن إيفلوجيمينوس الصغير",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "ghiWu869EzA",
+   "url": "https://www.youtube.com/watch?v=ghiWu869EzA",
+   "title": "لحن الشعانين افلوجيمينوس الصغير- المرحلة الإعدادية- المستوى الأولمهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 493,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "tURjw7yCXu0",
+    "year": 2025,
+    "stage": "cana-family",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "gospel-response-palm-1",
+  "english": "First Gospel Response, Palm Sunday Liturgy",
+  "arabic": "مرد الإنجيل الأول لقداس أحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Q4OuIDDAUes",
+   "url": "https://www.youtube.com/watch?v=Q4OuIDDAUes",
+   "title": "مرد الإنجيل الأول لقداس أحد الشعانين- الحان مرحلة حضانة - م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 96,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-palm-4",
+  "english": "Fourth Gospel Response, Palm Sunday Liturgy",
+  "arabic": "مرد الإنجيل الرابع لقداس أحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "FJOAqnZijBQ",
+   "url": "https://www.youtube.com/watch?v=FJOAqnZijBQ",
+   "title": "مرد الانجيل الرابع لقداس أحد الشعانين - الحان أولى و ثانية - م٢ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 97,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "seated-on-cherubim",
+  "english": "He who sits upon the Cherubim",
+  "arabic": "الجالس فوق الشاروبيم",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "T_Pcr7QNyyU",
+   "url": "https://www.youtube.com/watch?v=T_Pcr7QNyyU",
+   "title": "الجالس فوق الشاروبيم -ذوى الهمم والقدرات الخاصة متوسط الأعاقة - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "special-needs",
+   "level": null,
+   "uploaded": "20250221",
+   "duration": 63,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "mohayar-palm",
+  "english": "Mohayar for Palm Sunday",
+  "arabic": "محير أحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "EFz5T3yXRC4",
+   "url": "https://www.youtube.com/watch?v=EFz5T3yXRC4",
+   "title": "محير احد الشعانين  - الحان مرحلة خامسة وسادسة م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 325,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "mCHCakiPCi8",
+    "year": 2025,
+    "stage": "special-needs",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "gospel-response-palm-2",
+  "english": "Second Gospel Response, Palm Sunday Liturgy",
+  "arabic": "مرد الإنجيل الثاني لقداس أحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "TLxfzWN2CnY",
+   "url": "https://www.youtube.com/watch?v=TLxfzWN2CnY",
+   "title": "مرد الانجيل الثانى لقداس احد الشعانين - الحان مرحلة ثالثة و رابعة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 94,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-palm-3",
+  "english": "Third Gospel Response, Palm Sunday Liturgy",
+  "arabic": "مرد الإنجيل الثالث لقداس أحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "WGxvsm44uB0",
+   "url": "https://www.youtube.com/watch?v=WGxvsm44uB0",
+   "title": "مرد الانجيل الثالث لقداس أحد الشعانين - الحان أولى و ثانية - م١ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 101,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tenoueh-ensok-palm",
+  "english": "Tenoueh Ensok, Palm Sunday tune",
+  "arabic": "تين أويه إنثوك الشعانيني",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Midnight Praises",
+    "arabic": "أحد الشعانين · التسبحة",
+    "id": "palm-sunday/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "N7nnvj7h8Oo",
+   "url": "https://www.youtube.com/watch?v=N7nnvj7h8Oo",
+   "title": "لحن تين اويه انثوك الشعانينى - ألحان مرحلة جامعة - التميز الجماعى - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "college",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 561,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-palm-cross",
+  "english": "Doxology for Palm Sunday and the Feasts of the Cross",
+  "arabic": "ذكصولوجية أحد الشعانين وعيدي الصليب",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Raising of Incense",
+    "arabic": "أحد الشعانين · رفع البخور",
+    "id": "palm-sunday/raising-of-incense"
+   },
+   {
+    "collection": "feast-of-the-cross",
+    "english": "Feast of the Cross · Raising of Incense",
+    "arabic": "عيد الصليب · رفع البخور",
+    "id": "feast-of-the-cross/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Bw37LgrS4a0",
+   "url": "https://www.youtube.com/watch?v=Bw37LgrS4a0",
+   "title": "ذكصولوجية أحد الشعانين وعيدى الصليب - ألحان مرحلة جامعة  م1  - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 362,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "hossana-intro-doxologies-first-doxology",
+  "english": "Hossana Intro to Doxologies & 1st Doxology",
+  "arabic": "مقدمة الذكصولوجيات الشعانيني + الذكصولوجية الاولى",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Raising of Incense",
+    "arabic": "أحد الشعانين · رفع البخور",
+    "id": "palm-sunday/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "hossana-intro-doxologies-first-doxology",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "verses-cymbals-palm",
+  "english": "Joyful Verses of the Cymbals for Palm Sunday",
+  "arabic": "أرباع الناقوس الفرايحي لأحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Raising of Incense",
+    "arabic": "أحد الشعانين · رفع البخور",
+    "id": "palm-sunday/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Kova9FlaplA",
+   "url": "https://www.youtube.com/watch?v=Kova9FlaplA",
+   "title": "أرباع الناقوس الفرايحى لأحد الشعانين- مرحلة حضانة - مستوى الموهوبين- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 135,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "lnuc8DB2A3s",
+    "year": 2025,
+    "stage": "grades-5-6",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "palm-sunday-response",
+  "english": "Palm Sunday Response",
+  "arabic": "مرد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Raising of Incense",
+    "arabic": "أحد الشعانين · رفع البخور",
+    "id": "palm-sunday/raising-of-incense"
+   },
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Liturgy",
+    "arabic": "أحد الشعانين · القداس",
+    "id": "palm-sunday/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "ALq97Vu_Y5A",
+   "url": "https://www.youtube.com/watch?v=ALq97Vu_Y5A",
+   "title": "3مرد أحد الشعانين- مرحلة حضانة - المستوى الأول- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 92,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "SoFfL0NAMm8",
+    "year": 2025,
+    "stage": "cana-family",
+    "level": "1"
+   },
+   {
+    "id": "X63bynqFI2o",
+    "year": 2025,
+    "stage": "simeon-elders",
+    "level": "1"
+   },
+   {
+    "id": "116GsONfEqo",
+    "year": 2025,
+    "stage": "adult-learners",
+    "level": "2"
+   },
+   {
+    "id": "ttgCl3NnopM",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "1"
+   },
+   {
+    "id": "EN8pa_J4-wc",
+    "year": 2025,
+    "stage": "special-needs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "tarh-palm",
+  "english": "Palm Sunday Tarh (medium Palm tune)",
+  "arabic": "طرح أحد الشعانين",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Special hymns",
+    "arabic": "أحد الشعانين · ألحان خاصة",
+    "id": "palm-sunday/special"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "JoVq83QVNIY",
+   "url": "https://www.youtube.com/watch?v=JoVq83QVNIY",
+   "title": "طرح احد الشعانين بالطريقة الشعانيني الوسط - مرحلة خريجين م١- مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 233,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "procession-gospel-responses-palm",
+  "english": "Responses of the twelve Gospels of the Cross and Palm procession",
+  "arabic": "مردات أناجيل دورة الصليب والشعانين الاثنا عشر",
+  "places": [
+   {
+    "collection": "palm-sunday",
+    "english": "Palm Sunday · Special hymns",
+    "arabic": "أحد الشعانين · ألحان خاصة",
+    "id": "palm-sunday/special"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "B704KQWFf8E",
+   "url": "https://www.youtube.com/watch?v=B704KQWFf8E",
+   "title": "مردات أناجيل دورة الصليب و الشعانين الأثنا عشر- مرحلة خامسة وسادسة م٢- مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 619,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aspasmos-adam-resurrection",
+  "english": "Aspasmos Adam for the Resurrection",
+  "arabic": "الأسبسمس الآدام لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "aspasmos-adam-resurrection",
+  "note": "",
+  "video": {
+   "id": "fVbNrpgsqxM",
+   "url": "https://www.youtube.com/watch?v=fVbNrpgsqxM",
+   "title": "الاسبزمس الآدام لعيد القيامة-المرحلة الإعدادية-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 191,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aspasmos-watos-resurrection",
+  "english": "Aspasmos Watos for the Resurrection",
+  "arabic": "الأسبسمس الواطس لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "fFPszjG6Lrw",
+   "url": "https://www.youtube.com/watch?v=fFPszjG6Lrw",
+   "title": "الاسبزمس الواطس لعيد القيامة-شباب الخريجين-المستوى الأول-ألحان مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-refrain-resurrection",
+  "english": "Distribution Psalm Response for the Resurrection",
+  "arabic": "مرد مزمور التوزيع لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "distribution-refrain-resurrection",
+  "note": "",
+  "video": {
+   "id": "ViIURIydYI8",
+   "url": "https://www.youtube.com/watch?v=ViIURIydYI8",
+   "title": "مرد مزمور التوزيع لعيد القيامة-ألحان ثالثة ورابعة ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20260418",
+   "duration": 73,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "Muht4XyDTEw",
+    "year": 2026,
+    "stage": "grades-3-4",
+    "level": "2"
+   },
+   {
+    "id": "r_LZguc_ooE",
+    "year": 2026,
+    "stage": "kg",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "hiten-archangel-michael-feast-resurrection",
+  "english": "Hetenya of the Resurrection (Archangel Michael)",
+  "arabic": "هيتينية القيامة (للملاك ميخائيل)",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "hiten-archangel-michael-feast-resurrection",
+  "note": "",
+  "video": {
+   "id": "Q-PCW3HkeVE",
+   "url": "https://www.youtube.com/watch?v=Q-PCW3HkeVE",
+   "title": "هيتتينية القيامة (للملاك ميخائيل)-مرحلة حضانة - المستوى الثانى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "joyful-agios-major",
+  "english": "Joyful Agios (long)",
+  "arabic": "آجيوس الفرايحي الكبير",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "joyful-agios-major",
+  "note": "",
+  "video": {
+   "id": "qQ5nWP0-s1Q",
+   "url": "https://www.youtube.com/watch?v=qQ5nWP0-s1Q",
+   "title": "لحن اجيوس الفرايحي الكبير-مرحلة حضانة-للموهبين الفردى والجماعى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20260415",
+   "duration": 339,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "Q_5iuNZgIN4",
+    "year": 2026,
+    "stage": "hs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "distribution-alleluia-joyful",
+  "english": "Joyful Distribution Alleluia (long)",
+  "arabic": "آللي التوزيع الفرايحي الكبير",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "joyful tune: feasts and the Fifty Days",
+  "video": {
+   "id": "tuqgikFveDw",
+   "url": "https://www.youtube.com/watch?v=tuqgikFveDw",
+   "title": "اللى التوزيع الفرايحى الكبير -مرحلة ثالثة ورابعة ابتدائى-مستوى الموهبين-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20260415",
+   "duration": 290,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "rxZyCS-nIIk",
+    "year": 2026,
+    "stage": "college",
+    "level": "2"
+   },
+   {
+    "id": "McymIs8KWC8",
+    "year": 2023,
+    "stage": "hs",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "kata-ni-khoros",
+  "english": "Kata ni Khoros",
+  "arabic": "كاطا ني خوروس",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "kata-ni-khoros",
+  "note": "",
+  "video": {
+   "id": "PQglu9fWHfg",
+   "url": "https://www.youtube.com/watch?v=PQglu9fWHfg",
+   "title": "لحن كاتا نى خورس التوزيع-المرحلة الثانوية-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "hs",
+   "level": null,
+   "uploaded": "20260521",
+   "duration": 394,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "E46a0SNjarY",
+    "year": 2026,
+    "stage": "grades-1-2",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "liturgy-gospel-response-resurrection",
+  "english": "Liturgy Gospel Response for the Resurrection",
+  "arabic": "مرد إنجيل قداس عيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "liturgy-gospel-response-resurrection",
+  "note": "",
+  "video": {
+   "id": "71VBAZMufO4",
+   "url": "https://www.youtube.com/watch?v=71VBAZMufO4",
+   "title": "مرد انجيل قداس عيد القيامة-مرحلة أولى وثانية ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 151,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "DglTK0iB5Bg",
+    "year": 2026,
+    "stage": "grades-1-2",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "mohayar-resurrection",
+  "english": "Mohayar for the Resurrection (Pashois)",
+  "arabic": "محير عيد القيامة (باشويس)",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "WUj5SK7-pPo",
+   "url": "https://www.youtube.com/watch?v=WUj5SK7-pPo",
+   "title": "محير عيد القيامة -مرحلة ثالثة ورابعة ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 215,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "t4f-8jdQ1Kk",
+    "year": 2026,
+    "stage": "cana-family",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "onim-nai-symfonia",
+  "english": "Oonim Nai Symphonia",
+  "arabic": "أونيم ناي سيمفونيا",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "onim-nai-symfonia",
+  "note": "",
+  "video": {
+   "id": "J3yDLN2pu94",
+   "url": "https://www.youtube.com/watch?v=J3yDLN2pu94",
+   "title": "لحن اونيم ناي لعيد القيامة-المرحلة الإعدادية-المستوى التانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "pi-christos-aftonf",
+  "english": "Pi Christos Aftonf",
+  "arabic": "بي إخرستوس آفتونف",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "pi-christos-aftonf",
+  "note": "",
+  "video": {
+   "id": "-8dAOfVdhbo",
+   "url": "https://www.youtube.com/watch?v=-8dAOfVdhbo",
+   "title": "لحن بي اخريستوس افتونف-المستوى الأول-ألحان المرحلة الثانوية-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "KchD9iZKUCc",
+    "year": 2026,
+    "stage": "graduates",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "praxis-response-resurrection",
+  "english": "Praxis Response for the Resurrection",
+  "arabic": "مرد الإبركسيس لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "praxis-response-resurrection",
+  "note": "the video is the long (Kabir) version",
+  "video": {
+   "id": "dk4O0d-H7Kc",
+   "url": "https://www.youtube.com/watch?v=dk4O0d-H7Kc",
+   "title": "مرد الابركسيس لعيد القيامة بالكبير-المستوى الثانى-ألحان شباب الخريجون-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "psalm-response-resurrection",
+  "english": "Psalm Response for the Resurrection",
+  "arabic": "مرد مزمور عيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "psalm-response-resurrection",
+  "note": "",
+  "video": {
+   "id": "ecoI9d80OQw",
+   "url": "https://www.youtube.com/watch?v=ecoI9d80OQw",
+   "title": "مرد مزمور عيد القيامة - مرحلة حضانة - المستوى الأول - مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 79,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tarh-resurrection",
+  "english": "Tarh of the Resurrection Liturgy",
+  "arabic": "طرح قداس عيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "lvFKpRDx7B0",
+   "url": "https://www.youtube.com/watch?v=lvFKpRDx7B0",
+   "title": "طرح قداس عيد القيامة-المرحلة الإعدادية-مستوى التميز الجماعى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "gifted",
+   "uploaded": "20260415",
+   "duration": 257,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ten-anastasin",
+  "english": "Ten Anastasin (Greek piece)",
+  "arabic": "القطعة اليونانية تين أناسطاسين",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "gwVqDwHglCM",
+   "url": "https://www.youtube.com/watch?v=gwVqDwHglCM",
+   "title": "القطعة اليونانية تين اناسطاسين-المستوى الاول-الحان شباب الخريجون",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ton-syna",
+  "english": "Ton Synanarkhon (Greek piece)",
+  "arabic": "القطعة اليونانية طون سينا",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ton-syna",
+  "note": "",
+  "video": {
+   "id": "hTTi-fg2eT0",
+   "url": "https://www.youtube.com/watch?v=hTTi-fg2eT0",
+   "title": "القطعة اليونانية تون سينا- مرحلة ثالثة ورابعة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 118,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tou-lithou",
+  "english": "Tou Lithou (Greek piece)",
+  "arabic": "القطعة اليونانية طو ليثو",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Liturgy",
+    "arabic": "القيامة · القداس",
+    "id": "resurrection/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "tou-lithou",
+  "note": "",
+  "video": {
+   "id": "6ggLsbc_kKs",
+   "url": "https://www.youtube.com/watch?v=6ggLsbc_kKs",
+   "title": "القطعة اليونانية لعيد القيامة-المستوى الأول-المرحلة الثانوية-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": false
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "nim-ghar-resurrection",
+  "english": "Nim Ghar, the Resurrection piece",
+  "arabic": "قطعة القيامة المجيدة نيم غار",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Midnight Praises",
+    "arabic": "القيامة · التسبحة",
+    "id": "resurrection/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "not the Theotokia part (nim-ghar)",
+  "video": {
+   "id": "RqXAJCB03Ac",
+   "url": "https://www.youtube.com/watch?v=RqXAJCB03Ac",
+   "title": "قطعة القيامة المجيدة نيم غار-المرحلة الجامعية المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20260521",
+   "duration": 279,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "paralex-of-resurrection",
+  "english": "Paralex of Resurrection",
+  "arabic": "",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Midnight Praises",
+    "arabic": "القيامة · التسبحة",
+    "id": "resurrection/midnight-praises"
+   }
+  ],
+  "status": "in app",
+  "app_id": "paralex-of-resurrection",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tenoueh-ensok-joyful",
+  "english": "Tenoueh Ensok, joyful tune",
+  "arabic": "تين أويه إنسوك الفرايحي",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Midnight Praises",
+    "arabic": "القيامة · التسبحة",
+    "id": "resurrection/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "joyful tune: feasts and the Fifty Days",
+  "video": {
+   "id": "Ifw9wKv3rbM",
+   "url": "https://www.youtube.com/watch?v=Ifw9wKv3rbM",
+   "title": "لحن تين أويه إنسوك الفرايحى-المساوى الثانى-ألحان شباب الخريجين-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "Cr9SprDkSIA",
+    "year": 2023,
+    "stage": "hs",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "conclusion-canon-resurrection",
+  "english": "Conclusion Canon, Resurrection",
+  "arabic": "قطعة ختام الصلوات لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Raising of Incense",
+    "arabic": "القيامة · رفع البخور",
+    "id": "resurrection/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "conclusion-canon-resurrection",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-resurrection",
+  "english": "Doxology for the Resurrection",
+  "arabic": "ذكصولوجية عيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Raising of Incense",
+    "arabic": "القيامة · رفع البخور",
+    "id": "resurrection/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "doxology-resurrection",
+  "note": "",
+  "video": {
+   "id": "x6jVnXBzyV4",
+   "url": "https://www.youtube.com/watch?v=x6jVnXBzyV4",
+   "title": "ذكصولوجية عيد القيامة-خامسة وسادسة ابتدائى-المستوى الأول-مهرجان الكرازة المرفسية2026",
+   "year": 2026,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 188,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "intro-doxologies-joyful",
+  "english": "Introduction to the Doxologies, joyful tune",
+  "arabic": "مقدمة الذكصولوجيات الفرايحي",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Raising of Incense",
+    "arabic": "القيامة · رفع البخور",
+    "id": "resurrection/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "joyful tune: feasts and the Fifty Days",
+  "video": {
+   "id": "iV47ICY1vbE",
+   "url": "https://www.youtube.com/watch?v=iV47ICY1vbE",
+   "title": "مقدمة الذكصولوجيات الفرايحي-مرحلة حضانة-مستوى موهبين الفردى والجماعى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20260415",
+   "duration": 122,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "q7bOic8SiL0",
+    "year": 2023,
+    "stage": "kg",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "verses-cymbals-resurrection",
+  "english": "Joyful Verses of the Cymbals for the Resurrection",
+  "arabic": "أرباع الناقوس الفرايحي لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Raising of Incense",
+    "arabic": "القيامة · رفع البخور",
+    "id": "resurrection/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "verses-cymbals-resurrection",
+  "note": "",
+  "video": {
+   "id": "Pe28CQYGDSQ",
+   "url": "https://www.youtube.com/watch?v=Pe28CQYGDSQ",
+   "title": "ارباع الناقوس الفرايحى لعيد القيامة-أولى وثانية ابتدائى-المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 169,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "PaMDb4XufYE",
+    "year": 2026,
+    "stage": "grades-5-6",
+    "level": "2"
+   },
+   {
+    "id": "bOJnRrlYNvw",
+    "year": 2026,
+    "stage": "college",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "second-doxology-resurrection",
+  "english": "Second Doxology for the Resurrection",
+  "arabic": "الذكصولوجية الثانية لعيد القيامة",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Raising of Incense",
+    "arabic": "القيامة · رفع البخور",
+    "id": "resurrection/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "second-doxology-resurrection",
+  "note": "",
+  "video": {
+   "id": "IZtlphv_994",
+   "url": "https://www.youtube.com/watch?v=IZtlphv_994",
+   "title": "ذكصولوجية ثانية لعيد القيامة-المرحلة الإعدادية-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 162,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "verse-cymbals-resurrection",
+  "english": "Verse of Cymbals for Resurrection",
+  "arabic": "",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Raising of Incense",
+    "arabic": "القيامة · رفع البخور",
+    "id": "resurrection/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "verse-cymbals-resurrection",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "christ-is-risen",
+  "english": "Christos Anesti (Christ is risen)",
+  "arabic": "لحن أخرستوس آنيستي",
+  "places": [
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Special hymns",
+    "arabic": "القيامة · ألحان خاصة",
+    "id": "resurrection/special"
+   }
+  ],
+  "status": "in app",
+  "app_id": "christ-is-risen",
+  "note": "",
+  "video": {
+   "id": "Gt-D4wWrfwY",
+   "url": "https://www.youtube.com/watch?v=Gt-D4wWrfwY",
+   "title": "لحن أخرستوس آنيستى-المرحلة الإعدادية المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "KnOy8Q0Xn6g",
+    "year": 2026,
+    "stage": "cana-family",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "christos-analympsis",
+  "english": "Christos Analympsis",
+  "arabic": "اخرستوس أناليم ابسيس",
+  "places": [
+   {
+    "collection": "ascension",
+    "english": "Ascension · Liturgy",
+    "arabic": "الصعود · القداس",
+    "id": "ascension/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "christos-analympsis",
+  "note": "",
+  "video": {
+   "id": "yTYQ18yyN2o",
+   "url": "https://www.youtube.com/watch?v=yTYQ18yyN2o",
+   "title": "لحن اخريستوس اناليم ابسيس لدورة عيد الصعود والعنصرة-المستوىالأول-الحان شباب الخريجين-مهرجان 2026",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "praxis-response-ascension-pentecost",
+  "english": "Praxis Response for Ascension and Pentecost",
+  "arabic": "مرد الإبركسيس لعيدي الصعود والعنصرة",
+  "places": [
+   {
+    "collection": "ascension",
+    "english": "Ascension · Liturgy",
+    "arabic": "الصعود · القداس",
+    "id": "ascension/liturgy"
+   },
+   {
+    "collection": "pentecost",
+    "english": "Pentecost · Liturgy",
+    "arabic": "العنصرة · القداس",
+    "id": "pentecost/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "XvsXf44eZdk",
+   "url": "https://www.youtube.com/watch?v=XvsXf44eZdk",
+   "title": "مرد الابركسيس لعيدى الصعود والعنصرة-المستوى الأول-ألحان شباب الخريجون-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-pentecost-asomen",
+  "english": "Distribution pieces for Pentecost (Asomen)",
+  "arabic": "قطع توزيع عيد العنصرة (أسومين)",
+  "places": [
+   {
+    "collection": "pentecost",
+    "english": "Pentecost · Liturgy",
+    "arabic": "العنصرة · القداس",
+    "id": "pentecost/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "al78nK9_n24",
+   "url": "https://www.youtube.com/watch?v=al78nK9_n24",
+   "title": "قطع توزيع عيد العنصرة اسومين-المرحلة الجامعية-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 871,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "blessed-pentecost",
+  "english": "Je Ef Esmarooout, Pentecost Distribution",
+  "arabic": "جي اف اسماروؤت توزيع عيد العنصرة",
+  "places": [
+   {
+    "collection": "pentecost",
+    "english": "Pentecost · Liturgy",
+    "arabic": "العنصرة · القداس",
+    "id": "pentecost/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "blessed-pentecost",
+  "note": "",
+  "video": {
+   "id": "g8lwghRkDB8",
+   "url": "https://www.youtube.com/watch?v=g8lwghRkDB8",
+   "title": "لحن جي اف ازمارؤت توزيع عيد العنصرة -أولى وثانية ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 81,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "pi-pnevma",
+  "english": "Pi Pnevma (Descent of the Holy Spirit)",
+  "arabic": "بي إبنفما",
+  "places": [
+   {
+    "collection": "pentecost",
+    "english": "Pentecost · Liturgy",
+    "arabic": "العنصرة · القداس",
+    "id": "pentecost/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "pi-pnevma",
+  "note": "",
+  "video": {
+   "id": "PPGpGxo4Ksg",
+   "url": "https://www.youtube.com/watch?v=PPGpGxo4Ksg",
+   "title": "لحن حلول الروح القدس بى ابنفما-مرحلة ثالثة ورابعة ابتدائى-المستوى الاول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 75,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "q3mL8fH5xoY",
+    "year": 2026,
+    "stage": "cana-family",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "refrain-third-hour-pentecost",
+  "english": "Responses of the Third Hour (Pentecost)",
+  "arabic": "مرد قطع الساعة الثالثة",
+  "places": [
+   {
+    "collection": "pentecost",
+    "english": "Pentecost · Special hymns",
+    "arabic": "العنصرة · ألحان خاصة",
+    "id": "pentecost/special"
+   }
+  ],
+  "status": "in app",
+  "app_id": "refrain-third-hour-pentecost",
+  "note": "",
+  "video": {
+   "id": "h-wVePu5lhw",
+   "url": "https://www.youtube.com/watch?v=h-wVePu5lhw",
+   "title": "مرد قطع الساعة الثالثة قبطيًا-خامسة وسادسة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 143,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-jonah-tuesday",
+  "english": "Liturgy Gospel Response, Tuesday of Jonah's Fast",
+  "arabic": "مرد إنجيل قداس يوم الثلاثاء من صوم نينوى",
+  "places": [
+   {
+    "collection": "jonahs-fast",
+    "english": "Jonah's Fast · Liturgy",
+    "arabic": "صوم يونان · القداس",
+    "id": "jonahs-fast/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "obqNNGnNfBI",
+   "url": "https://www.youtube.com/watch?v=obqNNGnNfBI",
+   "title": "مرد إنجيل قداس يوم الثلاثاء من صوم نينوى- ثالثة ورابعة ابتدائى- المستوى 1- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 52,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-jonah-wednesday",
+  "english": "Liturgy Gospel Response, Wednesday of Jonah's Fast",
+  "arabic": "مرد إنجيل قداس يوم الأربعاء من صوم يونان",
+  "places": [
+   {
+    "collection": "jonahs-fast",
+    "english": "Jonah's Fast · Liturgy",
+    "arabic": "صوم يونان · القداس",
+    "id": "jonahs-fast/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "TYXDvsr6N_8",
+   "url": "https://www.youtube.com/watch?v=TYXDvsr6N_8",
+   "title": "مرد إنجيل القداس ليوم الأربعاء من صوم يونان النبى- مرحلة خامسة وسادسة- مستوى1- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 70,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "conclusion-lent-weekends",
+  "english": "Closing Canon for Saturdays and Sundays of Lent",
+  "arabic": "قانون ختام الصلوات لقداسات سبوت وآحاد الصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "f9hiK4kaiF4",
+   "url": "https://www.youtube.com/watch?v=f9hiK4kaiF4",
+   "title": "قانون ختام الصلوات لقداسات سبوت وآحاد الصوم المقدس- ألحان مرحلة حضانة- مستوى 1- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "kg",
+   "level": null,
+   "uploaded": "20240514",
+   "duration": 96,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "DFNux5RWnB0",
+    "year": 2024,
+    "stage": "special-needs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "distribution-psalm-lent-weekends",
+  "english": "Distribution Psalm for Saturdays and Sundays of Lent",
+  "arabic": "مزمور التوزيع لسبوت وآحاد الصوم المقدس",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "cGdYDAsEVnA",
+   "url": "https://www.youtube.com/watch?v=cGdYDAsEVnA",
+   "title": "مزمور التوزيع لسبوت وآحاد الصوم المقدس- المرحلة الجامعية - المستوى الأول- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 560,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-response-lent-weekdays",
+  "english": "Distribution Response for Lent weekdays",
+  "arabic": "جملة مرد التوزيع لأيام الصوم المقدس",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "GvDhnz6KuzU",
+   "url": "https://www.youtube.com/watch?v=GvDhnz6KuzU",
+   "title": "جملة مرد التوزيع لأيام الصوم المقدس- ألحان مرحلة حضانة - المستوى الأول- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 45,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-response-lent-weekends",
+  "english": "Distribution Response for Saturdays and Sundays of Lent",
+  "arabic": "جملة مرد التوزيع لسبوت وآحاد الصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Fm5dGhfUleg",
+   "url": "https://www.youtube.com/watch?v=Fm5dGhfUleg",
+   "title": "جملة مرد التوزيع لسبوت وآحاد الصوم المقدس- ألحان مرحلة حضانة- المستوى 2- مهرجان الكرازة المرقسية2024",
+   "year": 2024,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 67,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-pieces-lent-weekends",
+  "english": "Distribution pieces for Saturdays and Sundays of Lent",
+  "arabic": "قطع توزيع سبوت وآحاد الصوم المقدس",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "KXw6h_iYvhM",
+   "url": "https://www.youtube.com/watch?v=KXw6h_iYvhM",
+   "title": "قطع توزيع سبوت وآحاد الصوم المقدس - مرحلة الخريجون- المستوى الأول- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "graduates",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 1277,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "epshois-lent-weekends",
+  "english": "Epshois for Saturdays and Sundays of Lent",
+  "arabic": "لحن إبنشويس لسبوت وآحاد الصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "weekend liturgy",
+  "video": {
+   "id": "zos7SB3MzYg",
+   "url": "https://www.youtube.com/watch?v=zos7SB3MzYg",
+   "title": "لحن ابنشويس لسبوت وآحاد الصوم - ألحان قانا الجليل - م٢ - مهرجان الكرازة المرقسية ٢٠٢٤",
+   "year": 2024,
+   "stage": "cana-family",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 423,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-response-lent-weekdays",
+  "english": "Gospel Response for Lent weekdays (Ti Hirini)",
+  "arabic": "مرد إنجيل أيام الصوم المقدس (تي هيريني)",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "UyKZ3BWRyP4",
+   "url": "https://www.youtube.com/watch?v=UyKZ3BWRyP4",
+   "title": "مرد انجيل أيام الصوم المقدس تي هيريني- أولى وثانية ابتدائى- مستوى1- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 136,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "umrR9rXwuaM",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "1"
+   },
+   {
+    "id": "rZBFAnS8IQ8",
+    "year": 2024,
+    "stage": "adult-learners",
+    "level": "1"
+   },
+   {
+    "id": "Gefi8IVc2uc",
+    "year": 2024,
+    "stage": "didymus",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "gospel-response-lent-weekends",
+  "english": "Gospel Response for Saturdays and Sundays of Lent (Je Pen-iot)",
+  "arabic": "مرد إنجيل سبوت وآحاد الصوم المقدس",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "weekend liturgy",
+  "video": {
+   "id": "jYUrvkAN4hg",
+   "url": "https://www.youtube.com/watch?v=jYUrvkAN4hg",
+   "title": "مرد انجيل سبوت وآحاد الصوم المقدس وجمعة ختام الصوم- حضانة- المستوى المتميز الفردى-مهرجان الكرازة2024",
+   "year": 2024,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 130,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "iguK9hS5sRY",
+    "year": 2024,
+    "stage": "grades-1-2",
+    "level": "1"
+   },
+   {
+    "id": "fXBMIzIJnK0",
+    "year": 2024,
+    "stage": "grades-5-6",
+    "level": "2"
+   },
+   {
+    "id": "02HAMzZ8PyQ",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "2"
+   },
+   {
+    "id": "sDUYk5-2n20",
+    "year": 2024,
+    "stage": "simeon-elders",
+    "level": "1"
+   },
+   {
+    "id": "j87W5zeTkyI",
+    "year": 2024,
+    "stage": "adult-learners",
+    "level": "2"
+   },
+   {
+    "id": "IerUo94zosM",
+    "year": 2024,
+    "stage": "didymus",
+    "level": "1"
+   },
+   {
+    "id": "MFzbJdTThdU",
+    "year": 2024,
+    "stage": "special-needs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "blessed-lent",
+  "english": "Je Efsmarooout, Lenten tune",
+  "arabic": "لحن جي إفسماروؤت الصيامي",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "c6QUDaQkJHU",
+   "url": "https://www.youtube.com/watch?v=c6QUDaQkJHU",
+   "title": "لحن جي إفسماروؤت الصيامي لأيام الصوم المقدس- حضانة- المستوى المتميز الفردى- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 222,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "distribution-alleluia-lent",
+  "english": "Lenten Distribution Alleluia (weekdays)",
+  "arabic": "آللي التوزيع الصيامي لأيام الصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "IfBaMR98_9Q",
+   "url": "https://www.youtube.com/watch?v=IfBaMR98_9Q",
+   "title": "لحن اللي التوزيع الصيامي لأيام الصوم المقدس-المستوى2-المرحلة الثانوية-مهرجان الكرازة المرقسية2024",
+   "year": 2024,
+   "stage": "hs",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 681,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "9DRvP7XpTgI",
+    "year": 2024,
+    "stage": "didymus",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "megalo",
+  "english": "Megalo",
+  "arabic": "لحن ميغالو",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "weekend liturgy",
+  "video": {
+   "id": "8lsIgIAiLZQ",
+   "url": "https://www.youtube.com/watch?v=8lsIgIAiLZQ",
+   "title": "لحن ميغالو- مرحلة خامسة وسادسة- المستوى المتميز الفردى- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "grades-5-6",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 790,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "praxis-response-lent",
+  "english": "Praxis Response for Lent weekdays (Shari Efnouti)",
+  "arabic": "مرد الإبركسيس لأيام الصوم (شاري إفنوتي)",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "GBwnC6kD1dU",
+   "url": "https://www.youtube.com/watch?v=GBwnC6kD1dU",
+   "title": "مرد الأبركسيس لأيام الصوم المقدس شاري إفنوتي-أولى وثانية-المستوى المتميز الفردى-مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 240,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "9HMUfuf5jkI",
+    "year": 2024,
+    "stage": "hs",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "somatos-lent",
+  "english": "Somatos: Closing Canon for Lent weekday liturgies",
+  "arabic": "لحن سوماتوس قانون ختام الصلوات لأيام الصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Liturgy",
+    "arabic": "الصوم الكبير · القداس",
+    "id": "great-lent/liturgy"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "pKcHWWrMzDo",
+   "url": "https://www.youtube.com/watch?v=pKcHWWrMzDo",
+   "title": "لحن سوماتوس قانون ختام الصلوات لقدسات ايام الصوم-المستوى الأول-المرحلة الإعدادية-مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 207,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sheraat-lent",
+  "english": "Lenten Sheraat",
+  "arabic": "الشيرات الصيامي",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Midnight Praises",
+    "arabic": "الصوم الكبير · التسبحة",
+    "id": "great-lent/midnight-praises"
+   },
+   {
+    "collection": "jonahs-fast",
+    "english": "Jonah's Fast · Midnight Praises",
+    "arabic": "صوم يونان · التسبحة",
+    "id": "jonahs-fast/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "praises of the fasts",
+  "video": {
+   "id": "jlZ__SnoT9g",
+   "url": "https://www.youtube.com/watch?v=jlZ__SnoT9g",
+   "title": "الشيرات الصيامي- مرحلة الخريجون- المستوى الثانى- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "graduates",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 1426,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tenoueh-ensok-lent",
+  "english": "Tenoueh Ensok, Lenten tune",
+  "arabic": "تين أويه إنثوك الصيامي",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Midnight Praises",
+    "arabic": "الصوم الكبير · التسبحة",
+    "id": "great-lent/midnight-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "-nB3cued60g",
+   "url": "https://www.youtube.com/watch?v=-nB3cued60g",
+   "title": "لحن تين اويه آنثوك الصيامى- ثالثة ورابعة- المستوى المتميز الفردى- مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 840,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "doxology-lent-weekends",
+  "english": "Doxology for Saturdays and Sundays of Lent",
+  "arabic": "ذكصولوجية سبوت وآحاد الصوم المقدس",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Raising of Incense",
+    "arabic": "الصوم الكبير · رفع البخور",
+    "id": "great-lent/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "wDVwdpCv6Oc",
+   "url": "https://www.youtube.com/watch?v=wDVwdpCv6Oc",
+   "title": "ذكصولوجية سبوت و آحاد الصوم المقدس - المرحلة الجامعية - المستوى الثانى- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 886,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "entho-te-ti-shouri",
+  "english": "Entho te ti shouri (Lenten censer hymn)",
+  "arabic": "لحن إنثو تي تي شوري",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Raising of Incense",
+    "arabic": "الصوم الكبير · رفع البخور",
+    "id": "great-lent/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "mremnkbquUY",
+   "url": "https://www.youtube.com/watch?v=mremnkbquUY",
+   "title": "لحن إنثو تي تي شوري في أيام الصوم المقدس- أولى وثانية- المستوى المتميز الفردى- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 296,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "JQ6Dt5NyAbI",
+    "year": 2024,
+    "stage": "ms",
+    "level": "2"
+   },
+   {
+    "id": "-toPLOFUozE",
+    "year": 2024,
+    "stage": "didymus",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "intro-doxologies-last-two-lent",
+  "english": "Last two verses of the Introduction to the Doxologies, Lent",
+  "arabic": "الربعان الأخيران من مقدمة الذكصولوجيات للصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Raising of Incense",
+    "arabic": "الصوم الكبير · رفع البخور",
+    "id": "great-lent/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "ZfQE1ftz3mY",
+   "url": "https://www.youtube.com/watch?v=ZfQE1ftz3mY",
+   "title": "الربعان الأخيران من مقدمة الذكصولوجيات لأيام الصوم المقدس-  حضانة- المستوى 2- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 80,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "verses-cymbals-lent-weekends",
+  "english": "Verses of the Cymbals for Saturdays and Sundays of Lent",
+  "arabic": "أرباع الناقوس لسبوت وآحاد الصوم",
+  "places": [
+   {
+    "collection": "great-lent",
+    "english": "Great Lent · Raising of Incense",
+    "arabic": "الصوم الكبير · رفع البخور",
+    "id": "great-lent/raising-of-incense"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "hCJRN4JVcHY",
+   "url": "https://www.youtube.com/watch?v=hCJRN4JVcHY",
+   "title": "أرباع الناقوس لسبوت وآحاد الصوم المقدس- أولى وثانية ابتدائى- المستوى الثانى- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 121,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "second-doxology-apostles",
+  "english": "Second Doxology of the Apostles",
+  "arabic": "ذكصولوجية الآباء الرسل الثانية",
+  "places": [
+   {
+    "collection": "apostles-fast",
+    "english": "Apostles' Fast · Raising of Incense",
+    "arabic": "صوم الرسل · رفع البخور",
+    "id": "apostles-fast/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "second-doxology-apostles",
+  "note": "",
+  "video": {
+   "id": "6Y8CRwVLhg4",
+   "url": "https://www.youtube.com/watch?v=6Y8CRwVLhg4",
+   "title": "ذوكصولوجية الأباء الرسل الثانية-مرحلة ثالثة ورابعة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 179,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "QuUmI1MuQLg",
+    "year": 2024,
+    "stage": "grades-3-4",
+    "level": "2"
+   },
+   {
+    "id": "IVu-GMG6Ygg",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "arihouo-gasf-third-hoos",
+  "english": "Aree Hoo Ou Chasf (Third Canticle)",
+  "arabic": "اري هوؤو تشاسف (الهوس الثالث)",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "arihouo-gasf-third-hoos",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "conclusion-midnight-praises",
+  "english": "Conclusion of the Midnight Praises (Efnouti nai nan)",
+  "arabic": "طلبة ختام التسبحة (إفنوتي ناي نان)",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "conclusion-midnight-praises",
+  "note": "",
+  "video": {
+   "id": "onVX6NzU6us",
+   "url": "https://www.youtube.com/watch?v=onVX6NzU6us",
+   "title": "طلبة ختام تسبحة نصف الليل-مرحلة اولى وثانية ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 293,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "n8Fxd-4_iLs",
+    "year": 2024,
+    "stage": "grades-1-2",
+    "level": "1"
+   },
+   {
+    "id": "dv9ZaP5d9II",
+    "year": 2024,
+    "stage": "simeon-elders",
+    "level": "2"
+   },
+   {
+    "id": "qtzZeJz8F-Q",
+    "year": 2022,
+    "stage": "grades-1-2",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "doxology-virgin-midnight",
+  "english": "Doxology for Virgin Mary - Midnight Praise",
+  "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "doxology-virgin-midnight",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "evol-hiten-major",
+  "english": "Evol Hiten (long)",
+  "arabic": "إيفول هيتين الكبير",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "JyfcNefBDWQ",
+   "url": "https://www.youtube.com/watch?v=JyfcNefBDWQ",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة ثالثة ورابعة - موهوبين فردى وجماعى- لحن إيفول هيتين الكبير",
+   "year": 2022,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20220309",
+   "duration": 564,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "W8vp8WnCU4A",
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "gospel-luke",
+  "english": "Gospel According to St. Luke",
+  "arabic": "الإنجيل لمعلمنا مار لوقا",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "gospel-luke",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "hos-erof",
+  "english": "Hos Erof",
+  "arabic": "هوس إيروف",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "iYrw8PeSnzg",
+   "url": "https://www.youtube.com/watch?v=iYrw8PeSnzg",
+   "title": "الحان مهرجان الكرازة 2022 - مرحلة جامعة - المستوى الثانى- لحن هوس ايروف",
+   "year": 2022,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20220314",
+   "duration": 506,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "leebon",
+  "english": "Intro of the Theotokia (Leebon)",
+  "arabic": "مقدمة الثيؤطوكية - ليبون",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "leebon",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "lobsh-first-hoos",
+  "english": "Lobsh of the First Hoos",
+  "arabic": "لبش الهوس الأول",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "lobsh-first-hoos",
+  "note": "",
+  "video": {
+   "id": "Oplo5WKyJTI",
+   "url": "https://www.youtube.com/watch?v=Oplo5WKyJTI",
+   "title": "لحن لبش الهوس الاول-المرحلة الإعدادية-المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 419,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "apcBYM7a75k",
+    "year": 2025,
+    "stage": "kg",
+    "level": "gifted"
+   },
+   {
+    "id": "KcOpzBLHp_0",
+    "year": 2023,
+    "stage": "ms",
+    "level": "1"
+   },
+   {
+    "id": "GDx4TrN7LgM",
+    "year": 2023,
+    "stage": "kg",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "second-hoos-lobsh",
+  "english": "Lobsh of the Second Hoos (Marin Ouonh)",
+  "arabic": "لبش الهوس الثاني (مارين أوونه)",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "second-hoos-lobsh",
+  "note": "",
+  "video": {
+   "id": "avIDlUS30Mw",
+   "url": "https://www.youtube.com/watch?v=avIDlUS30Mw",
+   "title": "لبش الهوس الثاني مارين أوونه - أولى وثانية ابتدائى- المستوى المتميز الفردى- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 523,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "mtkO0dhcaqk",
+    "year": 2024,
+    "stage": "ms",
+    "level": "2"
+   },
+   {
+    "id": "lx0bAUsQFAQ",
+    "year": 2023,
+    "stage": "college",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "aripalin",
+  "english": "Psali Watos of the Three Saintly Youths (Aripsalin)",
+  "arabic": "إبصالية واطس للثلاثة فتية القديسين",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "aripalin",
+  "note": "",
+  "video": {
+   "id": "u5HsJJHcAEc",
+   "url": "https://www.youtube.com/watch?v=u5HsJJHcAEc",
+   "title": "إبصالية واطس للثلاثة فتية القديسين-المرحلة الإعدادية-المستوى الثانى- مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 621,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "psalm-150-4th-hoos",
+  "english": "Psalm 150 of the Fourth Hoos",
+  "arabic": "المزمور 150 من الهوس الرابع",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "psalm-150-4th-hoos",
+  "note": "",
+  "video": {
+   "id": "22HFcH9NDRc",
+   "url": "https://www.youtube.com/watch?v=22HFcH9NDRc",
+   "title": "المزمور ال150من الهوس الرابع السنوى-مرحلة ثالثة ورابعة ابتدائى-المستوى الثانى-مهرجان الكرازة2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 249,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "I-Gu-hPPKAg",
+    "year": 2024,
+    "stage": "grades-3-4",
+    "level": "1"
+   },
+   {
+    "id": "qh5YkTs13Kw",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "2"
+   },
+   {
+    "id": "TyDm82iJGO8",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "semoti",
+  "english": "Semoti",
+  "arabic": "سيموتي",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "semoti",
+  "note": "",
+  "video": {
+   "id": "5mi2egyKYw8",
+   "url": "https://www.youtube.com/watch?v=5mi2egyKYw8",
+   "title": "لحن سيموتى- المرحلة الجامعية - المستوى الأول- ألحان مهرجان الكرازة المرقسية 2024",
+   "year": 2024,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20240514",
+   "duration": 627,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "shere-ne-maria",
+  "english": "Shere ne Maria",
+  "arabic": "شيري ني ماريا",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "shere-ne-maria",
+  "note": "",
+  "video": {
+   "id": "1fqOYma21HI",
+   "url": "https://www.youtube.com/watch?v=1fqOYma21HI",
+   "title": "الحان مهرجان الكرازة 2023 - مرحلة ثالثة و رابعة ابتدائى -موهوبين فردى وجماعي-لحن شيرى نى ماريا",
+   "year": 2023,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20230303",
+   "duration": 517,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ten-theeno",
+  "english": "Ten Theeno (long)",
+  "arabic": "تين ثينو الكبير",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ten-theeno",
+  "note": "",
+  "video": {
+   "id": "uz6W_0waqyA",
+   "url": "https://www.youtube.com/watch?v=uz6W_0waqyA",
+   "title": "الحان مهرجان الكرازة المرقسية 2023 - مرحلة اعدادى - موهوبين فردى وجماعى- لحن تين ثينو الكبير",
+   "year": 2023,
+   "stage": "ms",
+   "level": "gifted",
+   "uploaded": "20230311",
+   "duration": 562,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ten-thinou",
+  "english": "Ten Thinou (Arise, O children of the light)",
+  "arabic": "تين ثينو",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ten-thinou",
+  "note": "",
+  "video": {
+   "id": "pqkaJ2xs6Oc",
+   "url": "https://www.youtube.com/watch?v=pqkaJ2xs6Oc",
+   "title": "لحن تين ثينو- ألحان مرحلة جامعة - المستوى الثانى - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 562,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "dBdVElIYwG8",
+    "year": 2024,
+    "stage": "ms",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "tennav",
+  "english": "Tennav (Resurrection praise)",
+  "arabic": "مديح القيامة تين ناف",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   },
+   {
+    "collection": "resurrection",
+    "english": "Resurrection · Midnight Praises",
+    "arabic": "القيامة · التسبحة",
+    "id": "resurrection/midnight-praises"
+   }
+  ],
+  "status": "in app",
+  "app_id": "tennav",
+  "note": "",
+  "video": {
+   "id": "iuJBOm6e7n8",
+   "url": "https://www.youtube.com/watch?v=iuJBOm6e7n8",
+   "title": "مديح القيامة تين ناف-المرحلة الجامعية - المستوى الثانى-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20260521",
+   "duration": 645,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tenoue-n-khok",
+  "english": "Tenoueh Ensok (annual)",
+  "arabic": "تين أويه إنسوك السنوي",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "tenoue-n-khok",
+  "note": "",
+  "video": {
+   "id": "_q-kXmtK4l8",
+   "url": "https://www.youtube.com/watch?v=_q-kXmtK4l8",
+   "title": "لحن تين اويه انثوك السنوى-المستوى الثانى-ألحان المرحلة الثانوية-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "hs",
+   "level": "2",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "bdpeExuV0EM",
+    "year": 2023,
+    "stage": "hs",
+    "level": "2"
+   },
+   {
+    "id": "YOZu8CvIOGc",
+    "year": 2023,
+    "stage": "grades-1-2",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "teoi-enhekanos",
+  "english": "Teoi Enhekanos",
+  "arabic": "تي أوي إن هيكانوس",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "teoi-enhekanos",
+  "note": "",
+  "video": {
+   "id": "ohkHizhJthI",
+   "url": "https://www.youtube.com/watch?v=ohkHizhJthI",
+   "title": "لحن تى أوى إن هيكانوس- المرحلة الجامعية - المستوى الثانى- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20240514",
+   "duration": 687,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "IQ7jWNZjKa8",
+    "year": 2024,
+    "stage": "servants",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "adam-theotokias-conclusion",
+  "english": "The Adam Theotokias Conclusion",
+  "arabic": "ختام الثيؤطوكيات الأدام",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "adam-theotokias-conclusion",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "commemoration-of-saints",
+  "english": "The Commemoration of the Saint",
+  "arabic": "مجمع القديسين",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "commemoration-of-saints",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "concluding-litany",
+  "english": "The Concluding Litany",
+  "arabic": "طلبة الختام",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "concluding-litany",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "shashf-ensop",
+  "english": "The Eighth Part - Shashf Ensop",
+  "arabic": "القطعة الثامنة - شاشف إنسوب",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "shashf-ensop",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "aven-pi-arshee-erevs",
+  "english": "The Fifteenth Part - Aven Pi-arshee-erevs",
+  "arabic": "القطعة الخامسة عشر - أف إن بي أرشي إريفس",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "aven-pi-arshee-erevs",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "first-hoos",
+  "english": "The First Hoos",
+  "arabic": "الهوس الأول",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "first-hoos",
+  "note": "",
+  "video": {
+   "id": "I81ZQNhmnLs",
+   "url": "https://www.youtube.com/watch?v=I81ZQNhmnLs",
+   "title": "الهوس الاول-الحان المرحلة الثانوية-المستوى الأول-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": null,
+   "duration": null,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "yfWBoaBKa8I",
+    "year": 2023,
+    "stage": "hs",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "first-hoos-lobsh",
+  "english": "The First Hoos Lobsh",
+  "arabic": "لبش الهوس الأول",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "first-hoos-lobsh",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "first-sunday-psali",
+  "english": "The First Sunday Psali",
+  "arabic": "إبصالية الأحد الأول",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "first-sunday-psali",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "fourth-hoos",
+  "english": "The Fourth Hoos",
+  "arabic": "الهوس الرابع",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "fourth-hoos",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "second-hoos",
+  "english": "The Second Hoos",
+  "arabic": "الهوس الثاني",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "second-hoos",
+  "note": "",
+  "video": {
+   "id": "ez1xULOdiSQ",
+   "url": "https://www.youtube.com/watch?v=ez1xULOdiSQ",
+   "title": "الهوس الثانى - المرحلة الإعدادية- المستوى الأول- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 500,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "2hH6t1VANFU",
+    "year": 2022,
+    "stage": "ms",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "second-sunday-psali",
+  "english": "The Second Sunday Psali",
+  "arabic": "إبصالية الأحد الثانية",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "second-sunday-psali",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "nim-ghar",
+  "english": "The Sixteenth Part - Nim Ghar",
+  "arabic": "القطعة السادسة عشر - نيم غار",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "nim-ghar",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "third-hoos",
+  "english": "The Third Hoos",
+  "arabic": "الهوس الثالث",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "third-hoos",
+  "note": "",
+  "video": {
+   "id": "gqlcGOJ4rto",
+   "url": "https://www.youtube.com/watch?v=gqlcGOJ4rto",
+   "title": "الهوس الثالث-- الحان مرحلة ثانوى - المستوى الأول - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 558,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "kKfw-8Z6sXE",
+    "year": 2022,
+    "stage": "hs",
+    "level": "1"
+   }
+  ]
+ },
+ {
+  "key": "esmo-epchois",
+  "english": "The Third Hoos - Esmo Epchois",
+  "arabic": "الهوس الثالث - إسمو إبشويس",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "esmo-epchois",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "morning-doxology",
+  "english": "The Morning Doxology",
+  "arabic": "ذكصولوجية باكر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Morning Praises",
+    "arabic": "التسبحة · تسبحة باكر",
+    "id": "praises/morning"
+   }
+  ],
+  "status": "in app",
+  "app_id": "morning-doxology",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ti-galilee",
+  "english": "Ti Galilee",
+  "arabic": "لحن تي جاليلي",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Special hymns",
+    "arabic": "التسبحة · ألحان خاصة",
+    "id": "praises/special"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Cg2GDXczTUo",
+   "url": "https://www.youtube.com/watch?v=Cg2GDXczTUo",
+   "title": "لحن تى جاليلى آ- المرحلة الجامعية - مستوى التميز- مهرجان الكرازة 2024",
+   "year": 2024,
+   "stage": "college",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 729,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "alli-el-asr",
+  "english": "Alleluia of the afternoon (Alli el-Asr)",
+  "arabic": "لحن آللي العصر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Vesper Praises",
+    "arabic": "التسبحة · تسبحة عشية",
+    "id": "praises/vesper-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "v7xDLfsNSMU",
+   "url": "https://www.youtube.com/watch?v=v7xDLfsNSMU",
+   "title": "لحن أللى العصر- مرحلة خامسة وسادسة- المستوى المتميز الفردى- مهرجان الكرازة المرقسية",
+   "year": 2024,
+   "stage": "grades-5-6",
+   "level": "gifted",
+   "uploaded": "20240514",
+   "duration": 690,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "dzimWzzLm3w",
+    "year": 2024,
+    "stage": "hs",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "ni-ethnos-tero",
+  "english": "Ni Ethnos Tero (O praise the Lord, all ye nations)",
+  "arabic": "لحن ني إثنوس تيرو",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Vesper Praises",
+    "arabic": "التسبحة · تسبحة عشية",
+    "id": "praises/vesper-praises"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "xBOp4PqYJJQ",
+   "url": "https://www.youtube.com/watch?v=xBOp4PqYJJQ",
+   "title": "لحن نى أثنوس تيرو - الحان مرحلة خامسة وسادسة -الموهوبين - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 939,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "TZKGOOmgW5s",
+    "year": 2023,
+    "stage": "hs",
+    "level": "gifted"
+   },
+   {
+    "id": "RL6_vJWtBxQ",
+    "year": 2022,
+    "stage": "college",
+    "level": "gifted"
+   },
+   {
+    "id": "_Y_gu9MSDYo",
+    "year": 2022,
+    "stage": "college",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "agios-crucifixion",
+  "english": "Agios, Crucifixion tune",
+  "arabic": "لحن أجيوس بلحن الصلبوت",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "YAK6jTt9DYA",
+   "url": "https://www.youtube.com/watch?v=YAK6jTt9DYA",
+   "title": "لحن أجيوس دمجًا بلحن الصلبوت - الحان مرحلة ثالثة و رابعة م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 355,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "AJw8nGvokCM",
+    "year": 2025,
+    "stage": "simeon-elders",
+    "level": "2"
+   },
+   {
+    "id": "rsQLjV_l6Is",
+    "year": 2025,
+    "stage": "special-needs",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "burial-canon",
+  "english": "Burial Canon",
+  "arabic": "لحن قانون الدفنة",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "m9qwIou9mmM",
+   "url": "https://www.youtube.com/watch?v=m9qwIou9mmM",
+   "title": "لحن قانون الدفنة - الحان اسرة  القديس ديديموس م٢- مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "didymus",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 755,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "conclusion-pascha-hours",
+  "english": "Conclusion of the Pascha Hours",
+  "arabic": "ختام سواعي البصخة",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "dRAnvlOaR6w",
+   "url": "https://www.youtube.com/watch?v=dRAnvlOaR6w",
+   "title": "ختام سواعى البصخة - الحان مرحلة ثالثة و رابعة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 321,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "a4gG1iKnmUI",
+    "year": 2025,
+    "stage": "cana-family",
+    "level": "1"
+   },
+   {
+    "id": "Hj0AiMKSiJA",
+    "year": 2025,
+    "stage": "simeon-elders",
+    "level": "1"
+   },
+   {
+    "id": "lLzCdhGzohM",
+    "year": 2025,
+    "stage": "adult-learners",
+    "level": "2"
+   },
+   {
+    "id": "yu4PpT_f81o",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "1"
+   },
+   {
+    "id": "BIXotug8qKg",
+    "year": 2025,
+    "stage": "special-needs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "ethbe-ti-anastasis",
+  "english": "Ethve Ti Anastasis (For the Resurrection of the Dead)",
+  "arabic": "إثفي تي أنسطاسيس",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ethbe-ti-anastasis",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "pauline-funeral-tune",
+  "english": "Ethvete: the Pauline Epistle in the funeral tune",
+  "arabic": "لحن أثفيتي (البولس بلحن التجنيز)",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "c8yRoXz3prc",
+   "url": "https://www.youtube.com/watch?v=c8yRoXz3prc",
+   "title": "لحن أثفيتى- البولس بلحن التجنيز- الحان مرحلة ثالثة و رابعة موهوبين - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-3-4",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 732,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "fai-etafenf",
+  "english": "Fai Etafenf",
+  "arabic": "لحن فاي إيطاف إنف",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "in app",
+  "app_id": "fai-etafenf",
+  "note": "",
+  "video": {
+   "id": "0H5bBxXND4w",
+   "url": "https://www.youtube.com/watch?v=0H5bBxXND4w",
+   "title": "لحن الصليب فاى ايطاف انف-المرحلة الجامعية-لحن اجبارى للمستويين-مهرجان الكرازة المرقسية2026",
+   "year": 2026,
+   "stage": "college",
+   "level": "required",
+   "uploaded": "20260415",
+   "duration": 471,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "CGO80x84joA",
+    "year": 2025,
+    "stage": "graduates",
+    "level": "2"
+   },
+   {
+    "id": "lzbeXD3oAYU",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "golgotha",
+  "english": "Golgotha",
+  "arabic": "لحن غولغوثا",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "3cQiElL7cN0",
+   "url": "https://www.youtube.com/watch?v=3cQiElL7cN0",
+   "title": "لحن غولغوثا- الحان مرحلة ثانوى - المستوى الأول - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "hs",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 716,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "tarh-intro-conclusion-pascha",
+  "english": "Introduction and conclusion of the Tarhs, Pascha tune",
+  "arabic": "مقدمة وختام الطروحات بلحن البصخة",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "Bais4G3-bxk",
+   "url": "https://www.youtube.com/watch?v=Bais4G3-bxk",
+   "title": "2مقدمة وختام الطروحات بلحن البصخة - مرحلة حضانة - مستوى الموهوبين- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "gifted",
+   "uploaded": "20250227",
+   "duration": 439,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "zCwayeAbJag",
+    "year": 2025,
+    "stage": "ms",
+    "level": "1"
+   },
+   {
+    "id": "1rYppFlRVtk",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "thief-confession-intro",
+  "english": "Introduction to the Confession of the Thief",
+  "arabic": "مقدمة أمانة اللص",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "PiSEf_roUao",
+   "url": "https://www.youtube.com/watch?v=PiSEf_roUao",
+   "title": "مقدمة أمانة اللص - الحان مرحلة خامسة وسادسة م١ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 259,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ke-ypertou",
+  "english": "Ke Ypertou",
+  "arabic": "كي إبرتو",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ke-ypertou",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ou-katikisis",
+  "english": "Ou Katikisis",
+  "arabic": "لحن أوكاتي",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ou-katikisis",
+  "note": "",
+  "video": {
+   "id": "ZJC5Lm9jopM",
+   "url": "https://www.youtube.com/watch?v=ZJC5Lm9jopM",
+   "title": "لحن اوكاتى - ألحان مرحلة جامعة - المستوى الأول - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "college",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 695,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ouniatek",
+  "english": "Ouniatek",
+  "arabic": "لحن أوونياتك",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "R3c2DHgCXW4",
+   "url": "https://www.youtube.com/watch?v=R3c2DHgCXW4",
+   "title": "لحن اوونياتك-مهرجان الكرازة المرقسية 2025-المرحلة الجامعية",
+   "year": 2025,
+   "stage": "college",
+   "level": null,
+   "uploaded": "20250221",
+   "duration": 1468,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "pek-ethronos",
+  "english": "Pek Ethronos (Shami psalm)",
+  "arabic": "لحن بيك إثرونوس (المزمور الشامي)",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "KZ1a7vObvwU",
+   "url": "https://www.youtube.com/watch?v=KZ1a7vObvwU",
+   "title": "لحن بيك اثرونوس - الحان مرحلة خامسة وسادسة -الموهوبين - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-5-6",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 1250,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "tYyGJ3CbDZo",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "gifted"
+   }
+  ]
+ },
+ {
+  "key": "praxis-sorrowful",
+  "english": "Praxis, sorrowful tune",
+  "arabic": "لحن الإبركسيس الحزايني",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "N7aFwG65zak",
+   "url": "https://www.youtube.com/watch?v=N7aFwG65zak",
+   "title": "لحن الأبركسيس الحزاينى - اعداد خدام و خدام - م٢ - مهرجان الكرازة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "servants",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 2536,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "ninth-hour-responses",
+  "english": "Responses of the Ninth Hour pieces",
+  "arabic": "مردات قطع الساعة التاسعة",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "yeRjudWyIPE",
+   "url": "https://www.youtube.com/watch?v=yeRjudWyIPE",
+   "title": "مردات قطع الساعة التاسعة -الحان أولى و ثانية - م١ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "1",
+   "uploaded": "20250221",
+   "duration": 128,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sixth-hour-responses",
+  "english": "Responses of the Sixth Hour pieces",
+  "arabic": "مردات قطع الساعة السادسة",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "g1pv9UnGits",
+   "url": "https://www.youtube.com/watch?v=g1pv9UnGits",
+   "title": "مردات قطع الساعة السادسة - الحان أولى و ثانية - م٢ - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 155,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "thok-te-tigom",
+  "english": "Thok te ti gom (Pascha praise)",
+  "arabic": "تسبحة البصخة (ثوك تاتي جوم)",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "versions differ: Coptic only, fast, complete",
+  "video": {
+   "id": "n2qtmAUkNaY",
+   "url": "https://www.youtube.com/watch?v=n2qtmAUkNaY",
+   "title": "تسبحة البصخة قبطيًا (السريعة)- مرحلة حضانة - المستوى الأول- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20250227",
+   "duration": 107,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "6yAcBoKmOUA",
+    "year": 2025,
+    "stage": "kg",
+    "level": "2"
+   },
+   {
+    "id": "k-bE3bce9MQ",
+    "year": 2025,
+    "stage": "cana-family",
+    "level": "1"
+   },
+   {
+    "id": "Hgzzkr1Myx8",
+    "year": 2025,
+    "stage": "adult-learners",
+    "level": "1"
+   },
+   {
+    "id": "2jluAVdRglk",
+    "year": 2025,
+    "stage": "didymus",
+    "level": "1"
+   },
+   {
+    "id": "go9tjTlU_a8",
+    "year": 2025,
+    "stage": "special-needs",
+    "level": null
+   }
+  ]
+ },
+ {
+  "key": "ti-shouri-sorrowful-small",
+  "english": "Ti Shouri, sorrowful tune (short)",
+  "arabic": "تي شوري الحزايني الصغير",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "269BxxNnzV4",
+   "url": "https://www.youtube.com/watch?v=269BxxNnzV4",
+   "title": "تي شورى الحزايني الصغير - المرحلة الإعدادية- المستوى الثانى- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 284,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "agios-funeral",
+  "english": "Trisagion, funeral tune",
+  "arabic": "الثلاث تقديسات بلحن التجنيز",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "PhV5y4mdjNs",
+   "url": "https://www.youtube.com/watch?v=PhV5y4mdjNs",
+   "title": "لحن الثلاث تقديسات بلحن التجنيز - الحان أولى و ثانية - موهوبين - مهرجان الكرزاة المرقسية ٢٠٢٥",
+   "year": 2025,
+   "stage": "grades-1-2",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 596,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "anok-pe-pi-kouji",
+  "english": "Anok pe pi kouji",
+  "arabic": "لحن أنوك بي بي كوجي",
+  "places": [
+   {
+    "collection": "bright-saturday",
+    "english": "Bright Saturday · Hymns",
+    "arabic": "سبت الفرح · Hymns",
+    "id": "bright-saturday/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "fCyykYvsSXs",
+   "url": "https://www.youtube.com/watch?v=fCyykYvsSXs",
+   "title": "لحن انوك بى بى كوجى - ألحان مرحلة جامعة - المستوى الثانى - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "college",
+   "level": "2",
+   "uploaded": "20260620",
+   "duration": 964,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "revelation-responses",
+  "english": "Responses of the Book of Revelation",
+  "arabic": "مردات سفر الرؤيا",
+  "places": [
+   {
+    "collection": "bright-saturday",
+    "english": "Bright Saturday · Hymns",
+    "arabic": "سبت الفرح · Hymns",
+    "id": "bright-saturday/hymns"
+   }
+  ],
+  "status": "new",
+  "app_id": null,
+  "note": "",
+  "video": {
+   "id": "9lFeVOzm4tg",
+   "url": "https://www.youtube.com/watch?v=9lFeVOzm4tg",
+   "title": "مردات سفر الرؤيا - المرحلة الإعدادية - المستوى الثانى- مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "2",
+   "uploaded": "20250221",
+   "duration": 807,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
+ }
+]
