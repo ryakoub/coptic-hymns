@@ -20,6 +20,9 @@ One row per recording (a hymn folder). Columns:
   order       its position in its places, lower first (steps of 10 leave room in between)
   group       its sub-folder within its places, e.g. "Hoos" or "Hoos | الهوسات" (English | Arabic); hymns with the same
               group are shown together, in the order of the first of them
+  intro, intro_arabic
+              a short introduction shown above the hymn's words in the app ("About this hymn"): what it is,
+              when and how it is sung (on the hymn's own row, as the titles)
   notes       your notes on the hymn and its words (kept in info.json "notes", not shown in the app yet)
 Open the file in Numbers or Excel, change any cells, and export it as CSV again (UTF-8). Empty cells are left as
 they are; to clear one, write a single "-". Places that are not in the library are reported and not written.
@@ -31,7 +34,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 LANGS = ("english", "coptic", "arabic")
-COLUMNS = ["id", "where", "text", "tune", "kind", "pace", *LANGS, "places", "order", "group", "notes"]
+COLUMNS = ["id", "where", "text", "tune", "kind", "pace", *LANGS, "places", "order", "group", "intro", "intro_arabic", "notes"]
 KINDS = ("recital", "melismatic")
 
 
@@ -123,7 +126,8 @@ def export(path):
             t = current_titles(info)
             w.writerow([hid, folder.parent.relative_to(CONTENT).as_posix(), info.get("text", ""),
                         (info.get("tune") or {}).get("english", ""), info.get("kind", ""), pace.get(hid, ""),
-                        *(t.get(k, "") for k in LANGS), places_cell(info), info.get("order", ""), group_cell(info), info.get("notes", "")])
+                        *(t.get(k, "") for k in LANGS), places_cell(info), info.get("order", ""), group_cell(info),
+                        (info.get("intro") or {}).get("english", ""), (info.get("intro") or {}).get("arabic", ""), info.get("notes", "")])
     print(f"wrote {len(rows)} recordings to {path}")
 
 
@@ -180,6 +184,18 @@ def import_(path):
                 english, _, arabic = (x.strip() for x in group.partition("|"))
                 info["group"] = {k: v for k, v in (("english", english), ("arabic", arabic)) if v}
                 notes.append(f"group → {group}")
+
+            intro = dict(info.get("intro") or {})
+            for col, lang in (("intro", "english"), ("intro_arabic", "arabic")):
+                v = (row.get(col) or "").strip()
+                if v == "-":
+                    intro.pop(lang, None)
+                elif v:
+                    intro[lang] = v
+            if intro != (info.get("intro") or {}):
+                if intro: info["intro"] = intro
+                else: info.pop("intro", None)
+                notes.append("intro updated")
 
             note = (row.get("notes") or "").strip()
             if note == "-":

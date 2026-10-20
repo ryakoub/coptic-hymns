@@ -178,7 +178,9 @@ class Build:
         if pending:
             self.warn(tid, "lyrics not added yet")
         self.texts[tid] = {"id": tid, "titles": titles, "tags": info.get("tags", []), "pending": pending, "lines": tlines,
-                           "links": info.get("links", [])}
+                           "links": info.get("links", []),
+                           # A short introduction (what the hymn is, when it is sung), shown above its words.
+                           "intro": {k: v for k, v in (info.get("intro") or {}).items() if k in ("english", "arabic") and v}}
 
     def add_recording(self, folder, rid, info, lines):
         tid = info.get("text", rid)
@@ -421,7 +423,8 @@ def main():
     texts_out = []
     for tid, t in sorted(b.texts.items()):
         lines = [l for l in t["lines"] if not l.get("label") and not l.get("static")]
-        doc = json.dumps({"id": tid, "titles": t["titles"], "lines": t["lines"]}, ensure_ascii=False, indent=1).encode()
+        doc = json.dumps({"id": tid, "titles": t["titles"], **({"intro": t["intro"]} if t["intro"] else {}), "lines": t["lines"]},
+                         ensure_ascii=False, indent=1).encode()
         texts_out.append({"id": tid, "titles": t["titles"], "tags": t["tags"], "pending": t["pending"],
                           # Where else to hear it (another site's recording, linked rather than copied).
                           **({"links": t["links"]} if t["links"] else {}),
