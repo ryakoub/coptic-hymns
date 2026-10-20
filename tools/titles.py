@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Every hymn's titles and places in the library, as one spreadsheet to review and edit.
+"""Every hymn's titles, places, kind and notes, as one spreadsheet to review and edit.
 
   python3 tools/titles.py export ~/Downloads/hymns.csv    # every recording as it is now
   python3 tools/titles.py import ~/Downloads/hymns.csv    # write back the cells that changed
@@ -8,12 +8,17 @@ One row per recording (a hymn folder). Columns:
   id, where   the folder (not editable)
   text        empty for a hymn with its own words; for another tune or language of a hymn, that hymn's id
   tune        the tune's name, shown on the hymn's tune switch (e.g. "St. Gregory Liturgy")
+  kind        "recital" (quick, a syllable to a note: good for the words lighting up as they are sung) or
+              "melismatic" (long notes on few words: better learned with a score or hand-made marks)
+  pace        Coptic words sung per minute (not editable), a hint for kind: under 10 is melismatic, 25 and
+              over recital
   english, coptic, arabic
               the titles; a tune or language takes its titles from its text, so edit them on that row
   places      where it appears, separated by ";", e.g. "annual/liturgy; holy-week/hymns"
               (collection/section, as in catalog/library.json; "praises/midnight" is short for "praises/midnight-praises").
               "annual/liturgy@30" puts it at position 30 in that place only.
   order       its position in its places, lower first (steps of 10 leave room in between)
+  notes       your notes on the hymn and its words (kept in info.json "notes", not shown in the app yet)
 Open the file in Numbers or Excel, change any cells, and export it as CSV again (UTF-8). Empty cells are left as
 they are; to clear one, write a single "-". Places that are not in the library are reported and not written.
 The changes go into each folder's info.json; then run tools/build_catalog.py.
@@ -24,7 +29,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 LANGS = ("english", "coptic", "arabic")
-COLUMNS = ["id", "where", "text", "tune", *LANGS, "places", "order"]
+COLUMNS = ["id", "where", "text", "tune", "kind", "pace", *LANGS, "places", "order", "notes"]
+KINDS = ("recital", "melismatic")
 
 
 def folders():
@@ -78,7 +84,26 @@ def known(place, full):
     return len([p for p in full if p.startswith(f"{c}/{s}")]) == 1
 
 
+def paces():
+    """Coptic words per minute of each recording with its own words, from the catalog's durations."""
+    try:
+        index = json.loads((ROOT / "catalog/v1/index.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    durations = {r["id"]: r.get("duration") for r in index.get("recordings", [])}
+    out = {}
+    for hid, (folder, _, info) in folders().items():
+        if info.get("text") or not durations.get(hid):
+            continue
+        lines = json.loads((folder / "lyrics.json").read_text(encoding="utf-8"))
+        words = sum(len(l.get("coptic", "").split()) for l in lines if l.get("coptic") and not l.get("label"))
+        if words:
+            out[hid] = round(words / (durations[hid] / 60), 1)
+    return out
+
+
 def export(path):
+    pace = paces()
     with open(path, "w", newline="", encoding="utf-8-sig") as f:      # the BOM lets Excel read Arabic and Coptic
         w = csv.writer(f)
         w.writerow(COLUMNS)
@@ -86,8 +111,8 @@ def export(path):
         for hid, (folder, _, info) in rows:
             t = current_titles(info)
             w.writerow([hid, folder.parent.relative_to(CONTENT).as_posix(), info.get("text", ""),
-                        (info.get("tune") or {}).get("english", ""), *(t.get(k, "") for k in LANGS),
-                        places_cell(info), info.get("order", "")])
+                        (info.get("tune") or {}).get("english", ""), info.get("kind", ""), pace.get(hid, ""),
+                        *(t.get(k, "") for k in LANGS), places_cell(info), info.get("order", ""), info.get("notes", "")])
     print(f"wrote {len(rows)} recordings to {path}")
 
 
@@ -126,6 +151,23 @@ def import_(path):
             elif tune and tune != (info.get("tune") or {}).get("english"):
                 info["tune"] = {**(info.get("tune") or {}), "english": tune}
                 notes.append(f"tune → {tune}")
+
+            kind = (row.get("kind") or "").strip().lower()
+            if kind == "-":
+                info.pop("kind", None)
+            elif kind and kind != info.get("kind"):
+                if kind in KINDS:
+                    info["kind"] = kind
+                    notes.append(f"kind → {kind}")
+                else:
+                    print(f"  {hid}: kind {kind!r} is not recital or melismatic, left as it was")
+
+            note = (row.get("notes") or "").strip()
+            if note == "-":
+                info.pop("notes", None)
+            elif note and note != info.get("notes"):
+                info["notes"] = note
+                notes.append("notes updated")
 
             cell = (row.get("places") or "").strip()
             if cell == "-":

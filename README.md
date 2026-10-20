@@ -4,7 +4,7 @@ The hymns for copticchanter.com and the Coptic Chanter app. A push to `main` pub
 
 ## Fixing a hymn's titles or places
 
-Titles (English, Coptic, Arabic), tune names and where each hymn appears in the app are kept in each hymn's `info.json`. Edit them all at once as a spreadsheet:
+Titles (English, Coptic, Arabic), tune names, where each hymn appears in the app and in what order, its kind (recital or melismatic) and your notes are kept in each hymn's `info.json`. Edit them all at once as a spreadsheet:
 
 1. **Export** every hymn to a sheet:
    ```
@@ -14,6 +14,8 @@ Titles (English, Coptic, Arabic), tune names and where each hymn appears in the 
    - **Titles:** edit them on the hymn's own row. A row whose `text` column names another hymn is another tune of it: its titles come from that hymn, so only its `tune` name is edited there (e.g. "St. Gregory Liturgy").
    - **places:** separated by `;`, e.g. `annual/liturgy; holy-week/hymns`. The names are collection/section as in `catalog/library.json` (`annual`, `kiahk`, `great-lent`, `praises/midnight`, `holy-week/hymns`, …). `annual/liturgy@30` puts it at position 30 in that place only.
    - **order:** the position in its places, lower first; use steps of 10 so hymns can go in between.
+   - **kind:** `recital` (quick, about a syllable to a note: good for the words lighting up as they're sung) or `melismatic` (long notes on few words: better learned with a score or hand-made marks, under the season's "Hymns with notation"). **pace** next to it (not editable) is how many Coptic words a minute the recording sings: under 10 is melismatic, 25 and over recital.
+   - **notes:** your notes on the hymn or its words. They are kept in the hymn's `info.json` (this repo is public) and aren't shown in the app yet.
    - An empty cell is left as it is; to clear one, write a single `-`.
 3. **Import** it (it lists each change, and refuses places that are not in the library):
    ```
@@ -37,6 +39,10 @@ A score (PDF) can follow the recording a hymn already has, so no second audio fi
 3. Save that audio file on the iPad, open Mark Sync (copticchanter.com/mark-sync.html) with the PDF and the audio, and tap along: on the syllable you hear, where it is on the score; at least one mark per line, and a few more in long melismas.
 4. Press **Export taps** (not the backup) and save the `.taps.json` in the same iCloud folder.
 5. Claude puts the marks in `notation.json`, removes `"draft"`, tests it, and pushes.
+
+## Order of the Midnight Praises
+
+The Sunday Midnight Praises follow the Coptic Reader: a hymn's `order` is its number there × 10 (Tennav, number 3, is 30). A Mahragan version sits just after the hymn it goes with (Ten Thinou 25, after Ten Theeno 20), and the Theotokia parts still to add have their numbers kept free: (2)–(6) 180–220, (9) 260, (11)–(15) 280–320, (17) 340, (18) 350.
 
 ## Where things are
 

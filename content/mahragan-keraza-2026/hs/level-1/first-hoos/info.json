@@ -1,6 +1,8 @@
 {
   "title": "First Hoos",
-  "places": ["praises/midnight"],
+  "places": [
+    "praises/midnight"
+  ],
   "order": 40,
   "kind": "recital",
   "youtube": "https://www.youtube.com/watch?v=Crxk4NGE3T4"

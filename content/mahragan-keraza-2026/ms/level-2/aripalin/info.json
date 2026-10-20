@@ -1,7 +1,9 @@
 {
   "title": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
-  "places": ["praises/midnight"],
-  "order": 100,
+  "places": [
+    "praises/midnight"
+  ],
+  "order": 90,
   "kind": "recital",
   "youtube": "https://www.youtube.com/watch?v=wB1ygqD98WY",
   "antiphonalGroup": 2,
