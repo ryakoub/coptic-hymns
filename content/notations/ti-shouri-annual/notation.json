@@ -1,0 +1,25 @@
+{
+  "draft": true,
+  "titles": {
+    "english": "Ti Shouri (The Golden Censer)",
+    "arabic": "لحن تي شوري (المجمرة الذهب)",
+    "coptic": "Ϯϣⲟⲩⲣⲏ"
+  },
+  "kind": "score",
+  "credit": "Music transcription: Fr. Abraam Guirguis",
+  "places": [
+    "annual"
+  ],
+  "pdf": "notation.pdf",
+  "cursor": {
+    "size": 0.064,
+    "toLineEnd": true
+  },
+  "recordings": [
+    {
+      "name": "Ti Shouri, annual",
+      "recording": "censer-annual",
+      "points": []
+    }
+  ]
+}

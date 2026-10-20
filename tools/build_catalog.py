@@ -28,6 +28,7 @@ come first in their order, then the rest alphabetically, all after any listed in
 Usage:
   python3 tools/build_catalog.py            # write the catalog and print a report
   python3 tools/build_catalog.py --check    # report only, exit 1 on errors
+  python3 tools/build_catalog.py --drafts   # include hymns with notation marked "draft" (to try them locally)
 """
 import argparse, datetime, hashlib, json, re, shutil, subprocess, sys
 from pathlib import Path
@@ -243,7 +244,9 @@ class Build:
         """Hymns with notation: content/notations/<id>/notation.json names a PDF (a score or hand-made marks),
         its recordings with the cursor's marks ([seconds, page from 1, x, y], x and y as fractions of the page),
         and "places": the collections listing it ("annual", or "annual/liturgy"). Each collection gets
-        "notations": [ids]."""
+        "notations": [ids]. A recording names its own "audio" file in the folder, or "recording": a hymn's
+        recording id, to follow that recording's audio without another copy of it. "draft": true keeps the
+        notation out of the catalog (until it is marked) unless the build is run with --drafts."""
         collections = {c["id"]: c for g in library["groups"] for c in g["collections"]}
         out = []
         for path in sorted((CONTENT / "notations").glob("*/notation.json")):
@@ -253,6 +256,9 @@ class Build:
             except json.JSONDecodeError as e:
                 self.error(nid, f"notation.json: {e}")
                 continue
+            if n.get("draft") and not getattr(self, "drafts", False):
+                self.warn(nid, "draft: left out of the catalog")
+                continue
             pdf = folder / n.get("pdf", "notation.pdf")
             if not pdf.exists():
                 self.error(nid, f"no PDF {pdf.name}")
@@ -260,16 +266,25 @@ class Build:
             ref = lambda f, role: {"url": f.relative_to(ROOT).as_posix(), "role": role, "bytes": f.stat().st_size, "sha256": sha256_file(f)}
             recs = []
             for i, r in enumerate(n.get("recordings", []), 1):
-                audio = folder / r.get("audio", "")
-                if not r.get("audio") or not audio.exists():
-                    self.error(nid, f"recording {i}: no audio file {r.get('audio')!r}")
-                    continue
+                if r.get("recording"):
+                    # The audio of a hymn's recording, the same file the hymn plays.
+                    hymn_audio = (self.recordings.get(r["recording"]) or {}).get("_audio")
+                    audio_ref = ref(hymn_audio, "audio") if hymn_audio else None
+                    if not audio_ref:
+                        self.error(nid, f"recording {i}: no hymn recording {r['recording']!r} with audio")
+                        continue
+                else:
+                    audio = folder / r.get("audio", "")
+                    if not r.get("audio") or not audio.exists():
+                        self.error(nid, f"recording {i}: no audio file {r.get('audio')!r}")
+                        continue
+                    audio_ref = ref(audio, "audio")
                 points = sorted(r.get("points", []))
                 if any(len(p) != 4 or p[1] < 1 for p in points):
                     self.error(nid, f"recording {i}: marks are [seconds, page from 1, x, y]")
                     continue
                 recs.append({"id": f"{nid}-{i}", "name": r.get("name") or f"Recording {i}",
-                             **({"cantor": r["cantor"]} if r.get("cantor") else {}), "audio": ref(audio, "audio"), "points": points})
+                             **({"cantor": r["cantor"]} if r.get("cantor") else {}), "audio": audio_ref, "points": points})
             entry = {"id": nid, "titles": n.get("titles", {}), "kind": n.get("kind", "score"), "pdf": ref(pdf, "pdf"),
                      "recordings": recs, **({"credit": n["credit"]} if n.get("credit") else {}),
                      **({"cursor": n["cursor"]} if n.get("cursor") else {})}
@@ -350,9 +365,11 @@ class Build:
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--check", action="store_true", help="report only; do not write the catalog")
+    ap.add_argument("--drafts", action="store_true", help='include hymns with notation marked "draft"')
     args = ap.parse_args()
 
     b = Build()
+    b.drafts = args.drafts
     folders = sorted({p.parent for p in CONTENT.rglob("lyrics.json")}, key=lambda p: p.name)
     seen, parsed = {}, []
     for folder in folders:
