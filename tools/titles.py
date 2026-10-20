@@ -18,6 +18,8 @@ One row per recording (a hymn folder). Columns:
               (collection/section, as in catalog/library.json; "praises/midnight" is short for "praises/midnight-praises").
               "annual/liturgy@30" puts it at position 30 in that place only.
   order       its position in its places, lower first (steps of 10 leave room in between)
+  group       its sub-folder within its places, e.g. "Hoos" or "Hoos | الهوسات" (English | Arabic); hymns with the same
+              group are shown together, in the order of the first of them
   notes       your notes on the hymn and its words (kept in info.json "notes", not shown in the app yet)
 Open the file in Numbers or Excel, change any cells, and export it as CSV again (UTF-8). Empty cells are left as
 they are; to clear one, write a single "-". Places that are not in the library are reported and not written.
@@ -29,7 +31,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 LANGS = ("english", "coptic", "arabic")
-COLUMNS = ["id", "where", "text", "tune", "kind", "pace", *LANGS, "places", "order", "notes"]
+COLUMNS = ["id", "where", "text", "tune", "kind", "pace", *LANGS, "places", "order", "group", "notes"]
 KINDS = ("recital", "melismatic")
 
 
@@ -51,6 +53,15 @@ def current_titles(info):
         coptic = any("Ⲁ" <= ch <= "⳿" or "Ϣ" <= ch <= "ϯ" for ch in legacy)
         titles.setdefault("coptic" if coptic else "english", legacy)
     return titles
+
+
+def group_cell(info):
+    g = info.get("group")
+    if not g:
+        return ""
+    if isinstance(g, str):
+        return g
+    return " | ".join(v for v in (g.get("english"), g.get("arabic")) if v)
 
 
 def places_cell(info):
@@ -112,7 +123,7 @@ def export(path):
             t = current_titles(info)
             w.writerow([hid, folder.parent.relative_to(CONTENT).as_posix(), info.get("text", ""),
                         (info.get("tune") or {}).get("english", ""), info.get("kind", ""), pace.get(hid, ""),
-                        *(t.get(k, "") for k in LANGS), places_cell(info), info.get("order", ""), info.get("notes", "")])
+                        *(t.get(k, "") for k in LANGS), places_cell(info), info.get("order", ""), group_cell(info), info.get("notes", "")])
     print(f"wrote {len(rows)} recordings to {path}")
 
 
@@ -161,6 +172,14 @@ def import_(path):
                     notes.append(f"kind → {kind}")
                 else:
                     print(f"  {hid}: kind {kind!r} is not recital or melismatic, left as it was")
+
+            group = (row.get("group") or "").strip()
+            if group == "-":
+                info.pop("group", None)
+            elif group and group != group_cell(info):
+                english, _, arabic = (x.strip() for x in group.partition("|"))
+                info["group"] = {k: v for k, v in (("english", english), ("arabic", arabic)) if v}
+                notes.append(f"group → {group}")
 
             note = (row.get("notes") or "").strip()
             if note == "-":

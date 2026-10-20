@@ -15,6 +15,7 @@ Titles (English, Coptic, Arabic), tune names, where each hymn appears in the app
    - **places:** separated by `;`, e.g. `annual/liturgy; holy-week/hymns`. The names are collection/section as in `catalog/library.json` (`annual`, `kiahk`, `great-lent`, `praises/midnight`, `holy-week/hymns`, …). `annual/liturgy@30` puts it at position 30 in that place only.
    - **order:** the position in its places, lower first; use steps of 10 so hymns can go in between.
    - **kind:** `recital` (quick, about a syllable to a note: good for the words lighting up as they're sung) or `melismatic` (long notes on few words: better learned with a score or hand-made marks, under the season's "Hymns with notation"). **pace** next to it (not editable) is how many Coptic words a minute the recording sings: under 10 is melismatic, 25 and over recital.
+   - **group:** a sub-folder within its places, e.g. `Hoos | الهوسات` (English | Arabic). Hymns with the same group are shown together, in the order of the first of them; write the name the same way on each. It applies to the places in the hymn's own `places`, not to programs like the Mahragan that list it. The app shows the sub-folders from its next update; until then they don't change anything.
    - **notes:** your notes on the hymn or its words. They are kept in the hymn's `info.json` (this repo is public) and aren't shown in the app yet.
    - An empty cell is left as it is; to clear one, write a single `-`.
 3. **Import** it (it lists each change, and refuses places that are not in the library):

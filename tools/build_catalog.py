@@ -132,6 +132,7 @@ class Build:
         self.timings = {}      # recording id -> timing document
         self.out_files = {}    # relative path under catalog/v1 -> bytes
         self.places = {}       # recording id -> ["collection/section", …] from its info.json
+        self.group_of = {}     # recording id -> {"english": …, "arabic": …}, its sub-folder in its sections
 
     def warn(self, rid, msg): self.problems.append(("warn", rid, msg))
     def error(self, rid, msg): self.problems.append(("error", rid, msg))
@@ -234,6 +235,9 @@ class Build:
         if audio:
             entry["_audio"] = audio
         self.places[rid] = (info.get("places", []), info.get("order"))
+        if info.get("group"):
+            g = info["group"]
+            self.group_of[rid] = {"english": g} if isinstance(g, str) else g
         self.recordings[rid] = entry
 
     def file(self, rel, data):
@@ -308,6 +312,7 @@ class Build:
                 for s in c.get("sections", []):
                     sections[f"{c['id']}/{s.get('service') or s.get('id')}"] = s
         placed = {}   # section id -> [(order, title, recording)]
+        in_places = {}   # recording id -> the sections its own "places" put it in (its group applies there)
         for rid, (places, default_order) in self.places.items():
             for place in places:
                 order = default_order
@@ -320,6 +325,7 @@ class Build:
                 s = sections.get(place) or self.short_place(place, sections, rid)
                 if s is None:
                     continue
+                in_places.setdefault(rid, set()).add(id(s))
                 listed = [e if isinstance(e, str) else e.get("recording") for e in s["entries"]]
                 if rid not in listed:
                     title = self.texts.get(self.recordings[rid]["text"], {}).get("titles", {})
@@ -328,6 +334,24 @@ class Build:
         # Numbered hymns in their order, then the rest alphabetically, after those listed in library.json.
         for s, items in placed.values():
             s["entries"].extend(rid for _, _, rid in sorted(items))
+        # Sub-folders of a section (info.json "group"), in the order their first hymn comes. The section keeps its
+        # whole list in "entries", so an app that doesn't know about groups shows it as before.
+        for s in sections.values():
+            groups, by = [], {}
+            for e in s["entries"]:
+                rid = e if isinstance(e, str) else e.get("recording")
+                g = self.group_of.get(rid)
+                if not g or id(s) not in in_places.get(rid, ()):
+                    continue
+                key = g.get("english") or g.get("arabic") or ""
+                if key not in by:
+                    gid = re.sub(r"[^a-z0-9]+", "-", key.lower()).strip("-") or f"group-{len(groups) + 1}"
+                    by[key] = {"id": gid, "titles": {k: v for k, v in g.items() if k in ("english", "arabic", "coptic") and v},
+                               "recordings": []}
+                    groups.append(by[key])
+                by[key]["recordings"].append(rid)
+            if groups:
+                s["groups"] = groups
 
     def short_place(self, place, sections, rid):
         """Accept an unambiguous short form: "praises/midnight" for "praises/midnight-praises"."""
