@@ -16,22 +16,25 @@ const syncOffsetMs = rawSyncOffset !== null ? Number(rawSyncOffset) : browserOff
 const syncOffsetSec = syncOffsetMs / 1000;
 const syncDebugBuild = "20260413j";
 
-async function pickPreferredAudioUrl(primaryUrl) {
-if (typeof primaryUrl !== "string" || !primaryUrl.includes("audio.mp3")) {
-return primaryUrl;
-}
+// The hymn's audio file: info.json's "audio" when given, otherwise the first of these that exists
+// (same order as the app's catalog: the seek-friendly m4a, a plain m4a, then an older mp3).
+const AUDIO_FILES = ["audio.seek.m4a", "audio.m4a", "audio.mp3"];
 
-const seekUrl = primaryUrl.replace("audio.mp3", "audio.seek.m4a");
+async function pickPreferredAudioUrl(base, given) {
+if (typeof given === "string" && given) {
+return given;
+}
+for (const name of AUDIO_FILES) {
 try {
-const res = await fetch(seekUrl, { method: "HEAD" });
+const res = await fetch(`${base}/${name}`, { method: "HEAD" });
 if (res.ok) {
-return seekUrl;
+return `${base}/${name}`;
 }
 } catch (_) {
-// Fallback to original URL when the seek-friendly file is missing.
+// Try the next file.
 }
-
-return primaryUrl;
+}
+return `${base}/${AUDIO_FILES[AUDIO_FILES.length - 1]}`;
 }
 
 // Show group and level subtitle
@@ -418,13 +421,12 @@ new ResizeObserver(updateAudioBarOffset).observe(nav);
 new ResizeObserver(updateAudioBarOffset).observe(audioNav);
 }
 
-audio.src = `${base}/audio.mp3`;
-
 fetch(`${base}/info.json`)
 .then(r=>r.json())
 .then(async info=>{
-document.getElementById("title").innerText = info.title;
-document.title = `${info.title} | Coptic Chanter`;
+const hymnTitle = info.title || info.titles?.english || hymn;
+document.getElementById("title").innerText = hymnTitle;
+document.title = `${hymnTitle} | Coptic Chanter`;
 document.getElementById("youtubeLink").href = info.youtube;
 const sheetMusicWrap = document.getElementById("sheetMusicLinkWrap");
 const sheetMusicLink = document.getElementById("sheetMusicLink");
@@ -434,8 +436,7 @@ sheetMusicWrap.removeAttribute("hidden");
 } else {
 sheetMusicWrap.setAttribute("hidden", "");
 }
-const source = info.audio || `${base}/audio.mp3`;
-audio.src = await pickPreferredAudioUrl(source);
+audio.src = await pickPreferredAudioUrl(base, info.audio);
 setSyncDebug(`audio\nsource=${audio.src.split("/").pop()}`);
 
 const antiphonalGroup = info.antiphonalGroup || 1;
