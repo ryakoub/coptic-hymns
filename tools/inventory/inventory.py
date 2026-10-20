@@ -52,7 +52,8 @@ for key, vids in groups.items():
     c = info[key]
     vids.sort(key=recency, reverse=True)
     best = next((v for v in vids if playable(v)), vids[0])
-    in_app = c['existing'] if c['existing'] in existing else None
+    # in the app: the folder the rule names, or one named after the hymn (added from this inventory)
+    in_app = c['existing'] if c['existing'] in existing else key if key in existing else None
     video = dict(id=best['id'], url=f"https://www.youtube.com/watch?v={best['id']}", title=best['title'], year=best['year'],
                  stage=best['stage'], level=best['level'], uploaded=best['date'], duration=best['duration'], playable=playable(best))
     if not playable(best) and key in FALLBACKS:

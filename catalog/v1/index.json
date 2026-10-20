@@ -1,6 +1,6 @@
 {
- "version": "6fb291977cc67fcb",
- "updated": "2026-10-20T00:23:43Z",
+ "version": "7e97bffd442cfc8e",
+ "updated": "2026-10-20T02:07:44Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -52,6 +52,8 @@
       {
        "service": "raising-of-incense",
        "entries": [
+        "gospel-response-matins-annual",
+        "gospel-response-vespers-annual",
         "hetenyat-annual",
         "concluding-canon-annual",
         "doxology-archangel-michael",
@@ -62,11 +64,7 @@
         "kyrie-eleison-major",
         "doxology-john-baptist-2",
         "st-mark-doxology-first-one",
-        "ten-oosht-evol-vespers-matins",
-        "censer-annual",
-        "ti-shouri-major",
-        "gospel-response-matins-annual",
-        "gospel-response-vespers-annual"
+        "ten-oosht-evol-vespers-matins"
        ]
       },
       {
@@ -97,6 +95,7 @@
         "tai-shouri",
         "ten-oosht-evol-basil",
         "ten-oosht-evol-gregory",
+        "censer-annual",
         "hymn-of-the-blessing",
         "the-thought-of-man",
         "this-is-the-day",
@@ -934,7 +933,8 @@
         "ethbe-ti-anastasis",
         "ou-katikisis",
         "ke-ypertou",
-        "fai-etafenf"
+        "fai-etafenf",
+        "ti-shouri-major"
        ]
       }
      ]
@@ -2424,9 +2424,9 @@
   {
    "id": "gospel-response-vespers-annual",
    "titles": {
-    "english": "Vespers Gospel Response (annual)",
+    "english": "Annual Gospel Response (Vespers and Matins)",
     "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ",
-    "arabic": "مرد إنجيل رفع بخور عشية السنوي"
+    "arabic": "مرد الإنجيل السنوي (عشية وباكر)"
    },
    "tags": [],
    "pending": false,
@@ -2444,8 +2444,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-response-vespers-annual.json",
-    "bytes": 5111,
-    "sha256": "681b91040c2575d6390586348eebb3d6ece51b50c0b1736d6f4ffe4550db7088"
+    "bytes": 5123,
+    "sha256": "5f4a7b456da7ab5d3544c17598377b9534ee109f6f7f44b4b94076e037ac4bbe"
    }
   },
   {
@@ -3590,8 +3590,8 @@
   {
    "id": "ten-oosht-evol-basil",
    "titles": {
-    "english": "Ten Oosht Evol response, St. Basil Liturgy",
-    "arabic": "مرد تين جوشت إيفول للقداس الباسيلي"
+    "english": "Ten Goosht Evol response",
+    "arabic": "مرد تين جوشت إيفول"
    },
    "tags": [],
    "pending": false,
@@ -3610,8 +3610,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-oosht-evol-basil.json",
-    "bytes": 1188,
-    "sha256": "d51de0fdd6b67a4b95e5b27c946344234c1175df3e42a49e4257a4c93b1440c0"
+    "bytes": 1140,
+    "sha256": "0cf9eec736ba24367e99c2491227a21d47f10ec03de5e047453665be86b4fa68"
    }
   },
   {

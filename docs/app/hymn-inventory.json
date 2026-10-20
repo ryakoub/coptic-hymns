@@ -101,8 +101,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "alleluia-offertory",
   "note": "the website has its notation (score-sync-library/alleluia-offertory)",
   "video": {
    "id": "eK2o0fFxlUU",
@@ -137,8 +137,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "amen-ton-thanaton",
   "note": "",
   "video": {
    "id": "T3ywO9kj6Ck",
@@ -173,8 +173,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "aspasmos-adam-annual",
   "note": "",
   "video": {
    "id": "NQx-vLB1r10",
@@ -202,8 +202,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "aspasmos-watos-annual",
   "note": "",
   "video": {
    "id": "tw-HRF4We70",
@@ -231,8 +231,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "distribution-alleluia-annual",
   "note": "",
   "video": {
    "id": "OA5AUcE20mY",
@@ -267,8 +267,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "distribution-annual-psalm-150",
   "note": "",
   "video": {
    "id": "LwC3t6WzFd0",
@@ -332,8 +332,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "praxis-response-annual-major",
   "note": "",
   "video": {
    "id": "G_FW2slQdfg",
@@ -368,8 +368,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "os-ein-response",
   "note": "",
   "video": {
    "id": "m5S7daNdUQc",
@@ -404,8 +404,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "eleison-imas-je-nai-nan",
   "note": "",
   "video": {
    "id": "2r3OzfVD1nQ",
@@ -535,8 +535,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "je-nai-nan",
   "note": "",
   "video": {
    "id": "u0vaygdZyoE",
@@ -737,8 +737,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "pi-ehmot-ghar-small",
   "note": "",
   "video": {
    "id": "BtWccQma1NQ",
@@ -843,8 +843,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "reconciliation-response-basil",
   "note": "",
   "video": {
    "id": "2Qz4ONEmdQE",
@@ -920,8 +920,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "cherubim-response",
   "note": "",
   "video": {
    "id": "o1_JdUm4lAc",
@@ -1046,8 +1046,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "sotees-ameen-major",
   "note": "",
   "video": {
    "id": "O0iFDsaPRLM",
@@ -1082,8 +1082,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "tai-shouri",
   "note": "the official 2026 video is damaged; another copy of the same hymn",
   "video": {
    "id": "Wj4Ar8LPDoQ",
@@ -1102,8 +1102,8 @@
  },
  {
   "key": "ten-oosht-evol-basil",
-  "english": "Ten Oosht Evol response, St. Basil Liturgy",
-  "arabic": "مرد تين جوشت إيفول للقداس الباسيلي",
+  "english": "Ten Goosht Evol response",
+  "arabic": "مرد تين جوشت إيفول",
   "places": [
    {
     "collection": "annual",
@@ -1112,8 +1112,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "ten-oosht-evol-basil",
   "note": "",
   "video": {
    "id": "TFdhGe604Qc",
@@ -1138,7 +1138,7 @@
  },
  {
   "key": "ten-oosht-evol-gregory",
-  "english": "Ten Oosht Evol response, St. Gregory Liturgy",
+  "english": "Ten Goosht Evol response, St. Gregory Liturgy",
   "arabic": "مرد تين جوشت إيفول للقداس الغريغوري",
   "places": [
    {
@@ -1148,8 +1148,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "ten-oosht-evol-gregory",
   "note": "",
   "video": {
    "id": "ClsklKxm630",
@@ -1173,6 +1173,66 @@
   ]
  },
  {
+  "key": "censer-annual",
+  "english": "Ti Shouri (the golden censer), annual",
+  "arabic": "لحن تي شوري السنوي",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "censer-annual",
+  "note": "",
+  "video": {
+   "id": "zLsDf4hUrzM",
+   "url": "https://www.youtube.com/watch?v=zLsDf4hUrzM",
+   "title": "لحن تي شوري السنوى- مرحلة ثالثة ورابعة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "grades-3-4",
+   "level": "1",
+   "uploaded": "20260418",
+   "duration": 126,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "jUEZOT29aX4",
+    "year": 2025,
+    "stage": "simeon-elders",
+    "level": "2"
+   },
+   {
+    "id": "udJ9lIL4YP8",
+    "year": 2024,
+    "stage": "kg",
+    "level": "gifted"
+   },
+   {
+    "id": "ZUKfdWFfTA8",
+    "year": 2024,
+    "stage": "grades-3-4",
+    "level": "2"
+   },
+   {
+    "id": "KUQUwKogE9s",
+    "year": 2024,
+    "stage": "cana-family",
+    "level": "2"
+   },
+   {
+    "id": "T5LbO0YRPHc",
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "1"
+   }
+  ]
+ },
+ {
   "key": "agios-annual",
   "english": "Trisagion (annual)",
   "arabic": "الثلاث تقديسات السنوي",
@@ -1184,8 +1244,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "agios-annual",
   "note": "",
   "video": {
    "id": "oXB8Mtb0iEA",
@@ -1215,6 +1275,48 @@
   ]
  },
  {
+  "key": "gospel-response-vespers-annual",
+  "english": "Annual Gospel Response (Vespers and Matins)",
+  "arabic": "مرد الإنجيل السنوي (عشية وباكر)",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Raising of Incense",
+    "arabic": "السنوي · رفع البخور",
+    "id": "annual/raising-of-incense"
+   }
+  ],
+  "status": "in app",
+  "app_id": "gospel-response-vespers-annual",
+  "note": "",
+  "video": {
+   "id": "np_DWSwzRJo",
+   "url": "https://www.youtube.com/watch?v=np_DWSwzRJo",
+   "title": "لحن مرد إنجيل رفع بخور عشية السنوي-مرحلة حضانة - المستوى الأول - مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "1",
+   "uploaded": "20260415",
+   "duration": 79,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "h_8X9aVsqtg",
+    "year": 2024,
+    "stage": "kg",
+    "level": "1"
+   },
+   {
+    "id": "Vg80_lDnN7M",
+    "year": 2022,
+    "stage": "kg",
+    "level": "1"
+   }
+  ]
+ },
+ {
   "key": "hetenyat-annual",
   "english": "Annual Hetenyat (intercessions)",
   "arabic": "الهيتنيات السنوي",
@@ -1226,8 +1328,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "hetenyat-annual",
   "note": "",
   "video": {
    "id": "9Qk_Q1g-7Q8",
@@ -1303,8 +1405,8 @@
     "id": "annual/liturgy"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "concluding-canon-annual",
   "note": "",
   "video": {
    "id": "DPLZ9fyQxow",
@@ -1339,8 +1441,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "doxology-archangel-michael",
   "note": "",
   "video": {
    "id": "EEJM7reUfwA",
@@ -1487,8 +1589,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "doxology-john-baptist-1",
   "note": "",
   "video": {
    "id": "vjrHui5z_I0",
@@ -1571,8 +1673,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "kyrie-eleison-major",
   "note": "sung on many occasions",
   "video": {
    "id": "-HFXg7KhSlI",
@@ -1600,8 +1702,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "gospel-response-matins-annual",
   "note": "",
   "video": {
    "id": "hYn4Oi-EpJQ",
@@ -1636,8 +1738,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "doxology-john-baptist-2",
   "note": "",
   "video": {
    "id": "urJ1fMlibnY",
@@ -1655,7 +1757,7 @@
  },
  {
   "key": "ten-oosht-evol-vespers-matins",
-  "english": "Ten Oosht Evol response, Vespers and Matins",
+  "english": "Ten Goosht Evol response, Vespers and Matins",
   "arabic": "مرد تين جوشت إيفول عشية وباكر",
   "places": [
    {
@@ -1665,8 +1767,8 @@
     "id": "annual/raising-of-incense"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "ten-oosht-evol-vespers-matins",
   "note": "",
   "video": {
    "id": "2ILrPC8vnHA",
@@ -1683,137 +1785,6 @@
   "other_versions": []
  },
  {
-  "key": "ti-shouri-major",
-  "english": "Ti Shouri (long)",
-  "arabic": "لحن تي شوري الكبيرة",
-  "places": [
-   {
-    "collection": "annual",
-    "english": "Annual · Raising of Incense",
-    "arabic": "السنوي · رفع البخور",
-    "id": "annual/raising-of-incense"
-   }
-  ],
-  "status": "new",
-  "app_id": null,
-  "note": "",
-  "video": {
-   "id": "3IM1pr4MbuE",
-   "url": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
-   "title": "لحن تى شورى الكبيرة- الحان المرحلة الإعدادية - مستوى تميز جماعى - مهرجان الكرازة المرقسية 2025",
-   "year": 2025,
-   "stage": "ms",
-   "level": "gifted",
-   "uploaded": "20250221",
-   "duration": 434,
-   "playable": true
-  },
-  "newest_unplayable": [],
-  "other_versions": []
- },
- {
-  "key": "censer-annual",
-  "english": "Ti Shouri (the golden censer), annual",
-  "arabic": "لحن تي شوري السنوي",
-  "places": [
-   {
-    "collection": "annual",
-    "english": "Annual · Raising of Incense",
-    "arabic": "السنوي · رفع البخور",
-    "id": "annual/raising-of-incense"
-   }
-  ],
-  "status": "in app",
-  "app_id": "censer-annual",
-  "note": "",
-  "video": {
-   "id": "zLsDf4hUrzM",
-   "url": "https://www.youtube.com/watch?v=zLsDf4hUrzM",
-   "title": "لحن تي شوري السنوى- مرحلة ثالثة ورابعة ابتدائى-المستوى الأول-مهرجان الكرازة المرقسية 2026",
-   "year": 2026,
-   "stage": "grades-3-4",
-   "level": "1",
-   "uploaded": "20260418",
-   "duration": 126,
-   "playable": true
-  },
-  "newest_unplayable": [],
-  "other_versions": [
-   {
-    "id": "jUEZOT29aX4",
-    "year": 2025,
-    "stage": "simeon-elders",
-    "level": "2"
-   },
-   {
-    "id": "udJ9lIL4YP8",
-    "year": 2024,
-    "stage": "kg",
-    "level": "gifted"
-   },
-   {
-    "id": "ZUKfdWFfTA8",
-    "year": 2024,
-    "stage": "grades-3-4",
-    "level": "2"
-   },
-   {
-    "id": "KUQUwKogE9s",
-    "year": 2024,
-    "stage": "cana-family",
-    "level": "2"
-   },
-   {
-    "id": "T5LbO0YRPHc",
-    "year": 2022,
-    "stage": "grades-3-4",
-    "level": "1"
-   }
-  ]
- },
- {
-  "key": "gospel-response-vespers-annual",
-  "english": "Vespers Gospel Response (annual)",
-  "arabic": "مرد إنجيل رفع بخور عشية السنوي",
-  "places": [
-   {
-    "collection": "annual",
-    "english": "Annual · Raising of Incense",
-    "arabic": "السنوي · رفع البخور",
-    "id": "annual/raising-of-incense"
-   }
-  ],
-  "status": "new",
-  "app_id": null,
-  "note": "",
-  "video": {
-   "id": "np_DWSwzRJo",
-   "url": "https://www.youtube.com/watch?v=np_DWSwzRJo",
-   "title": "لحن مرد إنجيل رفع بخور عشية السنوي-مرحلة حضانة - المستوى الأول - مهرجان الكرازة المرقسية 2026",
-   "year": 2026,
-   "stage": "kg",
-   "level": "1",
-   "uploaded": "20260415",
-   "duration": 79,
-   "playable": true
-  },
-  "newest_unplayable": [],
-  "other_versions": [
-   {
-    "id": "h_8X9aVsqtg",
-    "year": 2024,
-    "stage": "kg",
-    "level": "1"
-   },
-   {
-    "id": "Vg80_lDnN7M",
-    "year": 2022,
-    "stage": "kg",
-    "level": "1"
-   }
-  ]
- },
- {
   "key": "aspazisti",
   "english": "Aspazisti",
   "arabic": "أسبازيستي",
@@ -1825,8 +1796,8 @@
     "id": "annual/special"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "aspazisti",
   "note": "",
   "video": {
    "id": "Ocyf-pEQDYQ",
@@ -1866,8 +1837,8 @@
     "id": "veneration/hymns"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "ti-stoli",
   "note": "",
   "video": {
    "id": "jzCkqSmljCQ",
@@ -6198,8 +6169,8 @@
     "id": "praises/midnight"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "evol-hiten-major",
   "note": "",
   "video": {
    "id": "JyfcNefBDWQ",
@@ -6253,8 +6224,8 @@
     "id": "praises/midnight"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "hos-erof",
   "note": "",
   "video": {
    "id": "iYrw8PeSnzg",
@@ -7040,8 +7011,8 @@
     "id": "praises/special"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "ti-galilee",
   "note": "",
   "video": {
    "id": "Cg2GDXczTUo",
@@ -7105,8 +7076,8 @@
     "id": "praises/vesper-praises"
    }
   ],
-  "status": "new",
-  "app_id": null,
+  "status": "in app",
+  "app_id": "ni-ethnos-tero",
   "note": "",
   "video": {
    "id": "xBOp4PqYJJQ",
@@ -7721,6 +7692,35 @@
     "level": null
    }
   ]
+ },
+ {
+  "key": "ti-shouri-major",
+  "english": "Ti Shouri (long)",
+  "arabic": "لحن تي شوري الكبيرة",
+  "places": [
+   {
+    "collection": "holy-week",
+    "english": "Holy Week · Hymns",
+    "arabic": "أسبوع الآلام · الألحان",
+    "id": "holy-week/hymns"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ti-shouri-major",
+  "note": "",
+  "video": {
+   "id": "3IM1pr4MbuE",
+   "url": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
+   "title": "لحن تى شورى الكبيرة- الحان المرحلة الإعدادية - مستوى تميز جماعى - مهرجان الكرازة المرقسية 2025",
+   "year": 2025,
+   "stage": "ms",
+   "level": "gifted",
+   "uploaded": "20250221",
+   "duration": 434,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": []
  },
  {
   "key": "ti-shouri-sorrowful-small",
