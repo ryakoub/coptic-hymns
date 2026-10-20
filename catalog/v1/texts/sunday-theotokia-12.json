@@ -1,0 +1,140 @@
+{
+ "id": "sunday-theotokia-12",
+ "titles": {
+  "english": "The Sunday Theotokia (12)",
+  "coptic": "Ⲡⲉⲱ̀ⲟⲩ Ⲙⲁⲣⲓⲁ",
+  "arabic": "ثيؤطوكية الأحد - القطعة الثانية عشر"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲡⲉⲱ̀ⲟⲩ Ⲙⲁⲣⲓⲁ: ϭⲟⲥⲓ ⲉ̀ϩⲟⲧⲉ ⲧ̀ⲫⲉ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲉ̀ⲡ̀ⲕⲁϩⲓ: ⲛⲉⲙ ⲛⲏⲉⲧϣⲟⲡ ⲛ̀ϧⲏⲧϥ.",
+   "translations": {
+    "english": "Your glory O Mary, is higher than the heaven, you are more honored than the earth, and its inhabitants.",
+    "arabic": "مجدِك يا مريم، أرفع من السماء، وأنت أكرم من الأرض، وسكانها."
+   },
+   "transliterations": {
+    "english": "Pe-oou Maria: chosi ehote etfe: tetaieeout e-epkahi: nem nee-etshop enkheetf."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲡⲉⲱ̀ⲟⲩ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϭⲟⲥⲓ ⲉ̀ϩⲟⲧⲉ ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲉ̀ⲡ̀ⲕⲁϩⲓ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲛⲏⲉⲧϣⲟⲡ ⲛ̀ϧⲏⲧϥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲧⲉ ϯⲥ̀ⲧⲣⲁⲧⲁ ⲙ̀ⲙⲏⲓ: ⲉⲧⲟⲓ ⲙ̀ⲙⲁⲙ̀ⲙⲟϣⲓ: ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀.",
+   "translations": {
+    "english": "For you are truly, the real path, leading up, to the heavens.",
+    "arabic": "لأنكِ أنتِ بالحقيقة، الطريق الحقيقي، المؤدي، إلى السموات."
+   },
+   "transliterations": {
+    "english": "Entho ghar aleethos: te ti-estrata emmee: etoi emma-emmoshi: e-epshoi enifeeoui."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ:"
+    },
+    {
+     "coptic": "ⲧⲉ ϯⲥ̀ⲧⲣⲁⲧⲁ ⲙ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲉⲧⲟⲓ ⲙ̀ⲙⲁⲙ̀ⲙⲟϣⲓ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲣⲉϯϩⲓⲱϯ: ⲙ̀ⲫ̀ⲣⲁϣⲓ ⲛⲉⲙ ⲡ̀ⲑⲉⲗⲏⲗ: ⲁ̀ⲣⲉⲙⲟⲣϯ ⲛ̀ⲟⲩϫⲟⲙ: ⲱ̀ ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲥⲓⲱⲛ.",
+   "translations": {
+    "english": "You are clothed, with joy and gladness, and girdled with power, O daughter of Zion.",
+    "arabic": "لبسِت الفرح، والتهليل، وتمنطقتِ بالقوة، يا إبنة صهيون."
+   },
+   "transliterations": {
+    "english": "Aretihioti: emefrashi nem eptheleel: aremorti enougom: o etsheri ension."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲣⲉϯϩⲓⲱϯ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲫ̀ⲣⲁϣⲓ ⲛⲉⲙ ⲡ̀ⲑⲉⲗⲏⲗ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲣⲉⲙⲟⲣϯ ⲛ̀ⲟⲩϫⲟⲙ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲥⲓⲱⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲱ̀ ⲑⲏⲉ̀ⲧⲁⲥϯϩⲓⲱⲧⲥ: ⲛ̀ⲧ̀ϩⲉⲃⲥⲱ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀: ϣⲁ ⲛ̀ⲧⲉⲥϩⲱⲃⲥ ⲛ̀Ⲁ̀ⲇⲁⲙ: ⲛ̀ⲧ̀ϩⲉⲃⲥⲱ ⲙ̀ⲡⲓϩ̀ⲙⲟⲧ.",
+   "translations": {
+    "english": "O who was clothed, with the garments of the heavenly, so that you covered Adam, with the garments of grace.",
+    "arabic": "يا مَنْ لبسِت، لباس السمائيين، حتى سترتِ آدم، بلباس النعمة."
+   },
+   "transliterations": {
+    "english": "O thee-etastihiots: enethevso enna nifeeoui: sha enteshovs enadam: enethevso empi-ehmot."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲱ̀ ⲑⲏⲉ̀ⲧⲁⲥϯϩⲓⲱⲧⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧ̀ϩⲉⲃⲥⲱ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀:"
+    },
+    {
+     "coptic": "ϣⲁ ⲛ̀ⲧⲉⲥϩⲱⲃⲥ ⲛ̀Ⲁ̀ⲇⲁⲙ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧ̀ϩⲉⲃⲥⲱ ⲙ̀ⲡⲓϩ̀ⲙⲟⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲣⲉⲧⲁⲥⲑⲟϥ ⲛ̀ⲕⲉⲥⲟⲡ: ⲉ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ: ⲡ̀ⲧⲟⲡⲟⲥ ⲙ̀ⲡ̀ⲟⲩⲛⲟϥ: ⲫ̀ⲙⲁ ⲛ̀ϣⲱⲡⲓ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ.",
+   "translations": {
+    "english": "And restored him again, to the Paradise, the rejoicing place, and dwelling of the righteous.",
+    "arabic": "ورددته مرة أخري، إلى الفردوس، موضع الفرح، ومسكن الصديقين."
+   },
+   "transliterations": {
+    "english": "Aretastof enkesop: epiparathisos: eptopos emepounof: efma enshopi ennithikeos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲣⲉⲧⲁⲥⲑⲟϥ ⲛ̀ⲕⲉⲥⲟⲡ:"
+    },
+    {
+     "coptic": "ⲉ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ:"
+    },
+    {
+     "coptic": "ⲡ̀ⲧⲟⲡⲟⲥ ⲙ̀ⲡ̀ⲟⲩⲛⲟϥ:"
+    },
+    {
+     "coptic": "ⲫ̀ⲙⲁ ⲛ̀ϣⲱⲡⲓ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ."
+    }
+   ]
+  }
+ ]
+}

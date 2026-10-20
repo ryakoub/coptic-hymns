@@ -1,6 +1,6 @@
 {
- "version": "f8c44f83ef92dbac",
- "updated": "2026-10-20T23:30:27Z",
+ "version": "af97db57fbd9671d",
+ "updated": "2026-10-20T23:58:16Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -861,21 +861,32 @@
         "doxology-virgin-midnight",
         "fourth-hoos",
         "psalm-150-4th-hoos",
-        "hos-erof",
         "first-sunday-psali",
         "second-sunday-psali",
         "leebon",
         "semoti",
+        "sunday-theotokia-2",
+        "sunday-theotokia-3",
+        "sunday-theotokia-4",
+        "sunday-theotokia-5",
+        "sunday-theotokia-6",
         "gospel-luke",
         "shere-ne-maria",
         "shashf-ensop",
+        "sunday-theotokia-9",
         "teoi-enhekanos",
         "evol-hiten-major",
+        "sunday-theotokia-11",
+        "sunday-theotokia-12",
+        "sunday-theotokia-13",
+        "sunday-theotokia-14",
         "aven-pi-arshee-erevs",
+        "sunday-theotokia-15",
         "nim-ghar",
         "adam-theotokias-conclusion",
         "conclusion-midnight-praises",
-        "concluding-litany"
+        "concluding-litany",
+        "hos-erof"
        ]
       },
       {
@@ -3560,6 +3571,292 @@
     "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
     "bytes": 2942,
     "sha256": "9642dc8cca7c97cebe5ad5b3901240397e895edf08d398765160fc8b259610ab"
+   }
+  },
+  {
+   "id": "sunday-theotokia-11",
+   "titles": {
+    "english": "The Sunday Theotokia (11)",
+    "coptic": "Ⲣⲁⲛ ⲛⲓⲃⲉⲛ ⲉⲧϭⲟⲥⲓ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الحادية عشر"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-11"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-11.json",
+    "bytes": 3985,
+    "sha256": "57a5a1e9852dd6c50e76b229e9b7377aa5d34febf361bff5255d2fb6f4d6f66a"
+   }
+  },
+  {
+   "id": "sunday-theotokia-12",
+   "titles": {
+    "english": "The Sunday Theotokia (12)",
+    "coptic": "Ⲡⲉⲱ̀ⲟⲩ Ⲙⲁⲣⲓⲁ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الثانية عشر"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-12"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-12.json",
+    "bytes": 4991,
+    "sha256": "2ae8ceeb49138d7f6669b0efc911152f70f5f4442324481a95e6ea665cc7516e"
+   }
+  },
+  {
+   "id": "sunday-theotokia-13",
+   "titles": {
+    "english": "The Sunday Theotokia (13)",
+    "coptic": "Ⲟⲩⲥ̀ⲕⲏⲛⲏ ⲙ̀ⲙⲏⲓ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الثالثة عشر"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 7,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-13"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-13.json",
+    "bytes": 7217,
+    "sha256": "8c4df0e292f41cf4906ae9479ef2d45bd0f12adcf3fe334e7df73c712391bbe4"
+   }
+  },
+  {
+   "id": "sunday-theotokia-14",
+   "titles": {
+    "english": "The Sunday Theotokia (14)",
+    "coptic": "Ⲁⲕⲥⲟⲗⲥⲉⲗ ⲛ̀ⲛⲉⲛⲯⲩⲭⲏ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الرابعة عشر"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 14,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-14"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-14.json",
+    "bytes": 13923,
+    "sha256": "9b4f15e87bf90e934ce750ee6c800cbd5ddd1e048ae5a1f4b2e8ab8b92178c2c"
+   }
+  },
+  {
+   "id": "sunday-theotokia-15",
+   "titles": {
+    "english": "The Sunday Theotokia (15)",
+    "coptic": "Ⲛⲓⲙ ⲡⲉⲑⲛⲁϣ̀ⲥⲁϫⲓ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الخامسة عشر"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 18,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-15"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-15.json",
+    "bytes": 17518,
+    "sha256": "3fa5d6d4fff0f2679b132ea5e512f67774e369c346730f358280dfcedc359ebe"
+   }
+  },
+  {
+   "id": "sunday-theotokia-2",
+   "titles": {
+    "english": "The Sunday Theotokia (2)",
+    "coptic": "Ϯⲕⲓⲃⲱⲧⲟⲥ ⲉⲧⲟϣϫ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الثانية"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 15,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-2"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-2.json",
+    "bytes": 14418,
+    "sha256": "74e4352229b20fcf754e1168de3c245d44b088a629a1440194c0c177efd98749"
+   }
+  },
+  {
+   "id": "sunday-theotokia-3",
+   "titles": {
+    "english": "The Sunday Theotokia (3)",
+    "coptic": "Ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الثالثة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-3"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-3.json",
+    "bytes": 11395,
+    "sha256": "cacf7b1f3238876a22382751a1cee43e497aa3784cfc079cce71a0d24760cff9"
+   }
+  },
+  {
+   "id": "sunday-theotokia-4",
+   "titles": {
+    "english": "The Sunday Theotokia (4)",
+    "coptic": "Ⲛ̀ⲑⲟ ⲡⲉ ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الرابعة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-4"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-4.json",
+    "bytes": 11600,
+    "sha256": "bb16804edb7531a8f4b543b7b57f2465dfeffa4951131937a98a1065a2d41c33"
+   }
+  },
+  {
+   "id": "sunday-theotokia-5",
+   "titles": {
+    "english": "The Sunday Theotokia (5)",
+    "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲗⲩⲭⲛⲓⲁ",
+    "arabic": "ثيؤطوكية الأحد - القطعة الخامسة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 15,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-5"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-5.json",
+    "bytes": 14889,
+    "sha256": "81624f3a109000ebcc30638b452ab936fa74865ea306dcb90905b18e84040f2d"
+   }
+  },
+  {
+   "id": "sunday-theotokia-6",
+   "titles": {
+    "english": "The Sunday Theotokia (6)",
+    "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯϣⲟⲩⲣⲏ",
+    "arabic": "ثيؤطوكية الأحد - القطعة السادسة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 13,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-6"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-6.json",
+    "bytes": 12715,
+    "sha256": "2dfb6488c4e038063502662267a6e57f21088e938e80933013d3fdc1c6647095"
+   }
+  },
+  {
+   "id": "sunday-theotokia-9",
+   "titles": {
+    "english": "The Sunday Theotokia (9)",
+    "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀ⲣⲟ",
+    "arabic": "ثيؤطوكية الأحد - القطعة التاسعة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "sunday-theotokia-9"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sunday-theotokia-9.json",
+    "bytes": 4840,
+    "sha256": "9c61b22ef14750a5db5b3ba7fc124b1a5f5495810ffac626720a6d2349f3db33"
    }
   },
   {
@@ -6965,6 +7262,303 @@
      "role": "audio",
      "bytes": 2209300,
      "sha256": "905b82f4612623dd8d9c400c6d170511afac59aba78a5974c5f1355798c3f9a7"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-11",
+   "text": "sunday-theotokia-11",
+   "duration": 63.23,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/479",
+   "youtube": "https://www.youtube.com/watch?v=pXS0Zl2RpUo",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-11.json",
+     "bytes": 88,
+     "sha256": "0fc831c58e3de1abe37becb22ea1ae80b8922bb51b40658e1c83d035ced345b6",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-11/audio.m4a",
+     "role": "audio",
+     "bytes": 1023394,
+     "sha256": "09b6df0f728d40a6d86db9fe0f5a5d9305b7919682c1e8c10b314620f9ecf5d9"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-12",
+   "text": "sunday-theotokia-12",
+   "duration": 78.92,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 5
+   },
+   "source": "https://tasbeha.org/hymn_library/view/479",
+   "youtube": "https://www.youtube.com/watch?v=uJ0G4qTUnK8",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-12.json",
+     "bytes": 88,
+     "sha256": "1e8d4540e144f3b654710a5767a29378a7894b3943c65080c3bf9508dec23a6b",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-12/audio.m4a",
+     "role": "audio",
+     "bytes": 1277262,
+     "sha256": "7bda26047e6f313b5b35f0e162cd766230f1d69d10132879e7fec52015bd26d7"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-13",
+   "text": "sunday-theotokia-13",
+   "duration": 112.27,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 7
+   },
+   "source": "https://tasbeha.org/hymn_library/view/479",
+   "youtube": "https://www.youtube.com/watch?v=VvwwjpAgs9s",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-13.json",
+     "bytes": 88,
+     "sha256": "a1cf165707faa3eae5a6e3943719eb66bdc783ab72fb0bf1031e86f3869c1bc0",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-13/audio.m4a",
+     "role": "audio",
+     "bytes": 1816507,
+     "sha256": "221451babb34626a4d9803de9888e04f2771cfbfcc27a19fc5fac42ff7f4f237"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-14",
+   "text": "sunday-theotokia-14",
+   "duration": 220.33,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 14
+   },
+   "source": "https://tasbeha.org/hymn_library/view/479",
+   "youtube": "https://www.youtube.com/watch?v=e5etC9bm9-o",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-14.json",
+     "bytes": 88,
+     "sha256": "4b48581465a86bb55e872e83264d3c7c4a1fb1b2a3480cb27e43f382a45d2f16",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-14/audio.m4a",
+     "role": "audio",
+     "bytes": 3564194,
+     "sha256": "e55896a91daac870bb3a695d1dfaf885cfe900b17d9a9ce407a084f6908ef0af"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-15",
+   "text": "sunday-theotokia-15",
+   "duration": 284.42,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 18
+   },
+   "source": "https://tasbeha.org/hymn_library/view/479",
+   "youtube": "https://www.youtube.com/watch?v=p3T4mcWvDm0",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-15.json",
+     "bytes": 88,
+     "sha256": "de959b30d4df6338fa4f32f05489d37c07a8abad93f72f2110604b7562530959",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-15/audio.m4a",
+     "role": "audio",
+     "bytes": 4600643,
+     "sha256": "00dc6d4e67c501b119acac7e3455b8826cd158724bb4fdf32564bc00f991c3bc"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-2",
+   "text": "sunday-theotokia-2",
+   "duration": 213.09,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 15
+   },
+   "source": "https://tasbeha.org/hymn_library/view/476",
+   "youtube": "https://www.youtube.com/watch?v=gszxMwxA7YA",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-2.json",
+     "bytes": 86,
+     "sha256": "4eed9ece0317008971157ae867dc1462cae8e75fd2e2121820b6350c716c4f7e",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-2/audio.m4a",
+     "role": "audio",
+     "bytes": 3447044,
+     "sha256": "7630fe56f87327b902da741e56cf963b4ff4f31f10aec0ada38705804fca7300"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-3",
+   "text": "sunday-theotokia-3",
+   "duration": 170.88,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/476",
+   "youtube": "https://www.youtube.com/watch?v=Yzuu7AdODao",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-3.json",
+     "bytes": 86,
+     "sha256": "ae195bd9b665e99b04dbc9a98c316f41175625fbd0cd9b9378abf48410a527a5",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-3/audio.m4a",
+     "role": "audio",
+     "bytes": 2764334,
+     "sha256": "34b2f7966757a5010dcbe8cebc11dc8a3b3d66ea734b3bed8a9fd6a93a35a3f0"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-4",
+   "text": "sunday-theotokia-4",
+   "duration": 159.27,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/476",
+   "youtube": "https://www.youtube.com/watch?v=JLSzlGWB5ZM",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-4.json",
+     "bytes": 86,
+     "sha256": "92a053477966cd9c19fe6f35406f07db48b18256b9c8ffde606b6d282e4e52a7",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-4/audio.m4a",
+     "role": "audio",
+     "bytes": 2576574,
+     "sha256": "79f4359e1c502df7d2bc4be1e78c01b9d8654c0b6be12e616ff9c3aaf009b45f"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-5",
+   "text": "sunday-theotokia-5",
+   "duration": 230.13,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 15
+   },
+   "source": "https://tasbeha.org/hymn_library/view/476",
+   "youtube": "https://www.youtube.com/watch?v=JcZA_cF5vpw",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-5.json",
+     "bytes": 86,
+     "sha256": "de8ddc4caa6f6dd26e0484b047c52adca6147376974992813057378bcd0a4382",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-5/audio.m4a",
+     "role": "audio",
+     "bytes": 3722675,
+     "sha256": "51af410a3b278324bd30206725f0bbd7516d39ba945105d15a6f3314d8978bc8"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-6",
+   "text": "sunday-theotokia-6",
+   "duration": 181.0,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 13
+   },
+   "source": "https://tasbeha.org/hymn_library/view/476",
+   "youtube": "https://www.youtube.com/watch?v=ItHFfjbAzcE",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-6.json",
+     "bytes": 86,
+     "sha256": "b77e22ff2083ec755c2c4190a443de147972de37ac7e1ae23883d30ae4700371",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-6/audio.m4a",
+     "role": "audio",
+     "bytes": 2928060,
+     "sha256": "84210c6e10fa49582710f5fe5373964a2d5cdbe3ce4bccb2082c446b2bd4d939"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-9",
+   "text": "sunday-theotokia-9",
+   "duration": 77.48,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 5
+   },
+   "source": "https://tasbeha.org/hymn_library/view/140",
+   "youtube": "https://www.youtube.com/watch?v=ezxEBa_wS9A",
+   "cantor": "Moallem Gad Lewis",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-9.json",
+     "bytes": 86,
+     "sha256": "ab8924ce4f410db6b09f9c9c9ac560146e77682b2359b289f6a4222d2f7382fa",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sunday-theotokia-9/audio.m4a",
+     "role": "audio",
+     "bytes": 1253979,
+     "sha256": "1809393556ed8ee16a8522080050b0f43357e5d6cc6175d82716e2a3bfa98d88"
     }
    ]
   },

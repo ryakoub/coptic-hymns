@@ -1,0 +1,140 @@
+{
+ "id": "sunday-theotokia-9",
+ "titles": {
+  "english": "The Sunday Theotokia (9)",
+  "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀ⲣⲟ",
+  "arabic": "ثيؤطوكية الأحد - القطعة التاسعة"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 1,
+   "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀ⲣⲟ: Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ϫⲉ ϯϩ̀ⲣⲏⲣⲓ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ.",
+   "translations": {
+    "english": "You are called, O Virgin Mary, the holy flower, of the incense.",
+    "arabic": "دعيتِ، يا مريم العذراء، الزهرة المقدسة، التي للبخور."
+   },
+   "transliterations": {
+    "english": "Avmouti ero: Maria Tiparthenos: je ti-ehreeri ethowab: ente pi-estoinoufi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀ⲣⲟ:"
+    },
+    {
+     "coptic": "Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ϯϩ̀ⲣⲏⲣⲓ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 0,
+   "coptic": "Ⲑⲏⲉ̀ⲧⲁⲥϯⲟⲩⲱ̀ ⲉ̀ⲡ̀ϣⲱⲓ: ⲁⲥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲑ̀ⲛⲟⲩⲛⲓ ⲛ̀ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
+   "translations": {
+    "english": "Which came out, and blossomed, from the roots of the patriarchs, and the prophets.",
+    "arabic": "التي طلعت، وأزهرت، من أصل رؤساء الآباء، والأنبياء."
+   },
+   "transliterations": {
+    "english": "Thee-etastiowo e-epshoi: asfiri evol: khen ethnouni ennipatriarshees: nem ni-eprofeetees."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲑⲏⲉ̀ⲧⲁⲥϯⲟⲩⲱ̀ ⲉ̀ⲡ̀ϣⲱⲓ:"
+    },
+    {
+     "coptic": "ⲁⲥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲑ̀ⲛⲟⲩⲛⲓ ⲛ̀ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 1,
+   "coptic": "Ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓϣ̀ⲃⲱⲧ: ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ ⲡⲓⲟⲩⲏⲃ: ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ⲁϥⲟⲡⲧ ⲛ̀ⲕⲁⲣⲡⲟⲥ.",
+   "translations": {
+    "english": "Like the rod, of Aaron the priest, which blossomed, and brought forth fruit.",
+    "arabic": "مِثل عصا، هرون الكاهن، أزهرت، وأوسقت ثمراً."
+   },
+   "transliterations": {
+    "english": "Emefreeti empi-eshvot: ente A-aron pioweeb: etaffiri evol: afopt enkarpos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓϣ̀ⲃⲱⲧ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ ⲡⲓⲟⲩⲏⲃ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ⲁϥⲟⲡⲧ ⲛ̀ⲕⲁⲣⲡⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 0,
+   "coptic": "Ϫⲉ ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲙ̀Ⲡⲓⲗⲟⲅⲟⲥ: ⲁϭⲛⲉ ⲥ̀ⲡⲉⲣⲙⲁ ⲛ̀ⲣⲱⲙⲓ: ⲉⲥⲟⲓ ⲛ̀ⲁⲧⲧⲁⲕⲟ: ⲛ̀ϫⲉ ⲧⲉⲥⲡⲁⲣⲑⲉⲛⲓⲁ.",
+   "translations": {
+    "english": "For you gave birth to the Word, without the seed of man, and your virginity, was not corrupted.",
+    "arabic": "لأنكِ ولدتِ الكلمة، بغير زرع بشر، وبتوليتِك، بغير فساد."
+   },
+   "transliterations": {
+    "english": "Je are-egfo empiloghos: achne esperma enromi: esoi enattako: enje tesparthenia."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϫⲉ ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲙ̀Ⲡⲓⲗⲟⲅⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁϭⲛⲉ ⲥ̀ⲡⲉⲣⲙⲁ ⲛ̀ⲣⲱⲙⲓ:"
+    },
+    {
+     "coptic": "ⲉⲥⲟⲓ ⲛ̀ⲁⲧⲧⲁⲕⲟ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲧⲉⲥⲡⲁⲣⲑⲉⲛⲓⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 1,
+   "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ: ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲙⲁϯϩⲟ ⲙ̀Ⲡⲉϣⲏⲣⲓ: ⲉⲑⲣⲉϥⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Wherefore we magnify you, as the Mother of God, ask your Son, to forgive us.",
+    "arabic": "فلهذا نمجدكِ، كوالدة الإله، إسألي إبنِك، ليغفر لنا."
+   },
+   "transliterations": {
+    "english": "Ethve fai tenti-oou ne: hos The-otokos: matiho empesheeri: ethrefko nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ:"
+    },
+    {
+     "coptic": "ⲙⲁϯϩⲟ ⲙ̀Ⲡⲉϣⲏⲣⲓ:"
+    },
+    {
+     "coptic": "ⲉⲑⲣⲉϥⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "id": "sunday-theotokia-5",
+ "titles": {
+  "english": "The Sunday Theotokia (5)",
+  "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲗⲩⲭⲛⲓⲁ",
+  "arabic": "ثيؤطوكية الأحد - القطعة الخامسة"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲗⲩⲭⲛⲓⲁ: ⲛ̀ⲛⲟⲩⲃ ⲉⲧⲧⲟⲩⲃⲏⲟⲩⲧ: ⲉⲧϥⲁⲓ ϧⲁ Ⲡⲓⲗⲁⲙⲡⲁⲥ: ⲉⲑⲙⲟϩ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ.",
+   "translations": {
+    "english": "You are the lampstand, made of pure gold, carrying, the ever-burning Lamp.",
+    "arabic": "أنت المنارة، الذهب النقي، الحاملة المصباح، المتقد كل حين."
+   },
+   "transliterations": {
+    "english": "Entho te tilikhnia: ennoub ettouveeout: etfai kha Pilampas: ethmoh enseeou niven."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲗⲩⲭⲛⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲛⲟⲩⲃ ⲉⲧⲧⲟⲩⲃⲏⲟⲩⲧ:"
+    },
+    {
+     "coptic": "ⲉⲧϥⲁⲓ ϧⲁ Ⲡⲓⲗⲁⲙⲡⲁⲥ:"
+    },
+    {
+     "coptic": "ⲉⲑⲙⲟϩ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲉ̀ⲧⲉ Ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲡⲓⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ: ⲡⲓⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ.",
+   "translations": {
+    "english": "That is the unapproachable, Light of the world, that proceeds from, the unapproachable Light.",
+    "arabic": "الذي هو نور العالم، غير المقترب إليه، الذي من النور، غير المُدني منه."
+   },
+   "transliterations": {
+    "english": "Ete Efowoini empikosmos: piateshkhont erof: pi-evol khen Piowoini: enateshkhont erof."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉ̀ⲧⲉ Ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ:"
+    },
+    {
+     "coptic": "ⲡⲓⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ:"
+    },
+    {
+     "coptic": "ⲡⲓⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲡⲓⲟⲩⲱⲓⲛⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲡⲓⲛⲟⲩϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲟⲩⲛⲟⲩϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲛ̀ϧⲏϯ: ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧϣⲓⲃϯ.",
+   "translations": {
+    "english": "The true God, out of true God, who was incarnate, of you without change.",
+    "arabic": "الإله الحق، من الإله الحق، الذي تجسد منكِ، بغير تغيير."
+   },
+   "transliterations": {
+    "english": "Pinoti enta-efmee: evol khen Ounoti enta-efmee: etafchisarks enkheeti: khen oumetatshivti."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲡⲓⲛⲟⲩϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲃⲟⲗ ϧⲉⲛ Ⲟⲩⲛⲟⲩϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲛ̀ϧⲏϯ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧϣⲓⲃϯ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲧⲉϥⲡⲁⲣⲟⲩⲥⲓⲁ: ⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ⲣⲟⲛ: ϧⲁ ⲛⲏⲉⲧϩⲉⲙⲥⲓ ϧⲉⲛ ⲙ̀ⲭⲁⲕⲓ: ⲛⲉⲙ ⲧ̀ϧⲏⲓⲃⲓ ⲙ̀ⲫ̀ⲙⲟⲩ.",
+   "translations": {
+    "english": "By His appearing, He gave light to us, we who sit in the darkness, and in the shadow of death.",
+    "arabic": "بظهوره، آضاء علينا نحن، الجلوس في الظلمة، وظلال الموت."
+   },
+   "transliterations": {
+    "english": "Hiten tefparousia: aferowoini eron: kha nee-ethemsi khen emkaki: nem etkheeivi emefmou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲧⲉϥⲡⲁⲣⲟⲩⲥⲓⲁ:"
+    },
+    {
+     "coptic": "ⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ⲣⲟⲛ:"
+    },
+    {
+     "coptic": "ϧⲁ ⲛⲏⲉⲧϩⲉⲙⲥⲓ ϧⲉⲛ ⲙ̀ⲭⲁⲕⲓ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲧ̀ϧⲏⲓⲃⲓ ⲙ̀ⲫ̀ⲙⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲁϥⲥⲟⲩⲧⲉⲛ ⲛⲉⲛϭⲁⲗⲁⲩϫ: ⲉ̀ⲫ̀ⲙⲱⲓⲧ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ: ϩⲓⲧⲉⲛ ϯⲕⲟⲓⲛⲱⲛⲓⲁ: ⲛ̀ⲧⲉ ⲛⲉϥⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ.",
+   "translations": {
+    "english": "And He guided our feet, in the path of peace, through the communion, of His holy sacraments.",
+    "arabic": "وقوَّم أرجلنا، إلى طريق السلام، بشركة، أسراره المقدسة."
+   },
+   "transliterations": {
+    "english": "Afsouten nenchalavg: e-efmoit ente tihireenee: hiten tikoinonia: ente nefmisteerion ethowab."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁϥⲥⲟⲩⲧⲉⲛ ⲛⲉⲛϭⲁⲗⲁⲩϫ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲫ̀ⲙⲱⲓⲧ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ϯⲕⲟⲓⲛⲱⲛⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲛⲉϥⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ: ⲥⲉϭⲓⲥⲓ ⲙ̀ⲙⲟ: ⲧⲁϭⲟⲓⲥ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ.",
+   "translations": {
+    "english": "Wherefore everyone, magnifies you, O my Lady the Mother of God, the ever-holy.",
+    "arabic": "من أجل هذا، كل واحد يعظمِك، يا سيدتي والدة الإله، القديسة كل حين."
+   },
+   "transliterations": {
+    "english": "Ethve fai o-on niven: sechisi emmo: tashois Tithe-otokos: ethowab enseeou niven."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ:"
+    },
+    {
+     "coptic": "ⲥⲉϭⲓⲥⲓ ⲙ̀ⲙⲟ:"
+    },
+    {
+     "coptic": "ⲧⲁϭⲟⲓⲥ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
+   "translations": {
+    "english": "And we too, hope to win mercy, through your intercessions, with the Lover of Mankind.",
+    "arabic": "ونحن أيضاً نطلب، أن نفوز برحمةٍ، بشفاعاتِك، عند محب البشر."
+   },
+   "transliterations": {
+    "english": "Anon hon tentovh: ethrenshashni evnai: hiten ne-epresvia: entotf empimairomi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ:"
+    },
+    {
+     "coptic": "ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲩ̀ⲥⲟⲥ ⲛⲓⲃⲉⲛ ⲉⲧ ϧⲉⲛ ⲡ̀ϭⲓⲥⲓ: ⲙ̀ⲡⲟⲩϣ̀ⲧⲉⲛⲑⲱⲛⲟⲩ ⲉ̀ⲣⲟ: ⲱ̀ ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲉⲧϥⲁⲓ ϧⲁ Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲙ̀ⲙⲏⲓ.",
+   "translations": {
+    "english": "All the ranks on high, cannot resemble you, O golden lampstand, that carries the true Light.",
+    "arabic": "كل الرتب العلوية، لم تقدر أن تشبهكِ، أيتها المنارة الذهبية، حاملة النور الحقيقي."
+   },
+   "transliterations": {
+    "english": "Isos niven et khen epchisi: empou-eshtenthonou ero: o tilikhnia ennoub: etfai kha Piowoini emmee."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲩ̀ⲥⲟⲥ ⲛⲓⲃⲉⲛ ⲉⲧ ϧⲉⲛ ⲡ̀ϭⲓⲥⲓ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲟⲩϣ̀ⲧⲉⲛⲑⲱⲛⲟⲩ ⲉ̀ⲣⲟ:"
+    },
+    {
+     "coptic": "ⲱ̀ ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ:"
+    },
+    {
+     "coptic": "ⲉⲧϥⲁⲓ ϧⲁ Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲙ̀ⲙⲏⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "side": 0,
+   "coptic": "Ⲑⲏ ⲙⲉⲛ ⲉ̀ⲧⲉ ⲙ̀ⲙⲁⲩ: ϣⲁⲩⲑⲁⲙⲓⲟⲥ ϧⲉⲛ ⲟⲩⲛⲟⲩⲃ: ⲉϥⲥⲱⲧⲡ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ: ϣⲁⲩⲭⲁⲥ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ.",
+   "translations": {
+    "english": "That was made of, pure and elect gold, and was placed in, the tabernacle.",
+    "arabic": "فتلك صُنعت، من ذهب، مختار نقي، ووُضعت في القبة."
+   },
+   "transliterations": {
+    "english": "Thee men ete emmav: shavthamios khen ounoub: efsotp enkatharos: shavkhas khen ti-eskeenee."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲑⲏ ⲙⲉⲛ ⲉ̀ⲧⲉ ⲙ̀ⲙⲁⲩ:"
+    },
+    {
+     "coptic": "ϣⲁⲩⲑⲁⲙⲓⲟⲥ ϧⲉⲛ ⲟⲩⲛⲟⲩⲃ:"
+    },
+    {
+     "coptic": "ⲉϥⲥⲱⲧⲡ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ϣⲁⲩⲭⲁⲥ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ."
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "side": 1,
+   "coptic": "Ⲥⲉⲉⲣⲕⲉⲃⲉⲣⲛⲓⲧⲏⲥ ⲉ̀ⲣⲟⲥ: ϩⲓⲧⲉⲛ ϩⲁⲛϫⲓϫ ⲛ̀ⲣⲱⲙⲓ: ⲉⲩϯⲛⲉϩ ⲛ̀ⲥⲁ ⲛⲉⲥⲗⲁⲙⲡⲁⲥ: ⲙ̀ⲡⲓⲉ̀ϩⲟⲟⲩ ⲛⲉⲙ ⲡⲓⲉ̀ϫⲱⲣϩ.",
+   "translations": {
+    "english": "That was made, by the hands of men, who brought oil for its lamps, by day and by night.",
+    "arabic": "تدبر، بأيدي البشر إذ، يعطى زيت لمصابيحها، نهاراً وليلاً."
+   },
+   "transliterations": {
+    "english": "Se-erkevernitees eros: hiten hanjig enromi: evtineh ensa neslampas: empi-ehoou nem pi-egorh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥⲉⲉⲣⲕⲉⲃⲉⲣⲛⲓⲧⲏⲥ ⲉ̀ⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ϩⲁⲛϫⲓϫ ⲛ̀ⲣⲱⲙⲓ:"
+    },
+    {
+     "coptic": "ⲉⲩϯⲛⲉϩ ⲛ̀ⲥⲁ ⲛⲉⲥⲗⲁⲙⲡⲁⲥ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲓⲉ̀ϩⲟⲟⲩ ⲛⲉⲙ ⲡⲓⲉ̀ϫⲱⲣϩ."
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "side": 0,
+   "coptic": "Ⲫⲏⲉⲧⲭⲏ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ: Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ⲣⲱⲙⲓ ⲛⲓⲃⲉⲛ: ⲉⲑⲛⲏⲟⲩ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
+   "translations": {
+    "english": "He who dwells in your womb, O Virgin Mary, gives light to every man, who comes into the world.",
+    "arabic": "والذي في بطنِك، يا مريم العذراء، أضاء لكل أنسان، آت إلى العالم."
+   },
+   "transliterations": {
+    "english": "Fee-etkee khen teneji: Maria Tiparthenos: aferowoini eromi niven: ethneeou epikosmos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲫⲏⲉⲧⲭⲏ ϧⲉⲛ ⲧⲉⲛⲉϫⲓ:"
+    },
+    {
+     "coptic": "Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ⲣⲱⲙⲓ ⲛⲓⲃⲉⲛ:"
+    },
+    {
+     "coptic": "ⲉⲑⲛⲏⲟⲩ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "side": 1,
+   "coptic": "Ⲛ̀ⲑⲟϥ ⲅⲁⲣ ⲡⲉ Ⲫ̀ⲣⲏ: ⲛ̀ⲧⲉ ϯⲇⲓⲕⲉⲟ̀ⲥⲩⲛⲏ: ⲁ̀ⲣⲉⲙⲁⲥϥ ⲁϥⲧⲁⲗϭⲟⲛ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "For He whom you have born, is the Sun of righteousness, and He has healed us, of all our sins.",
+    "arabic": "لأنه هو، شمس البر، ولدتِه وشفانا، من خطايانا."
+   },
+   "transliterations": {
+    "english": "Enthof ghar pe Efree: ente tithike-osinee: aremasf aftalchon: evol khen nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛ̀ⲑⲟϥ ⲅⲁⲣ ⲡⲉ Ⲫ̀ⲣⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ϯⲇⲓⲕⲉⲟ̀ⲥⲩⲛⲏ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲣⲉⲙⲁⲥϥ ⲁϥⲧⲁⲗϭⲟⲛ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "side": 0,
+   "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϭⲓⲥⲓ: ⲙ̀ⲙⲟ ⲁⲝⲓⲱⲥ: ϧⲉⲛ ϩⲁⲛⲩⲙⲛⲟⲗⲟⲅⲓⲁ: ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ.",
+   "translations": {
+    "english": "Wherefore we, magnify you befittingly, with prophetic, hymnology.",
+    "arabic": "من أجل هذا، نعظمِك، بإستحقاقٍ، بتماجيد نبوية."
+   },
+   "transliterations": {
+    "english": "Ethve fai tenchisi: emmo aksios: khen hanimnologia: emeprofeetikon."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϭⲓⲥⲓ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲙⲟ ⲁⲝⲓⲱⲥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ϩⲁⲛⲩⲙⲛⲟⲗⲟⲅⲓⲁ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲓⲕⲟⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "side": 1,
+   "coptic": "Ϫⲉ ⲁⲩⲥⲁϫⲓ ⲉⲑⲃⲏϯ: ⲛ̀ϩⲁⲛϩ̀ⲃⲏⲟⲩⲓ̀ ⲉⲩⲧⲁⲓⲏⲟⲩⲧ: ϯⲃⲁⲕⲓ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲧⲉ ⲡⲓⲛⲓϣϯ ⲛ̀Ⲟⲩⲣⲟ.",
+   "translations": {
+    "english": "For they spoke of you, with great honor, O holy city, of the great King.",
+    "arabic": "لأنهم تكلموا، من أجلِك بأعمال كريمة، أيتها المدينة المقدسة، التي للملك العظيم."
+   },
+   "transliterations": {
+    "english": "Je avsaji ethveeti: enhanehveeoui evtaieeout: tivaki ethowab: ente pinishti enouro."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϫⲉ ⲁⲩⲥⲁϫⲓ ⲉⲑⲃⲏϯ:"
+    },
+    {
+     "coptic": "ⲛ̀ϩⲁⲛϩ̀ⲃⲏⲟⲩⲓ̀ ⲉⲩⲧⲁⲓⲏⲟⲩⲧ:"
+    },
+    {
+     "coptic": "ϯⲃⲁⲕⲓ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲛⲓϣϯ ⲛ̀Ⲟⲩⲣⲟ."
+    }
+   ]
+  },
+  {
+   "id": "l15",
+   "side": 0,
+   "coptic": "Ⲧⲉⲛϯϩⲟ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
+   "translations": {
+    "english": "We entreat and pray, that we may win mercy, through your intercessions, with the Lover of Mankind.",
+    "arabic": "نسأل ونطلب، أن نفوز برحمةٍ، بشفاعاتِك، عند محب البشر."
+   },
+   "transliterations": {
+    "english": "Tentiho tentovh: ethrenshashni evnai: hiten ne-epresvia: entotf empimairomi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛϯϩⲟ ⲧⲉⲛⲧⲱⲃϩ:"
+    },
+    {
+     "coptic": "ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ."
+    }
+   ]
+  }
+ ]
+}
