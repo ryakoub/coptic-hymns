@@ -11,7 +11,7 @@ python3 tools/inventory/write_md.py   # → docs/app/hymn-inventory.md
 
 - `videos.json` is kept in git so the inventory can be rebuilt without scanning again; `cache/` is not.
 - `parse.py` reads year, stage and level from a title and strips them to leave the hymn's name.
-- `rules.py` maps hymn names to one hymn each, with its English and Arabic title, its places in `catalog/library.json`, and the folder in `content/` when the hymn is already in the app. A name no rule matches is left out of the inventory, so after a scan check for unmatched names:
+- `rules.py` maps hymn names to one hymn each, with its English and Arabic title, its places in `catalog/library.json`, and the folder in `content/` when the hymn is already in the app. For a hymn in the app, the inventory shows its own titles and places (its `info.json`, edited with `tools/titles.py`); the rule's only place it while it is not added yet. A name no rule matches is left out of the inventory, so after a scan check for unmatched names:
 
   ```
   python3 -c "import json,sys; sys.path.insert(0,'tools/inventory'); from parse import parse; from rules import classify

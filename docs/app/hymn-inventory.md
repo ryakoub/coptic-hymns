@@ -4,7 +4,7 @@ Every hymn in the app, plus every Mahragan hymn on the youth-bishopric YouTube c
 
 - **238 hymns**: 114 in the app, 124 new from the channel.
 - When the channel has a hymn more than once (several years, stages or levels), the most recent video is kept; the others are counted under *Versions*.
-- *Status* "in app" means the hymn is already in `content/`, whatever recording it uses.
+- *Status* "in app" means the hymn is already in `content/`, whatever recording it uses. Its titles and places here are its own: change them with `tools/titles.py` (a spreadsheet), not in this file.
 - ⚠ marks a placement or match to confirm. 🔒 means the newest video is unavailable (`tools/inventory/unavailable.txt`), so an older one is listed or the hymn needs another source.
 - Year of the kept video: 2022: 32, 2023: 30, 2024: 31, 2025: 60, 2026: 62.
 
@@ -19,52 +19,52 @@ Nothing to review: every placement is confirmed.
 
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
-| Alleluia Fai Pe Pi (This is the day) | الليلويا فاي بي بي إيهوؤ | Liturgy | in app (`this-is-the-day`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=mivvdRNOVFs) | 4 |
-| Alleluia Je Efmevi (The thought of man) | الليلويا جي إفميفئي | Liturgy | in app (`the-thought-of-man`) | [2026 Gr 1–2 L2](https://www.youtube.com/watch?v=YqQ2dkd_fEY) | 3 |
 | Alleluia of the Offertory (Al el-Korban) | لحن آللي القربان | Liturgy | in app (`alleluia-offertory`) | [2025 High L2](https://www.youtube.com/watch?v=eK2o0fFxlUU) | 2 |
 | Amen, Amen, Amen, Ton thanaton sou | مرد آمين آمين آمين تون ثاناتون سو | Liturgy | in app (`amen-ton-thanaton`) | [2025 Gr 1–2 L2](https://www.youtube.com/watch?v=T3ywO9kj6Ck) | 2 |
+| Anaphora Responses of St. Basil and St. Gregory Liturgies | مردات بدء القداس (باسيلي وغريغوري) | Liturgy | in app (`anaphora-responses-st-basil-st-gregory-liturgies`) | [2026 Gr 5–6 L2](https://www.youtube.com/watch?v=YPEmbnucwfg) | 3 |
 | Annual Aspasmos Adam | الأسبسمس الآدام السنوي | Liturgy | in app (`aspasmos-adam-annual`) | [2024 High L1](https://www.youtube.com/watch?v=NQx-vLB1r10) | 1 |
 | Annual Aspasmos Watos | الأسبسمس الواطس السنوي | Liturgy | in app (`aspasmos-watos-annual`) | [2026 Gr 1–2 gifted](https://www.youtube.com/watch?v=tw-HRF4We70) | 1 |
 | Annual Distribution Alleluia | آللي التوزيع السنوي | Liturgy | in app (`distribution-alleluia-annual`) | [2025 Gr 1–2 gifted](https://www.youtube.com/watch?v=OA5AUcE20mY) | 2 |
 | Annual Distribution and Psalm 150 | التوزيع السنوي والمزمور 150 | Liturgy | in app (`distribution-annual-psalm-150`) | [2025 Middle L2](https://www.youtube.com/watch?v=LwC3t6WzFd0) | 1 |
-| Annual Praxis Response (Shere ne Maria) | مرد الإبركسيس السنوي | Liturgy | in app (`praxis-response-annual`) | [2026 Gr 5–6 L1](https://www.youtube.com/watch?v=UO_xP8QhG0M) | 2 |
 | Annual Praxis Response (long) | مرد الإبركسيس السنوي الكبير | Liturgy | in app (`praxis-response-annual-major`) | [2026 Gr 3–4 gifted](https://www.youtube.com/watch?v=G_FW2slQdfg) | 2 |
 | As it was (Os ein) response | مرد كما كان (أوس بارين) | Liturgy | in app (`os-ein-response`) | [2025 Gr 3–4 L2](https://www.youtube.com/watch?v=m5S7daNdUQc) | 2 |
 | Eleison Imas and Je Nai Nan | إليسون إيماس وجي ناي نان | Liturgy | in app (`eleison-imas-je-nai-nan`) | [2023 Gr 3–4 L2](https://www.youtube.com/watch?v=2r3OzfVD1nQ) | 1 |
+| Ere Po Esmo (May Their Holy Blessing) | مرد المجمع الباسيلي (إيري بوؤ إسمو) | Liturgy | in app (`ere-po-esmo-may-their-holy-blessing`) | [2026 KG L2](https://www.youtube.com/watch?v=MG9lcCUZjnw) | 5 |
 | Fol Evol (St. Gregory Liturgy) | لحن فول إيفول من القداس الغريغوري | Liturgy | **new** | [2025 Gr 5–6 L2](https://www.youtube.com/watch?v=WFJWWbr29F4) | 4 |
-| Hymn of the Blessing (Ten Oosht) | لحن البركة (تين أوؤشت) | Liturgy | in app (`hymn-of-the-blessing`) | [2026 Middle L1](https://www.youtube.com/watch?v=j6fZcVjHWgE) | 5 |
 | Je Nai Nan response | مرد جي ناي نان | Liturgy | in app (`je-nai-nan`) | [2025 Gr 3–4 L2](https://www.youtube.com/watch?v=u0vaygdZyoE) | 1 |
-| Liturgy Gospel Response (annual) | مرد إنجيل القداس السنوي | Liturgy | in app (`liturgy-gospel-response-annual`) | [2026 KG L2](https://www.youtube.com/watch?v=zd-fK72u3VQ) | 5 |
-| May their holy blessing (Commemoration response, St. Basil) | مرد المجمع الباسيلي (إيري بوؤ إسمو) | Liturgy | in app (`ere-po-esmo-may-their-holy-blessing`) | [2026 KG L2](https://www.youtube.com/watch?v=MG9lcCUZjnw) | 5 |
-| Paralex of the Blessing hymn | برلكس لحن البركة | Liturgy | in app (`paralex-shere-maria`) | [2026 Middle L2](https://www.youtube.com/watch?v=0RkIDINpcwg) | 1 |
+| Liturgy Gospel Response, Annual | مرد إنجيل القداس السنوي | Liturgy | in app (`liturgy-gospel-response-annual`) | [2026 KG L2](https://www.youtube.com/watch?v=zd-fK72u3VQ) | 5 |
+| Paralex, Shere Maria | برلكس لحن البركة - شيري ني ماريا | Liturgy | in app (`paralex-shere-maria`) | [2026 Middle L2](https://www.youtube.com/watch?v=0RkIDINpcwg) | 1 |
 | Pauline Epistle Response (short) | مرد البولس المختصر | Liturgy | **new** | [2025 KG L1](https://www.youtube.com/watch?v=ZmC2MeYyxOk) | 2 |
 | Pi Ehmot Ghar (short) | لحن بي أهموت غار الصغيرة | Liturgy | in app (`pi-ehmot-ghar-small`) | [2025 Gr 3–4 L1](https://www.youtube.com/watch?v=BtWccQma1NQ) | 4 |
-| Pi Oik (annual distribution) | لحن التوزيع السنوي بي أويك | Liturgy | in app (`pi-oik`) | [2023 High L1](https://www.youtube.com/watch?v=zhpvlzZbads) | 1 |
+| Pi Oik (The Bread of Life) | بي أويك | Liturgy | in app (`pi-oik`) | [2023 High L1](https://www.youtube.com/watch?v=zhpvlzZbads) | 1 |
 | Praxis Response (short) | مرد الإبركسيس المختصر | Liturgy | **new** | [2023 KG L1](https://www.youtube.com/watch?v=I01Mh-jasUQ) | 1 |
+| Praxis Response, Annual | مرد الإبركسيس السنوي | Liturgy | in app (`praxis-response-annual`) | [2026 Gr 5–6 L1](https://www.youtube.com/watch?v=UO_xP8QhG0M) | 2 |
 | Reconciliation Prayer Response, St. Basil | مرد صلاة الصلح من القداس الباسيلي | Liturgy | in app (`reconciliation-response-basil`) | [2025 KG L2](https://www.youtube.com/watch?v=2Qz4ONEmdQE) | 4 |
 | Reconciliation Prayer Response, St. Gregory | مرد صلاة الصلح للقداس الغريغوري | Liturgy | **new** | [2023 Gr 5–6 L1](https://www.youtube.com/watch?v=zCjBUWtgfs8) | 1 |
 | Response of the Cherubim's praise | مرد تسبحة الشاروبيم | Liturgy | in app (`cherubim-response`) | [2025 Gr 3–4 L1](https://www.youtube.com/watch?v=o1_JdUm4lAc) | 2 |
-| Responses at the start of the Anaphora (St. Basil and St. Gregory) | مردات بدء القداس (باسيلي وغريغوري) | Liturgy | in app (`anaphora-responses-st-basil-st-gregory-liturgies`) | [2026 Gr 5–6 L2](https://www.youtube.com/watch?v=YPEmbnucwfg) | 3 |
-| Sotis Amen (combined) | لحن سوتيس آمين دمجًا | Liturgy | in app (`sotees-ameen-fast`) | [2026 KG L1](https://www.youtube.com/watch?v=Yn39f7QLpUY) | 4 |
+| Sotees Ameen (Fast) | لحن سوتيس آمين دمجًا | Liturgy | in app (`sotees-ameen-fast`) | [2026 KG L1](https://www.youtube.com/watch?v=Yn39f7QLpUY) | 4 |
 | Sotis Amen (long) | لحن سوتيس آمين الكبير | Liturgy | in app (`sotees-ameen-major`) | [2024 Servants](https://www.youtube.com/watch?v=O0iFDsaPRLM) | 2 |
 | Tai Shouri (annual) | لحن طاي شوري السنوي | Liturgy | in app (`tai-shouri`) | [2026 Cana families L2](https://www.youtube.com/watch?v=Wj4Ar8LPDoQ) (The Coptic Gate) | 1 |
 | Ten Goosht Evol response | مرد تين جوشت إيفول | Liturgy | in app (`ten-oosht-evol-basil`) | [2025 Gr 1–2 L1](https://www.youtube.com/watch?v=TFdhGe604Qc) | 2 |
 | Ten Goosht Evol response, St. Gregory Liturgy | مرد تين جوشت إيفول للقداس الغريغوري | Liturgy | in app (`ten-oosht-evol-gregory`) | [2025 Gr 1–2 L2](https://www.youtube.com/watch?v=ClsklKxm630) | 2 |
-| Ti Shouri (the golden censer), annual | لحن تي شوري السنوي | Liturgy | in app (`censer-annual`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=zLsDf4hUrzM) | 6 |
+| The Golden Censer | المجمرة الذهب | Liturgy | in app (`censer-annual`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=zLsDf4hUrzM) | 6 |
+| The Hymn of the Blessing | لحن البركة (تين أوؤشت) | Liturgy | in app (`hymn-of-the-blessing`) | [2026 Middle L1](https://www.youtube.com/watch?v=j6fZcVjHWgE) | 5 |
+| The Thought of Man | الليلويا ان فكر الانسان | Liturgy | in app (`the-thought-of-man`) | [2026 Gr 1–2 L2](https://www.youtube.com/watch?v=YqQ2dkd_fEY) | 3 |
+| This Is the Day | هذا هو اليوم الذي صنعه الرب | Liturgy | in app (`this-is-the-day`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=mivvdRNOVFs) | 4 |
 | Trisagion (annual) | الثلاث تقديسات السنوي | Liturgy | in app (`agios-annual`) | [2025 KG L2](https://www.youtube.com/watch?v=oXB8Mtb0iEA) | 3 |
 | Annual Gospel Response (Vespers and Matins) | مرد الإنجيل السنوي (عشية وباكر) | Raising of Incense | in app (`gospel-response-vespers-annual`) | [2026 KG L1](https://www.youtube.com/watch?v=np_DWSwzRJo) | 3 |
 | Annual Hetenyat (intercessions) | الهيتنيات السنوي | Raising of Incense | in app (`hetenyat-annual`) | [2025 Middle L1](https://www.youtube.com/watch?v=9Qk_Q1g-7Q8) | 3 |
 | Annual Verses of the Cymbals | أرباع الناقوس السنوي | Raising of Incense | **new** | [2024 Middle L1](https://www.youtube.com/watch?v=-4R8kInrRBI) | 1 |
 | Closing Canon of the communal prayers (annual) | ختام الصلوات الجماعية السنوي | Raising of Incense (also Annual · Liturgy) | in app (`concluding-canon-annual`) | [2025 KG L1](https://www.youtube.com/watch?v=DPLZ9fyQxow) | 2 |
 | Doxology of Archangel Michael | ذكصولوجية الملاك ميخائيل | Raising of Incense | in app (`doxology-archangel-michael`) | [2022 Gr 5–6 L2](https://www.youtube.com/watch?v=EEJM7reUfwA) | 1 |
+| Doxology of Heavenly Orders | ذكصولوجية السمائيين | Raising of Incense | in app (`doxology-heavenly-orders`) | [2026 Gr 5–6 L2](https://www.youtube.com/watch?v=6_tRpav5NNk) | 2 |
+| Doxology of St. Mary Vespers | ذكصولوجية العذراء - عشية | Raising of Incense | in app (`doxology-st-mary-vespers`) | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=hfNjpxEfnMI) | 5 |
 | Doxology of St. Mary, Matins | ذكصولوجية العذراء لرفع بخور باكر | Raising of Incense | in app (`doxology-st-mary-matins`) | [2024 Gr 5–6 L1](https://www.youtube.com/watch?v=zHbUrcy1OwM) | 1 |
-| Doxology of St. Mary, Vespers | ذكصولوجية العذراء لرفع بخور عشية | Raising of Incense | in app (`doxology-st-mary-vespers`) | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=hfNjpxEfnMI) | 5 |
-| Doxology of the Heavenly Orders | ذكصولوجية السمائيين | Raising of Incense | in app (`doxology-heavenly-orders`) | [2026 Gr 5–6 L2](https://www.youtube.com/watch?v=6_tRpav5NNk) | 2 |
 | First Doxology of St. John the Baptist | ذكصولوجية القديس يوحنا المعمدان الأولى | Raising of Incense | in app (`doxology-john-baptist-1`) | [2025 Gr 5–6 L1](https://www.youtube.com/watch?v=vjrHui5z_I0) | 2 |
-| First Doxology of St. Mark | الذكصولوجية الأولى لمار مرقس | Raising of Incense | in app (`st-mark-doxology-first-one`) | [2026 Gr 1–2 L2](https://www.youtube.com/watch?v=IMmRTLS-EQ4) | 4 |
 | Kyrie Eleison (long) | لحن كيرياليسون الكبير | Raising of Incense | in app (`kyrie-eleison-major`) | [2023 College L1](https://www.youtube.com/watch?v=-HFXg7KhSlI) | 1 |
 | Matins Gospel Response (annual) | مرد إنجيل باكر السنوي | Raising of Incense | in app (`gospel-response-matins-annual`) | [2025 Gr 1–2 L1](https://www.youtube.com/watch?v=hYn4Oi-EpJQ) | 2 |
 | Second Doxology of St. John the Baptist | ذكصولوجية القديس يوحنا المعمدان الثانية | Raising of Incense | in app (`doxology-john-baptist-2`) | [2025 Gr 5–6 L1](https://www.youtube.com/watch?v=urJ1fMlibnY) | 1 |
+| St. Mark Doxology (First One) | الذكصولوجية الاولى لمار مرقس | Raising of Incense | in app (`st-mark-doxology-first-one`) | [2026 Gr 1–2 L2](https://www.youtube.com/watch?v=IMmRTLS-EQ4) | 4 |
 | Ten Goosht Evol response, Vespers and Matins | مرد تين جوشت إيفول عشية وباكر | Raising of Incense | in app (`ten-oosht-evol-vespers-matins`) | [2025 Gr 5–6 L2](https://www.youtube.com/watch?v=2ILrPC8vnHA) | 1 |
 | Aspazisti | أسبازيستي | Special hymns | in app (`aspazisti`) | [2022 High gifted](https://www.youtube.com/watch?v=Ocyf-pEQDYQ) | 1 |
 | Ti Stoli | لحن تي إستولي | Special hymns (also Crowning (Wedding) · Hymns, Veneration · Hymns) | in app (`ti-stoli`) | [2023 High gifted](https://www.youtube.com/watch?v=jzCkqSmljCQ) | 1 |
@@ -108,16 +108,17 @@ Nothing to review: every placement is confirmed.
 
 ## Feast of the Cross · عيد الصليب
 
-7 hymns, 2 new.
+8 hymns, 2 new.
 
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
 | Distribution Psalm for the Feasts of the Cross | مزمور التوزيع لعيدي الصليب | Liturgy | **new** | [2026 High required](https://www.youtube.com/watch?v=iH2fzEt5NBI) | 1 |
-| Gospel Response for the Feasts of the Cross | مرد إنجيل عيدي الصليب | Liturgy | in app (`gospel-response-feast-cross`) | [2026 Gr 3–4 required](https://www.youtube.com/watch?v=uBUs3idAIPM) | 1 |
-| Praxis Response for the Feasts of the Cross | مرد الإبركسيس لعيدي الصليب | Liturgy | in app (`praxis-response-feast-cross`) | [2026 Middle required](https://www.youtube.com/watch?v=Lon4pxj3d5c) | 1 |
-| Closing Canon for the Feasts of the Cross | جملة ختام الصلوات لعيدي الصليب | Raising of Incense | in app (`concluding-canon-feast-cross`) | [2026 KG L1](https://www.youtube.com/watch?v=RodFtt7Z1ug) | 1 |
+| Gospel Response of the Feast of the Cross | مرد الانجيل لعيد الصليب | Liturgy | in app (`gospel-response-feast-cross`) | [2026 Gr 3–4 required](https://www.youtube.com/watch?v=uBUs3idAIPM) | 1 |
+| Joyful Agios, Major | آجيوس الفرايحي (كبير) | Liturgy (also Nativity · Liturgy, Circumcision · Liturgy, Theophany · Liturgy, Wedding at Cana · Liturgy, Presentation of the Lord · Liturgy, Lazarus Saturday · Liturgy, Palm Sunday · Liturgy, Resurrection · Liturgy, Ascension · Liturgy, Pentecost · Liturgy) | in app (`joyful-agios-major`) | [2026 KG gifted](https://www.youtube.com/watch?v=qQ5nWP0-s1Q) | 2 |
+| Praxis Response, Feast of the Cross | مرد الابركسيس لعيد الصليب | Liturgy | in app (`praxis-response-feast-cross`) | [2026 Middle required](https://www.youtube.com/watch?v=Lon4pxj3d5c) | 1 |
+| Concluding Canon for Feast of the Cross | جملة ختام الصلوات لعيدي الصليب | Raising of Incense | in app (`concluding-canon-feast-cross`) | [2026 KG L1](https://www.youtube.com/watch?v=RodFtt7Z1ug) | 1 |
 | Doxology for the Feasts of the Cross | ذكصولوجية عيدي الصليب | Raising of Incense | **new** | [2026 Graduates L1](https://www.youtube.com/watch?v=HCR_AMCmcno) | 2 |
-| Verses of the Cymbals for the Feasts of the Cross | أرباع الناقوس الفرايحي لعيدي الصليب | Raising of Incense | in app (`verse-cymbals-feast-cross`) | [2026 Gr 5–6 required](https://www.youtube.com/watch?v=ZzYKc1NPL6c) | 1 |
+| Verse of Cymbals for Feast of the Cross | أرباع الناقوس الفرايحي لعيدي الصليب | Raising of Incense | in app (`verse-cymbals-feast-cross`) | [2026 Gr 5–6 required](https://www.youtube.com/watch?v=ZzYKc1NPL6c) | 1 |
 | Procession Refrain, Feast of the Cross | مرد اناجيل دورة عيد الصليب | Special hymns | in app (`procession-refrain-feast-cross`) | — |  |
 
 ## Nativity · الميلاد
@@ -189,37 +190,36 @@ Nothing to review: every placement is confirmed.
 
 ## Resurrection · القيامة
 
-27 hymns, 8 new.
+26 hymns, 8 new.
 
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
-| Aspasmos Adam for the Resurrection | الأسبسمس الآدام لعيد القيامة | Liturgy | in app (`aspasmos-adam-resurrection`) | [2026 Middle L2](https://www.youtube.com/watch?v=fVbNrpgsqxM) | 1 |
+| Aspasmos Adam, Resurrection | اسبسمس ادام | Liturgy | in app (`aspasmos-adam-resurrection`) | [2026 Middle L2](https://www.youtube.com/watch?v=fVbNrpgsqxM) | 1 |
 | Aspasmos Watos for the Resurrection | الأسبسمس الواطس لعيد القيامة | Liturgy | **new** | [2026 Graduates L1](https://www.youtube.com/watch?v=fFPszjG6Lrw) | 1 |
-| Distribution Psalm Response for the Resurrection | مرد مزمور التوزيع لعيد القيامة | Liturgy | in app (`distribution-refrain-resurrection`) | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=ViIURIydYI8) | 3 |
-| Hetenya of the Resurrection (Archangel Michael) | هيتينية القيامة (للملاك ميخائيل) | Liturgy | in app (`hiten-archangel-michael-feast-resurrection`) | [2026 KG L2](https://www.youtube.com/watch?v=Q-PCW3HkeVE) | 1 |
-| Joyful Agios (long) | آجيوس الفرايحي الكبير | Liturgy | in app (`joyful-agios-major`) | [2026 KG gifted](https://www.youtube.com/watch?v=qQ5nWP0-s1Q) | 2 |
+| Distribution Refrain for Resurrection | مرد مزمور التوزيع لعيد القيامة | Liturgy | in app (`distribution-refrain-resurrection`) | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=ViIURIydYI8) | 3 |
+| Hiten for Archangel Michael, Feast of Resurrection | هيتينية القيامة (للملاك ميخائيل) | Liturgy | in app (`hiten-archangel-michael-feast-resurrection`) | [2026 KG L2](https://www.youtube.com/watch?v=Q-PCW3HkeVE) | 1 |
 | Joyful Distribution Alleluia (long) | آللي التوزيع الفرايحي الكبير | Liturgy | **new** | [2026 Gr 3–4 gifted](https://www.youtube.com/watch?v=tuqgikFveDw) | 3 |
-| Kata ni Khoros | كاطا ني خوروس | Liturgy | in app (`kata-ni-khoros`) | [2026 High](https://www.youtube.com/watch?v=PQglu9fWHfg) | 2 |
-| Liturgy Gospel Response for the Resurrection | مرد إنجيل قداس عيد القيامة | Liturgy | in app (`liturgy-gospel-response-resurrection`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=71VBAZMufO4) | 2 |
+| Kata Ni Khoros (All the Choirs) | كاطا ني خوروس | Liturgy | in app (`kata-ni-khoros`) | [2026 High](https://www.youtube.com/watch?v=PQglu9fWHfg) | 2 |
+| Liturgy Gospel Response, Resurrection | مرد الانجيل لعيد القيامة | Liturgy | in app (`liturgy-gospel-response-resurrection`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=71VBAZMufO4) | 2 |
 | Mohayar for the Resurrection (Pashois) | محير عيد القيامة (باشويس) | Liturgy | **new** | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=WUj5SK7-pPo) | 2 |
-| Oonim Nai Symphonia | أونيم ناي سيمفونيا | Liturgy | in app (`onim-nai-symfonia`) | [2026 Middle L2](https://www.youtube.com/watch?v=J3yDLN2pu94) | 1 |
-| Pi Christos Aftonf | بي إخرستوس آفتونف | Liturgy | in app (`pi-christos-aftonf`) | [2026 High L1](https://www.youtube.com/watch?v=-8dAOfVdhbo) | 2 |
-| Praxis Response for the Resurrection | مرد الإبركسيس لعيد القيامة | Liturgy | in app (`praxis-response-resurrection`) | [2026 Graduates L2](https://www.youtube.com/watch?v=dk4O0d-H7Kc) | 1 |
-| Psalm Response for the Resurrection | مرد مزمور عيد القيامة | Liturgy | in app (`psalm-response-resurrection`) | [2026 KG L1](https://www.youtube.com/watch?v=ecoI9d80OQw) | 1 |
+| Oonim Nai Symphonia (What Are These?) | أونيم ناي سيمفونيا | Liturgy | in app (`onim-nai-symfonia`) | [2026 Middle L2](https://www.youtube.com/watch?v=J3yDLN2pu94) | 1 |
+| Pikhristos Aftonf (Christ Is Risen) | بي إخرستوس آفتونف | Liturgy | in app (`pi-christos-aftonf`) | [2026 High L1](https://www.youtube.com/watch?v=-8dAOfVdhbo) | 2 |
+| Praxis Response for Resurrection | مرد الإبركسيس لعيد القيامة | Liturgy | in app (`praxis-response-resurrection`) | [2026 Graduates L2](https://www.youtube.com/watch?v=dk4O0d-H7Kc) | 1 |
+| Psalm Response, Resurrection | مرد مزمور عيد القيامة | Liturgy | in app (`psalm-response-resurrection`) | [2026 KG L1](https://www.youtube.com/watch?v=ecoI9d80OQw) | 1 |
 | Tarh of the Resurrection Liturgy | طرح قداس عيد القيامة | Liturgy | **new** | [2026 Middle gifted](https://www.youtube.com/watch?v=lvFKpRDx7B0) | 1 |
 | Ten Anastasin (Greek piece) | القطعة اليونانية تين أناسطاسين | Liturgy | **new** | [2026 Graduates L1](https://www.youtube.com/watch?v=gwVqDwHglCM) | 1 |
-| Ton Synanarkhon (Greek piece) | القطعة اليونانية طون سينا | Liturgy | in app (`ton-syna`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=hTTi-fg2eT0) | 1 |
-| Tou Lithou (Greek piece) | القطعة اليونانية طو ليثو | Liturgy | in app (`tou-lithou`) | [2026 High L1](https://www.youtube.com/watch?v=6ggLsbc_kKs) 🔒 | 1 |
+| Ton Sinanarkhon (We the Believers) | طون سينانارخون | Liturgy | in app (`ton-syna`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=hTTi-fg2eT0) | 1 |
+| Tou Lithou (When the Stone Was Sealed) | طو ليثو | Liturgy | in app (`tou-lithou`) | [2026 High L1](https://www.youtube.com/watch?v=6ggLsbc_kKs) 🔒 | 1 |
 | Nim Ghar, the Resurrection piece | قطعة القيامة المجيدة نيم غار | Midnight Praises | **new** | [2026 College L1](https://www.youtube.com/watch?v=RqXAJCB03Ac) | 1 |
 | Paralex of Resurrection |  | Midnight Praises | in app (`paralex-of-resurrection`) | — |  |
 | Tenoueh Ensok, joyful tune | تين أويه إنسوك الفرايحي | Midnight Praises | **new** | [2026 Graduates L2](https://www.youtube.com/watch?v=Ifw9wKv3rbM) | 2 |
 | Conclusion Canon, Resurrection | قطعة ختام الصلوات لعيد القيامة | Raising of Incense | in app (`conclusion-canon-resurrection`) | — |  |
-| Doxology for the Resurrection | ذكصولوجية عيد القيامة | Raising of Incense | in app (`doxology-resurrection`) | [2026 Gr 5–6 L1](https://www.youtube.com/watch?v=x6jVnXBzyV4) | 1 |
+| Doxology of Resurrection | ذكصولوجية عيد القيامة | Raising of Incense | in app (`doxology-resurrection`) | [2026 Gr 5–6 L1](https://www.youtube.com/watch?v=x6jVnXBzyV4) | 1 |
 | Introduction to the Doxologies, joyful tune | مقدمة الذكصولوجيات الفرايحي | Raising of Incense | **new** | [2026 KG gifted](https://www.youtube.com/watch?v=iV47ICY1vbE) | 2 |
-| Joyful Verses of the Cymbals for the Resurrection | أرباع الناقوس الفرايحي لعيد القيامة | Raising of Incense | in app (`verses-cymbals-resurrection`) | [2026 Gr 1–2 L2](https://www.youtube.com/watch?v=Pe28CQYGDSQ) | 3 |
-| Second Doxology for the Resurrection | الذكصولوجية الثانية لعيد القيامة | Raising of Incense | in app (`second-doxology-resurrection`) | [2026 Middle L1](https://www.youtube.com/watch?v=IZtlphv_994) | 1 |
+| Second Doxology of Resurrection | الذكصولوجية الثانية لعيد القيامة | Raising of Incense | in app (`second-doxology-resurrection`) | [2026 Middle L1](https://www.youtube.com/watch?v=IZtlphv_994) | 1 |
 | Verse of Cymbals for Resurrection |  | Raising of Incense | in app (`verse-cymbals-resurrection`) | — |  |
-| Christos Anesti (Christ is risen) | لحن أخرستوس آنيستي | Special hymns | in app (`christ-is-risen`) | [2026 Middle L1](https://www.youtube.com/watch?v=Gt-D4wWrfwY) | 2 |
+| Verses of Cymbals, Resurrection | ارباع الناقوس لعيد القيامة | Raising of Incense | in app (`verses-cymbals-resurrection`) | [2026 Gr 1–2 L2](https://www.youtube.com/watch?v=Pe28CQYGDSQ) | 3 |
+| Christ Is Risen | لحن أخرستوس آنيستي | Special hymns | in app (`christ-is-risen`) | [2026 Middle L1](https://www.youtube.com/watch?v=Gt-D4wWrfwY) | 2 |
 
 ## Ascension · الصعود
 
@@ -227,7 +227,7 @@ Nothing to review: every placement is confirmed.
 
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
-| Christos Analympsis | اخرستوس أناليم ابسيس | Liturgy | in app (`christos-analympsis`) | [2026 Graduates L1](https://www.youtube.com/watch?v=yTYQ18yyN2o) | 1 |
+| Christos Analimpsis (Christ Ascended) | اخرستوس أناليم ابسيس | Liturgy | in app (`christos-analympsis`) | [2026 Graduates L1](https://www.youtube.com/watch?v=yTYQ18yyN2o) | 1 |
 | Praxis Response for Ascension and Pentecost | مرد الإبركسيس لعيدي الصعود والعنصرة | Liturgy (also Pentecost · Liturgy) | **new** | [2026 Graduates L1](https://www.youtube.com/watch?v=XvsXf44eZdk) | 1 |
 
 ## Pentecost · العنصرة
@@ -236,10 +236,10 @@ Nothing to review: every placement is confirmed.
 
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
+| Blessed, Pentecost | جي اف اسماوؤت - البنطيقسطي | Liturgy | in app (`blessed-pentecost`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=g8lwghRkDB8) | 1 |
 | Distribution pieces for Pentecost (Asomen) | قطع توزيع عيد العنصرة (أسومين) | Liturgy | **new** | [2026 College L1](https://www.youtube.com/watch?v=al78nK9_n24) | 1 |
-| Je Ef Esmarooout, Pentecost Distribution | جي اف اسماروؤت توزيع عيد العنصرة | Liturgy | in app (`blessed-pentecost`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=g8lwghRkDB8) | 1 |
-| Pi Pnevma (Descent of the Holy Spirit) | بي إبنفما | Liturgy | in app (`pi-pnevma`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=PPGpGxo4Ksg) | 2 |
-| Responses of the Third Hour (Pentecost) | مرد قطع الساعة الثالثة | Special hymns | in app (`refrain-third-hour-pentecost`) | [2026 Gr 5–6 L1](https://www.youtube.com/watch?v=h-wVePu5lhw) | 1 |
+| Pi Pnevma (The Spirit of Comfort) | بي إبنفما | Liturgy | in app (`pi-pnevma`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=PPGpGxo4Ksg) | 2 |
+| Refrain of Third Hour, Pentecost | مرد قطع الساعة الثالثة - عيد حلول الروح القدس | Special hymns | in app (`refrain-third-hour-pentecost`) | [2026 Gr 5–6 L1](https://www.youtube.com/watch?v=h-wVePu5lhw) | 1 |
 
 ## Jonah's Fast · صوم يونان
 
@@ -282,7 +282,7 @@ Nothing to review: every placement is confirmed.
 
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
-| Second Doxology of the Apostles | ذكصولوجية الآباء الرسل الثانية | Raising of Incense | in app (`second-doxology-apostles`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=6Y8CRwVLhg4) | 3 |
+| The Second Doxology of the Apostles | ذكصولوجية الآباء الرسل الثانية | Raising of Incense | in app (`second-doxology-apostles`) | [2026 Gr 3–4 L1](https://www.youtube.com/watch?v=6Y8CRwVLhg4) | 3 |
 
 ## Praises (Psalmody) · التسبحة
 
@@ -291,35 +291,35 @@ Nothing to review: every placement is confirmed.
 | Hymn | Arabic | Service | Status | Latest video | Versions |
 |---|---|---|---|---|---|
 | Aree Hoo Ou Chasf (Third Canticle) | اري هوؤو تشاسف (الهوس الثالث) | Midnight Praises | in app (`arihouo-gasf-third-hoos`) | — |  |
-| Conclusion of the Midnight Praises (Efnouti nai nan) | طلبة ختام التسبحة (إفنوتي ناي نان) | Midnight Praises | in app (`conclusion-midnight-praises`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=onVX6NzU6us) | 4 |
+| Aripsalin | اريبصالين | Midnight Praises | in app (`aripalin`) | [2026 Middle L2](https://www.youtube.com/watch?v=u5HsJJHcAEc) | 1 |
+| Conclusion of Midnight Praises | طلبة ختام التسبحة (إفنوتي ناي نان) | Midnight Praises | in app (`conclusion-midnight-praises`) | [2026 Gr 1–2 L1](https://www.youtube.com/watch?v=onVX6NzU6us) | 4 |
 | Doxology for Virgin Mary - Midnight Praise | ذكصولوجية للعذراء مريم - تسبحة نصف الليل | Midnight Praises | in app (`doxology-virgin-midnight`) | — |  |
 | Evol Hiten (long) | إيفول هيتين الكبير | Midnight Praises | in app (`evol-hiten-major`) | [2022 Gr 3–4 gifted](https://www.youtube.com/watch?v=JyfcNefBDWQ) | 2 |
+| First Hoos | الهوس الأول | Midnight Praises | in app (`first-hoos`) | [2026 High L1](https://www.youtube.com/watch?v=I81ZQNhmnLs) | 2 |
 | Gospel According to St. Luke | الإنجيل لمعلمنا مار لوقا | Midnight Praises | in app (`gospel-luke`) | — |  |
 | Hos Erof | هوس إيروف | Midnight Praises | in app (`hos-erof`) | [2022 College L2](https://www.youtube.com/watch?v=iYrw8PeSnzg) | 1 |
 | Intro of the Theotokia (Leebon) | مقدمة الثيؤطوكية - ليبون | Midnight Praises | in app (`leebon`) | — |  |
-| Lobsh of the First Hoos | لبش الهوس الأول | Midnight Praises | in app (`lobsh-first-hoos`) | [2026 Middle L1](https://www.youtube.com/watch?v=Oplo5WKyJTI) | 4 |
-| Lobsh of the Second Hoos (Marin Ouonh) | لبش الهوس الثاني (مارين أوونه) | Midnight Praises | in app (`second-hoos-lobsh`) | [2024 Gr 1–2 gifted](https://www.youtube.com/watch?v=avIDlUS30Mw) | 3 |
-| Psali Watos of the Three Saintly Youths (Aripsalin) | إبصالية واطس للثلاثة فتية القديسين | Midnight Praises | in app (`aripalin`) | [2026 Middle L2](https://www.youtube.com/watch?v=u5HsJJHcAEc) | 1 |
-| Psalm 150 of the Fourth Hoos | المزمور 150 من الهوس الرابع | Midnight Praises | in app (`psalm-150-4th-hoos`) | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=22HFcH9NDRc) | 4 |
-| Semoti | سيموتي | Midnight Praises | in app (`semoti`) | [2024 College L1](https://www.youtube.com/watch?v=5mi2egyKYw8) | 1 |
-| Shere ne Maria | شيري ني ماريا | Midnight Praises | in app (`shere-ne-maria`) | [2023 Gr 3–4 gifted](https://www.youtube.com/watch?v=1fqOYma21HI) | 1 |
-| Ten Theeno (long) | تين ثينو الكبير | Midnight Praises | in app (`ten-theeno`) | [2023 Middle gifted](https://www.youtube.com/watch?v=uz6W_0waqyA) | 1 |
-| Ten Thinou (Arise, O children of the light) | تين ثينو | Midnight Praises | in app (`ten-thinou`) | [2025 College L2](https://www.youtube.com/watch?v=pqkaJ2xs6Oc) | 2 |
-| Tennav (Resurrection praise) | مديح القيامة تين ناف | Midnight Praises (also Resurrection · Midnight Praises) | in app (`tennav`) | [2026 College L2](https://www.youtube.com/watch?v=iuJBOm6e7n8) | 1 |
-| Tenoueh Ensok (annual) | تين أويه إنسوك السنوي | Midnight Praises | in app (`tenoue-n-khok`) | [2026 High L2](https://www.youtube.com/watch?v=_q-kXmtK4l8) | 3 |
-| Teoi Enhekanos | تي أوي إن هيكانوس | Midnight Praises | in app (`teoi-enhekanos`) | [2024 College L2](https://www.youtube.com/watch?v=ohkHizhJthI) | 2 |
+| Lobsh of First Hoos | لبش الهوس الأول | Midnight Praises | in app (`lobsh-first-hoos`) | [2026 Middle L1](https://www.youtube.com/watch?v=Oplo5WKyJTI) | 4 |
+| Psalm 150, 4th Hoos | المزمور 150 من الهوس الرابع | Midnight Praises | in app (`psalm-150-4th-hoos`) | [2026 Gr 3–4 L2](https://www.youtube.com/watch?v=22HFcH9NDRc) | 4 |
+| Ten Theeno (Arise, O Children of the Light) | تين ثينو | Midnight Praises | in app (`ten-thinou`) | [2025 College L2](https://www.youtube.com/watch?v=pqkaJ2xs6Oc) | 2 |
+| Tenoueh Ensok (We Follow You) | تين أوويه إنسوك | Midnight Praises | in app (`tenoue-n-khok`) | [2026 High L2](https://www.youtube.com/watch?v=_q-kXmtK4l8) | 3 |
 | The Adam Theotokias Conclusion | ختام الثيؤطوكيات الأدام | Midnight Praises | in app (`adam-theotokias-conclusion`) | — |  |
 | The Commemoration of the Saint | مجمع القديسين | Midnight Praises | in app (`commemoration-of-saints`) | — |  |
 | The Concluding Litany | طلبة الختام | Midnight Praises | in app (`concluding-litany`) | — |  |
 | The Eighth Part - Shashf Ensop | القطعة الثامنة - شاشف إنسوب | Midnight Praises | in app (`shashf-ensop`) | — |  |
 | The Fifteenth Part - Aven Pi-arshee-erevs | القطعة الخامسة عشر - أف إن بي أرشي إريفس | Midnight Praises | in app (`aven-pi-arshee-erevs`) | — |  |
-| The First Hoos | الهوس الأول | Midnight Praises | in app (`first-hoos`) | [2026 High L1](https://www.youtube.com/watch?v=I81ZQNhmnLs) | 2 |
 | The First Hoos Lobsh | لبش الهوس الأول | Midnight Praises | in app (`first-hoos-lobsh`) | — |  |
 | The First Sunday Psali | إبصالية الأحد الأول | Midnight Praises | in app (`first-sunday-psali`) | — |  |
 | The Fourth Hoos | الهوس الرابع | Midnight Praises | in app (`fourth-hoos`) | — |  |
+| The Hymn of Ten-theno | لحن تين ثينو | Midnight Praises | in app (`ten-theeno`) | [2023 Middle gifted](https://www.youtube.com/watch?v=uz6W_0waqyA) | 1 |
+| The Hymn of the Resurrection - Tennav | لحن القيامة - تينناف | Midnight Praises | in app (`tennav`) | [2026 College L2](https://www.youtube.com/watch?v=iuJBOm6e7n8) | 1 |
 | The Second Hoos | الهوس الثاني | Midnight Praises | in app (`second-hoos`) | [2025 Middle L1](https://www.youtube.com/watch?v=ez1xULOdiSQ) | 2 |
+| The Second Hoos Lobsh | لبش الهوس الثاني | Midnight Praises | in app (`second-hoos-lobsh`) | [2024 Gr 1–2 gifted](https://www.youtube.com/watch?v=avIDlUS30Mw) | 3 |
 | The Second Sunday Psali | إبصالية الأحد الثانية | Midnight Praises | in app (`second-sunday-psali`) | — |  |
+| The Seventh Part - Semoti | القطعة السابعة - سيموتي | Midnight Praises | in app (`semoti`) | [2024 College L1](https://www.youtube.com/watch?v=5mi2egyKYw8) | 1 |
+| The Seventh Part - Shere ne Maria | القطعة السابعة - شيري نيه ماريا | Midnight Praises | in app (`shere-ne-maria`) | [2023 Gr 3–4 gifted](https://www.youtube.com/watch?v=1fqOYma21HI) | 1 |
 | The Sixteenth Part - Nim Ghar | القطعة السادسة عشر - نيم غار | Midnight Praises | in app (`nim-ghar`) | — |  |
+| The Tenth Part - Teoi Enhekanos | القطعة العاشرة - تي اوي إنهيكانوس | Midnight Praises | in app (`teoi-enhekanos`) | [2024 College L2](https://www.youtube.com/watch?v=ohkHizhJthI) | 2 |
 | The Third Hoos | الهوس الثالث | Midnight Praises | in app (`third-hoos`) | [2025 High L1](https://www.youtube.com/watch?v=gqlcGOJ4rto) | 2 |
 | The Third Hoos - Esmo Epchois | الهوس الثالث - إسمو إبشويس | Midnight Praises | in app (`esmo-epchois`) | — |  |
 | The Morning Doxology | ذكصولوجية باكر | Morning Praises | in app (`morning-doxology`) | — |  |
@@ -338,12 +338,12 @@ Nothing to review: every placement is confirmed.
 | Conclusion of the Pascha Hours | ختام سواعي البصخة | Hymns | **new** | [2025 Gr 3–4 L1](https://www.youtube.com/watch?v=dRAnvlOaR6w) | 6 |
 | Ethve Ti Anastasis (For the Resurrection of the Dead) | إثفي تي أنسطاسيس | Hymns | in app (`ethbe-ti-anastasis`) | — |  |
 | Ethvete: the Pauline Epistle in the funeral tune | لحن أثفيتي (البولس بلحن التجنيز) | Hymns | **new** | [2025 Gr 3–4 gifted](https://www.youtube.com/watch?v=c8yRoXz3prc) | 1 |
-| Fai Etafenf | لحن فاي إيطاف إنف | Hymns | in app (`fai-etafenf`) | [2026 College required](https://www.youtube.com/watch?v=0H5bBxXND4w) | 3 |
+| Fai Etaf Enf (This Is He Who Offered Himself) | فاي إيتاف إنف | Hymns | in app (`fai-etafenf`) | [2026 College required](https://www.youtube.com/watch?v=0H5bBxXND4w) | 3 |
 | Golgotha | لحن غولغوثا | Hymns | **new** | [2025 High L1](https://www.youtube.com/watch?v=3cQiElL7cN0) | 1 |
 | Introduction and conclusion of the Tarhs, Pascha tune | مقدمة وختام الطروحات بلحن البصخة | Hymns | **new** | [2025 KG gifted](https://www.youtube.com/watch?v=Bais4G3-bxk) | 3 |
 | Introduction to the Confession of the Thief | مقدمة أمانة اللص | Hymns | **new** | [2025 Gr 5–6 L1](https://www.youtube.com/watch?v=PiSEf_roUao) | 1 |
 | Ke Ypertou | كي إبرتو | Hymns | in app (`ke-ypertou`) | — |  |
-| Ou Katikisis | لحن أوكاتي | Hymns | in app (`ou-katikisis`) | [2025 College L1](https://www.youtube.com/watch?v=ZJC5Lm9jopM) | 1 |
+| Ou Katikisis (A Homily) | أوكاتي شيسيس | Hymns | in app (`ou-katikisis`) | [2025 College L1](https://www.youtube.com/watch?v=ZJC5Lm9jopM) | 1 |
 | Ouniatek | لحن أوونياتك | Hymns | **new** | [2025 College](https://www.youtube.com/watch?v=R3c2DHgCXW4) | 1 |
 | Pek Ethronos (Shami psalm) | لحن بيك إثرونوس (المزمور الشامي) | Hymns | **new** | [2025 Gr 5–6 gifted](https://www.youtube.com/watch?v=KZ1a7vObvwU) | 2 |
 | Praxis, sorrowful tune | لحن الإبركسيس الحزايني | Hymns | **new** | [2025 Servants L2](https://www.youtube.com/watch?v=N7aFwG65zak) | 1 |

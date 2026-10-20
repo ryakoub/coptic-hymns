@@ -26,7 +26,7 @@ L.append('Every hymn in the app, plus every Mahragan hymn on the youth-bishopric
          'edit the rules there, not this file.\n')
 L.append(f"- **{len(hymns)} hymns**: {c['in app']} in the app, {c['new']} new from the channel.")
 L.append('- When the channel has a hymn more than once (several years, stages or levels), the most recent video is kept; the others are counted under *Versions*.')
-L.append('- *Status* "in app" means the hymn is already in `content/`, whatever recording it uses.')
+L.append('- *Status* "in app" means the hymn is already in `content/`, whatever recording it uses. Its titles and places here are its own: change them with `tools/titles.py` (a spreadsheet), not in this file.')
 L.append('- ⚠ marks a placement or match to confirm. 🔒 means the newest video is unavailable (`tools/inventory/unavailable.txt`), so an older one is listed or the hymn needs another source.')
 L.append('- Year of the kept video: ' + ', '.join(f'{y}: {n}' for y, n in sorted(years.items())) + '.\n')
 

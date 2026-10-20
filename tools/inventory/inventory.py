@@ -60,8 +60,15 @@ for key, vids in groups.items():
         f = FALLBACKS[key]
         video = dict(id=f['id'], url=f"https://www.youtube.com/watch?v={f['id']}", title=f['title'], year=f['year'], stage=f['stage'],
                      level=f['level'], uploaded=None, duration=None, playable=True, channel=f['channel'])
+    # A hymn in the app shows its own titles and places (its info.json, edited with tools/titles.py);
+    # the rules only place hymns not added yet.
+    english, arabic, places = c['english'], c['arabic'], c['places']
+    if in_app:
+        e = existing[in_app]
+        english, arabic = e['en'] or english, e['ar'] or arabic
+        places = [p if isinstance(p, str) else p['place'] for p in e['places']] or places
     hymns.append(dict(
-        key=key, english=c['english'], arabic=c['arabic'], places=[place_label(p) | {'id': p} for p in c['places']],
+        key=key, english=english, arabic=arabic, places=[place_label(p) | {'id': p} for p in places],
         status='in app' if in_app else 'new', app_id=in_app, note=c['note'],
         video=video,
         newest_unplayable=[dict(id=v['id'], year=v['year']) for v in vids if recency(v) > recency(best) and not playable(v)],

@@ -86,3 +86,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 The St. Anthony Monastery English album continues on Part 2, Part 3… pages of the same album for the later hymns.
 
 Hymns already in the app under Mahragan (such as Ten Theeno or Tenoueh Ensok) only need `places` and `order` added to their `info.json`; adding them again would duplicate them.
+
+## Fixing titles and places
+
+`python3 tools/titles.py export ~/Downloads/hymns.csv` writes every recording's titles, tune name, places and order as one spreadsheet. Edit it in Numbers, export it as CSV again, then `python3 tools/titles.py import ~/Downloads/hymns.csv`, `python3 tools/build_catalog.py`, commit and push. Places not in `catalog/library.json` are reported and left as they were. Don't edit `docs/app/hymn-inventory.md`: it is generated (`tools/inventory/`) and shows each hymn's own titles and places.
