@@ -40,7 +40,7 @@ Phase 0, October 2026. How hymns, tunes, the library and user data are stored, f
 - Line ids (`l1`, `l2`, …) are stable. Recordings refer to lines by id.
 - `translations` and `transliterations` hold `english` and `arabic`. `transliterations.arabic` is the Coptic written in Arabic letters, as printed in most Coptic books.
 - `role` (optional) says who sings the line: `priest`, `deacon`, `people`, `north`, `south`.
-- `label` lines are headings that are not sung, such as "General Funeral". A label may be a string or `{ "english": "…", "arabic": "…" }`. `static` lines are shown without timing.
+- `label` lines are headings that are not sung, such as "General Funeral". A label is a string: the app reads it as plain text, so the catalog builder turns a `{ "english": "…", "arabic": "…" }` label into its English. `static` lines are shown without timing.
 
 ### Recording
 

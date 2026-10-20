@@ -89,6 +89,14 @@ def lyrics_from(verses):
     Left without start times: the app's Time words screen times them."""
     out = []
     for lines in verses:
+        # Tasbeha writes instructions ("From 12 Baona to 9 Baba … is said:") as lines whose Coptic is "-":
+        # they become labels, shown but not sung or timed.
+        if all(not re.search(r"[Ⲁ-⳿Ϣ-ϯ]", l["coptic"]) for l in lines):
+            # The app reads a label as plain text, so it takes the English (or the Arabic when there is none).
+            label = " ".join(l["english"] for l in lines if l["english"]) or " ".join(l["arabic"] for l in lines if l["arabic"])
+            if label:
+                out.append({"label": label})
+            continue
         line = {"coptic": " ".join(l["coptic"] for l in lines),
                 "translations": {k: v for k, v in {"english": " ".join(l["english"] for l in lines if l["english"]),
                                                    "arabic": " ".join(l["arabic"] for l in lines if l["arabic"])}.items() if v}}

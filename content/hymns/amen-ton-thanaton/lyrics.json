@@ -1,0 +1,41 @@
+[
+  {
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ: ⲧⲟⲛ ⲑⲁⲛⲁⲧⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ ⲕⲁⲧⲁⲅⲅⲉⲗⲗⲟⲙⲉⲛ: ⲕⲉ ⲧⲏⲛ ⲁ̀ⲅⲓⲁⲛ ⲥⲟⲩ ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲛ ⲕⲉ ⲧⲏⲛ ⲁ̀ⲛⲁⲗⲏⲯⲓⲛ ⲥⲟⲩ ⲛ̀ⲧⲏⲥ ⲟⲩⲣⲁⲛⲓⲥ ⲥⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ.",
+    "translations": {
+      "english": "Amen. Amen. Amen. Your Death, O Lord, we proclaim; Your holy Resurrection and Ascension into the heavens, we confess.",
+      "arabic": "آمين. آمين. آمين. بموتك يا رب نبشر، وبقيامتك المقدسة وصعودك إلى السموات، نعترف."
+    },
+    "transliterations": {
+      "english": "Ameen ameen ameen: ton thanaton sou Kirie katangellomen: ke teen agian sou anastasin ke teen analeepsin sou entees ouranis se omologhoumen."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ:"
+      },
+      {
+        "coptic": "ⲧⲟⲛ ⲑⲁⲛⲁⲧⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ ⲕⲁⲧⲁⲅⲅⲉⲗⲗⲟⲙⲉⲛ:"
+      },
+      {
+        "coptic": "ⲕⲉ ⲧⲏⲛ ⲁ̀ⲅⲓⲁⲛ ⲥⲟⲩ ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲛ ⲕⲉ ⲧⲏⲛ ⲁ̀ⲛⲁⲗⲏⲯⲓⲛ ⲥⲟⲩ ⲛ̀ⲧⲏⲥ ⲟⲩⲣⲁⲛⲓⲥ ⲥⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲥⲉ ⲉ̀ⲛⲟⲩⲙⲉⲛ ⲥⲉ ⲉⲩⲗⲟⲅⲟⲩⲙⲉⲛ ⲥⲓ ⲉⲩⲭⲁⲣⲓⲥⲧⲟⲩⲙⲉⲛ Ⲕⲩⲣⲓⲉ: ⲕⲉ ⲇⲉⲟ̀ⲙⲉⲑⲁ ⲥⲟⲩ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ.",
+    "translations": {
+      "english": "We praise You, we bless You, we thank You, O Lord, and we entreat You, O our God.",
+      "arabic": "نسبحك، نباركك، نشكرك يا رب ونتضرع إليك يا إلهنا."
+    },
+    "transliterations": {
+      "english": "Se enoumen se evloghoumen si evkharistoumen Kirie: ke the-ometha sou o Theos eemon."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲥⲉ ⲉ̀ⲛⲟⲩⲙⲉⲛ ⲥⲉ ⲉⲩⲗⲟⲅⲟⲩⲙⲉⲛ ⲥⲓ ⲉⲩⲭⲁⲣⲓⲥⲧⲟⲩⲙⲉⲛ Ⲕⲩⲣⲓⲉ:"
+      },
+      {
+        "coptic": "ⲕⲉ ⲇⲉⲟ̀ⲙⲉⲑⲁ ⲥⲟⲩ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ."
+      }
+    ]
+  }
+]

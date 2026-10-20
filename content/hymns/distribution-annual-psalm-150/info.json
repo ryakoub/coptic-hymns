@@ -1,0 +1,20 @@
+{
+  "title": "Annual Distribution and Psalm 150",
+  "titles": {
+    "english": "Annual Distribution and Psalm 150",
+    "arabic": "التوزيع السنوي والمزمور 150"
+  },
+  "youtube": "https://www.youtube.com/watch?v=LwC3t6WzFd0",
+  "places": [
+    "annual/liturgy"
+  ],
+  "text": "distribution-alleluia-annual",
+  "tune": {
+    "english": "With Psalm 150"
+  },
+  "mahragan": {
+    "year": 2025,
+    "stage": "ms",
+    "level": "2"
+  }
+}

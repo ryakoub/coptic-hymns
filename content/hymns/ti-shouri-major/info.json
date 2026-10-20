@@ -1,0 +1,20 @@
+{
+  "title": "Ti Shouri (long)",
+  "titles": {
+    "english": "Ti Shouri (long)",
+    "arabic": "لحن تي شوري الكبيرة"
+  },
+  "youtube": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
+  "places": [
+    "annual/raising-of-incense"
+  ],
+  "text": "censer-annual",
+  "tune": {
+    "english": "Long"
+  },
+  "mahragan": {
+    "year": 2025,
+    "stage": "ms",
+    "level": "gifted"
+  }
+}

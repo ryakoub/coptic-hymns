@@ -1,0 +1,21 @@
+{
+  "title": "Vespers Gospel Response (annual)",
+  "titles": {
+    "english": "Vespers Gospel Response (annual)",
+    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ",
+    "arabic": "مرد إنجيل رفع بخور عشية السنوي"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/1843",
+  "places": [
+    "annual/raising-of-incense"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=np_DWSwzRJo",
+  "tune": {
+    "english": "Vespers"
+  },
+  "mahragan": {
+    "year": 2026,
+    "stage": "kg",
+    "level": "1"
+  }
+}

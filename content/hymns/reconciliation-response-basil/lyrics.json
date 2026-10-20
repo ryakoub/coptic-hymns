@@ -1,0 +1,59 @@
+[
+  {
+    "coptic": "Ⲡⲓⲗⲁⲟⲥ: Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+    "translations": {
+      "english": "People: Through the intercessions of the Theotokos, Saint Mary, O Lord, grant us the forgiveness of our sins.",
+      "arabic": "الشعب: بشفاعاتِ والدةِ الإلهِ القديسةِ مريم، يا ربُّ أَنعِمْ لنا بمغفرةِ خطايانا."
+    },
+    "transliterations": {
+      "english": "Pilaos: Hiten ni-epresvia ente Tithe-otokos ethowab Maria: Epshois ari-ehmot nan empiko evol ente nennovi."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲡⲓⲗⲁⲟⲥ:"
+      },
+      {
+        "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ:"
+      },
+      {
+        "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+    "translations": {
+      "english": "We worship You, O Christ, with Your good Father and the Holy Spirit, for You (have come) and saved us.",
+      "arabic": "نسجدُ لكَ أيها المسيحُ، مع أبيكَ الصالح، والروحِ القدسِ، لأنكَ (أتيتَ) وخلَّصتنا."
+    },
+    "transliterations": {
+      "english": "Tenowosht emmok o Pi-ekhristos nem Pekiot enaghathos nem Pi-epnevma Ethowab: je (aki) aksoti emmon."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ:"
+      },
+      {
+        "coptic": "ϫⲉ (ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲉ̀ⲗⲉⲟⲥ ⲓ̀ⲣⲏⲛⲏⲥ: ⲑⲩⲥⲓⲁ ⲉ̀ⲛⲉⲥⲉⲱⲥ.",
+    "translations": {
+      "english": "A mercy of peace, a sacrifice of praise.",
+      "arabic": "رحمةُ السلامِ، ذبيحةُ التسبيحِ."
+    },
+    "transliterations": {
+      "english": "Eleos ireenees: thisia eneseos."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲉ̀ⲗⲉⲟⲥ ⲓ̀ⲣⲏⲛⲏⲥ:"
+      },
+      {
+        "coptic": "ⲑⲩⲥⲓⲁ ⲉ̀ⲛⲉⲥⲉⲱⲥ."
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+{
+ "id": "aspazisti",
+ "titles": {
+  "english": "Aspazisti",
+  "coptic": "Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ ⲉⲛ ⲫⲓⲗⲏⲙⲁⲧⲓ ⲁ̀ⲅⲓⲱ.",
+  "arabic": "أسبازيستي"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ ⲉⲛ ⲫⲓⲗⲏⲙⲁⲧⲓ ⲁ̀ⲅⲓⲱ.",
+   "translations": {
+    "english": "Greet one another with a holy kiss.",
+    "arabic": "قبِّلوا بعضَكُمْ بعضاً بقُبلةٍ مقدسةٍ."
+   },
+   "transliterations": {
+    "english": "Aspazeste alleelous en fileemati agio."
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲁ̀ⲙⲏⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ.",
+   "translations": {
+    "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy, O [Lord] Jesus Christ, Son of God, hear us and have mercy upon us.",
+    "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم، الذي هو يسوع المسيح إبن الله، إسمعنا وإرحمنا."
+   },
+   "transliterations": {
+    "english": "Ameen. Kirie ele-eeson Kirie ele-eeson Kirie ele-eeson. Ete fai pe Ieesous Pi-ekhristos Epsheeri emefnoti sotem eron o-woh nai nan."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲙⲏⲛ."
+    },
+    {
+     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ."
+    },
+    {
+     "coptic": "Ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲥ̀ⲧⲱⲙⲉⲛ ⲕⲁⲗⲱⲥ: ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲩⲗⲁⲃⲱⲥ: ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲕⲧⲉⲛⲱⲥ: ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲛⲓ̀ⲣⲏⲛⲏ: ⲥ̀ⲧⲟⲙⲉⲛ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲕⲉ ⲧ̀ⲣⲟⲙⲟⲩ ⲕⲉ ⲕⲁⲧⲁ ⲛⲩⲝⲉⲟⲥ.",
+   "translations": {
+    "english": "Let us stand well, let us stand reverently, let us stand earnestly, let us stand in peace, let us stand in the fear of God, with trembling and reverence.",
+    "arabic": "فلنقف حسناً، لنقف بتقوَى، نقف بإتصال، نقف بسلام، نقف بخوف الله ورعدة وخشوع."
+   },
+   "transliterations": {
+    "english": "Estomen kalos: estomen evlavos: estomen ektenos: estomen enireenee: estomen meta fovou Theou ke etromou ke kata nikseos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥ̀ⲧⲱⲙⲉⲛ ⲕⲁⲗⲱⲥ:"
+    },
+    {
+     "coptic": "ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲩⲗⲁⲃⲱⲥ:"
+    },
+    {
+     "coptic": "ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲕⲧⲉⲛⲱⲥ:"
+    },
+    {
+     "coptic": "ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲛⲓ̀ⲣⲏⲛⲏ:"
+    },
+    {
+     "coptic": "ⲥ̀ⲧⲟⲙⲉⲛ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲕⲉ ⲧ̀ⲣⲟⲙⲟⲩ ⲕⲉ ⲕⲁⲧⲁ ⲛⲩⲝⲉⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲡⲓⲕ̀ⲗⲏⲣⲟⲥ ⲛⲉⲙ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ: ϧⲉⲛ ⲟⲩⲧⲱⲃϩ ⲛⲉⲙ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ: ⲛⲉⲙ ⲟⲩⲥⲉⲙⲛⲓ ⲛⲉⲙ ⲟⲩⲭⲁⲣⲱϥ.",
+   "translations": {
+    "english": "O clergy and all the people, with prayer and with thanksgiving; with tranquility and silence,",
+    "arabic": "أيها الإكليروس وكل الشعب بطلبة وشكر، بهدوء وسكوت."
+   },
+   "transliterations": {
+    "english": "Pi-ekleeros nem pilaos teerf: khen outovh nem oushepehmot: nem ousemni nem oukarof."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲡⲓⲕ̀ⲗⲏⲣⲟⲥ ⲛⲉⲙ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩⲧⲱⲃϩ ⲛⲉⲙ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲟⲩⲥⲉⲙⲛⲓ ⲛⲉⲙ ⲟⲩⲭⲁⲣⲱϥ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ϥⲁⲓ ⲛ̀ⲛⲉⲧⲉⲛⲃⲁⲗ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲡ̀ⲥⲁ ⲛ̀ϯⲁ̀ⲛⲁⲧⲟⲗⲏ: ⲛ̀ⲧⲉⲧⲉⲛⲛⲁⲩ ⲉ̀ⲡⲓⲑⲩⲥⲓⲁⲥ ⲧⲏⲣⲓⲟⲛ: ⲉ̀ⲣⲉ Ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ Ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ ⲭⲏ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ.",
+   "translations": {
+    "english": "raise your eyes towards the East to see the altar and the Body and the Blood of Emmanuel our God placed upon it.",
+    "arabic": "إرفعوا أعينكم إلى ناحية المشرق، لتنظروا المذبح وجسد ودم عمانوئيل إلهنا موضوعين عليه."
+   },
+   "transliterations": {
+    "english": "Fai ennetenval e-epshoi e-epsa enti-anatolee: entetennav epithisias teerion: ere Pisoma nem Pi-esnof ente Emmanoweel Pennoti kee e-ehree egof."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϥⲁⲓ ⲛ̀ⲛⲉⲧⲉⲛⲃⲁⲗ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲡ̀ⲥⲁ ⲛ̀ϯⲁ̀ⲛⲁⲧⲟⲗⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉⲧⲉⲛⲛⲁⲩ ⲉ̀ⲡⲓⲑⲩⲥⲓⲁⲥ ⲧⲏⲣⲓⲟⲛ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲣⲉ Ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ Ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ ⲭⲏ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲉ̀ⲣⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲛⲉⲙ ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲛⲁ ⲡⲓⲥⲟⲟⲩ (ⲋ) ⲛ̀ⲧⲉⲛϩ: ⲛⲉⲙ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲉⲑⲙⲉϩ ⲙ̀ⲃⲁⲗ: ⲉⲩϩⲱⲃⲥ ⲛ̀ⲛⲟⲩϩⲟ ⲉⲑⲃⲉ ⲑ̀ⲙⲉⲧⲥⲁⲓⲉ ⲛ̀ⲧⲉ ⲡⲉϥⲛⲓϣϯ ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲁⲧϣ̀ⲉⲣⲑⲉⲱ̀ⲣⲓⲛ ⲙ̀ⲙⲟϥ ⲟⲩⲟϩ ⲛ̀ⲁⲧϣ̀ⲥⲁϫⲓ ⲙ̀ⲙⲟϥ.",
+   "translations": {
+    "english": "The angels and archangels are standing, the Seraphim with six wings and the Cherubim full of eyes are covering their faces because of the splendor of His great glory, which is invisible and ineffable,",
+    "arabic": "الملائكة ورؤساء الملائكة قيام. السِّرافيم ذو الستة أجنحه والشاروبيم الممتلئون أعيناً يسترون وجوههم من بهاء عظمة مجده غير المنظور ولا ينطق بة."
+   },
+   "transliterations": {
+    "english": "Ere niangelos ohi eratou nem niarsheeangelos: Niserafim na pisoou (soou) entenh: nem Nisherouvim ethmeh emval: evhovs ennouho ethve ethmetsaie ente pefnishti epoou: enatesherthe-orin emmof o-woh enateshsaji emmof."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉ̀ⲣⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲛⲉⲙ ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲛⲁ ⲡⲓⲥⲟⲟⲩ (ⲋ) ⲛ̀ⲧⲉⲛϩ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲉⲑⲙⲉϩ ⲙ̀ⲃⲁⲗ:"
+    },
+    {
+     "coptic": "ⲉⲩϩⲱⲃⲥ ⲛ̀ⲛⲟⲩϩⲟ ⲉⲑⲃⲉ ⲑ̀ⲙⲉⲧⲥⲁⲓⲉ ⲛ̀ⲧⲉ ⲡⲉϥⲛⲓϣϯ ⲡ̀ⲱ̀ⲟⲩ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲁⲧϣ̀ⲉⲣⲑⲉⲱ̀ⲣⲓⲛ ⲙ̀ⲙⲟϥ ⲟⲩⲟϩ ⲛ̀ⲁⲧϣ̀ⲥⲁϫⲓ ⲙ̀ⲙⲟϥ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲉⲩϩⲱⲥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲟⲩⲱⲧ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ⲅⲏ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ.",
+   "translations": {
+    "english": "Praising in one voice, proclaiming and saying: “Holy, holy, holy, Lord of hosts, heaven and earth are full of Your holy glory.”",
+    "arabic": "يسبحون بصوت واحد صارخين قائلين: \"قدوس قدوس قدوس رب الصاباؤوت. السماء والأرض مملوءتان من مجدك الأقدس.\""
+   },
+   "transliterations": {
+    "english": "Evhos khen ou-esmee enowot: evosh evol evgo emmos: je agios agios agios: Kirios savaoth: epleerees o ouranos ke eegee tees agias sou thoksees."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲩϩⲱⲥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲟⲩⲱⲧ:"
+    },
+    {
+     "coptic": "ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ:"
+    },
+    {
+     "coptic": "ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ⲅⲏ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ."
+    }
+   ]
+  }
+ ]
+}

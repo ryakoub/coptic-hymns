@@ -1,0 +1,32 @@
+{
+ "id": "ten-oosht-evol-basil",
+ "titles": {
+  "english": "Ten Oosht Evol response, St. Basil Liturgy",
+  "arabic": "مرد تين جوشت إيفول للقداس الباسيلي"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲁ ⲧ̀ϩⲏ ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ: ⲛⲉⲙ ⲡⲓⲱⲛϧ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲱⲛ ⲉⲑⲛⲏⲟⲩ. Ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "We look for the resurrection of the dead, and the life of the age to come. Amen.",
+    "arabic": "وننتظر قيامة الأموات وحياة الدهر الآتي. آمين."
+   },
+   "transliterations": {
+    "english": "Tengousht evol kha ethee enti-anastasis ente nirefmoout: nem pionkh ente pi-eon ethneeou. Ameen."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲁ ⲧ̀ϩⲏ ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡⲓⲱⲛϧ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲱⲛ ⲉⲑⲛⲏⲟⲩ."
+    },
+    {
+     "coptic": "Ⲁ̀ⲙⲏⲛ."
+    }
+   ]
+  }
+ ]
+}

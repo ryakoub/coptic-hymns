@@ -1,0 +1,32 @@
+[
+  {
+    "coptic": "Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ ⲉⲥⲧⲉ ⲉⲥⲧⲓⲛ ⲁ̀ⲡⲟ ⲅⲉⲛⲉⲁⲥ ⲓⲥ ⲅⲉⲛⲉⲁⲛ ⲕⲉ ⲡⲁⲛⲧⲁⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.",
+    "translations": {
+      "english": "As it was and shall be, it is from generation to generation, and unto all the ages of the ages. Amen.",
+      "arabic": "كما كان وهكذا يكون، من جيل إلى جيل، وإلى دهر الدهور. آمين."
+    },
+    "transliterations": {
+      "english": "Osper een ke este estin apo geneas is genean ke pantas tous e-onas ton e-onon: ameen."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲱⲥⲡⲉⲣ ⲏⲛ"
+      },
+      {
+        "coptic": "ⲕⲉ ⲉⲥⲧⲉ ⲉⲥⲧⲓⲛ"
+      },
+      {
+        "coptic": "ⲁ̀ⲡⲟ ⲅⲉⲛⲉⲁⲥ ⲓⲥ ⲅⲉⲛⲉⲁⲛ"
+      },
+      {
+        "coptic": "ⲕⲉ ⲡⲁⲛⲧⲁⲥ ⲧⲟⲩⲥ"
+      },
+      {
+        "coptic": "ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲙⲏⲛ."
+      }
+    ]
+  }
+]

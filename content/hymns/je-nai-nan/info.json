@@ -1,0 +1,20 @@
+{
+  "title": "Je Nai Nan response",
+  "titles": {
+    "english": "Je Nai Nan response",
+    "arabic": "مرد جي ناي نان"
+  },
+  "youtube": "https://www.youtube.com/watch?v=u0vaygdZyoE",
+  "places": [
+    "annual/liturgy"
+  ],
+  "text": "eleison-imas-je-nai-nan",
+  "tune": {
+    "english": "Je Nai Nan only"
+  },
+  "mahragan": {
+    "year": 2025,
+    "stage": "grades-3-4",
+    "level": "2"
+  }
+}

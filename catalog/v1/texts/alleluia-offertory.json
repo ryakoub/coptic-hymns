@@ -1,0 +1,22 @@
+{
+ "id": "alleluia-offertory",
+ "titles": {
+  "english": "Alleluia of the Offertory (Al el-Korban)",
+  "coptic": "Ⲁⲗ",
+  "arabic": "لحن آللي القربان"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+   "translations": {
+    "english": "Alleluia.",
+    "arabic": "هلليلويا."
+   },
+   "transliterations": {
+    "english": "Alleelouia"
+   }
+  }
+ ]
+}

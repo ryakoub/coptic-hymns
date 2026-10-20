@@ -1,0 +1,20 @@
+{
+  "title": "Ti Stoli",
+  "titles": {
+    "english": "Ti Stoli",
+    "coptic": "Ϯⲥ̀ⲧⲟⲗⲏ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ",
+    "arabic": "لحن تي إستولي"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/1452",
+  "places": [
+    "annual/special",
+    "crowning/hymns",
+    "veneration/hymns"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=jzCkqSmljCQ",
+  "mahragan": {
+    "year": 2023,
+    "stage": "hs",
+    "level": "gifted"
+  }
+}

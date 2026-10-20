@@ -1,0 +1,70 @@
+[
+  {
+    "coptic": "Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ Ⲑⲉⲟⲥ ⲩ̀ⲙⲱⲛ.",
+    "translations": {
+      "english": "Glory be to You, O our God.",
+      "arabic": "المجد لك يا إلهنا."
+    },
+    "transliterations": {
+      "english": "Thoksa si o Theos imon."
+    }
+  },
+  {
+    "coptic": "Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲥ̀ⲙⲟⲩ Ⲡ̀ϭⲟⲓⲥ: ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ: ϫⲉ ⲁ̀ ⲡⲉϥⲛⲁⲓ ⲧⲁϫⲣⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲟⲩⲟϩ ϯⲙⲉⲑⲙⲏⲓ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+    "translations": {
+      "english": "Praise the Lord all you nations, praise Him all you peoples, for His mercy is confirmed upon us, and the truth of the Lord endures forever, alleluia.",
+      "arabic": "يا جميع الأمم سبحوا الرب، ولتباركه جميع الشعوب، لأن رحمته قد قويت علينا، وحق الرب يدوم إلى الأبد، هلليلويا."
+    },
+    "transliterations": {
+      "english": "Niethnos teerou esmou Epshois: marou-esmou erof enje nilaos teerou: je a pefnai tagro e-ehree egon: o-woh timethmee ente Epshois shop sha eneh: alleelouia."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲥ̀ⲙⲟⲩ Ⲡ̀ϭⲟⲓⲥ:"
+      },
+      {
+        "coptic": "ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ:"
+      },
+      {
+        "coptic": "ϫⲉ ⲁ̀ ⲡⲉϥⲛⲁⲓ ⲧⲁϫⲣⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+      },
+      {
+        "coptic": "ⲟⲩⲟϩ ϯⲙⲉⲑⲙⲏⲓ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ:"
+      },
+      {
+        "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲉⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+    "translations": {
+      "english": "Glory be to the Father and the Son and the Holy Spirit, now and forever and unto the age of all ages amen, alleluia alleluia.",
+      "arabic": "المجد للآب والإبن والرُّوح القُدُس، الآن وكل أوان وإلى دهر الدهور آمين، هلليلويا هلليلويا."
+    },
+    "transliterations": {
+      "english": "Thoksa Patri ke I-io ke Agio Epnevmati: ke nin ke a-i ke is tous e-onas ton e-onon amen: alleelouia alleelouia."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ:"
+      },
+      {
+        "coptic": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲉⲛ:"
+      },
+      {
+        "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ Ⲑⲉⲟⲥ ⲩ̀ⲙⲱⲛ.",
+    "translations": {
+      "english": "Glory be to You, O our God.",
+      "arabic": "المجد لك يا إلهنا."
+    },
+    "transliterations": {
+      "english": "Thoksa si o Theos imon."
+    }
+  }
+]

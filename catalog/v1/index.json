@@ -1,6 +1,6 @@
 {
- "version": "93f0a5b4469073e7",
- "updated": "2026-10-19T21:20:57Z",
+ "version": "6fb291977cc67fcb",
+ "updated": "2026-10-20T00:23:43Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -52,31 +52,63 @@
       {
        "service": "raising-of-incense",
        "entries": [
+        "hetenyat-annual",
+        "concluding-canon-annual",
+        "doxology-archangel-michael",
         "doxology-heavenly-orders",
         "doxology-st-mary-vespers",
         "doxology-st-mary-matins",
+        "doxology-john-baptist-1",
+        "kyrie-eleison-major",
+        "doxology-john-baptist-2",
         "st-mark-doxology-first-one",
-        "censer-annual"
+        "ten-oosht-evol-vespers-matins",
+        "censer-annual",
+        "ti-shouri-major",
+        "gospel-response-matins-annual",
+        "gospel-response-vespers-annual"
        ]
       },
       {
        "service": "liturgy",
        "entries": [
+        "alleluia-offertory",
+        "amen-ton-thanaton",
         "anaphora-responses-st-basil-st-gregory-liturgies",
+        "aspasmos-adam-annual",
+        "aspasmos-watos-annual",
+        "distribution-alleluia-annual",
+        "distribution-annual-psalm-150",
+        "os-ein-response",
+        "concluding-canon-annual",
+        "eleison-imas-je-nai-nan",
+        "je-nai-nan",
         "ere-po-esmo-may-their-holy-blessing",
         "liturgy-gospel-response-annual",
         "paralex-shere-maria",
+        "pi-ehmot-ghar-small",
         "pi-oik",
         "praxis-response-annual",
+        "praxis-response-annual-major",
+        "reconciliation-response-basil",
+        "cherubim-response",
         "sotees-ameen-fast",
+        "sotees-ameen-major",
+        "tai-shouri",
+        "ten-oosht-evol-basil",
+        "ten-oosht-evol-gregory",
         "hymn-of-the-blessing",
         "the-thought-of-man",
-        "this-is-the-day"
+        "this-is-the-day",
+        "agios-annual"
        ]
       },
       {
        "service": "special",
-       "entries": []
+       "entries": [
+        "aspazisti",
+        "ti-stoli"
+       ]
       }
      ],
      "notations": [
@@ -801,7 +833,9 @@
         "english": "Vesper Praises",
         "arabic": "تسبحة عشية"
        },
-       "entries": []
+       "entries": [
+        "ni-ethnos-tero"
+       ]
       },
       {
        "id": "midnight-praises",
@@ -837,6 +871,8 @@
         "concluding-litany",
         "arihouo-gasf-third-hoos",
         "conclusion-midnight-praises",
+        "evol-hiten-major",
+        "hos-erof",
         "lobsh-first-hoos",
         "psalm-150-4th-hoos",
         "ten-thinou"
@@ -850,6 +886,16 @@
        },
        "entries": [
         "morning-doxology"
+       ]
+      },
+      {
+       "id": "special",
+       "titles": {
+        "english": "Special hymns",
+        "arabic": "ألحان خاصة"
+       },
+       "entries": [
+        "ti-galilee"
        ]
       }
      ]
@@ -974,7 +1020,28 @@
        "titles": {
         "english": "Hymns"
        },
-       "entries": []
+       "entries": [
+        "ti-stoli"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "crowning",
+     "titles": {
+      "english": "Crowning (Wedding)",
+      "arabic": "الإكليل"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": [
+        "ti-stoli"
+       ]
       }
      ]
     }
@@ -1195,6 +1262,83 @@
    }
   },
   {
+   "id": "agios-annual",
+   "titles": {
+    "english": "Trisagion (annual)",
+    "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ",
+    "arabic": "الثلاث تقديسات السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "agios-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/agios-annual.json",
+    "bytes": 5305,
+    "sha256": "d501436d617229cf0fb324c52bfed7e4703a3b49b37e6938d81ebd599a925b36"
+   }
+  },
+  {
+   "id": "alleluia-offertory",
+   "titles": {
+    "english": "Alleluia of the Offertory (Al el-Korban)",
+    "coptic": "Ⲁⲗ",
+    "arabic": "لحن آللي القربان"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "alleluia-offertory"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/alleluia-offertory.json",
+    "bytes": 416,
+    "sha256": "efe7773e47c1142439d9a4dea3d216ec5a375ec12891505c60810a32215bde78"
+   }
+  },
+  {
+   "id": "amen-ton-thanaton",
+   "titles": {
+    "english": "Amen, Amen, Amen, Ton thanaton sou",
+    "arabic": "مرد آمين آمين آمين تون ثاناتون سو"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "amen-ton-thanaton"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/amen-ton-thanaton.json",
+    "bytes": 2487,
+    "sha256": "bf3433add05f4dfe7f85a188a56befcd1367c4babd6a22bd3dcb4a7d3011899e"
+   }
+  },
+  {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "titles": {
     "english": "Anaphora Responses of St. Basil and St. Gregory Liturgies"
@@ -1272,6 +1416,32 @@
    }
   },
   {
+   "id": "aspasmos-adam-annual",
+   "titles": {
+    "english": "Annual Aspasmos Adam",
+    "coptic": "Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ Ⲙⲁⲣⲓⲁ",
+    "arabic": "الأسبسمس الآدام السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 7,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "aspasmos-adam-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aspasmos-adam-annual.json",
+    "bytes": 7943,
+    "sha256": "484b2aaae994d2ccc6485bd1e8cd67f5191659fa62efce9ace979b1d32f4ac32"
+   }
+  },
+  {
    "id": "aspasmos-adam-resurrection",
    "titles": {
     "english": "Aspasmos Adam, Resurrection",
@@ -1291,6 +1461,58 @@
     "url": "catalog/v1/texts/aspasmos-adam-resurrection.json",
     "bytes": 1007,
     "sha256": "e664ca697b2362e5b0524c33ebf0e06fdea69c4ac34e9e10f154219140a01c18"
+   }
+  },
+  {
+   "id": "aspasmos-watos-annual",
+   "titles": {
+    "english": "Annual Aspasmos Watos",
+    "coptic": "Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ",
+    "arabic": "الأسبسمس الواطس السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "aspasmos-watos-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aspasmos-watos-annual.json",
+    "bytes": 5565,
+    "sha256": "58b98f2934f5cfb1e4cae520cf53090b1ba54f0d3229d0a744ec89eabcd53586"
+   }
+  },
+  {
+   "id": "aspazisti",
+   "titles": {
+    "english": "Aspazisti",
+    "coptic": "Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ ⲉⲛ ⲫⲓⲗⲏⲙⲁⲧⲓ ⲁ̀ⲅⲓⲱ.",
+    "arabic": "أسبازيستي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 7,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "aspazisti"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aspazisti.json",
+    "bytes": 9164,
+    "sha256": "205f117db01a0afa36345bb6ba09b144ce233616994355fbaf825b557d4d70d2"
    }
   },
   {
@@ -1370,12 +1592,38 @@
    ],
    "transliterations": [],
    "recordings": [
-    "censer-annual"
+    "censer-annual",
+    "ti-shouri-major"
    ],
    "file": {
     "url": "catalog/v1/texts/censer-annual.json",
     "bytes": 652,
     "sha256": "548cd5b39a9b12ebc74e9ecb7f5436c2a258aade4508790bef949d62a905b79c"
+   }
+  },
+  {
+   "id": "cherubim-response",
+   "titles": {
+    "english": "Response of the Cherubim's praise",
+    "arabic": "مرد تسبحة الشاروبيم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "cherubim-response"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/cherubim-response.json",
+    "bytes": 2145,
+    "sha256": "ac3804491d5ba69bdbf6665c6443200b853563b8d4a22d7e17ab3e07dc190eb8"
    }
   },
   {
@@ -1461,6 +1709,32 @@
     "url": "catalog/v1/texts/commemoration-of-saints.json",
     "bytes": 99695,
     "sha256": "ec06272e97b6f69cc10b3659184883c8a9bdbcc8ab965a56c505b48c5a1988a9"
+   }
+  },
+  {
+   "id": "concluding-canon-annual",
+   "titles": {
+    "english": "Closing Canon of the communal prayers (annual)",
+    "coptic": "Ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "arabic": "ختام الصلوات الجماعية السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "concluding-canon-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/concluding-canon-annual.json",
+    "bytes": 5638,
+    "sha256": "306eecfb9445488b6e0180d124fa638f6f258c3b05ec44ee2d423a9e5e5c5fb4"
    }
   },
   {
@@ -1555,6 +1829,33 @@
    }
   },
   {
+   "id": "distribution-alleluia-annual",
+   "titles": {
+    "english": "Annual Distribution Alleluia",
+    "coptic": "Ⲥ̀ⲙⲟⲩ Ⲫ̀ⲛⲟⲩϯ",
+    "arabic": "آللي التوزيع السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 18,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "distribution-alleluia-annual",
+    "distribution-annual-psalm-150"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/distribution-alleluia-annual.json",
+    "bytes": 7545,
+    "sha256": "c1a5e9d5ffdabc60de9bd9f740883fc642225e3b3b4db29f57b115e2d0f55f7a"
+   }
+  },
+  {
    "id": "distribution-refrain-resurrection",
    "titles": {
     "english": "Distribution Refrain for Resurrection"
@@ -1573,6 +1874,32 @@
     "url": "catalog/v1/texts/distribution-refrain-resurrection.json",
     "bytes": 431,
     "sha256": "87163969417595eda04420360e506468733fa0b6c9f4f57f4b7ab2b85e107634"
+   }
+  },
+  {
+   "id": "doxology-archangel-michael",
+   "titles": {
+    "english": "Doxology of Archangel Michael",
+    "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ",
+    "arabic": "ذكصولوجية الملاك ميخائيل"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-archangel-michael"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-archangel-michael.json",
+    "bytes": 7072,
+    "sha256": "7e5dd6dc59ca52f9a071b3625b1393dda46687bd5229c90e1d2adeeac40018cf"
    }
   },
   {
@@ -1601,6 +1928,58 @@
     "url": "catalog/v1/texts/doxology-heavenly-orders.json",
     "bytes": 8603,
     "sha256": "693f57d277edf7a265938b11f0ab18f647af2803c70da5c26aa116b52776fc86"
+   }
+  },
+  {
+   "id": "doxology-john-baptist-1",
+   "titles": {
+    "english": "First Doxology of St. John the Baptist",
+    "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ ϧⲉⲛ ⲛⲓϫⲓⲛⲙⲓⲥⲓ",
+    "arabic": "ذكصولوجية القديس يوحنا المعمدان الأولى"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-john-baptist-1"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-john-baptist-1.json",
+    "bytes": 4948,
+    "sha256": "2d1083295e4d1f1da5836d8614afe18ead91cf7c3d6c4a8e8c7c9d110728f67c"
+   }
+  },
+  {
+   "id": "doxology-john-baptist-2",
+   "titles": {
+    "english": "Second Doxology of St. John the Baptist",
+    "coptic": "Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ",
+    "arabic": "ذكصولوجية القديس يوحنا المعمدان الثانية"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-john-baptist-2"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-john-baptist-2.json",
+    "bytes": 4905,
+    "sha256": "167ff45b5f1494cb53f256a7a6ce2e0afacff93ac99e25627bfc545ed28f781f"
    }
   },
   {
@@ -1722,6 +2101,33 @@
    }
   },
   {
+   "id": "eleison-imas-je-nai-nan",
+   "titles": {
+    "english": "Eleison Imas and Je Nai Nan",
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ,Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+    "arabic": "إليسون إيماس وجي ناي نان"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "eleison-imas-je-nai-nan",
+    "je-nai-nan"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/eleison-imas-je-nai-nan.json",
+    "bytes": 2523,
+    "sha256": "ad60e94dc9fbc56b4af13246a4ae26bd955695c3b278fee9d852652e65d6d315"
+   }
+  },
+  {
    "id": "ere-po-esmo-may-their-holy-blessing",
    "titles": {
     "english": "Ere Po Esmo (May Their Holy Blessing)"
@@ -1796,6 +2202,32 @@
     "url": "catalog/v1/texts/ethbe-ti-anastasis.json",
     "bytes": 2380,
     "sha256": "aa5316f3f324e6f574efa05e10fa70481088eb2a4ac1fcaf11dedfa797cec573"
+   }
+  },
+  {
+   "id": "evol-hiten-major",
+   "titles": {
+    "english": "Evol Hiten (long)",
+    "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ̀",
+    "arabic": "إيفول هيتين الكبير"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "evol-hiten-major"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/evol-hiten-major.json",
+    "bytes": 2142,
+    "sha256": "704137fd5ec526b01d586e227da60d9cd62d18c80c05a38df8a7d45b7da5bcb5"
    }
   },
   {
@@ -1990,6 +2422,59 @@
    }
   },
   {
+   "id": "gospel-response-vespers-annual",
+   "titles": {
+    "english": "Vespers Gospel Response (annual)",
+    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ",
+    "arabic": "مرد إنجيل رفع بخور عشية السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "gospel-response-matins-annual",
+    "gospel-response-vespers-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/gospel-response-vespers-annual.json",
+    "bytes": 5111,
+    "sha256": "681b91040c2575d6390586348eebb3d6ece51b50c0b1736d6f4ffe4550db7088"
+   }
+  },
+  {
+   "id": "hetenyat-annual",
+   "titles": {
+    "english": "Annual Hetenyat (intercessions)",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ̀",
+    "arabic": "الهيتنيات السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 7,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "hetenyat-annual"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hetenyat-annual.json",
+    "bytes": 7789,
+    "sha256": "549d6853a22e3da225224aa090759a1bf6cf343fb38f6105e41b76b54f7d15a3"
+   }
+  },
+  {
    "id": "hiten-archangel-michael-feast-resurrection",
    "titles": {
     "english": "Hiten for Archangel Michael, Feast of Resurrection"
@@ -2008,6 +2493,32 @@
     "url": "catalog/v1/texts/hiten-archangel-michael-feast-resurrection.json",
     "bytes": 718,
     "sha256": "ef0f1fecccc3e6ae8797d15319bc3602c878cac7f4d88017495374b8241b69f8"
+   }
+  },
+  {
+   "id": "hos-erof",
+   "titles": {
+    "english": "Hos Erof",
+    "arabic": "هوس إيروف",
+    "coptic": "Ϩⲱⲥ ⲉ̀ⲣⲟϥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "hos-erof"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hos-erof.json",
+    "bytes": 365,
+    "sha256": "d0081368de7d0ff9b7e0101dc70b95c95a43b2ef06ab12e4cca9144ef53a6930"
    }
   },
   {
@@ -2127,6 +2638,31 @@
     "url": "catalog/v1/texts/ke-ypertou.json",
     "bytes": 293,
     "sha256": "9cdb77aaeaeed2602edc7075d70a37117b1d48763a7c6c7a3c16c0750254748f"
+   }
+  },
+  {
+   "id": "kyrie-eleison-major",
+   "titles": {
+    "english": "Kyrie Eleison (long)",
+    "arabic": "لحن كيرياليسون الكبير"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "kyrie-eleison-major"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/kyrie-eleison-major.json",
+    "bytes": 954,
+    "sha256": "e56410753fbe262ad631a48d1f6f01bc2d24d04d84dc5e6c1b5e2e1682e9a0de"
    }
   },
   {
@@ -2268,6 +2804,32 @@
    }
   },
   {
+   "id": "ni-ethnos-tero",
+   "titles": {
+    "english": "Ni Ethnos Tero (O praise the Lord, all ye nations)",
+    "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ",
+    "arabic": "لحن ني إثنوس تيرو"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ni-ethnos-tero"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ni-ethnos-tero.json",
+    "bytes": 3665,
+    "sha256": "c2cc433bb84a6c9a6386a44390b866fb5ca929dbe96be4311c5ffb5126f4f28b"
+   }
+  },
+  {
    "id": "nim-ghar",
    "titles": {
     "english": "The Sixteenth Part - Nim Ghar",
@@ -2322,6 +2884,32 @@
     "url": "catalog/v1/texts/onim-nai-symfonia.json",
     "bytes": 501,
     "sha256": "7cfb99ee4882ea0be8a1e793f0d4ae66aa199337a98e6b02fc985bf8e6d18e2c"
+   }
+  },
+  {
+   "id": "os-ein-response",
+   "titles": {
+    "english": "As it was (Os ein) response",
+    "coptic": "Ⲱⲥⲡⲉⲣ ⲏⲛ",
+    "arabic": "مرد كما كان (أوس بارين)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "os-ein-response"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/os-ein-response.json",
+    "bytes": 1296,
+    "sha256": "90267534163a740d062c01f31ac8135f56cb938befa2afd90b296c4c372eb04a"
    }
   },
   {
@@ -2414,6 +3002,32 @@
    }
   },
   {
+   "id": "pi-ehmot-ghar-small",
+   "titles": {
+    "english": "Pi Ehmot Ghar (short)",
+    "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ",
+    "arabic": "لحن بي أهموت غار الصغيرة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "pi-ehmot-ghar-small"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/pi-ehmot-ghar-small.json",
+    "bytes": 3298,
+    "sha256": "84cb6fd2fc9014f30a74b4b8e188ca980855c80edf2925f0f6cbfda18ffcd8e0"
+   }
+  },
+  {
    "id": "pi-oik",
    "titles": {
     "coptic": "Ⲡⲓⲱⲓⲕ",
@@ -2486,7 +3100,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "praxis-response-annual"
+    "praxis-response-annual",
+    "praxis-response-annual-major"
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-annual.json",
@@ -2614,6 +3229,32 @@
     "url": "catalog/v1/texts/psalm-response-resurrection.json",
     "bytes": 664,
     "sha256": "58aa62b0acc50c6407c84032718e9a90f6ce84fb3bfb296d90652878ea8de22d"
+   }
+  },
+  {
+   "id": "reconciliation-response-basil",
+   "titles": {
+    "english": "Reconciliation Prayer Response, St. Basil",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+    "arabic": "مرد صلاة الصلح من القداس الباسيلي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "reconciliation-response-basil"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/reconciliation-response-basil.json",
+    "bytes": 3040,
+    "sha256": "0bef1ade37bc5f49d8a12ab5140d9752072bc7c194be9141adcdf3ec19f3dbad"
    }
   },
   {
@@ -2882,7 +3523,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "sotees-ameen-fast"
+    "sotees-ameen-fast",
+    "sotees-ameen-major"
    ],
    "file": {
     "url": "catalog/v1/texts/sotees-ameen-fast.json",
@@ -2917,6 +3559,59 @@
     "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
     "bytes": 2942,
     "sha256": "9642dc8cca7c97cebe5ad5b3901240397e895edf08d398765160fc8b259610ab"
+   }
+  },
+  {
+   "id": "tai-shouri",
+   "titles": {
+    "english": "Tai Shouri (annual)",
+    "coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ",
+    "arabic": "لحن طاي شوري السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "tai-shouri"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/tai-shouri.json",
+    "bytes": 1496,
+    "sha256": "b48dc3eace69d49bfc7086d2cf9adee076125325ecf7bcf5ad7c5322bc71fecd"
+   }
+  },
+  {
+   "id": "ten-oosht-evol-basil",
+   "titles": {
+    "english": "Ten Oosht Evol response, St. Basil Liturgy",
+    "arabic": "مرد تين جوشت إيفول للقداس الباسيلي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ten-oosht-evol-basil",
+    "ten-oosht-evol-gregory",
+    "ten-oosht-evol-vespers-matins"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ten-oosht-evol-basil.json",
+    "bytes": 1188,
+    "sha256": "d51de0fdd6b67a4b95e5b27c946344234c1175df3e42a49e4257a4c93b1440c0"
    }
   },
   {
@@ -3151,6 +3846,58 @@
    }
   },
   {
+   "id": "ti-galilee",
+   "titles": {
+    "english": "Ti Galilee",
+    "coptic": "Ϯⲅⲁⲗⲓⲗⲉⲁ̀ (Ϯⲙⲁϩϣⲁϣϥⲓ)",
+    "arabic": "لحن تي جاليلي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ti-galilee"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ti-galilee.json",
+    "bytes": 8486,
+    "sha256": "7a9a01f6d1f1c7fbe35a01b79843cdb7149852443b462e9be3ee460740fbabb5"
+   }
+  },
+  {
+   "id": "ti-stoli",
+   "titles": {
+    "english": "Ti Stoli",
+    "coptic": "Ϯⲥ̀ⲧⲟⲗⲏ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ",
+    "arabic": "لحن تي إستولي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ti-stoli"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ti-stoli.json",
+    "bytes": 5660,
+    "sha256": "c23b2d91f7ba03333d0569dc18680123f41453f006cb0a8f88318bac05afa5f5"
+   }
+  },
+  {
    "id": "ton-syna",
    "titles": {
     "english": "Ton Sinanarkhon (We the Believers)",
@@ -3339,6 +4086,84 @@
    ]
   },
   {
+   "id": "agios-annual",
+   "text": "agios-annual",
+   "duration": 145.52,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 5
+   },
+   "source": "https://tasbeha.org/hymn_library/view/325",
+   "youtube": "https://www.youtube.com/watch?v=oXB8Mtb0iEA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/agios-annual.json",
+     "bytes": 74,
+     "sha256": "e0cbf196d4fda4c4c30713db1e46f2dfd1945ca938b28eac9f636704746f4d0f",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/agios-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 2354255,
+     "sha256": "b85e3367835cfc4fd0ce397991ef71783d3a80b3e7821ec3128dec3ef494d808"
+    }
+   ]
+  },
+  {
+   "id": "alleluia-offertory",
+   "text": "alleluia-offertory",
+   "duration": 523.7,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1961",
+   "youtube": "https://www.youtube.com/watch?v=eK2o0fFxlUU",
+   "files": [
+    {
+     "url": "catalog/v1/timings/alleluia-offertory.json",
+     "bytes": 86,
+     "sha256": "2c2c8bba813ac55c10d5f4a79df33e923051f9e711241450c57821a0826133c8",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/alleluia-offertory/audio.m4a",
+     "role": "audio",
+     "bytes": 8470369,
+     "sha256": "ae3eb2c6e45259847246ec157f18204ad89cf32e37ef527a6668da9bd4142310"
+    }
+   ]
+  },
+  {
+   "id": "amen-ton-thanaton",
+   "text": "amen-ton-thanaton",
+   "duration": 127.06,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/337",
+   "youtube": "https://www.youtube.com/watch?v=T3ywO9kj6Ck",
+   "files": [
+    {
+     "url": "catalog/v1/timings/amen-ton-thanaton.json",
+     "bytes": 84,
+     "sha256": "1b04d71a149b5bfd2e8d429c7012844e59d454c37152a239a964eb71e674ccd7",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/amen-ton-thanaton/audio.m4a",
+     "role": "audio",
+     "bytes": 2055713,
+     "sha256": "a30ed76fcd1a6073e619827b88579536712d1fb0428b16daf05a3f2e6aa8fc6c"
+    }
+   ]
+  },
+  {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "text": "anaphora-responses-st-basil-st-gregory-liturgies",
    "duration": 138.6,
@@ -3449,6 +4274,32 @@
    ]
   },
   {
+   "id": "aspasmos-adam-annual",
+   "text": "aspasmos-adam-annual",
+   "duration": 847.16,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 7
+   },
+   "source": "https://tasbeha.org/hymn_library/view/176",
+   "youtube": "https://www.youtube.com/watch?v=NQx-vLB1r10",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aspasmos-adam-annual.json",
+     "bytes": 90,
+     "sha256": "465f32bcd59e0fc8813086c1fe36a91ebf6f9d51a3ff664816ea9494e64d5d55",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/aspasmos-adam-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 13701445,
+     "sha256": "3b9047e44e99e716efd0af268b97e63720a98fab6bbb9101b1f14607343439e8"
+    }
+   ]
+  },
+  {
    "id": "aspasmos-adam-resurrection",
    "text": "aspasmos-adam-resurrection",
    "duration": 147.95,
@@ -3471,6 +4322,58 @@
      "role": "audio",
      "bytes": 2185366,
      "sha256": "5fdf22897d35a734c4c8ea254f8d7883be1cb58b47b3f6d217b28e6fc8917a9f"
+    }
+   ]
+  },
+  {
+   "id": "aspasmos-watos-annual",
+   "text": "aspasmos-watos-annual",
+   "duration": 501.09,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/330",
+   "youtube": "https://www.youtube.com/watch?v=tw-HRF4We70",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aspasmos-watos-annual.json",
+     "bytes": 92,
+     "sha256": "91e55e14ac89ed0661ec18f3b5d8fc75a8abfeb2b5220c653b5d6e00ea8c9917",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/aspasmos-watos-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 8104945,
+     "sha256": "d76e605c35a2d7724e37da597416c1fb0b1f62edf5fd7843708906b321a55c74"
+    }
+   ]
+  },
+  {
+   "id": "aspazisti",
+   "text": "aspazisti",
+   "duration": 630.1,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 7
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1440",
+   "youtube": "https://www.youtube.com/watch?v=Ocyf-pEQDYQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aspazisti.json",
+     "bytes": 68,
+     "sha256": "8783666b1426c884f1cf0503d43dac1d566074f4da21f802911cfcfa5462d5a2",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/aspazisti/audio.m4a",
+     "role": "audio",
+     "bytes": 10191055,
+     "sha256": "7a06c1cf8775bae96ba5151d8adb92f81ec01f4b3bdbcf56c5cd9d5990f44039"
     }
    ]
   },
@@ -3548,6 +4451,32 @@
      "role": "audio",
      "bytes": 1306422,
      "sha256": "2a5edfacdb10e5a9720471b34d789656b0f5fb55889b899ce826581994f8009e"
+    }
+   ]
+  },
+  {
+   "id": "cherubim-response",
+   "text": "cherubim-response",
+   "duration": 138.99,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2037",
+   "youtube": "https://www.youtube.com/watch?v=o1_JdUm4lAc",
+   "files": [
+    {
+     "url": "catalog/v1/timings/cherubim-response.json",
+     "bytes": 84,
+     "sha256": "1bebc39eda66fae6bb6a0ab06d6cc9c50d23ff0d26cf0d3cf87c69ab59387746",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/cherubim-response/audio.m4a",
+     "role": "audio",
+     "bytes": 2248746,
+     "sha256": "aaa42dda961ba5109768829c67912349962a87fa0584a5f1a976ddc9a03efa81"
     }
    ]
   },
@@ -3655,6 +4584,32 @@
      "role": "audio",
      "bytes": 17817960,
      "sha256": "b40cc8e0ebdc1962e71d04510f809a9920c7ae84e6a5ac1ccf4454710d42f0ba"
+    }
+   ]
+  },
+  {
+   "id": "concluding-canon-annual",
+   "text": "concluding-canon-annual",
+   "duration": 157.01,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1853",
+   "youtube": "https://www.youtube.com/watch?v=DPLZ9fyQxow",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-canon-annual.json",
+     "bytes": 96,
+     "sha256": "5c1673f20d7eae5b1bb383cde40da3ce30361c9d25150965ad477001890b3975",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/concluding-canon-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 2540149,
+     "sha256": "f215b2114f91ca15a9275429074d19d5265cc909c7e3a2e989ed77d281e2b729"
     }
    ]
   },
@@ -3792,6 +4747,61 @@
    ]
   },
   {
+   "id": "distribution-alleluia-annual",
+   "text": "distribution-alleluia-annual",
+   "duration": 210.33,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 18
+   },
+   "source": "https://tasbeha.org/hymn_library/view/228",
+   "youtube": "https://www.youtube.com/watch?v=OA5AUcE20mY",
+   "files": [
+    {
+     "url": "catalog/v1/timings/distribution-alleluia-annual.json",
+     "bytes": 106,
+     "sha256": "bbf410fb34a73faa44cf5b131e2ce80ffa24bc4ee51697f401a56e46f28c747f",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/distribution-alleluia-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 3402345,
+     "sha256": "32e1977d4d8ebf12bfe73721aa43a082e9eec116ddf6c9509b52ee4a846edd9d"
+    }
+   ]
+  },
+  {
+   "id": "distribution-annual-psalm-150",
+   "text": "distribution-alleluia-annual",
+   "duration": 499.53,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/distribution-annual-psalm-150/",
+   "tune": {
+    "english": "With Psalm 150"
+   },
+   "youtube": "https://www.youtube.com/watch?v=LwC3t6WzFd0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/distribution-annual-psalm-150.json",
+     "bytes": 107,
+     "sha256": "868a9c4a9b6cdd9408c242568b67e243c801edbba0be8dadc8edad779964b39e",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/distribution-annual-psalm-150/audio.m4a",
+     "role": "audio",
+     "bytes": 8079502,
+     "sha256": "49429cb030b62d23ec0744674b4779c6a2d0e5d1f2c6a89cfa538fb215e9a31b"
+    }
+   ]
+  },
+  {
    "id": "distribution-refrain-resurrection",
    "text": "distribution-refrain-resurrection",
    "duration": 54.61,
@@ -3818,6 +4828,32 @@
    ]
   },
   {
+   "id": "doxology-archangel-michael",
+   "text": "doxology-archangel-michael",
+   "duration": 172.45,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/418",
+   "youtube": "https://www.youtube.com/watch?v=EEJM7reUfwA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-archangel-michael.json",
+     "bytes": 102,
+     "sha256": "23c1ac5f61f3b07a432fe1e7cbb0efe3b0ef0ac83f8f1a2cbd8b33fd42f4ffec",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-archangel-michael/audio.m4a",
+     "role": "audio",
+     "bytes": 2789869,
+     "sha256": "2b86cc4ef308a8d3a439d6fadee6bb0c2a4c947ebfb5935e8ed68f8cc55e35a4"
+    }
+   ]
+  },
+  {
    "id": "doxology-heavenly-orders",
    "text": "doxology-heavenly-orders",
    "duration": 165.67,
@@ -3840,6 +4876,58 @@
      "role": "audio",
      "bytes": 2474602,
      "sha256": "884d091330ab288d038b626009de5585de3e6e7863238f5f204d9b0fbbd85546"
+    }
+   ]
+  },
+  {
+   "id": "doxology-john-baptist-1",
+   "text": "doxology-john-baptist-1",
+   "duration": 134.16,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/421",
+   "youtube": "https://www.youtube.com/watch?v=vjrHui5z_I0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-john-baptist-1.json",
+     "bytes": 96,
+     "sha256": "1c71b214d1755f5c020a9866dc6b52f96490ccca7c1cbefb28933adcb7cfdc2a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-john-baptist-1/audio.m4a",
+     "role": "audio",
+     "bytes": 2170638,
+     "sha256": "c3fe846b409a10a51e1e5974174ffb6b4d9838aac7e412079a63022e57b3edad"
+    }
+   ]
+  },
+  {
+   "id": "doxology-john-baptist-2",
+   "text": "doxology-john-baptist-2",
+   "duration": 139.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1873",
+   "youtube": "https://www.youtube.com/watch?v=urJ1fMlibnY",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-john-baptist-2.json",
+     "bytes": 96,
+     "sha256": "c8b2e45dd95b56a993b7acde8de3864f108f7e70b62b8d09593f413843c1edf9",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-john-baptist-2/audio.m4a",
+     "role": "audio",
+     "bytes": 2254379,
+     "sha256": "0991b8566dfb6cc8c0d927edfb0d3c0f8897a42c369f588608bd8b2ea4d585d0"
     }
    ]
   },
@@ -3947,6 +5035,32 @@
    ]
   },
   {
+   "id": "eleison-imas-je-nai-nan",
+   "text": "eleison-imas-je-nai-nan",
+   "duration": 205.33,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/338",
+   "youtube": "https://www.youtube.com/watch?v=2r3OzfVD1nQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/eleison-imas-je-nai-nan.json",
+     "bytes": 96,
+     "sha256": "2f42e6c4b692613796ce7bab174cb1f2af146bc61cd112ccdf8639c078588b82",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/eleison-imas-je-nai-nan/audio.m4a",
+     "role": "audio",
+     "bytes": 3321608,
+     "sha256": "641c37ebfaddec6e6095153c157f2a8ce365cab2f1de9693ed50d6765393aeae"
+    }
+   ]
+  },
+  {
    "id": "ere-po-esmo-may-their-holy-blessing",
    "text": "ere-po-esmo-may-their-holy-blessing",
    "duration": 64.47,
@@ -4021,6 +5135,32 @@
      "role": "audio",
      "bytes": 10141132,
      "sha256": "3514a2865e1c216925fd0b4d3724c863a40fff249e4905f9e0e9edda2059fcd1"
+    }
+   ]
+  },
+  {
+   "id": "evol-hiten-major",
+   "text": "evol-hiten-major",
+   "duration": 564.15,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2170",
+   "youtube": "https://www.youtube.com/watch?v=JyfcNefBDWQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/evol-hiten-major.json",
+     "bytes": 82,
+     "sha256": "47645571da5689ae440514d47c20059d1d86b6d91682e02c33bdc773b743e62b",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/evol-hiten-major/audio.m4a",
+     "role": "audio",
+     "bytes": 9124552,
+     "sha256": "e3c8dc31e45b524715dba98cc4b18af2277bee89b56e48a012f5ee37bc8c9533"
     }
    ]
   },
@@ -4358,6 +5498,90 @@
    ]
   },
   {
+   "id": "gospel-response-matins-annual",
+   "text": "gospel-response-vespers-annual",
+   "duration": 132.19,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/gospel-response-matins-annual/",
+   "tune": {
+    "english": "Matins"
+   },
+   "youtube": "https://www.youtube.com/watch?v=hYn4Oi-EpJQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-response-matins-annual.json",
+     "bytes": 109,
+     "sha256": "ad5ea4d32bc5a1763216d0d8245a69c72f0325a4aa5687643d2d3dce169d17aa",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/gospel-response-matins-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 2138719,
+     "sha256": "4dbcaf98639d0cc8c027fa147edcea0564e28e103ea322a797e95218d41fffe5"
+    }
+   ]
+  },
+  {
+   "id": "gospel-response-vespers-annual",
+   "text": "gospel-response-vespers-annual",
+   "duration": 78.79,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1843",
+   "tune": {
+    "english": "Vespers"
+   },
+   "youtube": "https://www.youtube.com/watch?v=np_DWSwzRJo",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-response-vespers-annual.json",
+     "bytes": 110,
+     "sha256": "b6c81633c3dbbb588653d372472a57bab139bb7604b2d8bc7fbb4616668d02b8",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/gospel-response-vespers-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 1275008,
+     "sha256": "946e3161fc61bef7cfde925201974aa72143a3c0dd4a66469c6c42342a9332b3"
+    }
+   ]
+  },
+  {
+   "id": "hetenyat-annual",
+   "text": "hetenyat-annual",
+   "duration": 674.42,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 7
+   },
+   "source": "https://tasbeha.org/hymn_library/view/210",
+   "youtube": "https://www.youtube.com/watch?v=9Qk_Q1g-7Q8",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hetenyat-annual.json",
+     "bytes": 80,
+     "sha256": "f39d09a31305a3eb8c099303ddc6070bac90932c0f0566808eddca43eda201e8",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/hetenyat-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 10908397,
+     "sha256": "84a2cfcaa49fe2489e61e79cf6fe86edd2e4f8052dbb4e58fa464a2dcf1f8949"
+    }
+   ]
+  },
+  {
    "id": "hiten-archangel-michael-feast-resurrection",
    "text": "hiten-archangel-michael-feast-resurrection",
    "duration": 57.22,
@@ -4380,6 +5604,32 @@
      "role": "audio",
      "bytes": 710925,
      "sha256": "e7f32c16cbf5f063ac3d1b4fc7a8722bc2d97a68e1b37c9005dcfa09a1dec9cf"
+    }
+   ]
+  },
+  {
+   "id": "hos-erof",
+   "text": "hos-erof",
+   "duration": 506.36,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/hos-erof/",
+   "youtube": "https://www.youtube.com/watch?v=iYrw8PeSnzg",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hos-erof.json",
+     "bytes": 66,
+     "sha256": "c6a972de08ae76d02bc6c222d741714ef9cb93f0799b5f1e0ad22e3190274489",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/hos-erof/audio.m4a",
+     "role": "audio",
+     "bytes": 8189892,
+     "sha256": "bc8830c88f974c5de1d50bd2915ef3e20d5de9a26932ffcb1d0638635641de4f"
     }
    ]
   },
@@ -4432,6 +5682,35 @@
      "role": "audio",
      "bytes": 2837688,
      "sha256": "584cbd836e0770eb719316e09277a7b9cd4e2b793f3f49354939aff96ca41420"
+    }
+   ]
+  },
+  {
+   "id": "je-nai-nan",
+   "text": "eleison-imas-je-nai-nan",
+   "duration": 207.12,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/je-nai-nan/",
+   "tune": {
+    "english": "Je Nai Nan only"
+   },
+   "youtube": "https://www.youtube.com/watch?v=u0vaygdZyoE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/je-nai-nan.json",
+     "bytes": 83,
+     "sha256": "94386d208c204461d3a5fe7bd1a6d62ba1eb53be2185b58d3a3a6352cf9398bc",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/je-nai-nan/audio.m4a",
+     "role": "audio",
+     "bytes": 3350523,
+     "sha256": "54ceb98b97a8c4a300be7c90e334a7357af8b123051c3b4bc1b6b1b6ee35c934"
     }
    ]
   },
@@ -4510,6 +5789,32 @@
      "role": "audio",
      "bytes": 8611458,
      "sha256": "fadf96582c6db03c685196e0295c787c9e24994dd373e5b75c5e2bc45ac14469"
+    }
+   ]
+  },
+  {
+   "id": "kyrie-eleison-major",
+   "text": "kyrie-eleison-major",
+   "duration": 169.06,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2640",
+   "youtube": "https://www.youtube.com/watch?v=-HFXg7KhSlI",
+   "files": [
+    {
+     "url": "catalog/v1/timings/kyrie-eleison-major.json",
+     "bytes": 88,
+     "sha256": "38cc3c255303dd4cbe4a2be6b885b312d47bb53767059d4c7b7536ac7c238067",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/kyrie-eleison-major/audio.m4a",
+     "role": "audio",
+     "bytes": 2735043,
+     "sha256": "22f217524cc2401e12b637fb54571fd3e54dbe890ac78c0c7587613e3d82a489"
     }
    ]
   },
@@ -4674,6 +5979,32 @@
    ]
   },
   {
+   "id": "ni-ethnos-tero",
+   "text": "ni-ethnos-tero",
+   "duration": 939.27,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/454",
+   "youtube": "https://www.youtube.com/watch?v=xBOp4PqYJJQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ni-ethnos-tero.json",
+     "bytes": 78,
+     "sha256": "9bb0a28b4b0f05e24b4d16d28a44849e8b3f90f314370d3cb3b9da0dc5f982f3",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ni-ethnos-tero/audio.m4a",
+     "role": "audio",
+     "bytes": 15191138,
+     "sha256": "c454cef7bc2cf5cbe680e800165c86869217809e95b5636b540b297d24a0e9f9"
+    }
+   ]
+  },
+  {
    "id": "nim-ghar",
    "text": "nim-ghar",
    "duration": 257.59,
@@ -4751,6 +6082,32 @@
      "role": "audio",
      "bytes": 2944699,
      "sha256": "8510ec1c31436339d8037929f6b3476ffafc9b1d2801bd95b49af8012cb8dd25"
+    }
+   ]
+  },
+  {
+   "id": "os-ein-response",
+   "text": "os-ein-response",
+   "duration": 122.23,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/340",
+   "youtube": "https://www.youtube.com/watch?v=m5S7daNdUQc",
+   "files": [
+    {
+     "url": "catalog/v1/timings/os-ein-response.json",
+     "bytes": 80,
+     "sha256": "1bf21c9a046b0d0989337a0b046320065ee2d2b621220550a675e928f71427e0",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/os-ein-response/audio.m4a",
+     "role": "audio",
+     "bytes": 1977605,
+     "sha256": "d4af61f79a35e7dba215bc758fbeed3bc903d631dd3a8e1324484c1ebf6b3b31"
     }
    ]
   },
@@ -4859,6 +6216,32 @@
    ]
   },
   {
+   "id": "pi-ehmot-ghar-small",
+   "text": "pi-ehmot-ghar-small",
+   "duration": 223.89,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/320",
+   "youtube": "https://www.youtube.com/watch?v=BtWccQma1NQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/pi-ehmot-ghar-small.json",
+     "bytes": 88,
+     "sha256": "05eec355f45646684551a58cf2d8290aa0bd394084ee5b981d71aba3ef7e9591",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/pi-ehmot-ghar-small/audio.m4a",
+     "role": "audio",
+     "bytes": 3621660,
+     "sha256": "dc562bd74e1e29d86d72af8f7d609df0b5df0eb64517235e2d0cd5c8a9c88d79"
+    }
+   ]
+  },
+  {
    "id": "pi-oik",
    "text": "pi-oik",
    "duration": 462.14,
@@ -4933,6 +6316,35 @@
      "role": "audio",
      "bytes": 1461838,
      "sha256": "0ea164b266fe89f0473e9df443e0785a9268b0b74322d579a1c9adf8314ababf"
+    }
+   ]
+  },
+  {
+   "id": "praxis-response-annual-major",
+   "text": "praxis-response-annual",
+   "duration": 609.66,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/praxis-response-annual-major/",
+   "tune": {
+    "english": "Long"
+   },
+   "youtube": "https://www.youtube.com/watch?v=G_FW2slQdfg",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-annual-major.json",
+     "bytes": 100,
+     "sha256": "100f84b5f411a959115815a9626ae0515ea8457622a4729048bcea15310dec84",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/praxis-response-annual-major/audio.m4a",
+     "role": "audio",
+     "bytes": 9860586,
+     "sha256": "e3e7a7b39ffeaad9326acef079ae8a6bbd4e675ed73eae5df1dc490cd62b84cf"
     }
    ]
   },
@@ -5063,6 +6475,32 @@
      "role": "audio",
      "bytes": 801314,
      "sha256": "49e88885f0715e03ab76d7fac00dd2ab640bc5e405457088fc90dd2b3e803ae3"
+    }
+   ]
+  },
+  {
+   "id": "reconciliation-response-basil",
+   "text": "reconciliation-response-basil",
+   "duration": 111.18,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 3
+   },
+   "source": "https://tasbeha.org/hymn_library/view/333",
+   "youtube": "https://www.youtube.com/watch?v=2Qz4ONEmdQE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/reconciliation-response-basil.json",
+     "bytes": 108,
+     "sha256": "e1608cacc41daf9770c0ccbd39ec54c0ec7816ff7a619f5b3b34c1a5e12f3ecd",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/reconciliation-response-basil/audio.m4a",
+     "role": "audio",
+     "bytes": 1798858,
+     "sha256": "56bbf7b56ce211b32524ce7890e5fbc16b88d7d279b3d1e646260f85c1450bac"
     }
    ]
   },
@@ -5475,6 +6913,35 @@
    ]
   },
   {
+   "id": "sotees-ameen-major",
+   "text": "sotees-ameen-fast",
+   "duration": 335.25,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/sotees-ameen-major/",
+   "tune": {
+    "english": "Long"
+   },
+   "youtube": "https://www.youtube.com/watch?v=O0iFDsaPRLM",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sotees-ameen-major.json",
+     "bytes": 85,
+     "sha256": "6d0e42ea4b076e08ccf0501b01a359e36fcb2ffc2d543abda4fc8b1eb730d1b9",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sotees-ameen-major/audio.m4a",
+     "role": "audio",
+     "bytes": 5422647,
+     "sha256": "81557a2331adb051e561a2eec96f8325b52e9a506d03d2735d07c235bc2730cd"
+    }
+   ]
+  },
+  {
    "id": "st-mark-doxology-first-one",
    "text": "st-mark-doxology-first-one",
    "duration": 148.8,
@@ -5497,6 +6964,119 @@
      "role": "audio",
      "bytes": 2209300,
      "sha256": "905b82f4612623dd8d9c400c6d170511afac59aba78a5974c5f1355798c3f9a7"
+    }
+   ]
+  },
+  {
+   "id": "tai-shouri",
+   "text": "tai-shouri",
+   "duration": 163.79,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/675",
+   "youtube": "https://www.youtube.com/watch?v=Wj4Ar8LPDoQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tai-shouri.json",
+     "bytes": 70,
+     "sha256": "dfbcf84e15e4b0f886bf71dd6271abc3ae6a22bea021a6e5239580c3d330a09a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/tai-shouri/audio.m4a",
+     "role": "audio",
+     "bytes": 2649800,
+     "sha256": "60bb8753f23784a026c2d2403ea63bf868a58626e5f6e4a6389f36678b57d6f3"
+    }
+   ]
+  },
+  {
+   "id": "ten-oosht-evol-basil",
+   "text": "ten-oosht-evol-basil",
+   "duration": 79.83,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2615",
+   "tune": {
+    "english": "St. Basil Liturgy"
+   },
+   "youtube": "https://www.youtube.com/watch?v=TFdhGe604Qc",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-oosht-evol-basil.json",
+     "bytes": 90,
+     "sha256": "3089fcfd7cc12202c28c9968f385e0ccd1927866a555bb4b0d440483122ddbb7",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ten-oosht-evol-basil/audio.m4a",
+     "role": "audio",
+     "bytes": 1291907,
+     "sha256": "c5a36aeb5134159ad64b1ecd2caae80225ac4429a11900120b57f36bf95a76b8"
+    }
+   ]
+  },
+  {
+   "id": "ten-oosht-evol-gregory",
+   "text": "ten-oosht-evol-basil",
+   "duration": 92.53,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/ten-oosht-evol-gregory/",
+   "tune": {
+    "english": "St. Gregory Liturgy"
+   },
+   "youtube": "https://www.youtube.com/watch?v=ClsklKxm630",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-oosht-evol-gregory.json",
+     "bytes": 92,
+     "sha256": "e206905202947caba3b0a3d8d1fcaaeedf10fca2e68af089fbc47687034f74c9",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ten-oosht-evol-gregory/audio.m4a",
+     "role": "audio",
+     "bytes": 1497316,
+     "sha256": "9dddeeb14a8068d72eed6800a7070a0b23c3a03c700ce3f73ad810e6fce033eb"
+    }
+   ]
+  },
+  {
+   "id": "ten-oosht-evol-vespers-matins",
+   "text": "ten-oosht-evol-basil",
+   "duration": 113.5,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/ten-oosht-evol-vespers-matins/",
+   "tune": {
+    "english": "Vespers and Matins"
+   },
+   "youtube": "https://www.youtube.com/watch?v=2ILrPC8vnHA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-oosht-evol-vespers-matins.json",
+     "bytes": 99,
+     "sha256": "53df44c8411f467c2200cdd3227954e945c319bbb9071cd6457ac0359b964446",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ten-oosht-evol-vespers-matins/audio.m4a",
+     "role": "audio",
+     "bytes": 1836410,
+     "sha256": "7abbd3ef126167ac6e10fe2caffbabd241bee36fd238dca1d43da40c1c82627c"
     }
    ]
   },
@@ -5855,6 +7435,87 @@
      "role": "audio",
      "bytes": 1412571,
      "sha256": "8fa674a9979376f0cdfae2b5af830bd471560c2d8dba7a35e9ad4d1a6624def8"
+    }
+   ]
+  },
+  {
+   "id": "ti-galilee",
+   "text": "ti-galilee",
+   "duration": 728.5,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/473",
+   "youtube": "https://www.youtube.com/watch?v=Cg2GDXczTUo",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ti-galilee.json",
+     "bytes": 70,
+     "sha256": "411dd8e808de82846686476b185417680912d9a360e9b5328e3cf3b99662353c",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ti-galilee/audio.m4a",
+     "role": "audio",
+     "bytes": 11782513,
+     "sha256": "9060151af9ef2d3e95ec6b9d7f661ae49871f41d593e51a7061861edfbbd5b64"
+    }
+   ]
+  },
+  {
+   "id": "ti-shouri-major",
+   "text": "censer-annual",
+   "duration": 434.19,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/ti-shouri-major/",
+   "tune": {
+    "english": "Long"
+   },
+   "youtube": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ti-shouri-major.json",
+     "bytes": 78,
+     "sha256": "1d742885c3f271d8898d30a9b01721367cddfb82ef9a2e4ca8147d4695bd7839",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ti-shouri-major/audio.m4a",
+     "role": "audio",
+     "bytes": 7022750,
+     "sha256": "d28398a91425aa86a1327b426538a38a2bd0d6d4b1ca411ba63d4538ddfcf3f6"
+    }
+   ]
+  },
+  {
+   "id": "ti-stoli",
+   "text": "ti-stoli",
+   "duration": 339.22,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 5
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1452",
+   "youtube": "https://www.youtube.com/watch?v=jzCkqSmljCQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ti-stoli.json",
+     "bytes": 66,
+     "sha256": "58e2c7e6f88dc9846cfdee6083c86fae1c3420fd766fce909dff9063517e6271",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/ti-stoli/audio.m4a",
+     "role": "audio",
+     "bytes": 5486861,
+     "sha256": "e92579dcc672fe8ba4abe506930bd1c7a645bafc33ae326667728dde265dc336"
     }
    ]
   },

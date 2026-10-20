@@ -1,0 +1,140 @@
+{
+ "id": "agios-annual",
+ "titles": {
+  "english": "Trisagion (annual)",
+  "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ",
+  "arabic": "الثلاث تقديسات السنوي"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ: ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ: ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ: ⲟ̀ ⲉⲕ Ⲡⲁⲣⲑⲉⲛⲟⲩ ⲅⲉⲛⲛⲉⲑⲏⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+   "translations": {
+    "english": "Holy God, holy Mighty, holy Immortal, who was born of the Virgin, have mercy upon us.",
+    "arabic": "قدوس الله، قدوس القوي، قدوس الحي الذي لا يموت، الذي ولد من العذراء، إرحمنا."
+   },
+   "transliterations": {
+    "english": "Agios o Theos: agios Isshiros: agios Athanatos: o ek Parthenou gennethees: ele-eeson eemas."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲟ̀ ⲉⲕ Ⲡⲁⲣⲑⲉⲛⲟⲩ ⲅⲉⲛⲛⲉⲑⲏⲥ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ: ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ: ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ: ⲟ̀ ⲥ̀ⲧⲁⲩⲣⲱⲑⲓⲥ ⲇⲓ ⲏ̀ⲙⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+   "translations": {
+    "english": "Holy God, holy Mighty, holy Immortal, who was crucified for us, have mercy upon us.",
+    "arabic": "قدوس الله، قدوس القوي، قدوس الحي الذي لا يموت، الذي صلب عنا، إرحمنا."
+   },
+   "transliterations": {
+    "english": "Agios o Theos: agios Isshiros: agios Athanatos: o estavrothis thi eemas: ele-eeson eemas."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲟ̀ ⲥ̀ⲧⲁⲩⲣⲱⲑⲓⲥ ⲇⲓ ⲏ̀ⲙⲁⲥ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ: ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ: ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ: ⲟ̀ ⲁ̀ⲛⲁⲥⲧⲁⲥ ⲉⲕ ⲧⲱⲛ ⲛⲉⲕⲣⲱⲛ ⲕⲉ ⲁ̀ⲛⲉⲗⲑⲱⲛ ⲓⲥ ⲧⲟⲩⲥ ⲟⲩⲣⲁⲛⲟⲩⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+   "translations": {
+    "english": "Holy God, holy Mighty, holy Immortal, who rose from the dead and ascended into the heavens, have mercy upon us.",
+    "arabic": "قدوس الله، قدوس القوي، قدوس الحي الذي لا يموت، الذي قام من الأموات وصعد إلى السموات، إرحمنا."
+   },
+   "transliterations": {
+    "english": "Agios o Theos: agios Isshiros: agios Athanatos: o anastas ek ton nekron ke anelthon is tous ouranous: ele-eeson eemas."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲓⲥⲭⲩⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲅⲓⲟⲥ Ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲟ̀ ⲁ̀ⲛⲁⲥⲧⲁⲥ ⲉⲕ ⲧⲱⲛ ⲛⲉⲕⲣⲱⲛ ⲕⲉ ⲁ̀ⲛⲉⲗⲑⲱⲛ ⲓⲥ ⲧⲟⲩⲥ ⲟⲩⲣⲁⲛⲟⲩⲥ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ. Ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Glory be to the Father and the Son and the Holy Spirit, now and ever and unto the age of all ages. Amen.",
+    "arabic": "المجد للآب والإبن والروح القدس، الآن وكل أوان وإلى دهر الدهور. آمين."
+   },
+   "transliterations": {
+    "english": "Thoksa Patri ke I-io ke Agio Epnevmati: ke nin ke a-i ke is tous e-onas ton e-onon. Ameen."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ:"
+    },
+    {
+     "coptic": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ."
+    },
+    {
+     "coptic": "Ⲁ̀ⲙⲏⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲅⲓⲁ Ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+   "translations": {
+    "english": "O holy Trinity, have mercy upon us.",
+    "arabic": "أيها الثالوث القدوس، إرحمنا."
+   },
+   "transliterations": {
+    "english": "Agia Etrias: ele-eeson eemas."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲅⲓⲁ Ⲧ̀ⲣⲓⲁⲥ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+    }
+   ]
+  }
+ ]
+}

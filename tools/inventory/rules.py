@@ -197,7 +197,7 @@ R = [
  (r'انجيل رفع بخور عشيه', 'gospel-response-vespers-annual', 'Vespers Gospel Response (annual)', 'مرد إنجيل رفع بخور عشية السنوي', ['annual/raising-of-incense'], None, ''),
  (r'انجيل باكر السنوي', 'gospel-response-matins-annual', 'Matins Gospel Response (annual)', 'مرد إنجيل باكر السنوي', ['annual/raising-of-incense'], None, ''),
  (r'انجيل القداس (السنوي|الباسيلي)', 'liturgy-gospel-response-annual', 'Liturgy Gospel Response (annual)', 'مرد إنجيل القداس السنوي', ['annual/liturgy'], 'liturgy-gospel-response-annual', ''),
- (r'المجمع الباسيلي', 'commemoration-response-basil', 'Commemoration of the Saints Response (St. Basil)', 'مرد المجمع الباسيلي', ['annual/liturgy'], None, ''),
+ (r'المجمع الباسيلي', 'ere-po-esmo-may-their-holy-blessing', 'May their holy blessing (Commemoration response, St. Basil)', 'مرد المجمع الباسيلي (إيري بوؤ إسمو)', ['annual/liturgy'], 'ere-po-esmo-may-their-holy-blessing', ''),
  (r'لحن البركه', 'hymn-of-the-blessing', 'Hymn of the Blessing (Ten Oosht)', 'لحن البركة (تين أوؤشت)', ['annual/liturgy'], 'hymn-of-the-blessing', ''),
  (r'تي شوري الكبيره', 'ti-shouri-major', 'Ti Shouri (long)', 'لحن تي شوري الكبيرة', ['annual/raising-of-incense'], None, ''),
  (r'تي شوري', 'censer-annual', 'Ti Shouri (the golden censer), annual', 'لحن تي شوري السنوي', ['annual/raising-of-incense'], 'censer-annual', ''),

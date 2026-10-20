@@ -1,0 +1,114 @@
+{
+ "id": "doxology-john-baptist-2",
+ "titles": {
+  "english": "Second Doxology of St. John the Baptist",
+  "coptic": "Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ",
+  "arabic": "ذكصولوجية القديس يوحنا المعمدان الثانية"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ: ϧⲉⲛ ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲟⲛ: ϫⲉ ⲁⲓϯⲱⲙⲥ ⲙ̀Ⲡⲁⲥⲱⲧⲏⲣ: ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲡⲓⲒⲟⲣⲇⲁⲛⲏⲥ.",
+   "translations": {
+    "english": "John has witnessed, in the four Gospels, saying I have baptized my Savior, in the waters of the Jordan.",
+    "arabic": "شهد يوحنا فى الأناجيل الأربع أنى عمدت مخلصى فى مياه الاردن."
+   },
+   "transliterations": {
+    "english": "Afermethre enje Yoannees: khen pi-eftoou enevangelion: je aitioms empasoteer: khen nimoou ente piordanees."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲟⲛ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲓϯⲱⲙⲥ ⲙ̀Ⲡⲁⲥⲱⲧⲏⲣ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲡⲓⲒⲟⲣⲇⲁⲛⲏⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲁⲓⲛⲁⲩ ⲉ̀ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: ⲉⲧⲁϥⲓ̀ ⲉⲡⲉⲥⲏⲧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ: ⲁⲓⲥⲱⲧⲉⲙ ⲉ̀ⲧ̀ⲥ̀ⲙⲏ ⲛ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ: ⲉⲥⲱϣ ⲉⲃⲟⲗ ⲉⲥϫⲱ ⲙ̀ⲙⲟⲥ.",
+   "translations": {
+    "english": "\"I saw the Holy Spirit, come down from heaven, I heard the voice of the Father, proclaiming and saying.\"",
+    "arabic": "ونظرت الروح القدس عندما نزل من السماء. وسمعت صوت الآب صارخا قائلا."
+   },
+   "transliterations": {
+    "english": "Ainav epi-epnevma ethowab: etafi epeseet evolkhen etfe: aisotem e-etesmee ente Efiot: esosh evol esgo emmos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲓⲛⲁⲩ ⲉ̀ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅:"
+    },
+    {
+     "coptic": "ⲉⲧⲁϥⲓ̀ ⲉⲡⲉⲥⲏⲧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ⲁⲓⲥⲱⲧⲉⲙ ⲉ̀ⲧ̀ⲥ̀ⲙⲏ ⲛ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ:"
+    },
+    {
+     "coptic": "ⲉⲥⲱϣ ⲉⲃⲟⲗ ⲉⲥϫⲱ ⲙ̀ⲙⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ϫⲉ ⲫⲁⲓ ⲡⲉ Ⲡⲁϣⲏⲣⲓ ⲡⲁⲙⲉⲛⲣⲓⲧ: ⲉ̀ⲧⲁ ⲧⲁⲯⲩⲭⲏ ϯⲙⲁϯ ⲛ̀ϧⲏⲧϥ: ⲁϥⲉⲣ ⲡⲁⲟⲩⲱϣ ⲥⲱⲧⲉⲙ ⲛ̀ⲥⲱϥ: ϫⲉ ⲛ̀ⲑⲟϥ ⲡⲉ ⲡⲓⲣⲉϥⲧⲁⲛϧⲟ.",
+   "translations": {
+    "english": "\"This is My beloved Son, with whom My soul is well pleased, He does My will hear Him, for He is the life Giver.\"",
+    "arabic": "هذا هو ابنى حبيبى الذى سرت به نفسى وصنع مشيئتى. إسمعوا له لأنه هو المحيى."
+   },
+   "transliterations": {
+    "english": "Je fai pe Pasheeri pamenrit: eta tapsishee timati enkheetf: afer paowosh sotem ensof: je enthof pe pireftankho."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϫⲉ ⲫⲁⲓ ⲡⲉ Ⲡⲁϣⲏⲣⲓ ⲡⲁⲙⲉⲛⲣⲓⲧ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲧⲁ ⲧⲁⲯⲩⲭⲏ ϯⲙⲁϯ ⲛ̀ϧⲏⲧϥ:"
+    },
+    {
+     "coptic": "ⲁϥⲉⲣ ⲡⲁⲟⲩⲱϣ ⲥⲱⲧⲉⲙ ⲛ̀ⲥⲱϥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲛ̀ⲑⲟϥ ⲡⲉ ⲡⲓⲣⲉϥⲧⲁⲛϧⲟ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲙ̀ⲃⲁⲡⲧⲓⲥⲧⲏⲥ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ.",
+   "translations": {
+    "english": "Intercede on our behalf, O forerunner and baptizer, John the Baptist, that He may forgive us our sins.",
+    "arabic": "اشفع فينا أمام الرب أيها السابق الصابغ يوحنا المعمدان ليغفر خطايانا."
+   },
+   "transliterations": {
+    "english": "Ari-epresvevin e-ehree egon: o pi-eprothromos emvaptistees: Yoannees pireftioms: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲙ̀ⲃⲁⲡⲧⲓⲥⲧⲏⲥ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

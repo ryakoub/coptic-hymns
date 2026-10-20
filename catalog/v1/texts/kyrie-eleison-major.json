@@ -1,0 +1,35 @@
+{
+ "id": "kyrie-eleison-major",
+ "titles": {
+  "english": "Kyrie Eleison (long)",
+  "arabic": "لحن كيرياليسون الكبير"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲏⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "translations": {
+    "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy.",
+    "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
+   },
+   "transliterations": {
+    "english": "Ameen. Kirie ele-eeson: Kirie ele-eeson: Kirie ele-eeson."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲙⲏⲛ."
+    },
+    {
+     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:"
+    },
+    {
+     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:"
+    },
+    {
+     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": "ti-galilee",
+ "titles": {
+  "english": "Ti Galilee",
+  "coptic": "Ϯⲅⲁⲗⲓⲗⲉⲁ̀ (Ϯⲙⲁϩϣⲁϣϥⲓ)",
+  "arabic": "لحن تي جاليلي"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ϯⲙⲁϩϣⲁϣϥⲓ",
+   "translations": {
+    "english": "The Seventh Part",
+    "arabic": "القطعة السابعة"
+   },
+   "transliterations": {
+    "english": "Timahshashfi"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 0,
+   "coptic": "Ϯⲅⲁⲗⲓⲗⲉⲁ̀ ⲛ̀ⲧⲉ ⲛⲓⲉⲑⲛⲟⲥ: ⲛⲏⲉⲧϩⲉⲙⲥⲓ ϧⲉⲛ ⲡ̀ⲭⲁⲕⲓ: ⲛⲉⲙ ⲧ̀ϧⲏⲓⲃⲓ ⲙ̀ⲫ̀ⲙⲟⲩ: ⲟⲩⲛⲓϣϯ ⲛ̀Ⲟⲩⲱⲓⲛⲓ ⲁϥϣⲁⲓ ⲛⲱⲟⲩ.",
+   "translations": {
+    "english": "The Galilee of the Gentiles, who sit in darkness, and in the shadow of death, had the great Light shine to them.",
+    "arabic": "جليل الأُمم، الجالسون في الظلمة، وظلال الموت، أشرق عليهم النور العظيم."
+   },
+   "transliterations": {
+    "english": "Tighalile-a ente niethnos: nee-ethemsi khen epkaki: nem etkheeivi emefmou: ounishti enowoini afshai noou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯⲅⲁⲗⲓⲗⲉⲁ̀ ⲛ̀ⲧⲉ ⲛⲓⲉⲑⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲏⲉⲧϩⲉⲙⲥⲓ ϧⲉⲛ ⲡ̀ⲭⲁⲕⲓ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲧ̀ϧⲏⲓⲃⲓ ⲙ̀ⲫ̀ⲙⲟⲩ:"
+    },
+    {
+     "coptic": "ⲟⲩⲛⲓϣϯ ⲛ̀Ⲟⲩⲱⲓⲛⲓ ⲁϥϣⲁⲓ ⲛⲱⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 1,
+   "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲫⲏⲉⲑⲙⲟⲧⲉⲛ ⲙ̀ⲙⲟϥ: ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁϥ: ⲁϥϭⲓⲥⲁⲣⲝ ϧⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉⲑⲃⲉ ⲫⲏⲉ̀ⲧⲉ ⲫⲱⲛ ⲛ̀ⲟⲩϫⲁⲓ.",
+   "translations": {
+    "english": "God who rests, among His saints, became incarnate of the Virgin, for our salvation.",
+    "arabic": "الله المستريح، في قديسيه، تجسد من العذراء، لأجل خلاصنا."
+   },
+   "transliterations": {
+    "english": "Efnoti fee-ethmoten emmof: khen nee-ethowab entaf: afchisarks khen Tiparthenos: ethve fee-ete fon enougai."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲫⲏⲉⲑⲙⲟⲧⲉⲛ ⲙ̀ⲙⲟϥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁϥ:"
+    },
+    {
+     "coptic": "ⲁϥϭⲓⲥⲁⲣⲝ ϧⲉⲛ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉⲑⲃⲉ ⲫⲏⲉ̀ⲧⲉ ⲫⲱⲛ ⲛ̀ⲟⲩϫⲁⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲁ̀ⲛⲁⲩ ⲁ̀ⲣⲓϣ̀ⲫⲏⲣⲓ: ϩⲱⲥ ⲑⲉⲗⲏⲗ ϧⲉⲛ ⲟⲩϣ̀ⲗⲏⲗⲟⲩⲓ̀: ϩⲓϫⲉⲛ ⲡⲁⲓⲙⲩⲥⲧⲏⲣⲓⲟⲛ: ⲉ̀ⲧⲁϥⲟⲩⲱⲛϩ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Come behold and be amazed, joyfully sing on account, of this mystery, which was revealed unto us.",
+    "arabic": "تعالوا أنظروا وتعجبوا، وسبحوا وهللوا، بإبتهاج لهذا السر، الذي ظهر لنا."
+   },
+   "transliterations": {
+    "english": "Amoini anav ari-eshfeeri: hos theleel khen ou-eshleeloui: hijen paimisteerion: etafowonh nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲁ̀ⲛⲁⲩ ⲁ̀ⲣⲓϣ̀ⲫⲏⲣⲓ:"
+    },
+    {
+     "coptic": "ϩⲱⲥ ⲑⲉⲗⲏⲗ ϧⲉⲛ ⲟⲩϣ̀ⲗⲏⲗⲟⲩⲓ̀:"
+    },
+    {
+     "coptic": "ϩⲓϫⲉⲛ ⲡⲁⲓⲙⲩⲥⲧⲏⲣⲓⲟⲛ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲧⲁϥⲟⲩⲱⲛϩ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 1,
+   "coptic": "Ϫⲉ Ⲡⲓⲁⲧⲥⲁⲣⲝ ⲁϥϭⲓⲥⲁⲣⲝ: ⲟⲩⲟϩ Ⲡⲓⲗⲟⲅⲟⲥ ⲁϥϧ̀ⲑⲁⲓ: Ⲡⲓⲁⲧⲁⲣⲭⲏ ⲁϥⲉⲣϩⲏⲧⲥ: Ⲡⲓⲁⲧⲥⲏⲟⲩ ⲁϥϣⲱⲡⲓ ϧⲁ ⲟⲩⲭ̀ⲣⲟⲛⲟⲥ.",
+   "translations": {
+    "english": "For the Incorporeal was incarnate, and the Word became flesh, the One without beginning began, the Eternal came under time.",
+    "arabic": "لأن غير المُتجسد تجسَّد، والكلمة تجسَّمت، غير المبتدئ إبتدأ، وغير الزمني صار زمنياً."
+   },
+   "transliterations": {
+    "english": "Je Piatsarks afchisarks: o-woh Piloghos afekhthai: Piatarshee aferheets: Piatseeou afshopi kha ou-ekhronos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϫⲉ Ⲡⲓⲁⲧⲥⲁⲣⲝ ⲁϥϭⲓⲥⲁⲣⲝ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ Ⲡⲓⲗⲟⲅⲟⲥ ⲁϥϧ̀ⲑⲁⲓ:"
+    },
+    {
+     "coptic": "Ⲡⲓⲁⲧⲁⲣⲭⲏ ⲁϥⲉⲣϩⲏⲧⲥ:"
+    },
+    {
+     "coptic": "Ⲡⲓⲁⲧⲥⲏⲟⲩ ⲁϥϣⲱⲡⲓ ϧⲁ ⲟⲩⲭ̀ⲣⲟⲛⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 0,
+   "coptic": "Ⲡⲓⲁⲧϣ̀ⲧⲁϩⲟϥ ⲁⲩϫⲉⲙϫⲱⲙϥ: Ⲡⲓⲁⲑⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲟϥ: Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲉⲧⲟⲛϧ: ⲁϥϣⲱⲡⲓ ⲛ̀Ϣⲏⲣⲓ ⲛ̀ⲣⲱⲙⲓ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ.",
+   "translations": {
+    "english": "The Incomprehensible has been touched, and the Unseen has been seen, and the Son of the living God, truly became the Son of Man.",
+    "arabic": "غير المُدرك لمسوه، وغير المرئي رأوه، إبن الله الحي، صار بشرياً بالحقيقة."
+   },
+   "transliterations": {
+    "english": "Piateshtahof avjemgomf: Piathnav erof senav erof: Epsheeri emefnoti etonkh: afshopi ensheeri enromi khen oumethmee."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲡⲓⲁⲧϣ̀ⲧⲁϩⲟϥ ⲁⲩϫⲉⲙϫⲱⲙϥ:"
+    },
+    {
+     "coptic": "Ⲡⲓⲁⲑⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲟϥ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲉⲧⲟⲛϧ:"
+    },
+    {
+     "coptic": "ⲁϥϣⲱⲡⲓ ⲛ̀Ϣⲏⲣⲓ ⲛ̀ⲣⲱⲙⲓ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 1,
+   "coptic": "Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛ̀ⲥⲁϥ ⲛⲉⲙ ⲫⲟⲟⲩ: ⲛ̀ⲑⲟϥ ⲛ̀ⲑⲟϥ ⲡⲉ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ: ϧⲉⲛ ⲟⲩϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛ̀ⲟⲩⲱⲧ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ.",
+   "translations": {
+    "english": "Jesus Christ the same yesterday, today and forever, in one hypostasis, we worship and glorify Him.",
+    "arabic": "يسوع المسيح هو هو أمس، واليوم وإلى الأبد، بأُقنوم واحد، نسجد له ونمجده."
+   },
+   "transliterations": {
+    "english": "Ieesous Pi-ekhristos ensaf nem foou: enthof enthof pe nem sha eneh: khen ouhipostasis enowot: tenowosht emmof tenti-oou naf."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛ̀ⲥⲁϥ ⲛⲉⲙ ⲫⲟⲟⲩ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲑⲟϥ ⲛ̀ⲑⲟϥ ⲡⲉ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ⲛ̀ⲟⲩⲱⲧ:"
+    },
+    {
+     "coptic": "ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 0,
+   "coptic": "Ⲁ̀ Ⲫ̀ⲓⲱⲧ ϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧ̀ⲫⲉ: ⲙ̀ⲡⲉϥϫⲉⲙ ⲫⲏⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟ: ⲁϥⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ: ⲓ̀ ⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ.",
+   "translations": {
+    "english": "The Father looked from heaven, and found no one like you, He sent His only-begotten, who came and took flesh from you.",
+    "arabic": "تطَّلع الآب من السماء، فلم يجد مَنْ يُشبهكِ، أرسل وحيده، أتى وتجسد منكِ."
+   },
+   "transliterations": {
+    "english": "A Efiot gousht evol khen etfe: empefjem fee-etoni emmo: afoworp empefmonogenees: i afchisarks evol enkheeti."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ Ⲫ̀ⲓⲱⲧ ϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧ̀ⲫⲉ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡⲉϥϫⲉⲙ ⲫⲏⲉⲧⲟ̀ⲛⲓ ⲙ̀ⲙⲟ:"
+    },
+    {
+     "coptic": "ⲁϥⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ:"
+    },
+    {
+     "coptic": "ⲓ̀ ⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏϯ."
+    }
+   ]
+  }
+ ]
+}

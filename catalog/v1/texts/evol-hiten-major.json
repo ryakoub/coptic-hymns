@@ -1,0 +1,62 @@
+{
+ "id": "evol-hiten-major",
+ "titles": {
+  "english": "Evol Hiten (long)",
+  "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ̀",
+  "arabic": "إيفول هيتين الكبير"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ̀: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ⲁⲛⲥⲟⲩⲉⲛ ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Through Mary, the daughter of Joachim, we learned of the true sacrifice, for the forgiveness of sins.",
+    "arabic": "من قبل مريم أبنة يواقيم عرفنا الذبيحة الحقيقية لمغفرة الخطايا."
+   },
+   "transliterations": {
+    "english": "Evolhiten Mari-a: etsheri enyoakim: ansowen pishoushooushi emmee: enkanovi evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ̀:"
+    },
+    {
+     "coptic": "ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ:"
+    },
+    {
+     "coptic": "ⲁⲛⲥⲟⲩⲉⲛ ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲁⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ: ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ: ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ̀: ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ.",
+   "translations": {
+    "english": "And we too, hope to win mercy, through your intercessions, with the Lover of mankind.",
+    "arabic": "ونحن أيضاً نطلب أن نفوز برحمة بشفاعاتك عند محب البشر."
+   },
+   "transliterations": {
+    "english": "Anon hon tentovh: ethrenshashni evnai: hiten ne-epresvi-a: entotf empimairomi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲛⲟⲛ ϩⲱⲛ ⲧⲉⲛⲧⲱⲃϩ:"
+    },
+    {
+     "coptic": "ⲉⲑⲣⲉⲛϣⲁϣⲛⲓ ⲉⲩⲛⲁⲓ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ⲛⲉⲡ̀ⲣⲉⲥⲃⲓⲁ̀:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲙⲁⲓⲣⲱⲙⲓ."
+    }
+   ]
+  }
+ ]
+}

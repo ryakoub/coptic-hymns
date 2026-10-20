@@ -1,0 +1,20 @@
+{
+  "title": "Ten Oosht Evol response, Vespers and Matins",
+  "titles": {
+    "english": "Ten Oosht Evol response, Vespers and Matins",
+    "arabic": "مرد تين جوشت إيفول عشية وباكر"
+  },
+  "youtube": "https://www.youtube.com/watch?v=2ILrPC8vnHA",
+  "places": [
+    "annual/raising-of-incense"
+  ],
+  "text": "ten-oosht-evol-basil",
+  "tune": {
+    "english": "Vespers and Matins"
+  },
+  "mahragan": {
+    "year": 2025,
+    "stage": "grades-5-6",
+    "level": "2"
+  }
+}

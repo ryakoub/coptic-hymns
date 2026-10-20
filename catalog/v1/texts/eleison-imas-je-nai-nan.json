@@ -1,0 +1,90 @@
+{
+ "id": "eleison-imas-je-nai-nan",
+ "titles": {
+  "english": "Eleison Imas and Je Nai Nan",
+  "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ,Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+  "arabic": "إليسون إيماس وجي ناي نان"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ Ⲫ̀ϯ Ⲫ̀ⲓⲱⲧ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+   "translations": {
+    "english": "Have mercy upon us O God, the Father, the Pantocrator.",
+    "arabic": "إرحمنا يا الله الآب ضابط الكل."
+   },
+   "transliterations": {
+    "english": "Je nai nan Efnoti Efiot Pipantokrator."
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ Ⲫ̀ϯ Ⲡⲉⲛⲥⲱⲧⲏⲣ.",
+   "translations": {
+    "english": "Have mercy upon us O God our Savior.",
+    "arabic": "إرحمنا يا الله مخلصنا."
+   },
+   "transliterations": {
+    "english": "Je nai nan Efnoti Pensoteer."
+   }
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ Ⲫ̀ϯ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ.",
+   "translations": {
+    "english": "Have mercy upon us O God and have mercy.",
+    "arabic": "إرحمنا يا الله ثم إرحمنا."
+   },
+   "transliterations": {
+    "english": "Je nai nan Efnoti o-woh nai nan."
+   }
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "translations": {
+    "english": "Lord have mercy.",
+    "arabic": "يا ربُّ إرحَم."
+   },
+   "transliterations": {
+    "english": "Kirie ele-eeson."
+   }
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos o Pateer o Pantokrator."
+   }
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ.",
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos o Soteer eemon."
+   }
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲕⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos ke ele-eeson eemas."
+   }
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "transliterations": {
+    "english": "Kirie ele-eeson."
+   }
+  }
+ ]
+}

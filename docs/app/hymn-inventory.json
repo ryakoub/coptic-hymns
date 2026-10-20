@@ -393,60 +393,6 @@
   ]
  },
  {
-  "key": "commemoration-response-basil",
-  "english": "Commemoration of the Saints Response (St. Basil)",
-  "arabic": "مرد المجمع الباسيلي",
-  "places": [
-   {
-    "collection": "annual",
-    "english": "Annual · Liturgy",
-    "arabic": "السنوي · القداس",
-    "id": "annual/liturgy"
-   }
-  ],
-  "status": "new",
-  "app_id": null,
-  "note": "",
-  "video": {
-   "id": "MG9lcCUZjnw",
-   "url": "https://www.youtube.com/watch?v=MG9lcCUZjnw",
-   "title": "مرد المجمع الباسيلى - مرحلة حضانة- المستوى الثانى-مهرجان الكرازة المرقسية 2026",
-   "year": 2026,
-   "stage": "kg",
-   "level": "2",
-   "uploaded": "20260415",
-   "duration": 92,
-   "playable": true
-  },
-  "newest_unplayable": [],
-  "other_versions": [
-   {
-    "id": "XwqvCpAKJFA",
-    "year": 2024,
-    "stage": "kg",
-    "level": "2"
-   },
-   {
-    "id": "8FMgiIunrbA",
-    "year": 2022,
-    "stage": "special-needs",
-    "level": "2"
-   },
-   {
-    "id": "6Yhulo4UW_c",
-    "year": 2022,
-    "stage": "special-needs",
-    "level": "1"
-   },
-   {
-    "id": "a90i8CC2rlk",
-    "year": 2022,
-    "stage": "kg",
-    "level": "2"
-   }
-  ]
- },
- {
   "key": "eleison-imas-je-nai-nan",
   "english": "Eleison Imas and Je Nai Nan",
   "arabic": "إليسون إيماس وجي ناي نان",
@@ -472,25 +418,6 @@
    "duration": 205,
    "playable": true
   },
-  "newest_unplayable": [],
-  "other_versions": []
- },
- {
-  "key": "ere-po-esmo-may-their-holy-blessing",
-  "english": "Ere Po Esmo (May Their Holy Blessing)",
-  "arabic": "",
-  "places": [
-   {
-    "collection": "annual",
-    "english": "Annual · Liturgy",
-    "arabic": "السنوي · القداس",
-    "id": "annual/liturgy"
-   }
-  ],
-  "status": "in app",
-  "app_id": "ere-po-esmo-may-their-holy-blessing",
-  "note": "not on the youth-bishopric channel",
-  "video": null,
   "newest_unplayable": [],
   "other_versions": []
  },
@@ -673,6 +600,60 @@
    },
    {
     "id": "7n50wZ1J1no",
+    "year": 2022,
+    "stage": "kg",
+    "level": "2"
+   }
+  ]
+ },
+ {
+  "key": "ere-po-esmo-may-their-holy-blessing",
+  "english": "May their holy blessing (Commemoration response, St. Basil)",
+  "arabic": "مرد المجمع الباسيلي (إيري بوؤ إسمو)",
+  "places": [
+   {
+    "collection": "annual",
+    "english": "Annual · Liturgy",
+    "arabic": "السنوي · القداس",
+    "id": "annual/liturgy"
+   }
+  ],
+  "status": "in app",
+  "app_id": "ere-po-esmo-may-their-holy-blessing",
+  "note": "",
+  "video": {
+   "id": "MG9lcCUZjnw",
+   "url": "https://www.youtube.com/watch?v=MG9lcCUZjnw",
+   "title": "مرد المجمع الباسيلى - مرحلة حضانة- المستوى الثانى-مهرجان الكرازة المرقسية 2026",
+   "year": 2026,
+   "stage": "kg",
+   "level": "2",
+   "uploaded": "20260415",
+   "duration": 92,
+   "playable": true
+  },
+  "newest_unplayable": [],
+  "other_versions": [
+   {
+    "id": "XwqvCpAKJFA",
+    "year": 2024,
+    "stage": "kg",
+    "level": "2"
+   },
+   {
+    "id": "8FMgiIunrbA",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "2"
+   },
+   {
+    "id": "6Yhulo4UW_c",
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "1"
+   },
+   {
+    "id": "a90i8CC2rlk",
     "year": 2022,
     "stage": "kg",
     "level": "2"

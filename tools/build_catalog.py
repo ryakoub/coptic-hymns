@@ -162,6 +162,10 @@ class Build:
             for k in LINE_TEXT_KEYS:
                 if l.get(k):
                     t[k] = l[k]
+            # The app reads a label as plain text; an {"english", "arabic"} label would stop it opening the hymn.
+            if isinstance(t.get("label"), dict):
+                t["label"] = t["label"].get("english") or t["label"].get("arabic") or ""
+                self.warn(tid, "a label in two languages is shown in English only")
             if l.get("stanzas"):
                 t["stanzas"] = [{"coptic": s.get("coptic", "")} for s in l["stanzas"]]
             tlines.append(t)

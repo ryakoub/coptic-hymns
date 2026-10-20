@@ -1,0 +1,22 @@
+{
+ "id": "hos-erof",
+ "titles": {
+  "english": "Hos Erof",
+  "arabic": "هوس إيروف",
+  "coptic": "Ϩⲱⲥ ⲉ̀ⲣⲟϥ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ϩⲱⲥ ⲉ̀ⲣⲟϥ",
+   "translations": {
+    "english": "Praise Him",
+    "arabic": "سبحوه"
+   },
+   "transliterations": {
+    "english": "Hōs erof"
+   }
+  }
+ ]
+}

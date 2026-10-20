@@ -1,0 +1,70 @@
+[
+  {
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ Ⲫ̀ϯ Ⲫ̀ⲓⲱⲧ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+    "translations": {
+      "english": "Have mercy upon us O God, the Father, the Pantocrator.",
+      "arabic": "إرحمنا يا الله الآب ضابط الكل."
+    },
+    "transliterations": {
+      "english": "Je nai nan Efnoti Efiot Pipantokrator."
+    }
+  },
+  {
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ Ⲫ̀ϯ Ⲡⲉⲛⲥⲱⲧⲏⲣ.",
+    "translations": {
+      "english": "Have mercy upon us O God our Savior.",
+      "arabic": "إرحمنا يا الله مخلصنا."
+    },
+    "transliterations": {
+      "english": "Je nai nan Efnoti Pensoteer."
+    }
+  },
+  {
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ Ⲫ̀ϯ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ.",
+    "translations": {
+      "english": "Have mercy upon us O God and have mercy.",
+      "arabic": "إرحمنا يا الله ثم إرحمنا."
+    },
+    "transliterations": {
+      "english": "Je nai nan Efnoti o-woh nai nan."
+    }
+  },
+  {
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+    "translations": {
+      "english": "Lord have mercy.",
+      "arabic": "يا ربُّ إرحَم."
+    },
+    "transliterations": {
+      "english": "Kirie ele-eeson."
+    }
+  },
+  {
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+    "translations": {},
+    "transliterations": {
+      "english": "Ele-eeson eemas o Theos o Pateer o Pantokrator."
+    }
+  },
+  {
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ.",
+    "translations": {},
+    "transliterations": {
+      "english": "Ele-eeson eemas o Theos o Soteer eemon."
+    }
+  },
+  {
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲕⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {},
+    "transliterations": {
+      "english": "Ele-eeson eemas o Theos ke ele-eeson eemas."
+    }
+  },
+  {
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+    "translations": {},
+    "transliterations": {
+      "english": "Kirie ele-eeson."
+    }
+  }
+]

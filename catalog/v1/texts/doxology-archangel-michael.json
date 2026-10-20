@@ -1,0 +1,166 @@
+{
+ "id": "doxology-archangel-michael",
+ "titles": {
+  "english": "Doxology of Archangel Michael",
+  "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ",
+  "arabic": "ذكصولوجية الملاك ميخائيل"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ: ⲛ̀ⲑⲟϥ ⲟⲛ ⲉⲧⲟⲓ ⲛ̀ϣⲟⲣ: ϧⲉⲛ ⲛⲓⲧⲁⲝⲓⲥ ⲛ̀ⲁ̀ⲅⲅⲉⲗⲓⲕⲟⲛ: ⲉϥϣⲉⲙϣⲓ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀Ⲡⲟ̅ⲥ̅.",
+   "translations": {
+    "english": "Michael the head of the heavenly, he is the first, among the angelic hosts, serving before the Lord.",
+    "arabic": "ميخائيل رئيس السمائيين هو الأول فى الطقوس الملائكية يخدم أمام الرب."
+   },
+   "transliterations": {
+    "english": "Mikhaeel eparkhon enna nifeeoui: enthof on etoi enshor: khen nitaksis enangelikon: efshemshi empe-emtho emepshois."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲑⲟϥ ⲟⲛ ⲉⲧⲟⲓ ⲛ̀ϣⲟⲣ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲛⲓⲧⲁⲝⲓⲥ ⲛ̀ⲁ̀ⲅⲅⲉⲗⲓⲕⲟⲛ:"
+    },
+    {
+     "coptic": "ⲉϥϣⲉⲙϣⲓ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀Ⲡⲟ̅ⲥ̅."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ϣⲁⲣⲉ Ⲫϯ ⲟⲩⲱⲣⲡ ⲛⲁⲛ: ⲛ̀ⲛⲉϥⲛⲁⲓ ⲛⲉⲙ ⲛⲉϥⲙⲉⲧϣⲉⲛϩⲏⲧ: ϩⲓⲧⲉⲛ ⲛⲓϯϩⲟ ⲛ̀ⲧⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ.",
+   "translations": {
+    "english": "Wherefore God sends unto us, His mercy and His compassion, through the supplications of Michael, the great archangel.",
+    "arabic": "ان الله يرسل لنا مراحمه ورأفاته بسؤالات ميخائيل رئيس الملائكة العظيم."
+   },
+   "transliterations": {
+    "english": "Share Efnoti o-orp nan: ennefnai nem nefmetshenheet: hiten nitiho ente Mikhaeel: pinishti enarshee-angelos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϣⲁⲣⲉ Ⲫϯ ⲟⲩⲱⲣⲡ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲛⲉϥⲛⲁⲓ ⲛⲉⲙ ⲛⲉϥⲙⲉⲧϣⲉⲛϩⲏⲧ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ⲛⲓϯϩⲟ ⲛ̀ⲧⲉ Ⲙⲓⲭⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ⲡⲓⲛⲓϣϯ ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ϣⲁⲩϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲓⲕⲁⲣⲡⲟⲥ: ϩⲓⲧⲉⲛ ⲛⲉⲛⲧⲱⲃϩ ⲙ̀Ⲙⲓⲭⲁⲏⲗ: ϫⲉ ⲛ̀ⲑⲟϥ ⲉⲧϧⲉⲛⲧ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲫϯ: ⲉϥϯϩⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ.",
+   "translations": {
+    "english": "The harvest is perfected, through the prayers of Michael, for he is near God, asking Him for us.",
+    "arabic": "وتكمل الأثمار بطلبات ميخائيل لأنه قريب إلى الله يسأل عنا."
+   },
+   "transliterations": {
+    "english": "Shavgok evol enje nikarpos: hiten nentovh emmikhaeel: je enthof etkhent ekhoun e-efnoti: eftiho e-ehree egon."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϣⲁⲩϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲓⲕⲁⲣⲡⲟⲥ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ ⲛⲉⲛⲧⲱⲃϩ ⲙ̀Ⲙⲓⲭⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲛ̀ⲑⲟϥ ⲉⲧϧⲉⲛⲧ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲫϯ:"
+    },
+    {
+     "coptic": "ⲉϥϯϩⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲧⲁⲓⲟ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲛⲉⲩ: ⲛⲉⲙ ⲇⲱⲣⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲉⲩⲛⲏⲟⲩ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ϣⲱⲓ: ϩⲓⲧⲉⲛ Ⲫⲓⲱⲧ ⲛ̀ⲧⲉ ⲛⲓⲟⲩⲱⲓⲛⲓ.",
+   "translations": {
+    "english": "All good honor, and every perfect gift, comes to us from on high, from the Father of Light.",
+    "arabic": "كل عطية صالحة وكل موهبة تامة انما تهبط لنا من فوق من عند أبى الأنوار."
+   },
+   "transliterations": {
+    "english": "Taio niven ethnanev: nem thoron niven etjeek evol: evneeou nan evol emepshoi: hiten Fiot ente niowoini."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲁⲓⲟ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲛⲉⲩ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲇⲱⲣⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ⲉⲩⲛⲏⲟⲩ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ϣⲱⲓ:"
+    },
+    {
+     "coptic": "ϩⲓⲧⲉⲛ Ⲫⲓⲱⲧ ⲛ̀ⲧⲉ ⲛⲓⲟⲩⲱⲓⲛⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲙⲁⲣⲉⲛϩⲱⲥ ⲛ̀ⲧⲉⲛϯⲱⲟⲩ: ⲛ̀ⲧⲉⲛⲟⲩⲱϣⲧ ⲛ̀ϯⲦ̀ⲣⲓⲁⲥ ⲉ̅ⲑ̅ⲩ̅: ⲉⲧⲟⲓ ⲛ̀ⲟⲙⲟⲟⲩⲥⲓⲟⲥ: ⲉⲑⲙⲏⲛ ⲉ̀ⲃⲟⲗ ϣⲁ ⲉ̀ⲛⲉϩ.",
+   "translations": {
+    "english": "Let us praise and glorify, and worship the holy, and co-essential Trinity, who endures forever.",
+    "arabic": "فلنسبح ونمجد ونسجد للثالوث القدوس المساوى الدائم إلى الأبد."
+   },
+   "transliterations": {
+    "english": "Marenhos ententioou: entenowosht enti-etrias ethowab: etoi enomoousios: ethmeen evol sha eneh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙⲁⲣⲉⲛϩⲱⲥ ⲛ̀ⲧⲉⲛϯⲱⲟⲩ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉⲛⲟⲩⲱϣⲧ ⲛ̀ϯⲦ̀ⲣⲓⲁⲥ ⲉ̅ⲑ̅ⲩ̅:"
+    },
+    {
+     "coptic": "ⲉⲧⲟⲓ ⲛ̀ⲟⲙⲟⲟⲩⲥⲓⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉⲑⲙⲏⲛ ⲉ̀ⲃⲟⲗ ϣⲁ ⲉ̀ⲛⲉϩ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲁⲣⲓⲡⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉϫⲱⲛ: ⲱ ⲡⲓⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅: Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Intercede on our behalf, O holy archangel, Michael the head of the heavenly, that He may forgive us our sins.",
+    "arabic": "اشفع فينا أمام الرب يا رئيس الملائكة الطاهر ميخائيل رئيس السمائيين ليغفر لنا خطايانا."
+   },
+   "transliterations": {
+    "english": "Aripresvevin e-ehree egon: o pi-arshee-angelos ethowab: Mikhaeel eparkhon enna nifeeoui: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲣⲓⲡⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲱ ⲡⲓⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅:"
+    },
+    {
+     "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

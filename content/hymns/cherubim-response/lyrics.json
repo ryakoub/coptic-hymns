@@ -1,0 +1,47 @@
+[
+  {
+    "coptic": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ: ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲥⲉϯⲱ̀ⲟⲩ ⲛⲁⲕ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ:",
+    "translations": {
+      "english": "The Cherubim worship You, and the Seraphim glorify You, proclaiming and saying,",
+      "arabic": "الشاروبيم يسجدون لك، والسِّرافيم يمجدونك، صارخين قائلين:"
+    },
+    "transliterations": {
+      "english": "Nisherouvim seowosht emmok: nem Niserafim seti-oou nak: evosh evol evgo emmos:"
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ:"
+      },
+      {
+        "coptic": "ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲥⲉϯⲱ̀ⲟⲩ ⲛⲁⲕ:"
+      },
+      {
+        "coptic": "ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ:"
+      }
+    ]
+  },
+  {
+    "coptic": "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ: ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ.",
+    "translations": {
+      "english": "“Holy, holy, holy, Lord of hosts, heaven and earth are full of Your holy glory.”",
+      "arabic": "\"قدوس. قدوس. قدوس. رب الصاباؤت. السماء والأرض مملوءتان من مجدك الأقدس.\""
+    },
+    "transliterations": {
+      "english": "Je agios agios agios: Kirios savaoth: epleerees o ouranos ke ee gee: tees agias sou thoksees."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ:"
+      },
+      {
+        "coptic": "Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ:"
+      },
+      {
+        "coptic": "ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ:"
+      },
+      {
+        "coptic": "ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ."
+      }
+    ]
+  }
+]

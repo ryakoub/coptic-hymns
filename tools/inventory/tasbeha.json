@@ -1,0 +1,214 @@
+{
+ "_comment": "Where each inventory hymn's words come from. view: a Tasbeha hymn page (tasbeha.org/hymn_library/view/<view>). text: an existing text in content/ when the hymn is another tune of it. sure: false until confirmed.",
+ "alleluia-offertory": {
+  "view": 1961,
+  "tasbeha": "Al El-orban",
+  "sure": true
+ },
+ "amen-ton-thanaton": {
+  "view": 337,
+  "tasbeha": "Institution Narrative - Your Death, O Lord",
+  "sure": true
+ },
+ "aspasmos-adam-annual": {
+  "view": 176,
+  "tasbeha": "Adam Aspasmos - Rejoice O Mary",
+  "sure": true
+ },
+ "aspasmos-watos-annual": {
+  "view": 330,
+  "tasbeha": "Aspasmos Watos - Epshois Efnouti",
+  "sure": true
+ },
+ "distribution-annual-psalm-150": {
+  "text": "distribution-alleluia-annual",
+  "tasbeha": "Psalm 150 (228), another recording of it",
+  "sure": true
+ },
+ "os-ein-response": {
+  "view": 340,
+  "tasbeha": "As it was",
+  "sure": true
+ },
+ "eleison-imas-je-nai-nan": {
+  "view": 338,
+  "tasbeha": "Have Mercy upon us",
+  "sure": true
+ },
+ "je-nai-nan": {
+  "text": "eleison-imas-je-nai-nan",
+  "tasbeha": "Have Mercy upon us (338), another recording of it",
+  "sure": true
+ },
+ "pi-ehmot-ghar-small": {
+  "view": 320,
+  "tasbeha": "Pi-ehmot Ghar",
+  "sure": true
+ },
+ "reconciliation-response-basil": {
+  "view": 333,
+  "tasbeha": "Through the intercessions",
+  "sure": true
+ },
+ "cherubim-response": {
+  "view": 2037,
+  "tasbeha": "Anaphora - The Cherubimic Hymn",
+  "sure": true
+ },
+ "tai-shouri": {
+  "view": 675,
+  "tasbeha": "Tay-shory",
+  "sure": true
+ },
+ "ten-oosht-evol-basil": {
+  "view": 2615,
+  "tasbeha": "We look for the resurrection",
+  "sure": true
+ },
+ "ten-oosht-evol-gregory": {
+  "text": "ten-oosht-evol-basil",
+  "tasbeha": "We look for the resurrection (2615), St. Gregory",
+  "sure": true
+ },
+ "ten-oosht-evol-vespers-matins": {
+  "text": "ten-oosht-evol-basil",
+  "tasbeha": "We look for the resurrection (2615), Vespers and Matins",
+  "sure": true
+ },
+ "agios-annual": {
+  "view": 325,
+  "tasbeha": "The Hymn of the Trisagion",
+  "sure": true
+ },
+ "hetenyat-annual": {
+  "view": 210,
+  "tasbeha": "The Hymn of the Intercessions",
+  "sure": true
+ },
+ "verses-cymbals-annual": {
+  "view": null,
+  "tasbeha": "1845 has no text; which of 48 (Adam days), 49 (Watos days), 50 (Intercessors), 2592 (Annual conclusion)?",
+  "sure": false
+ },
+ "concluding-canon-annual": {
+  "view": 1853,
+  "tasbeha": "The Conclusion (Amen Alleluia)",
+  "sure": true
+ },
+ "doxology-archangel-michael": {
+  "view": 418,
+  "tasbeha": "Archangel Michael Doxology",
+  "sure": true
+ },
+ "doxology-john-baptist-1": {
+  "view": 421,
+  "tasbeha": "St. John the Baptist - 1st",
+  "sure": true
+ },
+ "doxology-john-baptist-2": {
+  "view": 1873,
+  "tasbeha": "St. John the Baptist - 2nd",
+  "sure": true
+ },
+ "kyrie-eleison-major": {
+  "view": 2640,
+  "tasbeha": "Amen. Lord have mercy 3x",
+  "sure": true
+ },
+ "gospel-response-matins-annual": {
+  "text": "gospel-response-vespers-annual",
+  "tasbeha": "The Gospel Response (Annual) (1843), Matins",
+  "sure": true
+ },
+ "gospel-response-vespers-annual": {
+  "view": 1843,
+  "tasbeha": "The Gospel Response (Annual)",
+  "sure": true
+ },
+ "aspazisti": {
+  "view": 1440,
+  "tasbeha": "Great one another - Great",
+  "sure": true
+ },
+ "ti-stoli": {
+  "view": 1452,
+  "tasbeha": "The spiritual garment (Al-hola), Crowning",
+  "sure": true
+ },
+ "evol-hiten-major": {
+  "view": 2170,
+  "tasbeha": "Evol Hetin - Long",
+  "sure": true
+ },
+ "ti-galilee": {
+  "view": 473,
+  "tasbeha": "Ti-galili-a (7th Part of the Wednesday Theotokia)",
+  "sure": true
+ },
+ "ni-ethnos-tero": {
+  "view": 454,
+  "tasbeha": "The Beginning of the Vespers Praise - Ni-ethnos Teero",
+  "sure": true
+ },
+ "sotees-ameen-major": {
+  "text": "sotees-ameen-fast",
+  "tasbeha": "another tune of the Sotis Amen in the app (Tasbeha 1974)",
+  "sure": true
+ },
+ "ti-shouri-major": {
+  "text": "censer-annual",
+  "tasbeha": "another tune of the Ti Shouri in the app (Tasbeha 76)",
+  "sure": true
+ },
+ "praxis-response-annual-major": {
+  "text": "praxis-response-annual",
+  "tasbeha": "another tune of the annual Praxis Response in the app (Tasbeha 322)",
+  "sure": true
+ },
+ "distribution-alleluia-annual": {
+  "view": 228,
+  "tasbeha": "Psalm 150",
+  "sure": true
+ },
+ "fol-evol-gregory": {
+  "view": null,
+  "tasbeha": "later: words to come from Refaat",
+  "sure": false
+ },
+ "pauline-response-short": {
+  "view": null,
+  "tasbeha": "later: words to come from Refaat",
+  "sure": false
+ },
+ "praxis-response-short": {
+  "view": null,
+  "tasbeha": "later: words to come from Refaat",
+  "sure": false
+ },
+ "reconciliation-response-gregory": {
+  "view": null,
+  "tasbeha": "later: words to come from Refaat",
+  "sure": false
+ },
+ "hos-erof": {
+  "view": null,
+  "words": {
+   "coptic": "Ϩⲱⲥ ⲉ̀ⲣⲟϥ",
+   "english": "Praise Him",
+   "arabic": "سبحوه",
+   "transliteration": "Hōs erof"
+  },
+  "tasbeha": "two words, given by Refaat",
+  "sure": true
+ },
+ "alli-el-asr": {
+  "view": null,
+  "tasbeha": "later: words to come from Refaat",
+  "sure": false
+ },
+ "ere-po-esmo-may-their-holy-blessing": {
+  "view": 2635,
+  "tasbeha": "May their holy blessing (in the app)",
+  "sure": true
+ }
+}

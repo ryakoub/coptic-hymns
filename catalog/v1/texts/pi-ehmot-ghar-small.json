@@ -1,0 +1,83 @@
+{
+ "id": "pi-ehmot-ghar-small",
+ "titles": {
+  "english": "Pi Ehmot Ghar (short)",
+  "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ",
+  "arabic": "لحن بي أهموت غار الصغيرة"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲉϥⲉ̀ϣⲱⲡⲓ ⲛⲉⲙ ⲡⲉⲕⲁ̀ⲅⲓⲟⲛ ⲡ̀ⲛⲉⲩⲙⲁ: ⲡⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁ̀ⲣⲭⲏⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ Ⲑⲉⲟ̀ⲇⲟⲣⲟⲥ.",
+   "translations": {
+    "english": "The grace of our Lord Jesus Christ, be with your saintly spirit, my lord the honored father the high priest Papa Abba (Tawadros).",
+    "arabic": "نعمة ربنا يسوع المسيح تكون مع روحك الطاهرة، يا سيدي الأب المكرم رئيس الكهنة البابا أنبا تواضروس."
+   },
+   "transliterations": {
+    "english": "Pi-ehmot ghar empenshois Ieesous Pi-ekhristos: efeshopi nem pekagion epnevma: pashois eniot ettaieeout enarshee-erevs papa abba The-odoros."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅:"
+    },
+    {
+     "coptic": "ⲉϥⲉ̀ϣⲱⲡⲓ ⲛⲉⲙ ⲡⲉⲕⲁ̀ⲅⲓⲟⲛ ⲡ̀ⲛⲉⲩⲙⲁ:"
+    },
+    {
+     "coptic": "ⲡⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁ̀ⲣⲭⲏⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ Ⲑⲉⲟ̀ⲇⲟⲣⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ ⲁⲃⲃⲁ (...).",
+   "translations": {
+    "english": "If a Metropolitan is present: And our father the Metropolitan Abba (...).",
+    "arabic": "في حضور مطران: وأبينا المطران الأنبا (...)."
+   },
+   "transliterations": {
+    "english": "Nem peniot emmeetropolitees abba (...)."
+   }
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲁⲃⲃⲁ (...).",
+   "translations": {
+    "english": "If a Bishop is present: And our father the Bishop Abba (...)",
+    "arabic": "في حضور أسقف: وأبينا الأسقف الأنبا (...)."
+   },
+   "transliterations": {
+    "english": "Nem peniot enepiskopos abba (...)."
+   }
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲙⲁⲣⲉ ⲡⲓⲕ̀ⲗⲏⲣⲟⲥ: ⲛⲉⲙ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ: ⲟ̀ⲩϫⲁⲓ ϧⲉⲛ Ⲡⲟ̅ⲥ̅: ϫⲉ ⲁ̀ⲙⲏⲛ ⲉⲥⲉ̀ϣⲱⲡⲓ.",
+   "translations": {
+    "english": "May the clergy and all the people be safe in the Lord. Amen. So it shall be.",
+    "arabic": "فليكن الإكليروس وكل الشعب معافين في الرب. آمين يكون."
+   },
+   "transliterations": {
+    "english": "Mare pi-ekleeros: nem pilaos teerf: ougai khen Epshois: je ameen eseshopi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙⲁⲣⲉ ⲡⲓⲕ̀ⲗⲏⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ:"
+    },
+    {
+     "coptic": "ⲟ̀ⲩϫⲁⲓ ϧⲉⲛ Ⲡⲟ̅ⲥ̅:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁ̀ⲙⲏⲛ ⲉⲥⲉ̀ϣⲱⲡⲓ."
+    }
+   ]
+  }
+ ]
+}

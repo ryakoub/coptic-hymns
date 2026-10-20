@@ -1,0 +1,114 @@
+{
+ "id": "doxology-john-baptist-1",
+ "titles": {
+  "english": "First Doxology of St. John the Baptist",
+  "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ ϧⲉⲛ ⲛⲓϫⲓⲛⲙⲓⲥⲓ",
+  "arabic": "ذكصولوجية القديس يوحنا المعمدان الأولى"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ ϧⲉⲛ ⲛⲓϫⲓⲛⲙⲓⲥⲓ: ⲛ̀ⲧⲉ ⲛⲓϩⲓⲟⲙⲓ ⲉϥⲟⲛⲓ ⲙ̀ⲙⲟⲕ: ⲛ̀ⲑⲟⲕ ⲟⲩⲛⲓϣϯ ϧⲉⲛ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲧⲏⲣⲟⲩ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ.",
+   "translations": {
+    "english": "Among those born of women, no one is like you, you are great among the saints, O John the Baptist.",
+    "arabic": "لم يقم فى مواليد النساء من يشبهك. أنت عظيم فى جميع القديسين يا يوحنا المعمدان."
+   },
+   "transliterations": {
+    "english": "Empe o-on tonf khen nijinmisi: ente nihiomi efoni emmok: enthok ounishti khen nee-ethowab teerou: Yoannees pireftioms."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ ϧⲉⲛ ⲛⲓϫⲓⲛⲙⲓⲥⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲛⲓϩⲓⲟⲙⲓ ⲉϥⲟⲛⲓ ⲙ̀ⲙⲟⲕ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲑⲟⲕ ⲟⲩⲛⲓϣϯ ϧⲉⲛ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲧⲏⲣⲟⲩ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲛ̀ⲑⲟⲕ ⲟⲩϩⲟⲩⲟ̀ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ⲁⲕϭⲓⲥⲓ ϧⲉⲛ ϯⲙⲉⲑⲙⲏⲓ: ⲛ̀ⲑⲟⲕ ⲡⲉ ⲡ̀ϣ̀ⲫⲏⲣ ⲙ̀ⲡⲓⲡⲁⲧϣⲉⲗⲉⲧ: ⲡⲓϩⲓⲏⲃ ⲛ̀ⲧⲉ Ⲫϯ.",
+   "translations": {
+    "english": "You are much more than a prophet, you were righteously exalted, you are the friend of the Bridegroom, the Lamb of God.",
+    "arabic": "أنت أفضل من نبى. تعاليت فى البر. أنت هو صديق الختن حمل الله."
+   },
+   "transliterations": {
+    "english": "Enthok ouhowo emeprofeetees: akchisi khen timethmee: enthok pe epeshfeer empipatshelet: pihieeb ente Efnoti."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛ̀ⲑⲟⲕ ⲟⲩϩⲟⲩⲟ̀ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲁⲕϭⲓⲥⲓ ϧⲉⲛ ϯⲙⲉⲑⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲑⲟⲕ ⲡⲉ ⲡ̀ϣ̀ⲫⲏⲣ ⲙ̀ⲡⲓⲡⲁⲧϣⲉⲗⲉⲧ:"
+    },
+    {
+     "coptic": "ⲡⲓϩⲓⲏⲃ ⲛ̀ⲧⲉ Ⲫϯ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲁⲕⲉⲣⲙⲉⲑⲣⲉ ϧⲁ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ ⲉⲧⲁϥⲓ̀ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲛⲏⲉ̀ⲑⲛⲁϩϯ ⲉ̀ⲡⲉϥⲣⲁⲛ: ⲁⲩϣⲱⲡⲓ ⲛ̀ϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ.",
+   "translations": {
+    "english": "You have witnessed to the true Light, which came into the world, those who believed in His Name, became children of the Light.",
+    "arabic": "شهدت للنور الحقيقى الذى أتى الى العالم. والذين يؤمنون باسمه صاروا أبناء النور."
+   },
+   "transliterations": {
+    "english": "Akermethre kha piowoini: enta-efmee etafi epikosmos: nee-ethnahti epefran: avshopi ensheeri ente piowoini."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲕⲉⲣⲙⲉⲑⲣⲉ ϧⲁ ⲡⲓⲟⲩⲱⲓⲛⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ ⲉⲧⲁϥⲓ̀ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲏⲉ̀ⲑⲛⲁϩϯ ⲉ̀ⲡⲉϥⲣⲁⲛ:"
+    },
+    {
+     "coptic": "ⲁⲩϣⲱⲡⲓ ⲛ̀ϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉϫⲱⲛ: ⲱ̀ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲙ̀ⲃⲁⲡⲧⲓⲥⲧⲏⲥ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ.",
+   "translations": {
+    "english": "Intercede on our behalf, O forerunner and baptizer, John the Baptist, that He may forgive us our sins.",
+    "arabic": "اشفع فينا أمام الرب أيها السابق الصابغ يوحنا المعمدان ليغفر خطايانا."
+   },
+   "transliterations": {
+    "english": "Ari-epresvevin e-ehree egon: o pi-eprothromos emvaptistees: Yoannees pireftioms: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲙ̀ⲃⲁⲡⲧⲓⲥⲧⲏⲥ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

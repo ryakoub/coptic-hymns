@@ -1,0 +1,20 @@
+{
+  "title": "Matins Gospel Response (annual)",
+  "titles": {
+    "english": "Matins Gospel Response (annual)",
+    "arabic": "مرد إنجيل باكر السنوي"
+  },
+  "youtube": "https://www.youtube.com/watch?v=hYn4Oi-EpJQ",
+  "places": [
+    "annual/raising-of-incense"
+  ],
+  "text": "gospel-response-vespers-annual",
+  "tune": {
+    "english": "Matins"
+  },
+  "mahragan": {
+    "year": 2025,
+    "stage": "grades-1-2",
+    "level": "1"
+  }
+}

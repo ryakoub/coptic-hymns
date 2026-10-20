@@ -1,0 +1,20 @@
+{
+  "title": "Annual Praxis Response (long)",
+  "titles": {
+    "english": "Annual Praxis Response (long)",
+    "arabic": "مرد الإبركسيس السنوي الكبير"
+  },
+  "youtube": "https://www.youtube.com/watch?v=G_FW2slQdfg",
+  "places": [
+    "annual/liturgy"
+  ],
+  "text": "praxis-response-annual",
+  "tune": {
+    "english": "Long"
+  },
+  "mahragan": {
+    "year": 2026,
+    "stage": "grades-3-4",
+    "level": "gifted"
+  }
+}

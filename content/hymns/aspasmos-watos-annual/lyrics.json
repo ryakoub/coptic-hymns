@@ -1,0 +1,125 @@
+[
+  {
+    "coptic": "Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ: ⲕⲟⲧⲕ ⲟⲩⲟϩ ϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧ̀ⲫⲉ: ⲁ̀ⲛⲁⲩ ⲟⲩⲟϩ ϫⲉⲙⲡ̀ϣⲓⲛⲓ ⲛ̀ⲧⲁⲓⲃⲱ ⲛ̀ⲁ̀ⲗⲟⲗⲓ: ⲥⲉⲃⲧⲱⲧⲥ ⲟⲩⲟϩ ⲥⲉⲙⲛⲏⲧⲥ ⲑⲁⲓ ⲉ̀ⲧⲁⲥϭⲟⲥ ⲛ̀ϫⲉ ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ.",
+    "translations": {
+      "english": "O Lord God of the powers, return and behold from heaven, and look and visit this vine, restore and establish Her, this which Your right hand has planted.",
+      "arabic": "أيها الرب إله القوات، إرجع واطلع من السماء، وانظر وتعهد هذه الكرمة، أصلحها وثبتها، هذه التي غرستها يمينك."
+    },
+    "transliterations": {
+      "english": "Epshois Efnoti ente nigom: kotk o-woh gousht evol khen etfe: anav o-woh jemepshini entaivo enaloli: sevtots o-woh semneets thai etaschos enje tekouinam."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ:"
+      },
+      {
+        "coptic": "ⲕⲟⲧⲕ ⲟⲩⲟϩ ϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧ̀ⲫⲉ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲛⲁⲩ ⲟⲩⲟϩ ϫⲉⲙⲡ̀ϣⲓⲛⲓ ⲛ̀ⲧⲁⲓⲃⲱ ⲛ̀ⲁ̀ⲗⲟⲗⲓ:"
+      },
+      {
+        "coptic": "ⲥⲉⲃⲧⲱⲧⲥ ⲟⲩⲟϩ ⲥⲉⲙⲛⲏⲧⲥ ⲑⲁⲓ ⲉ̀ⲧⲁⲥϭⲟⲥ ⲛ̀ϫⲉ ⲧⲉⲕⲟⲩⲓ̀ⲛⲁⲙ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅.",
+    "translations": {
+      "english": "Alleluia (3).",
+      "arabic": "هلليلويا (3)."
+    },
+    "transliterations": {
+      "english": "Alleelouia alleelouia alleelouia."
+    }
+  },
+  {
+    "label": "From 12 Baona to 9 Baba (19 June - 19/20 October), the response for the waters is said:"
+  },
+  {
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲛⲓⲙⲱⲟⲩ ⲙ̀ⲫ̀ⲓⲁⲣⲟⲩ.",
+    "translations": {
+      "english": "Bless the waters of the river.",
+      "arabic": "بارك مياه النهر."
+    },
+    "transliterations": {
+      "english": "Esmou enimoou emefiarou."
+    }
+  },
+  {
+    "label": "From 10 Baba to 10 Toba (20/21 October - 18/19 January), the response for the plants is said:"
+  },
+  {
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲛⲓⲥⲓϯ ⲛⲉⲙ ⲛⲓⲥⲓⲙ.",
+    "translations": {
+      "english": "Bless the plants and the herbs.",
+      "arabic": "بارك الزروع والعشب."
+    },
+    "transliterations": {
+      "english": "Esmou enisiti nem nisim."
+    }
+  },
+  {
+    "label": "From 11 Toba to 11 Baona (19/20 January - June 18), the response for the fruits is said:"
+  },
+  {
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲛⲓⲁ̀ⲏⲣ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ.",
+    "translations": {
+      "english": "Bless the air of the heaven.",
+      "arabic": "بارك أهوية السماء."
+    },
+    "transliterations": {
+      "english": "Esmou eni-aeer ente etfe."
+    }
+  },
+  {
+    "label": "Or the three responses are said combined:"
+  },
+  {
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲛⲓⲁ̀ⲏⲣ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲛⲉⲙ ⲛⲓⲙⲱⲟⲩ ⲙ̀ⲫ̀ⲓⲁⲣⲟ ⲛⲉⲙ ⲛⲓⲥⲓϯ ⲛⲉⲙ ⲛⲓⲥⲓⲙ.",
+    "translations": {
+      "english": "Bless the airs of heaven, [and bless] the waters of the river, [and bless] the plants and the herbs.",
+      "arabic": "بارك أهوية السماء، ومياه النهر، والزروع والعشب."
+    },
+    "transliterations": {
+      "english": "Esmou ni-aeer ente etfe nem nimoou emefiaro nem nisiti nem nisim."
+    }
+  },
+  {
+    "label": "Then they conclude:"
+  },
+  {
+    "coptic": "Ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
+    "translations": {
+      "english": "May Your mercy and Your peace be a fortress to Your people.",
+      "arabic": "ولتكن رحمتك وسلامك حصناً لشعبك."
+    },
+    "transliterations": {
+      "english": "Mare peknai nem tekhireenee oi ensovt empeklaos."
+    }
+  },
+  {
+    "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ: ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ.",
+    "translations": {
+      "english": "Holy holy holy, Lord of hosts, heaven and earth, are full of Your holy glory.",
+      "arabic": "قدوس قدوس قدوس، رب الصاباؤت، السماء والأرض، مملوءتان من مجدك الأقدس."
+    },
+    "transliterations": {
+      "english": "Agios agios agios: Kirios savaoth: epleerees o ouranos ke ee gee: tees agias sou thoksees."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ:"
+      },
+      {
+        "coptic": "Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ:"
+      },
+      {
+        "coptic": "ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ:"
+      },
+      {
+        "coptic": "ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ."
+      }
+    ]
+  }
+]
