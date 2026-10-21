@@ -13,5 +13,9 @@
     "year": 2022,
     "stage": "college",
     "level": "2"
+  },
+  "kind": "melismatic",
+  "group": {
+    "english": "Canticles"
   }
 }

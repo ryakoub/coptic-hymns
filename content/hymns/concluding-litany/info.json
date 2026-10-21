@@ -6,8 +6,10 @@
     "arabic": "طلبة الختام"
   },
   "source": "https://tasbeha.org/hymn_library/view/147",
-  "places": [
-    "praises/midnight"
-  ],
-  "order": 405
+  "kind": "recital",
+  "notes": "Same prayer as conclusion-midnight-praises (400); its recording is kept as another tune.",
+  "text": "conclusion-midnight-praises",
+  "tune": {
+    "english": "Tasbeha.org"
+  }
 }

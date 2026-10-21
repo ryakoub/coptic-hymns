@@ -1,6 +1,6 @@
 {
- "version": "af97db57fbd9671d",
- "updated": "2026-10-20T23:58:16Z",
+ "version": "de0de69b85880692",
+ "updated": "2026-10-21T00:56:05Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -854,23 +854,22 @@
         "second-hoos-lobsh",
         "third-hoos",
         "esmo-epchois",
-        "arihouo-gasf-third-hoos",
-        "aripalin",
+        "arihouo-chasf-third-hoos",
         "tenoue-n-khok",
+        "fourth-hoos",
+        "hos-erof",
         "commemoration-of-saints",
         "doxology-virgin-midnight",
-        "fourth-hoos",
-        "psalm-150-4th-hoos",
+        "aripalin",
         "first-sunday-psali",
         "second-sunday-psali",
-        "leebon",
+        "leepon",
         "semoti",
         "sunday-theotokia-2",
         "sunday-theotokia-3",
         "sunday-theotokia-4",
         "sunday-theotokia-5",
         "sunday-theotokia-6",
-        "gospel-luke",
         "shere-ne-maria",
         "shashf-ensop",
         "sunday-theotokia-9",
@@ -884,9 +883,103 @@
         "sunday-theotokia-15",
         "nim-ghar",
         "adam-theotokias-conclusion",
-        "conclusion-midnight-praises",
-        "concluding-litany",
-        "hos-erof"
+        "conclusion-midnight-praises"
+       ],
+       "groups": [
+        {
+         "id": "intro",
+         "titles": {
+          "english": "Intro",
+          "arabic": "المقدمة"
+         },
+         "recordings": [
+          "ten-theeno",
+          "ten-thinou",
+          "tennav"
+         ]
+        },
+        {
+         "id": "canticles",
+         "titles": {
+          "english": "Canticles",
+          "arabic": "الهوسات"
+         },
+         "recordings": [
+          "first-hoos",
+          "first-hoos-lobsh",
+          "lobsh-first-hoos",
+          "second-hoos",
+          "second-hoos-lobsh",
+          "third-hoos",
+          "esmo-epchois",
+          "arihouo-chasf-third-hoos",
+          "tenoue-n-khok",
+          "fourth-hoos",
+          "hos-erof"
+         ]
+        },
+        {
+         "id": "saints",
+         "titles": {
+          "english": "Saints",
+          "arabic": "القديسين"
+         },
+         "recordings": [
+          "commemoration-of-saints",
+          "doxology-virgin-midnight"
+         ]
+        },
+        {
+         "id": "psalis",
+         "titles": {
+          "english": "Psalis",
+          "arabic": "الإبصاليات"
+         },
+         "recordings": [
+          "aripalin",
+          "first-sunday-psali",
+          "second-sunday-psali"
+         ]
+        },
+        {
+         "id": "theotokia",
+         "titles": {
+          "english": "Theotokia",
+          "arabic": "الثيؤطوكيات"
+         },
+         "recordings": [
+          "leepon",
+          "semoti",
+          "sunday-theotokia-2",
+          "sunday-theotokia-3",
+          "sunday-theotokia-4",
+          "sunday-theotokia-5",
+          "sunday-theotokia-6",
+          "shere-ne-maria",
+          "shashf-ensop",
+          "sunday-theotokia-9",
+          "teoi-enhekanos",
+          "evol-hiten-major",
+          "sunday-theotokia-11",
+          "sunday-theotokia-12",
+          "sunday-theotokia-13",
+          "sunday-theotokia-14",
+          "aven-pi-arshee-erevs",
+          "sunday-theotokia-15",
+          "nim-ghar"
+         ]
+        },
+        {
+         "id": "conclusion",
+         "titles": {
+          "english": "Conclusion",
+          "arabic": "الختام"
+         },
+         "recordings": [
+          "adam-theotokias-conclusion",
+          "conclusion-midnight-praises"
+         ]
+        }
        ]
       },
       {
@@ -1222,7 +1315,7 @@
         "english": "College & Up · Level 1"
        },
        "entries": [
-        "arihouo-gasf-third-hoos",
+        "arihouo-chasf-third-hoos",
         "hossana-intro-doxologies-first-doxology",
         "christos-analympsis",
         "ethbe-ti-anastasis"
@@ -1250,7 +1343,7 @@
    "id": "adam-theotokias-conclusion",
    "titles": {
     "english": "The Adam Theotokias Conclusion",
-    "coptic": "Ⲧ̀ϧⲁⲉ̀ ⲛ̀Ⲛⲓⲑⲉⲟ̀ⲧⲟⲕⲓⲁ ⲛ̀Ⲁ̀ⲇⲁⲙ",
+    "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ ⲡⲁⲛⲟⲩϯ",
     "arabic": "ختام الثيؤطوكيات الأدام"
    },
    "tags": [],
@@ -1269,8 +1362,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
-    "bytes": 17546,
-    "sha256": "b846559feaf9a6566d2b553b7e7765dcf4111151305e7b641a5082d91ea6390d"
+    "bytes": 17515,
+    "sha256": "fc2b4db2e20b23ee16774ad835e6744e543d69d10eaea8eba141283c5f7df370"
    }
   },
   {
@@ -1379,7 +1472,7 @@
    }
   },
   {
-   "id": "arihouo-gasf-third-hoos",
+   "id": "arihouo-chasf-third-hoos",
    "titles": {
     "english": "Aree Hoo Ou Chasf (Third Canticle)",
     "coptic": "Ⲁⲣⲓϩⲟⲩⲟ Ϭⲁⲥϥ",
@@ -1393,12 +1486,12 @@
    ],
    "transliterations": [],
    "recordings": [
-    "arihouo-gasf-third-hoos"
+    "arihouo-chasf-third-hoos"
    ],
    "file": {
-    "url": "catalog/v1/texts/arihouo-gasf-third-hoos.json",
-    "bytes": 412,
-    "sha256": "3743b11d33e48f2c21010b69a117d3740a9c1ac5e71666b4bdccbaad04f23090"
+    "url": "catalog/v1/texts/arihouo-chasf-third-hoos.json",
+    "bytes": 413,
+    "sha256": "7b82bf82f4ef3a5c465a100944d4ae61035b5d34da926014c9373065f9251d39"
    }
   },
   {
@@ -1700,7 +1793,7 @@
    "id": "commemoration-of-saints",
    "titles": {
     "english": "The Commemoration of the Saint",
-    "coptic": "Ⲡⲓⲥⲩⲛⲇⲟⲥ ⲛ̀ⲧⲉ Ⲛⲏⲉⲑⲟⲩⲁⲃ",
+    "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ",
     "arabic": "مجمع القديسين"
    },
    "tags": [],
@@ -1719,8 +1812,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/commemoration-of-saints.json",
-    "bytes": 99695,
-    "sha256": "ec06272e97b6f69cc10b3659184883c8a9bdbcc8ab965a56c505b48c5a1988a9"
+    "bytes": 99707,
+    "sha256": "18756fbefb4aa6799dd1e313b76215420e624d8d643f145a898fe9c20fecac61"
    }
   },
   {
@@ -1771,33 +1864,6 @@
    }
   },
   {
-   "id": "concluding-litany",
-   "titles": {
-    "english": "The Concluding Litany",
-    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
-    "arabic": "طلبة الختام"
-   },
-   "tags": [],
-   "pending": false,
-   "lines": 19,
-   "translations": [
-    "arabic",
-    "english"
-   ],
-   "transliterations": [
-    "english"
-   ],
-   "recordings": [
-    "concluding-litany",
-    "concluding-litany-english"
-   ],
-   "file": {
-    "url": "catalog/v1/texts/concluding-litany.json",
-    "bytes": 5943,
-    "sha256": "02304881d3a38672df67f2efae1f70cdbc2d4b3c5618b37f51a652e030dc18ae"
-   }
-  },
-  {
    "id": "conclusion-canon-resurrection",
    "titles": {
     "english": "Conclusion Canon, Resurrection",
@@ -1822,7 +1888,9 @@
   {
    "id": "conclusion-midnight-praises",
    "titles": {
-    "english": "Conclusion of Midnight Praises"
+    "english": "Conclusion of Midnight Praises",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+    "arabic": "ختام التسبحة"
    },
    "tags": [],
    "pending": false,
@@ -1832,12 +1900,14 @@
    ],
    "transliterations": [],
    "recordings": [
+    "concluding-litany",
+    "concluding-litany-english",
     "conclusion-midnight-praises"
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-midnight-praises.json",
-    "bytes": 5414,
-    "sha256": "6e7b35ec441509a751588de5795c26a0d9b5550b8c3757019ad714eb5150ef35"
+    "bytes": 5525,
+    "sha256": "74dce27252379331065050ab0ebc34d8ebdf7b54ac82d98506475c520894825c"
    }
   },
   {
@@ -2083,7 +2153,7 @@
    "id": "doxology-virgin-midnight",
    "titles": {
     "english": "Doxology for Virgin Mary - Midnight Praise",
-    "coptic": "Ϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ ⲛ̀ⲧⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁ - Ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀ⲧⲉ Ⲧ̀ⲫⲁϣⲓ ⲙ̀Ⲡⲓⲉ̀ϫⲱⲣϩ",
+    "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ",
     "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
    },
    "tags": [],
@@ -2108,8 +2178,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-virgin-midnight.json",
-    "bytes": 7423,
-    "sha256": "7f5f82fdf77231e496f134ff560cc543326925b277868f8a519131bb9476dca6"
+    "bytes": 7304,
+    "sha256": "913df25e5f59f8b76b4296aafd6cf0b3fe559bacb8a47dd3f12fdaf00978387b"
    }
   },
   {
@@ -2164,7 +2234,7 @@
    "id": "esmo-epchois",
    "titles": {
     "english": "The Third Hoos - Esmo Epchois",
-    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ - Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ",
     "arabic": "الهوس الثالث - إسمو إبشويس"
    },
    "tags": [],
@@ -2189,8 +2259,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/esmo-epchois.json",
-    "bytes": 2310,
-    "sha256": "510bd5e942647524f467b9e92bb6f7da25049ebb38114546bce5df0dac1cc65d"
+    "bytes": 2292,
+    "sha256": "8ffd21144fd0e022f19e8ae30c3d5590d10c791d7ece94581d8037c380cccfe1"
    }
   },
   {
@@ -2220,7 +2290,7 @@
    "id": "evol-hiten-major",
    "titles": {
     "english": "Evol Hiten (long)",
-    "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ̀",
+    "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ",
     "arabic": "إيفول هيتين الكبير"
    },
    "tags": [],
@@ -2238,8 +2308,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/evol-hiten-major.json",
-    "bytes": 2142,
-    "sha256": "704137fd5ec526b01d586e227da60d9cd62d18c80c05a38df8a7d45b7da5bcb5"
+    "bytes": 2140,
+    "sha256": "660104a208428814af60222fdcd4a64bd8be1d357bfaae3d6a86b8620b71c427"
    }
   },
   {
@@ -2293,7 +2363,7 @@
    "id": "first-hoos-lobsh",
    "titles": {
     "english": "The First Hoos Lobsh",
-    "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲛ̀Ϩⲟⲩⲓⲧ",
+    "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
     "arabic": "لبش الهوس الأول"
    },
    "tags": [],
@@ -2319,15 +2389,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos-lobsh.json",
-    "bytes": 9586,
-    "sha256": "0fb81d72b0c91e55f28b33508fa58045309367d0edcabf5d0e37e54f4aee89d1"
+    "bytes": 9559,
+    "sha256": "8ec36eef0a459f1d092b9331cb2bc5d1ebc347ad0f1d9557f63de67941e0df5d"
    }
   },
   {
    "id": "first-sunday-psali",
    "titles": {
     "english": "The First Sunday Psali",
-    "coptic": "Ϯⲯⲁⲗⲓ ⲛ̀Ϩⲟⲩⲓϯ ⲛ̀ⲧⲉ Ϯⲕⲩⲣⲓⲁⲕⲏ",
+    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ",
     "arabic": "إبصالية الأحد الأول"
    },
    "tags": [],
@@ -2346,15 +2416,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-sunday-psali.json",
-    "bytes": 20704,
-    "sha256": "d83e9a4c8a2c9317a36cd6ea34f14dbae743b39438f76b2f7b9e98471ec9d828"
+    "bytes": 20674,
+    "sha256": "ea586897e3393888d223b0515fabc664d6e10f621e69a64d111e230c485a35e5"
    }
   },
   {
    "id": "fourth-hoos",
    "titles": {
     "english": "The Fourth Hoos",
-    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϥ̀ⲧⲟⲟⲩ",
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ⲃⲟⲗ",
     "arabic": "الهوس الرابع"
    },
    "tags": [],
@@ -2373,15 +2443,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fourth-hoos.json",
-    "bytes": 33291,
-    "sha256": "b545e7fdaa37160bb71cb083b93f6c76f3927d55ba24b33657b9e77450d83bff"
+    "bytes": 33298,
+    "sha256": "c07714d6e54daea2433b5efdae42c042ed2936c370fc3c97ad00ab59fa854898"
    }
   },
   {
    "id": "gospel-luke",
    "titles": {
     "english": "Gospel According to St. Luke",
-    "coptic": "Ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲕⲁⲧⲁ Ⲗⲟⲩⲕⲁⲛ Ⲁ̀ⲅⲓⲟⲛ",
+    "coptic": "Ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ",
     "arabic": "الإنجيل لمعلمنا مار لوقا"
    },
    "tags": [],
@@ -2400,8 +2470,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-luke.json",
-    "bytes": 4200,
-    "sha256": "9487153fbbff5287316bc096fa2f645a4f70cfcf0139e7d405d04205bb087810"
+    "bytes": 4167,
+    "sha256": "0aa1ba46e015538fbd09c7bd1be23a66536d60cd55aa8bc81eac663a6dad055a"
    }
   },
   {
@@ -2678,7 +2748,7 @@
    }
   },
   {
-   "id": "leebon",
+   "id": "leepon",
    "titles": {
     "english": "Intro of the Theotokia (Leebon)",
     "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ",
@@ -2695,12 +2765,12 @@
     "english"
    ],
    "recordings": [
-    "leebon"
+    "leepon"
    ],
    "file": {
-    "url": "catalog/v1/texts/leebon.json",
+    "url": "catalog/v1/texts/leepon.json",
     "bytes": 4271,
-    "sha256": "473f3e7ef7d13c85fee1f73cf62ffd4c8dcb0977f93dffd980893dce048ff786"
+    "sha256": "6d7f50d1085f435a818f8a560a1d326087cf0b811154f0640d30a11cd1c9e808"
    }
   },
   {
@@ -3344,7 +3414,7 @@
    "id": "second-hoos",
    "titles": {
     "english": "The Second Hoos",
-    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲁⲩ",
+    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
     "arabic": "الهوس الثاني"
    },
    "tags": [],
@@ -3363,15 +3433,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos.json",
-    "bytes": 25399,
-    "sha256": "d16cc7b12c51244bc8fcfec013dd6a72ab23f2c5fb67fd200dc537f1572551d6"
+    "bytes": 25408,
+    "sha256": "4844fb388f9716e9513428c4c9a310b700b25b9a9cfd6171be49d1e89ac5e2ca"
    }
   },
   {
    "id": "second-hoos-lobsh",
    "titles": {
     "english": "The Second Hoos Lobsh",
-    "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲁⲩ",
+    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛⲉϩ",
     "arabic": "لبش الهوس الثاني"
    },
    "tags": [],
@@ -3390,15 +3460,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos-lobsh.json",
-    "bytes": 12458,
-    "sha256": "9a55a8a30346661aecb650f0be1d8b5ee5fd39f765ac8ab1671fde42c2273ba0"
+    "bytes": 12418,
+    "sha256": "c63fd8d119a788ea3f871a3655e317085ba0cac2005c951fca02355b646dbbdb"
    }
   },
   {
    "id": "second-sunday-psali",
    "titles": {
     "english": "The Second Sunday Psali",
-    "coptic": "Ϯⲯⲁⲗⲓ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ Ϯⲕⲩⲣⲓⲁⲕⲏ",
+    "coptic": "Ⲁⲓⲕⲱϯ ⲛ̀ⲥⲱⲕ",
     "arabic": "إبصالية الأحد الثانية"
    },
    "tags": [],
@@ -3417,8 +3487,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-sunday-psali.json",
-    "bytes": 28127,
-    "sha256": "4a25c90c9409dc444e419cbb08542e9fa1d5e51d9e1021867d2d756bf79972ba"
+    "bytes": 28076,
+    "sha256": "54e6f69cdd55cb3c7de423ae4dd0967e35b6edaf1d7bec41c38f20078bf8b8fb"
    }
   },
   {
@@ -4097,7 +4167,7 @@
    "id": "third-hoos",
    "titles": {
     "english": "The Third Hoos",
-    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ",
+    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ",
     "arabic": "الهوس الثالث"
    },
    "tags": [],
@@ -4116,8 +4186,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/third-hoos.json",
-    "bytes": 37418,
-    "sha256": "17040d6cf1227c19d44d923ac0048c2eaa0e7b20619f57415d8ea3b982f77f41"
+    "bytes": 37444,
+    "sha256": "da07770ba32d32a3e57db2bf339c021706a1edca9624a221b6217f50532a881f"
    }
   },
   {
@@ -4338,6 +4408,7 @@
     "of": 17
    },
    "source": "https://tasbeha.org/hymn_library/view/477",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion.json",
@@ -4488,25 +4559,26 @@
    ]
   },
   {
-   "id": "arihouo-gasf-third-hoos",
-   "text": "arihouo-gasf-third-hoos",
+   "id": "arihouo-chasf-third-hoos",
+   "text": "arihouo-chasf-third-hoos",
    "duration": 393.81,
    "timing": {
     "lines": 1,
     "words": 0,
     "of": 1
    },
-   "source": "content/mahragan-keraza-2026/college/level-1/arihouo-gasf-third-hoos/",
+   "source": "content/mahragan-keraza-2026/college/level-1/arihouo-chasf-third-hoos/",
    "youtube": "https://youtu.be/h_DlDnldbcM?si=WasBqXX6VYPoabW0",
+   "kind": "melismatic",
    "files": [
     {
-     "url": "catalog/v1/timings/arihouo-gasf-third-hoos.json",
-     "bytes": 139,
-     "sha256": "2f32b72aa55528625890a0d56bdc8da033a5d25ac516f4b4c0d5e83f54ee412b",
+     "url": "catalog/v1/timings/arihouo-chasf-third-hoos.json",
+     "bytes": 141,
+     "sha256": "676e5795dae5e33f00a0ed86f7b8a282d5ddc2d235c6cffa06f2c896d7ca0f93",
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-1/arihouo-gasf-third-hoos/audio.seek.m4a",
+     "url": "content/mahragan-keraza-2026/college/level-1/arihouo-chasf-third-hoos/audio.seek.m4a",
      "role": "audio",
      "bytes": 6274557,
      "sha256": "eb92c2bb2e5401e7fa89a7e58b013fd8de8eb2e2163d5ed7d30ad3c060d25ba8"
@@ -4685,6 +4757,7 @@
     "of": 6
    },
    "source": "https://tasbeha.org/hymn_library/view/480",
+   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/aven-pi-arshee-erevs.json",
@@ -4840,6 +4913,7 @@
     "of": 75
    },
    "source": "https://tasbeha.org/hymn_library/view/111",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/commemoration-of-saints.json",
@@ -4939,19 +5013,23 @@
   },
   {
    "id": "concluding-litany",
-   "text": "concluding-litany",
+   "text": "conclusion-midnight-praises",
    "duration": 344.52,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 19
+    "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/147",
+   "tune": {
+    "english": "Tasbeha.org"
+   },
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/concluding-litany.json",
-     "bytes": 84,
-     "sha256": "2f48cbb1eeb122355b47e2420d4713f397aca920322c53374a98e9834899f981",
+     "bytes": 94,
+     "sha256": "c98d75a81790fb54e8b3df28adf3ba5a1fbd378329362b20ac999841d8421aff",
      "role": "timing"
     },
     {
@@ -4964,7 +5042,7 @@
   },
   {
    "id": "concluding-litany-english",
-   "text": "concluding-litany",
+   "text": "conclusion-midnight-praises",
    "duration": 258.59,
    "timing": {
     "lines": 0,
@@ -4980,8 +5058,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/concluding-litany-english.json",
-     "bytes": 92,
-     "sha256": "875af8f2cac35a625bd2ed4b8bebcb1bab3663016c6a488b8c6b3157e8de4ac8",
+     "bytes": 102,
+     "sha256": "23e683254d4bcd07d00a3bbd4f8e579d728e160d9cace4474af65de135055337",
      "role": "timing"
     },
     {
@@ -5028,7 +5106,11 @@
     "of": 31
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/",
+   "tune": {
+    "english": "Mahragan 2026"
+   },
    "youtube": "https://www.youtube.com/watch?v=LhgEeCHUbME",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/conclusion-midnight-praises.json",
@@ -5317,6 +5399,7 @@
     "of": 6
    },
    "source": "https://tasbeha.org/hymn_library/view/25",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-virgin-midnight.json",
@@ -5394,6 +5477,7 @@
     "of": 2
    },
    "source": "https://tasbeha.org/hymn_library/view/453",
+   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/esmo-epchois.json",
@@ -5447,6 +5531,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2170",
    "youtube": "https://www.youtube.com/watch?v=JyfcNefBDWQ",
+   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/evol-hiten-major.json",
@@ -5611,6 +5696,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/112",
    "antiphonalGroup": 2,
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/first-sunday-psali.json",
@@ -5916,6 +6002,7 @@
    },
    "source": "content/hymns/hos-erof/",
    "youtube": "https://www.youtube.com/watch?v=iYrw8PeSnzg",
+   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/hos-erof.json",
@@ -6117,8 +6204,8 @@
    ]
   },
   {
-   "id": "leebon",
-   "text": "leebon",
+   "id": "leepon",
+   "text": "leepon",
    "duration": 519.75,
    "timing": {
     "lines": 0,
@@ -6128,13 +6215,13 @@
    "source": "https://tasbeha.org/hymn_library/view/465",
    "files": [
     {
-     "url": "catalog/v1/timings/leebon.json",
+     "url": "catalog/v1/timings/leepon.json",
      "bytes": 62,
-     "sha256": "4f25d4eec6cfd121f103f8e530b958119e1a793f832bed11914cf3d88b142961",
+     "sha256": "74d474c71550d389e8fb09e2b53fcd40c2bbfe9665906bbdba9183f063d1ad41",
      "role": "timing"
     },
     {
-     "url": "content/hymns/leebon/audio.mp3",
+     "url": "content/hymns/leepon/audio.mp3",
      "role": "audio",
      "bytes": 8317173,
      "sha256": "8fa1004103b7d4e22fc66edf8cdb7f14293e8976534193525ad9e5bb8f26e5b6"
@@ -6312,6 +6399,7 @@
     "of": 14
    },
    "source": "https://tasbeha.org/hymn_library/view/481",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/nim-ghar.json",
@@ -6735,6 +6823,7 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-2/psalm-150-4th-hoos/",
    "youtube": "https://youtu.be/XyZFvRkJyws",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/psalm-150-4th-hoos.json",
@@ -7004,6 +7093,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/174",
    "antiphonalGroup": 2,
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/second-sunday-psali.json",
@@ -7114,6 +7204,7 @@
     "of": 25
    },
    "source": "https://tasbeha.org/hymn_library/view/140",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/shashf-ensop.json",
@@ -7277,6 +7368,7 @@
    "source": "https://tasbeha.org/hymn_library/view/479",
    "youtube": "https://www.youtube.com/watch?v=pXS0Zl2RpUo",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-11.json",
@@ -7304,6 +7396,7 @@
    "source": "https://tasbeha.org/hymn_library/view/479",
    "youtube": "https://www.youtube.com/watch?v=uJ0G4qTUnK8",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-12.json",
@@ -7331,6 +7424,7 @@
    "source": "https://tasbeha.org/hymn_library/view/479",
    "youtube": "https://www.youtube.com/watch?v=VvwwjpAgs9s",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-13.json",
@@ -7358,6 +7452,7 @@
    "source": "https://tasbeha.org/hymn_library/view/479",
    "youtube": "https://www.youtube.com/watch?v=e5etC9bm9-o",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-14.json",
@@ -7385,6 +7480,7 @@
    "source": "https://tasbeha.org/hymn_library/view/479",
    "youtube": "https://www.youtube.com/watch?v=p3T4mcWvDm0",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-15.json",
@@ -7412,6 +7508,7 @@
    "source": "https://tasbeha.org/hymn_library/view/476",
    "youtube": "https://www.youtube.com/watch?v=gszxMwxA7YA",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-2.json",
@@ -7439,6 +7536,7 @@
    "source": "https://tasbeha.org/hymn_library/view/476",
    "youtube": "https://www.youtube.com/watch?v=Yzuu7AdODao",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-3.json",
@@ -7466,6 +7564,7 @@
    "source": "https://tasbeha.org/hymn_library/view/476",
    "youtube": "https://www.youtube.com/watch?v=JLSzlGWB5ZM",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-4.json",
@@ -7493,6 +7592,7 @@
    "source": "https://tasbeha.org/hymn_library/view/476",
    "youtube": "https://www.youtube.com/watch?v=JcZA_cF5vpw",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-5.json",
@@ -7520,6 +7620,7 @@
    "source": "https://tasbeha.org/hymn_library/view/476",
    "youtube": "https://www.youtube.com/watch?v=ItHFfjbAzcE",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-6.json",
@@ -7547,6 +7648,7 @@
    "source": "https://tasbeha.org/hymn_library/view/140",
    "youtube": "https://www.youtube.com/watch?v=ezxEBa_wS9A",
    "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-9.json",
@@ -7686,6 +7788,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/92",
    "youtube": "https://youtu.be/CGnIpcb7sQw",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno.json",
@@ -7742,6 +7845,7 @@
    },
    "source": "content/mahragan-keraza-2026/college/level-2/ten-thinou/",
    "youtube": "https://youtu.be/pqkaJ2xs6Oc?si=hxn7AiT28rui0bbq",
+   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/ten-thinou.json",
@@ -7767,6 +7871,7 @@
     "of": 9
    },
    "source": "https://tasbeha.org/hymn_library/view/104",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/tennav.json",
@@ -7878,6 +7983,7 @@
     "of": 59
    },
    "source": "https://tasbeha.org/hymn_library/view/479",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/teoi-enhekanos.json",

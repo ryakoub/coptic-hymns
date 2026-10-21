@@ -2,7 +2,7 @@
   "title": "Doxology for Virgin Mary - Midnight Praise",
   "titles": {
     "english": "Doxology for Virgin Mary - Midnight Praise",
-    "coptic": "Ϯⲇⲟⲝⲟⲗⲟⲅⲓⲁ ⲛ̀ⲧⲉ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁ - Ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀ⲧⲉ Ⲧ̀ⲫⲁϣⲓ ⲙ̀Ⲡⲓⲉ̀ϫⲱⲣϩ",
+    "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ",
     "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
   },
   "source": "https://tasbeha.org/hymn_library/view/25",
@@ -16,5 +16,9 @@
       "title": "Doxology - Midnight",
       "url": "https://www.coptichymnsinenglish.com/album/40/track/840"
     }
-  ]
+  ],
+  "kind": "recital",
+  "group": {
+    "english": "Saints"
+  }
 }

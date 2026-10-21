@@ -6132,7 +6132,7 @@
   ]
  },
  {
-  "key": "arihouo-gasf-third-hoos",
+  "key": "arihouo-chasf-third-hoos",
   "english": "Aree Hoo Ou Chasf (Third Canticle)",
   "arabic": "اري هوؤو تشاسف (الهوس الثالث)",
   "places": [
@@ -6144,7 +6144,7 @@
    }
   ],
   "status": "in app",
-  "app_id": "arihouo-gasf-third-hoos",
+  "app_id": "arihouo-chasf-third-hoos",
   "note": "not on the youth-bishopric channel",
   "video": null,
   "newest_unplayable": [],
@@ -6182,7 +6182,7 @@
  {
   "key": "conclusion-midnight-praises",
   "english": "Conclusion of Midnight Praises",
-  "arabic": "طلبة ختام التسبحة (إفنوتي ناي نان)",
+  "arabic": "ختام التسبحة",
   "places": [
    {
     "collection": "praises",
@@ -6319,25 +6319,6 @@
   ]
  },
  {
-  "key": "gospel-luke",
-  "english": "Gospel According to St. Luke",
-  "arabic": "الإنجيل لمعلمنا مار لوقا",
-  "places": [
-   {
-    "collection": "praises",
-    "english": "Praises (Psalmody) · Midnight Praises",
-    "arabic": "التسبحة · تسبحة نصف الليل",
-    "id": "praises/midnight"
-   }
-  ],
-  "status": "in app",
-  "app_id": "gospel-luke",
-  "note": "not on the youth-bishopric channel",
-  "video": null,
-  "newest_unplayable": [],
-  "other_versions": []
- },
- {
   "key": "hos-erof",
   "english": "Hos Erof",
   "arabic": "هوس إيروف",
@@ -6367,7 +6348,7 @@
   "other_versions": []
  },
  {
-  "key": "leebon",
+  "key": "leepon",
   "english": "Intro of the Theotokia (Leebon)",
   "arabic": "مقدمة الثيؤطوكية - ليبون",
   "places": [
@@ -6379,7 +6360,7 @@
    }
   ],
   "status": "in app",
-  "app_id": "leebon",
+  "app_id": "leepon",
   "note": "not on the youth-bishopric channel",
   "video": null,
   "newest_unplayable": [],
@@ -6592,25 +6573,6 @@
   ],
   "status": "in app",
   "app_id": "commemoration-of-saints",
-  "note": "not on the youth-bishopric channel",
-  "video": null,
-  "newest_unplayable": [],
-  "other_versions": []
- },
- {
-  "key": "concluding-litany",
-  "english": "The Concluding Litany",
-  "arabic": "طلبة الختام",
-  "places": [
-   {
-    "collection": "praises",
-    "english": "Praises (Psalmody) · Midnight Praises",
-    "arabic": "التسبحة · تسبحة نصف الليل",
-    "id": "praises/midnight"
-   }
-  ],
-  "status": "in app",
-  "app_id": "concluding-litany",
   "note": "not on the youth-bishopric channel",
   "video": null,
   "newest_unplayable": [],
@@ -6938,6 +6900,215 @@
   ],
   "status": "in app",
   "app_id": "nim-ghar",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-11",
+  "english": "The Sunday Theotokia (11)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الحادية عشر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-11",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-12",
+  "english": "The Sunday Theotokia (12)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الثانية عشر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-12",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-13",
+  "english": "The Sunday Theotokia (13)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الثالثة عشر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-13",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-14",
+  "english": "The Sunday Theotokia (14)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الرابعة عشر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-14",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-15",
+  "english": "The Sunday Theotokia (15)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الخامسة عشر",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-15",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-2",
+  "english": "The Sunday Theotokia (2)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الثانية",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-2",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-3",
+  "english": "The Sunday Theotokia (3)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الثالثة",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-3",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-4",
+  "english": "The Sunday Theotokia (4)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الرابعة",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-4",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-5",
+  "english": "The Sunday Theotokia (5)",
+  "arabic": "ثيؤطوكية الأحد - القطعة الخامسة",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-5",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-6",
+  "english": "The Sunday Theotokia (6)",
+  "arabic": "ثيؤطوكية الأحد - القطعة السادسة",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-6",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "sunday-theotokia-9",
+  "english": "The Sunday Theotokia (9)",
+  "arabic": "ثيؤطوكية الأحد - القطعة التاسعة",
+  "places": [
+   {
+    "collection": "praises",
+    "english": "Praises (Psalmody) · Midnight Praises",
+    "arabic": "التسبحة · تسبحة نصف الليل",
+    "id": "praises/midnight"
+   }
+  ],
+  "status": "in app",
+  "app_id": "sunday-theotokia-9",
   "note": "not on the youth-bishopric channel",
   "video": null,
   "newest_unplayable": [],
@@ -7889,6 +8060,18 @@
    "duration": 807,
    "playable": true
   },
+  "newest_unplayable": [],
+  "other_versions": []
+ },
+ {
+  "key": "gospel-luke",
+  "english": "Gospel According to St. Luke",
+  "arabic": "الإنجيل لمعلمنا مار لوقا",
+  "places": [],
+  "status": "in app",
+  "app_id": "gospel-luke",
+  "note": "not on the youth-bishopric channel",
+  "video": null,
   "newest_unplayable": [],
   "other_versions": []
  }

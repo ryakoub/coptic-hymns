@@ -2,7 +2,7 @@
   "title": "The Third Hoos - Esmo Epchois",
   "titles": {
     "english": "The Third Hoos - Esmo Epchois",
-    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩϣⲟⲙⲧ - Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲁ̀ⲛⲁⲛⲓⲁⲥ",
     "arabic": "الهوس الثالث - إسمو إبشويس"
   },
   "source": "https://tasbeha.org/hymn_library/view/453",
@@ -16,5 +16,9 @@
       "title": "Bless the Lord",
       "url": "https://www.coptichymnsinenglish.com/album/40/track/424"
     }
-  ]
+  ],
+  "kind": "melismatic",
+  "group": {
+    "english": "Canticles"
+  }
 }

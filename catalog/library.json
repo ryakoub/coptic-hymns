@@ -727,7 +727,51 @@
         "english": "Midnight Praises",
         "arabic": "تسبحة نصف الليل"
        },
-       "entries": []
+       "entries": [],
+       "groups": [
+        {
+         "id": "intro",
+         "titles": {
+          "english": "Intro",
+          "arabic": "المقدمة"
+         }
+        },
+        {
+         "id": "canticles",
+         "titles": {
+          "english": "Canticles",
+          "arabic": "الهوسات"
+         }
+        },
+        {
+         "id": "saints",
+         "titles": {
+          "english": "Saints",
+          "arabic": "القديسين"
+         }
+        },
+        {
+         "id": "psalis",
+         "titles": {
+          "english": "Psalis",
+          "arabic": "الإبصاليات"
+         }
+        },
+        {
+         "id": "theotokia",
+         "titles": {
+          "english": "Theotokia",
+          "arabic": "الثيؤطوكيات"
+         }
+        },
+        {
+         "id": "conclusion",
+         "titles": {
+          "english": "Conclusion",
+          "arabic": "الختام"
+         }
+        }
+       ]
       },
       {
        "id": "morning-praises",
@@ -1048,7 +1092,7 @@
         "english": "College & Up · Level 1"
        },
        "entries": [
-        "arihouo-gasf-third-hoos",
+        "arihouo-chasf-third-hoos",
         "hossana-intro-doxologies-first-doxology",
         "christos-analympsis",
         "ethbe-ti-anastasis"

@@ -9,5 +9,9 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 160
+  "order": 160,
+  "kind": "both",
+  "group": {
+    "english": "Theotokia"
+  }
 }

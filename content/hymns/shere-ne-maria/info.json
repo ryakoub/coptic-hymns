@@ -15,5 +15,9 @@
       "title": "Hail to you Mary",
       "url": "https://www.coptichymnsinenglish.com/album/40/track/779"
     }
-  ]
+  ],
+  "kind": "both",
+  "group": {
+    "english": "Theotokia"
+  }
 }

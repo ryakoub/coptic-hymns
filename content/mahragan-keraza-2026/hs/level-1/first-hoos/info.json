@@ -5,5 +5,8 @@
   ],
   "order": 40,
   "kind": "recital",
-  "youtube": "https://www.youtube.com/watch?v=Crxk4NGE3T4"
+  "youtube": "https://www.youtube.com/watch?v=Crxk4NGE3T4",
+  "group": {
+    "english": "Canticles"
+  }
 }

@@ -2,12 +2,16 @@
   "title": "The Adam Theotokias Conclusion",
   "titles": {
     "english": "The Adam Theotokias Conclusion",
-    "coptic": "Ⲧ̀ϧⲁⲉ̀ ⲛ̀Ⲛⲓⲑⲉⲟ̀ⲧⲟⲕⲓⲁ ⲛ̀Ⲁ̀ⲇⲁⲙ",
+    "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ ⲡⲁⲛⲟⲩϯ",
     "arabic": "ختام الثيؤطوكيات الأدام"
   },
   "source": "https://tasbeha.org/hymn_library/view/477",
   "places": [
     "praises/midnight"
   ],
-  "order": 370
+  "order": 370,
+  "kind": "recital",
+  "group": {
+    "english": "Conclusion"
+  }
 }

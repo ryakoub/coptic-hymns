@@ -4,5 +4,17 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 400
+  "order": 400,
+  "titles": {
+    "english": "Conclusion of Midnight Praises",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+    "arabic": "ختام التسبحة"
+  },
+  "kind": "recital",
+  "group": {
+    "english": "Conclusion"
+  },
+  "tune": {
+    "english": "Mahragan 2026"
+  }
 }

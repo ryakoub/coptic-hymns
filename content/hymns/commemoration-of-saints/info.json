@@ -2,12 +2,16 @@
   "title": "The Commemoration of the Saint",
   "titles": {
     "english": "The Commemoration of the Saint",
-    "coptic": "Ⲡⲓⲥⲩⲛⲇⲟⲥ ⲛ̀ⲧⲉ Ⲛⲏⲉⲑⲟⲩⲁⲃ",
+    "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ",
     "arabic": "مجمع القديسين"
   },
   "source": "https://tasbeha.org/hymn_library/view/111",
   "places": [
     "praises/midnight"
   ],
-  "order": 110
+  "order": 110,
+  "kind": "recital",
+  "group": {
+    "english": "Saints"
+  }
 }

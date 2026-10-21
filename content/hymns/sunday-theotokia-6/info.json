@@ -11,5 +11,9 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 220
+  "order": 220,
+  "kind": "recital",
+  "group": {
+    "english": "Theotokia"
+  }
 }

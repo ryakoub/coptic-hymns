@@ -2,7 +2,7 @@
   "title": "The First Sunday Psali",
   "titles": {
     "english": "The First Sunday Psali",
-    "coptic": "Ϯⲯⲁⲗⲓ ⲛ̀Ϩⲟⲩⲓϯ ⲛ̀ⲧⲉ Ϯⲕⲩⲣⲓⲁⲕⲏ",
+    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ",
     "arabic": "إبصالية الأحد الأول"
   },
   "source": "https://tasbeha.org/hymn_library/view/112",
@@ -10,5 +10,9 @@
     "praises/midnight"
   ],
   "order": 140,
-  "antiphonalGroup": 2
+  "antiphonalGroup": 2,
+  "kind": "recital",
+  "group": {
+    "english": "Psalis"
+  }
 }

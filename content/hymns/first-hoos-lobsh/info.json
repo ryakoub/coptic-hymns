@@ -2,7 +2,7 @@
   "title": "The First Hoos Lobsh",
   "titles": {
     "english": "The First Hoos Lobsh",
-    "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲛ̀Ϩⲟⲩⲓⲧ",
+    "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
     "arabic": "لبش الهوس الأول"
   },
   "source": "https://tasbeha.org/hymn_library/view/105",
@@ -16,5 +16,9 @@
       "title": "With the Split",
       "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
     }
-  ]
+  ],
+  "kind": "both",
+  "group": {
+    "english": "Canticles"
+  }
 }

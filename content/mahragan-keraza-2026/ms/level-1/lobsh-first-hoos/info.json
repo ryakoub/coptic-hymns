@@ -11,5 +11,9 @@
       "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
     }
   ],
-  "order": 55
+  "order": 55,
+  "kind": "both",
+  "group": {
+    "english": "Canticles"
+  }
 }

@@ -2,7 +2,7 @@
   "title": "The Second Hoos",
   "titles": {
     "english": "The Second Hoos",
-    "coptic": "Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲁⲩ",
+    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
     "arabic": "الهوس الثاني"
   },
   "source": "https://tasbeha.org/hymn_library/view/106",
@@ -12,5 +12,8 @@
   "order": 60,
   "kind": "recital",
   "youtube": "https://youtu.be/T4lSylX9S3E",
-  "cantor": "The Coptic Gate (Mahragan 2022, Middle School)"
+  "cantor": "The Coptic Gate (Mahragan 2022, Middle School)",
+  "group": {
+    "english": "Canticles"
+  }
 }

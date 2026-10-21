@@ -234,6 +234,9 @@ class Build:
         for key in ("youtube", "antiphonalGroup", "cantor", "style", "mode", "kind", "language", "source"):
             if key in info:
                 entry[key] = info[key]
+        # "both": the hymn can be either, depending on the recording; that says nothing about this one.
+        if entry.get("kind") == "both":
+            del entry["kind"]
         if audio:
             entry["_audio"] = audio
         self.places[rid] = (info.get("places", []), info.get("order"))
@@ -336,24 +339,46 @@ class Build:
         # Numbered hymns in their order, then the rest alphabetically, after those listed in library.json.
         for s, items in placed.values():
             s["entries"].extend(rid for _, _, rid in sorted(items))
-        # Sub-folders of a section (info.json "group"), in the order their first hymn comes. The section keeps its
-        # whole list in "entries", so an app that doesn't know about groups shows it as before.
+        # Sub-folders of a section (info.json "group"). The section keeps its whole list in "entries", so an app
+        # that doesn't know about groups shows it as before. A section may name its sub-folders in library.json,
+        # in order and with their titles ({"id", "titles"}): its hymns are then listed folder by folder in that
+        # order (hymns in no sub-folder after them); otherwise the sub-folders come where their first hymn does.
         for s in sections.values():
+            spec = [g for g in s.get("groups", []) if g.get("id")]
+            rank = {g["id"]: n for n, g in enumerate(spec)}
             groups, by = [], {}
-            for e in s["entries"]:
-                rid = e if isinstance(e, str) else e.get("recording")
+
+            def group_id(rid):
                 g = self.group_of.get(rid)
                 if not g or id(s) not in in_places.get(rid, ()):
-                    continue
+                    return None, None
                 key = g.get("english") or g.get("arabic") or ""
-                if key not in by:
-                    gid = re.sub(r"[^a-z0-9]+", "-", key.lower()).strip("-") or f"group-{len(groups) + 1}"
-                    by[key] = {"id": gid, "titles": {k: v for k, v in g.items() if k in ("english", "arabic", "coptic") and v},
+                return re.sub(r"[^a-z0-9]+", "-", key.lower()).strip("-") or "group", g
+
+            if spec:
+                rid_of = lambda e: e if isinstance(e, str) else e.get("recording")
+                keyed = list(enumerate(s["entries"]))
+                keyed.sort(key=lambda ie: (rank.get(group_id(rid_of(ie[1]))[0], len(spec)), ie[0]))
+                s["entries"] = [e for _, e in keyed]
+            for e in s["entries"]:
+                rid = e if isinstance(e, str) else e.get("recording")
+                gid, g = group_id(rid)
+                if not gid:
+                    continue
+                if gid not in by:
+                    named = spec[rank[gid]]["titles"] if gid in rank else {}
+                    by[gid] = {"id": gid, "titles": named or {k: v for k, v in g.items() if k in ("english", "arabic", "coptic") and v},
                                "recordings": []}
-                    groups.append(by[key])
-                by[key]["recordings"].append(rid)
+                    groups.append(by[gid])
+                by[gid]["recordings"].append(rid)
+            if spec:
+                unknown = [g["id"] for g in groups if g["id"] not in rank]
+                if unknown:
+                    self.warn("library", f"{s.get('id') or s.get('service')}: sub-folders not named in library.json: {', '.join(unknown)}")
             if groups:
                 s["groups"] = groups
+            else:
+                s.pop("groups", None)
 
     def short_place(self, place, sections, rid):
         """Accept an unambiguous short form: "praises/midnight" for "praises/midnight-praises"."""

@@ -16,5 +16,9 @@
       "url": "https://www.coptichymnsinenglish.com/album/40/track/36"
     }
   ],
-  "order": 25
+  "order": 25,
+  "kind": "melismatic",
+  "group": {
+    "english": "Intro"
+  }
 }

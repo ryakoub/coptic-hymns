@@ -2,7 +2,7 @@
   "title": "Evol Hiten (long)",
   "titles": {
     "english": "Evol Hiten (long)",
-    "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ̀",
+    "coptic": "Ⲉⲃⲟⲗϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ",
     "arabic": "إيفول هيتين الكبير"
   },
   "source": "https://tasbeha.org/hymn_library/view/2170",
@@ -15,5 +15,9 @@
     "stage": "grades-3-4",
     "level": "gifted"
   },
-  "order": 275
+  "order": 275,
+  "kind": "melismatic",
+  "group": {
+    "english": "Theotokia"
+  }
 }

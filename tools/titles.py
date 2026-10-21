@@ -9,7 +9,8 @@ One row per recording (a hymn folder). Columns:
   text        empty for a hymn with its own words; for another tune or language of a hymn, that hymn's id
   tune        the tune's name, shown on the hymn's tune switch (e.g. "St. Gregory Liturgy")
   kind        "recital" (quick, a syllable to a note: good for the words lighting up as they are sung) or
-              "melismatic" (long notes on few words: better learned with a score or hand-made marks)
+              "melismatic" (long notes on few words: better learned with a score or hand-made marks), or
+              "both" (it depends on the recording: give each tune's own row recital or melismatic)
   pace        Coptic words sung per minute (not editable), a hint for kind: under 10 is melismatic, 25 and
               over recital
   english, coptic, arabic
@@ -35,7 +36,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 LANGS = ("english", "coptic", "arabic")
 COLUMNS = ["id", "where", "text", "tune", "kind", "pace", *LANGS, "places", "order", "group", "intro", "intro_arabic", "notes"]
-KINDS = ("recital", "melismatic")
+KINDS = ("recital", "melismatic", "both")
 
 
 def folders():
@@ -175,7 +176,7 @@ def import_(path):
                     info["kind"] = kind
                     notes.append(f"kind → {kind}")
                 else:
-                    print(f"  {hid}: kind {kind!r} is not recital or melismatic, left as it was")
+                    print(f"  {hid}: kind {kind!r} is not recital, melismatic or both, left as it was")
 
             group = (row.get("group") or "").strip()
             if group == "-":

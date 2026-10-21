@@ -8,5 +8,9 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 85
+  "order": 85,
+  "kind": "melismatic",
+  "group": {
+    "english": "Canticles"
+  }
 }

@@ -2,12 +2,16 @@
   "title": "The Second Hoos Lobsh",
   "titles": {
     "english": "The Second Hoos Lobsh",
-    "coptic": "Ⲡⲓⲗⲱⲃϣ ⲛ̀ⲧⲉ Ⲡⲓϩⲱⲥ ⲙ̀Ⲙⲁϩⲥ̀ⲛⲁⲩ",
+    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛⲉϩ",
     "arabic": "لبش الهوس الثاني"
   },
   "source": "https://tasbeha.org/hymn_library/view/182",
   "places": [
     "praises/midnight"
   ],
-  "order": 70
+  "order": 70,
+  "kind": "both",
+  "group": {
+    "english": "Canticles"
+  }
 }
