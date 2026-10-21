@@ -1,12 +1,12 @@
 [
   {
-    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ: ⲁⲓⲥⲁϫⲓ ϧⲉⲛ ⲟⲩϫⲟⲙ: ⲉⲑⲃⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ: Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ Ⲡⲁϭⲟⲓⲥ: Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲣⲉϥϣⲉⲛϩⲏⲧ: ⲉⲑⲣⲓϯⲱ̀ⲟⲩ ⲛ̀ⲧⲁϭⲟⲓⲥ: Ⲧⲉⲕⲙⲁⲩ ⲛ̀ϣⲉⲗⲉⲧ.",
+    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ: ⲁⲓⲥⲁϫⲓ ϧⲉⲛ ⲟⲩϫⲟⲙ: ⲉⲑⲃⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ: Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ.",
     "translations": {
-      "english": "I believe wherefore I spoke, with great strength, about Your great mercy, O Lord of powers. Help me my Lord, Jesus the Compassionate, to glorify my Lady, Your Mother the bride.",
-      "arabic": "آمنت لذلك، تكلمت بقوة، من أجل عِظَم رحمتك، يا رب القوات. أعنَّي يا ربي، يسوع الرءوف، لأُمجد سيدتي، أُمك العروس."
+      "english": "I believe wherefore I spoke, with great strength, about Your great mercy, O Lord of powers.",
+      "arabic": "آمنت لذلك، تكلمت بقوة، من أجل عِظَم رحمتك، يا رب القوات."
     },
     "transliterations": {
-      "english": "Ainahti ethve fai: aisaji khen ougom: ethve peknishti ennai: Epshois ente nigom. Vo-eethin eroi Pashois: Ieesous Pirefshenheet: ethriti-oou entashois: Tekmav enshelet."
+      "english": "Ainahti ethve fai: aisaji khen ougom: ethve peknishti ennai: Epshois ente nigom."
     },
     "stanzas": [
       {
@@ -20,7 +20,19 @@
       },
       {
         "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ Ⲡⲁϭⲟⲓⲥ: Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲣⲉϥϣⲉⲛϩⲏⲧ: ⲉⲑⲣⲓϯⲱ̀ⲟⲩ ⲛ̀ⲧⲁϭⲟⲓⲥ: Ⲧⲉⲕⲙⲁⲩ ⲛ̀ϣⲉⲗⲉⲧ.",
+    "translations": {
+      "english": "Help me my Lord, Jesus the Compassionate, to glorify my Lady, Your Mother the bride.",
+      "arabic": "أعنَّي يا ربي، يسوع الرءوف، لأُمجد سيدتي، أُمك العروس."
+    },
+    "transliterations": {
+      "english": "Vo-eethin eroi Pashois: Ieesous Pirefshenheet: ethriti-oou entashois: Tekmav enshelet."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ Ⲡⲁϭⲟⲓⲥ:"
       },
@@ -36,13 +48,13 @@
     ]
   },
   {
-    "coptic": "Ⲅⲉ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲁⲥϭⲓⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲛ̀ϫⲉ ⲧⲁⲓⲠⲁⲣⲑⲉⲛⲟⲥ: ⲉⲑⲙⲉϩ ⲛ̀ⲧⲁⲓⲟ. Ⲇⲁⲩⲓⲇ ⲁϥⲥⲁϫⲓ ⲉⲑⲃⲏⲧⲥ: ϫⲉ ⲁ̀Ⲡ̀ϭⲟⲓⲥ ⲥⲱⲧⲡ ⲛ̀Ⲥⲓⲱⲛ: ⲁϥⲓ̀ ⲁϥϣⲱⲡⲓ ⲛ̀ϧⲏⲧⲥ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+    "coptic": "Ⲅⲉ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲁⲥϭⲓⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲛ̀ϫⲉ ⲧⲁⲓⲠⲁⲣⲑⲉⲛⲟⲥ: ⲉⲑⲙⲉϩ ⲛ̀ⲧⲁⲓⲟ.",
     "translations": {
-      "english": "For truly, this Virgin, who is full of honor, was greatly exalted. David spoke of her saying, \"The Lord has chosen Zion, He came and dwelt in her, in order to save us.\"",
-      "arabic": "لأنها بالحقيقة، قد تعالت جداً، هذه العذراء، الممتلئة كرامة. داود تكلم من أجلها، قائلاً \"الرب إختار صهيون، وأتى وحل فيها، حتى خلصنا."
+      "english": "For truly, this Virgin, who is full of honor, was greatly exalted.",
+      "arabic": "لأنها بالحقيقة، قد تعالت جداً، هذه العذراء، الممتلئة كرامة."
     },
     "transliterations": {
-      "english": "Ge ghar aleethos: aschisi emasho: enje taiparthenos: ethmeh entaio. David afsaji ethveets: je a-epshois sotp ension: afi afshopi enkheets: sha entefsoti emmon."
+      "english": "Ge ghar aleethos: aschisi emasho: enje taiparthenos: ethmeh entaio."
     },
     "stanzas": [
       {
@@ -56,7 +68,19 @@
       },
       {
         "coptic": "ⲉⲑⲙⲉϩ ⲛ̀ⲧⲁⲓⲟ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲇⲁⲩⲓⲇ ⲁϥⲥⲁϫⲓ ⲉⲑⲃⲏⲧⲥ: ϫⲉ ⲁ̀Ⲡ̀ϭⲟⲓⲥ ⲥⲱⲧⲡ ⲛ̀Ⲥⲓⲱⲛ: ⲁϥⲓ̀ ⲁϥϣⲱⲡⲓ ⲛ̀ϧⲏⲧⲥ: ϣⲁ ⲛ̀ⲧⲉϥⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+    "translations": {
+      "english": "David spoke of her saying, \"The Lord has chosen Zion, He came and dwelt in her, in order to save us.\"",
+      "arabic": "داود تكلم من أجلها، قائلاً \"الرب إختار صهيون، وأتى وحل فيها، حتى خلصنا."
+    },
+    "transliterations": {
+      "english": "David afsaji ethveets: je a-epshois sotp ension: afi afshopi enkheets: sha entefsoti emmon."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲇⲁⲩⲓⲇ ⲁϥⲥⲁϫⲓ ⲉⲑⲃⲏⲧⲥ:"
       },
@@ -72,13 +96,13 @@
     ]
   },
   {
-    "coptic": "Ⲉ̀ⲧⲉ ⲑⲁⲓ ⲧⲉ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲧⲁⲥⲓ̀ⲛⲓ ϣⲁⲣⲟⲛ: ⲛ̀ϯⲉ̀ⲗⲉⲑⲩⲣⲓⲁ: ⲛ̀ⲉ̀ⲱ̀ⲛⲓⲟⲛ. Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲁϥϫⲟⲥ: ϫⲉ ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲑⲏⲉ̀ⲧⲁⲩⲑⲁⲙⲓⲟⲥ: ϧⲉⲛ ϩⲁⲛϫⲓϫ ⲛ̀ⲛⲟⲩⲃ.",
+    "coptic": "Ⲉ̀ⲧⲉ ⲑⲁⲓ ⲧⲉ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲧⲁⲥⲓ̀ⲛⲓ ϣⲁⲣⲟⲛ: ⲛ̀ϯⲉ̀ⲗⲉⲑⲩⲣⲓⲁ: ⲛ̀ⲉ̀ⲱ̀ⲛⲓⲟⲛ.",
     "translations": {
-      "english": "This is Mary, who brought unto us, the eternal, freedom. Zachariah has said, \"The golden lampstand, which was made, with golden hands.\"",
-      "arabic": "أي مريم، التي جلبت، إلينا الحرية، الأبدية. زكريا قال، \"أنها المنارة الذهب، المصنوعة، بأياد ذهبية.\""
+      "english": "This is Mary, who brought unto us, the eternal, freedom.",
+      "arabic": "أي مريم، التي جلبت، إلينا الحرية، الأبدية."
     },
     "transliterations": {
-      "english": "Ete thai te Maria: etasini sharon: enti-elethiria: ene-onion. Zakharias afgos: je tilikhnia ennoub: thee-etavthamios: khen hanjig ennoub."
+      "english": "Ete thai te Maria: etasini sharon: enti-elethiria: ene-onion."
     },
     "stanzas": [
       {
@@ -92,7 +116,19 @@
       },
       {
         "coptic": "ⲛ̀ⲉ̀ⲱ̀ⲛⲓⲟⲛ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲁϥϫⲟⲥ: ϫⲉ ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲑⲏⲉ̀ⲧⲁⲩⲑⲁⲙⲓⲟⲥ: ϧⲉⲛ ϩⲁⲛϫⲓϫ ⲛ̀ⲛⲟⲩⲃ.",
+    "translations": {
+      "english": "Zachariah has said, \"The golden lampstand, which was made, with golden hands.\"",
+      "arabic": "زكريا قال، \"أنها المنارة الذهب، المصنوعة، بأياد ذهبية.\""
+    },
+    "transliterations": {
+      "english": "Zakharias afgos: je tilikhnia ennoub: thee-etavthamios: khen hanjig ennoub."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲁϥϫⲟⲥ:"
       },
@@ -108,13 +144,13 @@
     ]
   },
   {
-    "coptic": "Ⲏ̀ⲥⲁⲏ̀ⲁⲥ ⲁϥϫⲟⲥ ⲛⲁⲛ: ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ϫⲉ ⲉⲥⲉ̀ⲙⲓⲥⲓ ⲛⲁⲛ: ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ. Ⲑⲁⲓ ⲧⲉ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲧ̀ⲡⲟⲗⲓⲥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ: ⲡ̀ϩⲁⲣⲙⲁ ⲛ̀Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲑⲟ ⲛ̀ⲣⲏϯ.",
+    "coptic": "Ⲏ̀ⲥⲁⲏ̀ⲁⲥ ⲁϥϫⲟⲥ ⲛⲁⲛ: ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ϫⲉ ⲉⲥⲉ̀ⲙⲓⲥⲓ ⲛⲁⲛ: ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
     "translations": {
-      "english": "Isaiah said to us, with a joyful voice, that \"She will give birth to, Emmanuel for us.\" + This is Jerusalem, the city of our God, the throne of all ranks, of the Cherubim.",
-      "arabic": "أشعياء قال لنا، بصوت التهليل، أنها \"تلد لنا، عمانوئيل.\" هذه هي أورشليم، مدينة إلهنا، مركبة الشاروبيم، ذات الأنواع الكثيرة."
+      "english": "Isaiah said to us, with a joyful voice, that \"She will give birth to, Emmanuel for us.\"",
+      "arabic": "أشعياء قال لنا، بصوت التهليل، أنها \"تلد لنا، عمانوئيل.\""
     },
     "transliterations": {
-      "english": "Eesa-eeas afgos nan: khen ou-esmee entheleel: je esemisi nan: enemmanoweel. Thai te Yerousaleem: etpolis empennoti: epharma ennisherouvim: etoi enoutho enreeti."
+      "english": "Eesa-eeas afgos nan: khen ou-esmee entheleel: je esemisi nan: enemmanoweel."
     },
     "stanzas": [
       {
@@ -128,7 +164,19 @@
       },
       {
         "coptic": "ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲑⲁⲓ ⲧⲉ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ: ⲧ̀ⲡⲟⲗⲓⲥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ: ⲡ̀ϩⲁⲣⲙⲁ ⲛ̀Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲑⲟ ⲛ̀ⲣⲏϯ.",
+    "translations": {
+      "english": "+ This is Jerusalem, the city of our God, the throne of all ranks, of the Cherubim.",
+      "arabic": "هذه هي أورشليم، مدينة إلهنا، مركبة الشاروبيم، ذات الأنواع الكثيرة."
+    },
+    "transliterations": {
+      "english": "Thai te Yerousaleem: etpolis empennoti: epharma ennisherouvim: etoi enoutho enreeti."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲑⲁⲓ ⲧⲉ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ:"
       },
@@ -141,19 +189,16 @@
       {
         "coptic": "ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲑⲟ ⲛ̀ⲣⲏϯ."
       }
-    ],
-    "sung": {
-      "english": "Isaiah said to us, with a joyful voice, that \"She will give birth to, Emmanuel for us.\" This is Jerusalem, the city of our God, the throne of all ranks, of the Cherubim."
-    }
+    ]
   },
   {
-    "coptic": "Ⲓⲉⲍⲉⲕⲓⲏⲗ ⲁⲩⲉⲣⲙⲉⲑⲣⲉ: ⲁϥⲟⲩⲱⲛϩ ⲛⲁⲛ ⲙ̀ⲫⲁⲓ: ϫⲉ ⲁⲓⲛⲁⲩ ⲉ̀ⲟⲩⲡⲩⲗⲏ: ⲛ̀ⲥⲁ ⲛⲓⲙⲁⲛϣⲁⲓ. Ⲕⲩⲣⲓⲟⲥ Ⲡⲓⲣⲉϥⲛⲟϩⲉⲙ: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ϣⲁⲣⲟⲥ: ⲁⲥⲟ̀ϩⲓ ⲉⲥϣⲟⲧⲉⲙ: ⲙ̀ⲡⲉⲥⲣⲏϯ ⲕⲁⲗⲱⲥ.",
+    "coptic": "Ⲓⲉⲍⲉⲕⲓⲏⲗ ⲁⲩⲉⲣⲙⲉⲑⲣⲉ: ⲁϥⲟⲩⲱⲛϩ ⲛⲁⲛ ⲙ̀ⲫⲁⲓ: ϫⲉ ⲁⲓⲛⲁⲩ ⲉ̀ⲟⲩⲡⲩⲗⲏ: ⲛ̀ⲥⲁ ⲛⲓⲙⲁⲛϣⲁⲓ.",
     "translations": {
-      "english": "Ezekiel has witnessed, and revealed this to us, saying \"I saw a door, to the east. The Lord the Savior, entered into it, and it remained, thoroughly shut as before.\"",
-      "arabic": "حزقيال شهد، وأظهر لنا هذا، قائلاً \"أني رأيت باباً، ناحية المشارق. الرب المخلص، دخل فيه، وبقى مغلقاً، جيداً بحاله.\""
+      "english": "Ezekiel has witnessed, and revealed this to us, saying \"I saw a door, to the east.",
+      "arabic": "حزقيال شهد، وأظهر لنا هذا، قائلاً \"أني رأيت باباً، ناحية المشارق."
     },
     "transliterations": {
-      "english": "Yezekieel avermethre: afowonh nan emfai: je ainav eoupilee: ensa nimanshai. Kirios Pirefnohem: afshe ekhoun sharos: asohi esshotem: empesreeti kalos."
+      "english": "Yezekieel avermethre: afowonh nan emfai: je ainav eoupilee: ensa nimanshai."
     },
     "stanzas": [
       {
@@ -167,7 +212,19 @@
       },
       {
         "coptic": "ⲛ̀ⲥⲁ ⲛⲓⲙⲁⲛϣⲁⲓ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲕⲩⲣⲓⲟⲥ Ⲡⲓⲣⲉϥⲛⲟϩⲉⲙ: ⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ϣⲁⲣⲟⲥ: ⲁⲥⲟ̀ϩⲓ ⲉⲥϣⲟⲧⲉⲙ: ⲙ̀ⲡⲉⲥⲣⲏϯ ⲕⲁⲗⲱⲥ.",
+    "translations": {
+      "english": "The Lord the Savior, entered into it, and it remained, thoroughly shut as before.\"",
+      "arabic": "الرب المخلص، دخل فيه، وبقى مغلقاً، جيداً بحاله.\""
+    },
+    "transliterations": {
+      "english": "Kirios Pirefnohem: afshe ekhoun sharos: asohi esshotem: empesreeti kalos."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲕⲩⲣⲓⲟⲥ Ⲡⲓⲣⲉϥⲛⲟϩⲉⲙ:"
       },
@@ -183,13 +240,13 @@
     ]
   },
   {
-    "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ: ⲛⲉⲙ ⲛⲓⲁⲥⲡⲓ ⲛ̀ⲗⲁⲥ: ⲉ̀Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲙⲁⲥⲓⲁⲥ. Ⲙⲁⲣⲓⲁ ϯⲥⲉⲙⲛⲉ: ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ: ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲫ̀ⲣⲁϣⲓ ⲛ̀ⲛⲓⲡⲓⲥⲧⲟⲥ.",
+    "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ: ⲛⲉⲙ ⲛⲓⲁⲥⲡⲓ ⲛ̀ⲗⲁⲥ: ⲉ̀Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲙⲁⲥⲓⲁⲥ.",
     "translations": {
-      "english": "All the nations sing, with different tongues, to the Theotokos, the Mother of the Messiah. Mary the chaste, the joy of the righteous, and truly she is the joy, of the faithful.",
-      "arabic": "كل الشعوب يسبحون، مع لغات الألسن، لوالدة الإله، أُم ماسيا. مريم العفيفة، بهجة الصديقين، وبالحقيقة، فرح المؤمنين."
+      "english": "All the nations sing, with different tongues, to the Theotokos, the Mother of the Messiah.",
+      "arabic": "كل الشعوب يسبحون، مع لغات الألسن، لوالدة الإله، أُم ماسيا."
     },
     "transliterations": {
-      "english": "Laos niven sehos: nem niaspi enlas: etithe-otokos: Ethmav emmasias. Maria tisemne: epounof ennithikeos: o-woh enaleethinee: efrashi ennipistos."
+      "english": "Laos niven sehos: nem niaspi enlas: etithe-otokos: Ethmav emmasias."
     },
     "stanzas": [
       {
@@ -203,7 +260,19 @@
       },
       {
         "coptic": "Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲙⲁⲥⲓⲁⲥ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲙⲁⲣⲓⲁ ϯⲥⲉⲙⲛⲉ: ⲡ̀ⲟⲩⲛⲟϥ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ: ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲫ̀ⲣⲁϣⲓ ⲛ̀ⲛⲓⲡⲓⲥⲧⲟⲥ.",
+    "translations": {
+      "english": "Mary the chaste, the joy of the righteous, and truly she is the joy, of the faithful.",
+      "arabic": "مريم العفيفة، بهجة الصديقين، وبالحقيقة، فرح المؤمنين."
+    },
+    "transliterations": {
+      "english": "Maria tisemne: epounof ennithikeos: o-woh enaleethinee: efrashi ennipistos."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲙⲁⲣⲓⲁ ϯⲥⲉⲙⲛⲉ:"
       },
@@ -219,13 +288,13 @@
     ]
   },
   {
-    "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲧⲁ Ⲙⲱⲩ̀ⲥⲏⲥ ⲑⲁⲙⲓⲟⲥ: ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲛ̀ⲧⲓⲙⲏ: ⲟⲩⲟϩ ⲛ̀ϯⲕⲓⲃⲱⲧⲟⲥ. Ⲝⲁⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲙⲉⲩⲓ̀: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ⲛ̀ϫⲉ ⲡⲁⲓϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲛ̀ⲧⲉ ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ.",
+    "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲧⲁ Ⲙⲱⲩ̀ⲥⲏⲥ ⲑⲁⲙⲓⲟⲥ: ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲛ̀ⲧⲓⲙⲏ: ⲟⲩⲟϩ ⲛ̀ϯⲕⲓⲃⲱⲧⲟⲥ.",
     "translations": {
-      "english": "You are the tabernacle, and the ark, which Moses has made, with great honor. Beyond all the thoughts, of the heavens, is this mysterious matter, of the mercy seat.",
-      "arabic": "أنتِ هي القبة، التي صنعها موسى، بعِظَم كرامة، والتابوت. مُتعال عن الأفكار، السمائية، هذا الأمر العجيب، الذي للغطاء."
+      "english": "You are the tabernacle, and the ark, which Moses has made, with great honor.",
+      "arabic": "أنتِ هي القبة، التي صنعها موسى، بعِظَم كرامة، والتابوت."
     },
     "transliterations": {
-      "english": "Entho te ti-eskeenee: eta Mo-isees thamios: khen ounishti entimee: o-woh entikivotos. Ksa-epshoi enimevi: enepouranion: enje paihob eneshfeeri: ente pilasteerion."
+      "english": "Entho te ti-eskeenee: eta Mo-isees thamios: khen ounishti entimee: o-woh entikivotos."
     },
     "stanzas": [
       {
@@ -239,7 +308,19 @@
       },
       {
         "coptic": "ⲟⲩⲟϩ ⲛ̀ϯⲕⲓⲃⲱⲧⲟⲥ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲝⲁⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲙⲉⲩⲓ̀: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ⲛ̀ϫⲉ ⲡⲁⲓϩⲱⲃ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲛ̀ⲧⲉ ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ.",
+    "translations": {
+      "english": "Beyond all the thoughts, of the heavens, is this mysterious matter, of the mercy seat.",
+      "arabic": "مُتعال عن الأفكار، السمائية، هذا الأمر العجيب، الذي للغطاء."
+    },
+    "transliterations": {
+      "english": "Ksa-epshoi enimevi: enepouranion: enje paihob eneshfeeri: ente pilasteerion."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲝⲁⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲙⲉⲩⲓ̀:"
       },
@@ -255,13 +336,13 @@
     ]
   },
   {
-    "coptic": "Ⲟⲩⲛⲓϣϯ ⲡⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ. Ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ: ⲟⲩⲟϩ ϯⲗⲩⲭⲛⲓⲁ: ϯϣⲟⲩⲣⲏ ⲉⲧⲧⲟⲩⲃⲏⲟⲩⲧ: ⲉⲑⲙⲉϩ ⲛ̀ⲉⲩⲗⲟⲅⲓⲁ.",
+    "coptic": "Ⲟⲩⲛⲓϣϯ ⲡⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ.",
     "translations": {
-      "english": "Great is the glory, of your virginity, O full of glory, O Saint Mary. The honored vessel, and the lampstand, the pure censer, full of blessings.",
-      "arabic": "عظيم هو مجد، بتوليتِك، أيتها الممتلئة مجداً، القديسة مريم. القسط المُكرم، والمنارة، والمجمرة النقية، المملوءة بركة."
+      "english": "Great is the glory, of your virginity, O full of glory, O Saint Mary.",
+      "arabic": "عظيم هو مجد، بتوليتِك، أيتها الممتلئة مجداً، القديسة مريم."
     },
     "transliterations": {
-      "english": "Ounishti pe epoou: ente teparthenia: o thee-ethmeh enoou: ti-agia Maria. Pi-estamnos ettaieeout: o-woh tilikhnia: tishouree ettouveeout: ethmeh enevlogia."
+      "english": "Ounishti pe epoou: ente teparthenia: o thee-ethmeh enoou: ti-agia Maria."
     },
     "stanzas": [
       {
@@ -275,7 +356,19 @@
       },
       {
         "coptic": "ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ: ⲟⲩⲟϩ ϯⲗⲩⲭⲛⲓⲁ: ϯϣⲟⲩⲣⲏ ⲉⲧⲧⲟⲩⲃⲏⲟⲩⲧ: ⲉⲑⲙⲉϩ ⲛ̀ⲉⲩⲗⲟⲅⲓⲁ.",
+    "translations": {
+      "english": "The honored vessel, and the lampstand, the pure censer, full of blessings.",
+      "arabic": "القسط المُكرم، والمنارة، والمجمرة النقية، المملوءة بركة."
+    },
+    "transliterations": {
+      "english": "Pi-estamnos ettaieeout: o-woh tilikhnia: tishouree ettouveeout: ethmeh enevlogia."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ:"
       },
@@ -291,13 +384,13 @@
     ]
   },
   {
-    "coptic": "Ⲣⲁⲛ ⲛⲓⲃⲉⲛ ⲉⲧϭⲟⲥⲓ: ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲙ̀ⲡⲟⲩϣ̀ⲫⲟϩ ⲉ̀ⲡ̀ϭⲓⲥⲓ: ⲛ̀ⲧⲉ ⲛⲉⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ. Ⲥⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ⲡⲓϣ̀ⲃⲱⲧ: ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ ⲁϥⲣⲱⲧ: ⲟⲩⲟϩ ⲁϥϯⲕⲁⲣⲡⲟⲛ.",
+    "coptic": "Ⲣⲁⲛ ⲛⲓⲃⲉⲛ ⲉⲧϭⲟⲥⲓ: ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲥⲱⲙⲁⲧⲟⲥ: ⲙ̀ⲡⲟⲩϣ̀ⲫⲟϩ ⲉ̀ⲡ̀ϭⲓⲥⲓ: ⲛ̀ⲧⲉ ⲛⲉⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ.",
     "translations": {
-      "english": "All the high names, of the incorporeal, did not reach the height, of your blessedness. You resemble the rod, of Aaron, which blossomed and budded, and produced its fruit.",
-      "arabic": "كل الأسماء العالية، التي لغير المتجسدين، لم يبلغوا إلى، عُلوَ طوباويتِك. شُبِّهتِ بعصا، هرون التي، أزهرت ونبتت، وأعطت ثمرة."
+      "english": "All the high names, of the incorporeal, did not reach the height, of your blessedness.",
+      "arabic": "كل الأسماء العالية، التي لغير المتجسدين، لم يبلغوا إلى، عُلوَ طوباويتِك."
     },
     "transliterations": {
-      "english": "Ran niven etchosi: ente ni-asomatos: empou-eshfoh e-epchisi: ente nemakarismos. Setenthonti epi-eshvot: ente A-aron: etaffiri evol afrot: o-woh aftikarpon."
+      "english": "Ran niven etchosi: ente ni-asomatos: empou-eshfoh e-epchisi: ente nemakarismos."
     },
     "stanzas": [
       {
@@ -311,7 +404,19 @@
       },
       {
         "coptic": "ⲛ̀ⲧⲉ ⲛⲉⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲥⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ⲡⲓϣ̀ⲃⲱⲧ: ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ ⲁϥⲣⲱⲧ: ⲟⲩⲟϩ ⲁϥϯⲕⲁⲣⲡⲟⲛ.",
+    "translations": {
+      "english": "You resemble the rod, of Aaron, which blossomed and budded, and produced its fruit.",
+      "arabic": "شُبِّهتِ بعصا، هرون التي، أزهرت ونبتت، وأعطت ثمرة."
+    },
+    "transliterations": {
+      "english": "Setenthonti epi-eshvot: ente A-aron: etaffiri evol afrot: o-woh aftikarpon."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲥⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ⲡⲓϣ̀ⲃⲱⲧ:"
       },
@@ -327,13 +432,13 @@
     ]
   },
   {
-    "coptic": "Ⲧⲉϭⲟⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲉ̀ϩⲟⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ϩⲟⲩⲟ̀: ⲉ̀Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ. Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲁ̀ⲣⲉⲙⲓⲥⲓ ⲙ̀ⲙⲟϥ: ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ ϩⲱⲥ Ⲛⲟⲩϯ: ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ.",
+    "coptic": "Ⲧⲉϭⲟⲥⲓ ⲉ̀ⲙⲁϣⲱ: ⲉ̀ϩⲟⲧⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ϩⲟⲩⲟ̀: ⲉ̀Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ.",
     "translations": {
-      "english": "You are exalted, more than the Cherubim, and honored more, than the Seraphim. The Son of God our God, you gave birth to, we glorify Him as God, and also worship Him.",
-      "arabic": "مُرتفعة أنت جداً، أكثر من الشاروبيم، ومكرمة أكثر، من السيرافيم. إبن الله إلهنا، ولدتِه، نمجده كإله، ونسجد له."
+      "english": "You are exalted, more than the Cherubim, and honored more, than the Seraphim.",
+      "arabic": "مُرتفعة أنت جداً، أكثر من الشاروبيم، ومكرمة أكثر، من السيرافيم."
     },
     "transliterations": {
-      "english": "Techosi emasho: ehote Nisherouvim: tetaieeout enhowo: eniserafim. I-ios Theos Pennoti: aremisi emmof: tenti-oou naf hos Noti: o-woh tenowosht emmof."
+      "english": "Techosi emasho: ehote Nisherouvim: tetaieeout enhowo: eniserafim."
     },
     "stanzas": [
       {
@@ -347,7 +452,19 @@
       },
       {
         "coptic": "ⲉ̀Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲁ̀ⲣⲉⲙⲓⲥⲓ ⲙ̀ⲙⲟϥ: ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁϥ ϩⲱⲥ Ⲛⲟⲩϯ: ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ.",
+    "translations": {
+      "english": "The Son of God our God, you gave birth to, we glorify Him as God, and also worship Him.",
+      "arabic": "إبن الله إلهنا، ولدتِه، نمجده كإله، ونسجد له."
+    },
+    "transliterations": {
+      "english": "I-ios Theos Pennoti: aremisi emmof: tenti-oou naf hos Noti: o-woh tenowosht emmof."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ:"
       },
@@ -363,13 +480,13 @@
     ]
   },
   {
-    "coptic": "Ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ: ⲁϥⲟⲩⲱⲛϩ ⲛ̀ⲛⲉϥⲙⲏⲓⲛⲓ: ⲁ̀ⲣⲉϯ ⲉ̀ⲣⲱϯ ⲉ̀ⲣⲱϥ. Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲉⲑⲙⲉϩ ⲛ̀ⲥⲟⲫⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
+    "coptic": "Ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ: ⲁϥⲟⲩⲱⲛϩ ⲛ̀ⲛⲉϥⲙⲏⲓⲛⲓ: ⲁ̀ⲣⲉϯ ⲉ̀ⲣⲱϯ ⲉ̀ⲣⲱϥ.",
     "translations": {
-      "english": "He who abides in light, whom no one can approach, showed us His miracles, and you fed Him. Hail to you Mary, the beautiful dove, full of wisdom, the Mother of Jesus Christ.",
-      "arabic": "الساكن في النور، الذي لا يُدنى منه، أظهر آياته، وأرضعتِه اللبن. السلام لك يا مريم، الحمامة الحسنة، الممتلئة حكمة، أُم يسوع المسيح."
+      "english": "He who abides in light, whom no one can approach, showed us His miracles, and you fed Him.",
+      "arabic": "الساكن في النور، الذي لا يُدنى منه، أظهر آياته، وأرضعتِه اللبن."
     },
     "transliterations": {
-      "english": "Fee-etshop khen piowoini: enateshkhont erof: afowonh ennefmeeini: areti eroti erof. Shere ne Maria: tichrompi ethnesos: ethmeh ensofia: Ethmav enieesous Pi-ekhristos."
+      "english": "Fee-etshop khen piowoini: enateshkhont erof: afowonh ennefmeeini: areti eroti erof."
     },
     "stanzas": [
       {
@@ -383,7 +500,19 @@
       },
       {
         "coptic": "ⲁ̀ⲣⲉϯ ⲉ̀ⲣⲱϯ ⲉ̀ⲣⲱϥ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲉⲑⲙⲉϩ ⲛ̀ⲥⲟⲫⲓⲁ: Ⲑ̀ⲙⲁⲩ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
+    "translations": {
+      "english": "Hail to you Mary, the beautiful dove, full of wisdom, the Mother of Jesus Christ.",
+      "arabic": "السلام لك يا مريم، الحمامة الحسنة، الممتلئة حكمة، أُم يسوع المسيح."
+    },
+    "transliterations": {
+      "english": "Shere ne Maria: tichrompi ethnesos: ethmeh ensofia: Ethmav enieesous Pi-ekhristos."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
       },
@@ -399,13 +528,13 @@
     ]
   },
   {
-    "coptic": "Ⲯⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲉⲛⲉ̀ϩⲟⲟⲩ: ⲧⲉⲛⲉⲣⲉⲩⲫⲟⲙⲓⲛ ⲙ̀ⲙⲟ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ⲧⲉϫⲟⲗϩ ⲙ̀ⲡⲓⲧⲟⲩⲃⲟ. Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ: ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲃⲱⲕ: ⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲉⲛⲛⲟⲃⲓ: ⲟⲩⲟϩ ϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟⲕ.",
+    "coptic": "Ⲯⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲉⲛⲉ̀ϩⲟⲟⲩ: ⲧⲉⲛⲉⲣⲉⲩⲫⲟⲙⲓⲛ ⲙ̀ⲙⲟ: ⲱ̀ ⲑⲏⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ⲧⲉϫⲟⲗϩ ⲙ̀ⲡⲓⲧⲟⲩⲃⲟ.",
     "translations": {
-      "english": "For the rest of our days, we will praise you, O full of glory, and clothed with purity. Be patient O Lover of Man, with Your servant, and forgive us our sins, and accept us.",
-      "arabic": "بقية أيامنا، نمدحِك، أيتها الممتلئة مجداً، أنتِ مشتملة بالطهارة. تأن يا محب البشر، على عبدك، وإغفر لنا خطايانا، وإقبلنا إليك."
+      "english": "For the rest of our days, we will praise you, O full of glory, and clothed with purity.",
+      "arabic": "بقية أيامنا، نمدحِك، أيتها الممتلئة مجداً، أنتِ مشتملة بالطهارة."
     },
     "transliterations": {
-      "english": "Psepi ente nenehoou: tenerevfomin emmo: o thee-ethmeh enoou: tegolh empitouvo. Oou-enheet Pimairomi: e-ehree ejen pekvok: ko nan evol ennennovi: o-woh shopten erok."
+      "english": "Psepi ente nenehoou: tenerevfomin emmo: o thee-ethmeh enoou: tegolh empitouvo."
     },
     "stanzas": [
       {
@@ -419,7 +548,19 @@
       },
       {
         "coptic": "ⲧⲉϫⲟⲗϩ ⲙ̀ⲡⲓⲧⲟⲩⲃⲟ."
-      },
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ: ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲃⲱⲕ: ⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲉⲛⲛⲟⲃⲓ: ⲟⲩⲟϩ ϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟⲕ.",
+    "translations": {
+      "english": "Be patient O Lover of Man, with Your servant, and forgive us our sins, and accept us.",
+      "arabic": "تأن يا محب البشر، على عبدك، وإغفر لنا خطايانا، وإقبلنا إليك."
+    },
+    "transliterations": {
+      "english": "Oou-enheet Pimairomi: e-ehree ejen pekvok: ko nan evol ennennovi: o-woh shopten erok."
+    },
+    "stanzas": [
       {
         "coptic": "Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ:"
       },

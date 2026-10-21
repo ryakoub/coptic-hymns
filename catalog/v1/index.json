@@ -1,6 +1,6 @@
 {
- "version": "e6c67488593b102f",
- "updated": "2026-10-21T01:15:33Z",
+ "version": "579e6918c860cab7",
+ "updated": "2026-10-21T23:31:15Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -852,11 +852,11 @@
         "second-hoos",
         "second-hoos-lobsh",
         "third-hoos",
+        "aripalin",
         "tenoue-n-khok",
         "fourth-hoos",
         "commemoration-of-saints",
         "doxology-virgin-midnight",
-        "aripalin",
         "first-sunday-psali",
         "second-sunday-psali",
         "leepon",
@@ -904,6 +904,7 @@
           "second-hoos",
           "second-hoos-lobsh",
           "third-hoos",
+          "aripalin",
           "tenoue-n-khok",
           "fourth-hoos"
          ]
@@ -926,7 +927,6 @@
           "arabic": "الإبصاليات"
          },
          "recordings": [
-          "aripalin",
           "first-sunday-psali",
           "second-sunday-psali"
          ]
@@ -1887,7 +1887,6 @@
    ],
    "transliterations": [],
    "recordings": [
-    "concluding-litany",
     "concluding-litany-english",
     "conclusion-midnight-praises"
    ],
@@ -2389,7 +2388,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 12,
+   "lines": 24,
    "translations": [
     "arabic",
     "english"
@@ -2403,8 +2402,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-sunday-psali.json",
-    "bytes": 20674,
-    "sha256": "ea586897e3393888d223b0515fabc664d6e10f621e69a64d111e230c485a35e5"
+    "bytes": 22674,
+    "sha256": "4a8dc4b17c7f4c5884242206f1e0223e5d57858ac09eb0c11f8561f38bfb4f1d"
    }
   },
   {
@@ -3460,7 +3459,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 16,
+   "lines": 32,
    "translations": [
     "arabic",
     "english"
@@ -3474,8 +3473,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-sunday-psali.json",
-    "bytes": 28076,
-    "sha256": "54e6f69cdd55cb3c7de423ae4dd0967e35b6edaf1d7bec41c38f20078bf8b8fb"
+    "bytes": 30332,
+    "sha256": "17102797782a92e38d463a259ab77676436faf97905a3aefda8cb1664a2c4836"
    }
   },
   {
@@ -5037,35 +5036,6 @@
    ]
   },
   {
-   "id": "concluding-litany",
-   "text": "conclusion-midnight-praises",
-   "duration": 344.52,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "https://tasbeha.org/hymn_library/view/147",
-   "tune": {
-    "english": "Tasbeha.org"
-   },
-   "kind": "recital",
-   "files": [
-    {
-     "url": "catalog/v1/timings/concluding-litany.json",
-     "bytes": 94,
-     "sha256": "c98d75a81790fb54e8b3df28adf3ba5a1fbd378329362b20ac999841d8421aff",
-     "role": "timing"
-    },
-    {
-     "url": "content/hymns/concluding-litany/audio.mp3",
-     "role": "audio",
-     "bytes": 5513515,
-     "sha256": "2945b88070525a2df2cad9ae412d8a8215c4be0a3cb5c0a1b828fa09fdb621bf"
-    }
-   ]
-  },
-  {
    "id": "concluding-litany-english",
    "text": "conclusion-midnight-praises",
    "duration": 258.59,
@@ -5131,9 +5101,6 @@
     "of": 31
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/",
-   "tune": {
-    "english": "Mahragan 2026"
-   },
    "youtube": "https://www.youtube.com/watch?v=LhgEeCHUbME",
    "kind": "recital",
    "files": [
@@ -5717,7 +5684,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 12
+    "of": 24
    },
    "source": "https://tasbeha.org/hymn_library/view/112",
    "antiphonalGroup": 2,
@@ -6231,13 +6198,16 @@
   {
    "id": "leepon",
    "text": "leepon",
-   "duration": 519.75,
+   "duration": 55.47,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 4
    },
    "source": "https://tasbeha.org/hymn_library/view/465",
+   "youtube": "https://www.youtube.com/watch?v=mK5hqhjIpm0",
+   "cantor": "Moallem Gad Lewis",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/leepon.json",
@@ -6246,10 +6216,10 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/leepon/audio.mp3",
+     "url": "content/hymns/leepon/audio.m4a",
      "role": "audio",
-     "bytes": 8317173,
-     "sha256": "8fa1004103b7d4e22fc66edf8cdb7f14293e8976534193525ad9e5bb8f26e5b6"
+     "bytes": 897971,
+     "sha256": "0525cf5a5511d13c00c4446d51dce30623b9ab16cadb0bac756c479e2a54b157"
     }
    ]
   },
@@ -7114,7 +7084,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 16
+    "of": 32
    },
    "source": "https://tasbeha.org/hymn_library/view/174",
    "antiphonalGroup": 2,

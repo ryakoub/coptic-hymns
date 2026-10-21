@@ -9,16 +9,13 @@
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲁⲓⲕⲱϯ ⲛ̀ⲥⲱⲕ: ϧⲉⲛ ⲡ̀ϣⲱⲕ ⲙ̀ⲡⲁϩⲏⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲃⲱⲗ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: ⲛ̀ⲛⲓⲥ̀ⲛⲁⲩϩ ⲛ̀ⲧⲉ ⲫ̀ⲛⲟⲃⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ⲁⲓⲕⲱϯ ⲛ̀ⲥⲱⲕ: ϧⲉⲛ ⲡ̀ϣⲱⲕ ⲙ̀ⲡⲁϩⲏⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "I sought after You, from the depths of my heart, my Lord Jesus, help me. Loosen for me, all the bonds of sin, my Lord Jesus Christ, help me.",
-    "arabic": "طلبتك، من عمق قلبي، يا ربي يسوع، أعنِّي. حل عني، رباطات الخطية، يا ربي يسوع المسيح، أعنِّي."
+    "english": "I sought after You, from the depths of my heart, my Lord Jesus, help me.",
+    "arabic": "طلبتك، من عمق قلبي، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Aikoti ensok: khen epshok empaheet: Pashois Ieesous: arivo-eethin eroi. Vol evol haroi: enni-esnavh ente efnovi: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
-   },
-   "sung": {
-    "english": "I sought after You, from the depth of my heart, my Lord Jesus, help me. Loosen for me, all the bonds of sin, my Lord Jesus Christ, help me."
+    "english": "Aikoti ensok: khen epshok empaheet: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -32,7 +29,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 0,
+   "coptic": "Ⲃⲱⲗ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: ⲛ̀ⲛⲓⲥ̀ⲛⲁⲩϩ ⲛ̀ⲧⲉ ⲫ̀ⲛⲟⲃⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Loosen for me, all the bonds of sin, my Lord Jesus Christ, help me.",
+    "arabic": "حل عني، رباطات الخطية، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Vol evol haroi: enni-esnavh ente efnovi: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲃⲱⲗ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ:"
     },
@@ -48,15 +59,15 @@
    ]
   },
   {
-   "id": "l2",
-   "side": 0,
-   "coptic": "Ⲅⲉⲛⲧⲏⲓ ⲙ̀ⲃⲟⲏ̀ⲑⲟⲥ: ⲉⲑⲣⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲇⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ: ⲙⲁⲣⲉⲥⲧⲁϩⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l3",
+   "side": 1,
+   "coptic": "Ⲅⲉⲛⲧⲏⲓ ⲙ̀ⲃⲟⲏ̀ⲑⲟⲥ: ⲉⲑⲣⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Be a help to me, so that You may save me, my Lord Jesus, help me. May Your goodness, come speedily to me, my Lord Jesus Christ, help me.",
-    "arabic": "كن لي معيناً، لكي تخلصني، يا ربي يسوع، أعنِّي. صلاحك، فليدركني سريعاً، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Be a help to me, so that You may save me, my Lord Jesus, help me.",
+    "arabic": "كن لي معيناً، لكي تخلصني، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Gentee emvo-eethos: ethreksoti emmoi: Pashois Ieesous: arivo-eethin eroi. Thekmetaghathos: marestahoi enkolem: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Gentee emvo-eethos: ethreksoti emmoi: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -70,7 +81,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲇⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ: ⲙⲁⲣⲉⲥⲧⲁϩⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "May Your goodness, come speedily to me, my Lord Jesus Christ, help me.",
+    "arabic": "صلاحك، فليدركني سريعاً، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Thekmetaghathos: marestahoi enkolem: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲇⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ:"
     },
@@ -86,15 +111,15 @@
    ]
   },
   {
-   "id": "l3",
-   "side": 1,
-   "coptic": "Ⲉⲕⲉⲣϧⲏⲓⲃⲓ ⲉ̀ϫⲱⲓ: ϧⲁ ⲧ̀ϧⲏⲓⲃⲓ ⲛ̀ⲧⲉ ⲛⲉⲕⲧⲉⲛϩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲥⲟⲟⲩ (ⲋ) ⲅⲁⲣ ⲛ̀ⲉ̀ϩⲟⲟⲩ: ⲁⲕⲑⲁⲙⲓⲟ ⲛ̀ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲉⲕⲉⲣϧⲏⲓⲃⲓ ⲉ̀ϫⲱⲓ: ϧⲁ ⲧ̀ϧⲏⲓⲃⲓ ⲛ̀ⲧⲉ ⲛⲉⲕⲧⲉⲛϩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Overshadow me, with the shadow of Your wings, my Lord Jesus, help me. In six days You have made, all the creation, my Lord Jesus Christ, help me.",
-    "arabic": "ظلِّل عليَّ، بظِل جناحيك، يا ربي يسوع، أعنِّي. في ستة أيام، صنعت كل الخليقة، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Overshadow me, with the shadow of Your wings, my Lord Jesus, help me.",
+    "arabic": "ظلِّل عليَّ، بظِل جناحيك، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Ekerkheeivi egoi: kha etkheeivi ente nektenh: Pashois Ieesous: arivo-eethin eroi. Soou (soou) ghar enehoou: akthamio enti-ekteesis teers: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Ekerkheeivi egoi: kha etkheeivi ente nektenh: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -108,7 +133,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 0,
+   "coptic": "Ⲥⲟⲟⲩ (ⲋ) ⲅⲁⲣ ⲛ̀ⲉ̀ϩⲟⲟⲩ: ⲁⲕⲑⲁⲙⲓⲟ ⲛ̀ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "In six days You have made, all the creation, my Lord Jesus Christ, help me.",
+    "arabic": "في ستة أيام، صنعت كل الخليقة، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Soou (soou) ghar enehoou: akthamio enti-ekteesis teers: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲥⲟⲟⲩ (ⲋ) ⲅⲁⲣ ⲛ̀ⲉ̀ϩⲟⲟⲩ:"
     },
@@ -124,15 +163,15 @@
    ]
   },
   {
-   "id": "l4",
+   "id": "l7",
    "side": 1,
-   "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ: ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲏⲥ ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: ⲥⲉϯⲱ̀ⲟⲩ ⲙ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ: ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Seven times everyday, I will praise Your name, my Lord Jesus, help me. All the creation, glorifies Your name, my Lord Jesus Christ, help me.",
-    "arabic": "سبع مرات في اليوم، أبارك إسمك، يا ربي يسوع، أعنِّي. ها كل البرية، تمجد إسمك، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Seven times everyday, I will praise Your name, my Lord Jesus, help me.",
+    "arabic": "سبع مرات في اليوم، أبارك إسمك، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Shashf ensop emmeeni: tina-esmou epekran: Pashois Ieesous: arivo-eethin eroi. Ees ti-ekteesis teers: seti-oou empekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Shashf ensop emmeeni: tina-esmou epekran: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -146,7 +185,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲏⲥ ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ: ⲥⲉϯⲱ̀ⲟⲩ ⲙ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "All the creation, glorifies Your name, my Lord Jesus Christ, help me.",
+    "arabic": "ها كل البرية، تمجد إسمك، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Ees ti-ekteesis teers: seti-oou empekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲏⲥ ϯⲕ̀ⲧⲏⲥⲓⲥ ⲧⲏⲣⲥ:"
     },
@@ -162,15 +215,15 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l9",
    "side": 0,
-   "coptic": "Ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧϭⲟⲓⲥ: ⲛⲉⲙ ϯⲉⲝⲟⲩⲥⲓⲁ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲓⲱⲥ ⲙ̀ⲙⲟⲕ Ⲡⲁⲛⲟⲩϯ: ⲉⲑⲣⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧϭⲟⲓⲥ: ⲛⲉⲙ ϯⲉⲝⲟⲩⲥⲓⲁ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Yours is the lordship, and the authority, my Lord Jesus, help me. Make haste O my God, so that You may save me, my Lord Jesus Christ, help me.",
-    "arabic": "لك الربوبية، والسلطان، يا ربي يسوع، أعنِّي. أسرع يا إلهي، لتخلصني، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Yours is the lordship, and the authority, my Lord Jesus, help me.",
+    "arabic": "لك الربوبية، والسلطان، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Thok te timetshois: nem tieksousia: Pashois Ieesous: arivo-eethin eroi. Yos emmok Panoti: ethreksoti emmoi: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Thok te timetshois: nem tieksousia: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -184,7 +237,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "side": 0,
+   "coptic": "Ⲓⲱⲥ ⲙ̀ⲙⲟⲕ Ⲡⲁⲛⲟⲩϯ: ⲉⲑⲣⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Make haste O my God, so that You may save me, my Lord Jesus Christ, help me.",
+    "arabic": "أسرع يا إلهي، لتخلصني، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Yos emmok Panoti: ethreksoti emmoi: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲓⲱⲥ ⲙ̀ⲙⲟⲕ Ⲡⲁⲛⲟⲩϯ:"
     },
@@ -200,15 +267,15 @@
    ]
   },
   {
-   "id": "l6",
-   "side": 0,
-   "coptic": "Ⲕⲉⲗⲓ ⲛⲓⲃⲉⲛ ⲥⲉⲕⲱⲗϫ: ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲉ̀ⲃⲟⲗ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲗⲁⲥ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l11",
+   "side": 1,
+   "coptic": "Ⲕⲉⲗⲓ ⲛⲓⲃⲉⲛ ⲥⲉⲕⲱⲗϫ: ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲉ̀ⲃⲟⲗ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Every knee, bows down before You, my Lord Jesus, help me. All the diverse tongues, together bless Your name, my Lord Jesus Christ, help me.",
-    "arabic": "كل ركبة، تجثو أمامك، يا ربي يسوع، أعنِّي. كل الألسنة معاً، تبارك إسمك، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Every knee, bows down before You, my Lord Jesus, help me.",
+    "arabic": "كل ركبة، تجثو أمامك، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Keli niven sekolg: empekemtho evol: Pashois Ieesous: arivo-eethin eroi. Las niven evsop: se-esmou epekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Keli niven sekolg: empekemtho evol: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -222,7 +289,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "side": 1,
+   "coptic": "Ⲗⲁⲥ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "All the diverse tongues, together bless Your name, my Lord Jesus Christ, help me.",
+    "arabic": "كل الألسنة معاً، تبارك إسمك، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Las niven evsop: se-esmou epekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲗⲁⲥ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ:"
     },
@@ -238,15 +319,15 @@
    ]
   },
   {
-   "id": "l7",
-   "side": 1,
-   "coptic": "Ⲙⲁⲧⲁⲥⲑⲟ ⲙ̀ⲡⲉⲕϩⲟ: ⲥⲁⲃⲟⲗ ⲛ̀ⲛⲁⲛⲟⲃⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ ⲧⲏⲣⲟⲩ: Ⲫ̀ⲛⲟⲩϯ ⲉⲕⲉ̀ⲥⲱⲗϫⲟⲩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l13",
+   "side": 0,
+   "coptic": "Ⲙⲁⲧⲁⲥⲑⲟ ⲙ̀ⲡⲉⲕϩⲟ: ⲥⲁⲃⲟⲗ ⲛ̀ⲛⲁⲛⲟⲃⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Turn away Your face, from all of my sins, my Lord Jesus, help me. Blot out O God, all my iniquities, my Lord Jesus Christ, help me.",
-    "arabic": "إصرف وجهك، عن خطاياي، يا ربي يسوع، أعنِّي. جميع آثامي، يا الله إمحها، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Turn away Your face, from all of my sins, my Lord Jesus, help me.",
+    "arabic": "إصرف وجهك، عن خطاياي، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Matasto empekho: savol ennanovi: Pashois Ieesous: arivo-eethin eroi. Na-anomia teerou: Efnoti ekesolgou: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Matasto empekho: savol ennanovi: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -260,7 +341,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "side": 0,
+   "coptic": "Ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ ⲧⲏⲣⲟⲩ: Ⲫ̀ⲛⲟⲩϯ ⲉⲕⲉ̀ⲥⲱⲗϫⲟⲩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Blot out O God, all my iniquities, my Lord Jesus Christ, help me.",
+    "arabic": "جميع آثامي، يا الله إمحها، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Na-anomia teerou: Efnoti ekesolgou: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ ⲧⲏⲣⲟⲩ:"
     },
@@ -276,18 +371,15 @@
    ]
   },
   {
-   "id": "l8",
+   "id": "l15",
    "side": 1,
-   "coptic": "Ⲝ̀ⲟⲩⲱⲛ ⲛ̀ⲛⲁⲙⲉⲩⲓ̀: ⲕ̀ϧⲟⲧϧⲉⲧ ⲛ̀ⲛⲁϭⲗⲱⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ Ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲉⲕⲉ̀ⲥⲟⲛⲧϥ ⲛ̀ϧⲏⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ⲝ̀ⲟⲩⲱⲛ ⲛ̀ⲛⲁⲙⲉⲩⲓ̀: ⲕ̀ϧⲟⲧϧⲉⲧ ⲛ̀ⲛⲁϭⲗⲱⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "You know my thoughts, and You search my reins, my Lord Jesus, help me. Create in me, a clean heart, my Lord Jesus Christ, help me.",
-    "arabic": "أنت تعرف أفكاري، وتفحص كليتي، يا ربي يسوع، أعنِّي. قلباً طاهراً أخلقه فيَّ، يا ربي يسوع المسيح، أعنِّي."
+    "english": "You know my thoughts, and You search my reins, my Lord Jesus, help me.",
+    "arabic": "أنت تعرف أفكاري، وتفحص كليتي، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Eksowon ennamevi: ekkhotkhet ennachlot: Pashois Ieesous: arivo-eethin eroi Ouheet efowab: ekesontf enkheet: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
-   },
-   "sung": {
-    "english": "You know my thoughts, and You search my depths, my Lord Jesus, help me. Create in me, a clean heart, my Lord Jesus Christ, help me."
+    "english": "Eksowon ennamevi: ekkhotkhet ennachlot: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -300,8 +392,22 @@
      "coptic": "Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ:"
     },
     {
-     "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ"
-    },
+     "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l16",
+   "side": 1,
+   "coptic": "Ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲉⲕⲉ̀ⲥⲟⲛⲧϥ ⲛ̀ϧⲏⲧ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Create in me, a clean heart, my Lord Jesus Christ, help me.",
+    "arabic": "قلباً طاهراً أخلقه فيَّ، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Ouheet efowab: ekesontf enkheet: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ:"
     },
@@ -317,15 +423,15 @@
    ]
   },
   {
-   "id": "l9",
+   "id": "l17",
    "side": 0,
-   "coptic": "Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲙ̀ⲡⲉⲣⲟⲗϥ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲣⲉⲕⲡⲉⲕⲙⲁϣϫ ⲉ̀ⲣⲟⲓ: ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲙ̀ⲡⲉⲣⲟⲗϥ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Your Holy Spirit, do not take away from me, my Lord Jesus, help me. Incline Your ears, make haste and hear me, my Lord Jesus Christ, help me.",
-    "arabic": "روحك القدوس، لا تنزعه منِّي، يا ربي يسوع، أعنِّي. أمِّل سمعك إليَّ، وإستجب لي عاجلاً، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Your Holy Spirit, do not take away from me, my Lord Jesus, help me.",
+    "arabic": "روحك القدوس، لا تنزعه منِّي، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Pekepnevma ethowab: emperolf evol haroi: Pashois Ieesous: arivo-eethin eroi. Rekpekmashg eroi: sotem eroi enkolem: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Pekepnevma ethowab: emperolf evol haroi: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -339,7 +445,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l18",
+   "side": 0,
+   "coptic": "Ⲣⲉⲕⲡⲉⲕⲙⲁϣϫ ⲉ̀ⲣⲟⲓ: ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Incline Your ears, make haste and hear me, my Lord Jesus Christ, help me.",
+    "arabic": "أمِّل سمعك إليَّ، وإستجب لي عاجلاً، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Rekpekmashg eroi: sotem eroi enkolem: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲣⲉⲕⲡⲉⲕⲙⲁϣϫ ⲉ̀ⲣⲟⲓ:"
     },
@@ -355,15 +475,15 @@
    ]
   },
   {
-   "id": "l10",
-   "side": 0,
-   "coptic": "Ⲥⲉⲙⲛⲉ ⲛⲟⲙⲟⲥ ⲛⲏⲓ: ϩⲓ ⲫ̀ⲙⲱⲓⲧ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ: ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲉ̀ⲛⲉϩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l19",
+   "side": 1,
+   "coptic": "Ⲥⲉⲙⲛⲉ ⲛⲟⲙⲟⲥ ⲛⲏⲓ: ϩⲓ ⲫ̀ⲙⲱⲓⲧ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Set before me a law, in the way of Your justice, my Lord Jesus, help me. Your kingdom O my God, is an eternal kingdom, my Lord Jesus Christ, help me.",
-    "arabic": "قرِّر ليَّ ناموساً، في طريق عدلك، يا ربي يسوع، أعنِّي. ملكوتك يا إلهي، ملكوت أبدي، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Set before me a law, in the way of Your justice, my Lord Jesus, help me.",
+    "arabic": "قرِّر ليَّ ناموساً، في طريق عدلك، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Semne nomos nee: hi efmoit ente tekmethmee: Pashois Ieesous: arivo-eethin eroi. Tekmetouro Panoti: oumetouro eneneh: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Semne nomos nee: hi efmoit ente tekmethmee: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -377,7 +497,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l20",
+   "side": 1,
+   "coptic": "Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ: ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲉ̀ⲛⲉϩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Your kingdom O my God, is an eternal kingdom, my Lord Jesus Christ, help me.",
+    "arabic": "ملكوتك يا إلهي، ملكوت أبدي، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Tekmetouro Panoti: oumetouro eneneh: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ Ⲡⲁⲛⲟⲩϯ:"
     },
@@ -393,15 +527,15 @@
    ]
   },
   {
-   "id": "l11",
-   "side": 1,
-   "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ: ⲁⲓⲛⲁϩϯ ⲉ̀ⲣⲟⲕ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ: ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛⲁⲓ ⲛⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l21",
+   "side": 0,
+   "coptic": "Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ: ⲁⲓⲛⲁϩϯ ⲉ̀ⲣⲟⲕ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "You are the Son of God, I believe in You, my Lord Jesus, help me. You who carries the sins of the world, have mercy upon me, my Lord Jesus Christ, help me.",
-    "arabic": "أنت إبن الله، آمنت بك، يا ربي يسوع، أعنِّي. يا حامل خطية، العالم إرحمني، يا ربي يسوع المسيح، أعنِّي."
+    "english": "You are the Son of God, I believe in You, my Lord Jesus, help me.",
+    "arabic": "أنت إبن الله، آمنت بك، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "I-ios Theos enthok: ainahti erok: Pashois Ieesous: arivo-eethin eroi. Fee-etoli emefnovi: ente pikosmos nai nee: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "I-ios Theos enthok: ainahti erok: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -415,7 +549,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l22",
+   "side": 0,
+   "coptic": "Ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ: ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛⲁⲓ ⲛⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "You who carries the sins of the world, have mercy upon me, my Lord Jesus Christ, help me.",
+    "arabic": "يا حامل خطية، العالم إرحمني، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Fee-etoli emefnovi: ente pikosmos nai nee: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ:"
     },
@@ -431,18 +579,15 @@
    ]
   },
   {
-   "id": "l12",
+   "id": "l23",
    "side": 1,
-   "coptic": "Ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲁ̀ϣⲁⲓ: ⲛ̀ⲧⲉ ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲁ̀ϣⲁⲓ: ⲛ̀ⲧⲉ ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Forgive me the multitude, of my transgressions, my Lord Jesus, help me. All of the souls, together bless Your name, my Lord Jesus Christ, help me.",
-    "arabic": "إغفر ليَّ، كثرة آثامي، يا ربي يسوع، أعنِّي. كل الأنفس معاً، تبارك إسمك، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Forgive me the multitude, of my transgressions, my Lord Jesus, help me.",
+    "arabic": "إغفر ليَّ، كثرة آثامي، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Ko nee evol emepashai: ente na-anomia: Pashois Ieesous: arivo-eethin eroi. Psishee niven evsop: se-esmou epekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
-   },
-   "sung": {
-    "english": "Forgive me the multitude, of my iniquities, my Lord Jesus, help me. All of the souls, together bless Your name, my Lord Jesus Christ, help me."
+    "english": "Ko nee evol emepashai: ente na-anomia: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -456,7 +601,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l24",
+   "side": 1,
+   "coptic": "Ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "All of the souls, together bless Your name, my Lord Jesus Christ, help me.",
+    "arabic": "كل الأنفس معاً، تبارك إسمك، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Psishee niven evsop: se-esmou epekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ:"
     },
@@ -472,15 +631,15 @@
    ]
   },
   {
-   "id": "l13",
+   "id": "l25",
    "side": 0,
-   "coptic": "Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ ⲛⲉⲙⲏⲓ: ⲙ̀ⲡⲉⲣⲧⲁⲕⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϣⲁⲓⲧⲱⲛⲧ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ: ⲛ̀ⲧⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ⲱ̀ⲟⲩⲛ̀ϩⲏⲧ ⲛⲉⲙⲏⲓ: ⲙ̀ⲡⲉⲣⲧⲁⲕⲟⲓ ⲛ̀ⲭⲱⲗⲉⲙ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Have patience with me, do not hasten to destroy me, my Lord Jesus, help me. Early in the morning, I will rise and bless Your name, my Lord Jesus Christ, help me.",
-    "arabic": "تأنَّ عليَّ، ولا تهلكني سريعاً، يا ربي يسوع، أعنِّي. أقوم وقت السحر، لأبارك إسمك، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Have patience with me, do not hasten to destroy me, my Lord Jesus, help me.",
+    "arabic": "تأنَّ عليَّ، ولا تهلكني سريعاً، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Oou-enheet nemee: empertakoi enkolem: Pashois Ieesous: arivo-eethin eroi. Shaitont emefnav enshorp: enta-esmou epekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Oou-enheet nemee: empertakoi enkolem: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -494,7 +653,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l26",
+   "side": 0,
+   "coptic": "Ϣⲁⲓⲧⲱⲛⲧ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ: ⲛ̀ⲧⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Early in the morning, I will rise and bless Your name, my Lord Jesus Christ, help me.",
+    "arabic": "أقوم وقت السحر، لأبارك إسمك، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Shaitont emefnav enshorp: enta-esmou epekran: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ϣⲁⲓⲧⲱⲛⲧ ⲙ̀ⲫ̀ⲛⲁⲩ ⲛ̀ϣⲱⲣⲡ:"
     },
@@ -510,15 +683,15 @@
    ]
   },
   {
-   "id": "l14",
-   "side": 0,
-   "coptic": "Ϥ̀ϩⲟⲗϫ ⲛ̀ϫⲉ ⲡⲉⲕⲛⲁϩⲃⲉϥ: ⲧⲉⲕⲉⲧⲫⲱ ⲁⲓⲥⲓⲱ̀ⲟⲩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϧⲉⲛ ⲟⲩⲥⲏⲟⲩ ⲉϥϣⲏⲡ: ⲉⲕⲉ̀ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l27",
+   "side": 1,
+   "coptic": "Ϥ̀ϩⲟⲗϫ ⲛ̀ϫⲉ ⲡⲉⲕⲛⲁϩⲃⲉϥ: ⲧⲉⲕⲉⲧⲫⲱ ⲁⲓⲥⲓⲱ̀ⲟⲩ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Your yoke is sweet, and Your burden is light, my Lord Jesus, help me. In the accepted time, hear me, my Lord Jesus Christ, help me.",
-    "arabic": "حلوٌ هو نيرك، وحملك خفيف، يا ربي يسوع، أعنِّي. في زمن مقبول، إستجب ليَّ، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Your yoke is sweet, and Your burden is light, my Lord Jesus, help me.",
+    "arabic": "حلوٌ هو نيرك، وحملك خفيف، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Efholg enje peknahvef: teketfo aisi-oou: Pashois Ieesous: arivo-eethin eroi. Khen ouseeou efsheep: ekesotem eroi: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Efholg enje peknahvef: teketfo aisi-oou: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -532,7 +705,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l28",
+   "side": 1,
+   "coptic": "Ϧⲉⲛ ⲟⲩⲥⲏⲟⲩ ⲉϥϣⲏⲡ: ⲉⲕⲉ̀ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "In the accepted time, hear me, my Lord Jesus Christ, help me.",
+    "arabic": "في زمن مقبول، إستجب ليَّ، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Khen ouseeou efsheep: ekesotem eroi: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ϧⲉⲛ ⲟⲩⲥⲏⲟⲩ ⲉϥϣⲏⲡ:"
     },
@@ -548,18 +735,15 @@
    ]
   },
   {
-   "id": "l15",
-   "side": 1,
-   "coptic": "Ϩⲱⲥ ⲟⲩϣⲟⲩⲙⲉⲛⲣⲓⲧϥ: ⲡⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϫⲱⲣ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: ⲛ̀ⲇⲓⲁⲃⲟⲗⲏ ⲛⲓⲃⲉⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "id": "l29",
+   "side": 0,
+   "coptic": "Ϩⲱⲥ ⲟⲩϣⲟⲩⲙⲉⲛⲣⲓⲧϥ: ⲡⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "O how beloved, is Your holy name, my Lord Jesus, help me. Disperse away from me, all of the devils, my Lord Jesus Christ, help me.",
-    "arabic": "محبوب هو، إسمك القدوس، يا ربي يسوع، أعنِّي. فرِّق عنِّي، كل الأبالسة، يا ربي يسوع المسيح، أعنِّي."
+    "english": "O how beloved, is Your holy name, my Lord Jesus, help me.",
+    "arabic": "محبوب هو، إسمك القدوس، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Hos oushoumenritf: pe pekran ethowab: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi. Gor evol haroi: enthiavolee niven: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
-   },
-   "sung": {
-    "english": "Oh how beloved, is Your holy name, my Lord Jesus, help me. Disperse away from me, all of the devils, my Lord Jesus Christ, help me."
+    "english": "Hos oushoumenritf: pe pekran ethowab: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -573,7 +757,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l30",
+   "side": 0,
+   "coptic": "Ϫⲱⲣ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ: ⲛ̀ⲇⲓⲁⲃⲟⲗⲏ ⲛⲓⲃⲉⲛ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Disperse away from me, all of the devils, my Lord Jesus Christ, help me.",
+    "arabic": "فرِّق عنِّي، كل الأبالسة، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Gor evol haroi: enthiavolee niven: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ϫⲱⲣ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲓ:"
     },
@@ -589,15 +787,15 @@
    ]
   },
   {
-   "id": "l16",
+   "id": "l31",
    "side": 1,
-   "coptic": "Ϭⲟ ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧ: ⲙ̀ⲡ̀ⲟⲩⲧⲁϩ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ. Ϯⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲙ̀ⲙⲏⲓ: ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "coptic": "Ϭⲟ ⲛ̀ϧ̀ⲣⲏⲓ ⲛ̀ϧⲏⲧ: ⲙ̀ⲡ̀ⲟⲩⲧⲁϩ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲙⲏⲓ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
    "translations": {
-    "english": "Sow within me, the seed of Your righteousness, my Lord Jesus, help me. Grant us Your true peace, and forgive us our sins, my Lord Jesus Christ, help me.",
-    "arabic": "إغرس فيَّ، ثمرة بِرَك، يا ربي يسوع، أعنِّي. أعطنا سلامك الحقيقي، وإغفر لنا خطايانا، يا ربي يسوع المسيح، أعنِّي."
+    "english": "Sow within me, the seed of Your righteousness, my Lord Jesus, help me.",
+    "arabic": "إغرس فيَّ، ثمرة بِرَك، يا ربي يسوع، أعنِّي."
    },
    "transliterations": {
-    "english": "Cho enekhree enkheet: emepoutah ente tekmethmee: Pashois Ieesous: arivo-eethin eroi. Tinan entekhireenee emmee: ka nennovi nan evol: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+    "english": "Cho enekhree enkheet: emepoutah ente tekmethmee: Pashois Ieesous: arivo-eethin eroi."
    },
    "stanzas": [
     {
@@ -611,7 +809,21 @@
     },
     {
      "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ."
-    },
+    }
+   ]
+  },
+  {
+   "id": "l32",
+   "side": 1,
+   "coptic": "Ϯⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲙ̀ⲙⲏⲓ: ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲓ.",
+   "translations": {
+    "english": "Grant us Your true peace, and forgive us our sins, my Lord Jesus Christ, help me.",
+    "arabic": "أعطنا سلامك الحقيقي، وإغفر لنا خطايانا، يا ربي يسوع المسيح، أعنِّي."
+   },
+   "transliterations": {
+    "english": "Tinan entekhireenee emmee: ka nennovi nan evol: Pashois Ieesous Pi-ekhristos: arivo-eethin eroi."
+   },
+   "stanzas": [
     {
      "coptic": "Ϯⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲙ̀ⲙⲏⲓ:"
     },

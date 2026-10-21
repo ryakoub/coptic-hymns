@@ -10,8 +10,11 @@
     "praises/midnight"
   ],
   "order": 160,
-  "kind": "both",
+  "kind": "recital",
   "group": {
     "english": "Theotokia"
-  }
+  },
+  "youtube": "https://www.youtube.com/watch?v=mK5hqhjIpm0",
+  "cantor": "Moallem Gad Lewis",
+  "notes": "Recital recording by Gad Lewis (it matches the English); the melismatic recording from tasbeha.org view/465 was replaced, see git history."
 }
