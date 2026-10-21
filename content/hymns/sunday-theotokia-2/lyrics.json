@@ -46,7 +46,10 @@
       {
         "coptic": "ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧⲫⲱⲣϫ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "It foretold the sign, of the God the Word, who became man, without separation."
+    }
   },
   {
     "coptic": "Ⲟⲩⲁⲓ ⲡⲉ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲥ̀ⲛⲁⲩ: ⲟⲩⲙⲉⲑⲛⲟⲩϯ ⲉⲥⲧⲟⲩⲃⲏⲟⲩⲧ: ⲉⲥⲟⲓ ⲛ̀ⲁⲧⲧⲁⲕⲟ: ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙ Ⲫ̀ⲓⲱⲧ.",
@@ -71,7 +74,10 @@
         "coptic": "ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙ Ⲫ̀ⲓⲱⲧ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "One nature out of two, a holy divinity, co-essential with the Father, an incorruptible."
+    }
   },
   {
     "coptic": "Ⲛⲉⲙ ⲟⲩⲙⲉⲧⲣⲱⲙⲓ ⲉⲑⲟⲩⲁⲃ: ⲭⲱⲣⲓⲥ ⲥⲩⲛⲟⲩⲥⲓⲁ: ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙⲁⲛ: ⲕⲁⲧⲁ ϯⲟⲓⲕⲟⲛⲟⲙⲓⲁ.",
@@ -169,7 +175,10 @@
         "coptic": "ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "And we also pray, that we may win mercy, through your intercessions, with the Lover of Mankind."
+    }
   },
   {
     "coptic": "Ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲛ̀ⲧⲉ ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ: ⲁⲩⲓ̀ⲛⲓ ⲛ̀ϩⲁⲛⲇⲱⲣⲟⲛ: ⲉ̀ϯⲥ̀ⲕⲏⲛⲏ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ.",
@@ -193,7 +202,10 @@
       {
         "coptic": "ⲉ̀ϯⲥ̀ⲕⲏⲛⲏ ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "All the souls together, of the children of Israel, brought offerings unto, the tabernacle of the Lord."
+    }
   },
   {
     "coptic": "Ⲡⲓⲛⲟⲩⲃ ⲛⲉⲙ ⲡⲓϩⲁⲧ: ⲛⲉⲙ ⲡⲓⲱ̀ⲛⲓ ⲙ̀ⲙⲏⲓ: ⲛⲉⲙ ⲡⲓϣⲉⲛⲥ ⲉⲧⲥⲁϯ: ⲛⲉⲙ ⲡⲓϩⲩⲁ̀ⲕⲩⲛⲑⲓⲛⲟⲛ.",
