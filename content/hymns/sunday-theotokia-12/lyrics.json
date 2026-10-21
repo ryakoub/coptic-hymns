@@ -21,7 +21,10 @@
       {
         "coptic": "ⲛⲉⲙ ⲛⲏⲉⲧϣⲟⲡ ⲛ̀ϧⲏⲧϥ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "glory O Mary, is higher than heaven, you are more honored than the earth, and its inhabitants."
+    }
   },
   {
     "coptic": "Ⲛ̀ⲑⲟ ⲅⲁⲣ ⲁ̀ⲗⲏⲑⲱⲥ: ⲧⲉ ϯⲥ̀ⲧⲣⲁⲧⲁ ⲙ̀ⲙⲏⲓ: ⲉⲧⲟⲓ ⲙ̀ⲙⲁⲙ̀ⲙⲟϣⲓ: ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀.",
@@ -119,6 +122,9 @@
       {
         "coptic": "ⲫ̀ⲙⲁ ⲛ̀ϣⲱⲡⲓ ⲛ̀ⲛⲓⲇⲓⲕⲉⲟⲥ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "And restored him, to Paradise, the place of joy, and the dwelling of the righteous."
+    }
   }
 ]

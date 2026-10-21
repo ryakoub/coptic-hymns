@@ -95,6 +95,9 @@
    "transliterations": {
     "english": "O-on oukivotos: kee khen ti-eskeenee: eslaleeout ennoub: sakhoun nem savol."
    },
+   "sung": {
+    "english": "There was an ark, in the tabernacle, overlaid with gold, within and without."
+   },
    "stanzas": [
     {
      "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲕⲓⲃⲱⲧⲟⲥ:"
@@ -173,6 +176,9 @@
    "transliterations": {
     "english": "O-on oulikhnia ennoub: kee khen ti-eskeenee: ere pishashf enkheevs: erowoini egos."
    },
+   "sung": {
+    "english": "There was a golden lampstand, in the tabernacle, and the seven lamps, shown upon it."
+   },
    "stanzas": [
     {
      "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ:"
@@ -224,6 +230,9 @@
    },
    "transliterations": {
     "english": "O-on ou-ehreeri enestoinoufi: kee khen ti-eskeenee: evsholem eros teerou: enje na epee empisraeel."
+   },
+   "sung": {
+    "english": "There was a flower of incense, in the tabernacle, smelled by all, the house of Israel."
    },
    "stanzas": [
     {
@@ -303,6 +312,9 @@
    "transliterations": {
     "english": "O-on o-arshee-erevs: kee khen ti-eskeenee: efen shoushooushi e-epshoi: ejen ninovi ente pilaos."
    },
+   "sung": {
+    "english": "There was a high priest, in the tabernacle, offering sacrifices, on account of the people's sins."
+   },
    "stanzas": [
     {
      "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ:"
@@ -329,6 +341,9 @@
    "transliterations": {
     "english": "Afshansholem erof: enje Pipantokrator: shafoli emmav: enninovi ente pilaos."
    },
+   "sung": {
+    "english": "When the Almighty, smelled the aroma, He lifted up the sins, of the people."
+   },
    "stanzas": [
     {
      "coptic": "Ⲁϥϣⲁⲛϣⲱⲗⲉⲙ ⲉ̀ⲣⲟϥ:"
@@ -354,6 +369,9 @@
    },
    "transliterations": {
     "english": "Evol hiten Maria: etsheri enyoakim: ansowen Pishoushooushi emmee: enkanovi evol."
+   },
+   "sung": {
+    "english": "Through Mary, the daughter of Joachim, we learned of the true Sacrifice, for the forgiveness of sins."
    },
    "stanzas": [
     {

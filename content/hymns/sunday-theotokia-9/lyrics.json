@@ -22,7 +22,10 @@
         "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "You are called, O Virgin Mary, the holy flower, of incense."
+    }
   },
   {
     "coptic": "Ⲑⲏⲉ̀ⲧⲁⲥϯⲟⲩⲱ̀ ⲉ̀ⲡ̀ϣⲱⲓ: ⲁⲥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲑ̀ⲛⲟⲩⲛⲓ ⲛ̀ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ.",
@@ -120,6 +123,9 @@
         "coptic": "ⲉⲑⲣⲉϥⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "Wherefore we glorify you, as the Mother of God, ask your Son, to forgive us."
+    }
   }
 ]

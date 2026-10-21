@@ -1,6 +1,6 @@
 {
- "version": "a429f8bb5bd72774",
- "updated": "2026-10-21T01:09:59Z",
+ "version": "e6c67488593b102f",
+ "updated": "2026-10-21T01:15:33Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3675,12 +3675,13 @@
     "english"
    ],
    "recordings": [
-    "sunday-theotokia-11"
+    "sunday-theotokia-11",
+    "sunday-theotokia-11-english"
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-11.json",
-    "bytes": 3985,
-    "sha256": "57a5a1e9852dd6c50e76b229e9b7377aa5d34febf361bff5255d2fb6f4d6f66a"
+    "bytes": 4092,
+    "sha256": "4ea0dc2c942050a95c9e8f904bbdad4c1f5fbb2f2ca167168e65b8a0152035b9"
    }
   },
   {
@@ -3701,12 +3702,13 @@
     "english"
    ],
    "recordings": [
-    "sunday-theotokia-12"
+    "sunday-theotokia-12",
+    "sunday-theotokia-12-english"
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-12.json",
-    "bytes": 4991,
-    "sha256": "2ae8ceeb49138d7f6669b0efc911152f70f5f4442324481a95e6ea665cc7516e"
+    "bytes": 5242,
+    "sha256": "533b03b4e9ad8a028ed19f2b2e5811ff7d26d23c846d83bcd083e2d186b62f58"
    }
   },
   {
@@ -3727,12 +3729,13 @@
     "english"
    ],
    "recordings": [
-    "sunday-theotokia-13"
+    "sunday-theotokia-13",
+    "sunday-theotokia-13-english"
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-13.json",
-    "bytes": 7217,
-    "sha256": "8c4df0e292f41cf4906ae9479ef2d45bd0f12adcf3fe334e7df73c712391bbe4"
+    "bytes": 7462,
+    "sha256": "9e91b40ea3e0b7f73e8187f04da3c30d48f4bd901c5637842054c871fbbaf044"
    }
   },
   {
@@ -3753,12 +3756,13 @@
     "english"
    ],
    "recordings": [
-    "sunday-theotokia-14"
+    "sunday-theotokia-14",
+    "sunday-theotokia-14-english"
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-14.json",
-    "bytes": 13923,
-    "sha256": "9b4f15e87bf90e934ce750ee6c800cbd5ddd1e048ae5a1f4b2e8ab8b92178c2c"
+    "bytes": 14664,
+    "sha256": "ad4ea856fb72ebab313de8482af21f76c51940f33d353845d28a42faf3d8960b"
    }
   },
   {
@@ -3779,12 +3783,13 @@
     "english"
    ],
    "recordings": [
-    "sunday-theotokia-15"
+    "sunday-theotokia-15",
+    "sunday-theotokia-15-english"
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-15.json",
-    "bytes": 17518,
-    "sha256": "3fa5d6d4fff0f2679b132ea5e512f67774e369c346730f358280dfcedc359ebe"
+    "bytes": 17969,
+    "sha256": "d1f8b61dadd337875b1f63450511cc5bd497341336c089e4cb232a38425c0569"
    }
   },
   {
@@ -3940,12 +3945,13 @@
     "english"
    ],
    "recordings": [
-    "sunday-theotokia-9"
+    "sunday-theotokia-9",
+    "sunday-theotokia-9-english"
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-9.json",
-    "bytes": 4840,
-    "sha256": "9c61b22ef14750a5db5b3ba7fc124b1a5f5495810ffac626720a6d2349f3db33"
+    "bytes": 5049,
+    "sha256": "6f2df3a99d1348d81538edfe8e45e510a001a5e27577d755e85629d2326b78ec"
    }
   },
   {
@@ -7463,6 +7469,36 @@
    ]
   },
   {
+   "id": "sunday-theotokia-11-english",
+   "text": "sunday-theotokia-11",
+   "duration": 55.54,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-11-english.json",
+     "bytes": 96,
+     "sha256": "d7adb73992a61822ceb6c22de7660ef9c1669260f72cf751d31b3606169b6353",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/sunday-theotokia-11-english/audio.mp3",
+     "role": "audio",
+     "bytes": 889206,
+     "sha256": "e6cd35c8357ac1919eca5f84f56926fd77b36be6f8fcda6e680f5455bc41b208"
+    }
+   ]
+  },
+  {
    "id": "sunday-theotokia-12",
    "text": "sunday-theotokia-12",
    "duration": 78.92,
@@ -7487,6 +7523,36 @@
      "role": "audio",
      "bytes": 1277262,
      "sha256": "7bda26047e6f313b5b35f0e162cd766230f1d69d10132879e7fec52015bd26d7"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-12-english",
+   "text": "sunday-theotokia-12",
+   "duration": 74.11,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-12-english.json",
+     "bytes": 96,
+     "sha256": "70cad571674f1ffe4234c3ea47b2c5b519c263eb532743674fdb911b01f5ca40",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/sunday-theotokia-12-english/audio.mp3",
+     "role": "audio",
+     "bytes": 1186376,
+     "sha256": "990456f60f94e72e21d79eb91856136ef61398ad964432b7b19157e310fe9230"
     }
    ]
   },
@@ -7519,6 +7585,36 @@
    ]
   },
   {
+   "id": "sunday-theotokia-13-english",
+   "text": "sunday-theotokia-13",
+   "duration": 74.24,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-13-english.json",
+     "bytes": 96,
+     "sha256": "9b03245f8eb322060e5d705b1d17e3c84926b5f0da8658bd4e6ffa1f2012cb31",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/sunday-theotokia-13-english/audio.mp3",
+     "role": "audio",
+     "bytes": 1188465,
+     "sha256": "a9234bec82a9b7c383e81c2f7c2a7fdbca5e54fbca06e905e4e96b2368728bfd"
+    }
+   ]
+  },
+  {
    "id": "sunday-theotokia-14",
    "text": "sunday-theotokia-14",
    "duration": 220.33,
@@ -7547,6 +7643,36 @@
    ]
   },
   {
+   "id": "sunday-theotokia-14-english",
+   "text": "sunday-theotokia-14",
+   "duration": 197.41,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-14-english.json",
+     "bytes": 96,
+     "sha256": "22508cbd4eb3b8e9c6b4b302cafed9b061049ad24092f12d2ca25bd764c90d6c",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/sunday-theotokia-14-english/audio.mp3",
+     "role": "audio",
+     "bytes": 3159142,
+     "sha256": "43107788fd9756d75c6c459c70569ccf72549bd1068b553fba986bcb8338edc8"
+    }
+   ]
+  },
+  {
    "id": "sunday-theotokia-15",
    "text": "sunday-theotokia-15",
    "duration": 284.42,
@@ -7571,6 +7697,36 @@
      "role": "audio",
      "bytes": 4600643,
      "sha256": "00dc6d4e67c501b119acac7e3455b8826cd158724bb4fdf32564bc00f991c3bc"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-15-english",
+   "text": "sunday-theotokia-15",
+   "duration": 252.71,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-15-english.json",
+     "bytes": 96,
+     "sha256": "751187be56043fdc241af177a9b9f52364c6980a582e86b1568eaba6a0b0430c",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/sunday-theotokia-15-english/audio.mp3",
+     "role": "audio",
+     "bytes": 4043962,
+     "sha256": "b9f55635b555de3b9539b1a9157010bac76eaa430d34db029269f51349c2ed48"
     }
    ]
   },
@@ -7889,6 +8045,36 @@
      "role": "audio",
      "bytes": 1253979,
      "sha256": "1809393556ed8ee16a8522080050b0f43357e5d6cc6175d82716e2a3bfa98d88"
+    }
+   ]
+  },
+  {
+   "id": "sunday-theotokia-9-english",
+   "text": "sunday-theotokia-9",
+   "duration": 67.45,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sunday-theotokia-9-english.json",
+     "bytes": 94,
+     "sha256": "caf710fce19806e288b27970de3ffc7fdca872e76eb81043857345bf41ed4891",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/sunday-theotokia-9-english/audio.mp3",
+     "role": "audio",
+     "bytes": 1079806,
+     "sha256": "72563721243614e67e2bba571e82b22cda42f0500abe83f62a3244daf87433a9"
     }
    ]
   },

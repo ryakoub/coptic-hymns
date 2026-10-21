@@ -95,7 +95,10 @@
         "coptic": "ⲥⲁϧⲟⲩⲛ ⲛⲉⲙ ⲥⲁⲃⲟⲗ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "There was an ark, in the tabernacle, overlaid with gold, within and without."
+    }
   },
   {
     "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ϩⲁⲛⲬⲉⲣⲟⲩⲃⲓⲙ ⲛ̀ⲛⲟⲩⲃ: ⲥⲉⲉⲣϧⲏⲓⲃⲓ ⲉ̀ϫⲱϥ.",
@@ -168,7 +171,10 @@
       {
         "coptic": "ⲉⲣⲟⲩⲱⲓⲛⲓ ⲉ̀ϫⲱⲥ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "There was a golden lampstand, in the tabernacle, and the seven lamps, shown upon it."
+    }
   },
   {
     "coptic": "Ⲟⲩⲟⲛ ⲟⲩϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲉ̀ⲣⲉ ⲡⲓⲕⲩⲛⲁⲙⲱⲛⲟⲛ: ⲉⲧⲥⲱⲧⲡ ϧⲉⲛ ⲧⲉⲥⲙⲏϯ.",
@@ -217,7 +223,10 @@
       {
         "coptic": "ⲛ̀ϫⲉ ⲛⲁ ⲡ̀ⲏⲓ ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "There was a flower of incense, in the tabernacle, smelled by all, the house of Israel."
+    }
   },
   {
     "coptic": "Ⲟⲩⲟⲛ ⲟⲩϣ̀ⲃⲱⲧ ⲛ̀ⲧⲉ Ⲁ̀ⲁ̀ⲣⲱⲛ: ⲭⲏ ϧⲉⲛ ϯⲥ̀ⲕⲏⲛⲏ: ⲫⲁⲓ ⲉ̀ⲧⲁϥⲫⲓⲣⲓ ⲉ̀ⲃⲟⲗ: ⲭⲱⲣⲓⲥ ϭⲟ ⲛⲉⲙ ⲧ̀ⲥⲟ.",
@@ -291,7 +300,10 @@
         "coptic": "ⲉ̀ϫⲉⲛ ⲛⲓⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲗⲁⲟⲥ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "There was a high priest, in the tabernacle, offering sacrifices, on account of the people's sins."
+    }
   },
   {
     "coptic": "Ⲁϥϣⲁⲛϣⲱⲗⲉⲙ ⲉ̀ⲣⲟϥ: ⲛ̀ϫⲉ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ϣⲁϥⲱ̀ⲗⲓ ⲙ̀ⲙⲁⲩ: ⲛ̀ⲛⲓⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲗⲁⲟⲥ.",
@@ -315,7 +327,10 @@
       {
         "coptic": "ⲛ̀ⲛⲓⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲗⲁⲟⲥ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "When the Almighty, smelled the aroma, He lifted up the sins, of the people."
+    }
   },
   {
     "coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ⲁⲛⲥⲟⲩⲉⲛ Ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ.",
@@ -340,6 +355,9 @@
         "coptic": "ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "Through Mary, the daughter of Joachim, we learned of the true Sacrifice, for the forgiveness of sins."
+    }
   }
 ]

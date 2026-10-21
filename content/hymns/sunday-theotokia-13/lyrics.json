@@ -71,7 +71,10 @@
         "coptic": "ⲓ̀ ⲁϥϭⲓⲥⲁⲣⲝ ⲛ̀ϧⲏϯ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "The golden pot, where the manna was hidden, behold the Word of the Father, came and was incarnate of you."
+    }
   },
   {
     "coptic": "Ϯⲗⲩⲭⲛⲓⲁ ⲛ̀ⲛⲟⲩⲃ: ⲉⲧϥⲁⲓ ϧⲁ Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲙ̀ⲙⲏⲓ: ⲉ̀ⲧⲉ Ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲡⲓⲁⲧϣ̀ϧⲱⲛⲧ ⲉ̀ⲣⲟϥ.",
@@ -144,7 +147,10 @@
       {
         "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "The rod of Aaron, that blossomed, and the holy flower, of incense."
+    }
   },
   {
     "coptic": "Ⲛⲁⲓ ⲧⲏⲣⲟⲩ ⲉⲩⲥⲟⲡ: ⲥⲉⲉⲣⲥⲩⲙⲙⲉⲛⲓⲛ ⲛⲁⲛ: ⲙ̀Ⲡⲓϫⲓⲛⲙⲓⲥⲓ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲱ̀ Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",

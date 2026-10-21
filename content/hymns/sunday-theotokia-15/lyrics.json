@@ -70,7 +70,10 @@
       {
         "coptic": "ϧⲉⲛ ⲛⲓⲅ̀ⲣⲁⲫⲏ ⲉⲑⲟⲩⲁⲃ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "They thought with, their enlightened minds, and explained it, through the holy books."
+    }
   },
   {
     "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀Ⲙⲁⲣⲓⲁ: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ϫⲉ ϯⲥ̀ⲕⲏⲛⲏ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲧⲉ Ⲡ̀ϭⲟⲓⲥ ⲥⲁⲃⲁⲱⲑ.",
@@ -363,7 +366,10 @@
       {
         "coptic": "ϩⲓϫⲉⲛ Ϯⲅⲟⲗⲅⲟⲑⲁ."
       }
-    ]
+    ],
+    "sung": {
+      "english": "His good Father, smelled Him, in evening, on Golgotha."
+    }
   },
   {
     "coptic": "Ⲁϥⲟⲩⲱⲛ ⲙ̀ⲫ̀ⲣⲟ: ⲙ̀Ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ: ⲁϥⲧⲁⲥⲑⲟ ⲛ̀Ⲁ̀ⲇⲁⲙ: ⲉ̀ⲧⲉϥⲁⲣⲭⲏ ⲛ̀ⲕⲉⲥⲟⲡ.",
@@ -388,7 +394,10 @@
         "coptic": "ⲉ̀ⲧⲉϥⲁⲣⲭⲏ ⲛ̀ⲕⲉⲥⲟⲡ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "He opened the gate, of Paradise, and restored Adam, to his authority."
+    }
   },
   {
     "coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲙⲁⲣⲓⲁ: ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲱⲁⲕⲓⲙ: ⲁⲛⲥⲟⲩⲉⲛ Ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲭⲁⲛⲟⲃⲓ ⲉ̀ⲃⲟⲗ.",
@@ -437,6 +446,9 @@
         "coptic": "ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ."
       }
     ],
-    "side": 1
+    "side": 1,
+    "sung": {
+      "english": "And we also pray, that we may win mercy, through your intercessions, with the Lover of Mankind."
+    }
   }
 ]
