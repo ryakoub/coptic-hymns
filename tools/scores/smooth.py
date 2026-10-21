@@ -4,7 +4,7 @@ score's rhythm (their written lengths), so the cursor doesn't jitter from note t
   python3 tools/scores/smooth.py <prepared folder> <draft.taps.json> [<edited.taps.json>] <out.taps.json>
 
 draft.taps.json comes from align.py. edited.taps.json, when given, is the same marks after fixing some in Mark
-Sync (Export taps): any mark that differs from the draft counts as fixed by ear and is kept as it is.
+Sync or the app (Export taps, Share marks): any mark that differs from the draft counts as fixed by ear and is kept as it is.
 """
 import json, os, re, sys
 

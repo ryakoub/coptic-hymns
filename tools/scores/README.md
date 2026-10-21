@@ -34,7 +34,7 @@ Tried on Pi Gen Misi (your own MuseScore score) with the Mahragan 2023 recording
    python3 tools/scores/smooth.py <work folder> <work folder>/draft.taps.json <work folder>/smoothed.taps.json
    ```
 
-5. **Check by ear in Mark Sync**: a new hymn from `score.pdf` and the recording, then **Import taps** (`smoothed.taps.json`). In Edit mode, tap a mark that is off and use **Set to playhead** (or ±0.02 / ±0.1 s). Leave marks where they are on the page: their places come from the score. Then **Export taps** (any name) into the work folder.
+5. **Check by ear in the app** (My hymns; Mark Sync on the website works the same way): a new hymn from `score.pdf` and the recording, then **Options › Import marks…** (`smoothed.taps.json`). In Edit mode, tap a mark that is off and use **Set to playhead** (or ±0.02 / ±0.1 s). Leave marks where they are on the page: their places come from the score. Then **Options › Share marks** (Save to Files) into the work folder.
 
 6. **Smooth again around your fixes** (the marks you changed are kept, the notes around them follow):
    ```
