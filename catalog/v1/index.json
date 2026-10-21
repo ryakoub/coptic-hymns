@@ -1,6 +1,6 @@
 {
- "version": "579e6918c860cab7",
- "updated": "2026-10-21T23:31:15Z",
+ "version": "8be5eab6175f1bb8",
+ "updated": "2026-10-21T23:37:26Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2751,7 +2751,8 @@
     "english"
    ],
    "recordings": [
-    "leepon"
+    "leepon",
+    "leepon-english"
    ],
    "file": {
     "url": "catalog/v1/texts/leepon.json",
@@ -6224,6 +6225,36 @@
    ]
   },
   {
+   "id": "leepon-english",
+   "text": "leepon",
+   "duration": 55.38,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
+   "tune": {
+    "english": "English · St. Anthony Monastery"
+   },
+   "cantor": "St. Anthony Monastery, California",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/leepon-english.json",
+     "bytes": 70,
+     "sha256": "b068c8301d38a8ed83671ba273b70a3031aff23ee12f52dc4ccc92ede9c940d7",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/leepon-english/audio.m4a",
+     "role": "audio",
+     "bytes": 897427,
+     "sha256": "e3859eb7e3e43f38ec4651c4665d0aa5eaa4a38bd1c40e98b3c50a0052fefc17"
+    }
+   ]
+  },
+  {
    "id": "liturgy-gospel-response-annual",
    "text": "liturgy-gospel-response-annual",
    "duration": 108.54,
@@ -7383,7 +7414,7 @@
   {
    "id": "sunday-theotokia-1-english",
    "text": "sunday-theotokia-1",
-   "duration": 266.79,
+   "duration": 211.42,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -7403,10 +7434,10 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-1-english/audio.mp3",
+     "url": "content/english/sunday-theotokia-1-english/audio.m4a",
      "role": "audio",
-     "bytes": 4269811,
-     "sha256": "3f053abed6a99e7e9a4c9b236244e2353e0f8a16158cd2261bae1fcc58692183"
+     "bytes": 3421161,
+     "sha256": "f635ebfe4663e8990043574566a6babf6ebda6dae4b40c97a3ef4694ee3c7fc1"
     }
    ]
   },
