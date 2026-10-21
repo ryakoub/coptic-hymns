@@ -1,6 +1,6 @@
 {
- "version": "de0de69b85880692",
- "updated": "2026-10-21T00:56:05Z",
+ "version": "c3372a2f3761439b",
+ "updated": "2026-10-21T00:58:53Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -845,7 +845,6 @@
        },
        "entries": [
         "ten-theeno",
-        "ten-thinou",
         "tennav",
         "first-hoos",
         "first-hoos-lobsh",
@@ -853,11 +852,8 @@
         "second-hoos",
         "second-hoos-lobsh",
         "third-hoos",
-        "esmo-epchois",
-        "arihouo-chasf-third-hoos",
         "tenoue-n-khok",
         "fourth-hoos",
-        "hos-erof",
         "commemoration-of-saints",
         "doxology-virgin-midnight",
         "aripalin",
@@ -874,12 +870,10 @@
         "shashf-ensop",
         "sunday-theotokia-9",
         "teoi-enhekanos",
-        "evol-hiten-major",
         "sunday-theotokia-11",
         "sunday-theotokia-12",
         "sunday-theotokia-13",
         "sunday-theotokia-14",
-        "aven-pi-arshee-erevs",
         "sunday-theotokia-15",
         "nim-ghar",
         "adam-theotokias-conclusion",
@@ -894,7 +888,6 @@
          },
          "recordings": [
           "ten-theeno",
-          "ten-thinou",
           "tennav"
          ]
         },
@@ -911,11 +904,8 @@
           "second-hoos",
           "second-hoos-lobsh",
           "third-hoos",
-          "esmo-epchois",
-          "arihouo-chasf-third-hoos",
           "tenoue-n-khok",
-          "fourth-hoos",
-          "hos-erof"
+          "fourth-hoos"
          ]
         },
         {
@@ -959,12 +949,10 @@
           "shashf-ensop",
           "sunday-theotokia-9",
           "teoi-enhekanos",
-          "evol-hiten-major",
           "sunday-theotokia-11",
           "sunday-theotokia-12",
           "sunday-theotokia-13",
           "sunday-theotokia-14",
-          "aven-pi-arshee-erevs",
           "sunday-theotokia-15",
           "nim-ghar"
          ]
@@ -1035,7 +1023,6 @@
         "arabic": "الألحان"
        },
        "entries": [
-        "ethbe-ti-anastasis",
         "ou-katikisis",
         "ke-ypertou",
         "fai-etafenf",

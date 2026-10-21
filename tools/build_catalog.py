@@ -133,6 +133,8 @@ class Build:
         self.out_files = {}    # relative path under catalog/v1 -> bytes
         self.places = {}       # recording id -> ["collection/section", …] from its info.json
         self.group_of = {}     # recording id -> {"english": …, "arabic": …}, its sub-folder in its sections
+        self.kind_of = {}      # recording id -> its info.json "kind" (recital, melismatic, both)
+        self.held_back = []    # melismatic recordings left out of their places until a score follows them
 
     def warn(self, rid, msg): self.problems.append(("warn", rid, msg))
     def error(self, rid, msg): self.problems.append(("error", rid, msg))
@@ -240,6 +242,7 @@ class Build:
         if audio:
             entry["_audio"] = audio
         self.places[rid] = (info.get("places", []), info.get("order"))
+        self.kind_of[rid] = info.get("kind")
         if info.get("group"):
             g = info["group"]
             self.group_of[rid] = {"english": g} if isinstance(g, str) else g
@@ -316,9 +319,22 @@ class Build:
             for c in g["collections"]:
                 for s in c.get("sections", []):
                     sections[f"{c['id']}/{s.get('service') or s.get('id')}"] = s
+        # A melismatic hymn is learned with its score: until a hymn with notation follows its recording, it stays out
+        # of the seasons' lists (it is still in the catalog, and in programs that list it in library.json).
+        followed = set()
+        for path in (CONTENT / "notations").glob("*/notation.json"):
+            try:
+                n = json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                continue
+            if not n.get("draft"):
+                followed |= {r["recording"] for r in n.get("recordings", []) if r.get("recording")}
         placed = {}   # section id -> [(order, title, recording)]
         in_places = {}   # recording id -> the sections its own "places" put it in (its group applies there)
         for rid, (places, default_order) in self.places.items():
+            if places and self.kind_of.get(rid) == "melismatic" and rid not in followed:
+                self.held_back.append(rid)
+                continue
             for place in places:
                 order = default_order
                 if isinstance(place, dict):
@@ -409,8 +425,10 @@ class Build:
         placed_texts = {self.recordings[r]["text"] for r in used if r in self.recordings}
         for rid in sorted(set(self.recordings) - used):
             # Another tune or language of a placed hymn is reached from that hymn, so it needs no place of its own.
-            if self.recordings[rid]["text"] not in placed_texts:
+            if self.recordings[rid]["text"] not in placed_texts and rid not in self.held_back:
                 self.warn(rid, "not in the library yet")
+        if self.held_back:
+            print(f"  NOTE  melismatic, kept out of the seasons until a score follows them: {', '.join(sorted(self.held_back))}")
 
 
 def main():
