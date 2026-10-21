@@ -56,6 +56,7 @@ The Sunday Midnight Praises follow the Coptic Reader: a hymn's `order` is its nu
 | Every hymn, and every Mahragan hymn still to add | `docs/app/hymn-inventory.md`, by `tools/inventory/` ([how](tools/inventory/README.md)) |
 | Adding hymns from Tasbeha, timing them | [docs/app/adding-hymns.md](docs/app/adding-hymns.md) |
 | How hymns, tunes and the library are stored | [docs/app/data-model.md](docs/app/data-model.md) |
+| Syncing a MuseScore score with a recording (transliteration line, draft marks) | [tools/scores/README.md](tools/scores/README.md) |
 
 # Tools
 

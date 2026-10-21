@@ -12,3 +12,6 @@ catalog/**/* [0-9][0-9].json
 
 # YouTube scan cache (tools/inventory/scan.sh)
 tools/inventory/cache/
+
+# Audio libraries for tools/scores (python3 -m venv tools/scores/.venv)
+tools/scores/.venv/
