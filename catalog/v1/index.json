@@ -1,6 +1,6 @@
 {
- "version": "f8d70667149f64d7",
- "updated": "2026-10-22T13:22:54Z",
+ "version": "07c9e20d9854c9c0",
+ "updated": "2026-10-22T22:58:45Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5660,9 +5660,9 @@
    "text": "first-hoos-lobsh",
    "duration": 311.54,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 9,
+    "words": 9,
+    "of": 9
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -5673,8 +5673,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos-lobsh-english.json",
-     "bytes": 90,
-     "sha256": "630e077ad032fc4510ab1d856ba5f3fc5bbc1558045bbb5707997094e20bc6c7",
+     "bytes": 11696,
+     "sha256": "51385bdc5003ff5c7761701e42fa671c102f1d0dc56a17428957be4e81f7c743",
      "role": "timing"
     },
     {
@@ -5690,8 +5690,8 @@
    "text": "first-sunday-psali",
    "duration": 425.5,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 24,
+    "words": 24,
     "of": 24
    },
    "source": "https://tasbeha.org/hymn_library/view/112",
@@ -5700,8 +5700,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/first-sunday-psali.json",
-     "bytes": 86,
-     "sha256": "a7f61408668ed6cc30000e6f4dcbe7d8dfc8a7ce16089ba9a611b29ab4dc3077",
+     "bytes": 23215,
+     "sha256": "9a1e4033642785db91ccbfee4b624a15022d6ffcafe9d48e1143af955b5bca89",
      "role": "timing"
     },
     {
@@ -5717,9 +5717,9 @@
    "text": "first-sunday-psali",
    "duration": 361.85,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 24,
+    "words": 24,
+    "of": 24
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
    "tune": {
@@ -5730,8 +5730,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/first-sunday-psali-english.json",
-     "bytes": 94,
-     "sha256": "eb0801540c12129006a1461a81ff2d54e6524c4f18f01a9fdb1d2932af971311",
+     "bytes": 28078,
+     "sha256": "488ef6b7cde26475727f75e4931e787c345a10d3ddc603c35871f1fafd9531e8",
      "role": "timing"
     },
     {
@@ -8288,8 +8288,8 @@
    "text": "tennav",
    "duration": 520.95,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 1,
+    "words": 1,
     "of": 9
    },
    "source": "https://tasbeha.org/hymn_library/view/104",
@@ -8297,8 +8297,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/tennav.json",
-     "bytes": 62,
-     "sha256": "7d195e9de590aa45bca1a25462ba8354781bc1ae459b81ccd0eb3d4550c367dc",
+     "bytes": 3849,
+     "sha256": "97c45dd8c97720e38597872d302389be2655210240a6c7e9152256234408bcd7",
      "role": "timing"
     },
     {

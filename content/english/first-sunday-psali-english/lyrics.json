@@ -1,1 +1,1804 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.51,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.51
+      },
+      {
+        "text": "believe",
+        "start": 0.84,
+        "estimated": true
+      },
+      {
+        "text": "wherefore",
+        "start": 1.82,
+        "estimated": true
+      },
+      {
+        "text": "I",
+        "start": 3.12,
+        "estimated": true
+      },
+      {
+        "text": "spoke,",
+        "start": 3.45
+      },
+      {
+        "text": "with",
+        "start": 5.2,
+        "estimated": true
+      },
+      {
+        "text": "great",
+        "start": 6.07,
+        "estimated": true
+      },
+      {
+        "text": "strength,",
+        "start": 6.95
+      },
+      {
+        "text": "about",
+        "start": 7.66,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 9.09,
+        "estimated": true
+      },
+      {
+        "text": "great",
+        "start": 9.8,
+        "estimated": true
+      },
+      {
+        "text": "mercy,",
+        "start": 10.51
+      },
+      {
+        "text": "O",
+        "start": 11.86,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 12.53,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 13.21,
+        "estimated": true
+      },
+      {
+        "text": "powers.",
+        "start": 13.88
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 15.75,
+    "words": [
+      {
+        "text": "Help",
+        "start": 15.75
+      },
+      {
+        "text": "me",
+        "start": 16.88
+      },
+      {
+        "text": "my",
+        "start": 17.5,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 18.12
+      },
+      {
+        "text": "Jesus",
+        "start": 18.73,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 19.94,
+        "estimated": true
+      },
+      {
+        "text": "Compassionate,",
+        "start": 20.55
+      },
+      {
+        "text": "to",
+        "start": 22.57,
+        "estimated": true
+      },
+      {
+        "text": "glorify",
+        "start": 22.98
+      },
+      {
+        "text": "my",
+        "start": 24.38,
+        "estimated": true
+      },
+      {
+        "text": "Lady,",
+        "start": 24.85
+      },
+      {
+        "text": "Your",
+        "start": 26.56,
+        "estimated": true
+      },
+      {
+        "text": "Mother",
+        "start": 27.41
+      },
+      {
+        "text": "the",
+        "start": 28.61,
+        "estimated": true
+      },
+      {
+        "text": "bride.",
+        "start": 29.21
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 30.43,
+    "words": [
+      {
+        "text": "For",
+        "start": 30.43
+      },
+      {
+        "text": "truly,",
+        "start": 31.13
+      },
+      {
+        "text": "this",
+        "start": 34.26,
+        "estimated": true
+      },
+      {
+        "text": "Virgin,",
+        "start": 35.82
+      },
+      {
+        "text": "who",
+        "start": 37.27,
+        "estimated": true
+      },
+      {
+        "text": "is",
+        "start": 37.99,
+        "estimated": true
+      },
+      {
+        "text": "full",
+        "start": 38.71
+      },
+      {
+        "text": "of",
+        "start": 39.28,
+        "estimated": true
+      },
+      {
+        "text": "honor,",
+        "start": 39.85
+      },
+      {
+        "text": "was",
+        "start": 41.05,
+        "estimated": true
+      },
+      {
+        "text": "greatly",
+        "start": 41.65
+      },
+      {
+        "text": "exalted.",
+        "start": 42.85
+      }
+    ]
+  },
+  {
+    "line": "l4",
+    "start": 44.72,
+    "words": [
+      {
+        "text": "David",
+        "start": 44.72
+      },
+      {
+        "text": "spoke",
+        "start": 45.82
+      },
+      {
+        "text": "of",
+        "start": 46.66,
+        "estimated": true
+      },
+      {
+        "text": "her",
+        "start": 47.09,
+        "estimated": true
+      },
+      {
+        "text": "saying,",
+        "start": 47.51
+      },
+      {
+        "text": "\"The",
+        "start": 48.3,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 49.08
+      },
+      {
+        "text": "has",
+        "start": 49.7,
+        "estimated": true
+      },
+      {
+        "text": "chosen",
+        "start": 50.31
+      },
+      {
+        "text": "Zion,",
+        "start": 50.88
+      },
+      {
+        "text": "He",
+        "start": 51.5,
+        "estimated": true
+      },
+      {
+        "text": "came",
+        "start": 52.13,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 53.38,
+        "estimated": true
+      },
+      {
+        "text": "dwelt",
+        "start": 54.0,
+        "estimated": true
+      },
+      {
+        "text": "in",
+        "start": 54.62,
+        "estimated": true
+      },
+      {
+        "text": "her,",
+        "start": 55.25,
+        "estimated": true
+      },
+      {
+        "text": "in",
+        "start": 55.87,
+        "estimated": true
+      },
+      {
+        "text": "order",
+        "start": 56.49
+      },
+      {
+        "text": "to",
+        "start": 57.73,
+        "estimated": true
+      },
+      {
+        "text": "save",
+        "start": 58.35
+      },
+      {
+        "text": "us.\"",
+        "start": 58.95
+      }
+    ]
+  },
+  {
+    "line": "l5",
+    "start": 60.26,
+    "words": [
+      {
+        "text": "This",
+        "start": 60.26
+      },
+      {
+        "text": "is",
+        "start": 61.14,
+        "estimated": true
+      },
+      {
+        "text": "Mary,",
+        "start": 62.01
+      },
+      {
+        "text": "who",
+        "start": 63.7,
+        "estimated": true
+      },
+      {
+        "text": "brought",
+        "start": 64.55
+      },
+      {
+        "text": "unto",
+        "start": 65.22,
+        "estimated": true
+      },
+      {
+        "text": "us,",
+        "start": 66.58
+      },
+      {
+        "text": "the",
+        "start": 67.81,
+        "estimated": true
+      },
+      {
+        "text": "eternal,",
+        "start": 69.05
+      },
+      {
+        "text": "freedom.",
+        "start": 72.25
+      }
+    ]
+  },
+  {
+    "line": "l6",
+    "start": 75.06,
+    "words": [
+      {
+        "text": "Zachariah",
+        "start": 75.06
+      },
+      {
+        "text": "has",
+        "start": 76.83,
+        "estimated": true
+      },
+      {
+        "text": "said,",
+        "start": 77.41
+      },
+      {
+        "text": "\"The",
+        "start": 78.85
+      },
+      {
+        "text": "golden",
+        "start": 79.58
+      },
+      {
+        "text": "lampstand,",
+        "start": 80.62
+      },
+      {
+        "text": "which",
+        "start": 82.42
+      },
+      {
+        "text": "was",
+        "start": 83.81
+      },
+      {
+        "text": "made,",
+        "start": 84.85
+      },
+      {
+        "text": "with",
+        "start": 86.11
+      },
+      {
+        "text": "golden",
+        "start": 87.28
+      },
+      {
+        "text": "hands.\"",
+        "start": 88.41
+      }
+    ]
+  },
+  {
+    "line": "l7",
+    "start": 89.45,
+    "words": [
+      {
+        "text": "Isaiah",
+        "start": 89.45
+      },
+      {
+        "text": "said",
+        "start": 90.85
+      },
+      {
+        "text": "to",
+        "start": 91.98
+      },
+      {
+        "text": "us,",
+        "start": 92.72
+      },
+      {
+        "text": "with",
+        "start": 93.72
+      },
+      {
+        "text": "a",
+        "start": 94.29,
+        "estimated": true
+      },
+      {
+        "text": "joyful",
+        "start": 94.87,
+        "estimated": true
+      },
+      {
+        "text": "voice,",
+        "start": 96.02
+      },
+      {
+        "text": "that",
+        "start": 96.92,
+        "estimated": true
+      },
+      {
+        "text": "\"She",
+        "start": 97.38
+      },
+      {
+        "text": "will",
+        "start": 97.81,
+        "estimated": true
+      },
+      {
+        "text": "give",
+        "start": 98.23,
+        "estimated": true
+      },
+      {
+        "text": "birth",
+        "start": 99.09
+      },
+      {
+        "text": "to,",
+        "start": 99.69,
+        "estimated": true
+      },
+      {
+        "text": "Emmanuel",
+        "start": 100.28
+      },
+      {
+        "text": "for",
+        "start": 102.69
+      },
+      {
+        "text": "us.\"",
+        "start": 103.25
+      }
+    ]
+  },
+  {
+    "line": "l8",
+    "start": 103.73,
+    "words": [
+      {
+        "text": "+",
+        "start": 103.73,
+        "estimated": true
+      },
+      {
+        "text": "This",
+        "start": 104.42
+      },
+      {
+        "text": "is",
+        "start": 104.95,
+        "estimated": true
+      },
+      {
+        "text": "Jerusalem,",
+        "start": 105.48
+      },
+      {
+        "text": "the",
+        "start": 107.58,
+        "estimated": true
+      },
+      {
+        "text": "city",
+        "start": 108.11,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 109.16,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 109.69,
+        "estimated": true
+      },
+      {
+        "text": "God,",
+        "start": 110.21
+      },
+      {
+        "text": "the",
+        "start": 111.55,
+        "estimated": true
+      },
+      {
+        "text": "throne",
+        "start": 112.88
+      },
+      {
+        "text": "of",
+        "start": 113.68,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 114.08,
+        "estimated": true
+      },
+      {
+        "text": "ranks,",
+        "start": 114.48
+      },
+      {
+        "text": "of",
+        "start": 115.72,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 116.95,
+        "estimated": true
+      },
+      {
+        "text": "Cherubim.",
+        "start": 118.18
+      }
+    ]
+  },
+  {
+    "line": "l9",
+    "start": 119.05,
+    "words": [
+      {
+        "text": "Ezekiel",
+        "start": 119.05
+      },
+      {
+        "text": "has",
+        "start": 120.57,
+        "estimated": true
+      },
+      {
+        "text": "witnessed,",
+        "start": 121.08
+      },
+      {
+        "text": "and",
+        "start": 122.78,
+        "estimated": true
+      },
+      {
+        "text": "revealed",
+        "start": 123.35
+      },
+      {
+        "text": "this",
+        "start": 124.76,
+        "estimated": true
+      },
+      {
+        "text": "to",
+        "start": 125.24,
+        "estimated": true
+      },
+      {
+        "text": "us,",
+        "start": 125.71,
+        "estimated": true
+      },
+      {
+        "text": "saying",
+        "start": 126.18
+      },
+      {
+        "text": "\"I",
+        "start": 126.91,
+        "estimated": true
+      },
+      {
+        "text": "saw",
+        "start": 127.65,
+        "estimated": true
+      },
+      {
+        "text": "a",
+        "start": 128.38,
+        "estimated": true
+      },
+      {
+        "text": "door,",
+        "start": 129.12
+      },
+      {
+        "text": "to",
+        "start": 130.09,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 131.06,
+        "estimated": true
+      },
+      {
+        "text": "east.",
+        "start": 132.03
+      }
+    ]
+  },
+  {
+    "line": "l10",
+    "start": 134.18,
+    "words": [
+      {
+        "text": "The",
+        "start": 134.18
+      },
+      {
+        "text": "Lord",
+        "start": 135.18
+      },
+      {
+        "text": "the",
+        "start": 135.9,
+        "estimated": true
+      },
+      {
+        "text": "Savior,",
+        "start": 136.61
+      },
+      {
+        "text": "entered",
+        "start": 137.91
+      },
+      {
+        "text": "into",
+        "start": 139.76,
+        "estimated": true
+      },
+      {
+        "text": "it,",
+        "start": 141.0,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 141.61
+      },
+      {
+        "text": "it",
+        "start": 142.57,
+        "estimated": true
+      },
+      {
+        "text": "remained,",
+        "start": 143.53
+      },
+      {
+        "text": "thoroughly",
+        "start": 144.99
+      },
+      {
+        "text": "shut",
+        "start": 146.31,
+        "estimated": true
+      },
+      {
+        "text": "as",
+        "start": 146.74,
+        "estimated": true
+      },
+      {
+        "text": "before.\"",
+        "start": 147.18
+      }
+    ]
+  },
+  {
+    "line": "l11",
+    "start": 149.05,
+    "words": [
+      {
+        "text": "All",
+        "start": 149.05
+      },
+      {
+        "text": "the",
+        "start": 149.61,
+        "estimated": true
+      },
+      {
+        "text": "nations",
+        "start": 150.18,
+        "estimated": true
+      },
+      {
+        "text": "sing,",
+        "start": 151.31
+      },
+      {
+        "text": "with",
+        "start": 152.09,
+        "estimated": true
+      },
+      {
+        "text": "different",
+        "start": 152.86,
+        "estimated": true
+      },
+      {
+        "text": "tongues,",
+        "start": 155.18
+      },
+      {
+        "text": "to",
+        "start": 156.13,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 156.6,
+        "estimated": true
+      },
+      {
+        "text": "Theotokos,",
+        "start": 157.08
+      },
+      {
+        "text": "the",
+        "start": 159.71,
+        "estimated": true
+      },
+      {
+        "text": "Mother",
+        "start": 160.59
+      },
+      {
+        "text": "of",
+        "start": 161.44,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 161.86,
+        "estimated": true
+      },
+      {
+        "text": "Messiah.",
+        "start": 162.28
+      }
+    ]
+  },
+  {
+    "line": "l12",
+    "start": 163.92,
+    "words": [
+      {
+        "text": "Mary",
+        "start": 163.92
+      },
+      {
+        "text": "the",
+        "start": 165.41,
+        "estimated": true
+      },
+      {
+        "text": "chaste,",
+        "start": 166.15
+      },
+      {
+        "text": "the",
+        "start": 167.19,
+        "estimated": true
+      },
+      {
+        "text": "joy",
+        "start": 167.71
+      },
+      {
+        "text": "of",
+        "start": 168.27,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 168.83,
+        "estimated": true
+      },
+      {
+        "text": "righteous,",
+        "start": 169.38
+      },
+      {
+        "text": "and",
+        "start": 170.78
+      },
+      {
+        "text": "truly",
+        "start": 171.27,
+        "estimated": true
+      },
+      {
+        "text": "she",
+        "start": 172.23,
+        "estimated": true
+      },
+      {
+        "text": "is",
+        "start": 172.72,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 173.2,
+        "estimated": true
+      },
+      {
+        "text": "joy,",
+        "start": 173.68
+      },
+      {
+        "text": "of",
+        "start": 174.67,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 175.66,
+        "estimated": true
+      },
+      {
+        "text": "faithful.",
+        "start": 176.66
+      }
+    ]
+  },
+  {
+    "line": "l13",
+    "start": 178.15,
+    "words": [
+      {
+        "text": "You",
+        "start": 178.15
+      },
+      {
+        "text": "are",
+        "start": 178.74,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 179.91,
+        "estimated": true
+      },
+      {
+        "text": "tabernacle,",
+        "start": 180.5
+      },
+      {
+        "text": "and",
+        "start": 183.82,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 184.65,
+        "estimated": true
+      },
+      {
+        "text": "ark,",
+        "start": 185.49,
+        "estimated": true
+      },
+      {
+        "text": "which",
+        "start": 186.32
+      },
+      {
+        "text": "Moses",
+        "start": 186.88,
+        "estimated": true
+      },
+      {
+        "text": "has",
+        "start": 187.99,
+        "estimated": true
+      },
+      {
+        "text": "made,",
+        "start": 188.55
+      },
+      {
+        "text": "with",
+        "start": 190.3,
+        "estimated": true
+      },
+      {
+        "text": "great",
+        "start": 191.17,
+        "estimated": true
+      },
+      {
+        "text": "honor.",
+        "start": 192.05
+      }
+    ]
+  },
+  {
+    "line": "l14",
+    "start": 193.66,
+    "words": [
+      {
+        "text": "Beyond",
+        "start": 193.66
+      },
+      {
+        "text": "all",
+        "start": 194.41,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 195.16,
+        "estimated": true
+      },
+      {
+        "text": "thoughts,",
+        "start": 195.91
+      },
+      {
+        "text": "of",
+        "start": 196.99,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 198.07,
+        "estimated": true
+      },
+      {
+        "text": "heavens,",
+        "start": 199.15
+      },
+      {
+        "text": "is",
+        "start": 200.65,
+        "estimated": true
+      },
+      {
+        "text": "this",
+        "start": 201.4,
+        "estimated": true
+      },
+      {
+        "text": "mysterious",
+        "start": 202.15
+      },
+      {
+        "text": "matter,",
+        "start": 203.55
+      },
+      {
+        "text": "of",
+        "start": 204.7,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 205.27,
+        "estimated": true
+      },
+      {
+        "text": "mercy",
+        "start": 205.85
+      },
+      {
+        "text": "seat.",
+        "start": 206.95
+      }
+    ]
+  },
+  {
+    "line": "l15",
+    "start": 208.46,
+    "words": [
+      {
+        "text": "Great",
+        "start": 208.46
+      },
+      {
+        "text": "is",
+        "start": 209.08,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 209.69,
+        "estimated": true
+      },
+      {
+        "text": "glory,",
+        "start": 210.31
+      },
+      {
+        "text": "of",
+        "start": 211.55,
+        "estimated": true
+      },
+      {
+        "text": "your",
+        "start": 212.16,
+        "estimated": true
+      },
+      {
+        "text": "virginity,",
+        "start": 212.78
+      },
+      {
+        "text": "O",
+        "start": 215.93,
+        "estimated": true
+      },
+      {
+        "text": "full",
+        "start": 216.72
+      },
+      {
+        "text": "of",
+        "start": 217.3,
+        "estimated": true
+      },
+      {
+        "text": "glory,",
+        "start": 217.88
+      },
+      {
+        "text": "O",
+        "start": 219.99,
+        "estimated": true
+      },
+      {
+        "text": "Saint",
+        "start": 221.05
+      },
+      {
+        "text": "Mary.",
+        "start": 221.62
+      }
+    ]
+  },
+  {
+    "line": "l16",
+    "start": 223.49,
+    "words": [
+      {
+        "text": "The",
+        "start": 223.49
+      },
+      {
+        "text": "honored",
+        "start": 223.98
+      },
+      {
+        "text": "vessel,",
+        "start": 225.36
+      },
+      {
+        "text": "and",
+        "start": 227.12,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 228.0,
+        "estimated": true
+      },
+      {
+        "text": "lampstand,",
+        "start": 228.88
+      },
+      {
+        "text": "the",
+        "start": 230.62,
+        "estimated": true
+      },
+      {
+        "text": "pure",
+        "start": 231.49,
+        "estimated": true
+      },
+      {
+        "text": "censer,",
+        "start": 233.22
+      },
+      {
+        "text": "full",
+        "start": 234.82,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 235.62,
+        "estimated": true
+      },
+      {
+        "text": "blessings.",
+        "start": 236.42
+      }
+    ]
+  },
+  {
+    "line": "l17",
+    "start": 238.16,
+    "words": [
+      {
+        "text": "All",
+        "start": 238.16
+      },
+      {
+        "text": "the",
+        "start": 239.27,
+        "estimated": true
+      },
+      {
+        "text": "high",
+        "start": 240.39
+      },
+      {
+        "text": "names,",
+        "start": 240.89,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 241.9,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 242.41,
+        "estimated": true
+      },
+      {
+        "text": "incorporeal,",
+        "start": 242.91
+      },
+      {
+        "text": "did",
+        "start": 245.55,
+        "estimated": true
+      },
+      {
+        "text": "not",
+        "start": 246.21,
+        "estimated": true
+      },
+      {
+        "text": "reach",
+        "start": 246.87,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 247.52,
+        "estimated": true
+      },
+      {
+        "text": "height,",
+        "start": 248.18
+      },
+      {
+        "text": "of",
+        "start": 249.03,
+        "estimated": true
+      },
+      {
+        "text": "your",
+        "start": 249.87,
+        "estimated": true
+      },
+      {
+        "text": "blessedness.",
+        "start": 250.71
+      }
+    ]
+  },
+  {
+    "line": "l18",
+    "start": 252.48,
+    "words": [
+      {
+        "text": "You",
+        "start": 252.48
+      },
+      {
+        "text": "resemble",
+        "start": 253.08,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 254.85,
+        "estimated": true
+      },
+      {
+        "text": "rod,",
+        "start": 255.45
+      },
+      {
+        "text": "of",
+        "start": 256.85,
+        "estimated": true
+      },
+      {
+        "text": "Aaron,",
+        "start": 258.25
+      },
+      {
+        "text": "which",
+        "start": 259.89,
+        "estimated": true
+      },
+      {
+        "text": "blossomed",
+        "start": 260.71
+      },
+      {
+        "text": "and",
+        "start": 261.94,
+        "estimated": true
+      },
+      {
+        "text": "budded,",
+        "start": 262.36
+      },
+      {
+        "text": "and",
+        "start": 264.13,
+        "estimated": true
+      },
+      {
+        "text": "produced",
+        "start": 265.02
+      },
+      {
+        "text": "its",
+        "start": 265.97,
+        "estimated": true
+      },
+      {
+        "text": "fruit.",
+        "start": 266.28
+      }
+    ]
+  },
+  {
+    "line": "l19",
+    "start": 267.83,
+    "words": [
+      {
+        "text": "You",
+        "start": 267.83
+      },
+      {
+        "text": "are",
+        "start": 268.45,
+        "estimated": true
+      },
+      {
+        "text": "exalted,",
+        "start": 269.68
+      },
+      {
+        "text": "more",
+        "start": 270.81,
+        "estimated": true
+      },
+      {
+        "text": "than",
+        "start": 271.56,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 271.94,
+        "estimated": true
+      },
+      {
+        "text": "Cherubim,",
+        "start": 272.31
+      },
+      {
+        "text": "and",
+        "start": 275.49,
+        "estimated": true
+      },
+      {
+        "text": "honored",
+        "start": 276.55
+      },
+      {
+        "text": "more,",
+        "start": 278.14,
+        "estimated": true
+      },
+      {
+        "text": "than",
+        "start": 279.2,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 279.73,
+        "estimated": true
+      },
+      {
+        "text": "Seraphim.",
+        "start": 280.26
+      }
+    ]
+  },
+  {
+    "line": "l20",
+    "start": 282.19,
+    "words": [
+      {
+        "text": "The",
+        "start": 282.19
+      },
+      {
+        "text": "Son",
+        "start": 282.71
+      },
+      {
+        "text": "of",
+        "start": 283.31
+      },
+      {
+        "text": "God",
+        "start": 283.95
+      },
+      {
+        "text": "our",
+        "start": 284.58
+      },
+      {
+        "text": "God,",
+        "start": 285.21
+      },
+      {
+        "text": "you",
+        "start": 286.55
+      },
+      {
+        "text": "gave",
+        "start": 287.15
+      },
+      {
+        "text": "birth",
+        "start": 288.18
+      },
+      {
+        "text": "to,",
+        "start": 289.45
+      },
+      {
+        "text": "we",
+        "start": 289.89,
+        "estimated": true
+      },
+      {
+        "text": "glorify",
+        "start": 290.34,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 291.67,
+        "estimated": true
+      },
+      {
+        "text": "as",
+        "start": 292.11,
+        "estimated": true
+      },
+      {
+        "text": "God,",
+        "start": 292.56
+      },
+      {
+        "text": "and",
+        "start": 293.33
+      },
+      {
+        "text": "also",
+        "start": 293.98
+      },
+      {
+        "text": "worship",
+        "start": 295.08
+      },
+      {
+        "text": "Him.",
+        "start": 296.16
+      }
+    ]
+  },
+  {
+    "line": "l21",
+    "start": 297.19,
+    "words": [
+      {
+        "text": "He",
+        "start": 297.19
+      },
+      {
+        "text": "who",
+        "start": 297.8,
+        "estimated": true
+      },
+      {
+        "text": "abides",
+        "start": 298.42
+      },
+      {
+        "text": "in",
+        "start": 299.59,
+        "estimated": true
+      },
+      {
+        "text": "light,",
+        "start": 299.98
+      },
+      {
+        "text": "whom",
+        "start": 300.6,
+        "estimated": true
+      },
+      {
+        "text": "no",
+        "start": 301.21,
+        "estimated": true
+      },
+      {
+        "text": "one",
+        "start": 301.83,
+        "estimated": true
+      },
+      {
+        "text": "can",
+        "start": 303.06,
+        "estimated": true
+      },
+      {
+        "text": "approach,",
+        "start": 303.68
+      },
+      {
+        "text": "showed",
+        "start": 304.58,
+        "estimated": true
+      },
+      {
+        "text": "us",
+        "start": 305.48,
+        "estimated": true
+      },
+      {
+        "text": "His",
+        "start": 305.93,
+        "estimated": true
+      },
+      {
+        "text": "miracles,",
+        "start": 306.38
+      },
+      {
+        "text": "and",
+        "start": 308.91
+      },
+      {
+        "text": "you",
+        "start": 309.72,
+        "estimated": true
+      },
+      {
+        "text": "fed",
+        "start": 310.54,
+        "estimated": true
+      },
+      {
+        "text": "Him.",
+        "start": 311.35
+      }
+    ]
+  },
+  {
+    "line": "l22",
+    "start": 312.55,
+    "words": [
+      {
+        "text": "Hail",
+        "start": 312.55
+      },
+      {
+        "text": "to",
+        "start": 313.17,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 313.79,
+        "estimated": true
+      },
+      {
+        "text": "Mary,",
+        "start": 314.41
+      },
+      {
+        "text": "the",
+        "start": 316.5,
+        "estimated": true
+      },
+      {
+        "text": "beautiful",
+        "start": 317.55
+      },
+      {
+        "text": "dove,",
+        "start": 319.39,
+        "estimated": true
+      },
+      {
+        "text": "full",
+        "start": 320.62,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 321.23,
+        "estimated": true
+      },
+      {
+        "text": "wisdom,",
+        "start": 321.85
+      },
+      {
+        "text": "the",
+        "start": 322.96,
+        "estimated": true
+      },
+      {
+        "text": "Mother",
+        "start": 323.52
+      },
+      {
+        "text": "of",
+        "start": 324.43,
+        "estimated": true
+      },
+      {
+        "text": "Jesus",
+        "start": 324.88,
+        "estimated": true
+      },
+      {
+        "text": "Christ.",
+        "start": 325.79
+      }
+    ]
+  },
+  {
+    "line": "l23",
+    "start": 326.98,
+    "words": [
+      {
+        "text": "For",
+        "start": 326.98
+      },
+      {
+        "text": "the",
+        "start": 327.54,
+        "estimated": true
+      },
+      {
+        "text": "rest",
+        "start": 328.1,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 328.66,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 329.22,
+        "estimated": true
+      },
+      {
+        "text": "days,",
+        "start": 329.78
+      },
+      {
+        "text": "we",
+        "start": 330.77,
+        "estimated": true
+      },
+      {
+        "text": "will",
+        "start": 331.76,
+        "estimated": true
+      },
+      {
+        "text": "praise",
+        "start": 332.75
+      },
+      {
+        "text": "you,",
+        "start": 334.03,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 334.67,
+        "estimated": true
+      },
+      {
+        "text": "full",
+        "start": 335.3,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 335.94,
+        "estimated": true
+      },
+      {
+        "text": "glory,",
+        "start": 336.58
+      },
+      {
+        "text": "and",
+        "start": 337.77,
+        "estimated": true
+      },
+      {
+        "text": "clothed",
+        "start": 338.36
+      },
+      {
+        "text": "with",
+        "start": 339.15,
+        "estimated": true
+      },
+      {
+        "text": "purity.",
+        "start": 339.55
+      }
+    ]
+  },
+  {
+    "line": "l24",
+    "start": 341.75,
+    "words": [
+      {
+        "text": "Be",
+        "start": 341.75
+      },
+      {
+        "text": "patient",
+        "start": 342.15,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 342.94,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 343.33,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 344.12,
+        "estimated": true
+      },
+      {
+        "text": "Man,",
+        "start": 344.51
+      },
+      {
+        "text": "with",
+        "start": 345.56,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 346.6,
+        "estimated": true
+      },
+      {
+        "text": "servant,",
+        "start": 347.65
+      },
+      {
+        "text": "and",
+        "start": 348.58,
+        "estimated": true
+      },
+      {
+        "text": "forgive",
+        "start": 349.05,
+        "estimated": true
+      },
+      {
+        "text": "us",
+        "start": 350.46,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 350.92,
+        "estimated": true
+      },
+      {
+        "text": "sins,",
+        "start": 351.39
+      },
+      {
+        "text": "and",
+        "start": 353.0,
+        "estimated": true
+      },
+      {
+        "text": "accept",
+        "start": 354.62
+      },
+      {
+        "text": "us.",
+        "start": 355.58
+      }
+    ]
+  }
+]
