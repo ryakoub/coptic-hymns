@@ -12,6 +12,13 @@ tools/scores/.venv/bin/python tools/scores/pdf_notes.py "<book.pdf>" <first page
 ```
 His noteheads, flags, dots, flats and barlines are characters, and his beams drawn shapes, so pitch comes from a note's height on the staff and the key signature, and length from its head, beams or flag, and dot. It checks that every bar adds up (the time signature is taken from the bars) and names any that don't. Tried on the first of the Seven Tunes against his MIDI: the same 540 notes and 86 bars, pitch right for all, length for 97% (dotted eighth and sixteenth pairs drawn without their dot read as two eighths). On Ti Shouri (page 2027): 135 notes in 60 bars of 2/4, all bars full; synced with the Mahragan 2026 recording, the marks came within 0.22 s of hand-placed ones (median), 85% within half a second.
 
+## To look like his page (for him to check)
+
+`like_book.py` takes a score made from his page (above, then `prepare.sh`) and makes it look like his: the same bars on each line, his title, maqam and source line at the top and his credit at the bottom, his marks over and under the notes (diamonds, circles, lines, dots, pause), his note colours, and his key signature with the half-flats of maqams like Bayati (each half-flat note carries its sign unseen, as he writes them). Ties aren't drawn yet. Not for the app: the words there are larger and the bars wider.
+```
+tools/scores/.venv/bin/python tools/scores/like_book.py "<book.pdf>" <first page> <last page> <work folder>/score.mscx <work folder>/book.mscx
+```
+
 ## A recording sung part by part
 
 When the cantor sings some verses to the tune and others the fast way (as in services, for time), give the second each part starts and line them up part by part:
