@@ -19,7 +19,8 @@ MARKS = {"`": "̀", "~": "̇"}
 # The old Coptic font: each ASCII key stands for a Coptic letter (checked on the Seven Tunes: ; is ϯ, ] is ϣ).
 LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϣϧϩϫϥϭϣϯ"))
 LETTERS.update({k.upper(): v.upper() for k, v in LETTERS.items() if k.isalpha()})
-LETTERS.update({'"': "Ϧ", "|": "Ϩ", ">": ":", ".": ".", ":": ":", "(": "(", ")": ")"})
+# Shifted keys are capitals ("Ϧ, |Ϩ, :Ϯ, {Ϭ, }Ϣ); the colon is >.
+LETTERS.update({'"': "Ϧ", "|": "Ϩ", ":": "Ϯ", "{": "Ϭ", "}": "Ϣ", ">": ":", ".": ".", "(": "(", ")": ")"})
 LYRICS_FONT = "ArialCoptic"             # installed on the Mac (ArialCoptic.ttf, as in coptic-hymns/fonts)
 VERSE_LINES = [0, 2, 5, 8, 11]            # lyric line of each verse (counted from 0)
 COLOURS = {"red": (126, 0, 0), "blue": (0, 0, 126)}

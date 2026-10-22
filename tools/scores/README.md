@@ -4,13 +4,21 @@ From a score's source file (MuseScore `.mscz`/`.mscx`, or MusicXML opened in Mus
 
 Tried on Pi Gen Misi (your own MuseScore score) with the Mahragan 2023 recording, October 2026: the automatic marks were close for most bars; 6 were fixed by ear, and smoothing by the score's rhythm made the cursor steady.
 
+## From the PDF alone (no MIDI)
+
+For one of Fr. Abraam's hymns without his MIDI file, read the notes from his PDF pages into a MIDI file, then go on as above with `midi_lyrics.py`:
+```
+tools/scores/.venv/bin/python tools/scores/pdf_notes.py "<book.pdf>" <first page> <last page> <work folder>/notes.mid
+```
+His noteheads, flags, dots, flats and barlines are characters, and his beams drawn shapes, so pitch comes from a note's height on the staff and the key signature, and length from its head, beams or flag, and dot. It checks that every bar adds up (the time signature is taken from the bars) and names any that don't. Tried on the first of the Seven Tunes against his MIDI: the same 540 notes and 86 bars, pitch right for all, length for 97% (dotted eighth and sixteenth pairs drawn without their dot read as two eighths). On Ti Shouri (page 2027): 135 notes in 60 bars of 2/4, all bars full; synced with the Mahragan 2026 recording, the marks came within 0.22 s of hand-placed ones (median), 85% within half a second.
+
 ## A recording sung part by part
 
 When the cantor sings some verses to the tune and others the fast way (as in services, for time), give the second each part starts and line them up part by part:
 ```
 tools/scores/.venv/bin/python tools/scores/sync_verses.py <work folder> "<recording>" <work folder>/marks.taps.json --times 6.5 9 77 147 163 178 --fast 4 5
 ```
-The parts are found from the score's words ("Kyrie eleison", then each verse). Parts sung to the tune get a mark on every note, found by following the cantor's voice (its pitch) against the written notes, in whatever key and octave he sings; parts sung fast get a mark on each syllable. Then `package.py` (step 7 below) with `--name`: the backup sets the score's small cursor and gliding to the end of each line. Give the app M4A: `ffmpeg -i in.ogg -c:a aac_at -b:a 128k out.m4a` (the app's player misreads the length of Ogg recordings).
+The parts are found from the score's words ("Kyrie eleison", then each verse). Parts sung to the tune get a mark on every note, found by following the cantor's voice (its pitch) against the written notes, in whatever key and octave he sings; parts sung fast get a mark on each syllable. A recording with no one clear voice (a choir in harmony) is followed by its harmony instead, as align.py does (found by itself, or `--choir`). Then `package.py` (step 7 below) with `--name`: the backup sets the score's small cursor and gliding to the end of each line. Give the app M4A: `ffmpeg -i in.ogg -c:a aac_at -b:a 128k out.m4a` (the app's player misreads the length of Ogg recordings).
 
 Then a steady pace is fitted through each part sung to the tune, like a conductor's beat: a smooth curve that bends where the cantor clearly holds a tone longer or hurries and stays even elsewhere, so the cursor moves without note-to-note jumps. `--smoothness` (0.05) sets the balance: higher is steadier, lower follows held tones more; `--exact` keeps each note where the voice matching puts it.
 

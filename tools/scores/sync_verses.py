@@ -19,7 +19,7 @@ import argparse, json, os, re, subprocess, tempfile
 import numpy as np
 import librosa
 
-from align import SR, STAFF_MIDDLE, page_scale
+from align import SR, STAFF_MIDDLE, page_scale, chroma, HOP as CHROMA_HOP
 
 HOP = 256                         # 86 pitch readings a second
 FPS = SR / HOP
@@ -91,6 +91,24 @@ def follow_voice(part, end_t, voice, voiced, rec_a, rec_b, offset):
         while f not in first and f > 0:
             f -= 1
         times.append(rec_a + first.get(f, 0) / FPS)
+    return times, D[-1, -1] / len(wp)
+
+
+def follow_sound(part, end_t, S, R, rec_a, rec_b, shift):
+    """For a choir, where there is no single voice to follow: the score's sound (score.wav) matched to the
+    recording by harmony (chroma), as align.py does, part by part. Returns the times and the average cost."""
+    f = lambda t: int(round(t * SR / CHROMA_HOP))
+    sa, sb = f(part[0]["t"]), min(f(end_t), S.shape[1])
+    D, wp = librosa.sequence.dtw(X=S[:, sa:sb], Y=np.roll(R[:, f(rec_a):f(rec_b)], shift, axis=0), metric="cosine")
+    first = {}
+    for i, j in wp[::-1]:
+        first.setdefault(int(i), int(j))
+    times = []
+    for n in part:
+        i = min(f(n["t"]) - sa, sb - sa - 1)
+        while i not in first and i > 0:
+            i -= 1
+        times.append(rec_a + first.get(i, 0) * CHROMA_HOP / SR)
     return times, D[-1, -1] / len(wp)
 
 
@@ -174,6 +192,7 @@ def main():
     ap.add_argument("--times", nargs="+", type=float, required=True)
     ap.add_argument("--fast", nargs="*", type=int, default=[])
     ap.add_argument("--exact", action="store_true", help="each note where the voice matching puts it, not a steady tempo")
+    ap.add_argument("--choir", action="store_true", help="follow the harmony, not one voice (found by itself too)")
     ap.add_argument("--smoothness", type=float, default=0.05, help="higher: steadier; lower: follows held tones more")
     a = ap.parse_args()
 
@@ -194,29 +213,38 @@ def main():
     bounds = starts + [len(notes)]
     ends = [notes[b]["t"] if b < len(notes) else notes[-1]["t"] + 1 for b in bounds[1:]]
 
-    # The cantor's key and octave: start from the difference of the middle pitches, try a few semitones round it.
     sung = [k for k in range(len(starts)) if k + 1 not in a.fast]
-    sung_mid = np.nanmedian(np.concatenate([voice[int(a.times[k] * FPS):int(a.times[k + 1] * FPS)] for k in sung]))
-    written_mid = np.median([n["pitch"] for k in sung for n in notes[bounds[k]:bounds[k + 1]]])
-    guess = int(round(written_mid - sung_mid))
     k0 = max(sung, key=lambda k: bounds[k + 1] - bounds[k])
-    offset = min(range(guess - 2, guess + 3), key=lambda o: follow_voice(
-        notes[bounds[k0]:bounds[k0 + 1]], ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], o)[1])
-    # His tuning: a cantor may sit a little sharp or flat of the written pitches all through. Measured on the
-    # notes as first matched, then everything is matched again with it (exact semitones made the start of
-    # Tune 2 rush through ten notes in a second).
-    part0 = notes[bounds[k0]:bounds[k0 + 1]]
-    first, _ = follow_voice(part0, ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], offset)
-    diffs = []
-    for i, n in enumerate(part0[:-1]):
-        seg = voice[int(first[i] * FPS):int(first[i + 1] * FPS)]
-        seg = seg[np.isfinite(seg)]
-        if len(seg):
-            d = np.median(seg) - (n["pitch"] - offset)
-            if abs(d) < 1.5:
-                diffs.append(d)
-    offset = offset - float(np.median(diffs)) if diffs else offset
-    print(f"the cantor sings {offset:.2f} semitones below the written notes")
+    heard = np.concatenate([voiced[int(a.times[k] * FPS):int(a.times[k + 1] * FPS)] for k in sung])
+    choir = a.choir or heard.mean() < 0.4
+    if choir:
+        # No single voice to follow (a choir, or voices in harmony): match by the sound's harmony instead.
+        S, R = chroma(os.path.join(a.prepared, "score.wav")), chroma(wav)
+        part0 = notes[bounds[k0]:bounds[k0 + 1]]
+        shift = min(range(12), key=lambda sh: follow_sound(part0, ends[k0], S, R, a.times[k0], a.times[k0 + 1], sh)[1])
+        print(f"a choir (one clear voice {heard.mean():.0%} of the time): following the harmony, transposed {shift}")
+    else:
+        # The cantor's key and octave: start from the difference of the middle pitches, try a few semitones round it.
+        sung_mid = np.nanmedian(np.concatenate([voice[int(a.times[k] * FPS):int(a.times[k + 1] * FPS)] for k in sung]))
+        written_mid = np.median([n["pitch"] for k in sung for n in notes[bounds[k]:bounds[k + 1]]])
+        guess = int(round(written_mid - sung_mid))
+        offset = min(range(guess - 2, guess + 3), key=lambda o: follow_voice(
+            notes[bounds[k0]:bounds[k0 + 1]], ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], o)[1])
+        # His tuning: a cantor may sit a little sharp or flat of the written pitches all through. Measured on the
+        # notes as first matched, then everything is matched again with it (exact semitones made the start of
+        # Tune 2 rush through ten notes in a second).
+        part0 = notes[bounds[k0]:bounds[k0 + 1]]
+        first, _ = follow_voice(part0, ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], offset)
+        diffs = []
+        for i, n in enumerate(part0[:-1]):
+            seg = voice[int(first[i] * FPS):int(first[i + 1] * FPS)]
+            seg = seg[np.isfinite(seg)]
+            if len(seg):
+                d = np.median(seg) - (n["pitch"] - offset)
+                if abs(d) < 1.5:
+                    diffs.append(d)
+        offset = offset - float(np.median(diffs)) if diffs else offset
+        print(f"the cantor sings {offset:.2f} semitones below the written notes")
 
     scale, w, h = page_scale(a.prepared)
     pw, ph = scale * w, scale * h
@@ -229,7 +257,8 @@ def main():
             chosen = list(zip(sy, times))
             print(f"  part {k + 1}: {len(sy)} syllables, sung fast")
         else:
-            times, cost = follow_voice(part, ends[k], voice, voiced, a.times[k], a.times[k + 1], offset)
+            times, cost = (follow_sound(part, ends[k], S, R, a.times[k], a.times[k + 1], shift) if choir else
+                           follow_voice(part, ends[k], voice, voiced, a.times[k], a.times[k + 1], offset))
             times = keep_apart(spread_repeats(times, part) if a.exact else steady_tempo(times, part, a.smoothness), part)
             chosen = list(zip(part, times))
             print(f"  part {k + 1}: {len(part)} notes, match cost {cost:.3f}")
