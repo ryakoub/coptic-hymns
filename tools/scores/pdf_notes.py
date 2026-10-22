@@ -19,6 +19,7 @@ from midi_lyrics import chars, HEADS
 
 WHITE = [53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88]   # F3 … E6
 BOTTOM_LINE = 6                       # E4, the treble staff's bottom line, in WHITE
+STEMS = {"«", "»", "(cid:162)"}         # pieces of a stem (the last two for blue notes)
 FLAGS = {"j", "J", "(cid:76)", "(cid:44)"}   # a single eighth's flag, at its head (the last for blue notes)
 RESTS = {"(cid:168)": 1, "Ó": 2, "Œ": 1, "‰": 0.5, "∑": 4}       # beats (quarters)
 ACCIDENTALS = {"b": -1, "n": 0, "#": 1}
@@ -46,13 +47,26 @@ def read_page(page):
     # Beams: each counted for the notes whose stems it joins (a beam ends at a stem: up-stems at a head's
     # right edge, down-stems at its left), long beams first so each stem's side is known for short ones.
     heads = [(h, near(H - h.y0), H - h.y0 - 2) for h in ms if h.get_text() in HEADS]
-    beams = [(s.x0, s.x1, (2 * H - s.y0 - s.y1) / 2) for s in shapes(page) if s.height < 8 and s.width > 4]
+    # Beams are four-cornered; ornaments (trills, mordents) drawn above notes are curves with many points.
+    # A shape drawn twice (an outline and a fill) counts once.
+    beams = sorted({(round(s.x0), round(s.x1), round((2 * H - s.y0 - s.y1) / 2)) for s in shapes(page)
+                    if s.height < 8 and s.width > 4 and len(getattr(s, "pts", None) or []) <= 4})
+    # Each stem's side, from its pieces (characters at the head's left edge, above or below it).
+    pieces = [(c.x0, H - c.y0) for c in ms if c.get_text() in STEMS]
+    stem_side = {}
+    for h, k, hy in heads:
+        ys = [py - (H - h.y0) for px, py in pieces if abs(px - h.x0) < 1]
+        if ys and min(ys) < -1:
+            stem_side[id(h)] = "up"
+        elif ys and max(ys) > 1:
+            stem_side[id(h)] = "down"
     count, side_of = collections.Counter(), {}
 
     def assign(b0, b1, ym, partial):
         for side, sx in (("up", lambda h: h.x1), ("down", lambda h: h.x0)):
             cand = [(h, k) for h, k, hy in heads if (ym < hy if side == "up" else ym > hy) and abs(hy - ym) < 45
-                    and b0 - 1.2 <= sx(h) <= b1 + 1.2 and (not partial or side_of.get(id(h)) == side)]
+                    and b0 - 1.2 <= sx(h) <= b1 + 1.2 and (not partial or side_of.get(id(h)) == side)
+                    and stem_side.get(id(h), side) == side]
             ends = [c for c in cand if abs(sx(c[0]) - b0) < 1.8 or abs(sx(c[0]) - b1) < 1.8]
             if ends:
                 for h, k in cand:
