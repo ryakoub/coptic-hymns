@@ -2,10 +2,16 @@
 words from the PDF, in Unicode, each syllable under its note. Then prepare.sh adds the transliteration line.
 
   venv/bin/python tools/scores/midi_lyrics.py <score.mid> <book.pdf> <first page> <last page> <out.mscx>
+        [--alternatives 753-772 …]
 
 Made for Fr. Abraam's PDFs (Finale, with the Maestro music font and an old ASCII Coptic font): its noteheads are
 text, so each one is found on the page and paired, in order, with a MIDI note. The counts must agree on every
 line of music, or nothing is written. Pages count from 1.
+
+Where the book puts several rows of words under the same notes, they are taken as verses sung one after the
+other, and those lines are written out once per verse (the notes are printed). --alternatives names notes
+whose rows are alternatives instead (one is sung or the other, by season or feast): those stay once, with the
+rows one under another.
 """
 import os, re, shutil, subprocess, sys, tempfile
 from pdfminer.high_level import extract_pages
@@ -125,9 +131,16 @@ def read_row(row, verse, syllables, heads):
 
 
 def main():
-    if len(sys.argv) != 6:
+    args = sys.argv[1:]
+    alternatives = []
+    while "--alternatives" in args:
+        k = args.index("--alternatives")
+        a, b = args[k + 1].split("-")
+        alternatives.append((int(a) - 1, int(b) - 1))
+        del args[k:k + 2]
+    if len(args) != 5:
         sys.exit(__doc__)
-    mid, pdf, first, last, out = sys.argv[1], sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), sys.argv[5]
+    mid, pdf, first, last, out = args[0], args[1], int(args[2]), int(args[3]), args[4]
 
     # The notes: MuseScore reads the MIDI.
     # MuseScore can stop with an error on quitting after writing the file, so the file is what counts.
@@ -200,8 +213,13 @@ def main():
             n = e + 1
         else:
             n += 1
+    together = [(a, b, k) for a, b, k in blocks if any(x <= a and b <= y for x, y in alternatives)]
+    blocks = [blk for blk in blocks if blk not in together]
     for a, b, k in blocks:
-        print(f"  notes {a + 1}–{b + 1} carry {k} verses: written out {k} times")
+        print(f"  notes {a + 1}-{b + 1} carry {k} verses: written out {k} times")
+    for a, b, k in together:
+        print(f"  notes {a + 1}-{b + 1} carry {k} alternatives: kept once, one under another")
+    stacked = {i for a, b, _ in together for i in range(a, b + 1)}
 
     # Each syllable into its note, in the PDF's colour, as the first lyric line.
     measures = list(re.finditer(r"<Measure>.*?</Measure>", xml, re.S))
@@ -220,13 +238,19 @@ def main():
                   if not re.search(r'<Spanner type="Tie">\s*<prev>', c.group(0))]
         parts, last_end = [], 0
         for i, c in zip(in_measure[j], chords):
-            if (i, verse) not in lyrics:
+            rows = sorted(v for (n, v) in lyrics if n == i) if i in stacked and not verse else [verse]
+            rows = [v for v in rows if (i, v) in lyrics]
+            if not rows:
                 continue
-            words, col = lyrics[i, verse]
             indent = re.search(r"\n([ \t]*)<(?:durationType|Note)", c.group(0)).group(1)
-            rgb = f'{indent}  <color r="{COLOURS[col][0]}" g="{COLOURS[col][1]}" b="{COLOURS[col][2]}" a="255"/>\n' if col else ""
+            words = ""
+            for v in rows:
+                w, col = lyrics[i, v]
+                no = f"{indent}  <no>{VERSE_LINES[v]}</no>\n" if v and i in stacked else ""   # alternatives: own line
+                rgb = f'{indent}  <color r="{COLOURS[col][0]}" g="{COLOURS[col][1]}" b="{COLOURS[col][2]}" a="255"/>\n' if col else ""
+                words += f"{indent}<Lyrics>\n{no}{rgb}{indent}  <text>{w}</text>\n{indent}  </Lyrics>\n"
             at = text.rindex("\n", 0, c.start() + c.group(0).index("<Note>")) + 1
-            parts.append(text[last_end:at] + f"{indent}<Lyrics>\n{rgb}{indent}  <text>{words}</text>\n{indent}  </Lyrics>\n")
+            parts.append(text[last_end:at] + words)
             last_end = at
         text = "".join(parts) + text[last_end:]
         if verse:                                     # a copy: new ids, and no second tempo mark
