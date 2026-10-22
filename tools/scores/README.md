@@ -21,7 +21,7 @@ tools/scores/.venv/bin/python tools/scores/midi_lyrics.py "<score.mid>" "<book.p
 ```
 It pairs the PDF's noteheads with the MIDI's notes, line by line, and writes nothing unless their counts agree. It prints the words by verse (in the PDF's colours) to check against the hymn's text. A key of the old Coptic font it doesn't know shows as `?` and is named: add it to `LETTERS`. Then go on with `prepare.sh` on `words.mscx` (step 1 below).
 
-Tried on the first of the Seven Tunes (October 2026): 540 notes, 129 syllables, all in place.
+Several verses sung to the same notes (rows of words one under another) each get their own line, with its transliteration right under it. Tried on the Seven Tunes (October 2026): all seven matched note for note (173 to 773 notes each).
 
 ## For each score and recording
 

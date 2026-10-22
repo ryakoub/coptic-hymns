@@ -12,14 +12,16 @@ from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTChar
 
 MSCORE = "/Applications/MuseScore 4.app/Contents/MacOS/mscore"
-HEADS = {"ˆ", "˙", "w"}                 # Maestro's filled, half and whole noteheads (as the PDF decodes them)
+HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
+#                                                  and two the Seven Tunes use in bars with "+" or dots over the notes
 # Written before the letter they go over: a jenkim (alone, a jenkim sung on its own note), a dot.
 MARKS = {"`": "̀", "~": "̇"}
 # The old Coptic font: each ASCII key stands for a Coptic letter (checked on the Seven Tunes: ; is ϯ, ] is ϣ).
 LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϣϧϩϫϥϭϣϯ"))
 LETTERS.update({k.upper(): v.upper() for k, v in LETTERS.items() if k.isalpha()})
-LETTERS.update({">": ":", ".": ".", ":": ":"})
+LETTERS.update({'"': "Ϧ", "|": "Ϩ", ">": ":", ".": ".", ":": ":", "(": "(", ")": ")"})
 LYRICS_FONT = "ArialCoptic"             # installed on the Mac (ArialCoptic.ttf, as in coptic-hymns/fonts)
+VERSE_LINES = [0, 2, 5, 8, 11]            # lyric line of each verse (counted from 0)
 COLOURS = {"red": (126, 0, 0), "blue": (0, 0, 126)}
 
 
@@ -57,7 +59,8 @@ def colour(c):
 
 
 def read_page(page):
-    """Each line of music on the page: its noteheads left to right, and its syllables with the x of their middle."""
+    """Each line of music on the page: its noteheads left to right, and its syllables with the x of their middle
+    and their verse (the rows of words under a staff, from the top: several verses can share the notes)."""
     H = page.height
     cs = list(chars(page))
     music = max({c.fontname for c in cs}, key=lambda f: sum(1 for c in cs if c.fontname == f and c.get_text() == "="))
@@ -67,27 +70,57 @@ def read_page(page):
     for c in cs:
         if c.fontname == music and c.get_text() in HEADS:
             lines[near(H - c.y0)]["heads"].append((c.x0 + c.x1) / 2)
-    # Lyrics: big characters in another font on a row level with a staff's baseline.
+    # Lyrics: big characters in another font, on rows from a staff's baseline down to 32 points below it.
+    below = lambda c, b: -4 < H - c.y0 - b < 32
     lyric = [c for c in cs if c.fontname != music and c.size > 12 and c.get_text().isascii()
-             and min(abs(H - c.y0 - b) for b in bases) < 4]
+             and any(below(c, b) for b in bases)]
     rows = {}
     for c in lyric:
-        rows.setdefault(min(range(len(bases)), key=lambda k: abs(bases[k] - (H - c.y0))), []).append(c)
-    for k, row in rows.items():
-        row.sort(key=lambda c: c.x0)
-        group = [row[0]]
-        for c in row[1:] + [None]:
-            if c is not None and c.x0 - group[-1].x1 <= 2.5:
-                group.append(c)
-                continue
-            text = "".join(g.get_text() for g in group).strip()
-            if text:
-                lines[k]["syllables"].append(((group[0].x0 + group[-1].x1) / 2, text, colour(group[0])))
-            if c is not None:
-                group = [c]
+        k = next(k for k, b in enumerate(bases) if below(c, b))
+        rows.setdefault(k, []).append(c)
+    for k, staff_chars in rows.items():
+        ys = sorted({round(H - c.y0, 1) for c in staff_chars})
+        verse_of, verse = {}, 0
+        for a, y in enumerate(ys):
+            if a and y - ys[a - 1] > 5:
+                verse += 1
+            verse_of[y] = verse
+        for v in range(verse + 1):
+            row = sorted((c for c in staff_chars if verse_of[round(H - c.y0, 1)] == v), key=lambda c: c.x0)
+            read_row(row, v, lines[k]["syllables"], sorted(lines[k]["heads"]))
     for line in lines:
         line["heads"].sort()
     return lines
+
+
+def read_row(row, verse, syllables, heads):
+    """A row of lyric characters into syllables. Letters of a syllable sit at the font's usual spacing (in an
+    italic font their boxes overlap), so a wider gap may start a new syllable; pieces that would fall under the
+    same note are one syllable after all. Punctuation stays with what comes before it."""
+    gaps = [round((b.x0 - a.x1) * 2) / 2 for a, b in zip(row, row[1:]) if a.get_text() not in MARKS]
+    usual = max(set(gaps), key=gaps.count) if gaps else 0
+    if gaps and gaps.count(usual) < 2:                # a short row: no spacing repeats, take the closest pair
+        usual = min(gaps)
+    row = sorted(row, key=lambda c: (round(c.x0, 1), c.get_text() not in MARKS))   # a mark before its letter
+    pieces = [[row[0]]]
+    for c in row[1:]:
+        if (c.x0 - pieces[-1][-1].x1 <= usual + 0.75 or c.get_text() in ".:>)"
+                or (pieces[-1][-1].get_text() in MARKS and c.x0 - pieces[-1][-1].x0 < 3)):  # a mark over its letter
+            pieces[-1].append(c)
+        else:
+            pieces.append([c])
+    middle = lambda g: (g[0].x0 + g[-1].x1) / 2
+    note = lambda g: min(range(len(heads)), key=lambda i: abs(heads[i] - middle(g))) if heads else 0
+    groups = [pieces[0]]
+    for piece in pieces[1:]:
+        if note(piece) == note(groups[-1]):
+            groups[-1] = groups[-1] + piece
+        else:
+            groups.append(piece)
+    for group in groups:
+        text = "".join(g.get_text() for g in group).strip()
+        if text:
+            syllables.append((middle(group), text, colour(group[0]), verse))
 
 
 def main():
@@ -115,24 +148,29 @@ def main():
 
     unknown, lyrics, start = set(), {}, 0
     for n, line in enumerate(lines, 1):
-        for x, keys, col in line["syllables"]:
+        for x, keys, col, verse in line["syllables"]:
             k = min(range(len(line["heads"])), key=lambda i: abs(line["heads"][i] - x))
-            if start + k in lyrics:
-                print(f"  line {n}: two syllables on one note ({lyrics[start + k][0]} and {keys})")
-            lyrics[start + k] = (coptic(keys, unknown), col)
+            if (start + k, verse) in lyrics:
+                print(f"  line {n}: two syllables on one note ({lyrics[start + k, verse][0]} and {keys})")
+            lyrics[start + k, verse] = (coptic(keys, unknown), col)
         start += len(line["heads"])
     if unknown:
         print("  old-font keys not known yet (shown as ?):", " ".join(sorted(unknown)))
 
-    # Each syllable into its note, as the first lyric line, in the PDF's colour.
+    # Each syllable into its note, in the PDF's colour, each verse on its own lyric line with room under it for
+    # its transliteration (transliterate.py, LINE_RATIO).
     parts, last_end = [], 0
     for i, m in enumerate(chords):
-        if i not in lyrics:
+        verses = sorted(v for n, v in lyrics if n == i)
+        if not verses:
             continue
-        text, col = lyrics[i]
         indent = re.search(r"\n([ \t]*)<(?:durationType|Note)", m.group(0)).group(1)
-        rgb = f'{indent}  <color r="{COLOURS[col][0]}" g="{COLOURS[col][1]}" b="{COLOURS[col][2]}" a="255"/>\n' if col else ""
-        lyric = f"{indent}<Lyrics>\n{rgb}{indent}  <text>{text}</text>\n{indent}  </Lyrics>\n"
+        lyric = ""
+        for v in verses:
+            text, col = lyrics[i, v]
+            no = f"{indent}  <no>{VERSE_LINES[v]}</no>\n" if v else ""
+            rgb = f'{indent}  <color r="{COLOURS[col][0]}" g="{COLOURS[col][1]}" b="{COLOURS[col][2]}" a="255"/>\n' if col else ""
+            lyric += f"{indent}<Lyrics>\n{no}{rgb}{indent}  <text>{text}</text>\n{indent}  </Lyrics>\n"
         at = m.start() + m.group(0).index("<Note>")
         at = xml.rindex("\n", 0, at) + 1
         parts.append(xml[last_end:at] + lyric)
@@ -144,10 +182,11 @@ def main():
                                         f"{m.group(2)}  <lyricsOddFontSize>12</lyricsOddFontSize>\n{m.group(2)}  </Style>\n", xml, count=1)
     open(out, "w", encoding="utf-8").write(xml)
     print(f"{out}: {len(lyrics)} syllables")
-    for col in ("red", "blue", None):
-        words = " ".join(t for i, (t, c) in sorted(lyrics.items()) if c == col)
-        if words:
-            print(f"  {col or 'black'}: {words}")
+    for verse in sorted({v for _, v in lyrics}):
+        for col in ("red", "blue", None):
+            words = " ".join(t for (i, v), (t, c) in sorted(lyrics.items()) if v == verse and c == col)
+            if words:
+                print(f"  verse {verse + 1}, {col or 'black'}: {words}")
 
 
 if __name__ == "__main__":

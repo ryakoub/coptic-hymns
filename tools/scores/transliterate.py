@@ -1,8 +1,9 @@
-"""Adds a transliteration line under every Coptic lyric of a MuseScore score (.mscx), as lyric line 2.
+"""Adds a transliteration line under every Coptic lyric of a MuseScore score (.mscx).
 
   python3 mscx_translit.py in.mscx out.mscx
-Each first-line lyric (no <no> tag) gets a sibling <Lyrics><no>1</no> with the same syllabic (so hyphens
-line up), in a small brown italic, with the syllable's transliteration as Tasbeha writes it.
+Each Coptic lyric gets a sibling on the next lyric line with the same syllabic (so hyphens line up), in a
+small brown italic, with the syllable's transliteration as Tasbeha writes it, right under it even when there
+are several verses (see LINE_RATIO).
 """
 import re, sys
 
@@ -10,6 +11,10 @@ T = {"ⲁ": "a", "ⲃ": "v", "ⲅ": "g", "ⲇ": "d", "ⲉ": "e", "ⲍ": "z", "�
      "ⲙ": "m", "ⲛ": "n", "ⲝ": "ks", "ⲟ": "o", "ⲡ": "p", "ⲣ": "r", "ⲥ": "s", "ⲧ": "t", "ⲩ": "i", "ⲫ": "ph", "ⲭ": "kh",
      "ⲯ": "ps", "ⲱ": "o", "ϣ": "sh", "ϥ": "f", "ϧ": "kh", "ϩ": "h", "ϫ": "j", "ϭ": "ch", "ϯ": "ti"}
 VOWELS = "aeiou"
+# MuseScore spaces each lyric line by its own font, and a 12 pt Arial Coptic line is about one and a half 9 pt
+# transliteration lines, so the transliteration of the Coptic on line n goes on line round(1.5 n) + 1:
+# 0 → 1, 2 → 4 (midi_lyrics.py puts verses on lines 0, 2, 5…).
+LINE_RATIO = 1.5
 JENKIM = "̀"
 
 
@@ -44,7 +49,9 @@ added = []
 
 def add(m):
     body = m.group("body")
-    if "<no>" in body:                               # already a second (or later) line
+    no = re.search(r"<no>(\d+)</no>", body)
+    no = int(no.group(1)) if no else 0
+    if re.search(r"<family>Helvetica</family>", body):     # a transliteration line already
         return m.group(0)
     text = re.search(r"<text>(.*?)</text>", body, re.S)
     if not text:
@@ -53,10 +60,11 @@ def add(m):
     t = translit(re.sub(r"<[^>]+>", "", text.group(1)))
     added.append((text.group(1), t))
     ind = m.group("indent")
-    extra = (f"{ind}<Lyrics>\n{ind}  <no>1</no>\n"
+    extra = (f"{ind}<Lyrics>\n{ind}  <no>{round(LINE_RATIO * no) + 1}</no>\n"
              + (f"{ind}  <syllabic>{syllabic.group(1)}</syllabic>\n" if syllabic else "")
              + f"{ind}  <family>Helvetica</family>\n{ind}  <size>9</size>\n{ind}  <italic>1</italic>\n"
-             + f'{ind}  <color r="140" g="84" b="31" a="255"/>\n{ind}  <text>{t}</text>\n{ind}  </Lyrics>\n')
+             + f'{ind}  <color r="140" g="84" b="31" a="255"/>\n'
+             + f'{ind}  <text>{t}</text>\n{ind}  </Lyrics>\n')
     return m.group(0) + extra
 
 
