@@ -94,20 +94,21 @@ def follow_voice(part, end_t, voice, voiced, rec_a, rec_b, offset):
     return times, D[-1, -1] / len(wp)
 
 
-def steady_tempo(times, part):
-    """A steady beat through the part, as a conductor would give it: a smooth curve from written time to sung
-    time, whose tempo may change from bar to bar but not within one, fitted to the notes so that the few the
-    voice matching got wrong count little. The cursor then moves at an even pace instead of note to note
-    jumps (on Tune 1: speed jumps over 50% from 42% of the notes to 1%; exactly on pitch from 70% to 61%)."""
-    from scipy.interpolate import LSQUnivariateSpline
-    x = np.array([n["t"] for n in part])
-    y = np.array(times)
-    knots = [n["t"] for n in part if n["bar"] and x[0] + 0.5 < n["t"] < x[-1] - 0.5]
+def steady_tempo(times, part, smoothness=0.05):
+    """A steady pace through the part, as a conductor would beat it: a smooth curve from written time to sung
+    time, fitted to the notes so that the few the voice matching got wrong count little. The curve bends where
+    the cantor clearly holds a tone longer or hurries, and stays even elsewhere, so the cursor moves without
+    note to note jumps. smoothness: higher is steadier, lower follows the cantor more closely. 0.05 balanced
+    both on Bola's Tunes 1 and 2 and Ibrahim's Tune 1 (speed jumps over 50% at 1–2% of the notes; 84–95% of
+    the notes within a semitone of the sung pitch)."""
+    from scipy.interpolate import make_smoothing_spline
     if len(part) < 8:
         return times
+    x = np.array([n["t"] for n in part]) + np.arange(len(part)) * 1e-6    # notes sung together, kept in order
+    y = np.array(times)
     w = np.ones_like(y)
     for _ in range(4):
-        curve = LSQUnivariateSpline(x, y, knots, w=w, k=3)
+        curve = make_smoothing_spline(x, y, w=w, lam=smoothness)
         w = 1 / (1 + ((y - curve(x)) / 0.15) ** 2)           # far from the curve: probably a matching error
     return [float(t) for t in np.maximum.accumulate(curve(x))]
 
@@ -173,6 +174,7 @@ def main():
     ap.add_argument("--times", nargs="+", type=float, required=True)
     ap.add_argument("--fast", nargs="*", type=int, default=[])
     ap.add_argument("--exact", action="store_true", help="each note where the voice matching puts it, not a steady tempo")
+    ap.add_argument("--smoothness", type=float, default=0.05, help="higher: steadier; lower: follows held tones more")
     a = ap.parse_args()
 
     notes = score_items(a.prepared)
@@ -228,7 +230,7 @@ def main():
             print(f"  part {k + 1}: {len(sy)} syllables, sung fast")
         else:
             times, cost = follow_voice(part, ends[k], voice, voiced, a.times[k], a.times[k + 1], offset)
-            times = keep_apart(spread_repeats(times, part) if a.exact else steady_tempo(times, part), part)
+            times = keep_apart(spread_repeats(times, part) if a.exact else steady_tempo(times, part, a.smoothness), part)
             chosen = list(zip(part, times))
             print(f"  part {k + 1}: {len(part)} notes, match cost {cost:.3f}")
         for n, t in chosen:
