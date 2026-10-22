@@ -12,7 +12,9 @@ tools/scores/.venv/bin/python tools/scores/sync_verses.py <work folder> "<record
 ```
 The parts are found from the score's words ("Kyrie eleison", then each verse). Parts sung to the tune get a mark on every note, found by following the cantor's voice (its pitch) against the written notes, in whatever key and octave he sings; parts sung fast get a mark on each syllable. Then `package.py` (step 7 below) with `--name`: the backup sets the score's small cursor and gliding to the end of each line. Give the app M4A: `ffmpeg -i in.ogg -c:a aac_at -b:a 128k out.m4a` (the app's player misreads the length of Ogg recordings).
 
-Tried on the first of the Seven Tunes sung by Cantor Bola (October 2026): verses 1 and 2 to the tune, 3 and 4 fast; 70% of the notes fall where he sings their exact pitch, 98% within a semitone (matching the score's sound, as align.py does, gave 49% and 85%).
+Then a steady beat is fitted through each part sung to the tune, like a conductor's: the tempo may change from bar to bar, but within a bar the notes follow the written rhythm, so the cursor moves at an even pace (`--exact` keeps each note where the voice matching puts it instead).
+
+Tried on the first of the Seven Tunes sung by Cantor Bola (October 2026): verses 1 and 2 to the tune, 3 and 4 fast. Note by note, 70% of the notes fall where he sings their exact pitch and 98% within a semitone (matching the score's sound, as align.py does, gave 49% and 85%), but the speed jumped from note to note; with the steady beat, speed jumps went from 42% of the notes to 1%, with 59% on the exact pitch and 92% within a semitone.
 
 ## Once
 

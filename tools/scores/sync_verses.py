@@ -91,7 +91,25 @@ def follow_voice(part, end_t, voice, voiced, rec_a, rec_b, offset):
         while f not in first and f > 0:
             f -= 1
         times.append(rec_a + first.get(f, 0) / FPS)
-    return keep_apart(spread_repeats(times, part), part), D[-1, -1] / len(wp)
+    return times, D[-1, -1] / len(wp)
+
+
+def steady_tempo(times, part):
+    """A steady beat through the part, as a conductor would give it: a smooth curve from written time to sung
+    time, whose tempo may change from bar to bar but not within one, fitted to the notes so that the few the
+    voice matching got wrong count little. The cursor then moves at an even pace instead of note to note
+    jumps (on Tune 1: speed jumps over 50% from 42% of the notes to 1%; exactly on pitch from 70% to 61%)."""
+    from scipy.interpolate import LSQUnivariateSpline
+    x = np.array([n["t"] for n in part])
+    y = np.array(times)
+    knots = [n["t"] for n in part if n["bar"] and x[0] + 0.5 < n["t"] < x[-1] - 0.5]
+    if len(part) < 8:
+        return times
+    w = np.ones_like(y)
+    for _ in range(4):
+        curve = LSQUnivariateSpline(x, y, knots, w=w, k=3)
+        w = 1 / (1 + ((y - curve(x)) / 0.15) ** 2)           # far from the curve: probably a matching error
+    return [float(t) for t in np.maximum.accumulate(curve(x))]
 
 
 def keep_apart(times, part, gap=0.06):
@@ -154,6 +172,7 @@ def main():
     ap.add_argument("prepared"); ap.add_argument("recording"); ap.add_argument("out")
     ap.add_argument("--times", nargs="+", type=float, required=True)
     ap.add_argument("--fast", nargs="*", type=int, default=[])
+    ap.add_argument("--exact", action="store_true", help="each note where the voice matching puts it, not a steady tempo")
     a = ap.parse_args()
 
     notes = score_items(a.prepared)
@@ -195,6 +214,7 @@ def main():
             print(f"  part {k + 1}: {len(sy)} syllables, sung fast")
         else:
             times, cost = follow_voice(part, ends[k], voice, voiced, a.times[k], a.times[k + 1], offset)
+            times = keep_apart(spread_repeats(times, part), part) if a.exact else steady_tempo(times, part)
             chosen = list(zip(part, times))
             print(f"  part {k + 1}: {len(part)} notes, match cost {cost:.3f}")
         for n, t in chosen:
