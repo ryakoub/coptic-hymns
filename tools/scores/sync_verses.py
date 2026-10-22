@@ -214,7 +214,7 @@ def main():
             print(f"  part {k + 1}: {len(sy)} syllables, sung fast")
         else:
             times, cost = follow_voice(part, ends[k], voice, voiced, a.times[k], a.times[k + 1], offset)
-            times = keep_apart(spread_repeats(times, part), part) if a.exact else steady_tempo(times, part)
+            times = keep_apart(spread_repeats(times, part) if a.exact else steady_tempo(times, part), part)
             chosen = list(zip(part, times))
             print(f"  part {k + 1}: {len(part)} notes, match cost {cost:.3f}")
         for n, t in chosen:
