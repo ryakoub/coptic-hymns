@@ -4,6 +4,16 @@ From a score's source file (MuseScore `.mscz`/`.mscx`, or MusicXML opened in Mus
 
 Tried on Pi Gen Misi (your own MuseScore score) with the Mahragan 2023 recording, October 2026: the automatic marks were close for most bars; 6 were fixed by ear, and smoothing by the score's rhythm made the cursor steady.
 
+## A recording sung part by part
+
+When the cantor sings some verses to the tune and others the fast way (as in services, for time), give the second each part starts and line them up part by part:
+```
+tools/scores/.venv/bin/python tools/scores/sync_verses.py <work folder> "<recording>" <work folder>/marks.taps.json --times 6.5 9 77 147 163 178 --fast 4 5
+```
+The parts are found from the score's words ("Kyrie eleison", then each verse). Parts sung to the tune get a mark on every note, found by following the cantor's voice (its pitch) against the written notes, in whatever key and octave he sings; parts sung fast get a mark on each syllable. Then `package.py` (step 7 below) with `--name`: the backup sets the score's small cursor and gliding to the end of each line. Give the app M4A: `ffmpeg -i in.ogg -c:a aac_at -b:a 128k out.m4a` (the app's player misreads the length of Ogg recordings).
+
+Tried on the first of the Seven Tunes sung by Cantor Bola (October 2026): verses 1 and 2 to the tune, 3 and 4 fast; 70% of the notes fall where he sings their exact pitch, 98% within a semitone (matching the score's sound, as align.py does, gave 49% and 85%).
+
 ## Once
 
 - MuseScore 4 in /Applications.
@@ -59,11 +69,10 @@ Several verses sung to the same notes (rows of words one under another) each get
 
 8. **To publish it** as a hymn with notation, see *Adding a music score to a hymn* in the repo's README: the PDF and the marks go in `content/notations/<id>/`, following the hymn's own recording when the app already has it.
 
-`check_marks.swift` draws the marks as dots on the PDF, to check that they sit on their notes:
-`swift tools/scores/check_marks.swift <score.pdf> <marks.json> <out.png>` (marks.json: `{"marks": [[t, page, x, y], …]}`).
+`check_marks.swift` draws a page's marks as dots on the PDF, to check that they sit on their notes:
+`swift tools/scores/check_marks.swift <score.pdf> <marks.json> <out.png> [page]` (marks.json: `{"marks": [[t, page, x, y], …]}`).
 
 ## Limits
 
-- Pages are taken as Letter (8.5 × 11 in); `align.py --page` takes another size in inches.
-- The places of notes come from MuseScore 4's position files, measured at about 4424 units an inch; if MuseScore changes them, the dots will drift and `check_marks.swift` will show it.
+- The places of notes come from MuseScore 4's position files, whose units differ from score to score; they are measured against score.pdf (equal left and right margins assumed). `check_marks.swift` shows whether the dots sit on the notes.
 - A recording that repeats a part, skips one or sings another tune than the score needs its marks fixed by hand in those places, or a score that follows it.

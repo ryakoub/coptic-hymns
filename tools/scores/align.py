@@ -13,10 +13,21 @@ import numpy as np
 import librosa
 
 SR, HOP = 22050, 512
-# MuseScore 4's position files use about 4424 units an inch (measured: systems 5670 apart are 0.1165 of an 11 in
-# page; checked by drawing the marks with check_marks.swift). A Letter page is 8.5 × 11 in.
-UNITS_PER_INCH = 5670 / (0.1165 * 11)
 STAFF_MIDDLE = 0.0125          # a note's element starts at the staff's top line; the cursor centres on the staff
+
+
+def page_scale(prepared):
+    """How many units of MuseScore's position files make a point of score.pdf, and the page's size in points.
+    The units differ from score to score (61 a point for Pi Gen Misi, 200 for a score read from MIDI), so they
+    are measured: the margins are equal left and right, so the first bar's left edge and the furthest bar's
+    right edge add up to the page's width."""
+    from pdfminer.pdfpage import PDFPage
+    with open(os.path.join(prepared, "score.pdf"), "rb") as f:
+        x0, y0, x1, y1 = next(PDFPage.get_pages(f)).mediabox
+    text = open(os.path.join(prepared, "score.mpos"), encoding="utf-8").read()
+    bars = [tuple(map(float, m)) for m in re.findall(r'<element id="\d+" x="([\d.]+)" y="[\d.]+" sx="([\d.]+)"', text)]
+    width = x1 - x0
+    return (min(x for x, _ in bars) + max(x + sx for x, sx in bars)) / width, width, y1 - y0
 
 
 def chroma(path, span=None):
@@ -42,7 +53,6 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("prepared"); ap.add_argument("recording"); ap.add_argument("out")
     ap.add_argument("--sung", nargs=2, type=float, metavar=("START", "END"))
-    ap.add_argument("--page", nargs=2, type=float, default=(8.5, 11), metavar=("WIDTH_IN", "HEIGHT_IN"))
     a = ap.parse_args()
 
     S = chroma(os.path.join(a.prepared, "score.wav"))
@@ -60,7 +70,8 @@ def main():
         s2r.setdefault(int(i), int(j))
 
     elements, events = positions(os.path.join(a.prepared, "score.spos"))
-    pw, ph = a.page[0] * UNITS_PER_INCH, a.page[1] * UNITS_PER_INCH
+    k, w, h = page_scale(a.prepared)
+    pw, ph = k * w, k * h
     marks = []
     for ms, elid in events:
         x, y, sx, sy, page = elements[elid]

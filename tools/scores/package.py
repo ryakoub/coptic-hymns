@@ -11,19 +11,23 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("pdf"); ap.add_argument("recording"); ap.add_argument("taps"); ap.add_argument("out")
     ap.add_argument("--name"); ap.add_argument("--id"); ap.add_argument("--folder", default="Scores")
+    ap.add_argument("--cursor-size", type=float, default=0.05, help="of the page's height (a score needs a small one)")
     a = ap.parse_args()
     taps = json.load(open(a.taps, encoding="utf-8"))
     track = taps["tracks"][0]
     pdf, audio = open(a.pdf, "rb").read(), open(a.recording, "rb").read()
     name = a.name or taps.get("name") or os.path.splitext(os.path.basename(a.pdf))[0]
     audio_name = os.path.basename(a.recording)
-    kind = "audio/mp4" if audio_name.lower().endswith((".m4a", ".mp4")) else "audio/mpeg"
+    kind = {".m4a": "audio/mp4", ".mp4": "audio/mp4", ".ogg": "audio/ogg", ".wav": "audio/wav"}.get(
+        os.path.splitext(audio_name.lower())[1], "audio/mpeg")
     project = {"id": a.id or re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") or str(uuid.uuid4()), "name": name,
                "folders": [a.folder], "pdfName": os.path.basename(a.pdf), "pages": taps.get("pages"),
                "pdf": {"file": 0, "name": os.path.basename(a.pdf), "type": "application/pdf"},
                "tracks": [{"id": str(uuid.uuid4()), "name": track.get("name") or name, "fileName": audio_name,
                            "startAt": track.get("startAt"), "points": track["points"],
-                           "audio": {"file": 1, "name": audio_name, "type": kind}}]}
+                           "audio": {"file": 1, "name": audio_name, "type": kind}}],
+               # Read by the app (Mark Sync passes over them): the cursor's size, and gliding on to each line's end.
+               "cursorSize": a.cursor_size, "glideToLineEnd": True}
     manifest = json.dumps({"app": "mark-sync", "kind": "backup", "version": 1, "projects": [project],
                            "files": [{"offset": 0, "length": len(pdf)}, {"offset": len(pdf), "length": len(audio)}]},
                           ensure_ascii=False).encode()
