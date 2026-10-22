@@ -13,6 +13,16 @@ Tried on Pi Gen Misi (your own MuseScore score) with the Mahragan 2023 recording
   tools/scores/.venv/bin/pip install -r tools/scores/requirements.txt
   ```
 
+## From a MIDI file and the PDF of the same score
+
+Fr. Abraam's MIDI files have the notes but no words. His PDFs (in the collection "جميع تدوينات أبونا إبرام") have both, and their table of contents uses the same numbers as the MIDI files (e.g. "2100 07 السبع طرائق - الأولى" is on pages 1922–1923). `midi_lyrics.py` makes a MuseScore score with the notes from the MIDI and the Coptic words from the PDF, in Unicode, each syllable under its note:
+```
+tools/scores/.venv/bin/python tools/scores/midi_lyrics.py "<score.mid>" "<book.pdf>" <first page> <last page> <work folder>/words.mscx
+```
+It pairs the PDF's noteheads with the MIDI's notes, line by line, and writes nothing unless their counts agree. It prints the words by verse (in the PDF's colours) to check against the hymn's text. A key of the old Coptic font it doesn't know shows as `?` and is named: add it to `LETTERS`. Then go on with `prepare.sh` on `words.mscx` (step 1 below).
+
+Tried on the first of the Seven Tunes (October 2026): 540 notes, 129 syllables, all in place.
+
 ## For each score and recording
 
 1. **Prepare the score** (adds the transliteration line; exports the PDF, the notes' and bars' places and times, and the score's audio):

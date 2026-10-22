@@ -14,7 +14,8 @@ JENKIM = "̀"
 
 
 def translit(syllable):
-    s = syllable.lower().strip(":.,; ")
+    # A jenkim sung on its own may be written as a spacing grave (ˋ); a dot over a letter isn't said.
+    s = syllable.lower().replace("\u02cb", JENKIM).replace("\u0307", "").strip(":.,; ")
     if s and set(s) <= {JENKIM}:
         return "e"                                   # a jenkim on its own is sung as a short "e"
     out, i = "", 0

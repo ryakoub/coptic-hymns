@@ -21,8 +21,11 @@ else
   SRC=$SCORE
 fi
 python3 -I $HERE/transliterate.py $SRC $OUT/score.mscx
+# MuseScore can stop with an error as it quits, after writing the file: the file is what counts.
 for ext in pdf spos mpos wav; do
-  $MSCORE -o $OUT/score.$ext $OUT/score.mscx >/dev/null 2>&1
+  rm -f $OUT/score.$ext
+  $MSCORE -o $OUT/score.$ext $OUT/score.mscx >/dev/null 2>&1 || true
+  [[ -s $OUT/score.$ext ]] || { echo "MuseScore could not write score.$ext"; exit 1; }
 done
 rm -rf $TMP
 ls -la $OUT
