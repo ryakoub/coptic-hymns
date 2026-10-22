@@ -19,7 +19,7 @@ from midi_lyrics import chars, HEADS
 
 WHITE = [53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88]   # F3 … E6
 BOTTOM_LINE = 6                       # E4, the treble staff's bottom line, in WHITE
-FLAGS = {"j", "(cid:76)", "(cid:44)"}   # a single eighth's flag, at its head (the last for blue notes)
+FLAGS = {"j", "J", "(cid:76)", "(cid:44)"}   # a single eighth's flag, at its head (the last for blue notes)
 RESTS = {"(cid:168)": 1, "Ó": 2, "Œ": 1, "‰": 0.5, "∑": 4}       # beats (quarters)
 ACCIDENTALS = {"b": -1, "n": 0, "#": 1}
 BEATS = {"whole": 4, "half": 2, "quarter": 1, 0: 1, 1: 0.5, 2: 0.25, 3: 0.125}
@@ -81,6 +81,10 @@ def read_page(page):
             lines[k]["key"][(step(c, k) + BOTTOM_LINE) % 7] = -1
         elif t in RESTS and abs(H - c.y0 - bases[k]) < 20:
             lines[k]["events"].append((x, "rest", RESTS[t]))
+    # A line without its own key signature keeps the one before (the 2026 edition prints it on the first line only).
+    for k in range(1, len(lines)):
+        if not lines[k]["key"]:
+            lines[k]["key"] = lines[k - 1]["key"]
     dots = [(c.x0, H - c.y0) for c in ms if c.get_text() == "."]
     flags = [(c.x0, H - c.y0) for c in ms if c.get_text() in FLAGS]
     marks = [(c.x0, H - c.y0, c.get_text()) for c in ms if c.get_text() in ACCIDENTALS]

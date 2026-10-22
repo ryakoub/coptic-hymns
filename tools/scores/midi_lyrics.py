@@ -18,15 +18,17 @@ from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTChar
 
 MSCORE = "/Applications/MuseScore 4.app/Contents/MacOS/mscore"
-HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
+HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)", "œ"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
 #                                                  and two the Seven Tunes use in bars with "+" or dots over the notes
+#                                                  (in the 2026 edition the first of these is named œ)
 # Written before the letter they go over: a jenkim (alone, a jenkim sung on its own note), a dot.
 MARKS = {"`": "̀", "~": "̇"}
-# The old Coptic font: each ASCII key stands for a Coptic letter (checked on the Seven Tunes: ; is ϯ, ] is ϣ).
-LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϣϧϩϫϥϭϣϯ"))
+# The old Coptic font: each ASCII key stands for a Coptic letter (checked on the Seven Tunes: ; is ϯ, ] is ϣ;
+# on Pi Gen Misi: [ is ⲝ).
+LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϣϧϩϫϥⲝϣϯ"))
 LETTERS.update({k.upper(): v.upper() for k, v in LETTERS.items() if k.isalpha()})
-# Shifted keys are capitals ("Ϧ, |Ϩ, :Ϯ, {Ϭ, }Ϣ); the colon is >.
-LETTERS.update({'"': "Ϧ", "|": "Ϩ", ":": "Ϯ", "{": "Ϭ", "}": "Ϣ", ">": ":", ".": ".", "(": "(", ")": ")"})
+# Shifted keys are capitals ("Ϧ, |Ϩ, :Ϯ, {Ⲝ, }Ϣ); the colon is >.
+LETTERS.update({'"': "Ϧ", "|": "Ϩ", ":": "Ϯ", "{": "Ⲝ", "}": "Ϣ", ">": ":", ".": ".", "(": "(", ")": ")"})
 LYRICS_FONT = "ArialCoptic"             # installed on the Mac (ArialCoptic.ttf, as in coptic-hymns/fonts)
 VERSE_LINES = [0, 2, 5, 8, 11]            # lyric line of each verse (counted from 0)
 COLOURS = {"red": (126, 0, 0), "blue": (0, 0, 126)}
