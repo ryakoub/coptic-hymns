@@ -1,5 +1,82 @@
 {
  "recording": "ten-oosht-evol-basil",
  "text": "ten-oosht-evol-basil",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 42.18,
+   "stanzas": [
+    42.18,
+    55.85,
+    64.21
+   ],
+   "words": [
+    {
+     "text": "Ⲧⲉⲛϫⲟⲩϣⲧ",
+     "start": 42.18,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲃⲟⲗ",
+     "start": 44.05,
+     "end": null
+    },
+    {
+     "text": "ϧⲁ",
+     "start": 45.38,
+     "end": null
+    },
+    {
+     "text": "ⲧ̀ϩⲏ",
+     "start": 46.01,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
+     "start": 47.05,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 49.75,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ:",
+     "start": 50.98,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 55.85,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲱⲛϧ",
+     "start": 56.78,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 57.75,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲉ̀ⲱⲛ",
+     "start": 59.41,
+     "end": null
+    },
+    {
+     "text": "ⲉⲑⲛⲏⲟⲩ.",
+     "start": 61.01,
+     "end": null
+    },
+    {
+     "text": "Ⲁ̀ⲙⲏⲛ.",
+     "start": 64.21,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

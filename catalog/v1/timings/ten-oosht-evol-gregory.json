@@ -1,5 +1,77 @@
 {
  "recording": "ten-oosht-evol-gregory",
  "text": "ten-oosht-evol-basil",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 40.58,
+   "words": [
+    {
+     "text": "Ⲧⲉⲛϫⲟⲩϣⲧ",
+     "start": 40.58,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲃⲟⲗ",
+     "start": 42.91,
+     "end": null
+    },
+    {
+     "text": "ϧⲁ",
+     "start": 44.31,
+     "end": null
+    },
+    {
+     "text": "ⲧ̀ϩⲏ",
+     "start": 45.15,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
+     "start": 46.35,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 49.55,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ:",
+     "start": 50.85,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 56.11,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲱⲛϧ",
+     "start": 57.45,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 58.88,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲉ̀ⲱⲛ",
+     "start": 59.68,
+     "end": null
+    },
+    {
+     "text": "ⲉⲑⲛⲏⲟⲩ.",
+     "start": 62.15,
+     "end": null
+    },
+    {
+     "text": "Ⲁ̀ⲙⲏⲛ.",
+     "start": 68.18,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

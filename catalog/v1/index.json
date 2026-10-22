@@ -1,6 +1,6 @@
 {
- "version": "8be5eab6175f1bb8",
- "updated": "2026-10-21T23:37:26Z",
+ "version": "0c197228324cb9cd",
+ "updated": "2026-10-22T00:34:48Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -8110,8 +8110,8 @@
    "text": "ten-oosht-evol-basil",
    "duration": 79.83,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 1,
+    "words": 1,
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2615",
@@ -8122,8 +8122,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-basil.json",
-     "bytes": 90,
-     "sha256": "3089fcfd7cc12202c28c9968f385e0ccd1927866a555bb4b0d440483122ddbb7",
+     "bytes": 1305,
+     "sha256": "87d7d9204becaed87ef4867782e7a8fcb23a2789193062d183dd8de031c3af64",
      "role": "timing"
     },
     {
@@ -8139,9 +8139,9 @@
    "text": "ten-oosht-evol-basil",
    "duration": 92.53,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 1,
+    "words": 1,
+    "of": 1
    },
    "source": "content/hymns/ten-oosht-evol-gregory/",
    "tune": {
@@ -8151,8 +8151,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-gregory.json",
-     "bytes": 92,
-     "sha256": "e206905202947caba3b0a3d8d1fcaaeedf10fca2e68af089fbc47687034f74c9",
+     "bytes": 1253,
+     "sha256": "58e6af2bca878afcb9dd1a19211db65638d775f49e0dbc79237980385790dfc6",
      "role": "timing"
     },
     {
@@ -8168,9 +8168,9 @@
    "text": "ten-oosht-evol-basil",
    "duration": 113.5,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 1,
+    "words": 1,
+    "of": 1
    },
    "source": "content/hymns/ten-oosht-evol-vespers-matins/",
    "tune": {
@@ -8180,8 +8180,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-vespers-matins.json",
-     "bytes": 99,
-     "sha256": "53df44c8411f467c2200cdd3227954e945c319bbb9071cd6457ac0359b964446",
+     "bytes": 1260,
+     "sha256": "74765e379e39760786e074fc34fd45fd2e7eb3711125001bbff3db7bf4df5ae7",
      "role": "timing"
     },
     {
@@ -8207,8 +8207,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno.json",
-     "bytes": 28973,
-     "sha256": "b4f0d0b2a5ccf9f499fd4a7ec23a6795340eb83995f8b5660f3d116e24493e58",
+     "bytes": 28823,
+     "sha256": "7508633e9258211cb360e7a57885137e8ee61a70ba0cdf22c70d4987d10f4e0b",
      "role": "timing"
     },
     {

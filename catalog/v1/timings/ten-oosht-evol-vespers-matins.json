@@ -1,5 +1,77 @@
 {
  "recording": "ten-oosht-evol-vespers-matins",
  "text": "ten-oosht-evol-basil",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 38.45,
+   "words": [
+    {
+     "text": "Ⲧⲉⲛϫⲟⲩϣⲧ",
+     "start": 38.45,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲃⲟⲗ",
+     "start": 40.81,
+     "end": null
+    },
+    {
+     "text": "ϧⲁ",
+     "start": 43.15,
+     "end": null
+    },
+    {
+     "text": "ⲧ̀ϩⲏ",
+     "start": 43.88,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
+     "start": 45.41,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 51.18,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ:",
+     "start": 53.15,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 58.51,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲱⲛϧ",
+     "start": 59.58,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 61.35,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲉ̀ⲱⲛ",
+     "start": 63.61,
+     "end": null
+    },
+    {
+     "text": "ⲉⲑⲛⲏⲟⲩ.",
+     "start": 66.55,
+     "end": null
+    },
+    {
+     "text": "Ⲁ̀ⲙⲏⲛ.",
+     "start": 68.95,
+     "end": null
+    }
+   ]
+  }
+ ]
 }
