@@ -200,7 +200,21 @@ def main():
     k0 = max(sung, key=lambda k: bounds[k + 1] - bounds[k])
     offset = min(range(guess - 2, guess + 3), key=lambda o: follow_voice(
         notes[bounds[k0]:bounds[k0 + 1]], ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], o)[1])
-    print(f"the cantor sings {offset} semitones below the written notes")
+    # His tuning: a cantor may sit a little sharp or flat of the written pitches all through. Measured on the
+    # notes as first matched, then everything is matched again with it (exact semitones made the start of
+    # Tune 2 rush through ten notes in a second).
+    part0 = notes[bounds[k0]:bounds[k0 + 1]]
+    first, _ = follow_voice(part0, ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], offset)
+    diffs = []
+    for i, n in enumerate(part0[:-1]):
+        seg = voice[int(first[i] * FPS):int(first[i + 1] * FPS)]
+        seg = seg[np.isfinite(seg)]
+        if len(seg):
+            d = np.median(seg) - (n["pitch"] - offset)
+            if abs(d) < 1.5:
+                diffs.append(d)
+    offset = offset - float(np.median(diffs)) if diffs else offset
+    print(f"the cantor sings {offset:.2f} semitones below the written notes")
 
     scale, w, h = page_scale(a.prepared)
     pw, ph = scale * w, scale * h
