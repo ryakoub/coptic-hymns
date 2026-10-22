@@ -19,6 +19,7 @@ MARKS = {"`": "̀", "~": "̇"}
 LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϣϧϩϫϥϭϣϯ"))
 LETTERS.update({k.upper(): v.upper() for k, v in LETTERS.items() if k.isalpha()})
 LETTERS.update({">": ":", ".": ".", ":": ":"})
+LYRICS_FONT = "ArialCoptic"             # installed on the Mac (ArialCoptic.ttf, as in coptic-hymns/fonts)
 COLOURS = {"red": (126, 0, 0), "blue": (0, 0, 126)}
 
 
@@ -137,6 +138,10 @@ def main():
         parts.append(xml[last_end:at] + lyric)
         last_end = at
     xml = "".join(parts) + xml[last_end:]
+    # The Coptic (first lyric line) in Arial Coptic, the traditional-looking font the app uses too.
+    xml = re.sub(r"(\n([ \t]*)<Division>\d+</Division>\n)",
+                 lambda m: m.group(1) + f"{m.group(2)}<Style>\n{m.group(2)}  <lyricsOddFontFace>{LYRICS_FONT}</lyricsOddFontFace>\n"
+                                        f"{m.group(2)}  <lyricsOddFontSize>12</lyricsOddFontSize>\n{m.group(2)}  </Style>\n", xml, count=1)
     open(out, "w", encoding="utf-8").write(xml)
     print(f"{out}: {len(lyrics)} syllables")
     for col in ("red", "blue", None):

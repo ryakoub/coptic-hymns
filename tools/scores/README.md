@@ -15,7 +15,7 @@ Tried on Pi Gen Misi (your own MuseScore score) with the Mahragan 2023 recording
 
 ## From a MIDI file and the PDF of the same score
 
-Fr. Abraam's MIDI files have the notes but no words. His PDFs (in the collection "جميع تدوينات أبونا إبرام") have both, and their table of contents uses the same numbers as the MIDI files (e.g. "2100 07 السبع طرائق - الأولى" is on pages 1922–1923). `midi_lyrics.py` makes a MuseScore score with the notes from the MIDI and the Coptic words from the PDF, in Unicode, each syllable under its note:
+Fr. Abraam's MIDI files have the notes but no words. His PDFs (in the collection "جميع تدوينات أبونا إبرام") have both, and their table of contents uses the same numbers as the MIDI files (e.g. "2100 07 السبع طرائق - الأولى" is on pages 1922–1923). `midi_lyrics.py` makes a MuseScore score with the notes from the MIDI and the Coptic words from the PDF, in Unicode and in Arial Coptic (it must be installed on the Mac), each syllable under its note:
 ```
 tools/scores/.venv/bin/python tools/scores/midi_lyrics.py "<score.mid>" "<book.pdf>" <first page> <last page> <work folder>/words.mscx
 ```
