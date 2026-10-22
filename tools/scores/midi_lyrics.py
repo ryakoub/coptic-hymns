@@ -158,25 +158,95 @@ def main():
     if unknown:
         print("  old-font keys not known yet (shown as ?):", " ".join(sorted(unknown)))
 
-    # Each syllable into its note, in the PDF's colour, each verse on its own lyric line with room under it for
-    # its transliteration (transliterate.py, LINE_RATIO).
-    parts, last_end = [], 0
-    for i, m in enumerate(chords):
-        verses = sorted(v for n, v in lyrics if n == i)
-        if not verses:
-            continue
-        indent = re.search(r"\n([ \t]*)<(?:durationType|Note)", m.group(0)).group(1)
-        lyric = ""
-        for v in verses:
-            text, col = lyrics[i, v]
-            no = f"{indent}  <no>{VERSE_LINES[v]}</no>\n" if v else ""
+    # Stacked verses: lines where rows of words for several verses share the notes. Each run of such lines is
+    # written out once per verse, one after another, so each line has one verse and the cursor (and the
+    # cantor) always go forward. A "row" of one or two syllables (a large first letter set a little lower) is
+    # part of the first verse.
+    starts = [0]
+    for line in lines:
+        starts.append(starts[-1] + len(line["heads"]))
+    line_of = lambda i: next(n for n in range(len(lines)) if starts[n] <= i < starts[n + 1])
+    for key in [k for k, (t, _) in lyrics.items() if t == "\u0307"]:
+        lyrics.pop(key)                               # the dot of a large letter, without its letter
+    # Each row's colour is that of most of its syllables; a syllable of another colour (a large first letter set
+    # lower or higher) goes to the row of its colour.
+    for n in range(len(lines)):
+        rows = {}
+        for (i, v), (_, col) in lyrics.items():
+            if line_of(i) == n:
+                rows.setdefault(v, []).append((i, col))
+        if len(rows) < 2:
+            continue                                  # one row: its colour may change from verse to verse
+        big = {v: max({c for _, c in r}, key=[c for _, c in r].count) for v, r in rows.items() if len(r) >= 3}
+        for v, r in rows.items():
+            for i, col in r:
+                home = big.get(v)
+                if home == col:
+                    continue
+                to = next((w for w, c in big.items() if c == col), 0 if v not in big else None)
+                if to is not None and to != v and (i, to) not in lyrics:
+                    lyrics[i, to] = lyrics.pop((i, v))
+                elif lyrics[i, v][0][:1].isupper() and any(
+                        t == lyrics[i, v][0] for (j, w), (t, _) in lyrics.items() if (j, w) != (i, v)):
+                    lyrics.pop((i, v))                # a large letter drawn a second time, away from its row
+    verses_on = [len({v for (i, v) in lyrics if line_of(i) == n}) for n in range(len(lines))]
+    blocks, n = [], 0
+    while n < len(lines):
+        if verses_on[n] > 1:
+            e = n
+            while e + 1 < len(lines) and verses_on[e + 1] > 1:
+                e += 1
+            blocks.append((starts[n], starts[e + 1] - 1, max(verses_on[n:e + 1])))
+            n = e + 1
+        else:
+            n += 1
+    for a, b, k in blocks:
+        print(f"  notes {a + 1}–{b + 1} carry {k} verses: written out {k} times")
+
+    # Each syllable into its note, in the PDF's colour, as the first lyric line.
+    measures = list(re.finditer(r"<Measure>.*?</Measure>", xml, re.S))
+    in_measure, i = [], 0
+    for m in measures:
+        here = [c for c in re.finditer(r"<Chord>.*?</Chord>", m.group(0), re.S)
+                if not re.search(r'<Spanner type="Tie">\s*<prev>', c.group(0))]
+        in_measure.append(list(range(i, i + len(here))))
+        i += len(here)
+    measure_of = {i: j for j, ids in enumerate(in_measure) for i in ids}
+
+    def with_words(j, verse):
+        """Measure j with the words of one verse."""
+        text = measures[j].group(0)
+        chords = [c for c in re.finditer(r"<Chord>.*?</Chord>", text, re.S)
+                  if not re.search(r'<Spanner type="Tie">\s*<prev>', c.group(0))]
+        parts, last_end = [], 0
+        for i, c in zip(in_measure[j], chords):
+            if (i, verse) not in lyrics:
+                continue
+            words, col = lyrics[i, verse]
+            indent = re.search(r"\n([ \t]*)<(?:durationType|Note)", c.group(0)).group(1)
             rgb = f'{indent}  <color r="{COLOURS[col][0]}" g="{COLOURS[col][1]}" b="{COLOURS[col][2]}" a="255"/>\n' if col else ""
-            lyric += f"{indent}<Lyrics>\n{no}{rgb}{indent}  <text>{text}</text>\n{indent}  </Lyrics>\n"
-        at = m.start() + m.group(0).index("<Note>")
-        at = xml.rindex("\n", 0, at) + 1
-        parts.append(xml[last_end:at] + lyric)
-        last_end = at
-    xml = "".join(parts) + xml[last_end:]
+            at = text.rindex("\n", 0, c.start() + c.group(0).index("<Note>")) + 1
+            parts.append(text[last_end:at] + f"{indent}<Lyrics>\n{rgb}{indent}  <text>{words}</text>\n{indent}  </Lyrics>\n")
+            last_end = at
+        text = "".join(parts) + text[last_end:]
+        if verse:                                     # a copy: new ids, and no second tempo mark
+            text = re.sub(r"\s*<eid>[^<]*</eid>", "", text)
+            text = re.sub(r"\s*<Tempo>.*?</Tempo>", "", text, flags=re.S)
+        return text
+
+    ends = {measure_of[b]: (measure_of[a], k) for a, b, k in blocks}
+    body = []
+    for j in range(len(measures)):
+        body.append(with_words(j, 0))
+        if j in ends:
+            first_m, k = ends[j]
+            for v in range(1, k):
+                body += [with_words(m, v) for m in range(first_m, j + 1)]
+    sep = xml[measures[0].start() - 1:measures[0].start()] if measures else ""
+    joined = ""
+    for idx, text in enumerate(body):
+        joined += text + ("\n" + re.match(r"[ \t]*", xml[xml.rindex("\n", 0, measures[0].start()) + 1:]).group(0) if idx + 1 < len(body) else "")
+    xml = xml[:measures[0].start()] + joined + xml[measures[-1].end():]
     # The Coptic (first lyric line) in Arial Coptic, the traditional-looking font the app uses too.
     xml = re.sub(r"(\n([ \t]*)<Division>\d+</Division>\n)",
                  lambda m: m.group(1) + f"{m.group(2)}<Style>\n{m.group(2)}  <lyricsOddFontFace>{LYRICS_FONT}</lyricsOddFontFace>\n"
