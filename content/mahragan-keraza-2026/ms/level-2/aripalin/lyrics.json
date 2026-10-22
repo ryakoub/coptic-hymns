@@ -1,6 +1,6 @@
 [
   {
-    "start": 5.61,
+    "start": 5.78,
     "coptic": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ ⲉ̀ⲫⲏⲉ̀ⲧⲁⲩⲁϣϥ: ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲟⲩⲟϩ ⲁⲩⲕⲟⲥϥ: ⲁϥⲧⲱⲛϥ ⲁϥⲕⲱⲣϥ ⲙ̀ⲫ̀ⲙⲟⲩ ⲁϥϯϣⲟϣϥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "O sing unto Him who was crucified, buried and resurrected, who trampled and abolished death, praise Him and exalt Him above all."
@@ -28,10 +28,68 @@
     },
     "sung": {
       "english": "O sing unto Him who was crucified, buried and resurrected for us, who trampled and abolished death, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ",
+        "start": 5.78
+      },
+      {
+        "text": "ⲉ̀ⲫⲏⲉ̀ⲧⲁⲩⲁϣϥ:",
+        "start": 8.5
+      },
+      {
+        "text": "ⲉ̀ϩ̀ⲣⲏⲓ",
+        "start": 10.53
+      },
+      {
+        "text": "ⲉ̀ϫⲱⲛ",
+        "start": 12.17
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 13.58
+      },
+      {
+        "text": "ⲁⲩⲕⲟⲥϥ:",
+        "start": 14.12
+      },
+      {
+        "text": "ⲁϥⲧⲱⲛϥ",
+        "start": 16.81
+      },
+      {
+        "text": "ⲁϥⲕⲱⲣϥ",
+        "start": 18.24
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲙⲟⲩ",
+        "start": 19.55
+      },
+      {
+        "text": "ⲁϥϯϣⲟϣϥ:",
+        "start": 20.77
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 22.15
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 22.85
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 25.11
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 25.61
+      }
+    ]
   },
   {
-    "start": 28.19,
+    "start": 28.25,
     "coptic": "Ⲃⲱϣ ⲙ̀ⲡⲓⲣⲱⲙⲓ ⲙ̀ⲡⲁⲗⲉⲟⲥ: ⲟⲩⲟϩ ϫⲱⲗϩ ⲙ̀ⲡⲓⲃⲉⲣⲓ ⲉⲩⲕ̀ⲗⲉⲟⲥ: ⲟⲩⲟϩ ⲉ̀ϧⲱⲛⲧ ⲉ̀ⲙⲉⲅⲁⲉ̀ⲗⲉⲟⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Take off the old man, and put on the new and superior one, come closer to greatness of mercy, praise Him and exalt Him above all."
@@ -59,10 +117,68 @@
     },
     "sung": {
       "english": "Take off the old man, and put on the new and superior one, come closer to the greatness of mercy, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲃⲱϣ",
+        "start": 28.25
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲣⲱⲙⲓ",
+        "start": 29.35
+      },
+      {
+        "text": "ⲙ̀ⲡⲁⲗⲉⲟⲥ:",
+        "start": 31.26
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 32.84
+      },
+      {
+        "text": "ϫⲱⲗϩ",
+        "start": 33.59
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲃⲉⲣⲓ",
+        "start": 34.51
+      },
+      {
+        "text": "ⲉⲩⲕ̀ⲗⲉⲟⲥ:",
+        "start": 36.09
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 38.09
+      },
+      {
+        "text": "ⲉ̀ϧⲱⲛⲧ",
+        "start": 40.22
+      },
+      {
+        "text": "ⲉ̀ⲙⲉⲅⲁⲉ̀ⲗⲉⲟⲥ:",
+        "start": 40.8
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 43.49
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 44.41
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 45.73
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 48.14
+      }
+    ]
   },
   {
-    "start": 49.41,
+    "start": 49.36,
     "coptic": "Ⲅⲉⲛⲟⲥ ⲛ̀Ⲛⲓⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲕⲉ ⲇⲓⲁⲕⲟⲛⲟⲥ: ⲙⲁⲱ̀ⲟⲩ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϫⲉ ⲟⲩϩⲓⲕⲁⲛⲟⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "All you Christian people, the priests and the deacons, glorify the Lord for He is worthy, praise Him and exalt Him above all."
@@ -87,10 +203,69 @@
     ],
     "transliterations": {
       "english": "Genos enni-ekhristianos: ni-epresviteros ke thiakonos: ma-oou emepshois je ouhikanos: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲅⲉⲛⲟⲥ",
+        "start": 49.36
+      },
+      {
+        "text": "ⲛ̀Ⲛⲓⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ:",
+        "start": 50.53
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ",
+        "start": 54.45
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 56.91,
+        "estimated": true
+      },
+      {
+        "text": "ⲇⲓⲁⲕⲟⲛⲟⲥ:",
+        "start": 57.32
+      },
+      {
+        "text": "ⲙⲁⲱ̀ⲟⲩ",
+        "start": 59.82,
+        "estimated": true
+      },
+      {
+        "text": "ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 60.65
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 62.1,
+        "estimated": true
+      },
+      {
+        "text": "ⲟⲩϩⲓⲕⲁⲛⲟⲥ:",
+        "start": 62.59
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 64.7
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 65.56,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 66.81,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 69.08
+      }
+    ]
   },
   {
-    "start": 70.4,
+    "start": 70.88,
     "coptic": "Ⲇⲉⲩⲧⲉ ϩⲁⲣⲟⲛ ⲱ̀ ⲡⲓϣⲟⲙⲧ ⲛ̀ⲁ̀ⲗⲟⲩ: ⲉ̀ⲧⲁ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲟ̀ⲗⲟⲩ: ⲁϥⲛⲁϩⲙⲟⲩ ⲉ̀ⲃⲟⲗ ϩⲁ Ⲡⲓⲇⲓⲁⲃⲟⲗⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Come to us O three children, whom Christ our God has lifted, and from the Devil has delivered, praise Him and exalt Him above all."
@@ -115,10 +290,91 @@
     ],
     "transliterations": {
       "english": "Thevte haron o pishomt enalou: eta Pi-ekhristos Pennoti olou: afnahmou evol ha Pithiavolou: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲇⲉⲩⲧⲉ",
+        "start": 70.88
+      },
+      {
+        "text": "ϩⲁⲣⲟⲛ",
+        "start": 71.62,
+        "estimated": true
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 72.37,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲓϣⲟⲙⲧ",
+        "start": 72.74,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲗⲟⲩ:",
+        "start": 73.49,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲧⲁ",
+        "start": 74.6,
+        "estimated": true
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+        "start": 75.35
+      },
+      {
+        "text": "Ⲡⲉⲛⲛⲟⲩϯ",
+        "start": 77.88
+      },
+      {
+        "text": "ⲟ̀ⲗⲟⲩ:",
+        "start": 79.23,
+        "estimated": true
+      },
+      {
+        "text": "ⲁϥⲛⲁϩⲙⲟⲩ",
+        "start": 80.58,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 82.61
+      },
+      {
+        "text": "ϩⲁ",
+        "start": 83.39,
+        "estimated": true
+      },
+      {
+        "text": "Ⲡⲓⲇⲓⲁⲃⲟⲗⲟⲩ:",
+        "start": 83.79
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 85.81,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 86.31,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 87.32,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 88.83
+      }
+    ]
   },
   {
-    "start": 91.99,
+    "start": 92.27,
     "coptic": "Ⲉⲑⲃⲉ Ⲡⲉⲕⲛⲟⲩϯ Ⲙⲁⲥⲓⲁⲥ: Ⲫ̀ⲣⲉϥϯ ⲛ̀ⲉⲩⲉⲣⲅⲉⲥⲓⲁⲥ: ⲁ̀ⲙⲟⲩ ϣⲁⲣⲟⲛ Ⲁ̀ⲛⲁⲛⲓⲁⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "For the sake of your God the Messiah, the Giver of all good things, come unto us O Hananiah, praise Him and exalt Him above all."
@@ -143,10 +399,63 @@
     ],
     "transliterations": {
       "english": "Ethve Peknoti Masias: Efrefti enevergesias: amou sharon Ananias: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲉⲑⲃⲉ",
+        "start": 92.27
+      },
+      {
+        "text": "Ⲡⲉⲕⲛⲟⲩϯ",
+        "start": 93.76,
+        "estimated": true
+      },
+      {
+        "text": "Ⲙⲁⲥⲓⲁⲥ:",
+        "start": 95.25
+      },
+      {
+        "text": "Ⲫ̀ⲣⲉϥϯ",
+        "start": 97.55
+      },
+      {
+        "text": "ⲛ̀ⲉⲩⲉⲣⲅⲉⲥⲓⲁⲥ:",
+        "start": 99.68
+      },
+      {
+        "text": "ⲁ̀ⲙⲟⲩ",
+        "start": 102.45
+      },
+      {
+        "text": "ϣⲁⲣⲟⲛ",
+        "start": 103.88
+      },
+      {
+        "text": "Ⲁ̀ⲛⲁⲛⲓⲁⲥ:",
+        "start": 105.33
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 108.05
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 108.78,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 109.84,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 111.77
+      }
+    ]
   },
   {
-    "start": 114.53,
+    "start": 113.99,
     "coptic": "Ⲍⲏⲗⲱⲧⲉ Ⲁ̀ⲍⲁⲣⲓⲁⲥ: ⲉⲥⲡⲉⲣⲁⲥ ⲕⲉ ⲡ̀ⲣⲱⲓ̀ ⲕⲉ ⲙⲉⲥⲏⲙ ⲃ̀ⲣⲓⲁⲥ: ⲙⲁⲱ̀ⲟⲩ ⲛ̀ⲧ̀ϫⲟⲙ ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "O Azariah the zealot, morning and noon and the evening, glorify the power of the Trinity, praise Him and exalt Him above all."
@@ -174,10 +483,78 @@
     },
     "sung": {
       "english": "O Azariah the zealot, evening and morning and at noon, glorify the power of the trinity, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲍⲏⲗⲱⲧⲉ",
+        "start": 113.99
+      },
+      {
+        "text": "Ⲁ̀ⲍⲁⲣⲓⲁⲥ:",
+        "start": 117.78
+      },
+      {
+        "text": "ⲉⲥⲡⲉⲣⲁⲥ",
+        "start": 119.42
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 120.86
+      },
+      {
+        "text": "ⲡ̀ⲣⲱⲓ̀",
+        "start": 121.35,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 122.32,
+        "estimated": true
+      },
+      {
+        "text": "ⲙⲉⲥⲏⲙ",
+        "start": 122.81,
+        "estimated": true
+      },
+      {
+        "text": "ⲃ̀ⲣⲓⲁⲥ:",
+        "start": 123.79
+      },
+      {
+        "text": "ⲙⲁⲱ̀ⲟⲩ",
+        "start": 125.08
+      },
+      {
+        "text": "ⲛ̀ⲧ̀ϫⲟⲙ",
+        "start": 125.99,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ:",
+        "start": 128.73
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 130.89,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 131.61,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 133.06
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 134.63
+      }
+    ]
   },
   {
-    "start": 136.13,
+    "start": 136.74,
     "coptic": "Ⲏⲡⲡⲉ ⲅⲁⲣ ⲓⲥ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ϩⲓ ⲧⲉⲛⲙⲏϯ ⲱ̀ Ⲙⲓⲥⲁⲏⲗ: ⲗⲁⲗⲓ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Behold Emmanuel [our Lord], is now in our midst O Mishael, proclaim with the voice of joy, praise Him and exalt Him above all."
@@ -205,10 +582,84 @@
     },
     "sung": {
       "english": "Behold Emmanuel, is now in our midst O Mishael, proclaim with the voice of joy, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲏⲡⲡⲉ",
+        "start": 136.74,
+        "estimated": true
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 138.19,
+        "estimated": true
+      },
+      {
+        "text": "ⲓⲥ",
+        "start": 138.92,
+        "estimated": true
+      },
+      {
+        "text": "Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:",
+        "start": 139.65
+      },
+      {
+        "text": "ϩⲓ",
+        "start": 142.03,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲉⲛⲙⲏϯ",
+        "start": 142.82
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 144.51,
+        "estimated": true
+      },
+      {
+        "text": "Ⲙⲓⲥⲁⲏⲗ:",
+        "start": 145.35
+      },
+      {
+        "text": "ⲗⲁⲗⲓ",
+        "start": 147.28
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 148.57,
+        "estimated": true
+      },
+      {
+        "text": "ⲟⲩⲥ̀ⲙⲏ",
+        "start": 149.21,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲑⲉⲗⲏⲗ:",
+        "start": 151.15,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 153.08
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 153.73
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 155.11
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 157.09
+      }
+    ]
   },
   {
-    "start": 159.11,
+    "start": 160.0,
     "coptic": "Ⲑⲱⲟⲩϯ ϯⲛⲟⲩ ⲕⲁⲧⲁ ⲭⲓⲛ ⲧⲏⲣⲟⲩ: ⲥⲁϫⲓ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲩ: ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲉϥϩ̀ⲃⲏⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Gather now and persevere, and proclaim with the priests, bless the Lord all His works, praise Him and exalt Him above all."
@@ -233,10 +684,85 @@
     ],
     "transliterations": {
       "english": "Thoouti tinou kata shin teerou: saji nem ni-epresviterou: esmou e-epshois nefehveeoui teerou: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲑⲱⲟⲩϯ",
+        "start": 160.0,
+        "estimated": true
+      },
+      {
+        "text": "ϯⲛⲟⲩ",
+        "start": 160.61
+      },
+      {
+        "text": "ⲕⲁⲧⲁ",
+        "start": 161.32
+      },
+      {
+        "text": "ⲭⲓⲛ",
+        "start": 162.68
+      },
+      {
+        "text": "ⲧⲏⲣⲟⲩ:",
+        "start": 163.35,
+        "estimated": true
+      },
+      {
+        "text": "ⲥⲁϫⲓ",
+        "start": 164.68,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 166.01,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲩ:",
+        "start": 166.68
+      },
+      {
+        "text": "ⲥ̀ⲙⲟⲩ",
+        "start": 169.93
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 171.12,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉϥϩ̀ⲃⲏⲟⲩⲓ̀",
+        "start": 172.92,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲏⲣⲟⲩ:",
+        "start": 174.72,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 175.91
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 176.5,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 177.77,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 179.58
+      }
+    ]
   },
   {
-    "start": 181.64,
+    "start": 181.56,
     "coptic": "Ⲓⲥ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲥⲉⲥⲁϫⲓ ⲙ̀ⲡ̀ⲱ̀ⲟⲩ: ⲙ̀Ⲫ̀ⲛⲟⲩϯ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲙ̀ⲫⲟⲟⲩ: ⲱ̀ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲉ̀ⲧⲁϥϫ̀ⲫⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "The heavens declare the glory, of God until this day, O you angels whom He has made, praise Him and exalt Him above all."
@@ -261,7 +787,76 @@
     ],
     "transliterations": {
       "english": "Is nifeeoui sesaji emepoou: emefnoti sha ekhoun emfoou: o niangelos etafegfoou: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲓⲥ",
+        "start": 181.56
+      },
+      {
+        "text": "ⲛⲓⲫⲏⲟⲩⲓ̀",
+        "start": 182.55,
+        "estimated": true
+      },
+      {
+        "text": "ⲥⲉⲥⲁϫⲓ",
+        "start": 184.51
+      },
+      {
+        "text": "ⲙ̀ⲡ̀ⲱ̀ⲟⲩ:",
+        "start": 186.48,
+        "estimated": true
+      },
+      {
+        "text": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ",
+        "start": 188.45
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 190.72,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ϧⲟⲩⲛ",
+        "start": 191.48
+      },
+      {
+        "text": "ⲙ̀ⲫⲟⲟⲩ:",
+        "start": 193.66
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 194.92,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲁⲅⲅⲉⲗⲟⲥ",
+        "start": 195.55
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥϫ̀ⲫⲱⲟⲩ:",
+        "start": 197.09,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 199.15
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 199.69,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 200.85,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 202.51
+      }
+    ]
   },
   {
     "start": 205.3,
@@ -289,10 +884,96 @@
     ],
     "transliterations": {
       "english": "Ke nin thinamis tou Kiriou: esmou epefran tou timiou: piree nem pioh nem nisiou: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲕⲉ",
+        "start": 205.3,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲩⲛ",
+        "start": 205.8,
+        "estimated": true
+      },
+      {
+        "text": "ⲇⲩⲛⲁⲙⲓⲥ",
+        "start": 206.29,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲟⲩ",
+        "start": 207.79,
+        "estimated": true
+      },
+      {
+        "text": "Ⲕⲩⲣⲓⲟⲩ:",
+        "start": 208.28
+      },
+      {
+        "text": "ⲥ̀ⲙⲟⲩ",
+        "start": 209.76,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲡⲉϥⲣⲁⲛ",
+        "start": 211.24,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲟⲩ",
+        "start": 213.45,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲓⲙⲓⲟⲩ:",
+        "start": 214.19
+      },
+      {
+        "text": "ⲡⲓⲣⲏ",
+        "start": 215.81,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 217.42,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲓⲓⲟϩ",
+        "start": 218.23,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 219.04,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲥⲓⲟⲩ:",
+        "start": 219.85
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 221.25
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 221.99
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 223.8,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 226.38
+      }
+    ]
   },
   {
-    "start": 227.66,
+    "start": 227.52,
     "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲛⲓⲙⲟⲩⲛ̀ϩⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲱϯ: ⲉⲩⲫⲏⲙⲓⲥⲁ ⲧⲉ Ⲡⲉⲛⲣⲉϥⲥⲱϯ: ϫⲉ ⲛ̀ⲑⲟϥ ⲡⲉ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "And also you rain and dew, sing praises unto our Savior, for He is the God of our fathers, praise Him and exalt Him above all."
@@ -320,10 +1001,91 @@
     },
     "sung": {
       "english": "And also O you rain and dew, sing praises unto our Savior, for He is God of our fathers, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲗⲟⲓⲡⲟⲛ",
+        "start": 227.52
+      },
+      {
+        "text": "ⲛⲓⲙⲟⲩⲛ̀ϩⲱⲟⲩ",
+        "start": 228.32,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 229.91,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲓⲱϯ:",
+        "start": 230.31
+      },
+      {
+        "text": "ⲉⲩⲫⲏⲙⲓⲥⲁ",
+        "start": 232.95
+      },
+      {
+        "text": "ⲧⲉ",
+        "start": 235.78,
+        "estimated": true
+      },
+      {
+        "text": "Ⲡⲉⲛⲣⲉϥⲥⲱϯ:",
+        "start": 236.49,
+        "estimated": true
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 238.62
+      },
+      {
+        "text": "ⲛ̀ⲑⲟϥ",
+        "start": 239.22,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲉ",
+        "start": 240.41,
+        "estimated": true
+      },
+      {
+        "text": "Ⲫ̀ⲛⲟⲩϯ",
+        "start": 241.01
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 242.06,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲛⲓⲟϯ:",
+        "start": 243.11,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 244.15
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 244.8,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 246.19,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 248.16,
+        "estimated": true
+      }
+    ]
   },
   {
-    "start": 250.11,
+    "start": 250.47,
     "coptic": "Ⲙⲁⲱ̀ⲟⲩ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲱ̀ ⲛⲓϭⲏⲡⲓ ⲉⲩⲙⲁ: ⲛⲓⲑⲏⲟⲩ ⲛⲉⲙ ⲛⲓⲛⲓϥⲓ ⲛⲉⲙ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ: ⲡⲓϫⲁϥ ⲛⲉⲙ ⲡⲓⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲡⲓⲕⲁⲩⲙⲁ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Glorify the Lord O clouds and winds, together with the souls and the spirits, O you cold and fire and heat, praise Him and exalt Him above all."
@@ -348,10 +1110,99 @@
     ],
     "transliterations": {
       "english": "Ma-oou emepshois o nicheepi evma: nitheeou nem ninifi nem ni-epnevma: pigaf nem pi-ekrom nem pikavma: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲙⲁⲱ̀ⲟⲩ",
+        "start": 250.47
+      },
+      {
+        "text": "ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 251.95
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 253.46,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓϭⲏⲡⲓ",
+        "start": 253.96
+      },
+      {
+        "text": "ⲉⲩⲙⲁ:",
+        "start": 255.72
+      },
+      {
+        "text": "ⲛⲓⲑⲏⲟⲩ",
+        "start": 256.21,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 256.69
+      },
+      {
+        "text": "ⲛⲓⲛⲓϥⲓ",
+        "start": 257.18,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 258.65,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ:",
+        "start": 259.15
+      },
+      {
+        "text": "ⲡⲓϫⲁϥ",
+        "start": 261.32,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 262.4,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲓⲭ̀ⲣⲱⲙ",
+        "start": 262.95,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 264.57,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲓⲕⲁⲩⲙⲁ:",
+        "start": 265.12,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 266.75
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 267.41,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 268.85
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 270.83,
+        "estimated": true
+      }
+    ]
   },
   {
-    "start": 272.28,
+    "start": 272.41,
     "coptic": "Ⲛⲩⲕⲧⲉⲥ ⲕⲉ ⲏ̀ⲙⲉⲣⲉⲣⲱ ⲡⲉ: ⲫⲱⲥ ⲕⲉ ⲥ̀ⲕⲟⲧⲟⲥ ⲕⲉ ⲁⲥⲧ̀ⲣⲁⲡⲉ: ϫⲉ ⲇⲟⲝⲁ ⲥⲓ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "You also nights and days, light and darkness and lightning, glorify the Lover of Mankind, praise Him and exalt Him above all."
@@ -376,10 +1227,90 @@
     ],
     "transliterations": {
       "english": "Niktes ke eemerero pe: fos ke eskotos ke asetrape: je thoksa si Filanethrope: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲛⲩⲕⲧⲉⲥ",
+        "start": 272.41
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 274.17,
+        "estimated": true
+      },
+      {
+        "text": "ⲏ̀ⲙⲉⲣⲉⲣⲱ",
+        "start": 275.05
+      },
+      {
+        "text": "ⲡⲉ:",
+        "start": 277.22,
+        "estimated": true
+      },
+      {
+        "text": "ⲫⲱⲥ",
+        "start": 277.76,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 278.31,
+        "estimated": true
+      },
+      {
+        "text": "ⲥ̀ⲕⲟⲧⲟⲥ",
+        "start": 278.85,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 280.48,
+        "estimated": true
+      },
+      {
+        "text": "ⲁⲥⲧ̀ⲣⲁⲡⲉ:",
+        "start": 281.02
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 283.26,
+        "estimated": true
+      },
+      {
+        "text": "ⲇⲟⲝⲁ",
+        "start": 283.82
+      },
+      {
+        "text": "ⲥⲓ",
+        "start": 285.05,
+        "estimated": true
+      },
+      {
+        "text": "Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ:",
+        "start": 285.67
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 288.72,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 289.33,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 290.55
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 293.07
+      }
+    ]
   },
   {
-    "start": 294.23,
+    "start": 294.4,
     "coptic": "Ⲝⲩⲗⲁ ⲕⲉ ⲡⲁⲛⲧⲁ ⲧⲁ ⲫⲩⲟ̀ⲙⲉⲛⲁ: ⲉⲛ ⲧⲏ ⲅⲏ ⲕⲉ ⲡⲁⲛⲧⲁ ⲧⲁ ⲕⲓⲛⲟⲩⲙⲉⲛⲁ: ϩⲓ ⲛⲓⲙⲱⲟⲩ ⲛⲉⲙ ⲛⲓⲧⲱⲟⲩ ⲛⲉⲙ ⲇ̀ⲣⲩⲙⲟⲛⲁ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "You trees and all that springs on the earth, and all that moves in the sea, mountains and the forests, praise Him and exalt Him above all."
@@ -407,10 +1338,109 @@
     },
     "sung": {
       "english": "You trees and all that springs on the earth, and all that moves in the waters, mountains and the forests, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲝⲩⲗⲁ",
+        "start": 294.4
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 295.39,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲁⲛⲧⲁ",
+        "start": 295.88
+      },
+      {
+        "text": "ⲧⲁ",
+        "start": 296.88,
+        "estimated": true
+      },
+      {
+        "text": "ⲫⲩⲟ̀ⲙⲉⲛⲁ:",
+        "start": 297.39
+      },
+      {
+        "text": "ⲉⲛ",
+        "start": 299.27,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲏ",
+        "start": 299.9,
+        "estimated": true
+      },
+      {
+        "text": "ⲅⲏ",
+        "start": 300.53,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 301.16,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲁⲛⲧⲁ",
+        "start": 301.79
+      },
+      {
+        "text": "ⲧⲁ",
+        "start": 302.78,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲓⲛⲟⲩⲙⲉⲛⲁ:",
+        "start": 303.28
+      },
+      {
+        "text": "ϩⲓ",
+        "start": 304.56,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲙⲱⲟⲩ",
+        "start": 304.88
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 305.48
+      },
+      {
+        "text": "ⲛⲓⲧⲱⲟⲩ",
+        "start": 306.14
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 307.45,
+        "estimated": true
+      },
+      {
+        "text": "ⲇ̀ⲣⲩⲙⲟⲛⲁ:",
+        "start": 308.1
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 310.23
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 310.78
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 312.22
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 313.44
+      }
+    ]
   },
   {
-    "start": 315.81,
+    "start": 316.55,
     "coptic": "Ⲟⲩⲟϩ ⲟⲛ ⲥ̀ⲙⲟⲩ ⲛ̀ⲁⲧⲭⲁⲣⲱⲟⲩ: ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲛⲓⲟⲩⲣⲱⲟⲩ: ⲛⲓⲁ̀ⲙⲁⲓⲟⲩ ⲛⲉⲙ ⲛⲓⲓⲁⲣⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Praise without ceasing, the Lord the King of the kings, O you rivers and seas, praise Him and exalt Him above all."
@@ -435,10 +1465,74 @@
     ],
     "transliterations": {
       "english": "O-woh on esmou enatkaroou: e-epshois Epouro ente niouroou: ni-amaiou nem niaroou: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲟⲩⲟϩ",
+        "start": 316.55
+      },
+      {
+        "text": "ⲟⲛ",
+        "start": 317.11,
+        "estimated": true
+      },
+      {
+        "text": "ⲥ̀ⲙⲟⲩ",
+        "start": 317.68
+      },
+      {
+        "text": "ⲛ̀ⲁⲧⲭⲁⲣⲱⲟⲩ:",
+        "start": 318.95
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 321.15
+      },
+      {
+        "text": "Ⲡ̀ⲟⲩⲣⲟ",
+        "start": 322.94
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 324.65
+      },
+      {
+        "text": "ⲛⲓⲟⲩⲣⲱⲟⲩ:",
+        "start": 325.23
+      },
+      {
+        "text": "ⲛⲓⲁ̀ⲙⲁⲓⲟⲩ",
+        "start": 326.72
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 328.64
+      },
+      {
+        "text": "ⲛⲓⲓⲁⲣⲱⲟⲩ:",
+        "start": 330.09
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 332.08
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 332.67,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 334.23
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 336.73
+      }
+    ]
   },
   {
-    "start": 338.01,
+    "start": 337.94,
     "coptic": "Ⲡⲁⲓⲣⲏϯ ⲁ̀ⲛⲟⲛ ⲧⲉⲛⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ: ⲙⲁⲣⲉⲛϫⲟⲥ ⲛⲉⲙ ⲛⲁⲓ ⲱⲛ ⲧⲏⲣⲟⲩ: ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓϩⲁⲗⲁϯ ⲧⲏⲣⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "And we also seeing them, let us say with all these things, bless the Lord all you birds, praise Him and exalt Him above all."
@@ -463,10 +1557,84 @@
     ],
     "transliterations": {
       "english": "Paireeti anon tennav eroou: marengos nem nai on teerou: esmou e-epshois nihalati teerou: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲡⲁⲓⲣⲏϯ",
+        "start": 337.94
+      },
+      {
+        "text": "ⲁ̀ⲛⲟⲛ",
+        "start": 340.0
+      },
+      {
+        "text": "ⲧⲉⲛⲛⲁⲩ",
+        "start": 341.4
+      },
+      {
+        "text": "ⲉ̀ⲣⲱⲟⲩ:",
+        "start": 342.56
+      },
+      {
+        "text": "ⲙⲁⲣⲉⲛϫⲟⲥ",
+        "start": 343.77
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 345.63,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲁⲓ",
+        "start": 346.26,
+        "estimated": true
+      },
+      {
+        "text": "ⲱⲛ",
+        "start": 346.88
+      },
+      {
+        "text": "ⲧⲏⲣⲟⲩ:",
+        "start": 347.94
+      },
+      {
+        "text": "ⲥ̀ⲙⲟⲩ",
+        "start": 349.14
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 350.55
+      },
+      {
+        "text": "ⲛⲓϩⲁⲗⲁϯ",
+        "start": 351.83
+      },
+      {
+        "text": "ⲧⲏⲣⲟⲩ:",
+        "start": 353.87
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 355.29
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 355.86,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 357.37,
+        "estimated": true
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 358.64
+      }
+    ]
   },
   {
-    "start": 360.33,
+    "start": 360.22,
     "coptic": "Ⲣⲱ ⲛ̀ⲛⲓⲡⲁⲭⲛⲏ ⲛⲉⲙ ⲛⲓⲭⲓⲱⲛ: ⲕⲉ ⲕ̀ⲧⲏⲛⲱⲛ ⲛⲉⲙ ⲛⲓⲑⲏⲣⲓⲟⲛ: ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲧⲱⲛ ⲕⲩⲣⲓⲱⲛ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "O snow and ice, cattle and wild beasts, bless the Lord of lords, praise Him and exalt Him above all."
@@ -491,10 +1659,78 @@
     ],
     "transliterations": {
       "english": "Ro ennipakhnee nem nishion: ke ekteenon nem nitheerion: esmou e-epshois ton kirion: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲣⲱ",
+        "start": 360.22
+      },
+      {
+        "text": "ⲛ̀ⲛⲓⲡⲁⲭⲛⲏ",
+        "start": 361.11
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 362.55
+      },
+      {
+        "text": "ⲛⲓⲭⲓⲱⲛ:",
+        "start": 363.43,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 365.19
+      },
+      {
+        "text": "ⲕ̀ⲧⲏⲛⲱⲛ",
+        "start": 365.93
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 367.69,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲓⲑⲏⲣⲓⲟⲛ:",
+        "start": 368.27
+      },
+      {
+        "text": "ⲥ̀ⲙⲟⲩ",
+        "start": 370.33
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 372.05
+      },
+      {
+        "text": "ⲧⲱⲛ",
+        "start": 373.25
+      },
+      {
+        "text": "ⲕⲩⲣⲓⲱⲛ:",
+        "start": 374.17
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 375.74
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 376.34
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 377.77
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 380.47
+      }
+    ]
   },
   {
-    "start": 381.57,
+    "start": 381.89,
     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲕⲁⲧⲁ ⲫ̀ⲧⲱⲙⲓ: ⲉ̀ⲣⲟϥ ⲕⲉ ⲟⲩ ⲙⲏ ⲡⲁⲣⲁⲛⲟⲙⲓ: ⲱ̀ ⲛⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ ⲛⲓⲣⲱⲙⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Bless the Lord as befits Him, and not like the heretics, all you sons of men, praise Him and exalt Him above all."
@@ -522,10 +1758,80 @@
     },
     "sung": {
       "english": "Bless the Lord as befits Him, and not like the disobedient, all you sons of men, praise Him and exalt Him above all."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲥ̀ⲙⲟⲩ",
+        "start": 381.89
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+        "start": 383.31
+      },
+      {
+        "text": "ⲕⲁⲧⲁ",
+        "start": 384.36
+      },
+      {
+        "text": "ⲫ̀ⲧⲱⲙⲓ:",
+        "start": 384.9
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 386.45
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 387.9
+      },
+      {
+        "text": "ⲟⲩ",
+        "start": 388.55
+      },
+      {
+        "text": "ⲙⲏ",
+        "start": 389.3
+      },
+      {
+        "text": "ⲡⲁⲣⲁⲛⲟⲙⲓ:",
+        "start": 390.07
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 391.95
+      },
+      {
+        "text": "ⲛⲓϣⲏⲣⲓ",
+        "start": 392.71
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 394.27
+      },
+      {
+        "text": "ⲛⲓⲣⲱⲙⲓ:",
+        "start": 395.64
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 397.51
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 398.43
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 399.5
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 400.52
+      }
+    ]
   },
   {
-    "start": 403.47,
+    "start": 403.68,
     "coptic": "Ⲧⲓⲙⲏ ⲕⲉ ⲇⲟⲝⲁ ⲱ̀ Ⲡⲓⲥⲣⲁⲏⲗ: ⲓ̀ⲛⲓ ⲛⲁϩⲣⲁϥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ⲛⲓⲟⲩⲏⲃ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "O Israel offer before Him, honor and glory in a joyful voice, all you priests of Emmanuel, praise Him and exalt Him above all."
@@ -550,10 +1856,86 @@
     ],
     "transliterations": {
       "english": "Timee ke thoksa o Pisraeel: ini nahraf khen ou-esmee entheleel: nioweeb ente Emmanoweel: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲧⲓⲙⲏ",
+        "start": 403.68
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 404.97,
+        "estimated": true
+      },
+      {
+        "text": "ⲇⲟⲝⲁ",
+        "start": 405.61
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 406.27,
+        "estimated": true
+      },
+      {
+        "text": "Ⲡⲓⲥⲣⲁⲏⲗ:",
+        "start": 406.6
+      },
+      {
+        "text": "ⲓ̀ⲛⲓ",
+        "start": 408.03,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲁϩⲣⲁϥ",
+        "start": 409.45
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 411.59
+      },
+      {
+        "text": "ⲟⲩⲥ̀ⲙⲏ",
+        "start": 411.89,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲑⲉⲗⲏⲗ:",
+        "start": 412.82
+      },
+      {
+        "text": "ⲛⲓⲟⲩⲏⲃ",
+        "start": 414.78,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 415.43,
+        "estimated": true
+      },
+      {
+        "text": "Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:",
+        "start": 416.73
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 419.2
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 419.9
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 421.07
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 422.67
+      }
+    ]
   },
   {
-    "start": 425.01,
+    "start": 425.88,
     "coptic": "Ⲩ̀ⲡⲏⲣⲉⲧⲱⲛ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲙ̀ⲙⲏⲓ: ⲛⲉⲙ ⲛⲓⲯⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲓⲑ̀ⲙⲏⲓ: ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ ⲛ̀ⲣⲉϥⲙⲉⲓ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "You servants of the true God, the souls of the righteous, and the humble and the charitable, praise Him and exalt Him above all."
@@ -578,10 +1960,64 @@
     ],
     "transliterations": {
       "english": "Ipeereton emefnoti emmee: nem nipsishee ente ni-ethmee: nee-etthevieeout enrefmei: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲩ̀ⲡⲏⲣⲉⲧⲱⲛ",
+        "start": 425.88
+      },
+      {
+        "text": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ",
+        "start": 428.54
+      },
+      {
+        "text": "ⲙ̀ⲙⲏⲓ:",
+        "start": 429.12
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 430.0
+      },
+      {
+        "text": "ⲛⲓⲯⲩⲭⲏ",
+        "start": 430.56
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 432.92
+      },
+      {
+        "text": "ⲛⲓⲑ̀ⲙⲏⲓ:",
+        "start": 433.34
+      },
+      {
+        "text": "ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ",
+        "start": 435.23
+      },
+      {
+        "text": "ⲛ̀ⲣⲉϥⲙⲉⲓ:",
+        "start": 438.58
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 440.27
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 441.09
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 442.39
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 444.85
+      }
+    ]
   },
   {
-    "start": 445.86,
+    "start": 446.23,
     "coptic": "Ⲫ̀ⲛⲟⲩϯ Ⲡⲁⲛⲟⲩϯ ⲉ̀ⲅⲱ: Ⲡⲉⲧⲉⲛⲣⲉϥⲥⲱϯ ⲉⲕ ⲧⲟⲛ ⲁ̀ⲅⲱ: Ⲥⲉⲇⲣⲁⲕ Ⲙⲓⲥⲁⲕ Ⲁⲃⲇⲉⲛⲁⲅⲱ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "God my God is the One, who saved you from danger, O Sedrach Misach and Abednago, praise Him and exalt Him above all."
@@ -606,10 +2042,71 @@
     ],
     "transliterations": {
       "english": "Efnoti Panoti egho: Petenrefsoti ek ton agho: Sedrak Misak Abdenagho: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲫ̀ⲛⲟⲩϯ",
+        "start": 446.23
+      },
+      {
+        "text": "Ⲡⲁⲛⲟⲩϯ",
+        "start": 447.66
+      },
+      {
+        "text": "ⲉ̀ⲅⲱ:",
+        "start": 449.18
+      },
+      {
+        "text": "Ⲡⲉⲧⲉⲛⲣⲉϥⲥⲱϯ",
+        "start": 451.73
+      },
+      {
+        "text": "ⲉⲕ",
+        "start": 454.26,
+        "estimated": true
+      },
+      {
+        "text": "ⲧⲟⲛ",
+        "start": 454.89,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲅⲱ:",
+        "start": 455.52,
+        "estimated": true
+      },
+      {
+        "text": "Ⲥⲉⲇⲣⲁⲕ",
+        "start": 456.79
+      },
+      {
+        "text": "Ⲙⲓⲥⲁⲕ",
+        "start": 457.91
+      },
+      {
+        "text": "Ⲁⲃⲇⲉⲛⲁⲅⲱ:",
+        "start": 460.18
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 462.2
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 462.79
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 464.07
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 465.35
+      }
+    ]
   },
   {
-    "start": 468.04,
+    "start": 468.07,
     "coptic": "Ⲭⲱⲗⲉⲙ ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲛ̀ϣ̀ⲣⲱⲓⲥ: ⲱ̀ ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ ⲙ̀Ⲡ̀ϭⲟⲓⲥ: ⲛⲉⲙ ⲛⲓⲫⲩⲥⲓⲥ ⲧⲏⲣⲟⲩ ⲉ̀ⲧⲁϥⲁⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Hurry with great haste, O you righteous of the Lord, and all the creatures He has made, praise Him and exalt Him above all."
@@ -634,10 +2131,74 @@
     ],
     "transliterations": {
       "english": "Kolem khen ounishti eneshrois: o nee-eterseveste emepshois: nem nifisis teerou etafais: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲭⲱⲗⲉⲙ",
+        "start": 468.07
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 469.37,
+        "estimated": true
+      },
+      {
+        "text": "ⲟⲩⲛⲓϣϯ",
+        "start": 470.02
+      },
+      {
+        "text": "ⲛ̀ϣ̀ⲣⲱⲓⲥ:",
+        "start": 471.23
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 473.26,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ",
+        "start": 473.94
+      },
+      {
+        "text": "ⲙ̀Ⲡ̀ϭⲟⲓⲥ:",
+        "start": 477.03
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 478.95
+      },
+      {
+        "text": "ⲛⲓⲫⲩⲥⲓⲥ",
+        "start": 480.09
+      },
+      {
+        "text": "ⲧⲏⲣⲟⲩ",
+        "start": 480.9
+      },
+      {
+        "text": "ⲉ̀ⲧⲁϥⲁⲓⲥ:",
+        "start": 482.43
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 484.38
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 484.97
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 486.33
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 487.6
+      }
+    ]
   },
   {
-    "start": 490.26,
+    "start": 490.89,
     "coptic": "Ⲯⲩⲭⲟⲥ ⲕⲉ ⲁ̀ⲛⲁⲡⲁⲩⲥⲓⲥ: ⲙⲟⲓ ⲛⲁⲛ ⲧⲏⲣⲉⲛ ⲭⲱⲣⲓⲥ ⲑ̀ⲣⲁⲩⲥⲓⲥ: ⲉⲑⲣⲉⲛϫⲱ ϧⲉⲛ ⲟⲩⲁ̀ⲡⲟⲗⲁⲩⲥⲓⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "Coolness and repose without ceasing, grant unto all of us, that we may joyfully proclaim, praise Him and exalt Him above all."
@@ -662,10 +2223,73 @@
     ],
     "transliterations": {
       "english": "Psikhos ke anapavsis: moi nan teeren khoris ethravsis: ethrengo khen o-apolavsis: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲯⲩⲭⲟⲥ",
+        "start": 490.89,
+        "estimated": true
+      },
+      {
+        "text": "ⲕⲉ",
+        "start": 492.25
+      },
+      {
+        "text": "ⲁ̀ⲛⲁⲡⲁⲩⲥⲓⲥ:",
+        "start": 492.83
+      },
+      {
+        "text": "ⲙⲟⲓ",
+        "start": 495.25
+      },
+      {
+        "text": "ⲛⲁⲛ",
+        "start": 495.99
+      },
+      {
+        "text": "ⲧⲏⲣⲉⲛ",
+        "start": 496.59
+      },
+      {
+        "text": "ⲭⲱⲣⲓⲥ",
+        "start": 498.34
+      },
+      {
+        "text": "ⲑ̀ⲣⲁⲩⲥⲓⲥ:",
+        "start": 499.13
+      },
+      {
+        "text": "ⲉⲑⲣⲉⲛϫⲱ",
+        "start": 500.86
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 502.2
+      },
+      {
+        "text": "ⲟⲩⲁ̀ⲡⲟⲗⲁⲩⲥⲓⲥ:",
+        "start": 502.85
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 506.45
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 507.1
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 508.43
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 511.27
+      }
+    ]
   },
   {
-    "start": 512.07,
+    "start": 512.69,
     "coptic": "Ⲱ̀ⲥⲁⲩⲧⲱⲥ ⲡⲉⲕⲃⲱⲕ ⲡⲓⲡ̀ⲧⲱⲭⲟⲥ: Ⲥⲁⲣⲕⲓⲥ ⲁ̀ⲣⲓⲧϥ ⲉϥⲟⲓ ⲛ̀ⲉⲛⲟⲭⲟⲥ: ⲉ̀ⲥⲁϫⲓ ⲛⲉⲙ ⲛⲁⲓ ϩⲱⲥ ⲙⲉⲧⲟⲭⲟⲥ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ.",
     "translations": {
       "english": "And also Your poor servant Sarkis, make him without condemnation, that he may join all those and say, praise Him and exalt Him above all."
@@ -690,6 +2314,83 @@
     ],
     "transliterations": {
       "english": "Osavtos pekvok pi-eptokhos: Sarkis aritf efoi enenokhos: esaji nem nai hos metokhos: hos erof arihowo chasf."
-    }
+    },
+    "words": [
+      {
+        "text": "Ⲱ̀ⲥⲁⲩⲧⲱⲥ",
+        "start": 512.69
+      },
+      {
+        "text": "ⲡⲉⲕⲃⲱⲕ",
+        "start": 513.63
+      },
+      {
+        "text": "ⲡⲓⲡ̀ⲧⲱⲭⲟⲥ:",
+        "start": 514.49
+      },
+      {
+        "text": "Ⲥⲁⲣⲕⲓⲥ",
+        "start": 517.0,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓⲧϥ",
+        "start": 518.25,
+        "estimated": true
+      },
+      {
+        "text": "ⲉϥⲟⲓ",
+        "start": 519.5,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲉⲛⲟⲭⲟⲥ:",
+        "start": 520.75,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲥⲁϫⲓ",
+        "start": 523.26,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 525.14,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲁⲓ",
+        "start": 525.77,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 526.39,
+        "estimated": true
+      },
+      {
+        "text": "ⲙⲉⲧⲟⲭⲟⲥ:",
+        "start": 527.02,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲱⲥ",
+        "start": 528.9,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲣⲟϥ",
+        "start": 529.53,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+        "start": 530.78
+      },
+      {
+        "text": "ϭⲁⲥϥ.",
+        "start": 533.59
+      }
+    ]
   }
 ]

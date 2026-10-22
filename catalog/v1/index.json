@@ -1,6 +1,6 @@
 {
- "version": "3f6305a0c643dbe8",
- "updated": "2026-10-22T04:45:41Z",
+ "version": "d9825fabf7d32304",
+ "updated": "2026-10-22T12:27:19Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -4623,7 +4623,7 @@
    "duration": 550.08,
    "timing": {
     "lines": 24,
-    "words": 0,
+    "words": 24,
     "of": 24
    },
    "source": "content/mahragan-keraza-2026/ms/level-2/aripalin/",
@@ -4633,8 +4633,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/aripalin.json",
-     "bytes": 2781,
-     "sha256": "e11528c7e1850d0ef833606c73483ee3acf59dc2d1a7c531d0407fb472a1644f",
+     "bytes": 35019,
+     "sha256": "2622dc1e192ca08afad0fd2d5a0bf94ba10289f975835c89a6a5a503dad4706c",
      "role": "timing"
     },
     {
@@ -4650,9 +4650,9 @@
    "text": "aripalin",
    "duration": 621.71,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 24,
+    "words": 24,
+    "of": 24
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -4663,8 +4663,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/aripalin-english.json",
-     "bytes": 74,
-     "sha256": "bebafe4615dc914a534366ea669a464aae64bcfa315a1f32cf195fe9909a8252",
+     "bytes": 43187,
+     "sha256": "b2b1cd3a42001858ccb0128925e545b633492bab9b655e616c42f38cf26d1487",
      "role": "timing"
     },
     {
@@ -5747,8 +5747,8 @@
    "text": "fourth-hoos",
    "duration": 441.99,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 41,
+    "words": 41,
     "of": 41
    },
    "source": "https://tasbeha.org/hymn_library/view/127",
@@ -5758,8 +5758,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/fourth-hoos.json",
-     "bytes": 72,
-     "sha256": "1bde5be6442b85d5fa5e3c7a139505301fae729d251d0e718ffc2f9cf4354dd6",
+     "bytes": 37243,
+     "sha256": "ed81628adf0ac1167a4bff785c254a604edf42b42fda37c11b1604078a2e9037",
      "role": "timing"
     },
     {
@@ -5775,9 +5775,9 @@
    "text": "fourth-hoos",
    "duration": 437.63,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 41,
+    "words": 41,
+    "of": 41
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
    "tune": {
@@ -5788,8 +5788,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/fourth-hoos-english.json",
-     "bytes": 80,
-     "sha256": "202ff5dbf57f93dbe578fb5814c684e44c4eda3ba871ef529942fd72403115b5",
+     "bytes": 38761,
+     "sha256": "ea51a559c0d3f7321cf3ef22fe7374b890428e364ce11ef638ee1190ef05d397",
      "role": "timing"
     },
     {

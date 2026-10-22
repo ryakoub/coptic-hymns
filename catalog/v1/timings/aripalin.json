@@ -4,92 +4,770 @@
  "segments": [
   {
    "line": "l1",
-   "start": 5.61,
+   "start": 5.78,
    "stanzas": [
     5.73,
     10.58,
     16.54,
     22.37
+   ],
+   "words": [
+    {
+     "text": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ",
+     "start": 5.78,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲫⲏⲉ̀ⲧⲁⲩⲁϣϥ:",
+     "start": 8.5,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ϩ̀ⲣⲏⲓ",
+     "start": 10.53,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ϫⲱⲛ",
+     "start": 12.17,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲟϩ",
+     "start": 13.58,
+     "end": null
+    },
+    {
+     "text": "ⲁⲩⲕⲟⲥϥ:",
+     "start": 14.12,
+     "end": null
+    },
+    {
+     "text": "ⲁϥⲧⲱⲛϥ",
+     "start": 16.81,
+     "end": null
+    },
+    {
+     "text": "ⲁϥⲕⲱⲣϥ",
+     "start": 18.24,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲫ̀ⲙⲟⲩ",
+     "start": 19.55,
+     "end": null
+    },
+    {
+     "text": "ⲁϥϯϣⲟϣϥ:",
+     "start": 20.77,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 22.15,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 22.85,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 25.11,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 25.61,
+     "end": null
+    }
    ]
   },
   {
    "line": "l2",
-   "start": 28.19,
+   "start": 28.25,
    "stanzas": [
     28.19,
     33.49,
     38.8,
     44.1
+   ],
+   "words": [
+    {
+     "text": "Ⲃⲱϣ",
+     "start": 28.25,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲡⲓⲣⲱⲙⲓ",
+     "start": 29.35,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲡⲁⲗⲉⲟⲥ:",
+     "start": 31.26,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲟϩ",
+     "start": 32.84,
+     "end": null
+    },
+    {
+     "text": "ϫⲱⲗϩ",
+     "start": 33.59,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲡⲓⲃⲉⲣⲓ",
+     "start": 34.51,
+     "end": null
+    },
+    {
+     "text": "ⲉⲩⲕ̀ⲗⲉⲟⲥ:",
+     "start": 36.09,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲟϩ",
+     "start": 38.09,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ϧⲱⲛⲧ",
+     "start": 40.22,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲙⲉⲅⲁⲉ̀ⲗⲉⲟⲥ:",
+     "start": 40.8,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 43.49,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 44.41,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 45.73,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 48.14,
+     "end": null
+    }
    ]
   },
   {
    "line": "l3",
-   "start": 49.41,
+   "start": 49.36,
    "stanzas": [
     49.41,
     54.66,
     59.91,
     65.15
+   ],
+   "words": [
+    {
+     "text": "Ⲅⲉⲛⲟⲥ",
+     "start": 49.36,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀Ⲛⲓⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ:",
+     "start": 50.53,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ",
+     "start": 54.45,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲇⲓⲁⲕⲟⲛⲟⲥ:",
+     "start": 57.32,
+     "end": null
+    },
+    {
+     "text": "ⲙⲁⲱ̀ⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": 60.65,
+     "end": null
+    },
+    {
+     "text": "ϫⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩϩⲓⲕⲁⲛⲟⲥ:",
+     "start": 62.59,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 64.7,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 69.08,
+     "end": null
+    }
    ]
   },
   {
    "line": "l4",
-   "start": 70.4,
+   "start": 70.88,
    "stanzas": [
     70.4,
     75.8,
     81.19,
     86.59
+   ],
+   "words": [
+    {
+     "text": "Ⲇⲉⲩⲧⲉ",
+     "start": 70.88,
+     "end": null
+    },
+    {
+     "text": "ϩⲁⲣⲟⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓϣⲟⲙⲧ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲁ̀ⲗⲟⲩ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲧⲁ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+     "start": 75.35,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲉⲛⲛⲟⲩϯ",
+     "start": 77.88,
+     "end": null
+    },
+    {
+     "text": "ⲟ̀ⲗⲟⲩ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁϥⲛⲁϩⲙⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲃⲟⲗ",
+     "start": 82.61,
+     "end": null
+    },
+    {
+     "text": "ϩⲁ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲓⲇⲓⲁⲃⲟⲗⲟⲩ:",
+     "start": 83.79,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 88.83,
+     "end": null
+    }
    ]
   },
   {
    "line": "l5",
-   "start": 91.99,
+   "start": 92.27,
    "stanzas": [
     91.99,
     97.62,
     103.26,
     108.89
+   ],
+   "words": [
+    {
+     "text": "Ⲉⲑⲃⲉ",
+     "start": 92.27,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲉⲕⲛⲟⲩϯ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲙⲁⲥⲓⲁⲥ:",
+     "start": 95.25,
+     "end": null
+    },
+    {
+     "text": "Ⲫ̀ⲣⲉϥϯ",
+     "start": 97.55,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲉⲩⲉⲣⲅⲉⲥⲓⲁⲥ:",
+     "start": 99.68,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲙⲟⲩ",
+     "start": 102.45,
+     "end": null
+    },
+    {
+     "text": "ϣⲁⲣⲟⲛ",
+     "start": 103.88,
+     "end": null
+    },
+    {
+     "text": "Ⲁ̀ⲛⲁⲛⲓⲁⲥ:",
+     "start": 105.33,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 108.05,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 111.77,
+     "end": null
+    }
    ]
   },
   {
    "line": "l6",
-   "start": 114.53,
+   "start": 113.99,
    "stanzas": [
     114.53,
     119.93,
     125.33,
     130.73
+   ],
+   "words": [
+    {
+     "text": "Ⲍⲏⲗⲱⲧⲉ",
+     "start": 113.99,
+     "end": null
+    },
+    {
+     "text": "Ⲁ̀ⲍⲁⲣⲓⲁⲥ:",
+     "start": 117.78,
+     "end": null
+    },
+    {
+     "text": "ⲉⲥⲡⲉⲣⲁⲥ",
+     "start": 119.42,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 120.86,
+     "end": null
+    },
+    {
+     "text": "ⲡ̀ⲣⲱⲓ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲙⲉⲥⲏⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲃ̀ⲣⲓⲁⲥ:",
+     "start": 123.79,
+     "end": null
+    },
+    {
+     "text": "ⲙⲁⲱ̀ⲟⲩ",
+     "start": 125.08,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧ̀ϫⲟⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ:",
+     "start": 128.73,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 133.06,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 134.63,
+     "end": null
+    }
    ]
   },
   {
    "line": "l7",
-   "start": 136.13,
+   "start": 136.74,
    "stanzas": [
     136.13,
     141.88,
     147.62,
     153.37
+   ],
+   "words": [
+    {
+     "text": "Ⲏⲡⲡⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲅⲁⲣ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲓⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:",
+     "start": 139.65,
+     "end": null
+    },
+    {
+     "text": "ϩⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲉⲛⲙⲏϯ",
+     "start": 142.82,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲙⲓⲥⲁⲏⲗ:",
+     "start": 145.35,
+     "end": null
+    },
+    {
+     "text": "ⲗⲁⲗⲓ",
+     "start": 147.28,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲥ̀ⲙⲏ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲑⲉⲗⲏⲗ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 153.08,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 153.73,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 155.11,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 157.09,
+     "end": null
+    }
    ]
   },
   {
    "line": "l8",
-   "start": 159.11,
+   "start": 160.0,
    "stanzas": [
     159.11,
     164.74,
     170.38,
     176.01
+   ],
+   "words": [
+    {
+     "text": "Ⲑⲱⲟⲩϯ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϯⲛⲟⲩ",
+     "start": 160.61,
+     "end": null
+    },
+    {
+     "text": "ⲕⲁⲧⲁ",
+     "start": 161.32,
+     "end": null
+    },
+    {
+     "text": "ⲭⲓⲛ",
+     "start": 162.68,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏⲣⲟⲩ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲥⲁϫⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲩ:",
+     "start": 166.68,
+     "end": null
+    },
+    {
+     "text": "ⲥ̀ⲙⲟⲩ",
+     "start": 169.93,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉϥϩ̀ⲃⲏⲟⲩⲓ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏⲣⲟⲩ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 175.91,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 179.58,
+     "end": null
+    }
    ]
   },
   {
    "line": "l9",
-   "start": 181.64,
+   "start": 181.56,
    "stanzas": [
     181.64,
     187.56,
     193.47,
     199.38
+   ],
+   "words": [
+    {
+     "text": "Ⲓⲥ",
+     "start": 181.56,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲫⲏⲟⲩⲓ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲥⲉⲥⲁϫⲓ",
+     "start": 184.51,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲡ̀ⲱ̀ⲟⲩ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ",
+     "start": 188.45,
+     "end": null
+    },
+    {
+     "text": "ϣⲁ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ϧⲟⲩⲛ",
+     "start": 191.48,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲫⲟⲟⲩ:",
+     "start": 193.66,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲁⲅⲅⲉⲗⲟⲥ",
+     "start": 195.55,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲧⲁϥϫ̀ⲫⲱⲟⲩ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 199.15,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 202.51,
+     "end": null
+    }
    ]
   },
   {
@@ -100,146 +778,1416 @@
     210.89,
     216.48,
     222.07
+   ],
+   "words": [
+    {
+     "text": "Ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲩⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲇⲩⲛⲁⲙⲓⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲕⲩⲣⲓⲟⲩ:",
+     "start": 208.28,
+     "end": null
+    },
+    {
+     "text": "ⲥ̀ⲙⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲡⲉϥⲣⲁⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲓⲙⲓⲟⲩ:",
+     "start": 214.19,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲣⲏ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲓⲟϩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲥⲓⲟⲩ:",
+     "start": 219.85,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 221.25,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 221.99,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 226.38,
+     "end": null
+    }
    ]
   },
   {
    "line": "l11",
-   "start": 227.66,
+   "start": 227.52,
    "stanzas": [
     227.66,
     233.27,
     238.88,
     244.5
+   ],
+   "words": [
+    {
+     "text": "Ⲗⲟⲓⲡⲟⲛ",
+     "start": 227.52,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲙⲟⲩⲛ̀ϩⲱⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲓⲱϯ:",
+     "start": 230.31,
+     "end": null
+    },
+    {
+     "text": "ⲉⲩⲫⲏⲙⲓⲥⲁ",
+     "start": 232.95,
+     "end": null
+    },
+    {
+     "text": "ⲧⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲉⲛⲣⲉϥⲥⲱϯ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϫⲉ",
+     "start": 238.62,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲑⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲫ̀ⲛⲟⲩϯ",
+     "start": 241.01,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲛⲓⲟϯ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 244.15,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": null,
+     "end": null
+    }
    ]
   },
   {
    "line": "l12",
-   "start": 250.11,
+   "start": 250.47,
    "stanzas": [
     250.11,
     255.65,
     261.19,
     266.74
+   ],
+   "words": [
+    {
+     "text": "Ⲙⲁⲱ̀ⲟⲩ",
+     "start": 250.47,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": 251.95,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓϭⲏⲡⲓ",
+     "start": 253.96,
+     "end": null
+    },
+    {
+     "text": "ⲉⲩⲙⲁ:",
+     "start": 255.72,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲑⲏⲟⲩ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 256.69,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲛⲓϥⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ:",
+     "start": 259.15,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓϫⲁϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲭ̀ⲣⲱⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲕⲁⲩⲙⲁ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 266.75,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 268.85,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": null,
+     "end": null
+    }
    ]
   },
   {
    "line": "l13",
-   "start": 272.28,
+   "start": 272.41,
    "stanzas": [
     272.28,
     277.77,
     283.25,
     288.74
+   ],
+   "words": [
+    {
+     "text": "Ⲛⲩⲕⲧⲉⲥ",
+     "start": 272.41,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲏ̀ⲙⲉⲣⲉⲣⲱ",
+     "start": 275.05,
+     "end": null
+    },
+    {
+     "text": "ⲡⲉ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲫⲱⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲥ̀ⲕⲟⲧⲟⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁⲥⲧ̀ⲣⲁⲡⲉ:",
+     "start": 281.02,
+     "end": null
+    },
+    {
+     "text": "ϫⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲇⲟⲝⲁ",
+     "start": 283.82,
+     "end": null
+    },
+    {
+     "text": "ⲥⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ:",
+     "start": 285.67,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 290.55,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 293.07,
+     "end": null
+    }
    ]
   },
   {
    "line": "l14",
-   "start": 294.23,
+   "start": 294.4,
    "stanzas": [
     294.23,
     299.62,
     305.02,
     310.42
+   ],
+   "words": [
+    {
+     "text": "Ⲝⲩⲗⲁ",
+     "start": 294.4,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲁⲛⲧⲁ",
+     "start": 295.88,
+     "end": null
+    },
+    {
+     "text": "ⲧⲁ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲫⲩⲟ̀ⲙⲉⲛⲁ:",
+     "start": 297.39,
+     "end": null
+    },
+    {
+     "text": "ⲉⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲅⲏ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲡⲁⲛⲧⲁ",
+     "start": 301.79,
+     "end": null
+    },
+    {
+     "text": "ⲧⲁ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲓⲛⲟⲩⲙⲉⲛⲁ:",
+     "start": 303.28,
+     "end": null
+    },
+    {
+     "text": "ϩⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲙⲱⲟⲩ",
+     "start": 304.88,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 305.48,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲧⲱⲟⲩ",
+     "start": 306.14,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲇ̀ⲣⲩⲙⲟⲛⲁ:",
+     "start": 308.1,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 310.23,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 310.78,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 312.22,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 313.44,
+     "end": null
+    }
    ]
   },
   {
    "line": "l15",
-   "start": 315.81,
+   "start": 316.55,
    "stanzas": [
     315.81,
     321.36,
     326.91,
     332.46
+   ],
+   "words": [
+    {
+     "text": "Ⲟⲩⲟϩ",
+     "start": 316.55,
+     "end": null
+    },
+    {
+     "text": "ⲟⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲥ̀ⲙⲟⲩ",
+     "start": 317.68,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲁⲧⲭⲁⲣⲱⲟⲩ:",
+     "start": 318.95,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": 321.15,
+     "end": null
+    },
+    {
+     "text": "Ⲡ̀ⲟⲩⲣⲟ",
+     "start": 322.94,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 324.65,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲟⲩⲣⲱⲟⲩ:",
+     "start": 325.23,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲁ̀ⲙⲁⲓⲟⲩ",
+     "start": 326.72,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 328.64,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲓⲁⲣⲱⲟⲩ:",
+     "start": 330.09,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 332.08,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 334.23,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 336.73,
+     "end": null
+    }
    ]
   },
   {
    "line": "l16",
-   "start": 338.01,
+   "start": 337.94,
    "stanzas": [
     338.01,
     343.59,
     349.17,
     354.75
+   ],
+   "words": [
+    {
+     "text": "Ⲡⲁⲓⲣⲏϯ",
+     "start": 337.94,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲛⲟⲛ",
+     "start": 340.0,
+     "end": null
+    },
+    {
+     "text": "ⲧⲉⲛⲛⲁⲩ",
+     "start": 341.4,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲱⲟⲩ:",
+     "start": 342.56,
+     "end": null
+    },
+    {
+     "text": "ⲙⲁⲣⲉⲛϫⲟⲥ",
+     "start": 343.77,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲁⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲱⲛ",
+     "start": 346.88,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏⲣⲟⲩ:",
+     "start": 347.94,
+     "end": null
+    },
+    {
+     "text": "ⲥ̀ⲙⲟⲩ",
+     "start": 349.14,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": 350.55,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓϩⲁⲗⲁϯ",
+     "start": 351.83,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏⲣⲟⲩ:",
+     "start": 353.87,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 355.29,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 358.64,
+     "end": null
+    }
    ]
   },
   {
    "line": "l17",
-   "start": 360.33,
+   "start": 360.22,
    "stanzas": [
     360.33,
     365.64,
     370.95,
     376.26
+   ],
+   "words": [
+    {
+     "text": "Ⲣⲱ",
+     "start": 360.22,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲛⲓⲡⲁⲭⲛⲏ",
+     "start": 361.11,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 362.55,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲭⲓⲱⲛ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 365.19,
+     "end": null
+    },
+    {
+     "text": "ⲕ̀ⲧⲏⲛⲱⲛ",
+     "start": 365.93,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲑⲏⲣⲓⲟⲛ:",
+     "start": 368.27,
+     "end": null
+    },
+    {
+     "text": "ⲥ̀ⲙⲟⲩ",
+     "start": 370.33,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": 372.05,
+     "end": null
+    },
+    {
+     "text": "ⲧⲱⲛ",
+     "start": 373.25,
+     "end": null
+    },
+    {
+     "text": "ⲕⲩⲣⲓⲱⲛ:",
+     "start": 374.17,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 375.74,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 376.34,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 377.77,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 380.47,
+     "end": null
+    }
    ]
   },
   {
    "line": "l18",
-   "start": 381.57,
+   "start": 381.89,
    "stanzas": [
     381.57,
     387.05,
     392.52,
     398.0
+   ],
+   "words": [
+    {
+     "text": "Ⲥ̀ⲙⲟⲩ",
+     "start": 381.89,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
+     "start": 383.31,
+     "end": null
+    },
+    {
+     "text": "ⲕⲁⲧⲁ",
+     "start": 384.36,
+     "end": null
+    },
+    {
+     "text": "ⲫ̀ⲧⲱⲙⲓ:",
+     "start": 384.9,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 386.45,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 387.9,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩ",
+     "start": 388.55,
+     "end": null
+    },
+    {
+     "text": "ⲙⲏ",
+     "start": 389.3,
+     "end": null
+    },
+    {
+     "text": "ⲡⲁⲣⲁⲛⲟⲙⲓ:",
+     "start": 390.07,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": 391.95,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓϣⲏⲣⲓ",
+     "start": 392.71,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 394.27,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲣⲱⲙⲓ:",
+     "start": 395.64,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 397.51,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 398.43,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 399.5,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 400.52,
+     "end": null
+    }
    ]
   },
   {
    "line": "l19",
-   "start": 403.47,
+   "start": 403.68,
    "stanzas": [
     403.47,
     408.86,
     414.24,
     419.62
+   ],
+   "words": [
+    {
+     "text": "Ⲧⲓⲙⲏ",
+     "start": 403.68,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲇⲟⲝⲁ",
+     "start": 405.61,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲓⲥⲣⲁⲏⲗ:",
+     "start": 406.6,
+     "end": null
+    },
+    {
+     "text": "ⲓ̀ⲛⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲁϩⲣⲁϥ",
+     "start": 409.45,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": 411.59,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲥ̀ⲙⲏ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲑⲉⲗⲏⲗ:",
+     "start": 412.82,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲟⲩⲏⲃ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:",
+     "start": 416.73,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 419.2,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 419.9,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 421.07,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 422.67,
+     "end": null
+    }
    ]
   },
   {
    "line": "l20",
-   "start": 425.01,
+   "start": 425.88,
    "stanzas": [
     425.01,
     430.22,
     435.44,
     440.65
+   ],
+   "words": [
+    {
+     "text": "Ⲩ̀ⲡⲏⲣⲉⲧⲱⲛ",
+     "start": 425.88,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀Ⲫ̀ⲛⲟⲩϯ",
+     "start": 428.54,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲙⲏⲓ:",
+     "start": 429.12,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 430.0,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲯⲩⲭⲏ",
+     "start": 430.56,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 432.92,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲑ̀ⲙⲏⲓ:",
+     "start": 433.34,
+     "end": null
+    },
+    {
+     "text": "ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ",
+     "start": 435.23,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲣⲉϥⲙⲉⲓ:",
+     "start": 438.58,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 440.27,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 441.09,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 442.39,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 444.85,
+     "end": null
+    }
    ]
   },
   {
    "line": "l21",
-   "start": 445.86,
+   "start": 446.23,
    "stanzas": [
     445.86,
     451.41,
     456.95,
     462.5
+   ],
+   "words": [
+    {
+     "text": "Ⲫ̀ⲛⲟⲩϯ",
+     "start": 446.23,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲁⲛⲟⲩϯ",
+     "start": 447.66,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲅⲱ:",
+     "start": 449.18,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲉⲧⲉⲛⲣⲉϥⲥⲱϯ",
+     "start": 451.73,
+     "end": null
+    },
+    {
+     "text": "ⲉⲕ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲟⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲅⲱ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲥⲉⲇⲣⲁⲕ",
+     "start": 456.79,
+     "end": null
+    },
+    {
+     "text": "Ⲙⲓⲥⲁⲕ",
+     "start": 457.91,
+     "end": null
+    },
+    {
+     "text": "Ⲁⲃⲇⲉⲛⲁⲅⲱ:",
+     "start": 460.18,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 462.2,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 462.79,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 464.07,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 465.35,
+     "end": null
+    }
    ]
   },
   {
    "line": "l22",
-   "start": 468.04,
+   "start": 468.07,
    "stanzas": [
     468.04,
     473.6,
     479.15,
     484.7
+   ],
+   "words": [
+    {
+     "text": "Ⲭⲱⲗⲉⲙ",
+     "start": 468.07,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲛⲓϣϯ",
+     "start": 470.02,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ϣ̀ⲣⲱⲓⲥ:",
+     "start": 471.23,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲏⲉⲧⲉⲣⲥⲉⲃⲉⲥⲑⲉ",
+     "start": 473.94,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀Ⲡ̀ϭⲟⲓⲥ:",
+     "start": 477.03,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 478.95,
+     "end": null
+    },
+    {
+     "text": "ⲛⲓⲫⲩⲥⲓⲥ",
+     "start": 480.09,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏⲣⲟⲩ",
+     "start": 480.9,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲧⲁϥⲁⲓⲥ:",
+     "start": 482.43,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 484.38,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 484.97,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 486.33,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 487.6,
+     "end": null
+    }
    ]
   },
   {
    "line": "l23",
-   "start": 490.26,
+   "start": 490.89,
    "stanzas": [
     490.26,
     495.71,
     501.17,
     506.62
+   ],
+   "words": [
+    {
+     "text": "Ⲯⲩⲭⲟⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 492.25,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲛⲁⲡⲁⲩⲥⲓⲥ:",
+     "start": 492.83,
+     "end": null
+    },
+    {
+     "text": "ⲙⲟⲓ",
+     "start": 495.25,
+     "end": null
+    },
+    {
+     "text": "ⲛⲁⲛ",
+     "start": 495.99,
+     "end": null
+    },
+    {
+     "text": "ⲧⲏⲣⲉⲛ",
+     "start": 496.59,
+     "end": null
+    },
+    {
+     "text": "ⲭⲱⲣⲓⲥ",
+     "start": 498.34,
+     "end": null
+    },
+    {
+     "text": "ⲑ̀ⲣⲁⲩⲥⲓⲥ:",
+     "start": 499.13,
+     "end": null
+    },
+    {
+     "text": "ⲉⲑⲣⲉⲛϫⲱ",
+     "start": 500.86,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": 502.2,
+     "end": null
+    },
+    {
+     "text": "ⲟⲩⲁ̀ⲡⲟⲗⲁⲩⲥⲓⲥ:",
+     "start": 502.85,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": 506.45,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": 507.1,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 508.43,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 511.27,
+     "end": null
+    }
    ]
   },
   {
    "line": "l24",
-   "start": 512.07,
+   "start": 512.69,
    "stanzas": [
     512.07,
     517.82,
     523.58,
     529.33
+   ],
+   "words": [
+    {
+     "text": "Ⲱ̀ⲥⲁⲩⲧⲱⲥ",
+     "start": 512.69,
+     "end": null
+    },
+    {
+     "text": "ⲡⲉⲕⲃⲱⲕ",
+     "start": 513.63,
+     "end": null
+    },
+    {
+     "text": "ⲡⲓⲡ̀ⲧⲱⲭⲟⲥ:",
+     "start": 514.49,
+     "end": null
+    },
+    {
+     "text": "Ⲥⲁⲣⲕⲓⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓⲧϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉϥⲟⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲉⲛⲟⲭⲟⲥ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲥⲁϫⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲛⲁⲓ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲙⲉⲧⲟⲭⲟⲥ:",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ϩⲱⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟϥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲣⲓϩⲟⲩⲟ̀",
+     "start": 530.78,
+     "end": null
+    },
+    {
+     "text": "ϭⲁⲥϥ.",
+     "start": 533.59,
+     "end": null
+    }
    ]
   }
  ]

@@ -1,1 +1,2740 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.0,
+    "words": [
+      {
+        "text": "O",
+        "start": 0.0
+      },
+      {
+        "text": "sing",
+        "start": 0.54,
+        "estimated": true
+      },
+      {
+        "text": "unto",
+        "start": 1.08,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 2.16,
+        "estimated": true
+      },
+      {
+        "text": "who",
+        "start": 2.7,
+        "estimated": true
+      },
+      {
+        "text": "was",
+        "start": 3.25,
+        "estimated": true
+      },
+      {
+        "text": "crucified,",
+        "start": 3.79
+      },
+      {
+        "text": "buried",
+        "start": 6.05
+      },
+      {
+        "text": "and",
+        "start": 7.05,
+        "estimated": true
+      },
+      {
+        "text": "resurrected",
+        "start": 7.54
+      },
+      {
+        "text": "for",
+        "start": 10.75
+      },
+      {
+        "text": "us,",
+        "start": 11.53
+      },
+      {
+        "text": "who",
+        "start": 12.34
+      },
+      {
+        "text": "trampled",
+        "start": 13.08
+      },
+      {
+        "text": "and",
+        "start": 14.72
+      },
+      {
+        "text": "abolished",
+        "start": 16.34
+      },
+      {
+        "text": "death,",
+        "start": 17.83
+      },
+      {
+        "text": "praise",
+        "start": 18.85
+      },
+      {
+        "text": "Him",
+        "start": 19.49
+      },
+      {
+        "text": "and",
+        "start": 20.32
+      },
+      {
+        "text": "exalt",
+        "start": 21.12
+      },
+      {
+        "text": "Him",
+        "start": 21.9
+      },
+      {
+        "text": "above",
+        "start": 22.68
+      },
+      {
+        "text": "all.",
+        "start": 24.57
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 25.9,
+    "words": [
+      {
+        "text": "Take",
+        "start": 25.9
+      },
+      {
+        "text": "off",
+        "start": 27.66
+      },
+      {
+        "text": "the",
+        "start": 29.25
+      },
+      {
+        "text": "old",
+        "start": 29.83
+      },
+      {
+        "text": "man,",
+        "start": 30.7
+      },
+      {
+        "text": "and",
+        "start": 31.68
+      },
+      {
+        "text": "put",
+        "start": 32.35
+      },
+      {
+        "text": "on",
+        "start": 33.08
+      },
+      {
+        "text": "the",
+        "start": 33.71
+      },
+      {
+        "text": "new",
+        "start": 34.11
+      },
+      {
+        "text": "and",
+        "start": 34.75
+      },
+      {
+        "text": "superior",
+        "start": 35.41
+      },
+      {
+        "text": "one,",
+        "start": 37.06
+      },
+      {
+        "text": "come",
+        "start": 37.96
+      },
+      {
+        "text": "closer",
+        "start": 38.73
+      },
+      {
+        "text": "to",
+        "start": 39.66
+      },
+      {
+        "text": "the",
+        "start": 40.15
+      },
+      {
+        "text": "greatness",
+        "start": 40.66
+      },
+      {
+        "text": "of",
+        "start": 41.79
+      },
+      {
+        "text": "mercy,",
+        "start": 42.42
+      },
+      {
+        "text": "praise",
+        "start": 44.39
+      },
+      {
+        "text": "Him",
+        "start": 45.24
+      },
+      {
+        "text": "and",
+        "start": 46.13
+      },
+      {
+        "text": "exalt",
+        "start": 46.92,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 47.7,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 48.49,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 50.38,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 51.68,
+    "words": [
+      {
+        "text": "All",
+        "start": 51.68
+      },
+      {
+        "text": "you",
+        "start": 53.28
+      },
+      {
+        "text": "Christian",
+        "start": 54.36
+      },
+      {
+        "text": "people,",
+        "start": 55.44
+      },
+      {
+        "text": "the",
+        "start": 57.21
+      },
+      {
+        "text": "priests",
+        "start": 58.09
+      },
+      {
+        "text": "and",
+        "start": 59.8
+      },
+      {
+        "text": "the",
+        "start": 61.19
+      },
+      {
+        "text": "deacons,",
+        "start": 61.95
+      },
+      {
+        "text": "glorify",
+        "start": 63.61
+      },
+      {
+        "text": "the",
+        "start": 65.27
+      },
+      {
+        "text": "Lord",
+        "start": 66.85
+      },
+      {
+        "text": "for",
+        "start": 67.63
+      },
+      {
+        "text": "He",
+        "start": 68.21
+      },
+      {
+        "text": "is",
+        "start": 68.81
+      },
+      {
+        "text": "worthy,",
+        "start": 69.2
+      },
+      {
+        "text": "praise",
+        "start": 70.16
+      },
+      {
+        "text": "Him",
+        "start": 70.73
+      },
+      {
+        "text": "and",
+        "start": 71.73
+      },
+      {
+        "text": "exalt",
+        "start": 72.45
+      },
+      {
+        "text": "Him",
+        "start": 73.1
+      },
+      {
+        "text": "above",
+        "start": 73.89,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 75.77,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l4",
+    "start": 77.41,
+    "words": [
+      {
+        "text": "Come",
+        "start": 77.41
+      },
+      {
+        "text": "to",
+        "start": 78.14
+      },
+      {
+        "text": "us",
+        "start": 78.71
+      },
+      {
+        "text": "O",
+        "start": 79.48
+      },
+      {
+        "text": "three",
+        "start": 80.32
+      },
+      {
+        "text": "children,",
+        "start": 81.05
+      },
+      {
+        "text": "whom",
+        "start": 82.84
+      },
+      {
+        "text": "Christ",
+        "start": 83.5
+      },
+      {
+        "text": "our",
+        "start": 84.23
+      },
+      {
+        "text": "God",
+        "start": 85.71
+      },
+      {
+        "text": "has",
+        "start": 86.91,
+        "estimated": true
+      },
+      {
+        "text": "lifted,",
+        "start": 88.1
+      },
+      {
+        "text": "and",
+        "start": 89.18
+      },
+      {
+        "text": "from",
+        "start": 89.93
+      },
+      {
+        "text": "the",
+        "start": 90.56
+      },
+      {
+        "text": "Devil",
+        "start": 91.54
+      },
+      {
+        "text": "has",
+        "start": 92.28
+      },
+      {
+        "text": "delivered,",
+        "start": 93.0
+      },
+      {
+        "text": "praise",
+        "start": 95.36
+      },
+      {
+        "text": "Him",
+        "start": 96.26
+      },
+      {
+        "text": "and",
+        "start": 97.09,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 97.89,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 98.67,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 99.46,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 101.34,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l5",
+    "start": 102.5,
+    "words": [
+      {
+        "text": "For",
+        "start": 102.5
+      },
+      {
+        "text": "the",
+        "start": 102.97
+      },
+      {
+        "text": "sake",
+        "start": 103.39,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 104.23,
+        "estimated": true
+      },
+      {
+        "text": "your",
+        "start": 104.64,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 105.06,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 105.48,
+        "estimated": true
+      },
+      {
+        "text": "Messiah,",
+        "start": 105.9
+      },
+      {
+        "text": "the",
+        "start": 108.19,
+        "estimated": true
+      },
+      {
+        "text": "Giver",
+        "start": 109.33,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 111.62,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 112.77,
+        "estimated": true
+      },
+      {
+        "text": "good",
+        "start": 113.92
+      },
+      {
+        "text": "things,",
+        "start": 114.49,
+        "estimated": true
+      },
+      {
+        "text": "come",
+        "start": 115.07
+      },
+      {
+        "text": "unto",
+        "start": 115.71
+      },
+      {
+        "text": "us",
+        "start": 117.47,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 118.36
+      },
+      {
+        "text": "Hananiah,",
+        "start": 119.11
+      },
+      {
+        "text": "praise",
+        "start": 121.36
+      },
+      {
+        "text": "Him",
+        "start": 121.99,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 123.08,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 123.87
+      },
+      {
+        "text": "Him",
+        "start": 124.65,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 125.44,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 127.33,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l6",
+    "start": 128.46,
+    "words": [
+      {
+        "text": "O",
+        "start": 128.46
+      },
+      {
+        "text": "Azariah",
+        "start": 129.34,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 131.97,
+        "estimated": true
+      },
+      {
+        "text": "zealot,",
+        "start": 132.85
+      },
+      {
+        "text": "evening",
+        "start": 134.13,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 136.05,
+        "estimated": true
+      },
+      {
+        "text": "morning",
+        "start": 136.69
+      },
+      {
+        "text": "and",
+        "start": 138.21,
+        "estimated": true
+      },
+      {
+        "text": "at",
+        "start": 138.97,
+        "estimated": true
+      },
+      {
+        "text": "noon,",
+        "start": 139.73
+      },
+      {
+        "text": "glorify",
+        "start": 140.42,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 142.48,
+        "estimated": true
+      },
+      {
+        "text": "power",
+        "start": 143.16
+      },
+      {
+        "text": "of",
+        "start": 144.01,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 144.44,
+        "estimated": true
+      },
+      {
+        "text": "trinity,",
+        "start": 144.86
+      },
+      {
+        "text": "praise",
+        "start": 147.14
+      },
+      {
+        "text": "Him",
+        "start": 147.86
+      },
+      {
+        "text": "and",
+        "start": 148.86,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 149.59
+      },
+      {
+        "text": "Him",
+        "start": 150.28,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 150.98,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 152.66
+      }
+    ]
+  },
+  {
+    "line": "l7",
+    "start": 154.44,
+    "words": [
+      {
+        "text": "Behold",
+        "start": 154.44
+      },
+      {
+        "text": "Emmanuel,",
+        "start": 155.99
+      },
+      {
+        "text": "is",
+        "start": 159.92
+      },
+      {
+        "text": "now",
+        "start": 160.56
+      },
+      {
+        "text": "in",
+        "start": 161.53
+      },
+      {
+        "text": "our",
+        "start": 162.25
+      },
+      {
+        "text": "midst",
+        "start": 162.77
+      },
+      {
+        "text": "O",
+        "start": 163.28
+      },
+      {
+        "text": "Mishael,",
+        "start": 163.91
+      },
+      {
+        "text": "proclaim",
+        "start": 166.31
+      },
+      {
+        "text": "with",
+        "start": 168.93
+      },
+      {
+        "text": "the",
+        "start": 169.61
+      },
+      {
+        "text": "voice",
+        "start": 170.44
+      },
+      {
+        "text": "of",
+        "start": 171.1
+      },
+      {
+        "text": "joy,",
+        "start": 171.88
+      },
+      {
+        "text": "praise",
+        "start": 172.64
+      },
+      {
+        "text": "Him",
+        "start": 173.44
+      },
+      {
+        "text": "and",
+        "start": 174.27,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 175.07,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 175.85,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 176.64,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 178.52,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l8",
+    "start": 179.89,
+    "words": [
+      {
+        "text": "Gather",
+        "start": 179.89
+      },
+      {
+        "text": "now",
+        "start": 181.55
+      },
+      {
+        "text": "and",
+        "start": 182.85
+      },
+      {
+        "text": "persevere,",
+        "start": 183.39
+      },
+      {
+        "text": "and",
+        "start": 186.49,
+        "estimated": true
+      },
+      {
+        "text": "proclaim",
+        "start": 187.27
+      },
+      {
+        "text": "with",
+        "start": 189.23,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 190.21,
+        "estimated": true
+      },
+      {
+        "text": "priests,",
+        "start": 191.19
+      },
+      {
+        "text": "bless",
+        "start": 192.72
+      },
+      {
+        "text": "the",
+        "start": 193.44,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 194.33
+      },
+      {
+        "text": "all",
+        "start": 195.48,
+        "estimated": true
+      },
+      {
+        "text": "His",
+        "start": 196.62,
+        "estimated": true
+      },
+      {
+        "text": "works,",
+        "start": 197.77
+      },
+      {
+        "text": "praise",
+        "start": 198.64
+      },
+      {
+        "text": "Him",
+        "start": 199.41
+      },
+      {
+        "text": "and",
+        "start": 200.24,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 201.03,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 201.81,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 202.6,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 204.49,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l9",
+    "start": 205.89,
+    "words": [
+      {
+        "text": "The",
+        "start": 205.89
+      },
+      {
+        "text": "heavens",
+        "start": 206.66
+      },
+      {
+        "text": "declare",
+        "start": 207.37
+      },
+      {
+        "text": "the",
+        "start": 208.96,
+        "estimated": true
+      },
+      {
+        "text": "glory,",
+        "start": 209.49
+      },
+      {
+        "text": "of",
+        "start": 212.18,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 213.53
+      },
+      {
+        "text": "until",
+        "start": 214.37,
+        "estimated": true
+      },
+      {
+        "text": "this",
+        "start": 216.07,
+        "estimated": true
+      },
+      {
+        "text": "day,",
+        "start": 216.92
+      },
+      {
+        "text": "O",
+        "start": 217.72,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 218.52,
+        "estimated": true
+      },
+      {
+        "text": "angels",
+        "start": 219.32
+      },
+      {
+        "text": "whom",
+        "start": 220.89,
+        "estimated": true
+      },
+      {
+        "text": "He",
+        "start": 221.67,
+        "estimated": true
+      },
+      {
+        "text": "has",
+        "start": 222.46,
+        "estimated": true
+      },
+      {
+        "text": "made,",
+        "start": 223.24
+      },
+      {
+        "text": "praise",
+        "start": 224.73
+      },
+      {
+        "text": "Him",
+        "start": 225.27,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 225.96,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 226.63,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 227.28,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 227.94,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 229.52
+      }
+    ]
+  },
+  {
+    "line": "l10",
+    "start": 231.44,
+    "words": [
+      {
+        "text": "Now",
+        "start": 231.44
+      },
+      {
+        "text": "all",
+        "start": 232.06,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 232.69,
+        "estimated": true
+      },
+      {
+        "text": "powers",
+        "start": 233.32,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 234.57,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 235.2,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 235.82
+      },
+      {
+        "text": "bless",
+        "start": 237.59,
+        "estimated": true
+      },
+      {
+        "text": "His",
+        "start": 239.36,
+        "estimated": true
+      },
+      {
+        "text": "honored",
+        "start": 241.13
+      },
+      {
+        "text": "name,",
+        "start": 242.72
+      },
+      {
+        "text": "O",
+        "start": 243.65
+      },
+      {
+        "text": "sun",
+        "start": 244.22
+      },
+      {
+        "text": "and",
+        "start": 244.98,
+        "estimated": true
+      },
+      {
+        "text": "moon",
+        "start": 245.74
+      },
+      {
+        "text": "and",
+        "start": 246.5,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 247.26,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 248.02,
+        "estimated": true
+      },
+      {
+        "text": "stars,",
+        "start": 248.78
+      },
+      {
+        "text": "praise",
+        "start": 249.74
+      },
+      {
+        "text": "Him",
+        "start": 250.38,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 251.21,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 252.01,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 252.79,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 253.58,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 255.46,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l11",
+    "start": 256.9,
+    "words": [
+      {
+        "text": "And",
+        "start": 256.9
+      },
+      {
+        "text": "also",
+        "start": 257.55,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 258.87,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 259.53,
+        "estimated": true
+      },
+      {
+        "text": "rain",
+        "start": 260.19
+      },
+      {
+        "text": "and",
+        "start": 260.94,
+        "estimated": true
+      },
+      {
+        "text": "dew,",
+        "start": 261.7
+      },
+      {
+        "text": "sing",
+        "start": 262.72
+      },
+      {
+        "text": "praises",
+        "start": 263.35
+      },
+      {
+        "text": "unto",
+        "start": 265.01,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 266.69,
+        "estimated": true
+      },
+      {
+        "text": "Savior,",
+        "start": 267.52
+      },
+      {
+        "text": "for",
+        "start": 269.11,
+        "estimated": true
+      },
+      {
+        "text": "He",
+        "start": 269.9,
+        "estimated": true
+      },
+      {
+        "text": "is",
+        "start": 270.69,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 271.48
+      },
+      {
+        "text": "of",
+        "start": 272.12,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 272.76,
+        "estimated": true
+      },
+      {
+        "text": "fathers,",
+        "start": 273.39
+      },
+      {
+        "text": "praise",
+        "start": 275.18
+      },
+      {
+        "text": "Him",
+        "start": 275.83,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 276.68,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 277.49,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 278.28,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 279.08,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 281.01
+      }
+    ]
+  },
+  {
+    "line": "l12",
+    "start": 282.8,
+    "words": [
+      {
+        "text": "Glorify",
+        "start": 282.8
+      },
+      {
+        "text": "the",
+        "start": 283.5,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 284.16
+      },
+      {
+        "text": "O",
+        "start": 285.04,
+        "estimated": true
+      },
+      {
+        "text": "clouds",
+        "start": 285.93
+      },
+      {
+        "text": "and",
+        "start": 286.71,
+        "estimated": true
+      },
+      {
+        "text": "winds,",
+        "start": 287.5
+      },
+      {
+        "text": "together",
+        "start": 288.05,
+        "estimated": true
+      },
+      {
+        "text": "with",
+        "start": 289.72,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 290.28,
+        "estimated": true
+      },
+      {
+        "text": "souls",
+        "start": 290.83
+      },
+      {
+        "text": "and",
+        "start": 291.57,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 292.3,
+        "estimated": true
+      },
+      {
+        "text": "spirits,",
+        "start": 293.03
+      },
+      {
+        "text": "O",
+        "start": 294.7,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 295.54,
+        "estimated": true
+      },
+      {
+        "text": "cold",
+        "start": 296.38
+      },
+      {
+        "text": "and",
+        "start": 297.19,
+        "estimated": true
+      },
+      {
+        "text": "fire",
+        "start": 298.0
+      },
+      {
+        "text": "and",
+        "start": 299.55,
+        "estimated": true
+      },
+      {
+        "text": "heat,",
+        "start": 300.32
+      },
+      {
+        "text": "praise",
+        "start": 301.33
+      },
+      {
+        "text": "Him",
+        "start": 301.94,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 302.72,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 303.48,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 304.22,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 304.97,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 306.76
+      }
+    ]
+  },
+  {
+    "line": "l13",
+    "start": 308.58,
+    "words": [
+      {
+        "text": "You",
+        "start": 308.58
+      },
+      {
+        "text": "also",
+        "start": 309.52,
+        "estimated": true
+      },
+      {
+        "text": "nights",
+        "start": 311.42
+      },
+      {
+        "text": "and",
+        "start": 312.18,
+        "estimated": true
+      },
+      {
+        "text": "days,",
+        "start": 312.94
+      },
+      {
+        "text": "light",
+        "start": 315.09
+      },
+      {
+        "text": "and",
+        "start": 315.75,
+        "estimated": true
+      },
+      {
+        "text": "darkness",
+        "start": 316.42
+      },
+      {
+        "text": "and",
+        "start": 317.97,
+        "estimated": true
+      },
+      {
+        "text": "lightning,",
+        "start": 318.75
+      },
+      {
+        "text": "glorify",
+        "start": 320.42
+      },
+      {
+        "text": "the",
+        "start": 322.09,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 322.65
+      },
+      {
+        "text": "of",
+        "start": 324.35,
+        "estimated": true
+      },
+      {
+        "text": "Mankind,",
+        "start": 325.21
+      },
+      {
+        "text": "praise",
+        "start": 326.96
+      },
+      {
+        "text": "Him",
+        "start": 327.54,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 328.53,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 329.26
+      },
+      {
+        "text": "Him",
+        "start": 329.78,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 330.31,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 331.57
+      }
+    ]
+  },
+  {
+    "line": "l14",
+    "start": 334.04,
+    "words": [
+      {
+        "text": "You",
+        "start": 334.04
+      },
+      {
+        "text": "trees",
+        "start": 334.73,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 335.42,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 336.1,
+        "estimated": true
+      },
+      {
+        "text": "that",
+        "start": 336.79,
+        "estimated": true
+      },
+      {
+        "text": "springs",
+        "start": 337.47
+      },
+      {
+        "text": "on",
+        "start": 338.01,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 338.55,
+        "estimated": true
+      },
+      {
+        "text": "earth,",
+        "start": 339.09
+      },
+      {
+        "text": "and",
+        "start": 339.85,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 340.62,
+        "estimated": true
+      },
+      {
+        "text": "that",
+        "start": 341.38,
+        "estimated": true
+      },
+      {
+        "text": "moves",
+        "start": 342.14
+      },
+      {
+        "text": "in",
+        "start": 343.13,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 343.62,
+        "estimated": true
+      },
+      {
+        "text": "waters,",
+        "start": 344.11
+      },
+      {
+        "text": "mountains",
+        "start": 347.11
+      },
+      {
+        "text": "and",
+        "start": 348.96,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 349.88,
+        "estimated": true
+      },
+      {
+        "text": "forests,",
+        "start": 350.81
+      },
+      {
+        "text": "praise",
+        "start": 352.7
+      },
+      {
+        "text": "Him",
+        "start": 353.34,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 354.17,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 354.97,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 355.75,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 356.54,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 358.42,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l15",
+    "start": 359.72,
+    "words": [
+      {
+        "text": "Praise",
+        "start": 359.72
+      },
+      {
+        "text": "without",
+        "start": 361.74,
+        "estimated": true
+      },
+      {
+        "text": "ceasing,",
+        "start": 363.77
+      },
+      {
+        "text": "the",
+        "start": 365.42,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 366.25
+      },
+      {
+        "text": "the",
+        "start": 367.05,
+        "estimated": true
+      },
+      {
+        "text": "King",
+        "start": 367.84
+      },
+      {
+        "text": "of",
+        "start": 368.94,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 370.03,
+        "estimated": true
+      },
+      {
+        "text": "kings,",
+        "start": 371.12
+      },
+      {
+        "text": "O",
+        "start": 372.15,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 373.17,
+        "estimated": true
+      },
+      {
+        "text": "rivers",
+        "start": 374.19
+      },
+      {
+        "text": "and",
+        "start": 376.35,
+        "estimated": true
+      },
+      {
+        "text": "seas,",
+        "start": 377.42
+      },
+      {
+        "text": "praise",
+        "start": 378.39
+      },
+      {
+        "text": "Him",
+        "start": 379.03,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 379.86,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 380.66,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 381.44,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 382.23,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 384.11,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l16",
+    "start": 385.46,
+    "words": [
+      {
+        "text": "And",
+        "start": 385.46
+      },
+      {
+        "text": "we",
+        "start": 386.6
+      },
+      {
+        "text": "also",
+        "start": 387.31
+      },
+      {
+        "text": "seeing",
+        "start": 388.78
+      },
+      {
+        "text": "them,",
+        "start": 390.31
+      },
+      {
+        "text": "let",
+        "start": 391.35,
+        "estimated": true
+      },
+      {
+        "text": "us",
+        "start": 392.38,
+        "estimated": true
+      },
+      {
+        "text": "say",
+        "start": 393.42,
+        "estimated": true
+      },
+      {
+        "text": "with",
+        "start": 394.45
+      },
+      {
+        "text": "all",
+        "start": 395.22,
+        "estimated": true
+      },
+      {
+        "text": "these",
+        "start": 395.98
+      },
+      {
+        "text": "things,",
+        "start": 396.89
+      },
+      {
+        "text": "bless",
+        "start": 398.33
+      },
+      {
+        "text": "the",
+        "start": 399.05
+      },
+      {
+        "text": "Lord",
+        "start": 399.95
+      },
+      {
+        "text": "all",
+        "start": 400.78
+      },
+      {
+        "text": "you",
+        "start": 401.62
+      },
+      {
+        "text": "birds,",
+        "start": 403.21
+      },
+      {
+        "text": "praise",
+        "start": 404.51
+      },
+      {
+        "text": "Him",
+        "start": 405.15,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 405.98,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 406.77,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 407.55,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 408.34,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 410.23,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l17",
+    "start": 412.41,
+    "words": [
+      {
+        "text": "O",
+        "start": 412.41
+      },
+      {
+        "text": "snow",
+        "start": 413.27
+      },
+      {
+        "text": "and",
+        "start": 414.59,
+        "estimated": true
+      },
+      {
+        "text": "ice,",
+        "start": 415.92
+      },
+      {
+        "text": "cattle",
+        "start": 417.76
+      },
+      {
+        "text": "and",
+        "start": 419.96,
+        "estimated": true
+      },
+      {
+        "text": "wild",
+        "start": 421.07
+      },
+      {
+        "text": "beasts,",
+        "start": 422.52
+      },
+      {
+        "text": "bless",
+        "start": 424.08
+      },
+      {
+        "text": "the",
+        "start": 424.84
+      },
+      {
+        "text": "Lord",
+        "start": 425.59
+      },
+      {
+        "text": "of",
+        "start": 427.28,
+        "estimated": true
+      },
+      {
+        "text": "lords,",
+        "start": 428.97
+      },
+      {
+        "text": "praise",
+        "start": 429.62
+      },
+      {
+        "text": "Him",
+        "start": 430.26,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 431.09,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 431.89,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 432.67,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 433.46,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 435.34,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l18",
+    "start": 437.04,
+    "words": [
+      {
+        "text": "Bless",
+        "start": 437.04
+      },
+      {
+        "text": "the",
+        "start": 437.82,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 438.59
+      },
+      {
+        "text": "as",
+        "start": 439.59,
+        "estimated": true
+      },
+      {
+        "text": "befits",
+        "start": 440.59
+      },
+      {
+        "text": "Him,",
+        "start": 441.92,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 442.58,
+        "estimated": true
+      },
+      {
+        "text": "not",
+        "start": 443.25,
+        "estimated": true
+      },
+      {
+        "text": "like",
+        "start": 443.92,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 445.25,
+        "estimated": true
+      },
+      {
+        "text": "disobedient,",
+        "start": 445.91
+      },
+      {
+        "text": "all",
+        "start": 450.07,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 451.1,
+        "estimated": true
+      },
+      {
+        "text": "sons",
+        "start": 452.14
+      },
+      {
+        "text": "of",
+        "start": 453.63,
+        "estimated": true
+      },
+      {
+        "text": "men,",
+        "start": 455.12,
+        "estimated": true
+      },
+      {
+        "text": "praise",
+        "start": 456.61
+      },
+      {
+        "text": "Him",
+        "start": 457.26,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 458.08,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 458.88,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 459.66,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 460.45,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 462.34,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l19",
+    "start": 462.7,
+    "words": [
+      {
+        "text": "O",
+        "start": 462.7
+      },
+      {
+        "text": "Israel",
+        "start": 463.37,
+        "estimated": true
+      },
+      {
+        "text": "offer",
+        "start": 464.73,
+        "estimated": true
+      },
+      {
+        "text": "before",
+        "start": 466.08
+      },
+      {
+        "text": "Him,",
+        "start": 467.28
+      },
+      {
+        "text": "honor",
+        "start": 468.44
+      },
+      {
+        "text": "and",
+        "start": 469.8,
+        "estimated": true
+      },
+      {
+        "text": "glory",
+        "start": 470.48
+      },
+      {
+        "text": "in",
+        "start": 471.38,
+        "estimated": true
+      },
+      {
+        "text": "a",
+        "start": 471.83,
+        "estimated": true
+      },
+      {
+        "text": "joyful",
+        "start": 472.29
+      },
+      {
+        "text": "voice,",
+        "start": 473.7
+      },
+      {
+        "text": "all",
+        "start": 474.97,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 475.61,
+        "estimated": true
+      },
+      {
+        "text": "priests",
+        "start": 476.24
+      },
+      {
+        "text": "of",
+        "start": 477.55,
+        "estimated": true
+      },
+      {
+        "text": "Emmanuel,",
+        "start": 478.87
+      },
+      {
+        "text": "praise",
+        "start": 480.99
+      },
+      {
+        "text": "Him",
+        "start": 481.63,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 482.46,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 483.26,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 484.04,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 484.83,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 486.71,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l20",
+    "start": 488.43,
+    "words": [
+      {
+        "text": "You",
+        "start": 488.43
+      },
+      {
+        "text": "servants",
+        "start": 489.18,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 490.67,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 491.41,
+        "estimated": true
+      },
+      {
+        "text": "true",
+        "start": 492.15
+      },
+      {
+        "text": "God,",
+        "start": 492.94
+      },
+      {
+        "text": "the",
+        "start": 494.62,
+        "estimated": true
+      },
+      {
+        "text": "souls",
+        "start": 496.29
+      },
+      {
+        "text": "of",
+        "start": 497.1,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 497.9,
+        "estimated": true
+      },
+      {
+        "text": "righteous,",
+        "start": 498.7
+      },
+      {
+        "text": "and",
+        "start": 500.07,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 500.75,
+        "estimated": true
+      },
+      {
+        "text": "humble",
+        "start": 501.43
+      },
+      {
+        "text": "and",
+        "start": 502.85,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 503.55,
+        "estimated": true
+      },
+      {
+        "text": "charitable,",
+        "start": 504.26
+      },
+      {
+        "text": "praise",
+        "start": 506.26
+      },
+      {
+        "text": "Him",
+        "start": 506.9,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 507.73,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 508.52,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 509.3,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 510.09,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 511.98,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l21",
+    "start": 514.79,
+    "words": [
+      {
+        "text": "God",
+        "start": 514.79
+      },
+      {
+        "text": "my",
+        "start": 515.25,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 515.7
+      },
+      {
+        "text": "is",
+        "start": 516.63,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 517.56,
+        "estimated": true
+      },
+      {
+        "text": "One,",
+        "start": 518.49
+      },
+      {
+        "text": "who",
+        "start": 520.73
+      },
+      {
+        "text": "saved",
+        "start": 521.43,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 522.83,
+        "estimated": true
+      },
+      {
+        "text": "from",
+        "start": 523.53
+      },
+      {
+        "text": "danger,",
+        "start": 524.3
+      },
+      {
+        "text": "O",
+        "start": 525.61,
+        "estimated": true
+      },
+      {
+        "text": "Sedrach",
+        "start": 526.26
+      },
+      {
+        "text": "Misach",
+        "start": 527.64
+      },
+      {
+        "text": "and",
+        "start": 529.23,
+        "estimated": true
+      },
+      {
+        "text": "Abednago,",
+        "start": 530.02
+      },
+      {
+        "text": "praise",
+        "start": 532.3
+      },
+      {
+        "text": "Him",
+        "start": 532.94,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 533.77,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 534.57,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 535.35,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 536.14,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 538.02,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l22",
+    "start": 539.54,
+    "words": [
+      {
+        "text": "Hurry",
+        "start": 539.54
+      },
+      {
+        "text": "with",
+        "start": 541.94,
+        "estimated": true
+      },
+      {
+        "text": "great",
+        "start": 543.15,
+        "estimated": true
+      },
+      {
+        "text": "haste,",
+        "start": 544.35
+      },
+      {
+        "text": "O",
+        "start": 546.08,
+        "estimated": true
+      },
+      {
+        "text": "you",
+        "start": 546.95,
+        "estimated": true
+      },
+      {
+        "text": "righteous",
+        "start": 547.81
+      },
+      {
+        "text": "of",
+        "start": 549.29,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 550.03,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 550.77
+      },
+      {
+        "text": "and",
+        "start": 551.57,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 552.37,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 553.17,
+        "estimated": true
+      },
+      {
+        "text": "creatures",
+        "start": 553.98
+      },
+      {
+        "text": "He",
+        "start": 555.75
+      },
+      {
+        "text": "has",
+        "start": 556.5
+      },
+      {
+        "text": "made,",
+        "start": 557.23
+      },
+      {
+        "text": "praise",
+        "start": 558.07
+      },
+      {
+        "text": "Him",
+        "start": 558.74
+      },
+      {
+        "text": "and",
+        "start": 559.57,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 560.36,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 561.14,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 561.93,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 563.82,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l23",
+    "start": 565.33,
+    "words": [
+      {
+        "text": "Coolness",
+        "start": 565.33
+      },
+      {
+        "text": "and",
+        "start": 566.45
+      },
+      {
+        "text": "repose",
+        "start": 567.57
+      },
+      {
+        "text": "without",
+        "start": 568.81,
+        "estimated": true
+      },
+      {
+        "text": "ceasing,",
+        "start": 569.64
+      },
+      {
+        "text": "grant",
+        "start": 571.77,
+        "estimated": true
+      },
+      {
+        "text": "unto",
+        "start": 572.84,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 574.97,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 576.03,
+        "estimated": true
+      },
+      {
+        "text": "us,",
+        "start": 577.1
+      },
+      {
+        "text": "that",
+        "start": 577.65
+      },
+      {
+        "text": "we",
+        "start": 578.16,
+        "estimated": true
+      },
+      {
+        "text": "may",
+        "start": 578.67
+      },
+      {
+        "text": "joyfully",
+        "start": 580.12
+      },
+      {
+        "text": "proclaim,",
+        "start": 582.27
+      },
+      {
+        "text": "praise",
+        "start": 583.79
+      },
+      {
+        "text": "Him",
+        "start": 584.43,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 585.26,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 586.05,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 586.83,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 587.62,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 589.51,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l24",
+    "start": 590.74,
+    "words": [
+      {
+        "text": "And",
+        "start": 590.74
+      },
+      {
+        "text": "also",
+        "start": 591.33,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 592.52,
+        "estimated": true
+      },
+      {
+        "text": "poor",
+        "start": 593.11,
+        "estimated": true
+      },
+      {
+        "text": "servant",
+        "start": 593.7
+      },
+      {
+        "text": "Sarkis,",
+        "start": 595.24
+      },
+      {
+        "text": "make",
+        "start": 596.6,
+        "estimated": true
+      },
+      {
+        "text": "him",
+        "start": 597.96,
+        "estimated": true
+      },
+      {
+        "text": "without",
+        "start": 598.64,
+        "estimated": true
+      },
+      {
+        "text": "condemnation,",
+        "start": 600.0
+      },
+      {
+        "text": "that",
+        "start": 603.34
+      },
+      {
+        "text": "he",
+        "start": 604.04
+      },
+      {
+        "text": "may",
+        "start": 604.77
+      },
+      {
+        "text": "join",
+        "start": 605.56
+      },
+      {
+        "text": "all",
+        "start": 606.32
+      },
+      {
+        "text": "those",
+        "start": 606.97
+      },
+      {
+        "text": "and",
+        "start": 607.95
+      },
+      {
+        "text": "say,",
+        "start": 608.81
+      },
+      {
+        "text": "praise",
+        "start": 609.59
+      },
+      {
+        "text": "Him",
+        "start": 610.32,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 611.25,
+        "estimated": true
+      },
+      {
+        "text": "exalt",
+        "start": 612.16,
+        "estimated": true
+      },
+      {
+        "text": "Him",
+        "start": 613.04,
+        "estimated": true
+      },
+      {
+        "text": "above",
+        "start": 613.93,
+        "estimated": true
+      },
+      {
+        "text": "all.",
+        "start": 616.07
+      }
+    ]
+  }
+]

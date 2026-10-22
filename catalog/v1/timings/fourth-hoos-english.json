@@ -1,5 +1,2717 @@
 {
  "recording": "fourth-hoos-english",
  "text": "fourth-hoos",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 17.01,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 17.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 18.48,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 19.38,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": 20.58,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 21.04,
+     "end": null
+    },
+    {
+     "text": "heavens",
+     "start": 21.48,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 22.41,
+     "end": null
+    },
+    {
+     "text": "Praise",
+     "start": 23.41,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 23.94,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 24.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 25.18,
+     "end": null
+    },
+    {
+     "text": "heights.",
+     "start": 26.01,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 27.44,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 27.44,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 28.48,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 29.38,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 30.34,
+     "end": null
+    },
+    {
+     "text": "angels",
+     "start": 31.04,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 31.98,
+     "end": null
+    },
+    {
+     "text": "Praise",
+     "start": 33.51,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 33.98,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 34.68,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 35.08,
+     "end": null
+    },
+    {
+     "text": "hosts.",
+     "start": 36.01,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 37.24,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 37.24,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 38.24,
+     "end": null
+    },
+    {
+     "text": "sun",
+     "start": 39.28,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 40.51,
+     "end": null
+    },
+    {
+     "text": "moon",
+     "start": 41.31,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 42.21,
+     "end": null
+    },
+    {
+     "text": "Praise",
+     "start": 43.31,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 43.78,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 44.44,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 44.88,
+     "end": null
+    },
+    {
+     "text": "stars",
+     "start": 45.41,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 45.88,
+     "end": null
+    },
+    {
+     "text": "light.",
+     "start": 46.94,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 48.24,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 48.24,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 49.24,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 50.28,
+     "end": null
+    },
+    {
+     "text": "heavens",
+     "start": 50.88,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 52.01,
+     "end": null
+    },
+    {
+     "text": "heavens",
+     "start": 53.04,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 53.51,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 54.34,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 54.81,
+     "end": null
+    },
+    {
+     "text": "waters",
+     "start": 55.44,
+     "end": null
+    },
+    {
+     "text": "above",
+     "start": 55.91,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 56.34,
+     "end": null
+    },
+    {
+     "text": "heavens.",
+     "start": 56.88,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 59.04,
+   "words": [
+    {
+     "text": "Let",
+     "start": 59.04,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 59.51,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 60.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 61.11,
+     "end": null
+    },
+    {
+     "text": "name",
+     "start": 62.14,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 63.21,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 63.68,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 64.21,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 64.74,
+     "end": null
+    },
+    {
+     "text": "For",
+     "start": 66.24,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 66.68,
+     "end": null
+    },
+    {
+     "text": "commanded",
+     "start": 67.14,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 67.51,
+     "end": null
+    },
+    {
+     "text": "they",
+     "start": 67.91,
+     "end": null
+    },
+    {
+     "text": "were",
+     "start": 68.41,
+     "end": null
+    },
+    {
+     "text": "created.",
+     "start": 68.94,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l6",
+   "start": 70.98,
+   "words": [
+    {
+     "text": "He",
+     "start": 70.98,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 71.94,
+     "end": null
+    },
+    {
+     "text": "ordered",
+     "start": 72.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 73.21,
+     "end": null
+    },
+    {
+     "text": "they",
+     "start": 73.68,
+     "end": null
+    },
+    {
+     "text": "were",
+     "start": 74.14,
+     "end": null
+    },
+    {
+     "text": "created",
+     "start": 74.64,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 76.04,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 77.24,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 77.64,
+     "end": null
+    },
+    {
+     "text": "established",
+     "start": 78.18,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 78.61,
+     "end": null
+    },
+    {
+     "text": "forever",
+     "start": 79.01,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 79.94,
+     "end": null
+    },
+    {
+     "text": "ever.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l7",
+   "start": 82.31,
+   "words": [
+    {
+     "text": "He",
+     "start": 82.31,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "decree",
+     "start": 83.45,
+     "end": null
+    },
+    {
+     "text": "which",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "shall",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "not",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "pass",
+     "start": 85.59,
+     "end": null
+    },
+    {
+     "text": "away",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 87.59,
+     "end": null
+    },
+    {
+     "text": "Praise",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 89.84,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "earth.",
+     "start": 91.68,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l8",
+   "start": 93.08,
+   "words": [
+    {
+     "text": "You",
+     "start": 93.08,
+     "end": null
+    },
+    {
+     "text": "great",
+     "start": 93.58,
+     "end": null
+    },
+    {
+     "text": "sea",
+     "start": 94.11,
+     "end": null
+    },
+    {
+     "text": "creatures",
+     "start": 94.71,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 95.78,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 96.14,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 96.58,
+     "end": null
+    },
+    {
+     "text": "depths",
+     "start": 97.04,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 97.54,
+     "end": null
+    },
+    {
+     "text": "Fire",
+     "start": 99.14,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 99.64,
+     "end": null
+    },
+    {
+     "text": "hail,",
+     "start": 100.18,
+     "end": null
+    },
+    {
+     "text": "snow",
+     "start": 100.68,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 101.14,
+     "end": null
+    },
+    {
+     "text": "clouds,",
+     "start": 101.78,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 102.24,
+     "end": null
+    },
+    {
+     "text": "stormy",
+     "start": 102.71,
+     "end": null
+    },
+    {
+     "text": "wind,",
+     "start": 103.21,
+     "end": null
+    },
+    {
+     "text": "fulfilling",
+     "start": 103.74,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 104.24,
+     "end": null
+    },
+    {
+     "text": "word.",
+     "start": 104.88,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l9",
+   "start": 107.18,
+   "words": [
+    {
+     "text": "Mountains",
+     "start": 107.18,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "hills",
+     "start": 111.31,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 112.12,
+     "end": null
+    },
+    {
+     "text": "Fruitful",
+     "start": 113.08,
+     "end": null
+    },
+    {
+     "text": "trees",
+     "start": 113.64,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 114.31,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 114.78,
+     "end": null
+    },
+    {
+     "text": "cedars.",
+     "start": 115.24,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l10",
+   "start": 117.48,
+   "words": [
+    {
+     "text": "Beasts",
+     "start": 117.48,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "cattle",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 122.31,
+     "end": null
+    },
+    {
+     "text": "Creeping",
+     "start": 123.98,
+     "end": null
+    },
+    {
+     "text": "things",
+     "start": 124.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "flying",
+     "start": 126.38,
+     "end": null
+    },
+    {
+     "text": "birds.",
+     "start": 126.91,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 128.41,
+   "words": [
+    {
+     "text": "Kings",
+     "start": 128.41,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "earth",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 131.04,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "people",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 132.84,
+     "end": null
+    },
+    {
+     "text": "Princes",
+     "start": 133.98,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "judges",
+     "start": 135.68,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "earth.",
+     "start": 137.24,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l12",
+   "start": 139.18,
+   "words": [
+    {
+     "text": "Both",
+     "start": 139.18,
+     "end": null
+    },
+    {
+     "text": "young",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "men",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "maidens",
+     "start": 141.95,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 143.58,
+     "end": null
+    },
+    {
+     "text": "Old",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "men",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "children.",
+     "start": 146.65,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l13",
+   "start": 148.75,
+   "words": [
+    {
+     "text": "Let",
+     "start": 148.75,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 149.95,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 150.81,
+     "end": null
+    },
+    {
+     "text": "name",
+     "start": 151.85,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 152.88,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 153.35,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 153.91,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 154.45,
+     "end": null
+    },
+    {
+     "text": "For",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "name",
+     "start": 156.63,
+     "end": null
+    },
+    {
+     "text": "alone",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "exalted.",
+     "start": 158.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l14",
+   "start": 160.08,
+   "words": [
+    {
+     "text": "His",
+     "start": 160.08,
+     "end": null
+    },
+    {
+     "text": "glory",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "above",
+     "start": 161.38,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "earth",
+     "start": 162.32,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "heaven",
+     "start": 163.78,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 164.88,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "exalted",
+     "start": 167.56,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "horn",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "people.",
+     "start": 169.61,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l15",
+   "start": 171.88,
+   "words": [
+    {
+     "text": "The",
+     "start": 171.88,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "saints",
+     "start": 175.88,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "The",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "children",
+     "start": 178.55,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Israel,",
+     "start": 179.45,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 180.08,
+     "end": null
+    },
+    {
+     "text": "people",
+     "start": 180.65,
+     "end": null
+    },
+    {
+     "text": "near",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Him.",
+     "start": 182.49,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l16",
+   "start": 183.56,
+   "words": [
+    {
+     "text": "Alleluia,",
+     "start": 183.56,
+     "end": null
+    },
+    {
+     "text": "Alleluia,",
+     "start": 185.26,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l17",
+   "start": 187.22,
+   "words": [
+    {
+     "text": "Alleluia",
+     "start": 187.22,
+     "end": null
+    },
+    {
+     "text": "Sing",
+     "start": 189.82,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 190.35,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 191.12,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "new",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "song",
+     "start": 193.05,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 193.58,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 195.69,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "congregation",
+     "start": 196.87,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "saints.",
+     "start": 198.99,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l18",
+   "start": 200.28,
+   "words": [
+    {
+     "text": "Let",
+     "start": 200.28,
+     "end": null
+    },
+    {
+     "text": "Israel",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "rejoice",
+     "start": 202.18,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Maker",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 205.78,
+     "end": null
+    },
+    {
+     "text": "Let",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "children",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Zion",
+     "start": 208.32,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "joyful",
+     "start": 209.99,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "King.",
+     "start": 211.95,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l19",
+   "start": 213.11,
+   "words": [
+    {
+     "text": "Let",
+     "start": 213.11,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 213.75,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 214.21,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 215.01,
+     "end": null
+    },
+    {
+     "text": "name",
+     "start": 215.41,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 216.25,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 216.65,
+     "end": null
+    },
+    {
+     "text": "chorus",
+     "start": 217.18,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 218.08,
+     "end": null
+    },
+    {
+     "text": "Let",
+     "start": 219.28,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 219.46,
+     "end": null
+    },
+    {
+     "text": "sing",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "praises",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 221.95,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 222.48,
+     "end": null
+    },
+    {
+     "text": "timbrel",
+     "start": 223.05,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "harp.",
+     "start": 224.65,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l20",
+   "start": 225.28,
+   "words": [
+    {
+     "text": "For",
+     "start": 225.28,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "takes",
+     "start": 226.28,
+     "end": null
+    },
+    {
+     "text": "pleasure",
+     "start": 227.15,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "people",
+     "start": 229.88,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 230.41,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "will",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "raise",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "meek",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "salvation.",
+     "start": 233.88,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l21",
+   "start": 236.11,
+   "words": [
+    {
+     "text": "Let",
+     "start": 236.11,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "saints",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "joyful",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "glory",
+     "start": 240.25,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 242.25,
+     "end": null
+    },
+    {
+     "text": "Let",
+     "start": 242.98,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 243.38,
+     "end": null
+    },
+    {
+     "text": "sing",
+     "start": 243.85,
+     "end": null
+    },
+    {
+     "text": "aloud",
+     "start": 244.38,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 244.85,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": 245.31,
+     "end": null
+    },
+    {
+     "text": "beds.",
+     "start": 245.95,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l22",
+   "start": 246.75,
+   "words": [
+    {
+     "text": "Let",
+     "start": 246.75,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 247.15,
+     "end": null
+    },
+    {
+     "text": "high",
+     "start": 247.58,
+     "end": null
+    },
+    {
+     "text": "praises",
+     "start": 248.11,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 248.58,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 249.01,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 249.55,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 250.01,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": 250.55,
+     "end": null
+    },
+    {
+     "text": "mouth",
+     "start": 251.08,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 251.55,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 252.05,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 252.95,
+     "end": null
+    },
+    {
+     "text": "two",
+     "start": 253.31,
+     "end": null
+    },
+    {
+     "text": "edged",
+     "start": 253.8,
+     "end": null
+    },
+    {
+     "text": "sword",
+     "start": 254.3,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 254.78,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": 255.25,
+     "end": null
+    },
+    {
+     "text": "hand.",
+     "start": 255.72,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l23",
+   "start": 257.21,
+   "words": [
+    {
+     "text": "To",
+     "start": 257.21,
+     "end": null
+    },
+    {
+     "text": "execute",
+     "start": 257.68,
+     "end": null
+    },
+    {
+     "text": "vengeance",
+     "start": 258.48,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 259.55,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 260.51,
+     "end": null
+    },
+    {
+     "text": "nations",
+     "start": 261.05,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 262.35,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 263.61,
+     "end": null
+    },
+    {
+     "text": "punishments",
+     "start": 264.15,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 265.21,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 265.71,
+     "end": null
+    },
+    {
+     "text": "people.",
+     "start": 266.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l24",
+   "start": 267.85,
+   "words": [
+    {
+     "text": "To",
+     "start": 267.85,
+     "end": null
+    },
+    {
+     "text": "bind",
+     "start": 269.45,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": 270.08,
+     "end": null
+    },
+    {
+     "text": "kings",
+     "start": 270.58,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 271.51,
+     "end": null
+    },
+    {
+     "text": "chains",
+     "start": 272.71,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 273.11,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 274.48,
+     "end": null
+    },
+    {
+     "text": "their",
+     "start": 274.98,
+     "end": null
+    },
+    {
+     "text": "nobles",
+     "start": 275.61,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 276.18,
+     "end": null
+    },
+    {
+     "text": "fetters",
+     "start": 276.75,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 277.28,
+     "end": null
+    },
+    {
+     "text": "iron.",
+     "start": 278.31,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l25",
+   "start": 279.41,
+   "words": [
+    {
+     "text": "To",
+     "start": 279.41,
+     "end": null
+    },
+    {
+     "text": "execute",
+     "start": 279.81,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 280.48,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 280.95,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 281.51,
+     "end": null
+    },
+    {
+     "text": "written",
+     "start": 282.41,
+     "end": null
+    },
+    {
+     "text": "judgment",
+     "start": 282.92,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 284.31,
+     "end": null
+    },
+    {
+     "text": "This",
+     "start": 284.88,
+     "end": null
+    },
+    {
+     "text": "honor",
+     "start": 286.08,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 286.68,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 287.25,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 287.75,
+     "end": null
+    },
+    {
+     "text": "saints.",
+     "start": 288.75,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l26",
+   "start": 289.52,
+   "words": [
+    {
+     "text": "Alleluia,",
+     "start": 289.52,
+     "end": null
+    },
+    {
+     "text": "Alleluia,",
+     "start": 290.98,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l27",
+   "start": 293.35,
+   "words": [
+    {
+     "text": "Alleluia.",
+     "start": 293.35,
+     "end": null
+    },
+    {
+     "text": "Praise",
+     "start": 295.55,
+     "end": null
+    },
+    {
+     "text": "God,",
+     "start": 297.11,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 298.15,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 299.18,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 300.15,
+     "end": null
+    },
+    {
+     "text": "saints",
+     "start": 301.18,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 302.11,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l28",
+   "start": 304.68,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 304.68,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 305.48,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 306.18,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 306.61,
+     "end": null
+    },
+    {
+     "text": "firmament",
+     "start": 307.08,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 307.55,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 307.95,
+     "end": null
+    },
+    {
+     "text": "power",
+     "start": 308.51,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 309.71,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l29",
+   "start": 312.85,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 312.85,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 313.81,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 314.75,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 315.78,
+     "end": null
+    },
+    {
+     "text": "mighty",
+     "start": 316.85,
+     "end": null
+    },
+    {
+     "text": "acts",
+     "start": 318.01,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 318.55,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l30",
+   "start": 321.11,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 321.11,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 322.08,
+     "end": null
+    },
+    {
+     "text": "according",
+     "start": 322.71,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 324.11,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 324.65,
+     "end": null
+    },
+    {
+     "text": "excellent",
+     "start": 325.15,
+     "end": null
+    },
+    {
+     "text": "greatness",
+     "start": 325.71,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 326.71,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l31",
+   "start": 329.51,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 329.51,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 330.38,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 331.08,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 332.11,
+     "end": null
+    },
+    {
+     "text": "sound",
+     "start": 332.55,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 333.35,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 333.75,
+     "end": null
+    },
+    {
+     "text": "trumpet",
+     "start": 334.15,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 334.88,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l32",
+   "start": 338.45,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 338.45,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 338.91,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 339.38,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 340.48,
+     "end": null
+    },
+    {
+     "text": "psaltery",
+     "start": 340.91,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 342.01,
+     "end": null
+    },
+    {
+     "text": "harp",
+     "start": 342.88,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 343.81,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l33",
+   "start": 346.45,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 346.45,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 347.25,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 348.65,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "timbrel",
+     "start": 349.11,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "chorus",
+     "start": 350.81,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l34",
+   "start": 354.55,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 354.55,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 355.61,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "stringed",
+     "start": 356.75,
+     "end": null
+    },
+    {
+     "text": "instruments",
+     "start": 357.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "organs",
+     "start": 359.26,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l35",
+   "start": 363.03,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 363.03,
+     "end": null
+    },
+    {
+     "text": "Him",
+     "start": 364.02,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 365.15,
+     "end": null
+    },
+    {
+     "text": "pleasant",
+     "start": 365.65,
+     "end": null
+    },
+    {
+     "text": "sounding",
+     "start": 366.68,
+     "end": null
+    },
+    {
+     "text": "cymbals",
+     "start": 367.65,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 369.28,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l36",
+   "start": 371.59,
+   "words": [
+    {
+     "text": "Praise",
+     "start": 371.59,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 372.38,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "cymbals",
+     "start": 374.26,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 375.97,
+     "end": null
+    },
+    {
+     "text": "joy",
+     "start": 376.57,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 377.47,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l37",
+   "start": 379.33,
+   "words": [
+    {
+     "text": "Let",
+     "start": 379.33,
+     "end": null
+    },
+    {
+     "text": "everything",
+     "start": 379.75,
+     "end": null
+    },
+    {
+     "text": "that",
+     "start": 381.68,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 382.42,
+     "end": null
+    },
+    {
+     "text": "breath",
+     "start": 383.18,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 383.66,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 384.13,
+     "end": null
+    },
+    {
+     "text": "name",
+     "start": 384.6,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 385.19,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 385.79,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 386.39,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 386.87,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 387.32,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": 387.95,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l38",
+   "start": 389.62,
+   "words": [
+    {
+     "text": "Glory",
+     "start": 389.62,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 390.1,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 390.57,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 391.02,
+     "end": null
+    },
+    {
+     "text": "Father",
+     "start": 391.2,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 392.05,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 392.53,
+     "end": null
+    },
+    {
+     "text": "Son",
+     "start": 392.68,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 394.11,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 394.55,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": 394.96,
+     "end": null
+    },
+    {
+     "text": "Spirit",
+     "start": 396.78,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 397.7,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l39",
+   "start": 400.1,
+   "words": [
+    {
+     "text": "Now",
+     "start": 400.1,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 400.49,
+     "end": null
+    },
+    {
+     "text": "forever",
+     "start": 401.17,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 401.5,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": 402.9,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 404.11,
+     "end": null
+    },
+    {
+     "text": "age",
+     "start": 404.58,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 405.05,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 405.96,
+     "end": null
+    },
+    {
+     "text": "ages",
+     "start": 406.83,
+     "end": null
+    },
+    {
+     "text": "Amen",
+     "start": 407.76,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 408.32,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l40",
+   "start": 410.88,
+   "words": [
+    {
+     "text": "Alleluia,",
+     "start": 410.88,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 412.9,
+     "end": null
+    },
+    {
+     "text": "Glory",
+     "start": 415.42,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 417.97,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 418.56,
+     "end": null
+    },
+    {
+     "text": "alleluia.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l41",
+   "start": 421.86,
+   "words": [
+    {
+     "text": "Alleluia,",
+     "start": 421.86,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 423.19,
+     "end": null
+    },
+    {
+     "text": "Glory",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 429.56,
+     "end": null
+    },
+    {
+     "text": "Alleluia.",
+     "start": 430.43,
+     "end": null
+    }
+   ]
+  }
+ ]
 }
