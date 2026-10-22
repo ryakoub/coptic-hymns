@@ -15,6 +15,21 @@ VOWELS = "aeiou"
 # transliteration lines, so the transliteration of the Coptic on line n goes on line round(1.5 n) + 1:
 # 0 → 1, 2 → 4 (midi_lyrics.py puts verses on lines 0, 2, 5…).
 LINE_RATIO = 1.5
+# Sizes (points), large enough to read on an iPad: fewer bars fit on a line, which is fine. The Coptic is in
+# Arial Coptic; lyricsLineHeight leaves some room between the Coptic and its transliteration.
+COPTIC_SIZE, TRANSLIT_SIZE, LINE_HEIGHT = 16, 12, 1.2      # keep the sizes 4:3, as LINE_RATIO assumes
+
+
+def set_style(xml, values):
+    """Sets the score's style values (in its <Style>, made if missing)."""
+    if not re.search(r"<Style>", xml):
+        xml = re.sub(r"(\n([ \t]*)<Division>\d+</Division>\n)", lambda m: m.group(1) + f"{m.group(2)}<Style>\n{m.group(2)}  </Style>\n", xml, count=1)
+    for key, value in values.items():
+        if re.search(rf"<{key}>.*?</{key}>", xml):
+            xml = re.sub(rf"<{key}>.*?</{key}>", f"<{key}>{value}</{key}>", xml, count=1)
+        else:
+            xml = re.sub(r"(\n([ \t]*)<Style>\n)", lambda m: m.group(1) + f"{m.group(2)}  <{key}>{value}</{key}>\n", xml, count=1)
+    return xml
 JENKIM = "̀"
 
 
@@ -62,13 +77,16 @@ def add(m):
     ind = m.group("indent")
     extra = (f"{ind}<Lyrics>\n{ind}  <no>{round(LINE_RATIO * no) + 1}</no>\n"
              + (f"{ind}  <syllabic>{syllabic.group(1)}</syllabic>\n" if syllabic else "")
-             + f"{ind}  <family>Helvetica</family>\n{ind}  <size>9</size>\n{ind}  <italic>1</italic>\n"
+             + f"{ind}  <family>Helvetica</family>\n{ind}  <size>{TRANSLIT_SIZE}</size>\n{ind}  <italic>1</italic>\n"
              + f'{ind}  <color r="140" g="84" b="31" a="255"/>\n'
              + f'{ind}  <text>{t}</text>\n{ind}  </Lyrics>\n')
     return m.group(0) + extra
 
 
 xml = pattern.sub(add, xml)
+# Wider bars and room between syllables, so the larger words don't run together (fewer bars a line).
+xml = set_style(xml, {"lyricsOddFontFace": "ArialCoptic", "lyricsOddFontSize": COPTIC_SIZE, "lyricsLineHeight": LINE_HEIGHT,
+                      "minMeasureWidth": 14, "lyricsMinDistance": 1})
 open(dst, "w", encoding="utf-8").write(xml)
 print(f"{len(added)} syllables transliterated:")
 print("  " + "  ".join(f"{c}→{t}" for c, t in added))
