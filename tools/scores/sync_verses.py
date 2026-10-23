@@ -74,11 +74,16 @@ def follow_voice(part, end_t, voice, voiced, rec_a, rec_b, offset):
     cantor's pitch by dynamic time warping. Frames without a sung pitch match anything equally. Returns the
     times and the average cost (lower is closer)."""
     t0 = part[0]["t"]
-    grid = np.arange(t0, end_t, 1 / FPS)
-    which = np.searchsorted([n["t"] for n in part], grid, side="right") - 1
-    written = np.array([part[w]["pitch"] - offset for w in which], float)
     a, b = int(rec_a * FPS), int(rec_b * FPS)
-    sung, on = np.nan_to_num(voice[a:b]), voiced[a:b]
+    # A long part (a melismatic hymn of several minutes) is matched at a coarser step, so the table stays under
+    # 300 million cells (as Tai Shouri's, 2.5 minutes): Ten Theeno (9 minutes) needed some 20 GB at the full
+    # rate, which stopped the run.
+    step = max(1, int(np.ceil(np.sqrt((end_t - t0) * FPS * (b - a) / 3e8))))
+    rate = FPS / step
+    grid = np.arange(t0, end_t, 1 / rate)
+    which = np.searchsorted([n["t"] for n in part], grid, side="right") - 1
+    written = np.array([part[w]["pitch"] - offset for w in which], np.float32)
+    sung, on = np.nan_to_num(voice[a:b:step]).astype(np.float32), voiced[a:b:step]
     cost = np.minimum(np.abs(written[:, None] - sung[None, :]), 3.0) / 3.0
     cost[:, ~on] = 0.5
     D, wp = librosa.sequence.dtw(C=cost)
@@ -87,10 +92,10 @@ def follow_voice(part, end_t, voice, voiced, rec_a, rec_b, offset):
         first.setdefault(int(i), int(j))
     times = []
     for n in part:
-        f = min(int(round((n["t"] - t0) * FPS)), len(grid) - 1)
+        f = min(int(round((n["t"] - t0) * rate)), len(grid) - 1)
         while f not in first and f > 0:
             f -= 1
-        times.append(rec_a + first.get(f, 0) / FPS)
+        times.append(rec_a + first.get(f, 0) / rate)
     return times, D[-1, -1] / len(wp)
 
 

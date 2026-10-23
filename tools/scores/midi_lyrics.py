@@ -2,7 +2,7 @@
 words from the PDF, in Unicode, each syllable under its note. Then prepare.sh adds the transliteration line.
 
   venv/bin/python tools/scores/midi_lyrics.py <score.mid> <book.pdf> <first page> <last page> <out.mscx>
-        [--alternatives 753-772 …]
+        [--alternatives 753-772 …] [--skip-colour blue]
 
 Made for Fr. Abraam's PDFs (Finale, with the Maestro music font and an old ASCII Coptic font): its noteheads are
 text, so each one is found on the page and paired, in order, with a MIDI note. The counts must agree on every
@@ -11,22 +11,24 @@ line of music, or nothing is written. Pages count from 1.
 Where the book puts several rows of words under the same notes, they are taken as verses sung one after the
 other, and those lines are written out once per verse (the notes are printed). --alternatives names notes
 whose rows are alternatives instead (one is sung or the other, by season or feast): those stay once, with the
-rows one under another.
+rows one under another. --skip-colour leaves out the words in that colour (red or blue; purple counts as
+neither), e.g. the blue words of a repeat that is not followed (Ten Theeno).
 """
 import os, re, shutil, subprocess, sys, tempfile
 from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTChar
 
 MSCORE = "/Applications/MuseScore 4.app/Contents/MacOS/mscore"
-HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)", "œ", "e"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
+HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)", "œ", "e", "¿", "—"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
 #                                                  and two the Seven Tunes use in bars with "+" or dots over the notes
 #                                                  (in the 2026 edition the first of these is named œ), and an
-#                                                  eighth drawn whole, head, stem and flag in one (e)
+#                                                  eighth drawn whole, head, stem and flag in one (e), and a
+#                                                  cross head, for a note marked "+" (¿), and a triangle head (—), both in Ten Theeno
 # Written before the letter they go over: a jenkim (alone, a jenkim sung on its own note), a dot.
 MARKS = {"`": "̀", "~": "̇"}
 # The old Coptic font: each ASCII key stands for a Coptic letter (checked on the Seven Tunes: ; is ϯ, ] is ϣ;
 # on Pi Gen Misi: [ is ⲝ).
-LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϣϧϩϫϥⲝϣϯ"))
+LETTERS = dict(zip("abgdezhqiklmnxoprctuvyws'\\jf[];", "ⲁⲃⲅⲇⲉⲍⲏⲑⲓⲕⲗⲙⲛⲭⲟⲡⲣⲥⲧⲩⲫⲯⲱϭϧϩϫϥⲝϣϯ"))   # s is ϭ (Ⲡ̀ϭⲟⲓⲥ in Ten Theeno), ] is ϣ
 LETTERS.update({k.upper(): v.upper() for k, v in LETTERS.items() if k.isalpha()})
 # Shifted keys are capitals ("Ϧ, |Ϩ, :Ϯ, {Ⲝ, }Ϣ); the colon is >.
 LETTERS.update({'"': "Ϧ", "|": "Ϩ", ":": "Ϯ", "{": "Ⲝ", "}": "Ϣ", ">": ":", ".": ".", "(": "(", ")": ")"})
@@ -135,7 +137,11 @@ def read_row(row, verse, syllables, heads):
 
 def main():
     args = sys.argv[1:]
-    alternatives = []
+    alternatives, skip = [], set()
+    while "--skip-colour" in args:
+        k = args.index("--skip-colour")
+        skip.add(args[k + 1])
+        del args[k:k + 2]
     while "--alternatives" in args:
         k = args.index("--alternatives")
         a, b = args[k + 1].split("-")
@@ -176,6 +182,21 @@ def main():
         start += len(line["heads"])
     if unknown:
         print("  old-font keys not known yet (shown as ?):", " ".join(sorted(unknown)))
+    # Words in a colour left out (--skip-colour); the rows left under each line are numbered again from the top.
+    if skip:
+        left = sum(1 for _, col in lyrics.values() if col in skip)
+        lyrics = {key: v for key, v in lyrics.items() if v[1] not in skip}
+        print(f"  {left} syllables in {', '.join(sorted(skip))} left out")
+        bounds = [0]
+        for line in lines:
+            bounds.append(bounds[-1] + len(line["heads"]))
+        renumbered = {}
+        for n in range(len(lines)):
+            here = sorted({v for (i, v) in lyrics if bounds[n] <= i < bounds[n + 1]})
+            for (i, v), val in lyrics.items():
+                if bounds[n] <= i < bounds[n + 1]:
+                    renumbered[i, here.index(v)] = val
+        lyrics = renumbered
 
     # Stacked verses: lines where rows of words for several verses share the notes. Each run of such lines is
     # written out once per verse, one after another, so each line has one verse and the cursor (and the
