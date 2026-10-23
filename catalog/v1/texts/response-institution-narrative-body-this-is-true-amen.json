@@ -1,0 +1,31 @@
+{
+ "id": "response-institution-narrative-body-this-is-true-amen",
+ "titles": {
+  "english": "Institution Narrative (Body) - This is true. Amen",
+  "arabic": "الصلوات التأسيسية (الجسد) - هذا هو بالحقيقة. آمين"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+   "translations": {
+    "english": "This is true."
+   },
+   "transliterations": {
+    "english": "Fai pe khen oumethmee:"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen."
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  }
+ ]
+}

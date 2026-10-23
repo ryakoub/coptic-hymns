@@ -1,0 +1,20 @@
+{
+ "id": "response-institution-narrative-blood-again-we-believe-we-confess",
+ "titles": {
+  "english": "Institution Narrative (Blood) - Again, we believe, we confess",
+  "arabic": "الصلوات التأسيسية (الدم) - وأيضاً نؤمن ونعترف"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ ⲕⲉ ⲇⲟⲝⲁⲍⲟⲙⲉⲛ.",
+   "translations": {
+    "english": "Again, we believe, we confess, and we glorify."
+   },
+   "transliterations": {
+    "english": "Ke palin pistevomen ke omologhoumen ke thoksazomen."
+   }
+  }
+ ]
+}

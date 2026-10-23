@@ -1,0 +1,31 @@
+{
+ "id": "response-institution-narrative-blood-this-is-also-true-amen",
+ "titles": {
+  "english": "Institution Narrative (Blood) - This is also true. Amen",
+  "arabic": "الصلوات التأسيسية (الدم) - هذا هو أيضاً بالحقيقة. آمين."
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+   "translations": {
+    "english": "This is also true."
+   },
+   "transliterations": {
+    "english": "Fai on pe khen oumethmee:"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen"
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  }
+ ]
+}

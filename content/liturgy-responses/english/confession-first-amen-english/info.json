@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Confession - First Amen"
+  },
+  "text": "response-amen",
+  "language": "english",
+  "tune": {
+    "english": "English · Confession, first Amen"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2621",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3930,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

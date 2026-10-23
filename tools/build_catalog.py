@@ -221,11 +221,13 @@ class Build:
                 seg["words"] = [{"text": w.get("text", ""), "start": None if w.get("estimated") else w.get("start"), "end": w.get("end"),
                                  **({"trailingSpace": False} if w.get("trailingSpace") is False else {})} for w in ws]
             segments.append(seg)
-        if not text["pending"] and len(segments) < len(sung):
+        # A placeholder ("placeholder": true) holds a hymn's place until its recording is found: no audio yet.
+        placeholder = bool(info.get("placeholder"))
+        if not text["pending"] and len(segments) < len(sung) and not placeholder:
             self.warn(rid, f"{len(sung) - len(segments)} of {len(sung)} lines have no start time")
 
         audio = next((folder / n for n in AUDIO_PREFERENCE if (folder / n).exists()), None)
-        if audio is None:
+        if audio is None and not placeholder:
             self.error(rid, "no audio file")
         self.timings[rid] = {"recording": rid, "text": tid, "segments": segments}
         entry = {"id": rid, "text": tid, "duration": audio_duration(audio) if audio else None,

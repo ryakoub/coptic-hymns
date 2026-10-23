@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Institution Narrative (Body) - Amen 3x"
+  },
+  "text": "response-amen-3x",
+  "language": "english",
+  "tune": {
+    "english": "English · Institution Narrative (Body)"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2620",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3540,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

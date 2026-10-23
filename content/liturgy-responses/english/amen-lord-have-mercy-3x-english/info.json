@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Amen. Lord have mercy 3x"
+  },
+  "text": "response-amen-lord-have-mercy-3x",
+  "language": "english",
+  "tune": {
+    "english": "English"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2640",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3900,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "response-anaphora-amen-i-believe",
+ "titles": {
+  "english": "Anaphora - Amen, I believe",
+  "arabic": "الأنافورا - حقاً. أؤمن"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen,"
+   },
+   "transliterations": {
+    "english": "Ameen."
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ϯⲛⲁϩϯ.",
+   "translations": {
+    "english": "I believe."
+   },
+   "transliterations": {
+    "english": "Tinahti."
+   }
+  }
+ ]
+}

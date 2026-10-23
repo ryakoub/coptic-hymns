@@ -1,0 +1,42 @@
+{
+ "id": "response-amen-3x",
+ "titles": {
+  "english": "Amen (3x)",
+  "arabic": "آمين (3)"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲏⲛ:",
+   "translations": {
+    "english": "Amen,"
+   },
+   "transliterations": {
+    "english": "Ameen:"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ:",
+   "translations": {
+    "english": "amen,"
+   },
+   "transliterations": {
+    "english": "ameen:"
+   }
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "amen."
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  }
+ ]
+}

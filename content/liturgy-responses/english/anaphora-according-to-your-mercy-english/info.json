@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Anaphora - According to Your mercy"
+  },
+  "text": "response-anaphora-according-to-your-mercy",
+  "language": "english",
+  "tune": {
+    "english": "English · Anaphora"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/331",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3525,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

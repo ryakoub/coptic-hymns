@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Confession - Second Amen"
+  },
+  "text": "response-amen",
+  "language": "english",
+  "tune": {
+    "english": "English · Confession, second Amen"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2621",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3940,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

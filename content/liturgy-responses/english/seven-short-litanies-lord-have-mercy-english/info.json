@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Seven Short Litanies - Lord have mercy"
+  },
+  "text": "response-lord-have-mercy",
+  "language": "english",
+  "tune": {
+    "english": "English · Seven Short Litanies"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2617",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3725,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

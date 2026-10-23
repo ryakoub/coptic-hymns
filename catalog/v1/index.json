@@ -1,6 +1,6 @@
 {
- "version": "0c183ccef0711649",
- "updated": "2026-10-23T01:43:45Z",
+ "version": "55e7c96171c534ba",
+ "updated": "2026-10-23T02:44:22Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -103,16 +103,52 @@
         "liturgy-gospel-response-annual",
         "ten-oosht-evol-basil",
         "ten-oosht-evol-gregory",
+        "reconciliation-prayer-and-with-your-spirit-english",
+        "reconciliation-prayer-lord-have-mercy-english",
         "reconciliation-response-basil",
         "aspasmos-adam-annual",
         "anaphora-responses-st-basil-st-gregory-liturgies",
         "aspasmos-watos-annual",
         "cherubim-response",
+        "anaphora-amen-english",
+        "anaphora-amen-i-believe-english",
+        "anaphora-according-to-your-mercy-english",
+        "institution-narrative-truly-we-believe-english",
+        "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+        "institution-narrative-body-amen-3x-english",
+        "institution-narrative-body-we-believe-we-confess-english",
+        "institution-narrative-body-this-is-true-english",
+        "institution-narrative-blood-amen-3x-english",
+        "institution-narrative-blood-again-we-believe-we-confess-english",
+        "institution-narrative-blood-this-is-also-true-amen-english",
         "eleison-imas-je-nai-nan",
         "je-nai-nan",
         "amen-ton-thanaton",
+        "we-praise-you-english",
+        "i-believe-amen-english",
+        "again-i-believe-amen-english",
+        "lord-have-mercy-3x-english",
+        "seven-short-litanies-lord-have-mercy-english",
+        "nature-litany-lord-have-mercy-3x-english",
+        "oblations-litany-lord-have-mercy-english",
         "ere-po-esmo-may-their-holy-blessing",
         "os-ein-response",
+        "intro-to-fraction-and-with-your-spirit-english",
+        "intro-to-fraction-amen-english",
+        "intro-to-fraction-we-worship-your-holy-body-english",
+        "intro-to-fraction-and-your-precious-blood-english",
+        "intro-to-fraction-lord-have-mercy-english",
+        "intro-to-fraction-and-with-your-spirit-2-english",
+        "fraction-lord-have-mercy-english",
+        "in-christ-jesus-our-lord-english",
+        "before-you-o-lord-english",
+        "and-with-your-spirit-english",
+        "amen-lord-have-mercy-3x-english",
+        "and-with-your-spirit-2-english",
+        "one-is-the-all-holy-father-english",
+        "confession-first-amen-english",
+        "confession-second-amen-english",
+        "confession-amen-i-believe-english",
         "distribution-alleluia-annual",
         "distribution-annual-psalm-150",
         "pi-oik"
@@ -157,16 +193,52 @@
          "recordings": [
           "ten-oosht-evol-basil",
           "ten-oosht-evol-gregory",
+          "reconciliation-prayer-and-with-your-spirit-english",
+          "reconciliation-prayer-lord-have-mercy-english",
           "reconciliation-response-basil",
           "aspasmos-adam-annual",
           "anaphora-responses-st-basil-st-gregory-liturgies",
           "aspasmos-watos-annual",
           "cherubim-response",
+          "anaphora-amen-english",
+          "anaphora-amen-i-believe-english",
+          "anaphora-according-to-your-mercy-english",
+          "institution-narrative-truly-we-believe-english",
+          "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+          "institution-narrative-body-amen-3x-english",
+          "institution-narrative-body-we-believe-we-confess-english",
+          "institution-narrative-body-this-is-true-english",
+          "institution-narrative-blood-amen-3x-english",
+          "institution-narrative-blood-again-we-believe-we-confess-english",
+          "institution-narrative-blood-this-is-also-true-amen-english",
           "eleison-imas-je-nai-nan",
           "je-nai-nan",
           "amen-ton-thanaton",
+          "we-praise-you-english",
+          "i-believe-amen-english",
+          "again-i-believe-amen-english",
+          "lord-have-mercy-3x-english",
+          "seven-short-litanies-lord-have-mercy-english",
+          "nature-litany-lord-have-mercy-3x-english",
+          "oblations-litany-lord-have-mercy-english",
           "ere-po-esmo-may-their-holy-blessing",
-          "os-ein-response"
+          "os-ein-response",
+          "intro-to-fraction-and-with-your-spirit-english",
+          "intro-to-fraction-amen-english",
+          "intro-to-fraction-we-worship-your-holy-body-english",
+          "intro-to-fraction-and-your-precious-blood-english",
+          "intro-to-fraction-lord-have-mercy-english",
+          "intro-to-fraction-and-with-your-spirit-2-english",
+          "fraction-lord-have-mercy-english",
+          "in-christ-jesus-our-lord-english",
+          "before-you-o-lord-english",
+          "and-with-your-spirit-english",
+          "amen-lord-have-mercy-3x-english",
+          "and-with-your-spirit-2-english",
+          "one-is-the-all-holy-father-english",
+          "confession-first-amen-english",
+          "confession-second-amen-english",
+          "confession-amen-i-believe-english"
          ]
         },
         {
@@ -1511,7 +1583,8 @@
     "english"
    ],
    "recordings": [
-    "amen-ton-thanaton"
+    "amen-ton-thanaton",
+    "institution-narrative-your-death-o-lord-english"
    ],
    "file": {
     "url": "catalog/v1/texts/amen-ton-thanaton.json",
@@ -1539,7 +1612,10 @@
    ],
    "transliterations": [],
    "recordings": [
-    "anaphora-responses-st-basil-st-gregory-liturgies"
+    "anaphora-responses-st-basil-st-gregory-liturgies",
+    "anaphora-and-with-your-spirit-english",
+    "anaphora-it-is-meet-and-right-english",
+    "anaphora-we-have-them-with-the-lord-english"
    ],
    "file": {
     "url": "catalog/v1/texts/anaphora-responses-st-basil-st-gregory-liturgies.json",
@@ -1799,7 +1875,8 @@
     "english"
    ],
    "recordings": [
-    "cherubim-response"
+    "cherubim-response",
+    "anaphora-the-cherubimic-hymn-english"
    ],
    "file": {
     "url": "catalog/v1/texts/cherubim-response.json",
@@ -2278,7 +2355,8 @@
    ],
    "recordings": [
     "eleison-imas-je-nai-nan",
-    "je-nai-nan"
+    "je-nai-nan",
+    "seven-short-litanies-have-mercy-upon-us-english"
    ],
    "file": {
     "url": "catalog/v1/texts/eleison-imas-je-nai-nan.json",
@@ -2299,7 +2377,9 @@
    ],
    "transliterations": [],
    "recordings": [
-    "ere-po-esmo-may-their-holy-blessing"
+    "ere-po-esmo-may-their-holy-blessing",
+    "may-their-holy-blessing-full-ending-english",
+    "may-their-holy-blessing-short-ending-english"
    ],
    "file": {
     "url": "catalog/v1/texts/ere-po-esmo-may-their-holy-blessing.json",
@@ -3033,7 +3113,9 @@
     "english"
    ],
    "recordings": [
-    "os-ein-response"
+    "os-ein-response",
+    "as-it-was-full-ending-english",
+    "as-it-was-short-ending-english"
    ],
    "file": {
     "url": "catalog/v1/texts/os-ein-response.json",
@@ -3378,7 +3460,8 @@
     "english"
    ],
    "recordings": [
-    "reconciliation-response-basil"
+    "reconciliation-response-basil",
+    "reconciliation-prayer-through-the-intercession-english"
    ],
    "file": {
     "url": "catalog/v1/texts/reconciliation-response-basil.json",
@@ -3406,6 +3489,617 @@
     "url": "catalog/v1/texts/refrain-third-hour-pentecost.json",
     "bytes": 1005,
     "sha256": "1bf2d51324152187f1add86f6d35c37de115519e20ff690ca950766ed4c13278"
+   }
+  },
+  {
+   "id": "response-again-i-believe-amen",
+   "titles": {
+    "english": "Again, I believe. Amen",
+    "arabic": "وأيضاً أؤمن"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-again-i-believe-amen",
+    "again-i-believe-amen-english",
+    "response-again-i-believe-amen-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-again-i-believe-amen.json",
+    "bytes": 540,
+    "sha256": "46499a7cedae339f861d78b44b77f639173d61c48bb9942be16d1374f6a9827f"
+   }
+  },
+  {
+   "id": "response-amen",
+   "titles": {
+    "english": "Amen",
+    "arabic": "آمين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-amen",
+    "anaphora-amen-english",
+    "confession-first-amen-english",
+    "confession-second-amen-english",
+    "intro-to-fraction-amen-english",
+    "response-amen-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-amen.json",
+    "bytes": 276,
+    "sha256": "23339f8bbac05d89f0dfdedc55e6d930d6ddd1ceefaf55f4c613631758d5151f"
+   }
+  },
+  {
+   "id": "response-amen-3x",
+   "titles": {
+    "english": "Amen (3x)",
+    "arabic": "آمين (3)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-amen-3x",
+    "institution-narrative-blood-amen-3x-english",
+    "institution-narrative-body-amen-3x-english",
+    "response-amen-3x-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-amen-3x.json",
+    "bytes": 636,
+    "sha256": "961a5943560d8b5c19116aae2423e4121c5e6ca6209bf6ac6cf450504364e1b5"
+   }
+  },
+  {
+   "id": "response-amen-lord-have-mercy-3x",
+   "titles": {
+    "english": "Amen. Lord have mercy 3x",
+    "arabic": "آمين. يا ربُّ إرحَم (3)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-amen-lord-have-mercy-3x",
+    "amen-lord-have-mercy-3x-english",
+    "response-amen-lord-have-mercy-3x-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-amen-lord-have-mercy-3x.json",
+    "bytes": 1011,
+    "sha256": "5054ad0d1e3f7b72328b62293cb9cf2090c40db20e334b229a1eb107a0e18f77"
+   }
+  },
+  {
+   "id": "response-anaphora-according-to-your-mercy",
+   "titles": {
+    "english": "Anaphora - According to Your mercy",
+    "arabic": "الأنافورا - كرحمتك يا رب"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-anaphora-according-to-your-mercy",
+    "anaphora-according-to-your-mercy-english",
+    "response-anaphora-according-to-your-mercy-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-anaphora-according-to-your-mercy.json",
+    "bytes": 751,
+    "sha256": "384c4a5af1e6c846da1233f8c1bb094dd9a864f9adbe77270e3a8b2619e6b147"
+   }
+  },
+  {
+   "id": "response-anaphora-amen-i-believe",
+   "titles": {
+    "english": "Anaphora - Amen, I believe",
+    "arabic": "الأنافورا - حقاً. أؤمن"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-anaphora-amen-i-believe",
+    "anaphora-amen-i-believe-english",
+    "response-anaphora-amen-i-believe-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-anaphora-amen-i-believe.json",
+    "bytes": 527,
+    "sha256": "e63499ace510dc92a7f48a0cf0f732a24eaba83b21e2c8734828b5abd50c0e11"
+   }
+  },
+  {
+   "id": "response-and-with-your-spirit",
+   "titles": {
+    "english": "And with Your Spirit",
+    "arabic": "ولروحك أيضاً"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-and-with-your-spirit",
+    "and-with-your-spirit-2-english",
+    "and-with-your-spirit-english",
+    "intro-to-fraction-and-with-your-spirit-2-english",
+    "intro-to-fraction-and-with-your-spirit-english",
+    "reconciliation-prayer-and-with-your-spirit-english",
+    "response-and-with-your-spirit-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-and-with-your-spirit.json",
+    "bytes": 389,
+    "sha256": "98880d758bf09abdc06e55bb04add76b0df45c154e652086af547a6b4c80682d"
+   }
+  },
+  {
+   "id": "response-before-you-o-lord",
+   "titles": {
+    "english": "Before You, O Lord",
+    "arabic": "أمامك يا ربُ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-before-you-o-lord",
+    "before-you-o-lord-english",
+    "response-before-you-o-lord-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-before-you-o-lord.json",
+    "bytes": 377,
+    "sha256": "e22f462d5950bc0f399a1d636fc68e44a55db2e5e2b8c2d3d41e93e69e9fc5bf"
+   }
+  },
+  {
+   "id": "response-confession-amen-i-believe",
+   "titles": {
+    "english": "Confession - Amen. I believe",
+    "arabic": "الإعتراف - حقاً. أؤمن"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-confession-amen-i-believe",
+    "confession-amen-i-believe-english",
+    "response-confession-amen-i-believe-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-confession-amen-i-believe.json",
+    "bytes": 529,
+    "sha256": "616c926a982a76c67007886543b30cdb12d8d77ace8fe94a6f328c2e488d51d0"
+   }
+  },
+  {
+   "id": "response-i-believe-amen",
+   "titles": {
+    "english": "I believe. Amen",
+    "arabic": "أؤمن."
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-i-believe-amen",
+    "i-believe-amen-english",
+    "response-i-believe-amen-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-i-believe-amen.json",
+    "bytes": 472,
+    "sha256": "02e770666390baf5ce45aae5bf358fb4bc607d41f2c8fe628d56cc835520f07f"
+   }
+  },
+  {
+   "id": "response-in-christ-jesus-our-lord",
+   "titles": {
+    "english": "In Christ Jesus our Lord",
+    "arabic": "بالمسيح يسوع ربنا"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-in-christ-jesus-our-lord",
+    "in-christ-jesus-our-lord-english",
+    "response-in-christ-jesus-our-lord-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-in-christ-jesus-our-lord.json",
+    "bytes": 453,
+    "sha256": "361d19ea9c35f807d72610fbc0dc877b5e60d128b7efd3d58a2093db6069f53d"
+   }
+  },
+  {
+   "id": "response-institution-narrative-blood-again-we-believe-we-confess",
+   "titles": {
+    "english": "Institution Narrative (Blood) - Again, we believe, we confess",
+    "arabic": "الصلوات التأسيسية (الدم) - وأيضاً نؤمن ونعترف"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-institution-narrative-blood-again-we-believe-we-confess",
+    "institution-narrative-blood-again-we-believe-we-confess-english",
+    "response-institution-narrative-blood-again-we-believe-we-confess-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-institution-narrative-blood-again-we-believe-we-confess.json",
+    "bytes": 662,
+    "sha256": "ac5953add1583811114dfbc572e8b7d690b81be1edce18c623677fcc9e9aa271"
+   }
+  },
+  {
+   "id": "response-institution-narrative-blood-this-is-also-true-amen",
+   "titles": {
+    "english": "Institution Narrative (Blood) - This is also true. Amen",
+    "arabic": "الصلوات التأسيسية (الدم) - هذا هو أيضاً بالحقيقة. آمين."
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-institution-narrative-blood-this-is-also-true-amen",
+    "institution-narrative-blood-this-is-also-true-amen-english",
+    "response-institution-narrative-blood-this-is-also-true-amen-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-institution-narrative-blood-this-is-also-true-amen.json",
+    "bytes": 710,
+    "sha256": "28680f3bb7125eb091c6681a99814b812c774925f84724b1856d169af43b25dc"
+   }
+  },
+  {
+   "id": "response-institution-narrative-body-this-is-true-amen",
+   "titles": {
+    "english": "Institution Narrative (Body) - This is true. Amen",
+    "arabic": "الصلوات التأسيسية (الجسد) - هذا هو بالحقيقة. آمين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-institution-narrative-body-this-is-true-amen",
+    "institution-narrative-body-this-is-true-english",
+    "response-institution-narrative-body-this-is-true-amen-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-institution-narrative-body-this-is-true-amen.json",
+    "bytes": 674,
+    "sha256": "5026648ddf22143fd1aaf239bd027b570a5b3e0a36d4be9a51eeda3d4e84263a"
+   }
+  },
+  {
+   "id": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+   "titles": {
+    "english": "Institution Narrative (Body) - We believe that this is true. Amen",
+    "arabic": "الصلوات التأسيسية (الجسد) - نؤمن أن هذا هو بالحقيقة. آمين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+    "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+    "response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-institution-narrative-body-we-believe-that-this-is-true-amen.json",
+    "bytes": 773,
+    "sha256": "7694b7c863d12ee6e6c1e8023938dcdf82490d9cdb7e55a65132ec4cdcbc6d27"
+   }
+  },
+  {
+   "id": "response-institution-narrative-body-we-believe-we-confess",
+   "titles": {
+    "english": "Institution Narrative (Body) - We believe, we confess",
+    "arabic": "الصلوات التأسيسية (الجسد) - نؤمن ونعترف"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-institution-narrative-body-we-believe-we-confess",
+    "institution-narrative-body-we-believe-we-confess-english",
+    "response-institution-narrative-body-we-believe-we-confess-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-institution-narrative-body-we-believe-we-confess.json",
+    "bytes": 597,
+    "sha256": "408c43236dd54845472bf68e059a4c054dc12c3ddff76f27df519183bb337ad2"
+   }
+  },
+  {
+   "id": "response-institution-narrative-truly-we-believe",
+   "titles": {
+    "english": "Institution Narrative - Truly, we believe",
+    "arabic": "الصلوات التأسيسية - بالحقيقة نؤمن"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-institution-narrative-truly-we-believe",
+    "institution-narrative-truly-we-believe-english",
+    "response-institution-narrative-truly-we-believe-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-institution-narrative-truly-we-believe.json",
+    "bytes": 466,
+    "sha256": "cf458dc103c96a0e2f89da24314f44ea19d26fc85459af99711fe23826998e54"
+   }
+  },
+  {
+   "id": "response-intro-to-fraction-and-your-precious-blood",
+   "titles": {
+    "english": "Intro to Fraction - And Your precious Blood",
+    "arabic": "مقدمة القسمة - ودمك الكريم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-intro-to-fraction-and-your-precious-blood",
+    "intro-to-fraction-and-your-precious-blood-english",
+    "response-intro-to-fraction-and-your-precious-blood-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-intro-to-fraction-and-your-precious-blood.json",
+    "bytes": 474,
+    "sha256": "d5f72e7b8050744a156f18abae15c2919ca14169971e8d45614dc526dc8d2163"
+   }
+  },
+  {
+   "id": "response-intro-to-fraction-we-worship-your-holy-body",
+   "titles": {
+    "english": "Intro to Fraction - We worship Your holy Body",
+    "arabic": "مقدمة القسمة - نسجد لجسدك المقدس"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-intro-to-fraction-we-worship-your-holy-body",
+    "intro-to-fraction-we-worship-your-holy-body-english",
+    "response-intro-to-fraction-we-worship-your-holy-body-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-intro-to-fraction-we-worship-your-holy-body.json",
+    "bytes": 506,
+    "sha256": "59aeddc14dcb645e63c63050a0d62639a40d45569aff22fd6208e8056341f781"
+   }
+  },
+  {
+   "id": "response-lord-have-mercy",
+   "titles": {
+    "english": "Lord have mercy",
+    "arabic": "يا ربُّ إرحَم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-lord-have-mercy",
+    "fraction-lord-have-mercy-english",
+    "intro-to-fraction-lord-have-mercy-english",
+    "oblations-litany-lord-have-mercy-english",
+    "reconciliation-prayer-lord-have-mercy-english",
+    "response-lord-have-mercy-arabic",
+    "seven-short-litanies-lord-have-mercy-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-lord-have-mercy.json",
+    "bytes": 362,
+    "sha256": "bff9767053323b2ab4fa0bc9577a5437c6b674ce5ad188dcd84ac74d62416c4a"
+   }
+  },
+  {
+   "id": "response-lord-have-mercy-3x",
+   "titles": {
+    "english": "Lord have mercy (3x)",
+    "arabic": "يا ربُّ إرحَم (3)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-lord-have-mercy-3x",
+    "lord-have-mercy-3x-english",
+    "nature-litany-lord-have-mercy-3x-english",
+    "response-lord-have-mercy-3x-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-lord-have-mercy-3x.json",
+    "bytes": 818,
+    "sha256": "79c6d8870db5fba29c34676b55082e65d2d22a1b433323acfdc41906d7e84e9a"
+   }
+  },
+  {
+   "id": "response-one-is-the-all-holy-father",
+   "titles": {
+    "english": "One is the All-Holy Father",
+    "arabic": "واحد هو الآب القدوس"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-one-is-the-all-holy-father",
+    "one-is-the-all-holy-father-english",
+    "response-one-is-the-all-holy-father-arabic"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-one-is-the-all-holy-father.json",
+    "bytes": 1971,
+    "sha256": "526536d1601514b514966ff399487773f59eaf365954a1fa4dea9183d76ce9cb"
+   }
+  },
+  {
+   "id": "response-we-praise-you",
+   "titles": {
+    "english": "We praise You",
+    "arabic": "نسبحك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "response-we-praise-you",
+    "response-we-praise-you-arabic",
+    "we-praise-you-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/response-we-praise-you.json",
+    "bytes": 536,
+    "sha256": "c9f9f54c5aafd523ec3640870d9f1359aab28d8e2c13fe53f3a037c2debb453f"
    }
   },
   {
@@ -4059,7 +4753,8 @@
    "recordings": [
     "ten-oosht-evol-basil",
     "ten-oosht-evol-gregory",
-    "ten-oosht-evol-vespers-matins"
+    "ten-oosht-evol-vespers-matins",
+    "we-look-for-the-resurrection-english"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-oosht-evol-basil.json",
@@ -4540,6 +5235,37 @@
    ]
   },
   {
+   "id": "again-i-believe-amen-english",
+   "text": "response-again-i-believe-amen",
+   "duration": 11.84,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2633",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/again-i-believe-amen-english.json",
+     "bytes": 107,
+     "sha256": "a8bb3591be32090a7d4b520ad945d27c9a58046a050f40bb11189a0d991dad23",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/again-i-believe-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 145903,
+     "sha256": "1583789706dc757502194a1b2e46afe249aa2fb3683e588af31ac440e2315a45"
+    }
+   ]
+  },
+  {
    "id": "agios-annual",
    "text": "agios-annual",
    "duration": 145.52,
@@ -4592,6 +5318,37 @@
    ]
   },
   {
+   "id": "amen-lord-have-mercy-3x-english",
+   "text": "response-amen-lord-have-mercy-3x",
+   "duration": 21.08,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2640",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/amen-lord-have-mercy-3x-english.json",
+     "bytes": 113,
+     "sha256": "2ec509443da26ee82aa3396e6b5094f1746909fe268bc7eec5adef8df749feba",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/amen-lord-have-mercy-3x-english/audio.m4a",
+     "role": "audio",
+     "bytes": 258395,
+     "sha256": "cd92a727c489b3a95e2d172578777701bff417631e42e911de26c6ff4be47a1f"
+    }
+   ]
+  },
+  {
    "id": "amen-ton-thanaton",
    "text": "amen-ton-thanaton",
    "duration": 127.06,
@@ -4618,6 +5375,159 @@
    ]
   },
   {
+   "id": "anaphora-according-to-your-mercy-english",
+   "text": "response-anaphora-according-to-your-mercy",
+   "duration": 34.88,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/331",
+   "tune": {
+    "english": "English · Anaphora"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-according-to-your-mercy-english.json",
+     "bytes": 131,
+     "sha256": "afcc09914dafa889d0aa1c87d75a8cc77d0fd70fb029f496e25d437e8f304a0b",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-according-to-your-mercy-english/audio.m4a",
+     "role": "audio",
+     "bytes": 426293,
+     "sha256": "231de6b4c28ed54b452f01a5356018e2c82fbf58042d6b6e466328caf6c3765e"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-amen-english",
+   "text": "response-amen",
+   "duration": 21.22,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2621",
+   "tune": {
+    "english": "English · Anaphora"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-amen-english.json",
+     "bytes": 84,
+     "sha256": "5bb0237059b34cbbc369d29b61bd1baef54be085939fe49ca9403acb4ba03770",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 260082,
+     "sha256": "b600f1e66cc86f1e6f8e2854bde38b3c36a14927e1711d8b445e3f1379da9b42"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-amen-i-believe-english",
+   "text": "response-anaphora-amen-i-believe",
+   "duration": 25.96,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2624",
+   "tune": {
+    "english": "English · Anaphora"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-amen-i-believe-english.json",
+     "bytes": 113,
+     "sha256": "b16d2b1b16cf48aecdedf20c378421529568776be637713f28d73977fffd2678",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-amen-i-believe-english/audio.m4a",
+     "role": "audio",
+     "bytes": 317752,
+     "sha256": "48cdc124275bf5890a89f7363bee2f64d93c7ae7a188b46ab253c16d60e97e5c"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-and-with-your-spirit-english",
+   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
+   "duration": 17.39,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "tune": {
+    "english": "English · And with Your Spirit"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-and-with-your-spirit-english.json",
+     "bytes": 135,
+     "sha256": "ae6e4883b2071ebe5985d13f7831486a923f8ef31d4028b8985abf6a004d3525",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-and-with-your-spirit-english/audio.m4a",
+     "role": "audio",
+     "bytes": 213463,
+     "sha256": "ec1406785d5fd29d94fd9571433720832f8f09b127715e32517ae5240f828b4d"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-it-is-meet-and-right-english",
+   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
+   "duration": 23.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2623",
+   "tune": {
+    "english": "English · It is meet and right"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-it-is-meet-and-right-english.json",
+     "bytes": 135,
+     "sha256": "c3541490b478512ae61f5b848d10e75f8ba04835a86b0ea3135590628f9df411",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-it-is-meet-and-right-english/audio.m4a",
+     "role": "audio",
+     "bytes": 285818,
+     "sha256": "889f852c266047f4056e49851555dbffd25f67f54ca1f62f90bada71aa2a5372"
+    }
+   ]
+  },
+  {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "text": "anaphora-responses-st-basil-st-gregory-liturgies",
    "duration": 138.6,
@@ -4640,6 +5550,128 @@
      "role": "audio",
      "bytes": 2030730,
      "sha256": "5989455369b253f237a8f83978f90a50b96150046055a196b60e9e11fb8d094c"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-the-cherubimic-hymn-english",
+   "text": "cherubim-response",
+   "duration": 74.03,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2037",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-the-cherubimic-hymn-english.json",
+     "bytes": 103,
+     "sha256": "3b63541032b1cc993b4707249dcf93d08fdbd2f2d79915b4972ae78a596a2060",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-the-cherubimic-hymn-english/audio.m4a",
+     "role": "audio",
+     "bytes": 902819,
+     "sha256": "68f56a7df6dec400b613cfa1a506d5a024cc9e23d55d841d135522768f3d6060"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-we-have-them-with-the-lord-english",
+   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
+   "duration": 14.54,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2622",
+   "tune": {
+    "english": "English · We have them with the Lord"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-we-have-them-with-the-lord-english.json",
+     "bytes": 141,
+     "sha256": "a64a02bd47423574309af7b7f9f9adb589216ad09184997f3e3c915f9e3d3332",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/anaphora-we-have-them-with-the-lord-english/audio.m4a",
+     "role": "audio",
+     "bytes": 178704,
+     "sha256": "7b5490b025bd528bc2ef9804a6ce113d6a399e2f20aacf1adc25b0fd51c5157a"
+    }
+   ]
+  },
+  {
+   "id": "and-with-your-spirit-2-english",
+   "text": "response-and-with-your-spirit",
+   "duration": 10.52,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "tune": {
+    "english": "English · after “Amen. Lord have mercy 3x”"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/and-with-your-spirit-2-english.json",
+     "bytes": 109,
+     "sha256": "751a7b0ec4c526e27a56fd6d013cf910712a8c710cea2e1c1999c6523929cf08",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/and-with-your-spirit-2-english/audio.m4a",
+     "role": "audio",
+     "bytes": 129790,
+     "sha256": "ac804532d7b58a8ad604d3750ca2d7cd4c4d09274dcdb1a0e74f59384371aa08"
+    }
+   ]
+  },
+  {
+   "id": "and-with-your-spirit-english",
+   "text": "response-and-with-your-spirit",
+   "duration": 10.91,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "tune": {
+    "english": "English · after “Before You, O Lord”"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/and-with-your-spirit-english.json",
+     "bytes": 107,
+     "sha256": "d0bd321b8634cdf544f2fcea076a7e757dde77f7f82f04ce2c4911952ce19968",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/and-with-your-spirit-english/audio.m4a",
+     "role": "audio",
+     "bytes": 134595,
+     "sha256": "6d370caca453bc49991894f59631da89433dea7c97df95542b9656c13e13fe2a"
     }
    ]
   },
@@ -4725,6 +5757,66 @@
      "role": "audio",
      "bytes": 9948627,
      "sha256": "52e21db9dc14123f7a2ad52b252b5dfd4048aba745ed87021468cd7b2e0df250"
+    }
+   ]
+  },
+  {
+   "id": "as-it-was-full-ending-english",
+   "text": "os-ein-response",
+   "duration": 72.19,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/340",
+   "tune": {
+    "english": "English · full ending"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/as-it-was-full-ending-english.json",
+     "bytes": 94,
+     "sha256": "197c32597530074c072ee8a785550ed4c6280605fece53e35e9df5ce86ed6eca",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/as-it-was-full-ending-english/audio.m4a",
+     "role": "audio",
+     "bytes": 880484,
+     "sha256": "961b1421b259b24ff27c42649656a79ecdbb11997ed2e0cff09f1aecdb84f6f2"
+    }
+   ]
+  },
+  {
+   "id": "as-it-was-short-ending-english",
+   "text": "os-ein-response",
+   "duration": 15.81,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/340",
+   "tune": {
+    "english": "English · short ending"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/as-it-was-short-ending-english.json",
+     "bytes": 95,
+     "sha256": "e2e4e4224344d8a9731997b032b2f275d4caf8feed5560858fd484aa822105a8",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/as-it-was-short-ending-english/audio.m4a",
+     "role": "audio",
+     "bytes": 194236,
+     "sha256": "0d6b4cad5242818e3c0cf608380a947b9a4f9bff1daf88c8e2f78e00c60fe499"
     }
    ]
   },
@@ -4855,6 +5947,37 @@
      "role": "audio",
      "bytes": 11505773,
      "sha256": "fae098b29afce1156e1481fb25e2f7a2c933a2ecc9b1eabdc7da0c973d7dc8a8"
+    }
+   ]
+  },
+  {
+   "id": "before-you-o-lord-english",
+   "text": "response-before-you-o-lord",
+   "duration": 29.81,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2639",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/before-you-o-lord-english.json",
+     "bytes": 101,
+     "sha256": "aed18c50e5b776c245aa3ad9346df584d0ac1bf717872800055bbd7eb49834e6",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/before-you-o-lord-english/audio.m4a",
+     "role": "audio",
+     "bytes": 364662,
+     "sha256": "eacae59413148c59b4295adc54b27218984d04ac521eec217c468532595f66f0"
     }
    ]
   },
@@ -5177,6 +6300,99 @@
      "role": "audio",
      "bytes": 4079473,
      "sha256": "be3a8b153697884ddaa0df3c21820aa62c182fee4cc7194d908799f87e2c4f69"
+    }
+   ]
+  },
+  {
+   "id": "confession-amen-i-believe-english",
+   "text": "response-confession-amen-i-believe",
+   "duration": 36.25,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2641",
+   "tune": {
+    "english": "English · Confession"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/confession-amen-i-believe-english.json",
+     "bytes": 117,
+     "sha256": "af1e9d6983297aa0bad6a06e4408edad1f132a026ad49d7e836dc2fadb8af6f0",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/confession-amen-i-believe-english/audio.m4a",
+     "role": "audio",
+     "bytes": 443042,
+     "sha256": "623d2f6ac7f7b01e2a2ff43a9c04143bae625c3aad700975c63149399c56c434"
+    }
+   ]
+  },
+  {
+   "id": "confession-first-amen-english",
+   "text": "response-amen",
+   "duration": 29.63,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2621",
+   "tune": {
+    "english": "English · Confession, first Amen"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/confession-first-amen-english.json",
+     "bytes": 92,
+     "sha256": "76c236ae023d2a86ea887b88ea7ce01f4edbbc8c8f5f4c13f9c841e9c77f6c11",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/confession-first-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 362406,
+     "sha256": "beaa480f80005756a515284489202a0c665d59a24585ddb21e3b322f0408ca05"
+    }
+   ]
+  },
+  {
+   "id": "confession-second-amen-english",
+   "text": "response-amen",
+   "duration": 45.72,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2621",
+   "tune": {
+    "english": "English · Confession, second Amen"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/confession-second-amen-english.json",
+     "bytes": 93,
+     "sha256": "b80d44b74166abb44b879b2cf384f4ef08902a49e7a961fd065c03191c2420f2",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/confession-second-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 558276,
+     "sha256": "ca24cb312b8c5f9fb3ca1bb1de388c5c22e9d0f2ea6c312b9d856cbba50819e2"
     }
    ]
   },
@@ -5836,6 +7052,37 @@
    ]
   },
   {
+   "id": "fraction-lord-have-mercy-english",
+   "text": "response-lord-have-mercy",
+   "duration": 26.05,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2617",
+   "tune": {
+    "english": "English · Fraction"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/fraction-lord-have-mercy-english.json",
+     "bytes": 106,
+     "sha256": "9bf2b353764addeb2b463ac91044db0eeabbf13d93f808a5dbeb5bea8f6c0ca8",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/fraction-lord-have-mercy-english/audio.m4a",
+     "role": "audio",
+     "bytes": 318882,
+     "sha256": "3592dfd0c30615f1a106289c03a9dd07d15dc08ea07c8d63106834cf03566d65"
+    }
+   ]
+  },
+  {
    "id": "gospel-luke",
    "text": "gospel-luke",
    "duration": 57.8,
@@ -6103,6 +7350,532 @@
      "role": "audio",
      "bytes": 2837688,
      "sha256": "584cbd836e0770eb719316e09277a7b9cd4e2b793f3f49354939aff96ca41420"
+    }
+   ]
+  },
+  {
+   "id": "i-believe-amen-english",
+   "text": "response-i-believe-amen",
+   "duration": 10.8,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2632",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/i-believe-amen-english.json",
+     "bytes": 95,
+     "sha256": "5fa2a61dc8b8f1a8ca12f182f0e1525187e95a25bdc4d1ddb3350d6d4a86a93f",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/i-believe-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 133177,
+     "sha256": "845a97a160214a4949d3db42994a4ff2f4ed860adc20ca6e6a3eefc636f7f5a1"
+    }
+   ]
+  },
+  {
+   "id": "in-christ-jesus-our-lord-english",
+   "text": "response-in-christ-jesus-our-lord",
+   "duration": 31.02,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2638",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/in-christ-jesus-our-lord-english.json",
+     "bytes": 115,
+     "sha256": "219479c729f580c9d3e665fda980144b2984e071637ce155f2182b62fb18349a",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/in-christ-jesus-our-lord-english/audio.m4a",
+     "role": "audio",
+     "bytes": 379365,
+     "sha256": "73ddebc12c424b97f82ecd2dc94f93f4cb1f364ea531f0e8cdb3667304d031a9"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-blood-again-we-believe-we-confess-english",
+   "text": "response-institution-narrative-blood-again-we-believe-we-confess",
+   "duration": 29.21,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2629",
+   "tune": {
+    "english": "English · Institution Narrative (Blood)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-blood-again-we-believe-we-confess-english.json",
+     "bytes": 177,
+     "sha256": "34cd92eabc98966ba5bacc50607a758c4dc1aba2c52b0f3ed207068bbcb407fa",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-blood-again-we-believe-we-confess-english/audio.m4a",
+     "role": "audio",
+     "bytes": 357331,
+     "sha256": "4143a29bd9ee77c101d46147f218c9a1b59060539052dd944dda612203b4e0a8"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-blood-amen-3x-english",
+   "text": "response-amen-3x",
+   "duration": 42.38,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "tune": {
+    "english": "English · Institution Narrative (Blood)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-blood-amen-3x-english.json",
+     "bytes": 109,
+     "sha256": "1ad4cd8e04965495a2a7fa2556d633a47d4304140c3c73bb3047a9c0414221f5",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-blood-amen-3x-english/audio.m4a",
+     "role": "audio",
+     "bytes": 517591,
+     "sha256": "a2337581c80f86d4a6186ecbbcc831e2a18c41392043b4f63d48464672d85646"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-blood-this-is-also-true-amen-english",
+   "text": "response-institution-narrative-blood-this-is-also-true-amen",
+   "duration": 20.99,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2630",
+   "tune": {
+    "english": "English · Institution Narrative (Blood)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-blood-this-is-also-true-amen-english.json",
+     "bytes": 167,
+     "sha256": "19fd7cad42372e3ccafc75cf6a8ea94eb689042d982cd3b3d940825378974697",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-blood-this-is-also-true-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 257296,
+     "sha256": "60f3e6773040cc48838c0f28ca7527b35e6b1bb33e8007a300334da743f82c26"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-body-amen-3x-english",
+   "text": "response-amen-3x",
+   "duration": 43.31,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "tune": {
+    "english": "English · Institution Narrative (Body)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-body-amen-3x-english.json",
+     "bytes": 108,
+     "sha256": "fdccedea8d0199198f80c4a6a80b565d34f4fb0216074d22e71925ef08065a8d",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-body-amen-3x-english/audio.m4a",
+     "role": "audio",
+     "bytes": 528895,
+     "sha256": "ba2f4134a6f85ecaa83852c3b3638fa1654d3a97ceac0ad63a062142425fe52f"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-body-this-is-true-english",
+   "text": "response-institution-narrative-body-this-is-true-amen",
+   "duration": 26.75,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2628",
+   "tune": {
+    "english": "English · Institution Narrative (Body)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-body-this-is-true-english.json",
+     "bytes": 150,
+     "sha256": "10d0aefaa64c3933d734ca59954ad6abb5f0cc62b432ff08d1f465b1dc5a30b9",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-body-this-is-true-english/audio.m4a",
+     "role": "audio",
+     "bytes": 327378,
+     "sha256": "e49a2e12cb655e53164c22b83a7c92b11be76bfb0d5de014e263fe9f3e7f0588"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+   "text": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+   "duration": 29.93,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2626",
+   "tune": {
+    "english": "English · Institution Narrative (Body)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-body-we-believe-that-this-is-true-amen-english.json",
+     "bytes": 187,
+     "sha256": "219058fb223016430b18d4020b482cd040ffb68e3cf95b4d6f90f20ec7756b94",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-body-we-believe-that-this-is-true-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 366122,
+     "sha256": "b6ba23807604c756cc97ac24acaf3e477612caf4632f5e69030bf70b5a04050f"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-body-we-believe-we-confess-english",
+   "text": "response-institution-narrative-body-we-believe-we-confess",
+   "duration": 28.98,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2627",
+   "tune": {
+    "english": "English · Institution Narrative (Body)"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-body-we-believe-we-confess-english.json",
+     "bytes": 163,
+     "sha256": "6d95ae4ac59e24bf0958cb233453ed2ef03c2ed49f55a26e3e6c9f229dd1b6e1",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-body-we-believe-we-confess-english/audio.m4a",
+     "role": "audio",
+     "bytes": 354497,
+     "sha256": "b72acead223b06220e47907bfc3ec065b3b2fe06ce4e2980d1c242e4e575f068"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-truly-we-believe-english",
+   "text": "response-institution-narrative-truly-we-believe",
+   "duration": 26.19,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2625",
+   "tune": {
+    "english": "English · Institution Narrative"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-truly-we-believe-english.json",
+     "bytes": 143,
+     "sha256": "73a10836ec95b4eb435012095c19b139c44a6a56487fc0aaac1a970d722673ad",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-truly-we-believe-english/audio.m4a",
+     "role": "audio",
+     "bytes": 320593,
+     "sha256": "384cd328f43f95c6dc3324319c643544bdc93d5a4058e4611b9604a9033e1632"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-your-death-o-lord-english",
+   "text": "amen-ton-thanaton",
+   "duration": 81.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/337",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-your-death-o-lord-english.json",
+     "bytes": 114,
+     "sha256": "a0faa5fe60ca2f621c38143dfd2c256dfdeed7d565112962343bf5b18e041a37",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/institution-narrative-your-death-o-lord-english/audio.m4a",
+     "role": "audio",
+     "bytes": 991863,
+     "sha256": "dfc420a4339c231e60a2ce45d91da873969898f28f9ec6b5f56e89e7723a0ae0"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-fraction-amen-english",
+   "text": "response-amen",
+   "duration": 29.93,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2621",
+   "tune": {
+    "english": "English · Intro to Fraction"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-to-fraction-amen-english.json",
+     "bytes": 93,
+     "sha256": "fceae3089f661d978619eca043acf48674a9673a6d5c8d66742b7804e321862b",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/intro-to-fraction-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 366081,
+     "sha256": "ccf800939d6b2863b0d8975e070064890245f5eeb0bd8a58899c019dd3b06ee4"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-fraction-and-with-your-spirit-2-english",
+   "text": "response-and-with-your-spirit",
+   "duration": 19.02,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "tune": {
+    "english": "English · Intro to Fraction, second time"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-to-fraction-and-with-your-spirit-2-english.json",
+     "bytes": 127,
+     "sha256": "2f39e69b1c151808651521aa04b3454230748393ed13c3e72b757e672439a28c",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/intro-to-fraction-and-with-your-spirit-2-english/audio.m4a",
+     "role": "audio",
+     "bytes": 233261,
+     "sha256": "76088cf1c2378f96f30f8f854268c9175762521e60e0c554b5b5814476486e5e"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-fraction-and-with-your-spirit-english",
+   "text": "response-and-with-your-spirit",
+   "duration": 18.99,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "tune": {
+    "english": "English · Intro to Fraction"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-to-fraction-and-with-your-spirit-english.json",
+     "bytes": 125,
+     "sha256": "eb592ca2b06ac8eb6af421711b454ac8a31446e774b80d673a551e497a4a0b0a",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/intro-to-fraction-and-with-your-spirit-english/audio.m4a",
+     "role": "audio",
+     "bytes": 232974,
+     "sha256": "5949ac40fb718f9c96bc2bcc26f85d2c37a6c41f43f82f51b634423797580b4b"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-fraction-and-your-precious-blood-english",
+   "text": "response-intro-to-fraction-and-your-precious-blood",
+   "duration": 8.5,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2637",
+   "tune": {
+    "english": "English · Intro to Fraction"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-to-fraction-and-your-precious-blood-english.json",
+     "bytes": 149,
+     "sha256": "36b74c0a367188061ff4c451551b7e489db029b189676fe1301670fae3dbf949",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/intro-to-fraction-and-your-precious-blood-english/audio.m4a",
+     "role": "audio",
+     "bytes": 105224,
+     "sha256": "2db8750b410b7f1bf1b0bb6c900944c42554355326e39a223e005f115554a5e0"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-fraction-lord-have-mercy-english",
+   "text": "response-lord-have-mercy",
+   "duration": 10.17,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2617",
+   "tune": {
+    "english": "English · Intro to Fraction"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-to-fraction-lord-have-mercy-english.json",
+     "bytes": 115,
+     "sha256": "e2241b2c3706b6e4a616c53eba1dc418856d92d6fba37922e6e007ee76649cb5",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/intro-to-fraction-lord-have-mercy-english/audio.m4a",
+     "role": "audio",
+     "bytes": 125566,
+     "sha256": "d0a73fd31ffc98be404ca57bca73fffdfcc50c864c9004dfd81890bb71ef6a62"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-fraction-we-worship-your-holy-body-english",
+   "text": "response-intro-to-fraction-we-worship-your-holy-body",
+   "duration": 14.09,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2636",
+   "tune": {
+    "english": "English · Intro to Fraction"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-to-fraction-we-worship-your-holy-body-english.json",
+     "bytes": 153,
+     "sha256": "d3f009173762853ee9a8f20d87d86e76baaac081dadbb18b136192ede20d0c6d",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/intro-to-fraction-we-worship-your-holy-body-english/audio.m4a",
+     "role": "audio",
+     "bytes": 173342,
+     "sha256": "c30acbc1412ef36abf37d44331d37d67f29cce0dbe7c8b07d845cd6b7cd045c8"
     }
    ]
   },
@@ -6376,6 +8149,97 @@
    ]
   },
   {
+   "id": "lord-have-mercy-3x-english",
+   "text": "response-lord-have-mercy-3x",
+   "duration": 14.7,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2619",
+   "tune": {
+    "english": "English · after “Again, I believe. Amen”"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/lord-have-mercy-3x-english.json",
+     "bytes": 103,
+     "sha256": "66d6d2845e634fac19fbb70e3cae4c4fb6d1d9f27760c17748a28c693de66311",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/lord-have-mercy-3x-english/audio.m4a",
+     "role": "audio",
+     "bytes": 180687,
+     "sha256": "8be89519a395b8254a6c0e5ed8d36173e5f6fa664de74f2734e7674a02edf0f9"
+    }
+   ]
+  },
+  {
+   "id": "may-their-holy-blessing-full-ending-english",
+   "text": "ere-po-esmo-may-their-holy-blessing",
+   "duration": 83.73,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2635",
+   "tune": {
+    "english": "English · full ending"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/may-their-holy-blessing-full-ending-english.json",
+     "bytes": 128,
+     "sha256": "f7e50c986980151f9cba87cfa459c61ac4bc0f33dbb04e88fc03d68adddb17e6",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/may-their-holy-blessing-full-ending-english/audio.m4a",
+     "role": "audio",
+     "bytes": 1020972,
+     "sha256": "98f711238e6d5fc631f1e8fda215de4833a7760170c0f88a8b61b48c12428ce4"
+    }
+   ]
+  },
+  {
+   "id": "may-their-holy-blessing-short-ending-english",
+   "text": "ere-po-esmo-may-their-holy-blessing",
+   "duration": 19.53,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2635",
+   "tune": {
+    "english": "English · short ending"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/may-their-holy-blessing-short-ending-english.json",
+     "bytes": 129,
+     "sha256": "a97aa8ddaf13e5b12ebd603998220265e5dccfddc68fce04825196c1b681f700",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/may-their-holy-blessing-short-ending-english/audio.m4a",
+     "role": "audio",
+     "bytes": 239475,
+     "sha256": "75b7ed160eba341ed1268f4649d96f75eded65049fd506453b98512d7f184141"
+    }
+   ]
+  },
+  {
    "id": "morning-doxology",
    "text": "morning-doxology",
    "duration": 1503.24,
@@ -6429,6 +8293,37 @@
      "role": "audio",
      "bytes": 13702279,
      "sha256": "78b7b0f263dbced43a4e1ec32bb95eb5fec93e8a3d33ef56069ab90b466c76e9"
+    }
+   ]
+  },
+  {
+   "id": "nature-litany-lord-have-mercy-3x-english",
+   "text": "response-lord-have-mercy-3x",
+   "duration": 15.51,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2619",
+   "tune": {
+    "english": "English · Nature Litany"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/nature-litany-lord-have-mercy-3x-english.json",
+     "bytes": 117,
+     "sha256": "ecdd9dc640d07498394ac4b4584f7318c12005210883f01124cdccd093bb6f4e",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/nature-litany-lord-have-mercy-3x-english/audio.m4a",
+     "role": "audio",
+     "bytes": 190572,
+     "sha256": "fdeadd61abc2b943ba477cbcfa329be358113bd495f75f184c78b03be43666e6"
     }
    ]
   },
@@ -6511,6 +8406,68 @@
      "role": "audio",
      "bytes": 3025544,
      "sha256": "aabccd4221fbe2fd750c0a6b656b20eff766d5bed968588a130ef47b02456166"
+    }
+   ]
+  },
+  {
+   "id": "oblations-litany-lord-have-mercy-english",
+   "text": "response-lord-have-mercy",
+   "duration": 15.39,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2617",
+   "tune": {
+    "english": "English · Oblations Litany"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/oblations-litany-lord-have-mercy-english.json",
+     "bytes": 114,
+     "sha256": "85b4f78259f8006c07ce609ae82ea2f62147dcd772f6cd02e80d11a6dc4cd5c8",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/oblations-litany-lord-have-mercy-english/audio.m4a",
+     "role": "audio",
+     "bytes": 189159,
+     "sha256": "a471fbfdb5ae999438618f91f468f040d8c4954adf6b1ac530c01a9adac02a5a"
+    }
+   ]
+  },
+  {
+   "id": "one-is-the-all-holy-father-english",
+   "text": "response-one-is-the-all-holy-father",
+   "duration": 46.7,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/342",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/one-is-the-all-holy-father-english.json",
+     "bytes": 119,
+     "sha256": "90e0b2f933cc29b4c9ee8d8497a7e6e19b84154cc9be6ef0c04d846306f1cad7",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/one-is-the-all-holy-father-english/audio.m4a",
+     "role": "audio",
+     "bytes": 570149,
+     "sha256": "aba5afe2c56d8c0e6ce97738901ef298b00b86c0a02db99215105e394787f789"
     }
    ]
   },
@@ -6935,6 +8892,98 @@
    ]
   },
   {
+   "id": "reconciliation-prayer-and-with-your-spirit-english",
+   "text": "response-and-with-your-spirit",
+   "duration": 15.63,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "tune": {
+    "english": "English · Reconciliation Prayer"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/reconciliation-prayer-and-with-your-spirit-english.json",
+     "bytes": 129,
+     "sha256": "28e09b5515797ccb919929862fff3bbf5a200798fc32f11631d21dd7e4a78188",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/reconciliation-prayer-and-with-your-spirit-english/audio.m4a",
+     "role": "audio",
+     "bytes": 191995,
+     "sha256": "8967b39f0f2326b7651ee1f82ac9f1e41f844ff19caa69115869eeb702c66cd6"
+    }
+   ]
+  },
+  {
+   "id": "reconciliation-prayer-lord-have-mercy-english",
+   "text": "response-lord-have-mercy",
+   "duration": 14.16,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2617",
+   "tune": {
+    "english": "English · Reconciliation Prayer"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/reconciliation-prayer-lord-have-mercy-english.json",
+     "bytes": 119,
+     "sha256": "e4777dbfd9661bc01eaf194a9d3ef99c874e529a54001a6a4e9d77bd37c9add9",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/reconciliation-prayer-lord-have-mercy-english/audio.m4a",
+     "role": "audio",
+     "bytes": 174184,
+     "sha256": "5b175cf45b961783cf56c0cce034cd7d2f86f5ba13490654777c89c41ab46a2a"
+    }
+   ]
+  },
+  {
+   "id": "reconciliation-prayer-through-the-intercession-english",
+   "text": "reconciliation-response-basil",
+   "duration": 67.62,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2618",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/reconciliation-prayer-through-the-intercession-english.json",
+     "bytes": 133,
+     "sha256": "ab980c10d6a7d410bb4337489b563cbb1b06380edc15508546f22d03fd529970",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/reconciliation-prayer-through-the-intercession-english/audio.m4a",
+     "role": "audio",
+     "bytes": 824804,
+     "sha256": "dda7c8b0f17b9c1101d23c5b40e34cc9c5ee485203bf2a1d672a331cb518cddc"
+    }
+   ]
+  },
+  {
    "id": "reconciliation-response-basil",
    "text": "reconciliation-response-basil",
    "duration": 111.18,
@@ -6983,6 +9032,926 @@
      "role": "audio",
      "bytes": 1082535,
      "sha256": "43733abecaf053c92aac076827a8c3bcbb47d49b5a7633ed4f07ca327d8702ea"
+    }
+   ]
+  },
+  {
+   "id": "response-again-i-believe-amen",
+   "text": "response-again-i-believe-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2633",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-again-i-believe-amen.json",
+     "bytes": 108,
+     "sha256": "283982d230a06ba0ccdccc7ef0fe2a8385c49d092fd7a62d84fd50479b794d36",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-again-i-believe-amen-arabic",
+   "text": "response-again-i-believe-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-again-i-believe-amen-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-again-i-believe-amen-arabic.json",
+     "bytes": 115,
+     "sha256": "973e7708f817563bc98519c4a854d0c27f8d0d7479d1e9fa2db34e2cd42424cd",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-amen",
+   "text": "response-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2621",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-amen.json",
+     "bytes": 76,
+     "sha256": "a51a95c928deb87b34236a0889b810aa8806c3b23e51cef75e195bedafff4f41",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-amen-3x",
+   "text": "response-amen-3x",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 3
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-amen-3x.json",
+     "bytes": 82,
+     "sha256": "f14d0dd8db0dc3a1d6b668db258acf2b49b9e9c0f027d6a9359aed4c71b87147",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-amen-3x-arabic",
+   "text": "response-amen-3x",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-amen-3x-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-amen-3x-arabic.json",
+     "bytes": 89,
+     "sha256": "bbc92488608c6ddf2ff9e942a575125e09394522a3824f4a33f23633ce5cfaee",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-amen-arabic",
+   "text": "response-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-amen-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-amen-arabic.json",
+     "bytes": 83,
+     "sha256": "93051e2f2891242dce7e14d58816d21b530bcb4647663afd1750c2a9408797aa",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-amen-lord-have-mercy-3x",
+   "text": "response-amen-lord-have-mercy-3x",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 4
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2640",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-amen-lord-have-mercy-3x.json",
+     "bytes": 114,
+     "sha256": "37f6ca0f35d6a24b14c4b106cf9b3543c4e70a9305036cfc4b4563b418a4e7d3",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-amen-lord-have-mercy-3x-arabic",
+   "text": "response-amen-lord-have-mercy-3x",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-amen-lord-have-mercy-3x-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-amen-lord-have-mercy-3x-arabic.json",
+     "bytes": 121,
+     "sha256": "a1b90444ce4b07b746b3dcddbf99ba515ce526751f5885db26470910a3a3be4b",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-anaphora-according-to-your-mercy",
+   "text": "response-anaphora-according-to-your-mercy",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/331",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-anaphora-according-to-your-mercy.json",
+     "bytes": 132,
+     "sha256": "24603558351332528c2e497e432a6fe4450cc4415d4b3428623b39e08ecf9a04",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-anaphora-according-to-your-mercy-arabic",
+   "text": "response-anaphora-according-to-your-mercy",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-anaphora-according-to-your-mercy-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-anaphora-according-to-your-mercy-arabic.json",
+     "bytes": 139,
+     "sha256": "ad3bf77d77c8e60174cb9169ede241bc7aab4f653cb38bd5a0fc86aaa464e991",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-anaphora-amen-i-believe",
+   "text": "response-anaphora-amen-i-believe",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2624",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-anaphora-amen-i-believe.json",
+     "bytes": 114,
+     "sha256": "39d77ae814804292b47612e2b3c66bcd046be5e6a8bf4eae450cee7017f16b40",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-anaphora-amen-i-believe-arabic",
+   "text": "response-anaphora-amen-i-believe",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-anaphora-amen-i-believe-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-anaphora-amen-i-believe-arabic.json",
+     "bytes": 121,
+     "sha256": "2362ea2e22929e49528e6fe50771ac0be7ca3815e15e40704e345ea0b2056a8c",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-and-with-your-spirit",
+   "text": "response-and-with-your-spirit",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-and-with-your-spirit.json",
+     "bytes": 108,
+     "sha256": "9ac827e6fd59adeecddc513489bb8d9c6b3e327ca6e13c0a68ea4f45677f0f86",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-and-with-your-spirit-arabic",
+   "text": "response-and-with-your-spirit",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-and-with-your-spirit-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-and-with-your-spirit-arabic.json",
+     "bytes": 115,
+     "sha256": "6dc12dae2aeb57cac9448da35ec8c79d6ed06be33d49bcd6165b5067821486c6",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-before-you-o-lord",
+   "text": "response-before-you-o-lord",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2639",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-before-you-o-lord.json",
+     "bytes": 102,
+     "sha256": "6e6f90407d8594840bfe7294de7df24e5d66294e5682a396e4cd8861ab01a15c",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-before-you-o-lord-arabic",
+   "text": "response-before-you-o-lord",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-before-you-o-lord-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-before-you-o-lord-arabic.json",
+     "bytes": 109,
+     "sha256": "2503bdde7208f9af951ab134041b35a7240c8156452e34762d0c41280fc0cbc5",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-confession-amen-i-believe",
+   "text": "response-confession-amen-i-believe",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2641",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-confession-amen-i-believe.json",
+     "bytes": 118,
+     "sha256": "3ffacf56801cfb202191942804a13f6515b1ddf17eb2b7d591bc25f37ba92729",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-confession-amen-i-believe-arabic",
+   "text": "response-confession-amen-i-believe",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-confession-amen-i-believe-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-confession-amen-i-believe-arabic.json",
+     "bytes": 125,
+     "sha256": "bd4beed1143d2e155b6bf4929bafb19ae0f402f0126c6eac28d297b6d6c104a3",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-i-believe-amen",
+   "text": "response-i-believe-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2632",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-i-believe-amen.json",
+     "bytes": 96,
+     "sha256": "d0b01086f69df2185f67542e25fe3a478b22e059713bfc6f8bb7dd04796ab020",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-i-believe-amen-arabic",
+   "text": "response-i-believe-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-i-believe-amen-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-i-believe-amen-arabic.json",
+     "bytes": 103,
+     "sha256": "10defd5564bcb8a20a2bace363bbc565e0ccdfe94a90cafdc333b634ef204890",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-in-christ-jesus-our-lord",
+   "text": "response-in-christ-jesus-our-lord",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2638",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-in-christ-jesus-our-lord.json",
+     "bytes": 116,
+     "sha256": "5fcd4f3639f646e6a648112b18eb24ac43d1c61d42b6a1c7ec0e07b7a825d2f1",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-in-christ-jesus-our-lord-arabic",
+   "text": "response-in-christ-jesus-our-lord",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-in-christ-jesus-our-lord-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-in-christ-jesus-our-lord-arabic.json",
+     "bytes": 123,
+     "sha256": "8e940a01d1c60b8c655d129d06c607a7bc6d1f432a0f4ea6843c20b130556f95",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-blood-again-we-believe-we-confess",
+   "text": "response-institution-narrative-blood-again-we-believe-we-confess",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2629",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-blood-again-we-believe-we-confess.json",
+     "bytes": 178,
+     "sha256": "903326024586437bdff17b37d71e3cd544304b94aeeb5c6997b0d2e1fe70ee80",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-blood-again-we-believe-we-confess-arabic",
+   "text": "response-institution-narrative-blood-again-we-believe-we-confess",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-institution-narrative-blood-again-we-believe-we-confess-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-blood-again-we-believe-we-confess-arabic.json",
+     "bytes": 185,
+     "sha256": "4a032d951030ca8046d589db7afe5f681a9051943e974a7bf71914db1ac2dc53",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-blood-this-is-also-true-amen",
+   "text": "response-institution-narrative-blood-this-is-also-true-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2630",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-blood-this-is-also-true-amen.json",
+     "bytes": 168,
+     "sha256": "affbc2ff27c49e975bd255202e83b86e5d187aa5c497201518915113634330be",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-blood-this-is-also-true-amen-arabic",
+   "text": "response-institution-narrative-blood-this-is-also-true-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-institution-narrative-blood-this-is-also-true-amen-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-blood-this-is-also-true-amen-arabic.json",
+     "bytes": 175,
+     "sha256": "992a47caf9b46d5fe5006b58a2ae32818cd12b13d6a6705d4b8f22726d3032ad",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-body-this-is-true-amen",
+   "text": "response-institution-narrative-body-this-is-true-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2628",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-body-this-is-true-amen.json",
+     "bytes": 156,
+     "sha256": "6c7fdc70950cc96e298ea391647392bf530c571300ded4f1324cf9488c528900",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-body-this-is-true-amen-arabic",
+   "text": "response-institution-narrative-body-this-is-true-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-institution-narrative-body-this-is-true-amen-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-body-this-is-true-amen-arabic.json",
+     "bytes": 163,
+     "sha256": "f6f8ff7070802a94094083b7d322a3ac9eeda16d402031f62f4a940b0ed57618",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+   "text": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2626",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-that-this-is-true-amen.json",
+     "bytes": 188,
+     "sha256": "73ece0dbd2c646bfda3e07396564e89dddd67bfed3fcae7f5465f2e4a76dacf3",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic",
+   "text": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic.json",
+     "bytes": 195,
+     "sha256": "9ce59d041e26427eb6ed58ff081cabf313c239c6573531dffa04ebd5670fb71c",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-body-we-believe-we-confess",
+   "text": "response-institution-narrative-body-we-believe-we-confess",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2627",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-we-confess.json",
+     "bytes": 164,
+     "sha256": "fe64ff1a659e5f37ddbd88b64f4d1e9c090aa757af4ad43e4d1a86a913d34f4b",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-body-we-believe-we-confess-arabic",
+   "text": "response-institution-narrative-body-we-believe-we-confess",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-institution-narrative-body-we-believe-we-confess-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-we-confess-arabic.json",
+     "bytes": 171,
+     "sha256": "45fe9f037ce3284712685eb6194449652a2eb3731d7a4b1fd093edfa9df6a7b1",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-truly-we-believe",
+   "text": "response-institution-narrative-truly-we-believe",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2625",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-truly-we-believe.json",
+     "bytes": 144,
+     "sha256": "c7e392577f63e5b122e5f6ab27ff23abc6b1ec8df87c5d435870c04ae79262be",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-institution-narrative-truly-we-believe-arabic",
+   "text": "response-institution-narrative-truly-we-believe",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-institution-narrative-truly-we-believe-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-institution-narrative-truly-we-believe-arabic.json",
+     "bytes": 151,
+     "sha256": "ae1189e2c371d46475caee443120476b5feb0e177f9cff64493ace9aff8c19dc",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-intro-to-fraction-and-your-precious-blood",
+   "text": "response-intro-to-fraction-and-your-precious-blood",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2637",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-intro-to-fraction-and-your-precious-blood.json",
+     "bytes": 150,
+     "sha256": "2f1afbacc5ef9fe9bd107adfa04cfbe7db4ef59a53d7b89b7f6f2668582d7829",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-intro-to-fraction-and-your-precious-blood-arabic",
+   "text": "response-intro-to-fraction-and-your-precious-blood",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-intro-to-fraction-and-your-precious-blood-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-intro-to-fraction-and-your-precious-blood-arabic.json",
+     "bytes": 157,
+     "sha256": "5b502b959416dadb0df05c9eacd7f10c9115832cb749cecae4236d9fdf1a7e86",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-intro-to-fraction-we-worship-your-holy-body",
+   "text": "response-intro-to-fraction-we-worship-your-holy-body",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2636",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-intro-to-fraction-we-worship-your-holy-body.json",
+     "bytes": 154,
+     "sha256": "769766e51139c6163eeead70f19d64674d2790eb4d60590ff289eb32a0c968b3",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-intro-to-fraction-we-worship-your-holy-body-arabic",
+   "text": "response-intro-to-fraction-we-worship-your-holy-body",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-intro-to-fraction-we-worship-your-holy-body-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-intro-to-fraction-we-worship-your-holy-body-arabic.json",
+     "bytes": 161,
+     "sha256": "148c659e4a152865b664290b52d2d186051b0913b4fd05c6a888ccd98fb88cab",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-lord-have-mercy",
+   "text": "response-lord-have-mercy",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2617",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-lord-have-mercy.json",
+     "bytes": 98,
+     "sha256": "093f5fbab102f51480eba5bddb37cf27b60618fbed5a35ed7d23c7b96fef7691",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-lord-have-mercy-3x",
+   "text": "response-lord-have-mercy-3x",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 3
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2619",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-lord-have-mercy-3x.json",
+     "bytes": 104,
+     "sha256": "e9425256990b9675334befba5d8bccb47aeae4e70d29c599421e53e5cc6f5ac4",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-lord-have-mercy-3x-arabic",
+   "text": "response-lord-have-mercy-3x",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-lord-have-mercy-3x-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-lord-have-mercy-3x-arabic.json",
+     "bytes": 111,
+     "sha256": "6b97cae047adf638ed69051dfcb878b26bb49b0094ca3b10ca55b6bfafe387ed",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-lord-have-mercy-arabic",
+   "text": "response-lord-have-mercy",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-lord-have-mercy-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-lord-have-mercy-arabic.json",
+     "bytes": 105,
+     "sha256": "8260855f55299193135de172d99710e1e4b849e13e69dd641f79227c0573952c",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-one-is-the-all-holy-father",
+   "text": "response-one-is-the-all-holy-father",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/342",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-one-is-the-all-holy-father.json",
+     "bytes": 120,
+     "sha256": "65d520a392fcc787b0d62b175747b799b5b87aa925ea8414a5b17d98401624ed",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-one-is-the-all-holy-father-arabic",
+   "text": "response-one-is-the-all-holy-father",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-one-is-the-all-holy-father-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-one-is-the-all-holy-father-arabic.json",
+     "bytes": 127,
+     "sha256": "6db0e385256b6f53f5027cf9807e62160f7f2987742b061b7b2817fec559ad52",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-we-praise-you",
+   "text": "response-we-praise-you",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2631",
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-we-praise-you.json",
+     "bytes": 94,
+     "sha256": "5accdc92dd6c6733a004a8941a8f11d248b9a992c02e08e80ab5805c2773b57d",
+     "role": "timing"
+    }
+   ]
+  },
+  {
+   "id": "response-we-praise-you-arabic",
+   "text": "response-we-praise-you",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/liturgy-responses/response-we-praise-you-arabic/",
+   "language": "arabic",
+   "files": [
+    {
+     "url": "catalog/v1/timings/response-we-praise-you-arabic.json",
+     "bytes": 101,
+     "sha256": "41389cfe26193646f9e732c6cf35e9c80c3a792dddf5b7114c600f8440b4f0b7",
+     "role": "timing"
     }
    ]
   },
@@ -7260,6 +10229,67 @@
      "role": "audio",
      "bytes": 1607410,
      "sha256": "ba683b22621b726c1916c231c4d4e4a67a60a83bfc5ec91c59c4d63f8efe78ba"
+    }
+   ]
+  },
+  {
+   "id": "seven-short-litanies-have-mercy-upon-us-english",
+   "text": "eleison-imas-je-nai-nan",
+   "duration": 17.46,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2634",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/seven-short-litanies-have-mercy-upon-us-english.json",
+     "bytes": 120,
+     "sha256": "23cf8915df9a02e8e61bc69f5ce07891eb1a3fcd0aa9a6f22f37bea9a0a3f7bf",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/seven-short-litanies-have-mercy-upon-us-english/audio.m4a",
+     "role": "audio",
+     "bytes": 214321,
+     "sha256": "3e58477ca45b08dbc2fa2703c94536456350119434b6c2da20d302774964e043"
+    }
+   ]
+  },
+  {
+   "id": "seven-short-litanies-lord-have-mercy-english",
+   "text": "response-lord-have-mercy",
+   "duration": 10.38,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2617",
+   "tune": {
+    "english": "English · Seven Short Litanies"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/seven-short-litanies-lord-have-mercy-english.json",
+     "bytes": 118,
+     "sha256": "4004435c94e2481fb9237005317d1921bbc764cf1ff086573f05749aaa2b5f42",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/seven-short-litanies-lord-have-mercy-english/audio.m4a",
+     "role": "audio",
+     "bytes": 128113,
+     "sha256": "c41441ac14d86a4d3e4d431bb9b19148a9aba989cef0ac2804acb946fb674cff"
     }
    ]
   },
@@ -8805,6 +11835,67 @@
      "role": "audio",
      "bytes": 2009481,
      "sha256": "dce8491b9317b16a2e6df50774579c7c7d561ed7ac2996e0fd354f2fffce6b38"
+    }
+   ]
+  },
+  {
+   "id": "we-look-for-the-resurrection-english",
+   "text": "ten-oosht-evol-basil",
+   "duration": 29.09,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2615",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/we-look-for-the-resurrection-english.json",
+     "bytes": 106,
+     "sha256": "5fea86dc532d6151b4bf96cbc63f5b0444f5ff341afcd4900280c4b07cb04b7b",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/we-look-for-the-resurrection-english/audio.m4a",
+     "role": "audio",
+     "bytes": 355910,
+     "sha256": "fdef99ff21f639d7a2cf3eb03633082c5af68585dfc5689191571683f80c29f4"
+    }
+   ]
+  },
+  {
+   "id": "we-praise-you-english",
+   "text": "response-we-praise-you",
+   "duration": 27.03,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2631",
+   "tune": {
+    "english": "English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/we-praise-you-english.json",
+     "bytes": 93,
+     "sha256": "dcd761b64a827cad32cb75e0ebb1b2a7a8a26aaa7f9ab2e01176cf421b139d02",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/english/we-praise-you-english/audio.m4a",
+     "role": "audio",
+     "bytes": 330740,
+     "sha256": "04c2f8043a71938ed4d7d0000592b305492e7b8312a1f8997d765197e3cef5fc"
     }
    ]
   }

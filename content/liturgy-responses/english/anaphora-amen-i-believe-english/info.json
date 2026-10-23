@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Anaphora - Amen, I believe"
+  },
+  "text": "response-anaphora-amen-i-believe",
+  "language": "english",
+  "tune": {
+    "english": "English · Anaphora"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2624",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3520,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

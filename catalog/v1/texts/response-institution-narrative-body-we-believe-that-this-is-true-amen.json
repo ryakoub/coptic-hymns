@@ -1,0 +1,31 @@
+{
+ "id": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
+ "titles": {
+  "english": "Institution Narrative (Body) - We believe that this is true. Amen",
+  "arabic": "الصلوات التأسيسية (الجسد) - نؤمن أن هذا هو بالحقيقة. آمين"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+   "translations": {
+    "english": "We believe that this is true."
+   },
+   "transliterations": {
+    "english": "Tennahti je fai pe khen oumethmee:"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen"
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  }
+ ]
+}

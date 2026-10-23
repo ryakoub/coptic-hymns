@@ -1,0 +1,97 @@
+{
+ "id": "response-one-is-the-all-holy-father",
+ "titles": {
+  "english": "One is the All-Holy Father",
+  "arabic": "واحد هو الآب القدوس"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲡⲁⲧⲏⲣ:",
+   "translations": {
+    "english": "One is the All-Holy Father,"
+   },
+   "transliterations": {
+    "english": "Is o panagios Pateer:"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲩⲓⲟⲥ:",
+   "translations": {
+    "english": "one is the All-Holy Son,"
+   },
+   "transliterations": {
+    "english": "is o panagios I-ios:"
+   }
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "ⲉⲛ ⲧⲟ ⲡⲁⲛⲁ̀ⲅⲓⲟⲛ Ⲡ̀ⲛⲉⲩⲙⲁ:",
+   "translations": {
+    "english": "one is the All-Holy Spirit."
+   },
+   "transliterations": {
+    "english": "en to panagion Epnevma:"
+   }
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen."
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ:",
+   "translations": {
+    "english": "One is the Holy Father,"
+   },
+   "transliterations": {
+    "english": "Is Pateer agios:"
+   }
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "ⲓⲥ ⲟ̀ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ:",
+   "translations": {
+    "english": "one is the Holy Son,"
+   },
+   "transliterations": {
+    "english": "is o I-ios agios:"
+   }
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ:",
+   "translations": {
+    "english": "one is the Holy Spirit."
+   },
+   "transliterations": {
+    "english": "en Epnevma Agion:"
+   }
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen."
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  }
+ ]
+}

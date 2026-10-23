@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Oblations Litany - Lord have mercy"
+  },
+  "text": "response-lord-have-mercy",
+  "language": "english",
+  "tune": {
+    "english": "English · Oblations Litany"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2617",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3735,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

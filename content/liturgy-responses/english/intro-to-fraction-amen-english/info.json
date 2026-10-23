@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Intro to Fraction - Amen"
+  },
+  "text": "response-amen",
+  "language": "english",
+  "tune": {
+    "english": "English · Intro to Fraction"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2621",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3810,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

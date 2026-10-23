@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Before You, O Lord"
+  },
+  "text": "response-before-you-o-lord",
+  "language": "english",
+  "tune": {
+    "english": "English"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2639",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3880,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

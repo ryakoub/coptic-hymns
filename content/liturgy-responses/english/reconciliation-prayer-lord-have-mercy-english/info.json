@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Reconciliation Prayer - Lord have mercy"
+  },
+  "text": "response-lord-have-mercy",
+  "language": "english",
+  "tune": {
+    "english": "English · Reconciliation Prayer"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2617",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3160,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

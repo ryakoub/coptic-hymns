@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Anaphora - Amen"
+  },
+  "text": "response-amen",
+  "language": "english",
+  "tune": {
+    "english": "English · Anaphora"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2621",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3515,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "One is the all-holy Father"
+  },
+  "text": "response-one-is-the-all-holy-father",
+  "language": "english",
+  "tune": {
+    "english": "English"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/342",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3920,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Nature Litany - Lord have mercy 3x"
+  },
+  "text": "response-lord-have-mercy-3x",
+  "language": "english",
+  "tune": {
+    "english": "English · Nature Litany"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2619",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3730,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

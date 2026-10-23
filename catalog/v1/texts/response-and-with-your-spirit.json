@@ -1,0 +1,20 @@
+{
+ "id": "response-and-with-your-spirit",
+ "titles": {
+  "english": "And with Your Spirit",
+  "arabic": "ولروحك أيضاً"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.",
+   "translations": {
+    "english": "And with your spirit."
+   },
+   "transliterations": {
+    "english": "Ke to epnevmati sou."
+   }
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": "response-intro-to-fraction-and-your-precious-blood",
+ "titles": {
+  "english": "Intro to Fraction - And Your precious Blood",
+  "arabic": "مقدمة القسمة - ودمك الكريم"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲛⲉⲙ Ⲡⲉⲕⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ.",
+   "translations": {
+    "english": "and Your precious Blood."
+   },
+   "transliterations": {
+    "english": "Nem Pekesnof ettaieeout."
+   }
+  }
+ ]
+}

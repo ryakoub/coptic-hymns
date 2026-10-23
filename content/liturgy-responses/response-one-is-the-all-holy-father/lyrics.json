@@ -1,0 +1,74 @@
+[
+  {
+    "coptic": "Ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲡⲁⲧⲏⲣ:",
+    "transliterations": {
+      "english": "Is o panagios Pateer:"
+    },
+    "translations": {
+      "english": "One is the All-Holy Father,"
+    }
+  },
+  {
+    "coptic": "ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲩⲓⲟⲥ:",
+    "transliterations": {
+      "english": "is o panagios I-ios:"
+    },
+    "translations": {
+      "english": "one is the All-Holy Son,"
+    }
+  },
+  {
+    "coptic": "ⲉⲛ ⲧⲟ ⲡⲁⲛⲁ̀ⲅⲓⲟⲛ Ⲡ̀ⲛⲉⲩⲙⲁ:",
+    "transliterations": {
+      "english": "en to panagion Epnevma:"
+    },
+    "translations": {
+      "english": "one is the All-Holy Spirit."
+    }
+  },
+  {
+    "coptic": "ⲁ̀ⲙⲏⲛ.",
+    "transliterations": {
+      "english": "ameen."
+    },
+    "translations": {
+      "english": "Amen."
+    }
+  },
+  {
+    "coptic": "Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ:",
+    "transliterations": {
+      "english": "Is Pateer agios:"
+    },
+    "translations": {
+      "english": "One is the Holy Father,"
+    }
+  },
+  {
+    "coptic": "ⲓⲥ ⲟ̀ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ:",
+    "transliterations": {
+      "english": "is o I-ios agios:"
+    },
+    "translations": {
+      "english": "one is the Holy Son,"
+    }
+  },
+  {
+    "coptic": "ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ:",
+    "transliterations": {
+      "english": "en Epnevma Agion:"
+    },
+    "translations": {
+      "english": "one is the Holy Spirit."
+    }
+  },
+  {
+    "coptic": "ⲁ̀ⲙⲏⲛ.",
+    "transliterations": {
+      "english": "ameen."
+    },
+    "translations": {
+      "english": "Amen."
+    }
+  }
+]

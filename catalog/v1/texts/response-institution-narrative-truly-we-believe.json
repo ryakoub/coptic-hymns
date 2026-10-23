@@ -1,0 +1,20 @@
+{
+ "id": "response-institution-narrative-truly-we-believe",
+ "titles": {
+  "english": "Institution Narrative - Truly, we believe",
+  "arabic": "الصلوات التأسيسية - بالحقيقة نؤمن"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲗⲏⲑⲟⲥ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ.",
+   "translations": {
+    "english": "Truly, we believe."
+   },
+   "transliterations": {
+    "english": "Aleethos pistevomen."
+   }
+  }
+ ]
+}

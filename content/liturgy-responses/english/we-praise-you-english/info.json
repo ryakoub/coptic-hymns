@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "We praise You"
+  },
+  "text": "response-we-praise-you",
+  "language": "english",
+  "tune": {
+    "english": "English"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2631",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3705,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

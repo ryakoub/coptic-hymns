@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Confession - Amen. I believe"
+  },
+  "text": "response-confession-amen-i-believe",
+  "language": "english",
+  "tune": {
+    "english": "English · Confession"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2641",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3950,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

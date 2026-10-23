@@ -1,0 +1,31 @@
+{
+ "id": "response-i-believe-amen",
+ "titles": {
+  "english": "I believe. Amen",
+  "arabic": "أؤمن."
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ϯⲛⲁϩϯ:",
+   "translations": {
+    "english": "I believe."
+   },
+   "transliterations": {
+    "english": "Tinahti:"
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": ""
+   },
+   "transliterations": {
+    "english": "ameen."
+   }
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": "response-we-praise-you",
+ "titles": {
+  "english": "We praise You",
+  "arabic": "نسبحك"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲧⲉⲛϣⲉⲙϣⲓ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ.",
+   "translations": {
+    "english": "We praise You, we bless You, we serve You, we worship You."
+   },
+   "transliterations": {
+    "english": "Tenhos erok tenesmou erok tenshemshi emmok tenowosht emmok."
+   }
+  }
+ ]
+}

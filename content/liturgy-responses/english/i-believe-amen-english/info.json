@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "I believe. Amen"
+  },
+  "text": "response-i-believe-amen",
+  "language": "english",
+  "tune": {
+    "english": "English"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2632",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3710,
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "kind": "recital"
+}

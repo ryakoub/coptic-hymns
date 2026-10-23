@@ -1,0 +1,29 @@
+[
+  {
+    "coptic": "Ⲁ̀ⲙⲏⲛ:",
+    "transliterations": {
+      "english": "Ameen:"
+    },
+    "translations": {
+      "english": "Amen,"
+    }
+  },
+  {
+    "coptic": "ⲁ̀ⲙⲏⲛ:",
+    "transliterations": {
+      "english": "ameen:"
+    },
+    "translations": {
+      "english": "amen,"
+    }
+  },
+  {
+    "coptic": "ⲁ̀ⲙⲏⲛ.",
+    "transliterations": {
+      "english": "ameen."
+    },
+    "translations": {
+      "english": "amen."
+    }
+  }
+]
