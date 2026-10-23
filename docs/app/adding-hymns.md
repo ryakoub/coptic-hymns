@@ -56,7 +56,7 @@ From https://tasbeha.org/hymn_library/cat/216. ✓ = in the app.
 | 20 | The Hymn of the Resurrection – Tennav | view/104 | ✓ `tennav`, Ibrahim Ayad, with English |
 | 30 | The Year Round Canticle | view/2539 | no recordings listed |
 | 40 | The First Hoos | view/103 | ✓ `first-hoos`, with English |
-| 50 | The First Hoos Lobsh | view/105 | ✓ `first-hoos-lobsh`, Ibrahim Ayad, with English |
+| 50 | The First Hoos Lobsh | view/105 | merged into 55 `lobsh-first-hoos` (its English by St. Anthony kept; Ibrahim Ayad dropped) |
 | 60 | The Second Hoos | view/106 | ✓ `second-hoos` (YouTube, The Coptic Gate), with English |
 | 70 | The Second Hoos Lobsh | view/182 | ✓ `second-hoos-lobsh`, Ibrahim Ayad, with English |
 | 80 | The Third Hoos | view/108 | ✓ `third-hoos` (YouTube, The Coptic Gate), with English |

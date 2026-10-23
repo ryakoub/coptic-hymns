@@ -1,5 +1,10 @@
 {
   "title": "Lobsh of First Hoos",
+  "titles": {
+    "english": "Lobsh of First Hoos",
+    "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
+    "arabic": "لبش الهوس الأول"
+  },
   "youtube": "https://www.youtube.com/watch?v=jFX-qC0LiBM",
   "places": [
     "praises/midnight"

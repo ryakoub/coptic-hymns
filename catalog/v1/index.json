@@ -1,6 +1,6 @@
 {
- "version": "07c9e20d9854c9c0",
- "updated": "2026-10-22T22:58:45Z",
+ "version": "c8130beb45cab72a",
+ "updated": "2026-10-23T01:04:10Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -850,7 +850,6 @@
         "ten-theeno",
         "tennav",
         "first-hoos",
-        "first-hoos-lobsh",
         "lobsh-first-hoos",
         "second-hoos",
         "second-hoos-lobsh",
@@ -902,7 +901,6 @@
          },
          "recordings": [
           "first-hoos",
-          "first-hoos-lobsh",
           "lobsh-first-hoos",
           "second-hoos",
           "second-hoos-lobsh",
@@ -2353,40 +2351,6 @@
    }
   },
   {
-   "id": "first-hoos-lobsh",
-   "titles": {
-    "english": "The First Hoos Lobsh",
-    "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
-    "arabic": "لبش الهوس الأول"
-   },
-   "tags": [],
-   "pending": false,
-   "links": [
-    {
-     "site": "Coptic Hymns in English",
-     "title": "With the Split",
-     "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
-    }
-   ],
-   "lines": 9,
-   "translations": [
-    "arabic",
-    "english"
-   ],
-   "transliterations": [
-    "english"
-   ],
-   "recordings": [
-    "first-hoos-lobsh",
-    "first-hoos-lobsh-english"
-   ],
-   "file": {
-    "url": "catalog/v1/texts/first-hoos-lobsh.json",
-    "bytes": 9559,
-    "sha256": "8ec36eef0a459f1d092b9331cb2bc5d1ebc347ad0f1d9557f63de67941e0df5d"
-   }
-  },
-  {
    "id": "first-sunday-psali",
    "titles": {
     "english": "The First Sunday Psali",
@@ -2820,7 +2784,9 @@
   {
    "id": "lobsh-first-hoos",
    "titles": {
-    "english": "Lobsh of First Hoos"
+    "english": "Lobsh of First Hoos",
+    "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
+    "arabic": "لبش الهوس الأول"
    },
    "tags": [],
    "pending": false,
@@ -2837,12 +2803,13 @@
    ],
    "transliterations": [],
    "recordings": [
+    "first-hoos-lobsh-english",
     "lobsh-first-hoos"
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
-    "bytes": 3687,
-    "sha256": "242b83387c10def4669261110da12353ae5f5ce7aef9b442c70b0c1b94166b49"
+    "bytes": 3784,
+    "sha256": "2d3fa18f3812054e10340aac672ab61bc7456844900a8742bfc9d80286164d65"
    }
   },
   {
@@ -5631,33 +5598,8 @@
    ]
   },
   {
-   "id": "first-hoos-lobsh",
-   "text": "first-hoos-lobsh",
-   "duration": 874.57,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 9
-   },
-   "source": "https://tasbeha.org/hymn_library/view/105",
-   "files": [
-    {
-     "url": "catalog/v1/timings/first-hoos-lobsh.json",
-     "bytes": 82,
-     "sha256": "7ab5fc904b8dc4cc4f9d63974e34e839a163d4f02a283f289bad251513108bdc",
-     "role": "timing"
-    },
-    {
-     "url": "content/hymns/first-hoos-lobsh/audio.mp3",
-     "role": "audio",
-     "bytes": 13994333,
-     "sha256": "219fd2d30eccc8ae0fc08cbcdf6d717759204729a302f022204526be0f98abc4"
-    }
-   ]
-  },
-  {
    "id": "first-hoos-lobsh-english",
-   "text": "first-hoos-lobsh",
+   "text": "lobsh-first-hoos",
    "duration": 311.54,
    "timing": {
     "lines": 9,
@@ -5674,7 +5616,7 @@
     {
      "url": "catalog/v1/timings/first-hoos-lobsh-english.json",
      "bytes": 11696,
-     "sha256": "51385bdc5003ff5c7761701e42fa671c102f1d0dc56a17428957be4e81f7c743",
+     "sha256": "3410cf9b64a9333965a1430a21c7671dc3c4298d93b25b559a8b46942a5c49e6",
      "role": "timing"
     },
     {
