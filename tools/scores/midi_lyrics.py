@@ -18,9 +18,10 @@ from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTChar
 
 MSCORE = "/Applications/MuseScore 4.app/Contents/MacOS/mscore"
-HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)", "œ"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
+HEADS = {"ˆ", "˙", "w", "(cid:169)", "(cid:185)", "œ", "e"}   # Maestro's noteheads as the PDF decodes them: filled, half, whole,
 #                                                  and two the Seven Tunes use in bars with "+" or dots over the notes
-#                                                  (in the 2026 edition the first of these is named œ)
+#                                                  (in the 2026 edition the first of these is named œ), and an
+#                                                  eighth drawn whole, head, stem and flag in one (e)
 # Written before the letter they go over: a jenkim (alone, a jenkim sung on its own note), a dot.
 MARKS = {"`": "̀", "~": "̇"}
 # The old Coptic font: each ASCII key stands for a Coptic letter (checked on the Seven Tunes: ; is ϯ, ] is ϣ;

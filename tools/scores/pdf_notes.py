@@ -21,6 +21,7 @@ WHITE = [53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83,
 BOTTOM_LINE = 6                       # E4, the treble staff's bottom line, in WHITE
 STEMS = {"«", "»", "(cid:162)"}         # pieces of a stem (the last two for blue notes)
 FLAGS = {"j", "J", "(cid:76)", "(cid:44)"}   # a single eighth's flag, at its head (the last for blue notes)
+WHOLE_EIGHTH = "e"                    # an eighth drawn as one character (head, stem and flag): Tai Shouri, book 2000 page 136
 RESTS = {"(cid:168)": 1, "Ó": 2, "Œ": 1, "‰": 0.5, "∑": 4}       # beats (quarters)
 ACCIDENTALS = {"b": -1, "n": 0, "#": 1}
 BEATS = {"whole": 4, "half": 2, "quarter": 1, 0: 1, 1: 0.5, 2: 0.25, 3: 0.125}
@@ -106,16 +107,31 @@ def read_page(page):
         s = step(h, k)
         pitch = WHITE[s + BOTTOM_LINE] + lines[k]["key"].get((s + BOTTOM_LINE) % 7, 0)
         acc = [a for a in marks if 2 < h.x0 - a[0] < 12 and abs(a[1] - (H - h.y0)) < 3 and a[0] > 120]
+        alter = ACCIDENTALS[acc[0][2]] if acc else None
         if acc:
-            pitch = WHITE[s + BOTTOM_LINE] + ACCIDENTALS[acc[0][2]]
-        beams_on = count[id(h)] or (1 if any(abs(fx - h.x0) < 2 and abs(fy - (H - h.y0)) < 3 for fx, fy in flags) else 0)
+            pitch = WHITE[s + BOTTOM_LINE] + alter
+        beams_on = count[id(h)] or (1 if h.get_text() == WHOLE_EIGHTH or any(abs(fx - h.x0) < 2 and abs(fy - (H - h.y0)) < 3 for fx, fy in flags) else 0)
         beats = BEATS.get({"˙": "half", "w": "whole"}.get(h.get_text()), BEATS[min(beams_on, 3)])
         if any(0 < dx - h.x1 < 9 and abs(dy - (H - h.y0)) < 5 for dx, dy in dots):
             beats *= 1.5
-        lines[k]["events"].append(((h.x0 + h.x1) / 2, "note", pitch, beats))
+        lines[k]["events"].append(((h.x0 + h.x1) / 2, "note", pitch, s, alter, beats))
     for line in lines:
         line["events"].sort(key=lambda e: e[0])
         line["bars"] = sorted(set(round(b) for b in line["bars"]))
+        # An accidental holds for the same staff step until the end of its bar (as Ab, G, A, G in Tai Shouri).
+        held, edges, out = {}, list(line["bars"]), []
+        for e in line["events"]:
+            while edges and e[0] > edges[0] + 2:
+                held, edges = {}, edges[1:]
+            if e[1] == "note":
+                x, _, pitch, s, alter, beats = e
+                if alter is not None:
+                    held[s] = alter
+                elif s in held:
+                    pitch = WHITE[s + BOTTOM_LINE] + held[s]
+                e = (x, "note", pitch, beats)
+            out.append(e)
+        line["events"] = out
     return lines
 
 
