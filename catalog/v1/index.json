@@ -1,6 +1,6 @@
 {
- "version": "55e7c96171c534ba",
- "updated": "2026-10-23T02:44:22Z",
+ "version": "1a2eb279c57e08b0",
+ "updated": "2026-10-23T03:14:31Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2965,17 +2965,20 @@
    ],
    "lines": 9,
    "translations": [
+    "arabic",
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
     "lobsh-first-hoos",
     "first-hoos-lobsh-english"
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
-    "bytes": 3784,
-    "sha256": "2d3fa18f3812054e10340aac672ab61bc7456844900a8742bfc9d80286164d65"
+    "bytes": 9558,
+    "sha256": "fb4960ca6411d33d0a9a89e1c81f40e4d9a546aa1da92fee3ae5887b9a88d953"
    }
   },
   {
@@ -8136,8 +8139,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/lobsh-first-hoos.json",
-     "bytes": 5964,
-     "sha256": "a3e32a4e7270513d5f0b6d0b78fa9c448f63728c78a6566ce29d7776c066fedc",
+     "bytes": 6095,
+     "sha256": "208a0f6d2f29644dcca77b23307530a5fd503af233dcf91f5301838200b580e6",
      "role": "timing"
     },
     {
