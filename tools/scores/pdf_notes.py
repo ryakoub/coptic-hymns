@@ -24,6 +24,9 @@ FLAGS = {"j", "J", "(cid:76)", "(cid:44)"}   # a single eighth's flag, at its he
 WHOLE_EIGHTH = "e"                    # an eighth drawn as one character (head, stem and flag): Tai Shouri, book 2000 page 136
 RESTS = {"(cid:168)": 1, "Ó": 2, "Œ": 1, "‰": 0.5, "∑": 4}       # beats (quarters)
 ACCIDENTALS = {"b": -1, "n": 0, "#": 1}
+# In a key signature: flats, sharps (Hijaz), and half-flats (Bayati, drawn "i"), which MIDI can't hold: the note
+# stays as written, but the line then has a key of its own and doesn't take the one before.
+KEY_SIGNS = {"b": -1, "#": 1, "i": 0}
 BEATS = {"whole": 4, "half": 2, "quarter": 1, 0: 1, 1: 0.5, 2: 0.25, 3: 0.125}
 
 
@@ -83,17 +86,22 @@ def read_page(page):
             assign(b0, b1, ym, True)
 
     lines = [{"events": [], "bars": [], "key": {}} for _ in bases]
-    first_head = {}
-    for h, k, _ in heads:
-        first_head[k] = min(first_head.get(k, 1e9), h.x0)
+    first_head, first_y = {}, {}
+    for h, k, hy in heads:
+        if h.x0 < first_head.get(k, 1e9):
+            first_head[k], first_y[k] = h.x0, H - h.y0
+    # A key signature sits before the line's first note: well before it, or close to it (half-flats can be)
+    # when not at that note's height, which would make it the note's own accidental.
+    in_key = lambda c, k: c.x0 < 120 and (c.x0 < first_head.get(k, 1e9) - 10
+                                          or (c.x0 < first_head.get(k, 1e9) - 5 and abs(H - c.y0 - first_y.get(k, -1e9)) > 3))
     for c in ms:
         k = near(H - c.y0)
         t = c.get_text()
         x = c.x0
         if t == "l" and abs(H - c.y0 - bases[k]) < 1:
             lines[k]["bars"].append(x)
-        elif t == "b" and x < first_head.get(k, 1e9) - 10 and x < 120:        # key signature
-            lines[k]["key"][(step(c, k) + BOTTOM_LINE) % 7] = -1
+        elif t in KEY_SIGNS and in_key(c, k):                                    # key signature
+            lines[k]["key"][(step(c, k) + BOTTOM_LINE) % 7] = KEY_SIGNS[t]
         elif t in RESTS and abs(H - c.y0 - bases[k]) < 20:
             lines[k]["events"].append((x, "rest", RESTS[t]))
     # A line without its own key signature keeps the one before (the 2026 edition prints it on the first line only).
@@ -102,11 +110,11 @@ def read_page(page):
             lines[k]["key"] = lines[k - 1]["key"]
     dots = [(c.x0, H - c.y0) for c in ms if c.get_text() == "."]
     flags = [(c.x0, H - c.y0) for c in ms if c.get_text() in FLAGS]
-    marks = [(c.x0, H - c.y0, c.get_text()) for c in ms if c.get_text() in ACCIDENTALS]
+    marks = [(c.x0, H - c.y0, c.get_text()) for c in ms if c.get_text() in ACCIDENTALS and not in_key(c, near(H - c.y0))]
     for h, k, hy in heads:
         s = step(h, k)
         pitch = WHITE[s + BOTTOM_LINE] + lines[k]["key"].get((s + BOTTOM_LINE) % 7, 0)
-        acc = [a for a in marks if 2 < h.x0 - a[0] < 12 and abs(a[1] - (H - h.y0)) < 3 and a[0] > 120]
+        acc = [a for a in marks if 2 < h.x0 - a[0] < 12 and abs(a[1] - (H - h.y0)) < 3]
         alter = ACCIDENTALS[acc[0][2]] if acc else None
         if acc:
             pitch = WHITE[s + BOTTOM_LINE] + alter

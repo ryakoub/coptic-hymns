@@ -153,6 +153,9 @@ def main():
     if not os.path.exists(os.path.join(tmp, "score.mscx")):
         sys.exit("MuseScore could not read the MIDI file.")
     xml = open(os.path.join(tmp, "score.mscx"), encoding="utf-8").read()
+    # MuseScore switches to the bass clef for a few low notes (A and B below middle C in the Hymn of the
+    # Blessing); his pages stay in the treble clef throughout.
+    xml = re.sub(r"[ \t]*<Clef>.*?</Clef>\n", "", xml, flags=re.S)
     chords = [m for m in re.finditer(r"<Chord>.*?</Chord>", xml, re.S)
               if not re.search(r'<Spanner type="Tie">\s*<prev>', m.group(0))]   # a tied note is sung once
 
