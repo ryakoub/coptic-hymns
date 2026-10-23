@@ -3,5 +3,9 @@
   "youtube": "https://www.youtube.com/watch?v=evNcoc0Vt2g",
   "places": [
     "annual/liturgy"
-  ]
+  ],
+  "group": {
+    "english": "Liturgy of the Word"
+  },
+  "order": 2600
 }

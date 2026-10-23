@@ -10,5 +10,9 @@
       "title": "Saved Amen",
       "url": "https://www.coptichymnsinenglish.com/album/19/track/96"
     }
-  ]
+  ],
+  "group": {
+    "english": "Liturgy of the Word"
+  },
+  "order": 2100
 }

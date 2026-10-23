@@ -1,6 +1,6 @@
 {
- "version": "9c9ac02b674ae02b",
- "updated": "2026-10-23T01:21:19Z",
+ "version": "0c183ccef0711649",
+ "updated": "2026-10-23T01:43:45Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -52,54 +52,134 @@
       {
        "service": "raising-of-incense",
        "entries": [
-        "gospel-response-matins-annual",
-        "gospel-response-vespers-annual",
-        "hetenyat-annual",
-        "concluding-canon-annual",
-        "doxology-archangel-michael",
-        "doxology-heavenly-orders",
         "doxology-st-mary-vespers",
         "doxology-st-mary-matins",
+        "doxology-archangel-michael",
+        "doxology-heavenly-orders",
         "doxology-john-baptist-1",
-        "kyrie-eleison-major",
         "doxology-john-baptist-2",
         "st-mark-doxology-first-one",
-        "ten-oosht-evol-vespers-matins"
+        "ten-oosht-evol-vespers-matins",
+        "kyrie-eleison-major",
+        "gospel-response-matins-annual",
+        "concluding-canon-annual"
+       ],
+       "groups": [
+        {
+         "id": "doxologies",
+         "titles": {
+          "english": "Doxologies"
+         },
+         "recordings": [
+          "doxology-st-mary-vespers",
+          "doxology-st-mary-matins",
+          "doxology-archangel-michael",
+          "doxology-heavenly-orders",
+          "doxology-john-baptist-1",
+          "doxology-john-baptist-2",
+          "st-mark-doxology-first-one"
+         ]
+        }
        ]
       },
       {
        "service": "liturgy",
        "entries": [
-        "alleluia-offertory",
-        "amen-ton-thanaton",
-        "anaphora-responses-st-basil-st-gregory-liturgies",
-        "aspasmos-adam-annual",
-        "aspasmos-watos-annual",
-        "distribution-alleluia-annual",
-        "distribution-annual-psalm-150",
-        "os-ein-response",
-        "concluding-canon-annual",
-        "eleison-imas-je-nai-nan",
-        "je-nai-nan",
-        "ere-po-esmo-may-their-holy-blessing",
-        "liturgy-gospel-response-annual",
+        "hymn-of-the-blessing",
         "paralex-shere-maria",
+        "alleluia-offertory",
+        "this-is-the-day",
+        "the-thought-of-man",
+        "concluding-canon-annual",
+        "sotees-ameen-major",
+        "sotees-ameen-fast",
+        "tai-shouri",
+        "censer-annual",
+        "hetenyat-annual",
         "pi-ehmot-ghar-small",
-        "pi-oik",
         "praxis-response-annual",
         "praxis-response-annual-major",
-        "reconciliation-response-basil",
-        "cherubim-response",
-        "sotees-ameen-fast",
-        "sotees-ameen-major",
-        "tai-shouri",
+        "agios-annual",
+        "liturgy-gospel-response-annual",
         "ten-oosht-evol-basil",
         "ten-oosht-evol-gregory",
-        "censer-annual",
-        "hymn-of-the-blessing",
-        "the-thought-of-man",
-        "this-is-the-day",
-        "agios-annual"
+        "reconciliation-response-basil",
+        "aspasmos-adam-annual",
+        "anaphora-responses-st-basil-st-gregory-liturgies",
+        "aspasmos-watos-annual",
+        "cherubim-response",
+        "eleison-imas-je-nai-nan",
+        "je-nai-nan",
+        "amen-ton-thanaton",
+        "ere-po-esmo-may-their-holy-blessing",
+        "os-ein-response",
+        "distribution-alleluia-annual",
+        "distribution-annual-psalm-150",
+        "pi-oik"
+       ],
+       "groups": [
+        {
+         "id": "offering-of-the-lamb",
+         "titles": {
+          "english": "Offering of the Lamb"
+         },
+         "recordings": [
+          "hymn-of-the-blessing",
+          "paralex-shere-maria",
+          "alleluia-offertory",
+          "this-is-the-day",
+          "the-thought-of-man"
+         ]
+        },
+        {
+         "id": "liturgy-of-the-word",
+         "titles": {
+          "english": "Liturgy of the Word"
+         },
+         "recordings": [
+          "sotees-ameen-major",
+          "sotees-ameen-fast",
+          "tai-shouri",
+          "censer-annual",
+          "hetenyat-annual",
+          "pi-ehmot-ghar-small",
+          "praxis-response-annual",
+          "praxis-response-annual-major",
+          "agios-annual",
+          "liturgy-gospel-response-annual"
+         ]
+        },
+        {
+         "id": "liturgy-of-the-faithful",
+         "titles": {
+          "english": "Liturgy of the Faithful"
+         },
+         "recordings": [
+          "ten-oosht-evol-basil",
+          "ten-oosht-evol-gregory",
+          "reconciliation-response-basil",
+          "aspasmos-adam-annual",
+          "anaphora-responses-st-basil-st-gregory-liturgies",
+          "aspasmos-watos-annual",
+          "cherubim-response",
+          "eleison-imas-je-nai-nan",
+          "je-nai-nan",
+          "amen-ton-thanaton",
+          "ere-po-esmo-may-their-holy-blessing",
+          "os-ein-response"
+         ]
+        },
+        {
+         "id": "communion",
+         "titles": {
+          "english": "Communion"
+         },
+         "recordings": [
+          "distribution-alleluia-annual",
+          "distribution-annual-psalm-150",
+          "pi-oik"
+         ]
+        }
        ]
       },
       {
@@ -862,6 +942,7 @@
         "first-sunday-psali",
         "second-sunday-psali",
         "leepon",
+        "semoti",
         "sunday-theotokia-1",
         "sunday-theotokia-2",
         "sunday-theotokia-3",
@@ -879,7 +960,9 @@
         "sunday-theotokia-15",
         "nim-ghar",
         "adam-theotokias-conclusion",
-        "conclusion-midnight-praises"
+        "conclusion-midnight-praises",
+        "psalm-150-4th-hoos",
+        "gospel-luke"
        ],
        "groups": [
         {
@@ -940,6 +1023,7 @@
          },
          "recordings": [
           "leepon",
+          "semoti",
           "sunday-theotokia-1",
           "sunday-theotokia-2",
           "sunday-theotokia-3",
@@ -1978,7 +2062,8 @@
   {
    "id": "doxology-heavenly-orders",
    "titles": {
-    "english": "Doxology of Heavenly Orders"
+    "english": "Doxology of Heavenly Orders",
+    "arabic": "ذكصولوجية السمائين"
    },
    "tags": [],
    "pending": false,
@@ -1999,8 +2084,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-heavenly-orders.json",
-    "bytes": 8603,
-    "sha256": "693f57d277edf7a265938b11f0ab18f647af2803c70da5c26aa116b52776fc86"
+    "bytes": 8654,
+    "sha256": "e5cf94590e0356f11dc222cc6164ce39db57fc82e6a6a379876936047d7d80bd"
    }
   },
   {
@@ -2086,7 +2171,8 @@
   {
    "id": "doxology-st-mary-matins",
    "titles": {
-    "english": "Doxology of St. Mary, Matins"
+    "english": "Doxology of St. Mary, Matins",
+    "arabic": "ذكصولوجية العذراء - باكر"
    },
    "tags": [],
    "pending": false,
@@ -2107,8 +2193,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-st-mary-matins.json",
-    "bytes": 4439,
-    "sha256": "8b72c4f2576d14f8c8bdd0d02e956648b35242743a712dbefdb8d9c85c0892a6"
+    "bytes": 4499,
+    "sha256": "d6cf432ed899c5df0cad2e9f1df040667e331a2f40329251ed520a2279fa8688"
    }
   },
   {
@@ -4969,6 +5055,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/1853",
    "youtube": "https://www.youtube.com/watch?v=DPLZ9fyQxow",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/concluding-canon-annual.json",
@@ -5185,6 +5272,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/418",
    "youtube": "https://www.youtube.com/watch?v=EEJM7reUfwA",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-archangel-michael.json",
@@ -5211,6 +5299,7 @@
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-2/doxology-heavenly-orders/",
    "youtube": "https://www.youtube.com/watch?v=5bX5uDocLO8",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-heavenly-orders.json",
@@ -5237,6 +5326,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/421",
    "youtube": "https://www.youtube.com/watch?v=vjrHui5z_I0",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-john-baptist-1.json",
@@ -5263,6 +5353,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/1873",
    "youtube": "https://www.youtube.com/watch?v=urJ1fMlibnY",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-john-baptist-2.json",
@@ -5315,6 +5406,7 @@
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins/",
    "youtube": "https://www.youtube.com/watch?v=dwCjweUAI5A",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-st-mary-matins.json",
@@ -5341,6 +5433,7 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-1/doxology-st-mary-vespers/",
    "youtube": "https://youtu.be/pY-9ScNsRdk",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/doxology-st-mary-vespers.json",
@@ -5837,6 +5930,7 @@
     "english": "Matins"
    },
    "youtube": "https://www.youtube.com/watch?v=hYn4Oi-EpJQ",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-matins-annual.json",
@@ -7124,7 +7218,6 @@
     "of": 7
    },
    "source": "https://tasbeha.org/hymn_library/view/452",
-   "kind": "melismatic",
    "files": [
     {
      "url": "catalog/v1/timings/semoti.json",
@@ -7317,6 +7410,7 @@
    },
    "source": "content/mahragan-keraza-2026/grades-1-2/level-2/st-mark-doxology-first-one/",
    "youtube": "https://www.youtube.com/watch?v=6vzXGvbvmnw",
+   "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/st-mark-doxology-first-one.json",

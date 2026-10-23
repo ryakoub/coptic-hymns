@@ -13,5 +13,10 @@
       "title": "Doxology - St. Mary - Vespers",
       "url": "https://www.coptichymnsinenglish.com/album/16/track/646"
     }
-  ]
+  ],
+  "kind": "recital",
+  "group": {
+    "english": "Doxologies"
+  },
+  "order": 100
 }

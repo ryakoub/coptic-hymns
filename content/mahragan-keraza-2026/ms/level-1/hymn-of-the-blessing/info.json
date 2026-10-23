@@ -3,5 +3,9 @@
   "youtube": "https://www.youtube.com/watch?v=Geh09bSUpOM",
   "places": [
     "annual/liturgy"
-  ]
+  ],
+  "group": {
+    "english": "Offering of the Lamb"
+  },
+  "order": 1000
 }

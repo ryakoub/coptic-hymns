@@ -15,5 +15,9 @@
       "title": "The Bread of Life",
       "url": "https://www.coptichymnsinenglish.com/album/42/track/81"
     }
-  ]
+  ],
+  "group": {
+    "english": "Communion"
+  },
+  "order": 4200
 }

@@ -7,5 +7,9 @@
     "english": "This Is the Day",
     "coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉϩⲟⲩⲟ",
     "arabic": "هذا هو اليوم الذي صنعه الرب"
-  }
+  },
+  "group": {
+    "english": "Offering of the Lamb"
+  },
+  "order": 1300
 }

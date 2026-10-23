@@ -14,5 +14,9 @@
     "year": 2024,
     "stage": "hs",
     "level": "1"
-  }
+  },
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "order": 3300
 }

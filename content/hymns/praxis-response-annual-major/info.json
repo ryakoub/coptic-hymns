@@ -16,5 +16,9 @@
     "year": 2026,
     "stage": "grades-3-4",
     "level": "gifted"
-  }
+  },
+  "group": {
+    "english": "Liturgy of the Word"
+  },
+  "order": 2700
 }

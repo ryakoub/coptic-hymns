@@ -16,5 +16,7 @@
     "year": 2025,
     "stage": "grades-1-2",
     "level": "1"
-  }
+  },
+  "kind": "recital",
+  "order": 1200
 }

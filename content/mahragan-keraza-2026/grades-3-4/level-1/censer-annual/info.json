@@ -14,5 +14,9 @@
       "title": "The Golden Censer",
       "url": "https://www.coptichymnsinenglish.com/album/20/track/789"
     }
-  ]
+  ],
+  "group": {
+    "english": "Liturgy of the Word"
+  },
+  "order": 2300
 }

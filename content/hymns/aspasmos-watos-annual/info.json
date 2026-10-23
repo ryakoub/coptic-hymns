@@ -14,5 +14,9 @@
     "year": 2026,
     "stage": "grades-1-2",
     "level": "gifted"
-  }
+  },
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "order": 3500
 }

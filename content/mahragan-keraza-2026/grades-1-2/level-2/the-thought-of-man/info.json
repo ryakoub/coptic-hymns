@@ -7,5 +7,9 @@
     "english": "The Thought of Man",
     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀",
     "arabic": "الليلويا ان فكر الانسان"
-  }
+  },
+  "group": {
+    "english": "Offering of the Lamb"
+  },
+  "order": 1400
 }

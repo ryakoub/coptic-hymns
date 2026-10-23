@@ -13,5 +13,10 @@
       "title": "Doxology - St. Mark",
       "url": "https://www.coptichymnsinenglish.com/album/16/track/55"
     }
-  ]
+  ],
+  "kind": "recital",
+  "group": {
+    "english": "Doxologies"
+  },
+  "order": 160
 }

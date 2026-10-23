@@ -10,5 +10,14 @@
       "title": "All You Heavenly Orders",
       "url": "https://www.coptichymnsinenglish.com/album/5/track/15"
     }
-  ]
+  ],
+  "titles": {
+    "english": "Doxology of Heavenly Orders",
+    "arabic": "ذكصولوجية السمائين"
+  },
+  "kind": "recital",
+  "group": {
+    "english": "Doxologies"
+  },
+  "order": 130
 }

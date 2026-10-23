@@ -15,5 +15,9 @@
     "stage": "cana-family",
     "level": "2"
   },
-  "channel": "The Coptic Gate"
+  "channel": "The Coptic Gate",
+  "group": {
+    "english": "Liturgy of the Word"
+  },
+  "order": 2200
 }

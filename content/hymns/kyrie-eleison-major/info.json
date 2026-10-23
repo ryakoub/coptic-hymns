@@ -13,5 +13,7 @@
     "year": 2023,
     "stage": "college",
     "level": "1"
-  }
+  },
+  "kind": "both",
+  "order": 1100
 }

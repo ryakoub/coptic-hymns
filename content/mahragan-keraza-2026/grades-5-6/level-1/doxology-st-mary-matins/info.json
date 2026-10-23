@@ -10,5 +10,14 @@
       "title": "Doxology - St. Mary - Matins",
       "url": "https://www.coptichymnsinenglish.com/album/16/track/645"
     }
-  ]
+  ],
+  "titles": {
+    "english": "Doxology of St. Mary, Matins",
+    "arabic": "ذكصولوجية العذراء - باكر"
+  },
+  "kind": "recital",
+  "group": {
+    "english": "Doxologies"
+  },
+  "order": 110
 }

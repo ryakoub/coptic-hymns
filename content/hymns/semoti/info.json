@@ -8,7 +8,7 @@
   "places": [
     "praises/midnight"
   ],
-  "order": 245,
+  "order": 170,
   "links": [
     {
       "site": "Coptic Hymns in English",
@@ -16,7 +16,7 @@
       "url": "https://www.coptichymnsinenglish.com/album/40/track/416"
     }
   ],
-  "kind": "melismatic",
+  "kind": "both",
   "group": {
     "english": "Theotokia"
   }

@@ -7,12 +7,16 @@
   },
   "source": "https://tasbeha.org/hymn_library/view/210",
   "places": [
-    "annual/raising-of-incense"
+    "annual/liturgy"
   ],
   "youtube": "https://www.youtube.com/watch?v=9Qk_Q1g-7Q8",
   "mahragan": {
     "year": 2025,
     "stage": "ms",
     "level": "1"
-  }
+  },
+  "group": {
+    "english": "Liturgy of the Word"
+  },
+  "order": 2400
 }

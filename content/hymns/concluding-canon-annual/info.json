@@ -15,5 +15,7 @@
     "year": 2025,
     "stage": "kg",
     "level": "1"
-  }
+  },
+  "kind": "recital",
+  "order": 2000
 }

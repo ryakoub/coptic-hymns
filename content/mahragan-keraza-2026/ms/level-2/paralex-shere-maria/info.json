@@ -6,5 +6,9 @@
   "titles": {
     "english": "Paralex, Shere Maria",
     "arabic": "برلكس لحن البركة - شيري ني ماريا"
-  }
+  },
+  "group": {
+    "english": "Offering of the Lamb"
+  },
+  "order": 1100
 }

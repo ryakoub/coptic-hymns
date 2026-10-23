@@ -1,7 +1,7 @@
 {
-  "title": "Ten Goosht Evol response, Vespers and Matins",
+  "title": "Ten Goosht Evol response",
   "titles": {
-    "english": "Ten Goosht Evol response, Vespers and Matins",
+    "english": "Ten Goosht Evol response",
     "arabic": "مرد تين جوشت إيفول عشية وباكر"
   },
   "youtube": "https://www.youtube.com/watch?v=2ILrPC8vnHA",
@@ -16,5 +16,7 @@
     "year": 2025,
     "stage": "grades-5-6",
     "level": "2"
-  }
+  },
+  "kind": "both",
+  "order": 1000
 }

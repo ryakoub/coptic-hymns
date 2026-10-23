@@ -14,5 +14,9 @@
     "year": 2025,
     "stage": "hs",
     "level": "2"
-  }
+  },
+  "group": {
+    "english": "Offering of the Lamb"
+  },
+  "order": 1200
 }

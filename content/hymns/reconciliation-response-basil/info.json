@@ -14,5 +14,9 @@
     "year": 2025,
     "stage": "kg",
     "level": "2"
-  }
+  },
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "order": 3200
 }

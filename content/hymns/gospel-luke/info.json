@@ -6,5 +6,9 @@
     "arabic": "الإنجيل لمعلمنا مار لوقا"
   },
   "source": "https://tasbeha.org/hymn_library/view/138",
-  "order": 230
+  "order": 230,
+  "notes": "Ignore",
+  "places": [
+    "praises/midnight"
+  ]
 }

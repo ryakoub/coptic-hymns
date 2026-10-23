@@ -3,5 +3,9 @@
   "youtube": "https://www.youtube.com/watch?v=UQeEvUJnwps",
   "places": [
     "annual/liturgy"
-  ]
+  ],
+  "group": {
+    "english": "Liturgy of the Faithful"
+  },
+  "order": 3750
 }
