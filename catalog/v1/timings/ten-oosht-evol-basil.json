@@ -4,21 +4,21 @@
  "segments": [
   {
    "line": "l1",
-   "start": 42.18,
+   "start": 42.08,
    "stanzas": [
-    42.18,
-    55.85,
-    64.21
+    42.08,
+    55.91,
+    64.15
    ],
    "words": [
     {
      "text": "Ⲧⲉⲛϫⲟⲩϣⲧ",
-     "start": 42.18,
+     "start": 42.08,
      "end": null
     },
     {
      "text": "ⲉ̀ⲃⲟⲗ",
-     "start": 44.05,
+     "start": 43.91,
      "end": null
     },
     {
@@ -28,12 +28,12 @@
     },
     {
      "text": "ⲧ̀ϩⲏ",
-     "start": 46.01,
+     "start": 45.85,
      "end": null
     },
     {
      "text": "ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
-     "start": 47.05,
+     "start": 46.91,
      "end": null
     },
     {
@@ -48,32 +48,32 @@
     },
     {
      "text": "ⲛⲉⲙ",
-     "start": 55.85,
+     "start": 55.91,
      "end": null
     },
     {
      "text": "ⲡⲓⲱⲛϧ",
-     "start": 56.78,
+     "start": 56.85,
      "end": null
     },
     {
      "text": "ⲛ̀ⲧⲉ",
-     "start": 57.75,
+     "start": 57.71,
      "end": null
     },
     {
      "text": "ⲡⲓⲉ̀ⲱⲛ",
-     "start": 59.41,
+     "start": 58.48,
      "end": null
     },
     {
      "text": "ⲉⲑⲛⲏⲟⲩ.",
-     "start": 61.01,
+     "start": 60.91,
      "end": null
     },
     {
      "text": "Ⲁ̀ⲙⲏⲛ.",
-     "start": 64.21,
+     "start": 64.15,
      "end": null
     }
    ]

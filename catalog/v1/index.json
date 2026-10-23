@@ -1,6 +1,6 @@
 {
- "version": "1a2eb279c57e08b0",
- "updated": "2026-10-23T03:14:31Z",
+ "version": "3773b80e765a51e6",
+ "updated": "2026-10-23T03:45:43Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5248,7 +5248,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2633",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5331,7 +5331,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2640",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5388,7 +5388,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/331",
    "tune": {
-    "english": "English · Anaphora"
+    "english": "St. Basil Liturgy - English · Anaphora"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5419,7 +5419,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "English · Anaphora"
+    "english": "St. Basil Liturgy - English · Anaphora"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5450,7 +5450,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2624",
    "tune": {
-    "english": "English · Anaphora"
+    "english": "St. Basil Liturgy - English · Anaphora"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5481,7 +5481,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "English · And with Your Spirit"
+    "english": "St. Basil Liturgy - English · And with Your Spirit"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -5511,7 +5511,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2623",
    "tune": {
-    "english": "English · It is meet and right"
+    "english": "St. Basil Liturgy - English · It is meet and right"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -5567,7 +5567,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2037",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -5597,7 +5597,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2622",
    "tune": {
-    "english": "English · We have them with the Lord"
+    "english": "St. Basil Liturgy - English · We have them with the Lord"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -5627,7 +5627,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "English · after “Amen. Lord have mercy 3x”"
+    "english": "St. Basil Liturgy - English · after “Amen. Lord have mercy 3x”"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5658,7 +5658,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "English · after “Before You, O Lord”"
+    "english": "St. Basil Liturgy - English · after “Before You, O Lord”"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -5774,7 +5774,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
    "tune": {
-    "english": "English · full ending"
+    "english": "St. Basil Liturgy - English · full ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -5804,7 +5804,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
    "tune": {
-    "english": "English · short ending"
+    "english": "St. Basil Liturgy - English · short ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -5964,7 +5964,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2639",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -6317,7 +6317,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2641",
    "tune": {
-    "english": "English · Confession"
+    "english": "St. Basil Liturgy - English · Confession"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -6348,7 +6348,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "English · Confession, first Amen"
+    "english": "St. Basil Liturgy - English · Confession, first Amen"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -6379,7 +6379,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "English · Confession, second Amen"
+    "english": "St. Basil Liturgy - English · Confession, second Amen"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7065,7 +7065,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "English · Fraction"
+    "english": "St. Basil Liturgy - English · Fraction"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7367,7 +7367,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2632",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7398,7 +7398,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2638",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7429,7 +7429,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2629",
    "tune": {
-    "english": "English · Institution Narrative (Blood)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Blood)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7460,7 +7460,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
    "tune": {
-    "english": "English · Institution Narrative (Blood)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Blood)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7491,7 +7491,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2630",
    "tune": {
-    "english": "English · Institution Narrative (Blood)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Blood)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7522,7 +7522,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
    "tune": {
-    "english": "English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7553,7 +7553,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2628",
    "tune": {
-    "english": "English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7584,7 +7584,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2626",
    "tune": {
-    "english": "English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7615,7 +7615,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2627",
    "tune": {
-    "english": "English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7646,7 +7646,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2625",
    "tune": {
-    "english": "English · Institution Narrative"
+    "english": "St. Basil Liturgy - English · Institution Narrative"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7677,7 +7677,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/337",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -7707,7 +7707,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English · Intro to Fraction"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7738,7 +7738,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "English · Intro to Fraction, second time"
+    "english": "St. Basil Liturgy - English · Intro to Fraction, second time"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7769,7 +7769,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English · Intro to Fraction"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7800,7 +7800,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2637",
    "tune": {
-    "english": "English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English · Intro to Fraction"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7831,7 +7831,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English · Intro to Fraction"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7862,7 +7862,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2636",
    "tune": {
-    "english": "English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English · Intro to Fraction"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8162,7 +8162,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
    "tune": {
-    "english": "English · after “Again, I believe. Amen”"
+    "english": "St. Basil Liturgy - English · after “Again, I believe. Amen”"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8193,7 +8193,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2635",
    "tune": {
-    "english": "English · full ending"
+    "english": "St. Basil Liturgy - English · full ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -8223,7 +8223,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2635",
    "tune": {
-    "english": "English · short ending"
+    "english": "St. Basil Liturgy - English · short ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -8310,7 +8310,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
    "tune": {
-    "english": "English · Nature Litany"
+    "english": "St. Basil Liturgy - English · Nature Litany"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8423,7 +8423,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "English · Oblations Litany"
+    "english": "St. Basil Liturgy - English · Oblations Litany"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8454,7 +8454,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/342",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8905,7 +8905,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "English · Reconciliation Prayer"
+    "english": "St. Basil Liturgy - English · Reconciliation Prayer"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8936,7 +8936,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "English · Reconciliation Prayer"
+    "english": "St. Basil Liturgy - English · Reconciliation Prayer"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8967,7 +8967,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2618",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -10246,7 +10246,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2634",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -10276,7 +10276,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "English · Seven Short Litanies"
+    "english": "St. Basil Liturgy - English · Seven Short Litanies"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11199,7 +11199,7 @@
     {
      "url": "catalog/v1/timings/ten-oosht-evol-basil.json",
      "bytes": 1305,
-     "sha256": "87d7d9204becaed87ef4867782e7a8fcb23a2789193062d183dd8de031c3af64",
+     "sha256": "597c08174bee7dd692492113e3396218b0a1feea08b1044f2c4e857fe9fb2b93",
      "role": "timing"
     },
     {
@@ -11228,7 +11228,7 @@
     {
      "url": "catalog/v1/timings/ten-oosht-evol-gregory.json",
      "bytes": 1253,
-     "sha256": "58e6af2bca878afcb9dd1a19211db65638d775f49e0dbc79237980385790dfc6",
+     "sha256": "81b2f0fc576a8fbf84fa9cc0fd2ee7d59281d296f43db12f2db220cc01acba42",
      "role": "timing"
     },
     {
@@ -11257,7 +11257,7 @@
     {
      "url": "catalog/v1/timings/ten-oosht-evol-vespers-matins.json",
      "bytes": 1260,
-     "sha256": "74765e379e39760786e074fc34fd45fd2e7eb3711125001bbff3db7bf4df5ae7",
+     "sha256": "e2bfb4cf3aef105764a20cc24c47538170b3d26afef440b4b3e79deb8fd0632b",
      "role": "timing"
     },
     {
@@ -11846,21 +11846,21 @@
    "text": "ten-oosht-evol-basil",
    "duration": 29.09,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 1,
+    "words": 1,
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2615",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
    "files": [
     {
      "url": "catalog/v1/timings/we-look-for-the-resurrection-english.json",
-     "bytes": 106,
-     "sha256": "5fea86dc532d6151b4bf96cbc63f5b0444f5ff341afcd4900280c4b07cb04b7b",
+     "bytes": 1380,
+     "sha256": "4571c9fd5ab6539ce0e0aa200da8be4ca1d1c5401e4eecafb0b134d3f2ebbc62",
      "role": "timing"
     },
     {
@@ -11882,7 +11882,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2631",
    "tune": {
-    "english": "English"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",

@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.25,
+    "words": [
+      {
+        "text": "We",
+        "start": 0.25
+      },
+      {
+        "text": "look",
+        "start": 1.41
+      },
+      {
+        "text": "for",
+        "start": 2.05
+      },
+      {
+        "text": "the",
+        "start": 2.75
+      },
+      {
+        "text": "resurrection",
+        "start": 3.51
+      },
+      {
+        "text": "of",
+        "start": 5.38
+      },
+      {
+        "text": "the",
+        "start": 6.01
+      },
+      {
+        "text": "dead,",
+        "start": 6.98
+      },
+      {
+        "text": "and",
+        "start": 9.85
+      },
+      {
+        "text": "the",
+        "start": 10.65
+      },
+      {
+        "text": "life",
+        "start": 11.21
+      },
+      {
+        "text": "of",
+        "start": 11.98
+      },
+      {
+        "text": "the",
+        "start": 12.45
+      },
+      {
+        "text": "age",
+        "start": 12.85
+      },
+      {
+        "text": "to",
+        "start": 13.41
+      },
+      {
+        "text": "come.",
+        "start": 14.05
+      },
+      {
+        "text": "Amen.",
+        "start": 17.18
+      }
+    ]
+  }
+]

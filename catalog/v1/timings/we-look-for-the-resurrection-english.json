@@ -1,5 +1,97 @@
 {
  "recording": "we-look-for-the-resurrection-english",
  "text": "ten-oosht-evol-basil",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.25,
+   "words": [
+    {
+     "text": "We",
+     "start": 0.25,
+     "end": null
+    },
+    {
+     "text": "look",
+     "start": 1.41,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 2.05,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 2.75,
+     "end": null
+    },
+    {
+     "text": "resurrection",
+     "start": 3.51,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 5.38,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 6.01,
+     "end": null
+    },
+    {
+     "text": "dead,",
+     "start": 6.98,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 9.85,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 10.65,
+     "end": null
+    },
+    {
+     "text": "life",
+     "start": 11.21,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 11.98,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 12.45,
+     "end": null
+    },
+    {
+     "text": "age",
+     "start": 12.85,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 13.41,
+     "end": null
+    },
+    {
+     "text": "come.",
+     "start": 14.05,
+     "end": null
+    },
+    {
+     "text": "Amen.",
+     "start": 17.18,
+     "end": null
+    }
+   ]
+  }
+ ]
 }
