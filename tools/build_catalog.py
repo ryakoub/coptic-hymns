@@ -260,7 +260,9 @@ class Build:
         and "places": the collections listing it ("annual", or "annual/liturgy"). Each collection gets
         "notations": [ids]. A recording names its own "audio" file in the folder, or "recording": a hymn's
         recording id, to follow that recording's audio without another copy of it. "draft": true keeps the
-        notation out of the catalog (until it is marked) unless the build is run with --drafts."""
+        notation out of the catalog (until it is marked) unless the build is run with --drafts. Each notation
+        gets "texts": the hymns it is a version of (those of its recordings, and any named in "texts", e.g. the
+        recital Ten Theeno for the melismatic one), so a hymn can lead to its score."""
         collections = {c["id"]: c for g in library["groups"] for c in g["collections"]}
         out = []
         for path in sorted((CONTENT / "notations").glob("*/notation.json")):
@@ -278,8 +280,10 @@ class Build:
                 self.error(nid, f"no PDF {pdf.name}")
                 continue
             ref = lambda f, role: {"url": f.relative_to(ROOT).as_posix(), "role": role, "bytes": f.stat().st_size, "sha256": sha256_file(f)}
-            recs = []
+            recs, texts = [], list(n.get("texts", []))
             for i, r in enumerate(n.get("recordings", []), 1):
+                if r.get("recording") and r["recording"] in self.recordings:
+                    texts.append(self.recordings[r["recording"]]["text"])
                 if r.get("recording"):
                     # The audio of a hymn's recording, the same file the hymn plays.
                     hymn_audio = (self.recordings.get(r["recording"]) or {}).get("_audio")
@@ -301,7 +305,11 @@ class Build:
                              **({"cantor": r["cantor"]} if r.get("cantor") else {}), "audio": audio_ref, "points": points})
             entry = {"id": nid, "titles": n.get("titles", {}), "kind": n.get("kind", "score"), "pdf": ref(pdf, "pdf"),
                      "recordings": recs, **({"credit": n["credit"]} if n.get("credit") else {}),
-                     **({"cursor": n["cursor"]} if n.get("cursor") else {})}
+                     **({"cursor": n["cursor"]} if n.get("cursor") else {}),
+                     **({"texts": list(dict.fromkeys(texts))} if texts else {})}
+            for t in n.get("texts", []):
+                if t not in self.texts:
+                    self.error(nid, f"texts names {t!r}, which is not a hymn")
             if "english" not in entry["titles"]:
                 self.warn(nid, "notation without an English title")
             entry["version"] = sha256_bytes(json.dumps(entry, sort_keys=True, ensure_ascii=False).encode())[:16]

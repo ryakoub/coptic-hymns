@@ -9,6 +9,9 @@
  "places": [
   "annual"
  ],
+ "texts": [
+  "alleluia-offertory"
+ ],
  "pdf": "notation.pdf",
  "cursor": {
   "size": 0.064,

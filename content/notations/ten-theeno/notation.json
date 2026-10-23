@@ -9,6 +9,9 @@
  "places": [
   "praises"
  ],
+ "texts": [
+  "ten-theeno"
+ ],
  "pdf": "notation.pdf",
  "cursor": {
   "size": 0.05,

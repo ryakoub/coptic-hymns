@@ -1,6 +1,6 @@
 {
- "version": "d3341aec0126dc45",
- "updated": "2026-10-23T13:05:15Z",
+ "version": "f3d14e5bdb21cfc1",
+ "updated": "2026-10-23T13:20:48Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -12652,7 +12652,10 @@
     "size": 0.064,
     "toLineEnd": true
    },
-   "version": "cbf90bbb24043df5"
+   "texts": [
+    "alleluia-offertory"
+   ],
+   "version": "af9fa8452b069219"
   },
   {
    "id": "hymn-of-the-blessing",
@@ -14379,7 +14382,10 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "e726fab8f13921bd"
+   "texts": [
+    "hymn-of-the-blessing"
+   ],
+   "version": "abaa26975a265abb"
   },
   {
    "id": "pi-gen-misi",
@@ -24194,7 +24200,10 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "c4ad596d492a426a"
+   "texts": [
+    "tai-shouri"
+   ],
+   "version": "c0db8ee58af44811"
   },
   {
    "id": "ten-theeno",
@@ -29143,7 +29152,11 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "b0fbe47c3994cfa0"
+   "texts": [
+    "ten-theeno",
+    "ten-thinou"
+   ],
+   "version": "9bdad468fbbd8f8a"
   },
   {
    "id": "ti-shouri-annual",
@@ -29988,7 +30001,10 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "0da292c73be72e5b"
+   "texts": [
+    "censer-annual"
+   ],
+   "version": "76dffb2833384dcf"
   }
  ]
 }
