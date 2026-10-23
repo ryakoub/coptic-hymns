@@ -1,6 +1,6 @@
 {
- "version": "c8130beb45cab72a",
- "updated": "2026-10-23T01:04:10Z",
+ "version": "9c9ac02b674ae02b",
+ "updated": "2026-10-23T01:21:19Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1892,8 +1892,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "concluding-litany-english",
-    "conclusion-midnight-praises"
+    "conclusion-midnight-praises",
+    "concluding-litany-english"
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-midnight-praises.json",
@@ -2478,8 +2478,8 @@
     "english"
    ],
    "recordings": [
-    "gospel-response-matins-annual",
-    "gospel-response-vespers-annual"
+    "gospel-response-vespers-annual",
+    "gospel-response-matins-annual"
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-response-vespers-annual.json",
@@ -2803,8 +2803,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "first-hoos-lobsh-english",
-    "lobsh-first-hoos"
+    "lobsh-first-hoos",
+    "first-hoos-lobsh-english"
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",

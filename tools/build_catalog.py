@@ -474,7 +474,7 @@ def main():
                           "lines": len(lines),
                           "translations": sorted({k for l in lines for k, v in (l.get("translations") or {}).items() if v}),
                           "transliterations": sorted({k for l in lines for k, v in (l.get("transliterations") or {}).items() if v}),
-                          "recordings": sorted(r for r, e in b.recordings.items() if e["text"] == tid),
+                          "recordings": sorted((r for r, e in b.recordings.items() if e["text"] == tid), key=lambda r: (r != tid, r)),
                           "file": b.file(f"texts/{tid}.json", doc)})
     recordings_out = []
     for rid, e in sorted(b.recordings.items()):
