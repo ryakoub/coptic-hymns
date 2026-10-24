@@ -508,8 +508,13 @@ def main():
         e["files"] = files
         recordings_out.append(e)
 
+    # The About & Credits page (catalog/credits.json, hand-edited).
+    credits_path = ROOT / "catalog" / "credits.json"
+    credits = {k: v for k, v in json.loads(credits_path.read_text(encoding="utf-8")).items() if not k.startswith("_")} \
+        if credits_path.exists() else None
     payload = {"schema": SCHEMA, "baseUrl": BASE_URL, "services": library["services"], "library": library["groups"],
-               "texts": texts_out, "recordings": recordings_out, "notations": notations_out}
+               "texts": texts_out, "recordings": recordings_out, "notations": notations_out,
+               **({"credits": credits} if credits else {})}
     # The version changes only when content does, so the app can tell cheaply whether anything is new.
     version = sha256_bytes(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode())[:16]
     # When the content last changed, so the app takes only a newer catalog (the version is a fingerprint, not an order).

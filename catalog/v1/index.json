@@ -1,6 +1,6 @@
 {
- "version": "954b8334cf1bafe1",
- "updated": "2026-10-24T03:43:43Z",
+ "version": "82b08269fe77d58c",
+ "updated": "2026-10-24T04:01:14Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -30254,5 +30254,86 @@
    ],
    "version": "76dffb2833384dcf"
   }
- ]
+ ],
+ "credits": {
+  "about": "Coptic Chanter is offered by the Coptic Orthodox Churches of Chicagoland and the Midwest, to help everyone learn and follow the hymns of the Church by ear and by eye: hearing the cantors while following the words, and the notes, as they are sung. It is free.",
+  "sections": [
+   {
+    "title": "Music scores",
+    "intro": "Coptic hymns have been handed down by ear, from cantor to cantor, for many centuries. We are grateful to those who have given years to writing them in musical notation, so that they can be learned, kept and sung faithfully from one generation, and one church, to the next.",
+    "entries": [
+     {
+      "name": "Fr. Abraam Guirguis",
+      "role": "Music transcriptions of the hymns of the Coptic Orthodox Church, used with his permission"
+     },
+     {
+      "name": "George Kyrillos",
+      "role": "Music transcription of the Alleluia of the Offertory"
+     }
+    ]
+   },
+   {
+    "title": "Recordings",
+    "entries": [
+     {
+      "name": "Mahragan Al-Keraza (St. Mark's Festival), Youth Bishopric",
+      "role": "Recordings of the festival's hymns, 2022 to 2026",
+      "url": "https://www.youtube.com/@youth-bishopric"
+     },
+     {
+      "name": "The Heritage of the Coptic Orthodox Church (HCOC)",
+      "role": "Midnight Sunday Praises, used with their permission"
+     },
+     {
+      "name": "St. Anthony Coptic Orthodox Monastery, California",
+      "role": "The Midnight Praises in English"
+     },
+     {
+      "name": "English Hymns Committee",
+      "role": "St. Basil's Liturgy, the congregation responses in English"
+     },
+     {
+      "name": "Moallem Gad Lewis",
+      "role": "The Sunday Theotokia"
+     },
+     {
+      "name": "Cantor Bola and Cantor Ibrahim",
+      "role": "The Seven Tunes"
+     },
+     {
+      "name": "The Coptic Gate",
+      "role": "Recordings of Mahragan hymns"
+     },
+     {
+      "name": "George Beshara",
+      "role": "The Morning Doxology in English"
+     }
+    ]
+   },
+   {
+    "title": "Words and translations",
+    "entries": [
+     {
+      "name": "Tasbeha.org",
+      "role": "The hymns' Coptic, transliteration, English and Arabic, and many of their recordings",
+      "url": "https://tasbeha.org"
+     },
+     {
+      "name": "Coptic Hymns in English",
+      "role": "Linked from the hymns they have recorded",
+      "url": "https://www.coptichymnsinenglish.com"
+     }
+    ]
+   },
+   {
+    "title": "Fonts",
+    "entries": [
+     {
+      "name": "ArialCoptic",
+      "role": "The Coptic letters"
+     }
+    ]
+   }
+  ]
+ }
 }
