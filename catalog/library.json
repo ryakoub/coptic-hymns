@@ -116,11 +116,50 @@
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [],
+       "groups": [
+        {
+         "id": "doxologies",
+         "titles": {
+          "english": "Doxologies",
+          "arabic": "الذكصولوجيات"
+         }
+        }
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [],
+       "groups": [
+        {
+         "id": "offering-of-the-lamb",
+         "titles": {
+          "english": "Offering of the Lamb",
+          "arabic": "تقديم الحمل"
+         }
+        },
+        {
+         "id": "liturgy-of-the-word",
+         "titles": {
+          "english": "Liturgy of the Word",
+          "arabic": "قداس الموعوظين"
+         }
+        },
+        {
+         "id": "liturgy-of-the-faithful",
+         "titles": {
+          "english": "Liturgy of the Faithful",
+          "arabic": "قداس المؤمنين"
+         }
+        },
+        {
+         "id": "communion",
+         "titles": {
+          "english": "Communion",
+          "arabic": "التوزيع"
+         }
+        }
+       ]
       },
       {
        "service": "special",

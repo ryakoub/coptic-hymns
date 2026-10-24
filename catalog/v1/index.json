@@ -1,6 +1,6 @@
 {
- "version": "21e5282d00f82098",
- "updated": "2026-10-24T01:54:46Z",
+ "version": "b5e2fe5b9b270fa5",
+ "updated": "2026-10-24T02:06:09Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -221,7 +221,8 @@
         {
          "id": "doxologies",
          "titles": {
-          "english": "Doxologies"
+          "english": "Doxologies",
+          "arabic": "الذكصولوجيات"
          },
          "recordings": [
           "doxology-st-mary-vespers",
@@ -243,7 +244,6 @@
         "alleluia-offertory",
         "this-is-the-day",
         "the-thought-of-man",
-        "concluding-canon-annual",
         "sotees-ameen-major",
         "sotees-ameen-fast",
         "tai-shouri",
@@ -304,13 +304,15 @@
         "confession-amen-i-believe-english",
         "distribution-alleluia-annual",
         "distribution-annual-psalm-150",
-        "pi-oik"
+        "pi-oik",
+        "concluding-canon-annual"
        ],
        "groups": [
         {
          "id": "offering-of-the-lamb",
          "titles": {
-          "english": "Offering of the Lamb"
+          "english": "Offering of the Lamb",
+          "arabic": "تقديم الحمل"
          },
          "recordings": [
           "hymn-of-the-blessing",
@@ -323,7 +325,8 @@
         {
          "id": "liturgy-of-the-word",
          "titles": {
-          "english": "Liturgy of the Word"
+          "english": "Liturgy of the Word",
+          "arabic": "قداس الموعوظين"
          },
          "recordings": [
           "sotees-ameen-major",
@@ -341,7 +344,8 @@
         {
          "id": "liturgy-of-the-faithful",
          "titles": {
-          "english": "Liturgy of the Faithful"
+          "english": "Liturgy of the Faithful",
+          "arabic": "قداس المؤمنين"
          },
          "recordings": [
           "ten-oosht-evol-basil",
@@ -397,7 +401,8 @@
         {
          "id": "communion",
          "titles": {
-          "english": "Communion"
+          "english": "Communion",
+          "arabic": "التوزيع"
          },
          "recordings": [
           "distribution-alleluia-annual",
