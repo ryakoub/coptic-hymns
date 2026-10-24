@@ -6,9 +6,6 @@
     "arabic": "لبش الهوس الأول"
   },
   "youtube": "https://www.youtube.com/watch?v=jFX-qC0LiBM",
-  "places": [
-    "annual/midnight-praises"
-  ],
   "links": [
     {
       "site": "Coptic Hymns in English",
@@ -16,9 +13,7 @@
       "url": "https://www.coptichymnsinenglish.com/album/40/track/758"
     }
   ],
-  "order": 55,
-  "kind": "both",
-  "group": {
-    "english": "Canticles"
+  "tune": {
+    "english": "Mahragan 2026"
   }
 }

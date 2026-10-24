@@ -6,10 +6,6 @@
     "english": "Tenoueh Ensok (We Follow You)",
     "arabic": "تين أوويه إنسوك"
   },
-  "places": [
-    "annual/midnight-praises"
-  ],
-  "order": 100,
   "links": [
     {
       "site": "Coptic Hymns in English",
@@ -17,8 +13,7 @@
       "url": "https://www.coptichymnsinenglish.com/album/40/track/419"
     }
   ],
-  "kind": "both",
-  "group": {
-    "english": "Canticles"
+  "tune": {
+    "english": "Mahragan 2026"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "titles": {
+    "english": "The Second Hoos Lobsh (HCOC Minor)"
+  },
+  "text": "second-hoos-lobsh",
+  "tune": {
+    "english": "HCOC · Minor"
+  },
+  "cantor": "HCOC",
+  "source": "HCOC, Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
+  "places": [
+    "annual/midnight-praises"
+  ],
+  "order": 70,
+  "group": {
+    "english": "Canticles"
+  },
+  "kind": "both"
+}

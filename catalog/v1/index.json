@@ -1,6 +1,6 @@
 {
- "version": "87580780c3f0a54b",
- "updated": "2026-10-24T02:18:03Z",
+ "version": "c14e2dd560449739",
+ "updated": "2026-10-24T03:29:16Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -69,12 +69,12 @@
         "ten-theeno",
         "tennav",
         "first-hoos",
-        "lobsh-first-hoos",
+        "lobsh-first-hoos-hcoc-minor",
         "second-hoos",
-        "second-hoos-lobsh",
+        "second-hoos-lobsh-hcoc-minor",
         "third-hoos",
         "aripalin",
-        "tenoue-n-khok",
+        "tenoue-n-khok-hcoc-medium",
         "fourth-hoos",
         "commemoration-of-saints",
         "doxology-virgin-midnight",
@@ -121,12 +121,12 @@
          },
          "recordings": [
           "first-hoos",
-          "lobsh-first-hoos",
+          "lobsh-first-hoos-hcoc-minor",
           "second-hoos",
-          "second-hoos-lobsh",
+          "second-hoos-lobsh-hcoc-minor",
           "third-hoos",
           "aripalin",
-          "tenoue-n-khok",
+          "tenoue-n-khok-hcoc-medium",
           "fourth-hoos"
          ]
         },
@@ -1495,7 +1495,9 @@
    ],
    "recordings": [
     "adam-theotokias-conclusion",
-    "adam-theotokias-conclusion-english"
+    "adam-theotokias-conclusion-english",
+    "adam-theotokias-conclusion-hcoc-1",
+    "adam-theotokias-conclusion-hcoc-2"
    ],
    "file": {
     "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
@@ -2962,7 +2964,8 @@
    ],
    "recordings": [
     "lobsh-first-hoos",
-    "first-hoos-lobsh-english"
+    "first-hoos-lobsh-english",
+    "lobsh-first-hoos-hcoc-minor"
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
@@ -4189,7 +4192,8 @@
    ],
    "recordings": [
     "second-hoos-lobsh",
-    "second-hoos-lobsh-english"
+    "second-hoos-lobsh-english",
+    "second-hoos-lobsh-hcoc-minor"
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos-lobsh.json",
@@ -4250,7 +4254,8 @@
    ],
    "recordings": [
     "semoti",
-    "semoti-english"
+    "semoti-english",
+    "semoti-hcoc-major"
    ],
    "file": {
     "url": "catalog/v1/texts/semoti.json",
@@ -4310,7 +4315,8 @@
     "english"
    ],
    "recordings": [
-    "shere-ne-maria"
+    "shere-ne-maria",
+    "shere-ne-maria-hcoc-major"
    ],
    "file": {
     "url": "catalog/v1/texts/shere-ne-maria.json",
@@ -4877,7 +4883,9 @@
    ],
    "recordings": [
     "tenoue-n-khok",
-    "tenoue-n-khok-english"
+    "tenoue-n-khok-english",
+    "tenoue-n-khok-hcoc-medium",
+    "tenoue-n-khok-hcoc-minor"
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
@@ -5180,6 +5188,9 @@
     "of": 17
    },
    "source": "https://tasbeha.org/hymn_library/view/477",
+   "tune": {
+    "english": "Tasbeha"
+   },
    "kind": "recital",
    "files": [
     {
@@ -5223,6 +5234,64 @@
      "role": "audio",
      "bytes": 3584779,
      "sha256": "fd0c89c106e5890fbf923b3dddaa02823bb0e7a6ca7e73f989efb25756d07be5"
+    }
+   ]
+  },
+  {
+   "id": "adam-theotokias-conclusion-hcoc-1",
+   "text": "adam-theotokias-conclusion",
+   "duration": 230.06,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 50: Nek Nai O Panooty 1",
+   "tune": {
+    "english": "HCOC · 1"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-theotokias-conclusion-hcoc-1.json",
+     "bytes": 109,
+     "sha256": "c3d88cf90b38366cbeea3cf0538c560db22a82d271bb48a6b1285c19f8ecad72",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/adam-theotokias-conclusion-hcoc-1/audio.m4a",
+     "role": "audio",
+     "bytes": 3722826,
+     "sha256": "3e57986df4fadc8be3e89f69720d2afd5f6d8c28b26cbdd181e9e3563ae93c02"
+    }
+   ]
+  },
+  {
+   "id": "adam-theotokias-conclusion-hcoc-2",
+   "text": "adam-theotokias-conclusion",
+   "duration": 243.93,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 51: Nek Nai O Panooty 2",
+   "tune": {
+    "english": "HCOC · 2"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-theotokias-conclusion-hcoc-2.json",
+     "bytes": 109,
+     "sha256": "89e61ed5d126a68eb31028397bcd115261de3cf787a19ec7a34a25f618a98f04",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/adam-theotokias-conclusion-hcoc-2/audio.m4a",
+     "role": "audio",
+     "bytes": 3946999,
+     "sha256": "edfb74dcbf86ab672285e1926394fdf34dfc8e63d4d2025600d4196c2798a112"
     }
    ]
   },
@@ -8124,6 +8193,9 @@
     "of": 9
    },
    "source": "content/mahragan-keraza-2026/ms/level-1/lobsh-first-hoos/",
+   "tune": {
+    "english": "Mahragan 2026"
+   },
    "youtube": "https://www.youtube.com/watch?v=jFX-qC0LiBM",
    "files": [
     {
@@ -8137,6 +8209,35 @@
      "role": "audio",
      "bytes": 6184244,
      "sha256": "a154783dd42186176906ff23a420136dae58092aea5f387540d184a96fb015d6"
+    }
+   ]
+  },
+  {
+   "id": "lobsh-first-hoos-hcoc-minor",
+   "text": "lobsh-first-hoos",
+   "duration": 173.87,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 11: Khen Oo Shout (Minor)",
+   "tune": {
+    "english": "HCOC · Minor"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/lobsh-first-hoos-hcoc-minor.json",
+     "bytes": 93,
+     "sha256": "f3294019f6193c7573e48de3b0c4ef43c53370ab6cbac3221f79d43f17b6009d",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/lobsh-first-hoos-hcoc-minor/audio.m4a",
+     "role": "audio",
+     "bytes": 2814053,
+     "sha256": "13fd6f37260fb73eeaf7fd906e868c02f70636db16fc2cfddc72bd80b48b04c2"
     }
    ]
   },
@@ -8234,15 +8335,17 @@
   {
    "id": "morning-doxology",
    "text": "morning-doxology",
-   "duration": 1503.24,
+   "duration": 1111.77,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 64
    },
-   "source": "https://tasbeha.org/hymn_library/view/485",
-   "youtube": "https://youtu.be/tbreXiaMnmE",
-   "cantor": "Bola Mounir",
+   "source": "HCOC, Midnight Sunday Praises, track 55: Adam Morning Doxology",
+   "tune": {
+    "english": "HCOC"
+   },
+   "cantor": "HCOC",
    "files": [
     {
      "url": "catalog/v1/timings/morning-doxology.json",
@@ -8253,8 +8356,8 @@
     {
      "url": "content/hymns/morning-doxology/audio.m4a",
      "role": "audio",
-     "bytes": 24311981,
-     "sha256": "a5d41af9b5a74f63ea23eede9d546390b0b71cb2afe3b42cd5a25786825030cf"
+     "bytes": 17982191,
+     "sha256": "b6a3df1eae5b687a22054cd655a44deb6b2580039a85f9fd0deb85276fa6ec62"
     }
    ]
   },
@@ -10067,6 +10170,9 @@
     "of": 12
    },
    "source": "https://tasbeha.org/hymn_library/view/182",
+   "tune": {
+    "english": "Tasbeha"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh.json",
@@ -10109,6 +10215,35 @@
      "role": "audio",
      "bytes": 6620001,
      "sha256": "6c7b9127214c71ae63ee9606b5ff061265fe964c8647882edbc37e700b0778cf"
+    }
+   ]
+  },
+  {
+   "id": "second-hoos-lobsh-hcoc-minor",
+   "text": "second-hoos-lobsh",
+   "duration": 214.74,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
+   "tune": {
+    "english": "HCOC · Minor"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-hoos-lobsh-hcoc-minor.json",
+     "bytes": 95,
+     "sha256": "4e3d7742819d17316f43d6210f942355d881cd0d1c102e556da632e9a53debdb",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/second-hoos-lobsh-hcoc-minor/audio.m4a",
+     "role": "audio",
+     "bytes": 3474983,
+     "sha256": "47c2661a84e667da598c88ffd8ea2c0b707561a45abd993deb17aa8133ce854f"
     }
    ]
   },
@@ -10172,13 +10307,17 @@
   {
    "id": "semoti",
    "text": "semoti",
-   "duration": 1090.34,
+   "duration": 117.96,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 7
    },
-   "source": "https://tasbeha.org/hymn_library/view/452",
+   "source": "HCOC, Midnight Sunday Praises, track 38: Semooty (Minor)",
+   "tune": {
+    "english": "HCOC · Minor"
+   },
+   "cantor": "HCOC",
    "files": [
     {
      "url": "catalog/v1/timings/semoti.json",
@@ -10187,10 +10326,10 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/semoti/audio.mp3",
+     "url": "content/hymns/semoti/audio.m4a",
      "role": "audio",
-     "bytes": 17446661,
-     "sha256": "bf94f91cd460a1fa0d12a3dd873eaed8a9437d9a444918bc88c04ecf39c8256b"
+     "bytes": 1909786,
+     "sha256": "e2dfd2eb0dd793383be57ac49ebb0496033517a4b8744df82ec0436b61eb93bc"
     }
    ]
   },
@@ -10221,6 +10360,35 @@
      "role": "audio",
      "bytes": 1607410,
      "sha256": "ba683b22621b726c1916c231c4d4e4a67a60a83bfc5ec91c59c4d63f8efe78ba"
+    }
+   ]
+  },
+  {
+   "id": "semoti-hcoc-major",
+   "text": "semoti",
+   "duration": 789.52,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 37: Semooty (Major)",
+   "tune": {
+    "english": "HCOC · Major (melismatic)"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/semoti-hcoc-major.json",
+     "bytes": 73,
+     "sha256": "2675a9d1a8850ffad157ae2e9c6fcfea7b5ad1ee2cd010c4985d8c96cc7028cc",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/semoti-hcoc-major/audio.m4a",
+     "role": "audio",
+     "bytes": 12770623,
+     "sha256": "c5474ed65728a4c9699a2127528929150d49af0d3ff905e1d586666deb5e409f"
     }
    ]
   },
@@ -10344,13 +10512,17 @@
   {
    "id": "shere-ne-maria",
    "text": "shere-ne-maria",
-   "duration": 511.06,
+   "duration": 101.98,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 6
    },
-   "source": "https://tasbeha.org/hymn_library/view/139",
+   "source": "HCOC, Midnight Sunday Praises, track 36: Shere Ne Maria (Minor)",
+   "tune": {
+    "english": "HCOC · Minor"
+   },
+   "cantor": "HCOC",
    "files": [
     {
      "url": "catalog/v1/timings/shere-ne-maria.json",
@@ -10359,10 +10531,39 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/shere-ne-maria/audio.mp3",
+     "url": "content/hymns/shere-ne-maria/audio.m4a",
      "role": "audio",
-     "bytes": 8178092,
-     "sha256": "77aa591740c97edcc08778f73e1c749eee613e70ffb69b5ac93e76a58524941e"
+     "bytes": 1651429,
+     "sha256": "58959f77a713586ce9b2eb639ecc29665faf28a9ecf233ef1d0437b40f8651a1"
+    }
+   ]
+  },
+  {
+   "id": "shere-ne-maria-hcoc-major",
+   "text": "shere-ne-maria",
+   "duration": 381.78,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 35: Shere Ne Maria (Major)",
+   "tune": {
+    "english": "HCOC · Major (melismatic)"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/shere-ne-maria-hcoc-major.json",
+     "bytes": 89,
+     "sha256": "ca29b550eb93645da859f38622d7b3ef84cf30d0a84fd19b06051238de948404",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/shere-ne-maria-hcoc-major/audio.m4a",
+     "role": "audio",
+     "bytes": 6176464,
+     "sha256": "d8546321723c08dd2fbfd63ca99fae6a8fe4caeb145c78ec1b0669d940e527d7"
     }
    ]
   },
@@ -11344,26 +11545,30 @@
   {
    "id": "tennav",
    "text": "tennav",
-   "duration": 520.95,
+   "duration": 451.98,
    "timing": {
-    "lines": 1,
-    "words": 1,
+    "lines": 0,
+    "words": 0,
     "of": 9
    },
-   "source": "https://tasbeha.org/hymn_library/view/104",
+   "source": "HCOC, Midnight Sunday Praises, track 06: Tennav",
+   "tune": {
+    "english": "HCOC"
+   },
+   "cantor": "HCOC",
    "kind": "recital",
    "files": [
     {
      "url": "catalog/v1/timings/tennav.json",
-     "bytes": 3849,
-     "sha256": "97c45dd8c97720e38597872d302389be2655210240a6c7e9152256234408bcd7",
+     "bytes": 62,
+     "sha256": "7d195e9de590aa45bca1a25462ba8354781bc1ae459b81ccd0eb3d4550c367dc",
      "role": "timing"
     },
     {
-     "url": "content/hymns/tennav/audio.mp3",
+     "url": "content/hymns/tennav/audio.m4a",
      "role": "audio",
-     "bytes": 8336406,
-     "sha256": "4c394a0a8c23a2e42b450e437bd95fbbb853bce97ecf5de1c5e5ad27de72c133"
+     "bytes": 7311711,
+     "sha256": "b14e885083b6644bbbbebeb979903d7f00b419a3db6a2fc16f4248f5b46b7374"
     }
    ]
   },
@@ -11407,6 +11612,9 @@
     "of": 6
    },
    "source": "content/mahragan-keraza-2026/hs/level-2/tenoue-n-khok/",
+   "tune": {
+    "english": "Mahragan 2026"
+   },
    "youtube": "https://www.youtube.com/watch?v=Dz2euPbaW_Y",
    "files": [
     {
@@ -11450,6 +11658,64 @@
      "role": "audio",
      "bytes": 3704734,
      "sha256": "955b72cecc16a490675807b9da7a1696fcea039abd4d96a2c59f2b22519701b1"
+    }
+   ]
+  },
+  {
+   "id": "tenoue-n-khok-hcoc-medium",
+   "text": "tenoue-n-khok",
+   "duration": 235.45,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 24: Ten Oeh Ensouk (Medium)",
+   "tune": {
+    "english": "HCOC · Medium"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenoue-n-khok-hcoc-medium.json",
+     "bytes": 88,
+     "sha256": "8432481c1a9c564eb79d517be3527124712d115a75ef46afcd36a6cd7a0fe7ca",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/tenoue-n-khok-hcoc-medium/audio.m4a",
+     "role": "audio",
+     "bytes": 3809946,
+     "sha256": "643d40daf7f67f33e76ccfef554b1ede21e306dc8cf44c65dbecaa759d1f6ad6"
+    }
+   ]
+  },
+  {
+   "id": "tenoue-n-khok-hcoc-minor",
+   "text": "tenoue-n-khok",
+   "duration": 172.8,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "HCOC, Midnight Sunday Praises, track 25: Ten Oeh Ensouk (Minor)",
+   "tune": {
+    "english": "HCOC · Minor"
+   },
+   "cantor": "HCOC",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenoue-n-khok-hcoc-minor.json",
+     "bytes": 87,
+     "sha256": "703918981bb146e2c38ba275996454f9a628eeda54f321a0ebab6c8be0c04a9c",
+     "role": "timing"
+    },
+    {
+     "url": "content/hcoc/tenoue-n-khok-hcoc-minor/audio.m4a",
+     "role": "audio",
+     "bytes": 2796779,
+     "sha256": "eb79f6c2f78a71f97c201b6cc38b0a3bb35a19e7e0211598c92dcd34d056f72c"
     }
    ]
   },

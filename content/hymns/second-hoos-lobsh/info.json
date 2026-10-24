@@ -6,12 +6,7 @@
     "arabic": "لبش الهوس الثاني"
   },
   "source": "https://tasbeha.org/hymn_library/view/182",
-  "places": [
-    "annual/midnight-praises"
-  ],
-  "order": 70,
-  "kind": "both",
-  "group": {
-    "english": "Canticles"
+  "tune": {
+    "english": "Tasbeha"
   }
 }

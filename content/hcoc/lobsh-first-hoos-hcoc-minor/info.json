@@ -1,0 +1,19 @@
+{
+  "titles": {
+    "english": "Lobsh of First Hoos (HCOC Minor)"
+  },
+  "text": "lobsh-first-hoos",
+  "tune": {
+    "english": "HCOC · Minor"
+  },
+  "cantor": "HCOC",
+  "source": "HCOC, Midnight Sunday Praises, track 11: Khen Oo Shout (Minor)",
+  "places": [
+    "annual/midnight-praises"
+  ],
+  "order": 55,
+  "group": {
+    "english": "Canticles"
+  },
+  "kind": "both"
+}

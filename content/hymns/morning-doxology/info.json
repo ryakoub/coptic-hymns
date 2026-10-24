@@ -5,18 +5,20 @@
     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫⲓⲱⲧ",
     "arabic": "ذكصولوجية باكر"
   },
-  "source": "https://tasbeha.org/hymn_library/view/485",
+  "source": "HCOC, Midnight Sunday Praises, track 55: Adam Morning Doxology",
   "places": [
     "annual/morning-praises"
   ],
   "order": 10,
-  "youtube": "https://youtu.be/tbreXiaMnmE",
-  "cantor": "Bola Mounir",
+  "cantor": "HCOC",
   "links": [
     {
       "site": "Coptic Hymns in English",
       "title": "Morning Doxology",
       "url": "https://www.coptichymnsinenglish.com/album/4/track/701"
     }
-  ]
+  ],
+  "tune": {
+    "english": "HCOC"
+  }
 }

@@ -4,7 +4,7 @@
     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
     "arabic": "القطعة السابعة - شيري نيه ماريا"
   },
-  "source": "https://tasbeha.org/hymn_library/view/139",
+  "source": "HCOC, Midnight Sunday Praises, track 36: Shere Ne Maria (Minor)",
   "places": [
     "annual/midnight-praises"
   ],
@@ -19,5 +19,9 @@
   "kind": "both",
   "group": {
     "english": "Theotokia"
+  },
+  "cantor": "HCOC",
+  "tune": {
+    "english": "HCOC · Minor"
   }
 }

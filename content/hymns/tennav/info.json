@@ -4,7 +4,7 @@
     "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
     "arabic": "لحن القيامة - تينناف"
   },
-  "source": "https://tasbeha.org/hymn_library/view/104",
+  "source": "HCOC, Midnight Sunday Praises, track 06: Tennav",
   "places": [
     "annual/midnight-praises"
   ],
@@ -19,5 +19,9 @@
   "kind": "recital",
   "group": {
     "english": "Intro"
+  },
+  "cantor": "HCOC",
+  "tune": {
+    "english": "HCOC"
   }
 }

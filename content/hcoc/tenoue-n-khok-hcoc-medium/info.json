@@ -1,0 +1,19 @@
+{
+  "titles": {
+    "english": "Tenoueh Ensok (We Follow You) (HCOC Medium)"
+  },
+  "text": "tenoue-n-khok",
+  "tune": {
+    "english": "HCOC · Medium"
+  },
+  "cantor": "HCOC",
+  "source": "HCOC, Midnight Sunday Praises, track 24: Ten Oeh Ensouk (Medium)",
+  "places": [
+    "annual/midnight-praises"
+  ],
+  "order": 100,
+  "group": {
+    "english": "Canticles"
+  },
+  "kind": "both"
+}

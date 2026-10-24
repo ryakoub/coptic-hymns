@@ -4,7 +4,7 @@
     "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
     "arabic": "القطعة السابعة - سيموتي"
   },
-  "source": "https://tasbeha.org/hymn_library/view/452",
+  "source": "HCOC, Midnight Sunday Praises, track 38: Semooty (Minor)",
   "places": [
     "annual/midnight-praises"
   ],
@@ -19,5 +19,9 @@
   "kind": "both",
   "group": {
     "english": "Theotokia"
+  },
+  "cantor": "HCOC",
+  "tune": {
+    "english": "HCOC · Minor"
   }
 }
