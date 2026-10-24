@@ -1,6 +1,6 @@
 {
- "version": "83830063d13a89ad",
- "updated": "2026-10-24T01:42:22Z",
+ "version": "21e5282d00f82098",
+ "updated": "2026-10-24T01:54:46Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -67,7 +67,6 @@
        },
        "entries": [
         "ten-theeno",
-        "ten-thinou",
         "tennav",
         "first-hoos",
         "lobsh-first-hoos",
@@ -100,9 +99,7 @@
         "sunday-theotokia-15",
         "nim-ghar",
         "adam-theotokias-conclusion",
-        "conclusion-midnight-praises",
-        "psalm-150-4th-hoos",
-        "gospel-luke"
+        "conclusion-midnight-praises"
        ],
        "groups": [
         {
@@ -113,7 +110,6 @@
          },
          "recordings": [
           "ten-theeno",
-          "ten-thinou",
           "tennav"
          ]
         },
