@@ -19,10 +19,10 @@ and can describe its tune with "style" (major, medium, minor), "mode" (annual, f
 and "kind" (recital, melismatic). "language": "english" (or "arabic") marks a recording sung in that
 language: its word timings follow the line's sung text in it ("sung": {"english": …}), or else its translation.
 
-A folder places itself in the library with "places": ["resurrection/liturgy", "praises/midnight-praises"]
+A folder places itself in the library with "places": ["resurrection/liturgy", "annual/midnight-praises"]
 (collection id / service or section id, as in catalog/library.json; an unambiguous part of the section
-id is enough, e.g. "praises/midnight"). "order": 10 sets its position in those sections (lower first);
-for a different position per place, write {"place": "praises/midnight", "order": 10}. Numbered hymns
+id is enough, e.g. "annual/midnight"). "order": 10 sets its position in those sections (lower first);
+for a different position per place, write {"place": "annual/midnight-praises", "order": 10}. Numbered hymns
 come first in their order, then the rest alphabetically, all after any listed in library.json.
 
 Usage:
@@ -407,7 +407,7 @@ class Build:
                 s.pop("groups", None)
 
     def short_place(self, place, sections, rid):
-        """Accept an unambiguous short form: "praises/midnight" for "praises/midnight-praises"."""
+        """Accept an unambiguous short form: "annual/midnight" for "annual/midnight-praises"."""
         collection, _, part = place.partition("/")
         matches = [k for k in sections if k.startswith(collection + "/") and part and part in k.split("/", 1)[1]]
         if len(matches) == 1:
@@ -422,6 +422,12 @@ class Build:
         used = set()
         for g in library["groups"]:
             for c in g["collections"]:
+                # "parts": headings over some of a collection's sections (Regular Tune's Praises and Liturgy).
+                keys = {s.get("service") or s.get("id") for s in c.get("sections", [])}
+                for part in c.get("parts", []):
+                    for k in part.get("sections", []) + part.get("inline", []):
+                        if k not in keys:
+                            self.error(c["id"], f"part {part.get('id')} names section {k}, which it doesn't have")
                 for s in c.get("sections", []):
                     where = f"{c['id']} / {s.get('service') or s.get('id')}"
                     for e in s.get("entries", []):

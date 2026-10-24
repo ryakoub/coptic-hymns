@@ -41,11 +41,142 @@
     {
      "id": "annual",
      "titles": {
-      "english": "Annual",
+      "english": "Regular Tune",
       "arabic": "السنوي"
      },
      "dates": null,
      "sections": [
+      {
+       "id": "vesper-praises",
+       "titles": {
+        "english": "Vesper Praises",
+        "arabic": "تسبحة عشية"
+       },
+       "entries": []
+      },
+      {
+       "id": "midnight-praises",
+       "titles": {
+        "english": "Midnight Praises",
+        "arabic": "تسبحة نصف الليل"
+       },
+       "entries": [],
+       "groups": [
+        {
+         "id": "intro",
+         "titles": {
+          "english": "Intro",
+          "arabic": "المقدمة"
+         }
+        },
+        {
+         "id": "canticles",
+         "titles": {
+          "english": "Canticles",
+          "arabic": "الهوسات"
+         }
+        },
+        {
+         "id": "saints",
+         "titles": {
+          "english": "Saints",
+          "arabic": "القديسين"
+         }
+        },
+        {
+         "id": "psalis",
+         "titles": {
+          "english": "Psalis",
+          "arabic": "الإبصاليات"
+         }
+        },
+        {
+         "id": "theotokia",
+         "titles": {
+          "english": "Theotokia",
+          "arabic": "الثيؤطوكيات"
+         }
+        },
+        {
+         "id": "conclusion",
+         "titles": {
+          "english": "Conclusion",
+          "arabic": "الختام"
+         }
+        }
+       ]
+      },
+      {
+       "id": "morning-praises",
+       "titles": {
+        "english": "Morning Praises",
+        "arabic": "تسبحة باكر"
+       },
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ],
+     "parts": [
+      {
+       "id": "praises",
+       "titles": {
+        "english": "Praises",
+        "arabic": "التسبحة"
+       },
+       "sections": [
+        "vesper-praises",
+        "midnight-praises",
+        "morning-praises"
+       ]
+      },
+      {
+       "id": "liturgy",
+       "titles": {
+        "english": "Liturgy",
+        "arabic": "القداس"
+       },
+       "sections": [
+        "raising-of-incense",
+        "liturgy"
+       ],
+       "inline": [
+        "liturgy"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "feasts",
+   "titles": {
+    "english": "Feasts",
+    "arabic": "الأعياد"
+   },
+   "collections": [
+    {
+     "id": "common-hymns",
+     "titles": {
+      "english": "Common hymns",
+      "arabic": "ألحان عامة"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
       {
        "service": "raising-of-incense",
        "entries": []
@@ -99,54 +230,6 @@
       }
      ]
     },
-    {
-     "id": "kiahk",
-     "titles": {
-      "english": "Kiahk",
-      "arabic": "كيهك"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        4,
-        1
-       ]
-      },
-      "to": {
-       "coptic": [
-        4,
-        28
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "feasts",
-   "titles": {
-    "english": "Feasts",
-    "arabic": "الأعياد"
-   },
-   "collections": [
     {
      "id": "feast-of-the-cross",
      "titles": {
@@ -595,6 +678,45 @@
      ]
     },
     {
+     "id": "kiahk",
+     "titles": {
+      "english": "Kiahk",
+      "arabic": "كيهك"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        1
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
      "id": "jonahs-fast",
      "titles": {
       "english": "Jonah's Fast",
@@ -661,146 +783,6 @@
      ]
     },
     {
-     "id": "apostles-fast",
-     "titles": {
-      "english": "Apostles' Fast",
-      "arabic": "صوم الرسل"
-     },
-     "dates": {
-      "from": {
-       "easter": 50
-      },
-      "to": {
-       "coptic": [
-        11,
-        4
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "praises",
-   "titles": {
-    "english": "Praises",
-    "arabic": "التسبحة"
-   },
-   "collections": [
-    {
-     "id": "praises",
-     "titles": {
-      "english": "Praises (Psalmody)",
-      "arabic": "التسبحة"
-     },
-     "dates": null,
-     "sections": [
-      {
-       "id": "vesper-praises",
-       "titles": {
-        "english": "Vesper Praises",
-        "arabic": "تسبحة عشية"
-       },
-       "entries": []
-      },
-      {
-       "id": "midnight-praises",
-       "titles": {
-        "english": "Midnight Praises",
-        "arabic": "تسبحة نصف الليل"
-       },
-       "entries": [],
-       "groups": [
-        {
-         "id": "intro",
-         "titles": {
-          "english": "Intro",
-          "arabic": "المقدمة"
-         }
-        },
-        {
-         "id": "canticles",
-         "titles": {
-          "english": "Canticles",
-          "arabic": "الهوسات"
-         }
-        },
-        {
-         "id": "saints",
-         "titles": {
-          "english": "Saints",
-          "arabic": "القديسين"
-         }
-        },
-        {
-         "id": "psalis",
-         "titles": {
-          "english": "Psalis",
-          "arabic": "الإبصاليات"
-         }
-        },
-        {
-         "id": "theotokia",
-         "titles": {
-          "english": "Theotokia",
-          "arabic": "الثيؤطوكيات"
-         }
-        },
-        {
-         "id": "conclusion",
-         "titles": {
-          "english": "Conclusion",
-          "arabic": "الختام"
-         }
-        }
-       ]
-      },
-      {
-       "id": "morning-praises",
-       "titles": {
-        "english": "Morning Praises",
-        "arabic": "تسبحة باكر"
-       },
-       "entries": []
-      },
-      {
-       "id": "special",
-       "titles": {
-        "english": "Special hymns",
-        "arabic": "ألحان خاصة"
-       },
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "special-seasons",
-   "titles": {
-    "english": "Special seasons",
-    "arabic": "مواسم خاصة"
-   },
-   "collections": [
-    {
      "id": "holy-week",
      "titles": {
       "english": "Holy Week",
@@ -848,23 +830,24 @@
        "entries": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "id": "common",
-   "titles": {
-    "english": "Common hymns",
-    "arabic": "ألحان عامة"
-   },
-   "collections": [
+    },
     {
-     "id": "common-hymns",
+     "id": "apostles-fast",
      "titles": {
-      "english": "Common hymns",
-      "arabic": "ألحان عامة"
+      "english": "Apostles' Fast",
+      "arabic": "صوم الرسل"
      },
-     "dates": null,
+     "dates": {
+      "from": {
+       "easter": 50
+      },
+      "to": {
+       "coptic": [
+        11,
+        4
+       ]
+      }
+     },
      "sections": [
       {
        "service": "midnight-praises",
@@ -889,8 +872,8 @@
   {
    "id": "occasions",
    "titles": {
-    "english": "Occasions",
-    "arabic": "مناسبات"
+    "english": "Other occasions",
+    "arabic": "مناسبات أخرى"
    },
    "collections": [
     {

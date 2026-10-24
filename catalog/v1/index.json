@@ -1,6 +1,6 @@
 {
- "version": "481a1f9cfe9e215c",
- "updated": "2026-10-24T00:21:08Z",
+ "version": "53d4f17962c59757",
+ "updated": "2026-10-24T01:12:12Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -44,11 +44,168 @@
     {
      "id": "annual",
      "titles": {
-      "english": "Annual",
+      "english": "Regular Tune",
       "arabic": "السنوي"
      },
      "dates": null,
      "sections": [
+      {
+       "id": "vesper-praises",
+       "titles": {
+        "english": "Vesper Praises",
+        "arabic": "تسبحة عشية"
+       },
+       "entries": [
+        "ni-ethnos-tero"
+       ]
+      },
+      {
+       "id": "midnight-praises",
+       "titles": {
+        "english": "Midnight Praises",
+        "arabic": "تسبحة نصف الليل"
+       },
+       "entries": [
+        "ten-theeno",
+        "ten-thinou",
+        "tennav",
+        "first-hoos",
+        "lobsh-first-hoos",
+        "second-hoos",
+        "second-hoos-lobsh",
+        "third-hoos",
+        "aripalin",
+        "tenoue-n-khok",
+        "fourth-hoos",
+        "commemoration-of-saints",
+        "doxology-virgin-midnight",
+        "first-sunday-psali",
+        "second-sunday-psali",
+        "leepon",
+        "semoti",
+        "sunday-theotokia-1",
+        "sunday-theotokia-2",
+        "sunday-theotokia-3",
+        "sunday-theotokia-4",
+        "sunday-theotokia-5",
+        "sunday-theotokia-6",
+        "shere-ne-maria",
+        "shashf-ensop",
+        "sunday-theotokia-9",
+        "teoi-enhekanos",
+        "sunday-theotokia-11",
+        "sunday-theotokia-12",
+        "sunday-theotokia-13",
+        "sunday-theotokia-14",
+        "sunday-theotokia-15",
+        "nim-ghar",
+        "adam-theotokias-conclusion",
+        "conclusion-midnight-praises",
+        "psalm-150-4th-hoos",
+        "gospel-luke"
+       ],
+       "groups": [
+        {
+         "id": "intro",
+         "titles": {
+          "english": "Intro",
+          "arabic": "المقدمة"
+         },
+         "recordings": [
+          "ten-theeno",
+          "ten-thinou",
+          "tennav"
+         ]
+        },
+        {
+         "id": "canticles",
+         "titles": {
+          "english": "Canticles",
+          "arabic": "الهوسات"
+         },
+         "recordings": [
+          "first-hoos",
+          "lobsh-first-hoos",
+          "second-hoos",
+          "second-hoos-lobsh",
+          "third-hoos",
+          "aripalin",
+          "tenoue-n-khok",
+          "fourth-hoos"
+         ]
+        },
+        {
+         "id": "saints",
+         "titles": {
+          "english": "Saints",
+          "arabic": "القديسين"
+         },
+         "recordings": [
+          "commemoration-of-saints",
+          "doxology-virgin-midnight"
+         ]
+        },
+        {
+         "id": "psalis",
+         "titles": {
+          "english": "Psalis",
+          "arabic": "الإبصاليات"
+         },
+         "recordings": [
+          "first-sunday-psali",
+          "second-sunday-psali"
+         ]
+        },
+        {
+         "id": "theotokia",
+         "titles": {
+          "english": "Theotokia",
+          "arabic": "الثيؤطوكيات"
+         },
+         "recordings": [
+          "leepon",
+          "semoti",
+          "sunday-theotokia-1",
+          "sunday-theotokia-2",
+          "sunday-theotokia-3",
+          "sunday-theotokia-4",
+          "sunday-theotokia-5",
+          "sunday-theotokia-6",
+          "shere-ne-maria",
+          "shashf-ensop",
+          "sunday-theotokia-9",
+          "teoi-enhekanos",
+          "sunday-theotokia-11",
+          "sunday-theotokia-12",
+          "sunday-theotokia-13",
+          "sunday-theotokia-14",
+          "sunday-theotokia-15",
+          "nim-ghar"
+         ]
+        },
+        {
+         "id": "conclusion",
+         "titles": {
+          "english": "Conclusion",
+          "arabic": "الختام"
+         },
+         "recordings": [
+          "adam-theotokias-conclusion",
+          "conclusion-midnight-praises"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "morning-praises",
+       "titles": {
+        "english": "Morning Praises",
+        "arabic": "تسبحة باكر"
+       },
+       "entries": [
+        "morning-doxology"
+       ]
+      },
       {
        "service": "raising-of-incense",
        "entries": [
@@ -258,7 +415,36 @@
        "service": "special",
        "entries": [
         "aspazisti",
+        "ti-galilee",
         "ti-stoli"
+       ]
+      }
+     ],
+     "parts": [
+      {
+       "id": "praises",
+       "titles": {
+        "english": "Praises",
+        "arabic": "التسبحة"
+       },
+       "sections": [
+        "vesper-praises",
+        "midnight-praises",
+        "morning-praises"
+       ]
+      },
+      {
+       "id": "liturgy",
+       "titles": {
+        "english": "Liturgy",
+        "arabic": "القداس"
+       },
+       "sections": [
+        "raising-of-incense",
+        "liturgy"
+       ],
+       "inline": [
+        "liturgy"
        ]
       }
      ],
@@ -266,7 +452,47 @@
       "alli-el-korban",
       "hymn-of-the-blessing",
       "tai-shouri-annual",
+      "ten-theeno",
       "ti-shouri-annual"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "feasts",
+   "titles": {
+    "english": "Feasts",
+    "arabic": "الأعياد"
+   },
+   "collections": [
+    {
+     "id": "common-hymns",
+     "titles": {
+      "english": "Common hymns",
+      "arabic": "ألحان عامة"
+     },
+     "dates": null,
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ],
+     "notations": [
+      "seven-tunes-1",
+      "seven-tunes-2"
      ]
     },
     {
@@ -308,54 +534,6 @@
       }
      ]
     },
-    {
-     "id": "kiahk",
-     "titles": {
-      "english": "Kiahk",
-      "arabic": "كيهك"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        4,
-        1
-       ]
-      },
-      "to": {
-       "coptic": [
-        4,
-        28
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "feasts",
-   "titles": {
-    "english": "Feasts",
-    "arabic": "الأعياد"
-   },
-   "collections": [
     {
      "id": "feast-of-the-cross",
      "titles": {
@@ -864,6 +1042,45 @@
      ]
     },
     {
+     "id": "kiahk",
+     "titles": {
+      "english": "Kiahk",
+      "arabic": "كيهك"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        1
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
      "id": "jonahs-fast",
      "titles": {
       "english": "Jonah's Fast",
@@ -930,242 +1147,6 @@
      ]
     },
     {
-     "id": "apostles-fast",
-     "titles": {
-      "english": "Apostles' Fast",
-      "arabic": "صوم الرسل"
-     },
-     "dates": {
-      "from": {
-       "easter": 50
-      },
-      "to": {
-       "coptic": [
-        11,
-        4
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": [
-        "second-doxology-apostles"
-       ]
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "praises",
-   "titles": {
-    "english": "Praises",
-    "arabic": "التسبحة"
-   },
-   "collections": [
-    {
-     "id": "praises",
-     "titles": {
-      "english": "Praises (Psalmody)",
-      "arabic": "التسبحة"
-     },
-     "dates": null,
-     "sections": [
-      {
-       "id": "vesper-praises",
-       "titles": {
-        "english": "Vesper Praises",
-        "arabic": "تسبحة عشية"
-       },
-       "entries": [
-        "ni-ethnos-tero"
-       ]
-      },
-      {
-       "id": "midnight-praises",
-       "titles": {
-        "english": "Midnight Praises",
-        "arabic": "تسبحة نصف الليل"
-       },
-       "entries": [
-        "ten-theeno",
-        "ten-thinou",
-        "tennav",
-        "first-hoos",
-        "lobsh-first-hoos",
-        "second-hoos",
-        "second-hoos-lobsh",
-        "third-hoos",
-        "aripalin",
-        "tenoue-n-khok",
-        "fourth-hoos",
-        "commemoration-of-saints",
-        "doxology-virgin-midnight",
-        "first-sunday-psali",
-        "second-sunday-psali",
-        "leepon",
-        "semoti",
-        "sunday-theotokia-1",
-        "sunday-theotokia-2",
-        "sunday-theotokia-3",
-        "sunday-theotokia-4",
-        "sunday-theotokia-5",
-        "sunday-theotokia-6",
-        "shere-ne-maria",
-        "shashf-ensop",
-        "sunday-theotokia-9",
-        "teoi-enhekanos",
-        "sunday-theotokia-11",
-        "sunday-theotokia-12",
-        "sunday-theotokia-13",
-        "sunday-theotokia-14",
-        "sunday-theotokia-15",
-        "nim-ghar",
-        "adam-theotokias-conclusion",
-        "conclusion-midnight-praises",
-        "psalm-150-4th-hoos",
-        "gospel-luke"
-       ],
-       "groups": [
-        {
-         "id": "intro",
-         "titles": {
-          "english": "Intro",
-          "arabic": "المقدمة"
-         },
-         "recordings": [
-          "ten-theeno",
-          "ten-thinou",
-          "tennav"
-         ]
-        },
-        {
-         "id": "canticles",
-         "titles": {
-          "english": "Canticles",
-          "arabic": "الهوسات"
-         },
-         "recordings": [
-          "first-hoos",
-          "lobsh-first-hoos",
-          "second-hoos",
-          "second-hoos-lobsh",
-          "third-hoos",
-          "aripalin",
-          "tenoue-n-khok",
-          "fourth-hoos"
-         ]
-        },
-        {
-         "id": "saints",
-         "titles": {
-          "english": "Saints",
-          "arabic": "القديسين"
-         },
-         "recordings": [
-          "commemoration-of-saints",
-          "doxology-virgin-midnight"
-         ]
-        },
-        {
-         "id": "psalis",
-         "titles": {
-          "english": "Psalis",
-          "arabic": "الإبصاليات"
-         },
-         "recordings": [
-          "first-sunday-psali",
-          "second-sunday-psali"
-         ]
-        },
-        {
-         "id": "theotokia",
-         "titles": {
-          "english": "Theotokia",
-          "arabic": "الثيؤطوكيات"
-         },
-         "recordings": [
-          "leepon",
-          "semoti",
-          "sunday-theotokia-1",
-          "sunday-theotokia-2",
-          "sunday-theotokia-3",
-          "sunday-theotokia-4",
-          "sunday-theotokia-5",
-          "sunday-theotokia-6",
-          "shere-ne-maria",
-          "shashf-ensop",
-          "sunday-theotokia-9",
-          "teoi-enhekanos",
-          "sunday-theotokia-11",
-          "sunday-theotokia-12",
-          "sunday-theotokia-13",
-          "sunday-theotokia-14",
-          "sunday-theotokia-15",
-          "nim-ghar"
-         ]
-        },
-        {
-         "id": "conclusion",
-         "titles": {
-          "english": "Conclusion",
-          "arabic": "الختام"
-         },
-         "recordings": [
-          "adam-theotokias-conclusion",
-          "conclusion-midnight-praises"
-         ]
-        }
-       ]
-      },
-      {
-       "id": "morning-praises",
-       "titles": {
-        "english": "Morning Praises",
-        "arabic": "تسبحة باكر"
-       },
-       "entries": [
-        "morning-doxology"
-       ]
-      },
-      {
-       "id": "special",
-       "titles": {
-        "english": "Special hymns",
-        "arabic": "ألحان خاصة"
-       },
-       "entries": [
-        "ti-galilee"
-       ]
-      }
-     ],
-     "notations": [
-      "ten-theeno"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "special-seasons",
-   "titles": {
-    "english": "Special seasons",
-    "arabic": "مواسم خاصة"
-   },
-   "collections": [
-    {
      "id": "holy-week",
      "titles": {
       "english": "Holy Week",
@@ -1218,23 +1199,24 @@
        "entries": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "id": "common",
-   "titles": {
-    "english": "Common hymns",
-    "arabic": "ألحان عامة"
-   },
-   "collections": [
+    },
     {
-     "id": "common-hymns",
+     "id": "apostles-fast",
      "titles": {
-      "english": "Common hymns",
-      "arabic": "ألحان عامة"
+      "english": "Apostles' Fast",
+      "arabic": "صوم الرسل"
      },
-     "dates": null,
+     "dates": {
+      "from": {
+       "easter": 50
+      },
+      "to": {
+       "coptic": [
+        11,
+        4
+       ]
+      }
+     },
      "sections": [
       {
        "service": "midnight-praises",
@@ -1242,7 +1224,9 @@
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "second-doxology-apostles"
+       ]
       },
       {
        "service": "liturgy",
@@ -1252,10 +1236,6 @@
        "service": "special",
        "entries": []
       }
-     ],
-     "notations": [
-      "seven-tunes-1",
-      "seven-tunes-2"
      ]
     }
    ]
@@ -1263,8 +1243,8 @@
   {
    "id": "occasions",
    "titles": {
-    "english": "Occasions",
-    "arabic": "مناسبات"
+    "english": "Other occasions",
+    "arabic": "مناسبات أخرى"
    },
    "collections": [
     {

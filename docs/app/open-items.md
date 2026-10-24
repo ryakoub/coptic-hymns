@@ -87,7 +87,7 @@ No need to fill a big table. Whenever you work on a hymn, open its `info.json` (
 | Line | What it does |
 |---|---|
 | `places` | Where the hymn appears in the library. List as many as apply. |
-| `order` | Its position in those places, lower first (e.g. `30`). Use steps of 10 so hymns can go in between. For a different position per place: `"places": [{"place": "praises/midnight", "order": 30}]` |
+| `order` | Its position in those places, lower first (e.g. `30`). Use steps of 10 so hymns can go in between. For a different position per place: `"places": [{"place": "annual/midnight-praises", "order": 30}]` |
 | `kind` | `recital` or `melismatic` |
 | `style` | `major`, `medium` or `minor` |
 | `mode` | `annual`, `festal`, `lenten`, `joyful`… |
@@ -123,7 +123,7 @@ Keep the existing lines (`title`, `youtube`, `titles`) as they are.
 - Apostles' Fast: `apostles-fast/midnight-praises`, `apostles-fast/raising-of-incense`, `apostles-fast/liturgy`, `apostles-fast/special`
 
 **Praises**
-- Praises (Psalmody): `praises/vesper-praises`, `praises/midnight-praises`, `praises/morning-praises`
+- Praises (Psalmody), under Regular Tune: `annual/vesper-praises`, `annual/midnight-praises`, `annual/morning-praises`
 
 **Special seasons**
 - Holy Week: `holy-week/palm-sunday-evening`, `holy-week/monday`, `holy-week/tuesday`, `holy-week/wednesday`, `holy-week/thursday`, `holy-week/friday`

@@ -16,7 +16,7 @@ One row per recording (a hymn folder). Columns:
   english, coptic, arabic
               the titles; a tune or language takes its titles from its text, so edit them on that row
   places      where it appears, separated by ";", e.g. "annual/liturgy; holy-week/hymns"
-              (collection/section, as in catalog/library.json; "praises/midnight" is short for "praises/midnight-praises").
+              (collection/section, as in catalog/library.json; "annual/midnight" is short for "annual/midnight-praises").
               "annual/liturgy@30" puts it at position 30 in that place only.
   order       its position in its places, lower first (steps of 10 leave room in between)
   group       its sub-folder within its places, e.g. "Hoos" or "Hoos | الهوسات" (English | Arabic); hymns with the same

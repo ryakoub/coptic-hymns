@@ -5,7 +5,7 @@ and optionally an English recording, ready to time with the Pencil in the Coptic
   python3 tools/add_hymn.py TASBEHA_HYMN_URL --list
       shows the hymn's verses and the recordings Tasbeha lists for it (with their ids)
 
-  python3 tools/add_hymn.py TASBEHA_HYMN_URL --id second-hoos --place praises/midnight --order 50 \\
+  python3 tools/add_hymn.py TASBEHA_HYMN_URL --id second-hoos --place annual/midnight-praises --order 50 \\
       --coptic AUDIO [--english AUDIO] [--kind recital]
 
 AUDIO can be:
@@ -193,7 +193,7 @@ def main():
     ap.add_argument("url", help="Tasbeha hymn page, e.g. https://tasbeha.org/hymn_library/view/106")
     ap.add_argument("--list", action="store_true", help="show the hymn's text and recordings, change nothing")
     ap.add_argument("--id", help="folder name for the hymn, e.g. second-hoos")
-    ap.add_argument("--place", action="append", default=[], help="library place, e.g. praises/midnight (repeatable)")
+    ap.add_argument("--place", action="append", default=[], help="library place, e.g. annual/midnight-praises (repeatable)")
     ap.add_argument("--order", type=int, help="position within its places, e.g. 50")
     ap.add_argument("--kind", choices=["recital", "melismatic"])
     ap.add_argument("--coptic", help="the Coptic recording (see AUDIO above)")

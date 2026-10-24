@@ -14,7 +14,7 @@ Shows the titles, how many verses, the first lines, and the recordings Tasbeha l
 
 ```
 python3 tools/add_hymn.py https://tasbeha.org/hymn_library/view/106 \
-    --id second-hoos --place praises/midnight --order 60 --kind recital \
+    --id second-hoos --place annual/midnight-praises --order 60 --kind recital \
     --coptic mid:10791 \
     --english "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html#6"
 ```
