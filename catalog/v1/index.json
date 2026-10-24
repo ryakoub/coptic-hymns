@@ -1,6 +1,6 @@
 {
- "version": "c14e2dd560449739",
- "updated": "2026-10-24T03:29:16Z",
+ "version": "954b8334cf1bafe1",
+ "updated": "2026-10-24T03:43:43Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5246,11 +5246,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 50: Nek Nai O Panooty 1",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 50: Nek Nai O Panooty 1",
    "tune": {
     "english": "HCOC · 1"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion-hcoc-1.json",
@@ -5275,11 +5275,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 51: Nek Nai O Panooty 2",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 51: Nek Nai O Panooty 2",
    "tune": {
     "english": "HCOC · 2"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion-hcoc-2.json",
@@ -8221,11 +8221,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 11: Khen Oo Shout (Minor)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 11: Khen Oo Shout (Minor)",
    "tune": {
     "english": "HCOC · Minor"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/lobsh-first-hoos-hcoc-minor.json",
@@ -8341,11 +8341,11 @@
     "words": 0,
     "of": 64
    },
-   "source": "HCOC, Midnight Sunday Praises, track 55: Adam Morning Doxology",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 55: Adam Morning Doxology",
    "tune": {
     "english": "HCOC"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/morning-doxology.json",
@@ -10227,11 +10227,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
    "tune": {
     "english": "HCOC · Minor"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh-hcoc-minor.json",
@@ -10313,11 +10313,11 @@
     "words": 0,
     "of": 7
    },
-   "source": "HCOC, Midnight Sunday Praises, track 38: Semooty (Minor)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 38: Semooty (Minor)",
    "tune": {
     "english": "HCOC · Minor"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/semoti.json",
@@ -10372,11 +10372,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 37: Semooty (Major)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 37: Semooty (Major)",
    "tune": {
     "english": "HCOC · Major (melismatic)"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/semoti-hcoc-major.json",
@@ -10518,11 +10518,11 @@
     "words": 0,
     "of": 6
    },
-   "source": "HCOC, Midnight Sunday Praises, track 36: Shere Ne Maria (Minor)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 36: Shere Ne Maria (Minor)",
    "tune": {
     "english": "HCOC · Minor"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/shere-ne-maria.json",
@@ -10547,11 +10547,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 35: Shere Ne Maria (Major)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 35: Shere Ne Maria (Major)",
    "tune": {
     "english": "HCOC · Major (melismatic)"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/shere-ne-maria-hcoc-major.json",
@@ -11551,11 +11551,11 @@
     "words": 0,
     "of": 9
    },
-   "source": "HCOC, Midnight Sunday Praises, track 06: Tennav",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 06: Tennav",
    "tune": {
     "english": "HCOC"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "kind": "recital",
    "files": [
     {
@@ -11670,11 +11670,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 24: Ten Oeh Ensouk (Medium)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 24: Ten Oeh Ensouk (Medium)",
    "tune": {
     "english": "HCOC · Medium"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-hcoc-medium.json",
@@ -11699,11 +11699,11 @@
     "words": 0,
     "of": 0
    },
-   "source": "HCOC, Midnight Sunday Praises, track 25: Ten Oeh Ensouk (Minor)",
+   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 25: Ten Oeh Ensouk (Minor)",
    "tune": {
     "english": "HCOC · Minor"
    },
-   "cantor": "HCOC",
+   "cantor": "The Heritage of the Coptic Orthodox Church",
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-hcoc-minor.json",
