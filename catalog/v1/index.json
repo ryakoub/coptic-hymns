@@ -1,6 +1,6 @@
 {
- "version": "25119a3029b65de3",
- "updated": "2026-10-24T02:07:24Z",
+ "version": "87580780c3f0a54b",
+ "updated": "2026-10-24T02:18:03Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -81,7 +81,6 @@
         "first-sunday-psali",
         "second-sunday-psali",
         "leepon",
-        "semoti",
         "sunday-theotokia-1",
         "sunday-theotokia-2",
         "sunday-theotokia-3",
@@ -89,6 +88,7 @@
         "sunday-theotokia-5",
         "sunday-theotokia-6",
         "shere-ne-maria",
+        "semoti",
         "shashf-ensop",
         "sunday-theotokia-9",
         "teoi-enhekanos",
@@ -160,7 +160,6 @@
          },
          "recordings": [
           "leepon",
-          "semoti",
           "sunday-theotokia-1",
           "sunday-theotokia-2",
           "sunday-theotokia-3",
@@ -168,6 +167,7 @@
           "sunday-theotokia-5",
           "sunday-theotokia-6",
           "shere-ne-maria",
+          "semoti",
           "shashf-ensop",
           "sunday-theotokia-9",
           "teoi-enhekanos",
