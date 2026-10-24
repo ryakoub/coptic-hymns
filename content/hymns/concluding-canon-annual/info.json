@@ -8,7 +8,11 @@
   "source": "https://tasbeha.org/hymn_library/view/1853",
   "places": [
     "annual/raising-of-incense",
-    "annual/liturgy"
+    {
+      "place": "annual/liturgy",
+      "order": 4900,
+      "group": "Communion"
+    }
   ],
   "youtube": "https://www.youtube.com/watch?v=DPLZ9fyQxow",
   "mahragan": {

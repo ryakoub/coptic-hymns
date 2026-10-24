@@ -22,7 +22,7 @@ language: its word timings follow the line's sung text in it ("sung": {"english"
 A folder places itself in the library with "places": ["resurrection/liturgy", "annual/midnight-praises"]
 (collection id / service or section id, as in catalog/library.json; an unambiguous part of the section
 id is enough, e.g. "annual/midnight"). "order": 10 sets its position in those sections (lower first);
-for a different position per place, write {"place": "annual/midnight-praises", "order": 10}. Numbered hymns
+for a different position per place, write {"place": "annual/midnight-praises", "order": 10}; "group" there puts it in a sub-folder for that place only. Numbered hymns
 come first in their order, then the rest alphabetically, all after any listed in library.json.
 
 Usage:
@@ -341,14 +341,17 @@ class Build:
                 followed |= {r["recording"] for r in n.get("recordings", []) if r.get("recording")}
         placed = {}   # section id -> [(order, title, recording)]
         in_places = {}   # recording id -> the sections its own "places" put it in (its group applies there)
+        place_group = {}   # (recording id, section) -> the sub-folder one place gives it, over its own "group"
         for rid, (places, default_order) in self.places.items():
             if places and self.kind_of.get(rid) == "melismatic" and rid not in followed:
                 self.held_back.append(rid)
                 continue
             for place in places:
                 order = default_order
+                group = None
                 if isinstance(place, dict):
                     order = place.get("order", default_order)
+                    group = place.get("group")
                     place = place.get("place", "")
                 if order is not None and not isinstance(order, (int, float)):
                     self.error(rid, f"order {order!r} is not a number")
@@ -357,6 +360,8 @@ class Build:
                 if s is None:
                     continue
                 in_places.setdefault(rid, set()).add(id(s))
+                if group:
+                    place_group[rid, id(s)] = {"english": group} if isinstance(group, str) else group
                 listed = [e if isinstance(e, str) else e.get("recording") for e in s["entries"]]
                 if rid not in listed:
                     title = self.texts.get(self.recordings[rid]["text"], {}).get("titles", {})
@@ -375,7 +380,7 @@ class Build:
             groups, by = [], {}
 
             def group_id(rid):
-                g = self.group_of.get(rid)
+                g = place_group.get((rid, id(s))) or self.group_of.get(rid)
                 if not g or id(s) not in in_places.get(rid, ()):
                     return None, None
                 key = g.get("english") or g.get("arabic") or ""
