@@ -250,6 +250,29 @@ def main():
                     diffs.append(d)
         offset = offset - float(np.median(diffs)) if diffs else offset
         print(f"the cantor sings {offset:.2f} semitones below the written notes")
+        # A long solo can drift: Ten Theeno's cantor rises some 2 semitones over 9 minutes, so one shift for the
+        # whole hymn put him a semitone off at the start and the cursor lost its place. When his distance from
+        # the written pitch moves by more than half a semitone, it is followed as a curve (smoothed over a
+        # minute) and his pitch is corrected by it before matching again (twice, as each match is better).
+        for _ in range(2):
+            first, _ = follow_voice(part0, ends[k0], voice, voiced, a.times[k0], a.times[k0 + 1], offset)
+            at, ds = [], []
+            for i, n in enumerate(part0[:-1]):
+                seg = voice[int(first[i] * FPS):int(first[i + 1] * FPS)]
+                seg = seg[np.isfinite(seg)]
+                if len(seg):
+                    d = np.median(seg) - (n["pitch"] - offset)
+                    if abs(d) < 2.5:
+                        at.append((first[i] + first[i + 1]) / 2)
+                        ds.append(d)
+            if len(ds) < 20:
+                break
+            at, ds = np.array(at), np.array(ds)
+            curve = np.array([np.median(ds[np.abs(at - t) <= 30]) for t in at])
+            if curve.max() - curve.min() <= 0.5:
+                break
+            voice = voice - np.interp(np.arange(len(voice)) / FPS, at, curve)
+            print(f"  his pitch drifts: {curve.min():+.2f} to {curve.max():+.2f} semitones from it; followed")
 
     scale, w, h = page_scale(a.prepared)
     pw, ph = scale * w, scale * h
