@@ -1,6 +1,6 @@
 {
- "version": "53d4f17962c59757",
- "updated": "2026-10-24T01:12:12Z",
+ "version": "83830063d13a89ad",
+ "updated": "2026-10-24T01:42:22Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -454,6 +454,251 @@
       "tai-shouri-annual",
       "ten-theeno",
       "ti-shouri-annual"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fasts",
+   "titles": {
+    "english": "Fasts",
+    "arabic": "الأصوام"
+   },
+   "collections": [
+    {
+     "id": "advent",
+     "titles": {
+      "english": "Advent Fast",
+      "arabic": "صوم الميلاد"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        3,
+        16
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "kiahk",
+     "titles": {
+      "english": "Kiahk",
+      "arabic": "كيهك"
+     },
+     "dates": {
+      "from": {
+       "coptic": [
+        4,
+        1
+       ]
+      },
+      "to": {
+       "coptic": [
+        4,
+        28
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "jonahs-fast",
+     "titles": {
+      "english": "Jonah's Fast",
+      "arabic": "صوم يونان"
+     },
+     "dates": {
+      "from": {
+       "easter": -69
+      },
+      "to": {
+       "easter": -67
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "great-lent",
+     "titles": {
+      "english": "Great Lent",
+      "arabic": "الصوم الكبير"
+     },
+     "dates": {
+      "from": {
+       "easter": -55
+      },
+      "to": {
+       "easter": -8
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "holy-week",
+     "titles": {
+      "english": "Holy Week",
+      "arabic": "أسبوع الآلام"
+     },
+     "dates": {
+      "from": {
+       "easter": -7
+      },
+      "to": {
+       "easter": -2
+      }
+     },
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns",
+        "arabic": "الألحان"
+       },
+       "entries": [
+        "ou-katikisis",
+        "ke-ypertou",
+        "fai-etafenf",
+        "ti-shouri-major"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "bright-saturday",
+     "titles": {
+      "english": "Bright Saturday",
+      "arabic": "سبت الفرح"
+     },
+     "dates": {
+      "from": {
+       "easter": -1
+      },
+      "to": {
+       "easter": -1
+      }
+     },
+     "sections": [
+      {
+       "id": "hymns",
+       "titles": {
+        "english": "Hymns"
+       },
+       "entries": []
+      }
+     ]
+    },
+    {
+     "id": "apostles-fast",
+     "titles": {
+      "english": "Apostles' Fast",
+      "arabic": "صوم الرسل"
+     },
+     "dates": {
+      "from": {
+       "easter": 50
+      },
+      "to": {
+       "coptic": [
+        11,
+        4
+       ]
+      }
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": [
+        "second-doxology-apostles"
+       ]
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      },
+      {
+       "service": "special",
+       "entries": []
+      }
      ]
     }
    ]
@@ -990,251 +1235,6 @@
        "entries": [
         "refrain-third-hour-pentecost"
        ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fasts",
-   "titles": {
-    "english": "Fasts",
-    "arabic": "الأصوام"
-   },
-   "collections": [
-    {
-     "id": "advent",
-     "titles": {
-      "english": "Advent Fast",
-      "arabic": "صوم الميلاد"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        3,
-        16
-       ]
-      },
-      "to": {
-       "coptic": [
-        4,
-        28
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "kiahk",
-     "titles": {
-      "english": "Kiahk",
-      "arabic": "كيهك"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        4,
-        1
-       ]
-      },
-      "to": {
-       "coptic": [
-        4,
-        28
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "jonahs-fast",
-     "titles": {
-      "english": "Jonah's Fast",
-      "arabic": "صوم يونان"
-     },
-     "dates": {
-      "from": {
-       "easter": -69
-      },
-      "to": {
-       "easter": -67
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "great-lent",
-     "titles": {
-      "english": "Great Lent",
-      "arabic": "الصوم الكبير"
-     },
-     "dates": {
-      "from": {
-       "easter": -55
-      },
-      "to": {
-       "easter": -8
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "holy-week",
-     "titles": {
-      "english": "Holy Week",
-      "arabic": "أسبوع الآلام"
-     },
-     "dates": {
-      "from": {
-       "easter": -7
-      },
-      "to": {
-       "easter": -2
-      }
-     },
-     "sections": [
-      {
-       "id": "hymns",
-       "titles": {
-        "english": "Hymns",
-        "arabic": "الألحان"
-       },
-       "entries": [
-        "ou-katikisis",
-        "ke-ypertou",
-        "fai-etafenf",
-        "ti-shouri-major"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "bright-saturday",
-     "titles": {
-      "english": "Bright Saturday",
-      "arabic": "سبت الفرح"
-     },
-     "dates": {
-      "from": {
-       "easter": -1
-      },
-      "to": {
-       "easter": -1
-      }
-     },
-     "sections": [
-      {
-       "id": "hymns",
-       "titles": {
-        "english": "Hymns"
-       },
-       "entries": []
-      }
-     ]
-    },
-    {
-     "id": "apostles-fast",
-     "titles": {
-      "english": "Apostles' Fast",
-      "arabic": "صوم الرسل"
-     },
-     "dates": {
-      "from": {
-       "easter": 50
-      },
-      "to": {
-       "coptic": [
-        11,
-        4
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": [
-        "second-doxology-apostles"
-       ]
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
       }
      ]
     }
