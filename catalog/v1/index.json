@@ -1,6 +1,6 @@
 {
- "version": "041f630c73a19ca1",
- "updated": "2026-10-24T04:14:48Z",
+ "version": "aa2e92f8390b3fb1",
+ "updated": "2026-10-24T04:24:25Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -30264,9 +30264,6 @@
     "entries": [
      {
       "name": "Fr. Abraam Guirguis"
-     },
-     {
-      "name": "George Kyrillos"
      }
     ]
    },
