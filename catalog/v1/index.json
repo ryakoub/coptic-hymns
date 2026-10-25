@@ -1,6 +1,6 @@
 {
- "version": "310371c7d82e7b27",
- "updated": "2026-10-25T04:26:36Z",
+ "version": "92f46260e5e734bc",
+ "updated": "2026-10-25T04:30:56Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -6261,8 +6261,8 @@
    "text": "concluding-canon-annual",
    "duration": 64.34,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 7,
+    "words": 7,
     "of": 7
    },
    "source": "https://tasbeha.org/hymn_library/view/1853",
@@ -6273,8 +6273,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/concluding-canon-annual.json",
-     "bytes": 96,
-     "sha256": "5c1673f20d7eae5b1bb383cde40da3ce30361c9d25150965ad477001890b3975",
+     "bytes": 7111,
+     "sha256": "f9cb3915c0ef8f4ea5cd3a4a1e515ad891c934f359e08eec9854bd5f1e2d0f26",
      "role": "timing"
     },
     {
