@@ -1,6 +1,6 @@
 {
- "version": "53161b3f01c30704",
- "updated": "2026-10-25T07:09:35Z",
+ "version": "fba69b8730fca035",
+ "updated": "2026-10-25T07:20:35Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2694,8 +2694,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hetenyat-annual.json",
-    "bytes": 14286,
-    "sha256": "65cac3f106591bc1f0c8ceac66efecbb5b97a92b13d0af3b2e1fbf337ddea313"
+    "bytes": 13712,
+    "sha256": "52913256f5f750d65f8d9dc6ecd64001f085e57749ce4265ac3efe9dc8b9074b"
    }
   },
   {
