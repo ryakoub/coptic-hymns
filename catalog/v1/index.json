@@ -1,6 +1,6 @@
 {
- "version": "92f46260e5e734bc",
- "updated": "2026-10-25T04:30:56Z",
+ "version": "53161b3f01c30704",
+ "updated": "2026-10-25T07:09:35Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2681,7 +2681,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 7,
+   "lines": 15,
    "translations": [
     "arabic",
     "english"
@@ -2694,8 +2694,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hetenyat-annual.json",
-    "bytes": 7789,
-    "sha256": "549d6853a22e3da225224aa090759a1bf6cf343fb38f6105e41b76b54f7d15a3"
+    "bytes": 14286,
+    "sha256": "65cac3f106591bc1f0c8ceac66efecbb5b97a92b13d0af3b2e1fbf337ddea313"
    }
   },
   {
@@ -7349,7 +7349,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 7
+    "of": 15
    },
    "source": "https://tasbeha.org/hymn_library/view/210",
    "youtube": "https://www.youtube.com/watch?v=9Qk_Q1g-7Q8",

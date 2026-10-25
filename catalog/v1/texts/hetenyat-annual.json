@@ -9,158 +9,205 @@
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲁⲣⲓⲁ: Ⲡⲟ̅ⲥ̅ ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
-    "english": "Through the intercessions, of the Mother of God Saint Mary, O Lord grant us the forgiveness of our sins.",
-    "arabic": "بشفاعات والدة الإله القديسة مريم، يا رب أنعم علينا بمغفرة خطايانا."
+    "english": "Through the intercessions of the Theotokos Saint Mary, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بشفاعاتِ والِدةِ الإلهِ القدِّيسةِ مريمَ، ياربُ أنعم علينا بمغفرة خطايانا."
    },
    "transliterations": {
     "english": "Hiten ni-epresvia: ente tithe-otokos ethowab Maria: Epshois ari-ehmot nan empiko evol ente nennovi."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
-    },
-    {
-     "coptic": "ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉ̅ⲑ̅ⲩ̅ Ⲙⲁⲣⲓⲁ:"
-    },
-    {
-     "coptic": "Ⲡⲟ̅ⲥ̅ ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
-    }
-   ]
+   }
   },
   {
    "id": "l2",
-   "side": 1,
-   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡⲓϣⲁϣϥ ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: Ⲡⲟ̅ⲥ̅...",
-   "translations": {
-    "english": "Through the intercessions, of the seven archangels, and the heavenly orders, O Lord...",
-    "arabic": "بشفاعات رؤسات الملائكة السبعة و الطغمات السمائية.يا رب أنعم ..."
-   },
-   "transliterations": {
-    "english": "Hiten ni-epresvia: ente pishashf enarshee-angelos: nem nitaghma enepouranion: Epshois..."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
-    },
-    {
-     "coptic": "ⲛ̀ⲧⲉ ⲡⲓϣⲁϣϥ ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ:"
-    },
-    {
-     "coptic": "ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ:"
-    },
-    {
-     "coptic": "Ⲡⲟ̅ⲥ̅..."
-    }
-   ]
+   "label": "Before the verse for the angels, on the feasts of Archangel Michael:"
   },
   {
    "id": "l3",
-   "side": 0,
-   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉ̀ⲩⲭⲏ: ⲛ̀ⲧⲉ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: Ⲡⲟ̅ⲥ̅...",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ ⲛ̀ⲧⲉ ⲡⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁⲣⲭⲱⲛ ⲛ̀ⲛⲁⲛⲓⲫⲏⲟⲩⲓ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
-    "english": "Through the prayers, of my masters and fathers the apostles, and the rest of the disciples, O Lord...",
-    "arabic": "بصلوات سادتي الآباء الرسل و بقية التلاميذ. يا رب أنعم ..."
+    "english": "Through the intercessions of the holy archangel Michael, the head of the heavenly: O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بشفاعات رئيس الملائكة الطاهر ميخائيل رئيس السمائيين، ياربُ أنعم علينا بمغفرة خطايانا."
    },
    "transliterations": {
-    "english": "Hiten ni-evshee: ente nashois enioti enapostolos: nem epsepi ente nimatheetees: Epshois..."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉ̀ⲩⲭⲏ:"
-    },
-    {
-     "coptic": "ⲛ̀ⲧⲉ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ:"
-    },
-    {
-     "coptic": "ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ:"
-    },
-    {
-     "coptic": "Ⲡⲟ̅ⲥ̅..."
-    }
-   ]
+    "english": "Hiten ni-epresvia ente pi-arshee-angelos ethowab Mikha-eel ep-arkhon ennanifee-oui: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
   },
   {
    "id": "l4",
-   "side": 1,
-   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉ̀ⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡⲓⲑⲉⲱ̀ⲣⲓⲙⲟⲥ ⲛ̀ⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲥⲧⲏⲥ: Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: Ⲡⲟ̅ⲥ̅...",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ ⲛ̀ⲧⲉ ⲡⲓϣⲁϣϥ ⲛ̀ⲁⲣⲭⲓⲁⲅⲅⲉⲗⲟⲥ ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
-    "english": "Through the prayers, of the beholder of God the evangelist, Mark the apostle, O Lord...",
-    "arabic": "بصلوات ناظر الإله الإنجيلي مرقص الرسول. يا رب أنعم ..."
+    "english": "Through the intercessions of the seven archangels, and the heavenly orders, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بشفاعات رؤساء الملائكة السبعة والطغمات السمائية، ياربُ أنعم علينا بمغفرة خطايانا."
    },
    "transliterations": {
-    "english": "Hiten ni-evshee: ente pithe-orimos enevangelistees: Markos pi-apostolos: Epshois..."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉ̀ⲩⲭⲏ:"
-    },
-    {
-     "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲑⲉⲱ̀ⲣⲓⲙⲟⲥ ⲛ̀ⲉ̀ⲩⲁ̀ⲅⲅⲉⲗⲓⲥⲧⲏⲥ:"
-    },
-    {
-     "coptic": "Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ:"
-    },
-    {
-     "coptic": "Ⲡⲟ̅ⲥ̅..."
-    }
-   ]
+    "english": "Hiten ni-epresvia ente pishashf enarshee-angelos nem nitaghma enepouranion: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
   },
   {
    "id": "l5",
-   "side": 0,
-   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉ̀ⲩⲭⲏ: ⲛ̀ⲧⲉ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ: ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲡⲉϥⲣⲁⲛ: Ⲡⲟ̅ⲥ̅...",
-   "translations": {
-    "english": "Through the prayers, of the saints of this day, each one by his name, O Lord...",
-    "arabic": "بصلوات قديسي هذا اليوم كل واحد باسمه. يا رب أنعم ..."
-   },
-   "transliterations": {
-    "english": "Hiten ni-evshee: ente nee-ethowab ente pai-ehoou: piowai piowai kata pefran: Epshois..."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉ̀ⲩⲭⲏ:"
-    },
-    {
-     "coptic": "ⲛ̀ⲧⲉ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ:"
-    },
-    {
-     "coptic": "ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲡⲉϥⲣⲁⲛ:"
-    },
-    {
-     "coptic": "Ⲡⲟ̅ⲥ̅..."
-    }
-   ]
+   "label": "For the commemoration of St. John the Baptist or the Feast of the Theophany:"
   },
   {
    "id": "l6",
    "side": 1,
-   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉ̀ⲩⲭⲏ: ⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲉⲛⲱⲓⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁ̀ⲣⲭⲏⲉ̀ⲣⲉⲩⲥ: ⲡⲁⲡⲁ ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩⲇⲁ: Ⲡⲟ̅ⲥ̅ ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ ⲛ̀ⲧⲉ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲙ̀ⲃⲁⲡⲧⲓⲥⲧⲏⲥ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲣⲉϥϯⲱⲙⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
    "translations": {
-    "english": "Through their prayers, keep the life of our honored father the high priest, Papa Abba(Shenouda), O Lord...",
-    "arabic": "بصلوات إحفظ حياة أبينا المكرم رئيس الكهنة البابا الانبا(شنوده). يا رب أنعم ..."
+    "english": "Through the intercessions of the forerunner and baptizer, John the Baptist, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بشفاعات السابق الصابغ يوحنا المعمدان، ياربُ أنعم علينا بمغفرة خطايانا."
    },
    "transliterations": {
-    "english": "Hiten nowevshee: areh e-eponkh empenoit ettaieeout enarshee-erevs: papa abba Shenouda: Epshois ari-ehmot nan empiko evol ente nennovi."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉ̀ⲩⲭⲏ:"
-    },
-    {
-     "coptic": "ⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲉⲛⲱⲓⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁ̀ⲣⲭⲏⲉ̀ⲣⲉⲩⲥ:"
-    },
-    {
-     "coptic": "ⲡⲁⲡⲁ ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩⲇⲁ:"
-    },
-    {
-     "coptic": "Ⲡⲟ̅ⲥ̅ ⲁⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
-    }
-   ]
+    "english": "Hiten ni-epresvia ente pi-eprodromos embaptistees: Yoannees pirefti-oms: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
   },
   {
    "id": "l7",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲁϭⲟⲓⲥ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of my lords and fathers the apostles, and the rest of the disciples, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات سادتي الآباء الرسل وبقية التلاميذ، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente nashois enioti enapostolos nem epsepi ente nimatheetees: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l8",
+   "label": "For the commemoration of St. Stephen:"
+  },
+  {
+   "id": "l9",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲡⲓⲁⲣⲭⲏⲇⲓⲁⲕⲱⲛ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ: Ⲥⲧⲉⲫⲁⲛⲟⲥ ⲡⲓϣⲟⲣⲡ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of the blessed archdeacon, Stephen the first martyr, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات رئيس الشمامسة المبارك إسطفانوس أول الشهداء، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente pi-arshee-diakon ete-esmarowout: Estefanos pishorp emmartyros: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l10",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲡⲓⲑⲉⲱ̀ⲣⲓⲙⲟⲥ ⲛ̀ⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of the beholder of God, the evangelist Mark the apostle, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات ناظر الإله الإنجيلي مرقس الرسول، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente pithe-orimos enevangelistees Markos pi-apostolos: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l11",
+   "label": "Combined intercessions for the male martyrs. For the commemoration of St. George:"
+  },
+  {
+   "id": "l12",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ ⲡⲁϭⲟⲓⲥ ⲡ̀ⲟⲩⲣⲟ Ⲅⲉⲱⲣⲅⲓⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of the struggle-mantled martyr, my lord Prince George, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات المجاهد الشهيد سيدي الملك جيؤرجيوس، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente pi-athlophoros emmartyros pashois ep-ouro Gheorgios: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l13",
+   "label": "For the commemoration of St. Theodore:"
+  },
+  {
+   "id": "l14",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ Ⲑⲉⲟ̀ⲇⲱⲣⲟⲥ ⲡⲓⲥ̀ⲧⲣⲁⲧⲓⲗⲁⲧⲏⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of the struggle-mantled martyr, Theodore the General, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات المجاهد الشهيد ثيؤدوروس الإسفهسلار، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente pi-athlophoros emmartyros The-odoros pi-estratilatees: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l15",
+   "label": "For the commemoration of St. Mena:"
+  },
+  {
+   "id": "l16",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ ⲁ̀ⲡⲁ Ⲙⲏⲛⲁ ⲛ̀ⲧⲉ ⲛⲓⲫⲁⲓⲁⲧ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of the struggle-mantled martyr, holy Abba Mena of Bayad, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات المجاهد الشهيد أبا مينا البياضي، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente pi-athlophoros emmartyros apa Meena ente nifaiat: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l17",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲡⲉϥⲣⲁⲛ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers of the saints of this day, each one according to their names, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات قديسي هذا اليوم، كل واحد باسمه، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-evshee ente nee-ethowab ente pai-ehoou piowai piowai kata pefran: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l18",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ ⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲉⲛⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ Ⲑⲉⲟ̀ⲇⲱⲣⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through their prayers, keep the life of our honored father, the archpriest, Pope Abba Tawadros. O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلواتهم احفظ حياة أبينا المكرم رئيس الكهنة البابا الأنبا تواضروس، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten nowevshee areh e-eponkh empenyot ettaieeout enarshee-erevs papa abba Tawadros: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l19",
+   "label": "In the presence of a metropolitan:"
+  },
+  {
+   "id": "l20",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ ⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲉⲛⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲇⲓⲕⲉⲟⲥ ⲁⲃⲃⲁ Ⲓⲱⲥⲏⲫ ⲡⲓⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through their prayers, keep the life of our honored and righteous father, Abba Youssef the metropolitan, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلواتهم احفظ حياة أبينا المكرم البار أنبا يوسف المطران، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten nowevshee areh e-eponkh empenyot ettaieeout endikeos abba Youssef pimeetropolitees: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l21",
+   "label": "In the presence of a bishop:"
+  },
+  {
+   "id": "l22",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲟⲩⲉⲩⲭⲏ ⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲉⲛⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲇⲓⲕⲉⲟⲥ ⲁⲃⲃⲁ Ⲙⲓⲭⲁⲏⲗ ⲡⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through their prayers, keep the life of our honored and righteous father, Abba Michael the bishop, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلواتهم احفظ حياة أبينا المكرم البار أنبا ميخائيل الأسقف، ياربُ أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten nowevshee areh e-eponkh empenyot ettaieeout endikeos abba Mikha-eel pi-episkopos: Epshois ari-ehmot nan empiko evol ente nennovi."
+   }
+  },
+  {
+   "id": "l23",
    "side": 0,
    "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲭ̅ⲥ̅: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ ⲡⲓⲠ̀ⲡⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅: ϫⲉ (ⲁⲕⲧⲱⲛⲕ / ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲛⲁⲓ ⲛⲁⲛ.",
    "translations": {
