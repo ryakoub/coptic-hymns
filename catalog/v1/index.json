@@ -1,6 +1,6 @@
 {
- "version": "aa2e92f8390b3fb1",
- "updated": "2026-10-24T04:24:25Z",
+ "version": "15831b545d2f2f2b",
+ "updated": "2026-10-25T04:15:54Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -99,7 +99,8 @@
         "sunday-theotokia-15",
         "nim-ghar",
         "adam-theotokias-conclusion",
-        "conclusion-midnight-praises"
+        "conclusion-midnight-praises",
+        "concluding-canon-annual-liturgy"
        ],
        "groups": [
         {
@@ -187,7 +188,8 @@
          },
          "recordings": [
           "adam-theotokias-conclusion",
-          "conclusion-midnight-praises"
+          "conclusion-midnight-praises",
+          "concluding-canon-annual-liturgy"
          ]
         }
        ]
@@ -305,7 +307,7 @@
         "distribution-alleluia-annual",
         "distribution-annual-psalm-150",
         "pi-oik",
-        "concluding-canon-annual"
+        "concluding-canon-annual-liturgy"
        ],
        "groups": [
         {
@@ -408,7 +410,7 @@
           "distribution-alleluia-annual",
           "distribution-annual-psalm-150",
           "pi-oik",
-          "concluding-canon-annual"
+          "concluding-canon-annual-liturgy"
          ]
         }
        ]
@@ -1969,7 +1971,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 8,
+   "lines": 7,
    "translations": [
     "arabic",
     "english"
@@ -1982,8 +1984,34 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual.json",
-    "bytes": 5638,
-    "sha256": "306eecfb9445488b6e0180d124fa638f6f258c3b05ec44ee2d423a9e5e5c5fb4"
+    "bytes": 5493,
+    "sha256": "d989a783ad0f2366eb6bdbd655e4bcd9e4690429439bc81d3771e1da301114b9"
+   }
+  },
+  {
+   "id": "concluding-canon-annual-liturgy",
+   "titles": {
+    "english": "Closing Canon of the communal prayers (Liturgy and Praises)",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "arabic": "ختام الصلوات الجماعية السنوي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "concluding-canon-annual-liturgy"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/concluding-canon-annual-liturgy.json",
+    "bytes": 5003,
+    "sha256": "b4a748a656087a680d6e93c432cc30b7fbfb177246b40a3342268fb0319bd53e"
    }
   },
   {
@@ -6231,14 +6259,16 @@
   {
    "id": "concluding-canon-annual",
    "text": "concluding-canon-annual",
-   "duration": 157.01,
+   "duration": 64.34,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 8
+    "of": 7
    },
    "source": "https://tasbeha.org/hymn_library/view/1853",
-   "youtube": "https://www.youtube.com/watch?v=DPLZ9fyQxow",
+   "tune": {
+    "english": "Vespers and Matins"
+   },
    "kind": "recital",
    "files": [
     {
@@ -6250,8 +6280,37 @@
     {
      "url": "content/hymns/concluding-canon-annual/audio.m4a",
      "role": "audio",
-     "bytes": 2540149,
-     "sha256": "f215b2114f91ca15a9275429074d19d5265cc909c7e3a2e989ed77d281e2b729"
+     "bytes": 1043322,
+     "sha256": "f5531f966f7a97a11a0fdd507fc55cd7497f5b3bc8ee4cfbf1ccbaea432157cc"
+    }
+   ]
+  },
+  {
+   "id": "concluding-canon-annual-liturgy",
+   "text": "concluding-canon-annual-liturgy",
+   "duration": 55.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1853",
+   "tune": {
+    "english": "Liturgy and Praises"
+   },
+   "kind": "recital",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-canon-annual-liturgy.json",
+     "bytes": 112,
+     "sha256": "b1df91d12b6dd6a5a7b7e1b4fd8d404fdef81bccdea357ddc84d807a70559edd",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/concluding-canon-annual-liturgy/audio.m4a",
+     "role": "audio",
+     "bytes": 897592,
+     "sha256": "9378cbd9d7f9eaa732b737d63b9a8640b465bbe3fb3985511ab4a7bdfe406d9d"
     }
    ]
   },

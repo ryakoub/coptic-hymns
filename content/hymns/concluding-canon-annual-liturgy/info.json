@@ -1,0 +1,25 @@
+{
+  "titles": {
+    "english": "Closing Canon of the communal prayers (Liturgy and Praises)",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "arabic": "ختام الصلوات الجماعية السنوي"
+  },
+  "tune": {
+    "english": "Liturgy and Praises"
+  },
+  "kind": "recital",
+  "places": [
+    {
+      "place": "annual/liturgy",
+      "order": 4900,
+      "group": "Communion"
+    },
+    {
+      "place": "annual/midnight-praises",
+      "order": 410,
+      "group": "Conclusion"
+    }
+  ],
+  "source": "https://tasbeha.org/hymn_library/view/1853",
+  "_note": "Words: content/hymns/concluding-canon-annual/lyrics.json without its first line (Amen, Kyrie eleison x3, said only at Vespers and Matins). Change both when changing the words."
+}

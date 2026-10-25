@@ -1,30 +1,12 @@
 [
   {
-    "coptic": "Ⲡⲓⲗⲁⲟⲥ: Ⲁ̀ⲙⲏⲛ.",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
     "translations": {
-      "english": "People: Amen.",
-      "arabic": "الشعب: آمين."
+      "english": "Amen, Lord have mercy, Lord have mercy, Lord have mercy.",
+      "arabic": "آمين، يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
     },
     "transliterations": {
-      "english": "Pilaos: Ameen."
-    },
-    "stanzas": [
-      {
-        "coptic": "Ⲡⲓⲗⲁⲟⲥ:"
-      },
-      {
-        "coptic": "Ⲁ̀ⲙⲏⲛ."
-      }
-    ]
-  },
-  {
-    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
-    "translations": {
-      "english": "Lord have mercy (3).",
-      "arabic": "يا ربُّ إرحَم (3)."
-    },
-    "transliterations": {
-      "english": "Kirie ele-eeson (shomt)."
+      "english": "Ameen, Kirie ele-eeson, Kirie ele-eeson, Kirie ele-eeson."
     }
   },
   {

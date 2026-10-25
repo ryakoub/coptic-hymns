@@ -9,38 +9,18 @@
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲡⲓⲗⲁⲟⲥ: Ⲁ̀ⲙⲏⲛ.",
+   "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
    "translations": {
-    "english": "People: Amen.",
-    "arabic": "الشعب: آمين."
+    "english": "Amen, Lord have mercy, Lord have mercy, Lord have mercy.",
+    "arabic": "آمين، يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
    },
    "transliterations": {
-    "english": "Pilaos: Ameen."
-   },
-   "stanzas": [
-    {
-     "coptic": "Ⲡⲓⲗⲁⲟⲥ:"
-    },
-    {
-     "coptic": "Ⲁ̀ⲙⲏⲛ."
-    }
-   ]
+    "english": "Ameen, Kirie ele-eeson, Kirie ele-eeson, Kirie ele-eeson."
+   }
   },
   {
    "id": "l2",
    "side": 1,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (ⲅ̅).",
-   "translations": {
-    "english": "Lord have mercy (3).",
-    "arabic": "يا ربُّ إرحَم (3)."
-   },
-   "transliterations": {
-    "english": "Kirie ele-eeson (shomt)."
-   }
-  },
-  {
-   "id": "l3",
-   "side": 0,
    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.",
    "translations": {
     "english": "Amen, alleluia. Glory to the Father and the Son and the Holy Spirit, now and ever and unto the age of all ages, amen.",
@@ -65,8 +45,8 @@
    ]
   },
   {
-   "id": "l4",
-   "side": 1,
+   "id": "l3",
+   "side": 0,
    "coptic": "Ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲱ̀ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
    "translations": {
     "english": "We proclaim saying: “O our Lord Jesus Christ.",
@@ -85,8 +65,8 @@
    ]
   },
   {
-   "id": "l5",
-   "side": 0,
+   "id": "l4",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲛⲓⲁ̀ⲏⲣ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲛⲉⲙ ⲛⲓⲙⲱⲟⲩ ⲙ̀ⲫ̀ⲓⲁⲣⲟ ⲛⲉⲙ ⲉ̀ⲛⲓⲥⲓϯ ⲛⲉⲙ ⲛⲓⲥⲓⲙ.",
    "translations": {
     "english": "Bless the air of heaven, the waters of the river, and the seeds and the herbs.",
@@ -97,8 +77,8 @@
    }
   },
   {
-   "id": "l6",
-   "side": 1,
+   "id": "l5",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
    "translations": {
     "english": "May Your mercy and Your peace be a fortress to Your people.",
@@ -109,8 +89,8 @@
    }
   },
   {
-   "id": "l7",
-   "side": 0,
+   "id": "l6",
+   "side": 1,
    "coptic": "Ⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ.",
    "translations": {
     "english": "Save us and have mercy upon us.”",
@@ -121,8 +101,8 @@
    }
   },
   {
-   "id": "l8",
-   "side": 1,
+   "id": "l7",
+   "side": 0,
    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲁ̀ⲙⲏⲛ. Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲓ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲓ: ⲓⲥ ϯⲙⲉⲧⲁⲛⲟⲓⲁ: ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ: ϫⲱ ⲙ̀ⲡⲓⲥ̀ⲙⲟⲩ.",
    "translations": {
     "english": "Lord have mercy, Lord have mercy, Lord bless amen. Bless me, bless me, behold the repentance, forgive me, say the blessing.",

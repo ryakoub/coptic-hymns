@@ -7,19 +7,11 @@
   },
   "source": "https://tasbeha.org/hymn_library/view/1853",
   "places": [
-    "annual/raising-of-incense",
-    {
-      "place": "annual/liturgy",
-      "order": 4900,
-      "group": "Communion"
-    }
+    "annual/raising-of-incense"
   ],
-  "youtube": "https://www.youtube.com/watch?v=DPLZ9fyQxow",
-  "mahragan": {
-    "year": 2025,
-    "stage": "kg",
-    "level": "1"
-  },
   "kind": "recital",
-  "order": 2000
+  "order": 2000,
+  "tune": {
+    "english": "Vespers and Matins"
+  }
 }
