@@ -76,6 +76,17 @@ color: #f8fdff;
 box-shadow: 0 16px 30px rgba(12, 61, 92, 0.22);
 }
 
+.home-links{
+margin: 18px 0 8px;
+text-align: center;
+font-size: 15px;
+color: #557;
+}
+
+.home-links a{
+color: #0e6f8f;
+}
+
 /* The app's seal (brand/logo.svg), beside the title. */
 .home-logo{
 position: relative;
