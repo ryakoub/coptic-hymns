@@ -76,6 +76,17 @@ color: #f8fdff;
 box-shadow: 0 16px 30px rgba(12, 61, 92, 0.22);
 }
 
+/* The app's seal (brand/logo.svg), beside the title. */
+.home-logo{
+position: relative;
+z-index: 1;
+float: right;
+width: clamp(92px, 22vw, 160px);
+height: auto;
+margin: 0 0 8px 16px;
+filter: drop-shadow(0 6px 14px rgba(0, 0, 0, 0.22));
+}
+
 .home-banner::after{
 content: "";
 position: absolute;
