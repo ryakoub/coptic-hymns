@@ -1,5 +1,1103 @@
 {
  "recording": "second-hoos-lobsh-english",
  "text": "second-hoos-lobsh",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.38,
+   "words": [
+    {
+     "text": "Let",
+     "start": 0.38,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 1.78,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": 2.45,
+     "end": null
+    },
+    {
+     "text": "thanks,",
+     "start": 3.15,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": 4.75,
+     "end": null
+    },
+    {
+     "text": "Christ",
+     "start": 5.91,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 6.81,
+     "end": null
+    },
+    {
+     "text": "God,",
+     "start": 7.81,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 9.18,
+     "end": null
+    },
+    {
+     "text": "David",
+     "start": 9.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 11.38,
+     "end": null
+    },
+    {
+     "text": "prophet,",
+     "start": 12.21,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 13.68,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 15.68,
+     "end": null
+    },
+    {
+     "text": "psalmist.",
+     "start": 16.28,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 19.21,
+   "words": [
+    {
+     "text": "For",
+     "start": 19.21,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 20.15,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 20.91,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": 21.51,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 22.25,
+     "end": null
+    },
+    {
+     "text": "heavens,",
+     "start": 23.01,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 24.58,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": 26.15,
+     "end": null
+    },
+    {
+     "text": "its",
+     "start": 26.81,
+     "end": null
+    },
+    {
+     "text": "hosts,",
+     "start": 27.58,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 28.21,
+     "end": null
+    },
+    {
+     "text": "established",
+     "start": 29.15,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 31.28,
+     "end": null
+    },
+    {
+     "text": "earth,",
+     "start": 32.05,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": 33.55,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 35.15,
+     "end": null
+    },
+    {
+     "text": "waters.",
+     "start": 35.78,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 40.41,
+   "words": [
+    {
+     "text": "These",
+     "start": 40.41,
+     "end": null
+    },
+    {
+     "text": "two",
+     "start": 41.41,
+     "end": null
+    },
+    {
+     "text": "great",
+     "start": 42.25,
+     "end": null
+    },
+    {
+     "text": "stars,",
+     "start": 42.98,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 44.28,
+     "end": null
+    },
+    {
+     "text": "sun",
+     "start": 45.05,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 45.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 46.58,
+     "end": null
+    },
+    {
+     "text": "moon,",
+     "start": 47.31,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 48.08,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 48.88,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": 49.68,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 50.45,
+     "end": null
+    },
+    {
+     "text": "enlighten,",
+     "start": 51.21,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 53.51,
+     "end": null
+    },
+    {
+     "text": "firmament.",
+     "start": 54.98,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 59.01,
+   "words": [
+    {
+     "text": "He",
+     "start": 59.01,
+     "end": null
+    },
+    {
+     "text": "brought",
+     "start": 60.68,
+     "end": null
+    },
+    {
+     "text": "forth",
+     "start": 61.35,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 62.05,
+     "end": null
+    },
+    {
+     "text": "winds,",
+     "start": 62.78,
+     "end": null
+    },
+    {
+     "text": "out",
+     "start": 63.55,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 64.25,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 64.91,
+     "end": null
+    },
+    {
+     "text": "treasure",
+     "start": 65.68,
+     "end": null
+    },
+    {
+     "text": "box,",
+     "start": 67.11,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 67.91,
+     "end": null
+    },
+    {
+     "text": "breathed",
+     "start": 68.75,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": 69.48,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 71.15,
+     "end": null
+    },
+    {
+     "text": "trees,",
+     "start": 71.91,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 73.31,
+     "end": null
+    },
+    {
+     "text": "they",
+     "start": 75.01,
+     "end": null
+    },
+    {
+     "text": "blossomed.",
+     "start": 75.61,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 78.88,
+   "words": [
+    {
+     "text": "He",
+     "start": 78.88,
+     "end": null
+    },
+    {
+     "text": "caused",
+     "start": 79.71,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 80.41,
+     "end": null
+    },
+    {
+     "text": "rain",
+     "start": 81.11,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 81.81,
+     "end": null
+    },
+    {
+     "text": "fall,",
+     "start": 82.55,
+     "end": null
+    },
+    {
+     "text": "upon",
+     "start": 83.35,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 84.65,
+     "end": null
+    },
+    {
+     "text": "face",
+     "start": 85.51,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 86.31,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 86.85,
+     "end": null
+    },
+    {
+     "text": "earth,",
+     "start": 87.28,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 88.61,
+     "end": null
+    },
+    {
+     "text": "it",
+     "start": 90.55,
+     "end": null
+    },
+    {
+     "text": "sprouted,",
+     "start": 91.08,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 93.48,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 94.85,
+     "end": null
+    },
+    {
+     "text": "its",
+     "start": 95.41,
+     "end": null
+    },
+    {
+     "text": "fruit.",
+     "start": 96.18,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l6",
+   "start": 99.71,
+   "words": [
+    {
+     "text": "He",
+     "start": 99.71,
+     "end": null
+    },
+    {
+     "text": "brought",
+     "start": 100.38,
+     "end": null
+    },
+    {
+     "text": "forth",
+     "start": 101.01,
+     "end": null
+    },
+    {
+     "text": "water,",
+     "start": 101.81,
+     "end": null
+    },
+    {
+     "text": "out",
+     "start": 103.28,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 105.51,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 106.21,
+     "end": null
+    },
+    {
+     "text": "rock,",
+     "start": 106.95,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 107.68,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 108.51,
+     "end": null
+    },
+    {
+     "text": "it",
+     "start": 109.31,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 110.08,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 110.81,
+     "end": null
+    },
+    {
+     "text": "people,",
+     "start": 111.65,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 113.11,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 114.08,
+     "end": null
+    },
+    {
+     "text": "wilderness.",
+     "start": 114.65,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l7",
+   "start": 118.65,
+   "words": [
+    {
+     "text": "He",
+     "start": 118.65,
+     "end": null
+    },
+    {
+     "text": "made",
+     "start": 120.75,
+     "end": null
+    },
+    {
+     "text": "man,",
+     "start": 122.15,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 123.91,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 125.35,
+     "end": null
+    },
+    {
+     "text": "image,",
+     "start": 126.11,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 128.25,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 129.78,
+     "end": null
+    },
+    {
+     "text": "likeness,",
+     "start": 130.58,
+     "end": null
+    },
+    {
+     "text": "that",
+     "start": 132.98,
+     "end": null
+    },
+    {
+     "text": "he",
+     "start": 133.88,
+     "end": null
+    },
+    {
+     "text": "may",
+     "start": 134.55,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 135.25,
+     "end": null
+    },
+    {
+     "text": "Him.",
+     "start": 136.08,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l8",
+   "start": 139.45,
+   "words": [
+    {
+     "text": "Let",
+     "start": 139.45,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 140.85,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 141.61,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 142.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 143.71,
+     "end": null
+    },
+    {
+     "text": "exalt",
+     "start": 144.51,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 145.21,
+     "end": null
+    },
+    {
+     "text": "name,",
+     "start": 146.71,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 148.28,
+     "end": null
+    },
+    {
+     "text": "give",
+     "start": 149.21,
+     "end": null
+    },
+    {
+     "text": "thanks",
+     "start": 149.78,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 150.51,
+     "end": null
+    },
+    {
+     "text": "Him,",
+     "start": 151.25,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 152.08,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 152.75,
+     "end": null
+    },
+    {
+     "text": "endures",
+     "start": 152.98,
+     "end": null
+    },
+    {
+     "text": "forever.",
+     "start": 154.25,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l9",
+   "start": 159.21,
+   "words": [
+    {
+     "text": "Through",
+     "start": 159.21,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 159.98,
+     "end": null
+    },
+    {
+     "text": "prayers,",
+     "start": 160.55,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 161.98,
+     "end": null
+    },
+    {
+     "text": "David",
+     "start": 163.85,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 165.08,
+     "end": null
+    },
+    {
+     "text": "psalmist,",
+     "start": 165.75,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 168.18,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 169.51,
+     "end": null
+    },
+    {
+     "text": "grant",
+     "start": 170.48,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": 171.25,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 172.01,
+     "end": null
+    },
+    {
+     "text": "forgiveness",
+     "start": 172.48,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 173.98,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 174.81,
+     "end": null
+    },
+    {
+     "text": "sins.",
+     "start": 175.61,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l10",
+   "start": 179.01,
+   "words": [
+    {
+     "text": "Through",
+     "start": 179.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 179.61,
+     "end": null
+    },
+    {
+     "text": "intercessions,",
+     "start": 180.28,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 182.55,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 183.08,
+     "end": null
+    },
+    {
+     "text": "Mother",
+     "start": 183.68,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 184.25,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 184.85,
+     "end": null
+    },
+    {
+     "text": "Saint",
+     "start": 185.51,
+     "end": null
+    },
+    {
+     "text": "Mary,",
+     "start": 186.25,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 187.88,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 189.11,
+     "end": null
+    },
+    {
+     "text": "grant",
+     "start": 190.18,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": 191.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forgiveness",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "sins.",
+     "start": 195.98,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 198.41,
+   "words": [
+    {
+     "text": "Through",
+     "start": 198.41,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 199.38,
+     "end": null
+    },
+    {
+     "text": "intercessions,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "whole",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "chorus",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "angels,",
+     "start": 205.51,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 209.51,
+     "end": null
+    },
+    {
+     "text": "grant",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forgiveness",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "sins.",
+     "start": 215.48,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l12",
+   "start": 218.98,
+   "words": [
+    {
+     "text": "Blessed",
+     "start": 218.98,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": 219.81,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 220.38,
+     "end": null
+    },
+    {
+     "text": "indeed,",
+     "start": 220.95,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 223.08,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 224.05,
+     "end": null
+    },
+    {
+     "text": "good",
+     "start": 224.61,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 225.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 226.95,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 227.55,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": 228.38,
+     "end": null
+    },
+    {
+     "text": "Spirit,",
+     "start": 229.85,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 231.41,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 231.88,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 232.58,
+     "end": null
+    },
+    {
+     "text": "(risen)",
+     "start": 232.75,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 233.75,
+     "end": null
+    },
+    {
+     "text": "saved",
+     "start": 234.51,
+     "end": null
+    },
+    {
+     "text": "us.",
+     "start": 235.31,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

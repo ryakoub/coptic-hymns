@@ -1,6 +1,6 @@
 {
- "version": "fcbcc6f9ece5e3ff",
- "updated": "2026-10-26T20:12:37Z",
+ "version": "a51ae666a38cd4cd",
+ "updated": "2026-10-26T20:38:47Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -11121,8 +11121,8 @@
    "text": "second-hoos-lobsh",
    "duration": 1047.79,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 12,
+    "words": 12,
     "of": 12
    },
    "source": "https://tasbeha.org/hymn_library/view/182",
@@ -11132,8 +11132,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh.json",
-     "bytes": 84,
-     "sha256": "fcf79cab5f53e519d416b83aafa28bb2c90197c11207ab48ccde2d373a5cb773",
+     "bytes": 12862,
+     "sha256": "3a6634fe01405c18576bca2dda33295ad400f94cc60e3ab2430c3cb74e0be0cf",
      "role": "timing"
     },
     {
@@ -11149,9 +11149,9 @@
    "text": "second-hoos-lobsh",
    "duration": 413.68,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 12,
+    "words": 12,
+    "of": 12
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -11162,8 +11162,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh-english.json",
-     "bytes": 92,
-     "sha256": "79b8bbc4aa6fc22a72c43d83ce9fca5f79c3077226cbe14fc1ab915aa57477b1",
+     "bytes": 15767,
+     "sha256": "88f834835a54fc3ddff899c1266b11227cd398907271cfea49df6c00f7c99a0f",
      "role": "timing"
     },
     {
