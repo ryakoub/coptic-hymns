@@ -1,0 +1,21 @@
+{
+  "title": "Kiahk Psalm",
+  "titles": {
+    "english": "Kiahk Psalm",
+    "coptic": "Ⲥⲱⲧⲉⲙ ⲧⲁϣⲉⲣⲓ",
+    "arabic": "المزمور الكيهكي"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/487",
+  "places": [
+    {
+      "place": "kiahk/liturgy",
+      "order": 20
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=dxiGW6WuRmQ",
+  "mahragan": {
+    "year": 2022,
+    "stage": "ms",
+    "level": "2"
+  }
+}

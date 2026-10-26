@@ -1,0 +1,20 @@
+{
+  "title": "Closing Canon for Kiahk",
+  "titles": {
+    "english": "Closing Canon for Kiahk",
+    "coptic": "Ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ",
+    "arabic": "جملة ختام الصلوات لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/535",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 90
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=-WTyw9BflSQ",
+  "mahragan": {
+    "year": 2022,
+    "stage": "kg"
+  }
+}

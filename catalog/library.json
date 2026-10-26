@@ -205,45 +205,6 @@
    },
    "collections": [
     {
-     "id": "advent",
-     "titles": {
-      "english": "Advent Fast",
-      "arabic": "صوم الميلاد"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        3,
-        16
-       ]
-      },
-      "to": {
-       "coptic": [
-        4,
-        28
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
      "id": "kiahk",
      "titles": {
       "english": "Kiahk",

@@ -1,0 +1,21 @@
+{
+  "title": "First Kiahk Doxology",
+  "titles": {
+    "english": "First Kiahk Doxology",
+    "coptic": "Ⲕⲉ ⲅⲁⲣ ⲁⲓϣⲁⲛⲥⲁϫⲓ",
+    "arabic": "ذكصولوجية كيهك الأولى"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/129",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 21
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=9tJrNgLj7Sk",
+  "mahragan": {
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "1"
+  }
+}

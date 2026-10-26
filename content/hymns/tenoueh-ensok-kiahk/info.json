@@ -1,0 +1,23 @@
+{
+  "title": "Tenoueh Ensok, Kiahk tune",
+  "titles": {
+    "english": "Tenoueh Ensok, Kiahk tune",
+    "arabic": "تين أويه إنسوك الكيهكي"
+  },
+  "youtube": "https://www.youtube.com/watch?v=n0kOGhi5_NM",
+  "places": [
+    {
+      "place": "kiahk/midnight-praises",
+      "order": 10
+    }
+  ],
+  "text": "tenoue-n-khok",
+  "tune": {
+    "english": "Kiahk tune"
+  },
+  "mahragan": {
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "2"
+  }
+}

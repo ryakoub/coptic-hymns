@@ -1,0 +1,91 @@
+{
+ "id": "praxis-response-kiahk",
+ "titles": {
+  "english": "Praxis Response for Kiahk",
+  "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ ϧⲉⲛ",
+  "arabic": "مرد الإبركسيس لشهر كيهك"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲑ̀ⲙⲁⲩ ⲙ̀ⲫⲏⲈ̀ⲑⲟⲩⲁⲃ.",
+   "translations": {
+    "english": "Hail to you O Mary, a holy hail, hail to you O Mary, the Mother of the Holy.",
+    "arabic": "السلام لك يا مريم سلاماً مقدساً، السلام لك يا مريم أم القدوس."
+   },
+   "transliterations": {
+    "english": "Shere ne Maria: khen oushere efowab: shere ne Maria: ethmav emfee-ethowab."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ⲑ̀ⲙⲁⲩ ⲙ̀ⲫⲏⲈ̀ⲑⲟⲩⲁⲃ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓϥⲁⲓϣⲉⲛⲛⲟⲩϥⲓ: ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲉⲧϭⲟⲥⲓ: ⲉⲧϥⲁⲓ ϧⲁ ⲧ̀ⲥⲏϥⲓ ⲛ̀ϣⲁϩ ⲛ̀ⲭ̀ⲣⲱⲙ.",
+   "translations": {
+    "english": "Hail to Gabriel the announcer, the great among the angels, and the holy orders on high, who carry flaming fiery swords.",
+    "arabic": "السلام لغبريال المبشر، العظيم في الملائكة، والطغمات المقدسة العلوية، الحامل السيف الملتهب ناراَ."
+   },
+   "transliterations": {
+    "english": "Shere Ghabrieel pifaishennoufi: pinishti khen niangelos: nem nitaghma ethowab etchosi: etfai kha etseefi enshah enekrom."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓϥⲁⲓϣⲉⲛⲛⲟⲩϥⲓ:"
+    },
+    {
+     "coptic": "ⲡⲓⲛⲓϣϯ ϧⲉⲛ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲛⲓⲧⲁⲅⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲉⲧϭⲟⲥⲓ:"
+    },
+    {
+     "coptic": "ⲉⲧϥⲁⲓ ϧⲁ ⲧ̀ⲥⲏϥⲓ ⲛ̀ϣⲁϩ ⲛ̀ⲭ̀ⲣⲱⲙ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲁ̀ⲗⲏⲑⲱⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ ⲁⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ. Ⲛⲁⲓ ⲛⲁⲛ.",
+   "translations": {
+    "english": "Blessed are You indeed, with Your good Father and the Holy Spirit, for You have come and saved us. Have mercy on us.",
+    "arabic": "مبارك أنت بالحقيقة، مع أبيك الصالح، والروح القدس، لأنك آتيت وخلصتنا. إرحمنا."
+   },
+   "transliterations": {
+    "english": "Ekesmaroout aleethos: nem Pekiot enaghathos: nem Pi-epnevma ethowab: je aki aksoti emmon. Nai nan."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲁ̀ⲗⲏⲑⲱⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ."
+    },
+    {
+     "coptic": "Ⲛⲁⲓ ⲛⲁⲛ."
+    }
+   ]
+  }
+ ]
+}

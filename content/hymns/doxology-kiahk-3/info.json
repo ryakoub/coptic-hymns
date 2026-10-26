@@ -1,0 +1,21 @@
+{
+  "title": "Third Kiahk Doxology",
+  "titles": {
+    "english": "Third Kiahk Doxology",
+    "coptic": "Ⲅⲁⲃⲣⲓⲏⲗ Ⲡⲓⲁⲅⲅⲉⲗⲟⲥ",
+    "arabic": "الذكصولوجية الثالثة لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/132",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 23
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=Exyjt981CVM",
+  "mahragan": {
+    "year": 2022,
+    "stage": "college",
+    "level": "1"
+  }
+}

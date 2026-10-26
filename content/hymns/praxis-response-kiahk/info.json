@@ -1,0 +1,21 @@
+{
+  "title": "Praxis Response for Kiahk",
+  "titles": {
+    "english": "Praxis Response for Kiahk",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ ϧⲉⲛ",
+    "arabic": "مرد الإبركسيس لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/203",
+  "places": [
+    {
+      "place": "kiahk/liturgy",
+      "order": 10
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=6IeF4fTywts",
+  "mahragan": {
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "gifted"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "label": "(After the verse of Archangel Michael)"
+  },
+  {
+    "coptic": "Ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ⲫⲏⲉ̀ⲧⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ: ⲙ̀Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",
+    "translations": {
+      "english": "Hail to Gabriel, / the great archangel. / Hail to him who announced / to the Virgin Mary.",
+      "arabic": "السلام لغبريال، رئيس الملائكة العظيم، السلام للذي بشَّر، مريم العذراء."
+    },
+    "transliterations": {
+      "english": "Shere Ghabrieel: pinishti enarsheeangelos: shere fee-etafhishennoufi: emmaria Tiparthenos."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ:"
+      },
+      {
+        "coptic": "ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ:"
+      },
+      {
+        "coptic": "ⲭⲉⲣⲉ ⲫⲏⲉ̀ⲧⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ:"
+      },
+      {
+        "coptic": "ⲙ̀Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ."
+      }
+    ]
+  },
+  {
+    "label": "(After the verses of all the Heavenly)"
+  },
+  {
+    "coptic": "Ⲭⲉⲣⲉ Ⲓⲱⲁⲛⲛⲏⲥ: ⲡⲓⲛⲓϣϯ ⲙ̀ⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲟⲩⲏⲃ: ⲡ̀ⲥⲉⲅⲅⲉⲛⲏⲥ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+    "translations": {
+      "english": "Hail to John, / the great forefunner. / Hail to the priest, / the relative of Emmanuel.",
+      "arabic": "السلام ليوحنا، السابق العظيم، السلام للكاهن، نسيب عمانوئيل."
+    },
+    "transliterations": {
+      "english": "Shere Yoannees: pinishti emeprothromos: shere pioweeb: epsengenees enemmanoweel."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭⲉⲣⲉ Ⲓⲱⲁⲛⲛⲏⲥ:"
+      },
+      {
+        "coptic": "ⲡⲓⲛⲓϣϯ ⲙ̀ⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ:"
+      },
+      {
+        "coptic": "ⲭⲉⲣⲉ ⲡⲓⲟⲩⲏⲃ:"
+      },
+      {
+        "coptic": "ⲡ̀ⲥⲉⲅⲅⲉⲛⲏⲥ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ."
+      }
+    ]
+  }
+]

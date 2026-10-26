@@ -1,0 +1,218 @@
+{
+ "id": "doxology-kiahk-2",
+ "titles": {
+  "english": "Second Kiahk Doxology",
+  "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲛ̀Ϯⲡⲁⲣⲑⲉⲛⲟⲥ",
+  "arabic": "ذكصولوجية كيهك الثانية"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲛ̀Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: Ⲙⲁⲣⲓⲁ ⲧ̀ϣⲉⲣⲓ ⲙ̀ⲡ̀ⲟⲩⲣⲟ Ⲇⲁⲩⲓⲇ: ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲙⲉⲛⲣⲓⲧ.",
+   "translations": {
+    "english": "The adornment of the Virgin, Mary the daughter of King David, at the right hand of Jesus Christ, the beloved Son of God.",
+    "arabic": "زينة العذراء يا مريم، إبنة الملك داود، عن يمين يسوع المسيح، إبن الله الحبيب."
+   },
+   "transliterations": {
+    "english": "Ere epsolsel entiparthenos: Maria etsheri emepouro David: saouinam enieesous Pi-ekhristos: Epsheeri emefnoti Pimenrit."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲛ̀Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲙⲁⲣⲓⲁ ⲧ̀ϣⲉⲣⲓ ⲙ̀ⲡ̀ⲟⲩⲣⲟ Ⲇⲁⲩⲓⲇ:"
+    },
+    {
+     "coptic": "ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲙⲉⲛⲣⲓⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲕⲁⲧⲁ ⲡ̀ⲥⲁϫⲓ ⲛ̀Ⲇⲁⲩⲓⲇ ⲡ̀ⲟⲩⲣⲟ: ⲡⲓϩⲩⲙⲛⲟⲇⲟⲥ ϧⲉⲛ ⲡⲓⲯⲁⲗⲙⲟⲥ: ϫⲉ ⲁⲥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲥ ⲛ̀ϫⲉ ϯⲟⲩⲣⲱ: ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ.",
+   "translations": {
+    "english": "As King David has said, in a hymn of the psalm, \"The Queen did stand, at the right hand of the throne.\"",
+    "arabic": "كقول داود الملك، المرتل في المزمور، \"قامت الملكة، عن يمين العرش.\""
+   },
+   "transliterations": {
+    "english": "Kata epsaji endavid epouro: pihimnothos khen pipsalmos: je asohi erats enje tiouro: saouinam empi-ethronos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕⲁⲧⲁ ⲡ̀ⲥⲁϫⲓ ⲛ̀Ⲇⲁⲩⲓⲇ ⲡ̀ⲟⲩⲣⲟ:"
+    },
+    {
+     "coptic": "ⲡⲓϩⲩⲙⲛⲟⲇⲟⲥ ϧⲉⲛ ⲡⲓⲯⲁⲗⲙⲟⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲥⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲥ ⲛ̀ϫⲉ ϯⲟⲩⲣⲱ:"
+    },
+    {
+     "coptic": "ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲧⲉϭⲟⲥⲓ ⲉ̀Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲱ̀ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲫⲁ ⲡⲓⲁ̀ⲙⲁϩⲓ: ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲉ̀Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ.",
+   "translations": {
+    "english": "You are exalted more than the Cherubim, O Mother of the mighty God, and more honored than the Seraphim, in heaven and on earth.",
+    "arabic": "أنتِ أرفع من الشاروبيم، يا أم الله ذي العزة، وأكرم من السارافيم، في السماء وعلى الأرض."
+   },
+   "transliterations": {
+    "english": "Techosi enisherouvim: o Ethmav emefnoti fa pi-amahi: tetaieeout eniserafim: khen etfe nem hijen pikahi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉϭⲟⲥⲓ ⲉ̀Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
+    },
+    {
+     "coptic": "ⲱ̀ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲫⲁ ⲡⲓⲁ̀ⲙⲁϩⲓ:"
+    },
+    {
+     "coptic": "ⲧⲉⲧⲁⲓⲏⲟⲩⲧ ⲉ̀Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲱ̀ⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ: ϫⲉ ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲙ̀Ⲡⲓⲁ̀ⲗⲏⲑⲓⲛⲟⲥ: ⲉⲥⲧⲟⲃ ⲛ̀ϫⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ: ⲉ̀ⲣⲉⲟ̀ϩⲓ ⲉ̀ⲣⲉⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ.",
+   "translations": {
+    "english": "Blessed are you O Mary, for you have borne the True One, while remaining a virgin, and your virginity was sealed.",
+    "arabic": "طوباكِ أنتِ يا مريم، لأنكِ ولدتِ الحقيقي، وبتوليتِك مختومة، وأنتِ باقية عذراء."
+   },
+   "transliterations": {
+    "english": "Oouniati entho Maria: je are-egfo empi-aleethinos: estob enje teparthenia: ere-ohi ereoi emparthenos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲱ̀ⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲙ̀Ⲡⲓⲁ̀ⲗⲏⲑⲓⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉⲥⲧⲟⲃ ⲛ̀ϫⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲣⲉⲟ̀ϩⲓ ⲉ̀ⲣⲉⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁϥϫⲟⲥ: ⲛ̀ϫⲉ Ⲏ̀ⲥⲁⲏ̀ⲁⲥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ: ϫⲉ ⲓⲥ ⲁ̀ⲗⲟⲩ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉⲥⲉ̀ⲙⲓⲥⲓ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+   "translations": {
+    "english": "As Isaiah has said, with a voice of joy, \"Behold a young virgin shall conceive, and bring forth to us Emmanuel.\"",
+    "arabic": "كما قال أشعياء، بصوت التهليل، \"ها فتاه عذراء، ستلد لنا عمانوئيل.\""
+   },
+   "transliterations": {
+    "english": "Kata efreeti etafgos: enje Eesa-eeas khen ou-esmee entheleel: je is alou emparthenos: esemisi nan enemmanoweel."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁϥϫⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ Ⲏ̀ⲥⲁⲏ̀ⲁⲥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲑⲉⲗⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲓⲥ ⲁ̀ⲗⲟⲩ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲉⲥⲉ̀ⲙⲓⲥⲓ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ⲙ̀ⲙⲏⲛⲓ ⲙ̀ⲙⲏⲛⲓ: ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ: ϫⲉ ⲭⲉⲣⲉ ⲕⲉ ⲭⲁⲣⲓⲧⲱⲙⲉⲛⲏ: ⲟ̀ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲥⲟⲩ.",
+   "translations": {
+    "english": "We exalt you day by day, saying with Gabriel, \"Hail to you O full of grace, the Lord is with you.\"",
+    "arabic": "نرفعُكِ يوماً فيوماً، قائلين مع غبريـال، \"إفرحي يا ممتلئة نعمة، الرب معكِ.\""
+   },
+   "transliterations": {
+    "english": "Tenchisi emmo emmeeni emmeeni: engo emmos nem Ghabrieel: je shere ke kharitomenee: o Kirios meta sou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ⲙ̀ⲙⲏⲛⲓ ⲙ̀ⲙⲏⲛⲓ:"
+    },
+    {
+     "coptic": "ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲭⲉⲣⲉ ⲕⲉ ⲭⲁⲣⲓⲧⲱⲙⲉⲛⲏ:"
+    },
+    {
+     "coptic": "ⲟ̀ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲥⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲧⲉⲛⲉⲣⲙⲁⲕⲁⲣⲓⲍⲓⲛ ⲙ̀ⲙⲟ: ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲁ̀ⲅⲅⲉⲗⲟⲥ: ⲟⲩⲟϩ Ⲡ̀ϭⲟⲓⲥ ϣⲟⲡ ⲛⲉⲙⲉ.",
+   "translations": {
+    "english": "Hail to you O Virgin, we bless you, with Gabriel the angel, the Lord is with you.",
+    "arabic": "السلام لكِ أيتها العذراء، نطوبكِ، مع غبريـال الملاك، الرب معكِ."
+   },
+   "transliterations": {
+    "english": "Shere ne o Tiparthenos: tenermakarizin emmo: nem Ghabrieel pi-angelos: o-woh Epshois shop neme."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲧⲉⲛⲉⲣⲙⲁⲕⲁⲣⲓⲍⲓⲛ ⲙ̀ⲙⲟ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲁ̀ⲅⲅⲉⲗⲟⲥ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ Ⲡ̀ϭⲟⲓⲥ ϣⲟⲡ ⲛⲉⲙⲉ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "We ask you to remember us, O our trusted advocate, before our Lord Jesus Christ, that He may forgive us our sins.",
+    "arabic": "نسألِك أن تذكرينا، أيتها الشفيعة المؤتمنة، أمام ربنا يسوع المسيح، ليغفر لنا خطايانا."
+   },
+   "transliterations": {
+    "english": "Tentiho arepenmevi: o ti-eprostatees etenhot: nahren Penshois Ieesous Pi-ekhristos: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀:"
+    },
+    {
+     "coptic": "ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ:"
+    },
+    {
+     "coptic": "ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Aspasmos Adam for Kiahk",
+  "titles": {
+    "english": "Aspasmos Adam for Kiahk",
+    "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲡⲓⲟⲩⲏⲃ",
+    "arabic": "أسبسمس آدام لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/69",
+  "places": [
+    {
+      "place": "kiahk/liturgy",
+      "order": 40
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=KHGg7NKDXtE",
+  "mahragan": {
+    "year": 2022,
+    "stage": "college",
+    "level": "1"
+  }
+}

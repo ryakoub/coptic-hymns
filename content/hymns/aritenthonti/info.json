@@ -1,0 +1,21 @@
+{
+  "title": "Aritenthonti",
+  "titles": {
+    "english": "Aritenthonti",
+    "coptic": "(Ⲁⲣⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ϯⲙⲟⲩⲕⲓ)",
+    "arabic": "أريتين ثونتي"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/532",
+  "places": [
+    {
+      "place": "kiahk/midnight-praises",
+      "order": 20
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=90wll0NbLVA",
+  "mahragan": {
+    "year": 2022,
+    "stage": "graduates",
+    "level": "2"
+  }
+}

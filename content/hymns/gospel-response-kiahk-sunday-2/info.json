@@ -1,0 +1,21 @@
+{
+  "title": "Gospel Response, Second Sunday of Kiahk",
+  "titles": {
+    "english": "Gospel Response, Second Sunday of Kiahk",
+    "coptic": "Ⲧⲉⲛϯ ⲛⲉ ⲙ̀ⲡⲓⲭⲉⲣⲉⲧⲓⲥⲙⲟⲥ",
+    "arabic": "مرد إنجيل الأحد الثاني من شهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/67",
+  "places": [
+    {
+      "place": "kiahk/liturgy",
+      "order": 30
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=zuZ-lkE8e4Y",
+  "mahragan": {
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "1"
+  }
+}

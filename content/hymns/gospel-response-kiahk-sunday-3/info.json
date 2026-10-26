@@ -1,0 +1,21 @@
+{
+  "title": "Gospel Response, Third Sunday of Kiahk",
+  "titles": {
+    "english": "Gospel Response, Third Sunday of Kiahk",
+    "coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ϧⲉⲛ ⲟⲩⲉⲙⲡ̀ϣⲁ",
+    "arabic": "مرد إنجيل الأحد الثالث من شهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/68",
+  "places": [
+    {
+      "place": "kiahk/liturgy",
+      "order": 31
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=oD3-0NiOZYk",
+  "mahragan": {
+    "year": 2022,
+    "stage": "special-needs",
+    "level": "2"
+  }
+}

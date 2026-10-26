@@ -1,0 +1,21 @@
+{
+  "title": "Verses of the Cymbals for Kiahk",
+  "titles": {
+    "english": "Verses of the Cymbals for Kiahk",
+    "coptic": "Ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ",
+    "arabic": "أرباع الناقوس لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/128",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 10
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=ehdnQC71mZg",
+  "mahragan": {
+    "year": 2022,
+    "stage": "grades-1-2",
+    "level": "1"
+  }
+}

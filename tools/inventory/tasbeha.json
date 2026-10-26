@@ -210,5 +210,95 @@
   "view": 2635,
   "tasbeha": "May their holy blessing (in the app)",
   "sure": true
+ },
+ "doxology-kiahk-1": {
+  "view": 129,
+  "tasbeha": "Kiahk: First Doxology",
+  "sure": true
+ },
+ "doxology-kiahk-2": {
+  "view": 131,
+  "tasbeha": "Kiahk: Second Doxology",
+  "sure": true
+ },
+ "doxology-kiahk-3": {
+  "view": 132,
+  "tasbeha": "Kiahk: Third Doxology",
+  "sure": true
+ },
+ "doxology-kiahk-4": {
+  "view": 133,
+  "tasbeha": "Kiahk: Fourth Doxology",
+  "sure": true
+ },
+ "doxology-kiahk-5": {
+  "view": 134,
+  "tasbeha": "Kiahk: Fifth Doxology",
+  "sure": true
+ },
+ "doxology-kiahk-6": {
+  "view": 135,
+  "tasbeha": "Kiahk: Sixth Doxology",
+  "sure": true
+ },
+ "verses-cymbals-kiahk": {
+  "view": 128,
+  "tasbeha": "Kiahk: Verses of Cymbals",
+  "sure": true
+ },
+ "gospel-response-kiahk-sunday-2": {
+  "view": 67,
+  "tasbeha": "Kiahk Liturgy: Gospel Response - 2nd (1st) Week",
+  "sure": true
+ },
+ "gospel-response-kiahk-sunday-3": {
+  "view": 68,
+  "tasbeha": "Kiahk Liturgy: Gospel Response - 3rd (4th) Week",
+  "sure": true
+ },
+ "conclusion-kiahk": {
+  "view": 535,
+  "tasbeha": "Kiahk Vespers & Matins: End of Service Hymn",
+  "sure": true
+ },
+ "aritenthonti": {
+  "view": 532,
+  "tasbeha": "Kiahk: 8th Part of the Saturday Theotokia - (Aretin-thonti)",
+  "sure": true
+ },
+ "hetenyat-kiahk": {
+  "view": 61,
+  "tasbeha": "Kiahk Liturgy: The Hitenis",
+  "sure": true
+ },
+ "tenoueh-ensok-kiahk": {
+  "text": "tenoue-n-khok",
+  "tasbeha": "Kiahk tune of Tenoueh Ensok",
+  "sure": true
+ },
+ "aspasmos-adam-kiahk": {
+  "view": 69,
+  "tasbeha": "Kiahk Liturgy: Aspasmos Adam - 1st Week",
+  "sure": true
+ },
+ "psalm-kiahk": {
+  "view": 487,
+  "tasbeha": "Kiahk Liturgy: Psalm for week 2",
+  "sure": true
+ },
+ "praxis-response-kiahk": {
+  "view": 203,
+  "tasbeha": "Kiahk Liturgy: Praxis for the 4th Week",
+  "sure": true
+ },
+ "hetenyat-gabriel-zechariah-elizabeth": {
+  "view": 61,
+  "tasbeha": "Kiahk Liturgy: The Hitenis (the verses for Gabriel, Zechariah and Elizabeth)",
+  "sure": true
+ },
+ "hetenyat-john-joachim-anna": {
+  "view": 61,
+  "tasbeha": "Kiahk Liturgy: The Hitenis (the verses for John, Joachim and Anna)",
+  "sure": true
  }
 }

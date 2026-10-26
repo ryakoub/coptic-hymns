@@ -1,6 +1,6 @@
 {
- "version": "a2a5823cedf5f84e",
- "updated": "2026-10-26T11:44:45Z",
+ "version": "fc4ec400a688d02a",
+ "updated": "2026-10-26T20:01:10Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -470,45 +470,6 @@
    },
    "collections": [
     {
-     "id": "advent",
-     "titles": {
-      "english": "Advent Fast",
-      "arabic": "صوم الميلاد"
-     },
-     "dates": {
-      "from": {
-       "coptic": [
-        3,
-        16
-       ]
-      },
-      "to": {
-       "coptic": [
-        4,
-        28
-       ]
-      }
-     },
-     "sections": [
-      {
-       "service": "midnight-praises",
-       "entries": []
-      },
-      {
-       "service": "raising-of-incense",
-       "entries": []
-      },
-      {
-       "service": "liturgy",
-       "entries": []
-      },
-      {
-       "service": "special",
-       "entries": []
-      }
-     ]
-    },
-    {
      "id": "kiahk",
      "titles": {
       "english": "Kiahk",
@@ -531,15 +492,36 @@
      "sections": [
       {
        "service": "midnight-praises",
-       "entries": []
+       "entries": [
+        "tenoueh-ensok-kiahk",
+        "aritenthonti"
+       ]
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "verses-cymbals-kiahk",
+        "doxology-kiahk-1",
+        "doxology-kiahk-2",
+        "doxology-kiahk-3",
+        "doxology-kiahk-4",
+        "doxology-kiahk-5",
+        "doxology-kiahk-6",
+        "hetenyat-kiahk",
+        "hetenyat-gabriel-zechariah-elizabeth",
+        "hetenyat-john-joachim-anna",
+        "conclusion-kiahk"
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "praxis-response-kiahk",
+        "psalm-kiahk",
+        "gospel-response-kiahk-sunday-2",
+        "gospel-response-kiahk-sunday-3",
+        "aspasmos-adam-kiahk"
+       ]
       },
       {
        "service": "special",
@@ -1666,6 +1648,32 @@
    }
   },
   {
+   "id": "aritenthonti",
+   "titles": {
+    "english": "Aritenthonti",
+    "coptic": "(Ⲁⲣⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ϯⲙⲟⲩⲕⲓ)",
+    "arabic": "أريتين ثونتي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 5,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "aritenthonti"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aritenthonti.json",
+    "bytes": 4986,
+    "sha256": "d4ad8e9b48e1391a19c61f67bb4d49732299971535f14c0c1b174aac962eb370"
+   }
+  },
+  {
    "id": "aspasmos-adam-annual",
    "titles": {
     "english": "Annual Aspasmos Adam",
@@ -1689,6 +1697,32 @@
     "url": "catalog/v1/texts/aspasmos-adam-annual.json",
     "bytes": 7943,
     "sha256": "484b2aaae994d2ccc6485bd1e8cd67f5191659fa62efce9ace979b1d32f4ac32"
+   }
+  },
+  {
+   "id": "aspasmos-adam-kiahk",
+   "titles": {
+    "english": "Aspasmos Adam for Kiahk",
+    "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲡⲓⲟⲩⲏⲃ",
+    "arabic": "أسبسمس آدام لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "aspasmos-adam-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/aspasmos-adam-kiahk.json",
+    "bytes": 2047,
+    "sha256": "8d508815a80f94debccc8737d25c2f5c89da485e76727508e3521659256c5c27"
    }
   },
   {
@@ -2058,6 +2092,32 @@
    }
   },
   {
+   "id": "conclusion-kiahk",
+   "titles": {
+    "english": "Closing Canon for Kiahk",
+    "coptic": "Ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ",
+    "arabic": "جملة ختام الصلوات لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "conclusion-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/conclusion-kiahk.json",
+    "bytes": 3957,
+    "sha256": "1b4f2cf5347e2c5f2d27b5c9c506a52b4623ca1ed8511a2322ed86810d37bb4a"
+   }
+  },
+  {
    "id": "conclusion-midnight-praises",
    "titles": {
     "english": "Conclusion of Midnight Praises",
@@ -2234,6 +2294,162 @@
     "url": "catalog/v1/texts/doxology-john-baptist-2.json",
     "bytes": 4905,
     "sha256": "167ff45b5f1494cb53f256a7a6ce2e0afacff93ac99e25627bfc545ed28f781f"
+   }
+  },
+  {
+   "id": "doxology-kiahk-1",
+   "titles": {
+    "english": "First Kiahk Doxology",
+    "coptic": "Ⲕⲉ ⲅⲁⲣ ⲁⲓϣⲁⲛⲥⲁϫⲓ",
+    "arabic": "ذكصولوجية كيهك الأولى"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-kiahk-1"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-kiahk-1.json",
+    "bytes": 14341,
+    "sha256": "07dc47be47378d88f7a24006428801ed7bb56945fedeecef720b6d59dd96b6ed"
+   }
+  },
+  {
+   "id": "doxology-kiahk-2",
+   "titles": {
+    "english": "Second Kiahk Doxology",
+    "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲛ̀Ϯⲡⲁⲣⲑⲉⲛⲟⲥ",
+    "arabic": "ذكصولوجية كيهك الثانية"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 8,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-kiahk-2"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-kiahk-2.json",
+    "bytes": 9590,
+    "sha256": "8856e1d2cb4b2cc89096e9a0859b3aa7cda6b12cb59606882de645be32940b8f"
+   }
+  },
+  {
+   "id": "doxology-kiahk-3",
+   "titles": {
+    "english": "Third Kiahk Doxology",
+    "coptic": "Ⲅⲁⲃⲣⲓⲏⲗ Ⲡⲓⲁⲅⲅⲉⲗⲟⲥ",
+    "arabic": "الذكصولوجية الثالثة لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-kiahk-3"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-kiahk-3.json",
+    "bytes": 14212,
+    "sha256": "1616c1f7d7651dbe5248c6224ea13b2d7b5cd0a27f7978fd8ad786ef6ec36dfc"
+   }
+  },
+  {
+   "id": "doxology-kiahk-4",
+   "titles": {
+    "english": "Fourth Kiahk Doxology",
+    "coptic": "Ϧⲉⲛ ⲡⲓⲁ̀ⲃⲟⲧ ⲙ̀ⲙⲁϩⲥⲟⲟⲩ",
+    "arabic": "الذكصولوجية الرابعة لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-kiahk-4"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-kiahk-4.json",
+    "bytes": 6895,
+    "sha256": "aca240c7aa990f6c03bbed044180fe0d2ddf7b8f6078f0b12ae20f4890a20116"
+   }
+  },
+  {
+   "id": "doxology-kiahk-5",
+   "titles": {
+    "english": "Fifth Kiahk Doxology",
+    "coptic": "Ⲉ̀ⲧⲁ ⲡⲓⲱⲡ ⲓ̀ ⲉ̀Ⲍⲁⲭⲁⲣⲓⲁⲥ",
+    "arabic": "الذكصولوجية الخامسة لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 12,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-kiahk-5"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-kiahk-5.json",
+    "bytes": 13746,
+    "sha256": "b07557962757f1328d1e4235dc988014838d43fc7134a5ff06589ed1e50d059e"
+   }
+  },
+  {
+   "id": "doxology-kiahk-6",
+   "titles": {
+    "english": "Sixth Kiahk Doxology",
+    "coptic": "Ⲛ̀ⲑⲟⲕ ⲟⲩⲛⲓϣϯ ⲁ̀ⲗⲏⲑⲱⲥ",
+    "arabic": "الذكصولوجية السادسة لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "doxology-kiahk-6"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/doxology-kiahk-6.json",
+    "bytes": 7246,
+    "sha256": "b6d6aed09843b9d8ffb852da7d3063d22236712f9925602f66f3adf853b20474"
    }
   },
   {
@@ -2646,6 +2862,58 @@
    }
   },
   {
+   "id": "gospel-response-kiahk-sunday-2",
+   "titles": {
+    "english": "Gospel Response, Second Sunday of Kiahk",
+    "coptic": "Ⲧⲉⲛϯ ⲛⲉ ⲙ̀ⲡⲓⲭⲉⲣⲉⲧⲓⲥⲙⲟⲥ",
+    "arabic": "مرد إنجيل الأحد الثاني من شهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "gospel-response-kiahk-sunday-2"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/gospel-response-kiahk-sunday-2.json",
+    "bytes": 2584,
+    "sha256": "6ccb48d2c622c1fcd55aa9c4181d68e292b357ee59f7d3d7664f798e0a66d264"
+   }
+  },
+  {
+   "id": "gospel-response-kiahk-sunday-3",
+   "titles": {
+    "english": "Gospel Response, Third Sunday of Kiahk",
+    "coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ϧⲉⲛ ⲟⲩⲉⲙⲡ̀ϣⲁ",
+    "arabic": "مرد إنجيل الأحد الثالث من شهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "gospel-response-kiahk-sunday-3"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/gospel-response-kiahk-sunday-3.json",
+    "bytes": 2828,
+    "sha256": "6d6be770353c580d72638bf446cbec6ccaa1f82566bd6f678a341e20844a0af7"
+   }
+  },
+  {
    "id": "gospel-response-vespers-annual",
    "titles": {
     "english": "Annual Gospel Response (Vespers and Matins)",
@@ -2696,6 +2964,84 @@
     "url": "catalog/v1/texts/hetenyat-annual.json",
     "bytes": 13713,
     "sha256": "4717b551ad9c96380ecd872356636ba9d6a4ad17872f28804b87b9d63cd99262"
+   }
+  },
+  {
+   "id": "hetenyat-gabriel-zechariah-elizabeth",
+   "titles": {
+    "english": "Hetenyat of Gabriel, Zechariah and Elizabeth",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+    "arabic": "هيتنيات الملاك غبريال وزكريا وأليصابات"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "hetenyat-gabriel-zechariah-elizabeth"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hetenyat-gabriel-zechariah-elizabeth.json",
+    "bytes": 2661,
+    "sha256": "8519b599ec4efbb6afb8069137981ab70f0f5a76967cd314a13d182ab97508b4"
+   }
+  },
+  {
+   "id": "hetenyat-john-joachim-anna",
+   "titles": {
+    "english": "Hetenyat of John the Baptist, Joachim and Anna",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+    "arabic": "هيتنيات يوحنا المعمدان ويواقيم وحنة"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "hetenyat-john-joachim-anna"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hetenyat-john-joachim-anna.json",
+    "bytes": 2790,
+    "sha256": "4459d3da6a1aca4c66a05654319fc934af9ee22eee0e6eee4d6031abb2d3f253"
+   }
+  },
+  {
+   "id": "hetenyat-kiahk",
+   "titles": {
+    "english": "Kiahk Hetenyat (intercessions)",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+    "arabic": "الهيتنيات الكيهكي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 6,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "hetenyat-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/hetenyat-kiahk.json",
+    "bytes": 7501,
+    "sha256": "5277623f557e95f783e9733ab5ff8f9451188d6998f9ebcaee3774ad39098a85"
    }
   },
   {
@@ -3366,6 +3712,32 @@
    }
   },
   {
+   "id": "praxis-response-kiahk",
+   "titles": {
+    "english": "Praxis Response for Kiahk",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ ϧⲉⲛ",
+    "arabic": "مرد الإبركسيس لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "praxis-response-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/praxis-response-kiahk.json",
+    "bytes": 3557,
+    "sha256": "11af206da5d2bdf6889175d7e34bcf57578277b80e1f7891015663705768d6a1"
+   }
+  },
+  {
    "id": "praxis-response-resurrection",
    "titles": {
     "english": "Praxis Response for Resurrection"
@@ -3435,6 +3807,32 @@
     "url": "catalog/v1/texts/psalm-150-4th-hoos.json",
     "bytes": 8026,
     "sha256": "b311d6c6532de9fd0814cc2213b1ce1ef9b20a76372a71b5d29846179c79d281"
+   }
+  },
+  {
+   "id": "psalm-kiahk",
+   "titles": {
+    "english": "Kiahk Psalm",
+    "coptic": "Ⲥⲱⲧⲉⲙ ⲧⲁϣⲉⲣⲓ",
+    "arabic": "المزمور الكيهكي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "psalm-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/psalm-kiahk.json",
+    "bytes": 2815,
+    "sha256": "ab0113518bad5a6bc904fc5fae0789c477a54740bdb92b24fe4590e453e798d9"
    }
   },
   {
@@ -4913,7 +5311,8 @@
     "tenoue-n-khok",
     "tenoue-n-khok-english",
     "tenoue-n-khok-hcoc-medium",
-    "tenoue-n-khok-hcoc-minor"
+    "tenoue-n-khok-hcoc-minor",
+    "tenoueh-ensok-kiahk"
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
@@ -5173,6 +5572,32 @@
     "url": "catalog/v1/texts/verse-cymbals-resurrection.json",
     "bytes": 4265,
     "sha256": "f03a09eced1ad2a06e685e92deb9ad69ac8ed45d34ec4f0ffcb068ec7ddce610"
+   }
+  },
+  {
+   "id": "verses-cymbals-kiahk",
+   "titles": {
+    "english": "Verses of the Cymbals for Kiahk",
+    "coptic": "Ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ",
+    "arabic": "أرباع الناقوس لشهر كيهك"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "verses-cymbals-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/verses-cymbals-kiahk.json",
+    "bytes": 2351,
+    "sha256": "c30df2ce3689731f642e354618dbb63230211dbebe8368c7fa2340720be71437"
    }
   },
   {
@@ -5850,6 +6275,32 @@
    ]
   },
   {
+   "id": "aritenthonti",
+   "text": "aritenthonti",
+   "duration": 846.55,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 5
+   },
+   "source": "https://tasbeha.org/hymn_library/view/532",
+   "youtube": "https://www.youtube.com/watch?v=90wll0NbLVA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aritenthonti.json",
+     "bytes": 74,
+     "sha256": "2781a01534bae88a9d812bd63667b52d5297e2aa7f7d4223be52643f558f41a9",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/aritenthonti/audio.m4a",
+     "role": "audio",
+     "bytes": 13691609,
+     "sha256": "90f3898a853c2d11d193514eb5322c382269915bb34c0d80cb01cd17b502fc6e"
+    }
+   ]
+  },
+  {
    "id": "as-it-was-full-ending-english",
    "text": "os-ein-response",
    "duration": 72.19,
@@ -5932,6 +6383,32 @@
      "role": "audio",
      "bytes": 13701445,
      "sha256": "3b9047e44e99e716efd0af268b97e63720a98fab6bbb9101b1f14607343439e8"
+    }
+   ]
+  },
+  {
+   "id": "aspasmos-adam-kiahk",
+   "text": "aspasmos-adam-kiahk",
+   "duration": 195.23,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/69",
+   "youtube": "https://www.youtube.com/watch?v=KHGg7NKDXtE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/aspasmos-adam-kiahk.json",
+     "bytes": 88,
+     "sha256": "a470970995ea2d03bb20f4443009cdda53306e15116028235be2a4458d573f4b",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/aspasmos-adam-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 3158254,
+     "sha256": "df6e220c32be678448d486668c00f7e26daad503eb1f8b92d10d6e13666119f5"
     }
    ]
   },
@@ -6397,6 +6874,32 @@
    ]
   },
   {
+   "id": "conclusion-kiahk",
+   "text": "conclusion-kiahk",
+   "duration": 83.48,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/535",
+   "youtube": "https://www.youtube.com/watch?v=-WTyw9BflSQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/conclusion-kiahk.json",
+     "bytes": 82,
+     "sha256": "5352859e64a3479161e6d02664d359d61f302abefcabd901f23ba61d468ab952",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/conclusion-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 1350929,
+     "sha256": "9dc07899bc83bd03ca939ec609cc32e988ef8871f24f27c1a62009f8f13feb36"
+    }
+   ]
+  },
+  {
    "id": "conclusion-midnight-praises",
    "text": "conclusion-midnight-praises",
    "duration": 263.87,
@@ -6702,6 +7205,162 @@
      "role": "audio",
      "bytes": 2254379,
      "sha256": "0991b8566dfb6cc8c0d927edfb0d3c0f8897a42c369f588608bd8b2ea4d585d0"
+    }
+   ]
+  },
+  {
+   "id": "doxology-kiahk-1",
+   "text": "doxology-kiahk-1",
+   "duration": 321.29,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/129",
+   "youtube": "https://www.youtube.com/watch?v=9tJrNgLj7Sk",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-1.json",
+     "bytes": 82,
+     "sha256": "484daa432f6ce0d12be176ffced170dd60d18e9fd7dda7c917fb8079031701e9",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-kiahk-1/audio.m4a",
+     "role": "audio",
+     "bytes": 5196980,
+     "sha256": "37680c0104d084ea224c604773798f63852a5540303ec12a4cf1259fb3ef933d"
+    }
+   ]
+  },
+  {
+   "id": "doxology-kiahk-2",
+   "text": "doxology-kiahk-2",
+   "duration": 224.24,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/131",
+   "youtube": "https://www.youtube.com/watch?v=8qS9YZk8QWc",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-2.json",
+     "bytes": 82,
+     "sha256": "5addf9a677f6c341a277de3051f1564ea8e6e34b50f08bdc217dd74bfa077a71",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-kiahk-2/audio.m4a",
+     "role": "audio",
+     "bytes": 3627281,
+     "sha256": "b4f8184c974feeb4bb7c89f7a58cd9710db77f05e5e9c86c888e7366488cbdb2"
+    }
+   ]
+  },
+  {
+   "id": "doxology-kiahk-3",
+   "text": "doxology-kiahk-3",
+   "duration": 319.23,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/132",
+   "youtube": "https://www.youtube.com/watch?v=Exyjt981CVM",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-3.json",
+     "bytes": 82,
+     "sha256": "864ea2c970d1d441e5e817cfb3e7b6fb9cfb66e69dcf8de0b1f3800566d34dff",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-kiahk-3/audio.m4a",
+     "role": "audio",
+     "bytes": 5163534,
+     "sha256": "ef27d2b82db6edf17fe303a5c9541fb84c4899df8fc4dba5e49a7b21bd540cdd"
+    }
+   ]
+  },
+  {
+   "id": "doxology-kiahk-4",
+   "text": "doxology-kiahk-4",
+   "duration": 169.13,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/133",
+   "youtube": "https://www.youtube.com/watch?v=gBGKZxpx5dA",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-4.json",
+     "bytes": 82,
+     "sha256": "cee4d1461832fc0a7d2eee5f006b1ef80989f95f78c4bcf0f22e38ce8ce70e62",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-kiahk-4/audio.m4a",
+     "role": "audio",
+     "bytes": 2736158,
+     "sha256": "cf0961bf214f830bc2bbfbba987bbc0f73599c57935638ec5caaeab5f28ee495"
+    }
+   ]
+  },
+  {
+   "id": "doxology-kiahk-5",
+   "text": "doxology-kiahk-5",
+   "duration": 318.55,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 12
+   },
+   "source": "https://tasbeha.org/hymn_library/view/134",
+   "youtube": "https://www.youtube.com/watch?v=HODwuFRK330",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-5.json",
+     "bytes": 82,
+     "sha256": "2b21c719625b34766f3d82fcaa94e285958979e5864f35a6646f5fd83de9b832",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-kiahk-5/audio.m4a",
+     "role": "audio",
+     "bytes": 5152668,
+     "sha256": "93302360c28835bcf3bef2e398d82813895f236c3beb69048fcf2d718e5cc18a"
+    }
+   ]
+  },
+  {
+   "id": "doxology-kiahk-6",
+   "text": "doxology-kiahk-6",
+   "duration": 173.2,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/135",
+   "youtube": "https://www.youtube.com/watch?v=0vl5DVjnCmw",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-6.json",
+     "bytes": 82,
+     "sha256": "297403788d183dc52aeb34b6641495ceb198ff3be7ba9e7af85cf85138ee3ce5",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/doxology-kiahk-6/audio.m4a",
+     "role": "audio",
+     "bytes": 2801886,
+     "sha256": "69042c01fd2c01f67bc1d4b3b79345da0509b22981fc9105081e4464e53c7cc5"
     }
    ]
   },
@@ -7284,6 +7943,58 @@
    ]
   },
   {
+   "id": "gospel-response-kiahk-sunday-2",
+   "text": "gospel-response-kiahk-sunday-2",
+   "duration": 84.82,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/67",
+   "youtube": "https://www.youtube.com/watch?v=zuZ-lkE8e4Y",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-response-kiahk-sunday-2.json",
+     "bytes": 110,
+     "sha256": "9592b3b3da6d71d0ee4575a80decf58324052bf6e3de9e5ecb281ec55a2bf52d",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/gospel-response-kiahk-sunday-2/audio.m4a",
+     "role": "audio",
+     "bytes": 1372643,
+     "sha256": "7373976fec711840d6f0562f7c3d39a838ebb03e3bfe6479cabc6ee525bf4d5f"
+    }
+   ]
+  },
+  {
+   "id": "gospel-response-kiahk-sunday-3",
+   "text": "gospel-response-kiahk-sunday-3",
+   "duration": 86.84,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/68",
+   "youtube": "https://www.youtube.com/watch?v=oD3-0NiOZYk",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-response-kiahk-sunday-3.json",
+     "bytes": 110,
+     "sha256": "21ffbc3bae203f5868a1fb65200017a55aefd09e1aa1fe9e1bb86928528a4e3f",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/gospel-response-kiahk-sunday-3/audio.m4a",
+     "role": "audio",
+     "bytes": 1405314,
+     "sha256": "841242b3a99ebdc63e89c347a3b0e59cedb771c6470f2d54d193842b365eb08d"
+    }
+   ]
+  },
+  {
    "id": "gospel-response-matins-annual",
    "text": "gospel-response-vespers-annual",
    "duration": 132.19,
@@ -7365,6 +8076,84 @@
      "role": "audio",
      "bytes": 10908397,
      "sha256": "84a2cfcaa49fe2489e61e79cf6fe86edd2e4f8052dbb4e58fa464a2dcf1f8949"
+    }
+   ]
+  },
+  {
+   "id": "hetenyat-gabriel-zechariah-elizabeth",
+   "text": "hetenyat-gabriel-zechariah-elizabeth",
+   "duration": 116.33,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/61",
+   "youtube": "https://www.youtube.com/watch?v=atsEpkUJTY0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hetenyat-gabriel-zechariah-elizabeth.json",
+     "bytes": 122,
+     "sha256": "856607773273372ead3bb8e4e5a633d83c7a3b998c1f761634e49b1479f45829",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/hetenyat-gabriel-zechariah-elizabeth/audio.m4a",
+     "role": "audio",
+     "bytes": 1882223,
+     "sha256": "046aeb74319e89698a07eb42d695a81505a4437c896e8b8671c3ac3079f35c55"
+    }
+   ]
+  },
+  {
+   "id": "hetenyat-john-joachim-anna",
+   "text": "hetenyat-john-joachim-anna",
+   "duration": 96.94,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/61",
+   "youtube": "https://www.youtube.com/watch?v=0fr_kcQnBNQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hetenyat-john-joachim-anna.json",
+     "bytes": 102,
+     "sha256": "47f75f3b11c6dba679cdd4634be160a83145b6a169aebed4f938e3ddd49c09d3",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/hetenyat-john-joachim-anna/audio.m4a",
+     "role": "audio",
+     "bytes": 2346985,
+     "sha256": "6e959e693cf33559a7b7e60b14ad5310f59e6687165f43c9af67ae5108e960fa"
+    }
+   ]
+  },
+  {
+   "id": "hetenyat-kiahk",
+   "text": "hetenyat-kiahk",
+   "duration": 184.78,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 6
+   },
+   "source": "https://tasbeha.org/hymn_library/view/61",
+   "youtube": "https://www.youtube.com/watch?v=HR35VeTAM5A",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hetenyat-kiahk.json",
+     "bytes": 78,
+     "sha256": "e54204455ae141492f9aab4c448f02192f8841f326256318d2be89846220e2fe",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/hetenyat-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 2989270,
+     "sha256": "c9ff2cb64bff4e5a7029d495ca658c04dd966d03355ceb0f6dec354873af963f"
     }
    ]
   },
@@ -8941,6 +9730,32 @@
    ]
   },
   {
+   "id": "praxis-response-kiahk",
+   "text": "praxis-response-kiahk",
+   "duration": 127.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 3
+   },
+   "source": "https://tasbeha.org/hymn_library/view/203",
+   "youtube": "https://www.youtube.com/watch?v=6IeF4fTywts",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-kiahk.json",
+     "bytes": 92,
+     "sha256": "6851a9b0336f3c2df88c077e04c9d86b44ebc67a8435e948c82b893ef66be273",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/praxis-response-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 2060219,
+     "sha256": "33acdf5268e5af233764ff44d3389ff59b4c2277be4d6fb46a953c378d612e61"
+    }
+   ]
+  },
+  {
    "id": "praxis-response-resurrection",
    "text": "praxis-response-resurrection",
    "duration": 109.08,
@@ -9016,6 +9831,32 @@
      "role": "audio",
      "bytes": 2865718,
      "sha256": "d2f908df0c084eac5678540724abe2657eba6307e69982b846baf88e4e12f8c9"
+    }
+   ]
+  },
+  {
+   "id": "psalm-kiahk",
+   "text": "psalm-kiahk",
+   "duration": 266.08,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 3
+   },
+   "source": "https://tasbeha.org/hymn_library/view/487",
+   "youtube": "https://www.youtube.com/watch?v=dxiGW6WuRmQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/psalm-kiahk.json",
+     "bytes": 72,
+     "sha256": "59c2daca36d568c3bce0b34a85549cfb79099d8b03f60e7f6d46b2dc0e191cd5",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/psalm-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 4303983,
+     "sha256": "90d3f91b835c2e83451a49a30f3bd3cc359fd042b727c7b491da9574f3225200"
     }
    ]
   },
@@ -11779,6 +12620,35 @@
    ]
   },
   {
+   "id": "tenoueh-ensok-kiahk",
+   "text": "tenoue-n-khok",
+   "duration": 177.19,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "content/hymns/tenoueh-ensok-kiahk/",
+   "tune": {
+    "english": "Kiahk tune"
+   },
+   "youtube": "https://www.youtube.com/watch?v=n0kOGhi5_NM",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenoueh-ensok-kiahk.json",
+     "bytes": 82,
+     "sha256": "bd9ba285f5930f3a31447121f586a58d7c2ca325a73cd2ff7ec2d20fcd0137c5",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/tenoueh-ensok-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 2866475,
+     "sha256": "71c97f69dbb01bdbe4406efd75a2c8a5be245a530906252bc013f1d5fd037e7f"
+    }
+   ]
+  },
+  {
    "id": "teoi-enhekanos",
    "text": "teoi-enhekanos",
    "duration": 899.6,
@@ -12126,6 +12996,32 @@
      "role": "audio",
      "bytes": 3231374,
      "sha256": "6bff1ceb2ee0177467e4c02dea7755029186e3664bee90a098eab8b80952b8ed"
+    }
+   ]
+  },
+  {
+   "id": "verses-cymbals-kiahk",
+   "text": "verses-cymbals-kiahk",
+   "duration": 78.46,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 2
+   },
+   "source": "https://tasbeha.org/hymn_library/view/128",
+   "youtube": "https://www.youtube.com/watch?v=ehdnQC71mZg",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verses-cymbals-kiahk.json",
+     "bytes": 90,
+     "sha256": "ed6e79ab5d9459f753db673de8495b7f195772da2e0398786c42d455f7d8bf8c",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/verses-cymbals-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 1269751,
+     "sha256": "cc123153505cad13de87fdc78313bf5660a3d78432a745d561c9adfadd669f1f"
     }
    ]
   },

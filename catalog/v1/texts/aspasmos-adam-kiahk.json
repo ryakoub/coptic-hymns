@@ -1,0 +1,50 @@
+{
+ "id": "aspasmos-adam-kiahk",
+ "titles": {
+  "english": "Aspasmos Adam for Kiahk",
+  "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲡⲓⲟⲩⲏⲃ",
+  "arabic": "أسبسمس آدام لشهر كيهك"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲡⲓⲟⲩⲏⲃ ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲃⲁⲣⲁⲭⲓⲁⲥ ⲉⲩⲭⲏ ϧⲉⲛ ⲡⲓⲉ̀ⲣⲫⲉⲓ: ⲉϥⲧⲁⲗⲉ ⲟⲩⲥ̀ⲑⲟⲓ ⲛⲟⲩϥⲓ ⲉ̀ⲡ̀ϣⲱⲓ.",
+   "translations": {
+    "english": "Zechariah the priest, the son of Barachias, was in the temple, offering up incense.",
+    "arabic": "زكريا الكاهن ابن براخيا فيما هر في الهيكل يرفع البخور."
+   },
+   "transliterations": {
+    "english": "Zakharias pioweeb epsheeri embarashias evkee khen pi-erfei: eftale ou-estoi noufi e-epshoi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲍⲁⲭⲁⲣⲓⲁⲥ ⲡⲓⲟⲩⲏⲃ ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲃⲁⲣⲁⲭⲓⲁⲥ ⲉⲩⲭⲏ ϧⲉⲛ ⲡⲓⲉ̀ⲣⲫⲉⲓ:"
+    },
+    {
+     "coptic": "ⲉϥⲧⲁⲗⲉ ⲟⲩⲥ̀ⲑⲟⲓ ⲛⲟⲩϥⲓ ⲉ̀ⲡ̀ϣⲱⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲉⲧⲁϥⲛⲁⲩ ⲉ̀ⲡⲓⲟ̀ⲩⲱⲓⲛⲓ: ⲉⲧⲭⲏ ϧⲉⲛ ⲡⲉϥϩⲟ ⲁϥⲉ̀ⲣϩⲟϯ ⲟⲩⲟϩ ⲁϥϩⲉⲓ ϧⲁⲣⲁⲧⲟⲩ ⲛ̀ⲛⲉϥ ϭⲁⲗⲁⲩϫ.",
+   "translations": {
+    "english": "When he saw the light, which was before his face, he was terrified and fell down, under his feet.",
+    "arabic": "لما رأي النور الكائن في وجه خاف وسقط تحت رجليه."
+   },
+   "transliterations": {
+    "english": "Etafnav epi-owoini: etkee khen pefho aferhoti o-woh afhei kharatou ennef chalavg."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲧⲁϥⲛⲁⲩ ⲉ̀ⲡⲓⲟ̀ⲩⲱⲓⲛⲓ:"
+    },
+    {
+     "coptic": "ⲉⲧⲭⲏ ϧⲉⲛ ⲡⲉϥϩⲟ ⲁϥⲉ̀ⲣϩⲟϯ ⲟⲩⲟϩ ⲁϥϩⲉⲓ ϧⲁⲣⲁⲧⲟⲩ ⲛ̀ⲛⲉϥ ϭⲁⲗⲁⲩϫ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Kiahk Hetenyat (intercessions)",
+  "titles": {
+    "english": "Kiahk Hetenyat (intercessions)",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+    "arabic": "الهيتنيات الكيهكي"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/61",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 30
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=HR35VeTAM5A",
+  "mahragan": {
+    "year": 2022,
+    "stage": "grades-5-6",
+    "level": "2"
+  }
+}

@@ -21,6 +21,7 @@ from add_hymn import get_audio, duration  # noqa: E402
 TUNES = {
     "distribution-annual-psalm-150": "With Psalm 150",
     "je-nai-nan": "Je Nai Nan only",
+    "tenoueh-ensok-kiahk": "Kiahk tune",
     "ten-oosht-evol-basil": "St. Basil Liturgy",
     "ten-oosht-evol-gregory": "St. Gregory Liturgy",
     "ten-oosht-evol-vespers-matins": "Vespers and Matins",

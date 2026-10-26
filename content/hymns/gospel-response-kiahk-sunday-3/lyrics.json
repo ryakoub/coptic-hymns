@@ -1,0 +1,50 @@
+[
+  {
+    "coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ϧⲉⲛ ⲟⲩⲉⲙⲡ̀ϣⲁ: ⲛⲉⲙ Ⲉ̀ⲗⲓⲥⲁⲃⲉⲧ ⲧⲉⲥⲩⲅⲅⲉⲛⲏⲥ: ϫⲉ ⲧⲉⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ⲑⲟ ϧⲉⲛ ⲛⲓϩⲓⲟⲙⲓ: ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡ̀ⲟⲩⲧⲁϩ ⲛ̀ⲧⲉ ⲧⲉⲛⲉϫⲓ.",
+    "translations": {
+      "english": "We magnify you worthily, with Elizabeth your cousin saying, \"Blessed are you among women, and blessed is the fruit of your womb.\"",
+      "arabic": "نعظمكِ بإستحقاق، مع أليصابات نسيبتِك قائلين، \"مباركة أنتِ في النساء، ومباركة هي ثمرة بطنِك.\""
+    },
+    "transliterations": {
+      "english": "Tenchisi emmo khen o-emepsha: nem Elisabet tesingenees: je te-esmaroout entho khen nihiomi: efesmaroout enje epoutah ente teneji."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ϧⲉⲛ ⲟⲩⲉⲙⲡ̀ϣⲁ:"
+      },
+      {
+        "coptic": "ⲛⲉⲙ Ⲉ̀ⲗⲓⲥⲁⲃⲉⲧ ⲧⲉⲥⲩⲅⲅⲉⲛⲏⲥ:"
+      },
+      {
+        "coptic": "ϫⲉ ⲧⲉⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ⲑⲟ ϧⲉⲛ ⲛⲓϩⲓⲟⲙⲓ:"
+      },
+      {
+        "coptic": "ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡ̀ⲟⲩⲧⲁϩ ⲛ̀ⲧⲉ ⲧⲉⲛⲉϫⲓ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ: ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲙⲁϯϩⲟ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "Wherefore we glorify you, as the ever-Theotokos, ask the Lord on our behalf, that He may forgive us our sins.",
+      "arabic": "من أجل هذا نمجدِك، كوالدة الإله كل حين، إسألي الرب عنا، ليغفر لنا خطايانا."
+    },
+    "transliterations": {
+      "english": "Ethve fai tenti-oou ne: hos The-otokos enseeou niven: matiho e-epshois e-ehree egon: entefka nennovi nan evol."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ:"
+      },
+      {
+        "coptic": "ⲙⲁϯϩⲟ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+      },
+      {
+        "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+      }
+    ]
+  }
+]

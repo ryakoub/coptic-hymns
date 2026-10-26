@@ -1,0 +1,62 @@
+{
+ "id": "hetenyat-john-joachim-anna",
+ "titles": {
+  "english": "Hetenyat of John the Baptist, Joachim and Anna",
+  "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+  "arabic": "هيتنيات يوحنا المعمدان ويواقيم وحنة"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡⲓⲥⲩⲅⲅⲉⲛⲏⲥ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡ̀ϣⲏⲣⲓ ⲛ̀Ⲍⲁⲭⲁⲣⲓⲁⲥ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the intercessions, of the relative of Emmanuel, John the son of Zechariah, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بشفاعات، نسيب عمانوئيل، يوحنا إبن زكريا، يا رب أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-epresvia: ente pisingenees enemmanoweel: Yoannees epsheeri enzakharias: Epshois ari-ehmot nan empiko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲥⲩⲅⲅⲉⲛⲏⲥ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲡ̀ϣⲏⲣⲓ ⲛ̀Ⲍⲁⲭⲁⲣⲓⲁⲥ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲛⲓϧⲉⲗⲗⲟⲓ ⲧ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ: Ⲓⲱⲁ̀ⲕⲓⲙ ⲛⲉⲙ Ⲁⲛⲛⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers, of the blessed elders, Joachim and Anna, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بصلوات، زكريا الكاهن، وإمرأته أليصابات، يا رب أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten nievshee: ente nikhelloi etesmaroout: Yo-akim nem Anna: Epshois ari-ehmot nan empiko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲛⲓϧⲉⲗⲗⲟⲓ ⲧ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁ̀ⲕⲓⲙ ⲛⲉⲙ Ⲁⲛⲛⲁ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  }
+ ]
+}

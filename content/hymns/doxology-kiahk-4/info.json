@@ -1,0 +1,21 @@
+{
+  "title": "Fourth Kiahk Doxology",
+  "titles": {
+    "english": "Fourth Kiahk Doxology",
+    "coptic": "Ϧⲉⲛ ⲡⲓⲁ̀ⲃⲟⲧ ⲙ̀ⲙⲁϩⲥⲟⲟⲩ",
+    "arabic": "الذكصولوجية الرابعة لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/133",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 24
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=gBGKZxpx5dA",
+  "mahragan": {
+    "year": 2022,
+    "stage": "grades-3-4",
+    "level": "1"
+  }
+}

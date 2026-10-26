@@ -1,0 +1,21 @@
+{
+  "title": "Second Kiahk Doxology",
+  "titles": {
+    "english": "Second Kiahk Doxology",
+    "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲛ̀Ϯⲡⲁⲣⲑⲉⲛⲟⲥ",
+    "arabic": "ذكصولوجية كيهك الثانية"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/131",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 22
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=8qS9YZk8QWc",
+  "mahragan": {
+    "year": 2022,
+    "stage": "ms",
+    "level": "1"
+  }
+}

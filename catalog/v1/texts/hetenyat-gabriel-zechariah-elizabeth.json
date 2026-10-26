@@ -1,0 +1,62 @@
+{
+ "id": "hetenyat-gabriel-zechariah-elizabeth",
+ "titles": {
+  "english": "Hetenyat of Gabriel, Zechariah and Elizabeth",
+  "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+  "arabic": "هيتنيات الملاك غبريال وزكريا وأليصابات"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ: Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓϥⲁⲓϣⲉⲛⲛⲟⲩϥⲓ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the intercessions, of the holy archangel, Gabriel the announcer, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "بشفاعات، رئيس الملائكة الطاهر، غبريال المبشر، يا رب أنعم علينا بمغفرة خطايانا."
+   },
+   "transliterations": {
+    "english": "Hiten ni-epresvia: ente piarsheeangelos ethowab: Ghabrieel pifaishennoufi: Epshois ari-ehmot nan empiko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓϥⲁⲓϣⲉⲛⲛⲟⲩϥⲓ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲏⲃ Ⲍⲁⲭⲁⲣⲓⲁⲥ: ⲛⲉⲙ ⲧⲉϥⲥ̀ϩⲓⲙⲓ Ⲉ̀ⲗⲓⲥⲁⲃⲉⲧ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the prayers, of Zechariah the priest, and his wife Elizabeth, O Lord, grant us the forgiveness of our sins.",
+    "arabic": "...."
+   },
+   "transliterations": {
+    "english": "Hiten nievshee: ente pioweeb Zakharias: nem tefeshimi Elisabet: Epshois ari-ehmot nan empiko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲏⲃ Ⲍⲁⲭⲁⲣⲓⲁⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲧⲉϥⲥ̀ϩⲓⲙⲓ Ⲉ̀ⲗⲓⲥⲁⲃⲉⲧ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  }
+ ]
+}

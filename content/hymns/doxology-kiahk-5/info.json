@@ -1,0 +1,21 @@
+{
+  "title": "Fifth Kiahk Doxology",
+  "titles": {
+    "english": "Fifth Kiahk Doxology",
+    "coptic": "Ⲉ̀ⲧⲁ ⲡⲓⲱⲡ ⲓ̀ ⲉ̀Ⲍⲁⲭⲁⲣⲓⲁⲥ",
+    "arabic": "الذكصولوجية الخامسة لشهر كيهك"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/134",
+  "places": [
+    {
+      "place": "kiahk/raising-of-incense",
+      "order": 25
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=HODwuFRK330",
+  "mahragan": {
+    "year": 2022,
+    "stage": "college",
+    "level": "2"
+  }
+}

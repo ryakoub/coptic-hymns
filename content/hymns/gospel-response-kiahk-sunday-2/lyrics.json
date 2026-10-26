@@ -1,0 +1,50 @@
+[
+  {
+    "coptic": "Ⲧⲉⲛϯ ⲛⲉ ⲙ̀ⲡⲓⲭⲉⲣⲉⲧⲓⲥⲙⲟⲥ: ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ: ϫⲉ ⲭⲉⲣⲉ ⲕⲉⲭⲁⲣⲓⲧⲱⲙⲉⲛⲏ: ⲟ̀ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲥⲟⲩ.",
+    "translations": {
+      "english": "We give unto you greeting, with Gabriel the angel saying, \"Hail to you O full of grace, the Lord is with you.\"",
+      "arabic": "نعطيكِ السلام، مع غبريال الملاك قائلين، \"السلام لكِ يا ممتلئة نعمة، الرب معكِ.\""
+    },
+    "transliterations": {
+      "english": "Tenti ne empisheretismos: nem Ghabrieel piangelos: je shere kekharitomenee: o Kirios meta sou."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲧⲉⲛϯ ⲛⲉ ⲙ̀ⲡⲓⲭⲉⲣⲉⲧⲓⲥⲙⲟⲥ:"
+      },
+      {
+        "coptic": "ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ:"
+      },
+      {
+        "coptic": "ϫⲉ ⲭⲉⲣⲉ ⲕⲉⲭⲁⲣⲓⲧⲱⲙⲉⲛⲏ:"
+      },
+      {
+        "coptic": "ⲟ̀ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲥⲟⲩ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ: ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲙⲁϯϩⲟ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+    "translations": {
+      "english": "Wherefore we glorify you, as the ever-Theotokos, ask the Lord on our behalf, that He may forgive us our sins.",
+      "arabic": "من أجل هذا نمجدِك، كوالدة الإله كل حين، إسألي الرب عنا، ليغفر لنا خطايانا."
+    },
+    "transliterations": {
+      "english": "Ethve fai tenti-oou ne: hos The-otokos enseeou niven: matiho e-epshois e-ehree egon: entefka nennovi nan evol."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲉ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ Ⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ:"
+      },
+      {
+        "coptic": "ⲙⲁϯϩⲟ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+      },
+      {
+        "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+      }
+    ]
+  }
+]

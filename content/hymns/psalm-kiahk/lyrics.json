@@ -1,0 +1,54 @@
+[
+  {
+    "coptic": "Ⲯⲁⲗⲙⲟⲥ ⲧⲱ Ⲇⲁⲩⲓⲇ.",
+    "translations": {
+      "english": "Psalms 45:10-11",
+      "arabic": "مزمور 45 : 10 ، 11"
+    },
+    "transliterations": {
+      "english": "Psalmos to David."
+    }
+  },
+  {
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅. Ⲥⲱⲧⲉⲙ ⲧⲁϣⲉⲣⲓ ⲁ̀ⲛⲁⲩ ⲣⲉⲕ ⲡⲉⲙⲁϣϫ: ⲁ̀ⲣⲓⲡ̀ⲱⲃϣ ⲙ̀ⲡⲉⲗⲁⲟⲥ ⲛⲉⲙ ⲡ̀ⲏⲓ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲡⲉⲓⲱⲧ.",
+    "translations": {
+      "english": "Alleluia, alleluia, alleluia. Hear O daughter, and see, and incline your ear. Forget your own people also, and your father´s house.",
+      "arabic": "هلليلويا هلليلويا هلليلويا. إسمعي يا إبنتي وانظري وأميلي سمعكِ. وإنسي شعبَكِ وبيتَ أبيكِ."
+    },
+    "transliterations": {
+      "english": "Alleelouia alleelouia alleelouia. Sotem tasheri anav rek pemashg: ari-epovsh empelaos nem epee teerf ente peiot."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅."
+      },
+      {
+        "coptic": "Ⲥⲱⲧⲉⲙ ⲧⲁϣⲉⲣⲓ ⲁ̀ⲛⲁⲩ ⲣⲉⲕ ⲡⲉⲙⲁϣϫ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲣⲓⲡ̀ⲱⲃϣ ⲙ̀ⲡⲉⲗⲁⲟⲥ ⲛⲉⲙ ⲡ̀ⲏⲓ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲡⲉⲓⲱⲧ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅. Ϫⲉ ⲁ̀ Ⲡⲓⲟⲩⲣⲟ ⲉ̀ⲣⲉ ⲡⲓⲑⲩⲙⲓⲛ ⲉ̀ⲡⲉⲥⲁⲓ ϫⲉ ⲟⲩⲏⲓ ⲛ̀ⲑⲟϥ ⲡⲉ ⲡⲉⲧⲟ̅ⲥ̅. Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅.",
+    "translations": {
+      "english": "Alleluia, alleluia, alleluia.Because the King has desired your beauty. For He is your LORD. Alleluia, alleluia, alleluia.",
+      "arabic": "هلليلويا هلليلويا هلليلويا. فإنَّ الملكَ قدِ إشتهى حسنَكِ. لِأنهُ هو ربُّك. هلليلويا هلليلويا هلليلويا."
+    },
+    "transliterations": {
+      "english": "Alleelouia alleelouia alleelouia. Je a Piouro ere pithimin epesai je o-ee enthof pe petshois. Alleelouia alleelouia alleelouia."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅."
+      },
+      {
+        "coptic": "Ϫⲉ ⲁ̀ Ⲡⲓⲟⲩⲣⲟ ⲉ̀ⲣⲉ ⲡⲓⲑⲩⲙⲓⲛ ⲉ̀ⲡⲉⲥⲁⲓ ϫⲉ ⲟⲩⲏⲓ ⲛ̀ⲑⲟϥ ⲡⲉ ⲡⲉⲧⲟ̅ⲥ̅."
+      },
+      {
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲁ̅ⲗ̅."
+      }
+    ]
+  }
+]
