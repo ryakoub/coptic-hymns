@@ -8,7 +8,8 @@ Coptic from Arial Coptic, the English from Cinzel SemiBold), so the files need n
     python3 tools/logo/build_logo.py <ArialCoptic.ttf>      (needs fontTools; PNGs need `cairosvg` on the PATH)
 
 Writes brand/logo.svg (the seal), brand/logo-mono.svg (one colour, for watermarks), brand/mark.svg (the
-inner circle alone, for icons) and the PNGs the app and the website use.
+inner circle alone, for icons; -dark and -tinted for those Home Screen styles) and the PNGs the app and the
+website use.
 """
 import math
 import subprocess
@@ -136,6 +137,22 @@ def mark(coptic, ground=GROUND):
             + cross(CROSS, CROSS_OPACITY) + monogram(coptic, TEAL, size=136) + '</g>')
 
 
+def mark_dark(coptic):
+    """The icon for Dark mode: no ground (iOS puts its own dark one behind), gold rings, ivory letters."""
+    return (f'<g transform="translate(200,200) scale(1.62) translate(-200,-200)">'
+            f'<circle cx="200" cy="200" r="108" fill="#0B2A3C" fill-opacity="0.55" stroke="{GOLD}" stroke-width="4"/>'
+            f'<circle cx="200" cy="200" r="114" fill="none" stroke="{GOLD}" stroke-width="1.5" opacity="0.7"/>'
+            + cross(CROSS, 0.3) + monogram(coptic, '#F6E7BE', size=136) + '</g>')
+
+
+def mark_tinted(coptic):
+    """The icon for Tinted mode: grey shades on black; iOS colours them with the chosen tint."""
+    return (f'<rect width="400" height="400" fill="#000000"/>'
+            f'<g transform="translate(200,200) scale(1.62) translate(-200,-200)">'
+            f'<circle cx="200" cy="200" r="108" fill="none" stroke="#B0B0B0" stroke-width="4"/>'
+            + cross('#FFFFFF', 0.18) + monogram(coptic, '#FFFFFF', size=136) + '</g>')
+
+
 def png(src, dst, width, height=None, background=None):
     args = ['cairosvg', str(src), '-o', str(dst), '--output-width', str(width), '--output-height', str(height or width)]
     if background:
@@ -150,11 +167,15 @@ def main():
     (OUT / 'logo.svg').write_text(svg(seal(coptic, latin)))
     (OUT / 'logo-mono.svg').write_text(svg(seal(coptic, latin, mono='#000000')))
     (OUT / 'mark.svg').write_text(svg(mark(coptic)))
+    (OUT / 'mark-dark.svg').write_text(svg(mark_dark(coptic)))
+    (OUT / 'mark-tinted.svg').write_text(svg(mark_tinted(coptic)))
     # The sharing picture: the seal on the app's teal, 1200 × 630.
     (OUT / 'social.svg').write_text(svg(
         f'<rect width="1200" height="630" fill="#075276"/><g transform="translate(345,40) scale(1.375)">'
         + seal(coptic, latin) + '</g>', view='0 0 1200 630'))
     png(OUT / 'mark.svg', OUT / 'icon-1024.png', 1024)
+    png(OUT / 'mark-dark.svg', OUT / 'icon-1024-dark.png', 1024)
+    png(OUT / 'mark-tinted.svg', OUT / 'icon-1024-tinted.png', 1024)
     png(OUT / 'mark.svg', OUT / 'apple-touch-icon.png', 180)
     png(OUT / 'logo.svg', OUT / 'logo-1032.png', 1032)
     png(OUT / 'social.svg', OUT / 'social.png', 1200, 630)
