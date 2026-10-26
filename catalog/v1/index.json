@@ -1,6 +1,6 @@
 {
- "version": "386b2549fb3e670c",
- "updated": "2026-10-25T07:21:33Z",
+ "version": "a2a5823cedf5f84e",
+ "updated": "2026-10-26T11:44:45Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -12236,6 +12236,7 @@
     {
      "id": "alli-el-korban-1",
      "name": "Alleluia (Offertory)",
+     "cantor": "George Kyrillos",
      "audio": {
       "url": "content/notations/alli-el-korban/audio.mp3",
       "role": "audio",
@@ -12962,7 +12963,7 @@
    "texts": [
     "alleluia-offertory"
    ],
-   "version": "af9fa8452b069219"
+   "version": "eac77d4e4903e937"
   },
   {
    "id": "hymn-of-the-blessing",
@@ -30323,6 +30324,9 @@
     "entries": [
      {
       "name": "Fr. Abraam Guirguis"
+     },
+     {
+      "name": "George Kyrillos"
      }
     ]
    },
@@ -30353,6 +30357,9 @@
      },
      {
       "name": "George Beshara"
+     },
+     {
+      "name": "George Kyrillos"
      }
     ]
    },
