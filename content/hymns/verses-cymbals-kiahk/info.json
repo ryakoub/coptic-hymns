@@ -17,5 +17,12 @@
     "year": 2022,
     "stage": "grades-1-2",
     "level": "1"
-  }
+  },
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Verses of the Cymbals",
+      "url": "https://www.coptichymnsinenglish.com/album/30/track/456"
+    }
+  ]
 }

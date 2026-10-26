@@ -1,6 +1,6 @@
 {
- "version": "fc4ec400a688d02a",
- "updated": "2026-10-26T20:01:10Z",
+ "version": "fcbcc6f9ece5e3ff",
+ "updated": "2026-10-26T20:12:37Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2100,6 +2100,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Concluding Hymn",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/464"
+    }
+   ],
    "lines": 2,
    "translations": [
     "arabic",
@@ -2357,6 +2364,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Doxology - Kiahk - Archangel Gabriel",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/454"
+    }
+   ],
    "lines": 12,
    "translations": [
     "arabic",
@@ -2870,6 +2884,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Gospel Response, Weeks 1 & 2",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/718"
+    }
+   ],
    "lines": 2,
    "translations": [
     "arabic",
@@ -2896,6 +2917,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Gospel Response, Weeks 3 & 4",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/719"
+    }
+   ],
    "lines": 2,
    "translations": [
     "arabic",
@@ -3027,6 +3055,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Hymn of the Intercessions",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/457"
+    }
+   ],
    "lines": 6,
    "translations": [
     "arabic",
@@ -3720,6 +3755,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Acts Response, Week 4",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/461"
+    }
+   ],
    "lines": 3,
    "translations": [
     "arabic",
@@ -3818,6 +3860,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Psalm - Liturgy, Week 2",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/826"
+    }
+   ],
    "lines": 3,
    "translations": [
     "arabic",
@@ -5583,6 +5632,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Verses of the Cymbals",
+     "url": "https://www.coptichymnsinenglish.com/album/30/track/456"
+    }
+   ],
    "lines": 2,
    "translations": [
     "arabic",
