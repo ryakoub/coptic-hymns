@@ -2,14 +2,15 @@
 """Draws the Coptic Chanter logo and every image made from it, into brand/.
 
 The seal: Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ over a faint gold Coptic cross in the inner circle; COPTIC CHANTER over the top of the
-ring, PRAISE HIM under it, Ⲁ on the left and Ⲱ on the right in red. All lettering is drawn as shapes (the
+ring, Ⲁ on the left and Ⲱ on the right in red, and under them two short gold music staffs with ϩⲱⲥ ⲉⲣⲟϥ
+between them (PRAISE HIM in the English seal). All lettering is drawn as shapes (the
 Coptic from Arial Coptic, the English from Cinzel SemiBold), so the files need no fonts.
 
     python3 tools/logo/build_logo.py <ArialCoptic.ttf>      (needs fontTools; PNGs need `cairosvg` on the PATH)
 
-Writes brand/logo.svg (the seal), brand/logo-mono.svg (one colour, for watermarks), brand/mark.svg (the
-inner circle alone, for icons; -dark and -tinted for those Home Screen styles) and the PNGs the app and the
-website use.
+Writes brand/logo.svg (the seal; logo-en.svg the English one), brand/logo-mono.svg (one colour, for
+watermarks; logo-mono-en.svg), brand/mark.svg (the inner circle alone, for icons; -dark and -tinted for
+those Home Screen styles) and the PNGs the app and the website use.
 """
 import math
 import subprocess
@@ -115,15 +116,59 @@ def svg(body, view='0 0 400 400', label='Coptic Chanter'):
             f'<title>{label}</title>{body}</svg>\n')
 
 
-def seal(coptic, latin, mono=None):
-    """The whole seal; `mono` draws it all in one colour, without the grounds (for a watermark)."""
+def staff(start, end, notes, color):
+    """Five lines along the bottom of the ring, from `start` to `end` degrees (clockwise from the right), with a
+    bar line at each end and notes at (degrees, step up from the bottom line in half spaces, stem up)."""
+    def at(r, deg):
+        return 200 + r * math.cos(math.radians(deg)), 200 + r * math.sin(math.radians(deg))
+    a, b = sorted((start, end))
+    out = [f'<g fill="none" stroke="{color}" stroke-width="1.2">']
+    for r in (146, 153, 160, 167, 174):
+        (x0, y0), (x1, y1) = at(r, a), at(r, b)
+        out.append(f'<path d="M{x0:.2f},{y0:.2f} A{r},{r} 0 0 1 {x1:.2f},{y1:.2f}"/>')
+    for deg in (a, b):
+        (x0, y0), (x1, y1) = at(146, deg), at(174, deg)
+        out.append(f'<line x1="{x0:.2f}" y1="{y0:.2f}" x2="{x1:.2f}" y2="{y1:.2f}" stroke-width="1.6"/>')
+    out.append('</g>')
+    for deg, step, up in notes:
+        x, y = at(174 - step * 3.5, deg)
+        stem = f'<rect x="4.2" y="-20" width="1.3" height="20"/>' if up else '<rect x="-5.4" y="0" width="1.3" height="20"/>'
+        out.append(f'<g fill="{color}" transform="translate({x:.2f},{y:.2f}) rotate({deg - 90:.2f})">'
+                   f'<ellipse rx="5.2" ry="3.7" transform="rotate(-20)"/>{stem}</g>')
+    return ''.join(out)
+
+
+def arc_width(font, text, size, spacing):
+    k = size / font.upm
+    return sum((font.glyph(ch)[1] if ch != ' ' else font.glyphs[font.cmap[32]].width) * k + spacing
+               for ch in text) - spacing
+
+
+def scored(font, text, size, spacing, color, gold, gap):
+    """`text` under the bottom of the ring, with a staff of four notes on each side, from below Ⲁ and Ⲱ, leaving
+    `gap` (an arc length) between them; the same in both seals, so the launch screen can fade one into the other."""
+    half = math.degrees(gap / 2 / 166) + 7
+
+    def notes(a, b, steps, ups):
+        return [(a + (b - a) * (i + 0.6) / (len(steps) + 0.2), s, u) for i, (s, u) in enumerate(zip(steps, ups))]
+    return (staff(166, 90 + half, notes(166, 90 + half, [2, 4, 6, 5], [True] * 4), gold)
+            + staff(90 - half, 14, notes(90 - half, 14, [4, 6, 3, 1], [False, False, True, True]), gold)
+            + f'<g fill="{color}">' + on_arc(font, text, 166, size, spacing, 0.5, False) + '</g>')
+
+
+def seal(coptic, latin, mono=None, english=False):
+    """The whole seal; `mono` draws it all in one colour, without the grounds (for a watermark); `english`
+    puts PRAISE HIM under it instead of ϩⲱⲥ ⲉⲣⲟϥ."""
     teal, gold, red, ground, inner = (mono,) * 3 + ('none', 'none') if mono else (TEAL, GOLD, RED, GROUND, '#FFFFFF')
+    en, cop = (latin, 'PRAISE HIM', 24, 6), (coptic, 'ϩⲱⲥ ⲉⲣⲟϥ', 34, 3)
+    gap = max(arc_width(*en), arc_width(*cop))
+    words = en if english else cop
     return (f'<circle cx="200" cy="200" r="192" fill="{ground}" stroke="{gold}" stroke-width="2"/>'
             f'<circle cx="200" cy="200" r="182" fill="none" stroke="{teal}" stroke-width="3"/>'
             f'<circle cx="200" cy="200" r="108" fill="{inner}" stroke="{gold}" stroke-width="4"/>'
             + cross(mono or CROSS, 0.35 if mono else CROSS_OPACITY)
             + f'<g fill="{teal}">' + on_arc(latin, 'COPTIC CHANTER', 142, 31, 5, 0.5, True)
-            + on_arc(latin, 'PRAISE HIM', 168, 26, 17, 0.516, False) + '</g>'
+            + '</g>' + scored(*words, teal, gold, gap)
             + letter(coptic, 'Ⲁ', red, 43, 200, 28) + letter(coptic, 'Ⲱ', red, 357, 200, 28)
             + monogram(coptic, teal))
 
@@ -165,19 +210,22 @@ def main():
     latin = Font(HERE / 'fonts' / 'Cinzel-SemiBold.ttf')
     OUT.mkdir(exist_ok=True)
     (OUT / 'logo.svg').write_text(svg(seal(coptic, latin)))
+    (OUT / 'logo-en.svg').write_text(svg(seal(coptic, latin, english=True)))
     (OUT / 'logo-mono.svg').write_text(svg(seal(coptic, latin, mono='#000000')))
+    (OUT / 'logo-mono-en.svg').write_text(svg(seal(coptic, latin, mono='#000000', english=True)))
     (OUT / 'mark.svg').write_text(svg(mark(coptic)))
     (OUT / 'mark-dark.svg').write_text(svg(mark_dark(coptic)))
     (OUT / 'mark-tinted.svg').write_text(svg(mark_tinted(coptic)))
-    # The sharing picture: the seal on the app's teal, 1200 × 630.
+    # The sharing picture: the English seal on the app's teal, 1200 × 630.
     (OUT / 'social.svg').write_text(svg(
         f'<rect width="1200" height="630" fill="#075276"/><g transform="translate(345,40) scale(1.375)">'
-        + seal(coptic, latin) + '</g>', view='0 0 1200 630'))
+        + seal(coptic, latin, english=True) + '</g>', view='0 0 1200 630'))
     png(OUT / 'mark.svg', OUT / 'icon-1024.png', 1024)
     png(OUT / 'mark-dark.svg', OUT / 'icon-1024-dark.png', 1024)
     png(OUT / 'mark-tinted.svg', OUT / 'icon-1024-tinted.png', 1024)
     png(OUT / 'mark.svg', OUT / 'apple-touch-icon.png', 180)
     png(OUT / 'logo.svg', OUT / 'logo-1032.png', 1032)
+    png(OUT / 'logo-en.svg', OUT / 'logo-en-1032.png', 1032)
     png(OUT / 'social.svg', OUT / 'social.png', 1200, 630)
     print('wrote', ', '.join(sorted(p.name for p in OUT.iterdir())))
 
