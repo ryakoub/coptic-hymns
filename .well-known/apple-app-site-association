@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["V65DT2V6FX.com.copticchanter.app"],
+        "components": [
+          { "/": "/hymn/*", "comment": "A shared hymn: /hymn/?id=<recording id> opens it in the app" }
+        ]
+      }
+    ]
+  }
+}

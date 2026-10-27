@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coptic Chanter | A hymn</title>
+<link rel="icon" type="image/svg+xml" href="../favicon.svg">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<meta property="og:title" content="A hymn in Coptic Chanter" />
+<meta property="og:description" content="Open it in the Coptic Chanter app for iPhone and iPad: the words light up as the cantor sings." />
+<meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
+<meta property="og:type" content="website" />
+<link rel="stylesheet" href="../css/style.css?v=20261027">
+<style>
+.hymn-card { background: #fff; border-radius: 18px; box-shadow: 0 4px 18px rgba(0,0,0,0.09); padding: 28px; margin: 10px 0 24px; color: #2a3a48; line-height: 1.6; font-size: 16px; text-align: center; }
+.hymn-card .coptic { font-family: var(--coptic-font-traditional); font-size: 30px; color: #0e6f8f; margin: 0 0 6px; }
+.hymn-card .english { font-size: 20px; font-weight: 600; margin: 0 0 4px; }
+.hymn-card .arabic { font-size: 19px; color: #556; margin: 0 0 18px; }
+.hymn-card .note { color: #667; font-size: 14px; margin: 16px 0 0; }
+</style>
+</head>
+
+<!-- A shared hymn (/hymn/?id=<recording id>). With the app installed, iOS opens the app on the hymn instead
+     (see /.well-known/apple-app-site-association); this page is for everyone else. -->
+<body class="home-page">
+<main class="page-shell">
+
+<section class="home-banner" aria-label="Coptic Chanter banner">
+<img class="home-logo" src="../brand/logo-en.svg" alt="" width="160" height="160">
+<h1 class="home-title">Coptic Chanter</h1>
+<p class="home-subtitle">Someone shared a hymn with you.</p>
+</section>
+
+<div class="hymn-card">
+<p class="coptic" id="coptic"></p>
+<p class="english" id="english">A hymn</p>
+<p class="arabic" id="arabic" dir="rtl" lang="ar"></p>
+<p id="get">Coptic Chanter for iPhone and iPad shows the words of each hymn, lighting up as the cantor sings. It is being tested now and will be on the App Store soon.</p>
+<p class="note">Already have the app? Press and hold the link you received, then choose <strong>Open in Coptic Chanter</strong>.</p>
+</div>
+
+<a class="button" href="../index.html" style="text-align:center;">Coptic Chanter home</a>
+
+</main>
+<script>
+// The App Store or TestFlight link, once there is a public one.
+const GET_APP = null;
+
+const id = new URLSearchParams(location.search).get("id");
+if (GET_APP) {
+  document.getElementById("get").innerHTML =
+    'Coptic Chanter for iPhone and iPad shows the words of each hymn, lighting up as the cantor sings. ' +
+    `<a class="button" href="${GET_APP}" style="text-align:center;margin-top:14px;">Get the app</a>`;
+}
+if (id) {
+  fetch("../catalog/v1/index.json").then(r => r.json()).then(catalog => {
+    const recording = catalog.recordings.find(r => r.id === id);
+    const text = recording && catalog.texts.find(t => t.id === recording.text);
+    if (!text) return;
+    const t = text.titles || {};
+    document.getElementById("coptic").textContent = t.coptic || "";
+    document.getElementById("english").textContent = t.english || "";
+    document.getElementById("arabic").textContent = t.arabic || "";
+    document.title = `Coptic Chanter | ${t.english || t.coptic || "A hymn"}`;
+  }).catch(() => {});
+}
+</script>
+</body>
+</html>
