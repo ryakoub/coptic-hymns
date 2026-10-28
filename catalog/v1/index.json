@@ -1,6 +1,6 @@
 {
- "version": "ec8e24c3afaf98fd",
- "updated": "2026-10-28T12:09:12Z",
+ "version": "43ae0fa6f57787d6",
+ "updated": "2026-10-28T12:20:34Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -493,15 +493,24 @@
       {
        "service": "midnight-praises",
        "entries": [
+        "tenen",
+        "adam-psali-kiahk-1",
+        "adam-psali-kiahk-2",
+        "adam-psali-kiahk-3",
         "tenoueh-ensok-kiahk",
         "psalm-150-kiahk",
-        "aritenthonti"
+        "adam-psali-kiahk-4",
+        "aritenthonti",
+        "sheraat-kiahk",
+        "conclusion-tarh-workers"
        ]
       },
       {
        "service": "raising-of-incense",
        "entries": [
         "verses-cymbals-kiahk",
+        "intro-doxologies-kiahk",
+        "intro-doxologies-last-two",
         "doxology-kiahk-1",
         "doxology-kiahk-2",
         "doxology-kiahk-3",
@@ -516,15 +525,20 @@
        "service": "liturgy",
        "entries": [
         "praxis-response-kiahk",
+        "praxis-mohayar-kiahk",
+        "psalm-procession-kiahk",
         "psalm-kiahk",
         "gospel-response-kiahk-sunday-2",
         "gospel-response-kiahk-sunday-3",
-        "aspasmos-adam-kiahk"
+        "aspasmos-adam-kiahk",
+        "distribution-kiahk"
        ]
       },
       {
        "service": "special",
-       "entries": []
+       "entries": [
+        "tarh-watos-intro"
+       ]
       }
      ]
     },
@@ -1443,6 +1457,98 @@
  ],
  "texts": [
   {
+   "id": "adam-psali-kiahk-1",
+   "titles": {
+    "english": "Kiahk Adam Psali on the First Hoos",
+    "arabic": "إبصالية آدام كيهكي على الهوس الأول"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "adam-psali-kiahk-1"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/adam-psali-kiahk-1.json",
+    "bytes": 494,
+    "sha256": "726113a82cc4714020ea83922d85b8438bda57fe8724dc4d306e1755b4c94f9b"
+   }
+  },
+  {
+   "id": "adam-psali-kiahk-2",
+   "titles": {
+    "english": "Kiahk Adam Psali on the Second Hoos",
+    "arabic": "إبصالية آدام كيهكي على الهوس الثاني"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "adam-psali-kiahk-2"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/adam-psali-kiahk-2.json",
+    "bytes": 497,
+    "sha256": "e4971385acdc06c2ed22d7d3fccd81f25646312585ff0fae5ebacdcf8f8a0587"
+   }
+  },
+  {
+   "id": "adam-psali-kiahk-3",
+   "titles": {
+    "english": "Kiahk Adam Psali on the Third Hoos",
+    "arabic": "إبصالية آدام كيهكي على الهوس الثالث"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "adam-psali-kiahk-3"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/adam-psali-kiahk-3.json",
+    "bytes": 496,
+    "sha256": "45f2bad8b55517fb78678e0d217cc3c6d2fca4e8eb8f3d4c7079b92801118563"
+   }
+  },
+  {
+   "id": "adam-psali-kiahk-4",
+   "titles": {
+    "english": "Kiahk Adam Psali on the Fourth Hoos",
+    "arabic": "إبصالية آدام كيهكي على الهوس الرابع"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "adam-psali-kiahk-4"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/adam-psali-kiahk-4.json",
+    "bytes": 497,
+    "sha256": "ee74e3e59780a800701872f952163ee3d5b2a03f689b563895afc7e99a6341da"
+   }
+  },
+  {
    "id": "adam-theotokias-conclusion",
    "titles": {
     "english": "The Adam Theotokias Conclusion",
@@ -2131,6 +2237,29 @@
    }
   },
   {
+   "id": "conclusion-tarh-workers",
+   "titles": {
+    "english": "Conclusion of the Tarh of the Workers",
+    "arabic": "لحن ختام طرح الفعلة القديسين"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "conclusion-tarh-workers"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/conclusion-tarh-workers.json",
+    "bytes": 491,
+    "sha256": "e2f57edca3761264333afb070701fdb97d74978f70ea1edcc49af8af54b21d62"
+   }
+  },
+  {
    "id": "distribution-alleluia-annual",
    "titles": {
     "english": "Annual Distribution Alleluia",
@@ -2155,6 +2284,29 @@
     "url": "catalog/v1/texts/distribution-alleluia-annual.json",
     "bytes": 7545,
     "sha256": "c1a5e9d5ffdabc60de9bd9f740883fc642225e3b3b4db29f57b115e2d0f55f7a"
+   }
+  },
+  {
+   "id": "distribution-kiahk",
+   "titles": {
+    "english": "Kiahk Distribution hymn (Alleluia)",
+    "arabic": "آللي التوزيع الكيهكي"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "distribution-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/distribution-kiahk.json",
+    "bytes": 469,
+    "sha256": "e39143beb1fb5fdb8cd594b9918fddb6be0059993bacd8ff2010b995d8300b22"
    }
   },
   {
@@ -3152,6 +3304,52 @@
    }
   },
   {
+   "id": "intro-doxologies-kiahk",
+   "titles": {
+    "english": "Introduction to the Doxologies, Kiahk",
+    "arabic": "مقدمة الذكصولوجيات الكيهكي"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "intro-doxologies-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/intro-doxologies-kiahk.json",
+    "bytes": 488,
+    "sha256": "ceca952a532a8c003e8065bea117ab60d217c941ee31f9e72175aa2d8ca32bb6"
+   }
+  },
+  {
+   "id": "intro-doxologies-last-two",
+   "titles": {
+    "english": "Last two verses of the Introduction to the Doxologies",
+    "arabic": "الربعان الأخيران من مقدمة الذكصولوجيات"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "intro-doxologies-last-two"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/intro-doxologies-last-two.json",
+    "bytes": 529,
+    "sha256": "37bca2e03a86cc111d4e50159bafcf39d8ebd2a57be7b9c7c442d43693ef9a17"
+   }
+  },
+  {
    "id": "joyful-agios-major",
    "titles": {
     "coptic": "Joyful Ⲁⲅⲓⲟⲥ, Major",
@@ -3685,6 +3883,29 @@
    }
   },
   {
+   "id": "praxis-mohayar-kiahk",
+   "titles": {
+    "english": "Praxis Response and Mohayar Pashois for Kiahk",
+    "arabic": "مرد الإبركسيس لشهر كيهك ومحير باتشويس"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "praxis-mohayar-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/praxis-mohayar-kiahk.json",
+    "bytes": 513,
+    "sha256": "ec888e087748d5eceaa1108251e1c6a831df054c0c11a0176fc70ca621d55734"
+   }
+  },
+  {
    "id": "praxis-response-annual",
    "titles": {
     "english": "Praxis Response, Annual"
@@ -3890,6 +4111,29 @@
     "url": "catalog/v1/texts/psalm-kiahk.json",
     "bytes": 2876,
     "sha256": "8091821d2b520e5d6e2d083dd8ede477e205bc4ffc8f509d0bc09e739560fbe2"
+   }
+  },
+  {
+   "id": "psalm-procession-kiahk",
+   "titles": {
+    "english": "Procession of the Kiahk Psalm",
+    "arabic": "لحن طواف المزمور الكيهكي"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "psalm-procession-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/psalm-procession-kiahk.json",
+    "bytes": 475,
+    "sha256": "387f98866424ba061da0e8ebf692c88eecfa36a73672cf25fcfd2be659435485"
    }
   },
   {
@@ -4774,6 +5018,29 @@
    }
   },
   {
+   "id": "sheraat-kiahk",
+   "titles": {
+    "english": "Kiahk Sheraat (Hail to you)",
+    "arabic": "الشيرات الكيهكي"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "sheraat-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sheraat-kiahk.json",
+    "bytes": 448,
+    "sha256": "664cb6d64385b5e07bb977e38a78bbfc3b4cf7235340105f785e54d970d5be2d"
+   }
+  },
+  {
    "id": "shere-ne-maria",
    "titles": {
     "english": "The Seventh Part - Shere ne Maria",
@@ -5216,6 +5483,29 @@
    }
   },
   {
+   "id": "tarh-watos-intro",
+   "titles": {
+    "english": "Introduction to the Watos Tarh (long)",
+    "arabic": "لحن مقدمة الطرح الواطس الكبير"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "tarh-watos-intro"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/tarh-watos-intro.json",
+    "bytes": 486,
+    "sha256": "f036c5f10c7a6f1ce33b7e99e2d0b1aaa32752d837bd90ac16f5bdc7a57dc6eb"
+   }
+  },
+  {
    "id": "ten-oosht-evol-basil",
    "titles": {
     "english": "Ten Goosht Evol response",
@@ -5305,6 +5595,29 @@
     "url": "catalog/v1/texts/ten-thinou.json",
     "bytes": 520,
     "sha256": "8f3bbbaeeb47d03d4fce1e9f3b886835d6537633365fdcad9ad17b58e13e8e6c"
+   }
+  },
+  {
+   "id": "tenen",
+   "titles": {
+    "english": "Tenen",
+    "arabic": "لحن تينين"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "tenen"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/tenen.json",
+    "bytes": 406,
+    "sha256": "740d40de11cca62bf41cd622bb088b9efa3f1c87329764af926c989596cf4f39"
    }
   },
   {
@@ -5695,6 +6008,110 @@
   }
  ],
  "recordings": [
+  {
+   "id": "adam-psali-kiahk-1",
+   "text": "adam-psali-kiahk-1",
+   "duration": 511.47,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/adam-psali-kiahk-1/",
+   "youtube": "https://www.youtube.com/watch?v=muGaOkjZIPU",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-psali-kiahk-1.json",
+     "bytes": 86,
+     "sha256": "93fe1076912088712983e41b755b4154491159888cffce9906b46e30ee3531af",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/adam-psali-kiahk-1/audio.m4a",
+     "role": "audio",
+     "bytes": 8272471,
+     "sha256": "10eacf9e2584be8dc4f915fe733a63b016394c71fc8f78b820326e85e1aadaba"
+    }
+   ]
+  },
+  {
+   "id": "adam-psali-kiahk-2",
+   "text": "adam-psali-kiahk-2",
+   "duration": 719.26,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/adam-psali-kiahk-2/",
+   "youtube": "https://www.youtube.com/watch?v=zr-k8Z35XxI",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-psali-kiahk-2.json",
+     "bytes": 86,
+     "sha256": "4dab841e72cde34334e891b6d794dc96aeb18aa13fbf1b45fd5409e8beec5cf4",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/adam-psali-kiahk-2/audio.m4a",
+     "role": "audio",
+     "bytes": 11633041,
+     "sha256": "037a7cc5a988ed359eb962dfd9094f001d369b5da249dcf6b3f7af55ea32af54"
+    }
+   ]
+  },
+  {
+   "id": "adam-psali-kiahk-3",
+   "text": "adam-psali-kiahk-3",
+   "duration": 217.69,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/adam-psali-kiahk-3/",
+   "youtube": "https://www.youtube.com/watch?v=_vk9E4-JWQs",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-psali-kiahk-3.json",
+     "bytes": 86,
+     "sha256": "edb41a182374cb9bf77244dd5689ddea93bf4a331f1721b3268fdbc26483272b",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/adam-psali-kiahk-3/audio.m4a",
+     "role": "audio",
+     "bytes": 3521385,
+     "sha256": "ece2d5db406719dc80861e688ede5f26b7c3b958758a78b1001408a12cda9b26"
+    }
+   ]
+  },
+  {
+   "id": "adam-psali-kiahk-4",
+   "text": "adam-psali-kiahk-4",
+   "duration": 420.98,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/adam-psali-kiahk-4/",
+   "youtube": "https://www.youtube.com/watch?v=XuhpMKrls6Y",
+   "files": [
+    {
+     "url": "catalog/v1/timings/adam-psali-kiahk-4.json",
+     "bytes": 86,
+     "sha256": "8e291d41703d6ea1b15e39fbf2f42ed3cbe9c59df8bf1c8855d6aa78daa3fac1",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/adam-psali-kiahk-4/audio.m4a",
+     "role": "audio",
+     "bytes": 6809104,
+     "sha256": "67f4fc0a0912bd51b2f6a2f3e57f6663894d9bc374906390fb1a1434a8414e2d"
+    }
+   ]
+  },
   {
    "id": "adam-theotokias-conclusion",
    "text": "adam-theotokias-conclusion",
@@ -6991,6 +7408,32 @@
    ]
   },
   {
+   "id": "conclusion-tarh-workers",
+   "text": "conclusion-tarh-workers",
+   "duration": 335.97,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/conclusion-tarh-workers/",
+   "youtube": "https://www.youtube.com/watch?v=2AqCqDuizbw",
+   "files": [
+    {
+     "url": "catalog/v1/timings/conclusion-tarh-workers.json",
+     "bytes": 96,
+     "sha256": "52b4ba1ad5fb43b5e2eb2c3514c5951603bb09bbe0e8093c903995e8a4f8a93a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/conclusion-tarh-workers/audio.m4a",
+     "role": "audio",
+     "bytes": 5434288,
+     "sha256": "ecc9aa3d5d0b724b53589882da16ed4671060ba11cdc03483f94af88e2efa5ef"
+    }
+   ]
+  },
+  {
    "id": "confession-amen-i-believe-english",
    "text": "response-confession-amen-i-believe",
    "duration": 36.25,
@@ -7135,6 +7578,32 @@
      "role": "audio",
      "bytes": 8079502,
      "sha256": "49429cb030b62d23ec0744674b4779c6a2d0e5d1f2c6a89cfa538fb215e9a31b"
+    }
+   ]
+  },
+  {
+   "id": "distribution-kiahk",
+   "text": "distribution-kiahk",
+   "duration": 163.26,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/distribution-kiahk/",
+   "youtube": "https://www.youtube.com/watch?v=vQDBjKmavLY",
+   "files": [
+    {
+     "url": "catalog/v1/timings/distribution-kiahk.json",
+     "bytes": 86,
+     "sha256": "dd53252219dc6eb6d9c5bd95281b65619e4331b803a4897ddc73677644de75bb",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/distribution-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 2641164,
+     "sha256": "e86002c8b98edc8d076ad547dbf72258cfe4a5ed522e97e8df275a1c91a9c39f"
     }
    ]
   },
@@ -8667,6 +9136,58 @@
    ]
   },
   {
+   "id": "intro-doxologies-kiahk",
+   "text": "intro-doxologies-kiahk",
+   "duration": 224.65,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/intro-doxologies-kiahk/",
+   "youtube": "https://www.youtube.com/watch?v=Xp4dDuybqxQ",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-doxologies-kiahk.json",
+     "bytes": 94,
+     "sha256": "a120f53e6e93e753347e38e6ffb0769549c7e3c4e6e63a06477944c30c89f15d",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/intro-doxologies-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 3634040,
+     "sha256": "015f136db1da7525ab25c173b55404b8a6964b8ed5a629187ae7a7bb7a9c1eea"
+    }
+   ]
+  },
+  {
+   "id": "intro-doxologies-last-two",
+   "text": "intro-doxologies-last-two",
+   "duration": 75.33,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/intro-doxologies-last-two/",
+   "youtube": "https://www.youtube.com/watch?v=rI_pR3eyjY4",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-doxologies-last-two.json",
+     "bytes": 100,
+     "sha256": "52197e2627fc8fd72a4644f9fd65f03845abd50c8edc91b97f5d4531689e2186",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/intro-doxologies-last-two/audio.m4a",
+     "role": "audio",
+     "bytes": 1219668,
+     "sha256": "7dbd910cb243126833458c641f523bfa064cc7cf977693b9bc0416e589bdf340"
+    }
+   ]
+  },
+  {
    "id": "intro-to-fraction-amen-english",
    "text": "response-amen",
    "duration": 29.93,
@@ -9713,6 +10234,32 @@
    ]
   },
   {
+   "id": "praxis-mohayar-kiahk",
+   "text": "praxis-mohayar-kiahk",
+   "duration": 220.52,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/praxis-mohayar-kiahk/",
+   "youtube": "https://www.youtube.com/watch?v=v-leMYyhHEg",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-mohayar-kiahk.json",
+     "bytes": 90,
+     "sha256": "4c8ca78b637d45cfa4e0ffe6c0384e4d7b847a156ee9a40ae26ca8106275257a",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/praxis-mohayar-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 3567198,
+     "sha256": "e92f775759b7ff261743878c670059564119eeec27f4e5294b092e1762857a69"
+    }
+   ]
+  },
+  {
    "id": "praxis-response-annual",
    "text": "praxis-response-annual",
    "duration": 104.75,
@@ -9947,6 +10494,32 @@
      "role": "audio",
      "bytes": 4303983,
      "sha256": "90d3f91b835c2e83451a49a30f3bd3cc359fd042b727c7b491da9574f3225200"
+    }
+   ]
+  },
+  {
+   "id": "psalm-procession-kiahk",
+   "text": "psalm-procession-kiahk",
+   "duration": 118.38,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/psalm-procession-kiahk/",
+   "youtube": "https://www.youtube.com/watch?v=hCg8CJpFkUE",
+   "files": [
+    {
+     "url": "catalog/v1/timings/psalm-procession-kiahk.json",
+     "bytes": 94,
+     "sha256": "0c7888748926af6504e9540e998ff0cdfe2d7672dc88ff5d4e0b27689ec5f137",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/psalm-procession-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 1915269,
+     "sha256": "e98a0c34b0d5fe7789fa8e977e10cad202a8faca587fec1e78b477fcdf9e971e"
     }
    ]
   },
@@ -11500,6 +12073,32 @@
    ]
   },
   {
+   "id": "sheraat-kiahk",
+   "text": "sheraat-kiahk",
+   "duration": 1684.28,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/sheraat-kiahk/",
+   "youtube": "https://www.youtube.com/watch?v=1pThhrWkXAs",
+   "files": [
+    {
+     "url": "catalog/v1/timings/sheraat-kiahk.json",
+     "bytes": 76,
+     "sha256": "f735a31867ab79f245e25d16df400ddb1d06084113f6cf22c285c3bb78bde7ac",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/sheraat-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 27239778,
+     "sha256": "f4de89ec4a644aeb33702798f7ef12cb64ce6a0c36a70e4ad59582080aa8f171"
+    }
+   ]
+  },
+  {
    "id": "shere-ne-maria",
    "text": "shere-ne-maria",
    "duration": 101.98,
@@ -12362,6 +12961,32 @@
    ]
   },
   {
+   "id": "tarh-watos-intro",
+   "text": "tarh-watos-intro",
+   "duration": 1967.5,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/tarh-watos-intro/",
+   "youtube": "https://www.youtube.com/watch?v=_7fxXJW-kKs",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tarh-watos-intro.json",
+     "bytes": 82,
+     "sha256": "e21c53c934f48f4a4016baefc63093961a760884f62e4e0de4baebcc25b29932",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/tarh-watos-intro/audio.m4a",
+     "role": "audio",
+     "bytes": 31819970,
+     "sha256": "3c9b9cfe1c8a344e49d41a83a52ca78cfa090d83d64d7ce0d2c62842c1e919a3"
+    }
+   ]
+  },
+  {
    "id": "ten-oosht-evol-basil",
    "text": "ten-oosht-evol-basil",
    "duration": 79.83,
@@ -12529,6 +13154,32 @@
      "role": "audio",
      "bytes": 9164718,
      "sha256": "3a54ec05e5eb491f7f90e2e673362d020a33bace06376cd508e80017eba5e1ab"
+    }
+   ]
+  },
+  {
+   "id": "tenen",
+   "text": "tenen",
+   "duration": 744.27,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/hymns/tenen/",
+   "youtube": "https://www.youtube.com/watch?v=PuuTmT66oKI",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenen.json",
+     "bytes": 60,
+     "sha256": "dab878fa042730346b8a24635247db158f9b5e8a551c58ea6bf2035091359f57",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/tenen/audio.m4a",
+     "role": "audio",
+     "bytes": 12037443,
+     "sha256": "92015cfe7c2e529aaf2725d2047f2e64b4c39bc763c17ef4b36741a32e7d005b"
     }
    ]
   },

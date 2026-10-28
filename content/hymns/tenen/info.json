@@ -1,0 +1,20 @@
+{
+  "title": "Tenen",
+  "titles": {
+    "english": "Tenen",
+    "arabic": "لحن تينين"
+  },
+  "places": [
+    {
+      "place": "kiahk/midnight-praises",
+      "order": 3
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=PuuTmT66oKI",
+  "mahragan": {
+    "year": 2025,
+    "stage": "grades-3-4",
+    "level": "gifted"
+  },
+  "notes": "Placeholder: lyrics missing, to be added"
+}

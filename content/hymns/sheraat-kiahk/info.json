@@ -1,0 +1,20 @@
+{
+  "title": "Kiahk Sheraat (Hail to you)",
+  "titles": {
+    "english": "Kiahk Sheraat (Hail to you)",
+    "arabic": "الشيرات الكيهكي"
+  },
+  "places": [
+    {
+      "place": "kiahk/midnight-praises",
+      "order": 25
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=1pThhrWkXAs",
+  "mahragan": {
+    "year": 2022,
+    "stage": "graduates",
+    "level": "2"
+  },
+  "notes": "Placeholder: lyrics missing, to be added"
+}
