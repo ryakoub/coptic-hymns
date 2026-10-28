@@ -1,6 +1,6 @@
 {
- "version": "20e80ceec4223fa8",
- "updated": "2026-10-28T10:52:25Z",
+ "version": "5242c09e4e9f8ba2",
+ "updated": "2026-10-28T11:53:49Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3393,8 +3393,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/morning-doxology.json",
-    "bytes": 62404,
-    "sha256": "f0a855f4504c87719c499194905db07517e14220273c53fb504e104c71e98827"
+    "bytes": 62129,
+    "sha256": "d9daea27f1e88f808892a6f5611ab34eecc7e8463cea7a08aa4f4c7dfafce13c"
    }
   },
   {

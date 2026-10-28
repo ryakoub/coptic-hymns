@@ -784,18 +784,15 @@
     "side": 1
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ) Ⲛⲑⲟ ⲏ̀ⲙⲁⲩ ⲙ̀ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲙ̀ⲙⲁⲥⲛⲟⲩϯ: ⲁ̀ⲣⲉϥⲁⲓ ϧⲁ ⲡⲓⲗⲟⲅⲟⲥ: ⲡⲓⲁⲭⲱⲣⲓⲧⲟⲥ.",
+    "coptic": "Ⲛⲑⲟ ⲏ̀ⲙⲁⲩ ⲙ̀ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲙ̀ⲙⲁⲥⲛⲟⲩϯ: ⲁ̀ⲣⲉϥⲁⲓ ϧⲁ ⲡⲓⲗⲟⲅⲟⲥ: ⲡⲓⲁⲭⲱⲣⲓⲧⲟⲥ.",
     "translations": {
-      "english": "(For the Virgin) You are the Mother of Light, the honored Mother of God, you have carried, the Uncircumscript Logos.",
-      "arabic": "لأجل العذراء أنت يا أم النور المكرمة والدة الاله حملت الكلمة غير المحوى."
+      "english": "You are the Mother of Light, the honored Mother of God, you have carried, the Uncircumscript Logos.",
+      "arabic": "أنت يا أم النور المكرمة والدة الاله حملت الكلمة غير المحوى."
     },
     "transliterations": {
-      "english": "(Ethve tiparthenos) Ntho eemav empiowoini: ettaieeout emmasnoti: arefai kha piloghos: piakhoritos."
+      "english": "Ntho eemav empiowoini: ettaieeout emmasnoti: arefai kha piloghos: piakhoritos."
     },
     "stanzas": [
-      {
-        "coptic": "(Ⲉⲑⲃⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ)"
-      },
       {
         "coptic": "Ⲛⲑⲟ ⲏ̀ⲙⲁⲩ ⲙ̀ⲡⲓⲟⲩⲱⲓⲛⲓ:"
       },
@@ -882,18 +879,15 @@
     "side": 1
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲟⲛ) Ⲁⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ ⲉⲧⲥⲱⲧⲡ: ⲛ̀ⲧⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ̀: ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ: ϣⲁ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ ⲙ̀Ⲫⲓⲱⲧ.",
+    "coptic": "Ⲁⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ ⲉⲧⲥⲱⲧⲡ: ⲛ̀ⲧⲉ ⲧⲉⲡⲁⲣⲑⲉⲛⲓⲁ̀: ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ: ϣⲁ ⲡⲓⲏ̀ⲣⲟⲛⲟⲥ ⲙ̀Ⲫⲓⲱⲧ.",
     "translations": {
-      "english": "(Also for the Virgin) The select incense, of your virginity, ascended to the throne, of the Father.",
-      "arabic": "وأيضا لأجل العذراء البخور المختار الذى لبتوليتك صعد الى كرسى الآب."
+      "english": "The select incense, of your virginity, ascended to the throne, of the Father.",
+      "arabic": "البخور المختار الذى لبتوليتك صعد الى كرسى الآب."
     },
     "transliterations": {
-      "english": "(Ethve tiparthenos on) Api-estoinofi etsotp: ente tepartheni-a: afshenaf e-epshoi: sha pi-eeronos emfiot."
+      "english": "Api-estoinofi etsotp: ente tepartheni-a: afshenaf e-epshoi: sha pi-eeronos emfiot."
     },
     "stanzas": [
-      {
-        "coptic": "(Ⲉⲑⲃⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲟⲛ)"
-      },
       {
         "coptic": "Ⲁⲡⲓⲥ̀ⲑⲟⲓⲛⲟϥⲓ ⲉⲧⲥⲱⲧⲡ:"
       },
@@ -1081,18 +1075,15 @@
     "side": 1
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ) Ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ: ⲛⲉⲙ ϩⲁⲛⲏ̀ⲃⲁ ⲛ̀̀ⲏ̀ⲃⲁ: ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲁⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅.",
+    "coptic": "Ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ: ⲛⲉⲙ ϩⲁⲛⲏ̀ⲃⲁ ⲛ̀̀ⲏ̀ⲃⲁ: ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲁⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅.",
     "translations": {
-      "english": "(For the Angels) Thousands of thousands, and myriads of myriads, of archangels, and holy angels.",
-      "arabic": "لأجل الملائكة ألوف ألوف وربوات ربوات رؤساء ملائكة وملائكة مقدسين."
+      "english": "Thousands of thousands, and myriads of myriads, of archangels, and holy angels.",
+      "arabic": "ألوف ألوف وربوات ربوات رؤساء ملائكة وملائكة مقدسين."
     },
     "transliterations": {
-      "english": "(Ethve niangelos) Hanansho ensho: nem haneeva eneeva: enarsheeangelos: nem angelos ethowab."
+      "english": "Hanansho ensho: nem haneeva eneeva: enarsheeangelos: nem angelos ethowab."
     },
     "stanzas": [
-      {
-        "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ)"
-      },
       {
         "coptic": "Ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ:"
       },
@@ -1157,13 +1148,13 @@
     ]
   },
   {
-    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: Ⲡⲟ̅ⲥ̅....",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
-      "english": "Through the intercessions, of the whole choir of the angels, O Lord....",
-      "arabic": "بشفاعات جميع صفوف الملائكة يارب...."
+      "english": "Through the intercessions, of the whole choir of the angels, O Lord, grant us the forgiveness of our sins.",
+      "arabic": "بشفاعات جميع صفوف الملائكة يارب أنعم لنا بمغفرة خطايانا."
     },
     "transliterations": {
-      "english": "Hiten ni-epresvia: ente epkhoros teerf ente niangelos: Epshois...."
+      "english": "Hiten ni-epresvia: ente epkhoros teerf ente niangelos: Epshois ari-ehmot nan empikho evol ente nennovi."
     },
     "stanzas": [
       {
@@ -1173,24 +1164,21 @@
         "coptic": "ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ:"
       },
       {
-        "coptic": "Ⲡⲟ̅ⲥ̅...."
+        "coptic": "Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
       }
     ],
     "side": 1
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ) Ⲛⲉⲛⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲁⲩϩⲓⲱⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ: ϧⲉⲛ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ: ⲛ̀ⲧⲉ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅.",
+    "coptic": "Ⲛⲉⲛⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲁⲩϩⲓⲱⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ: ϧⲉⲛ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ: ⲛ̀ⲧⲉ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅.",
     "translations": {
-      "english": "(For the Apostles) Our fathers the apostles, preached unto the nations, the Gospel, of Jesus Christ.",
-      "arabic": "لأجل الرسل آباؤنا الرسل بشروا فى الأمم بانجيل يسوع المسيح."
+      "english": "Our fathers the apostles, preached unto the nations, the Gospel, of Jesus Christ.",
+      "arabic": "آباؤنا الرسل بشروا فى الأمم بانجيل يسوع المسيح."
     },
     "transliterations": {
-      "english": "(Ethve ni-apostolos) Nenioti enapostolos: avhioish khen niethnos: khen pievangelion: ente Ieesous Pi-ekhristos."
+      "english": "Nenioti enapostolos: avhioish khen niethnos: khen pievangelion: ente Ieesous Pi-ekhristos."
     },
     "stanzas": [
-      {
-        "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ)"
-      },
       {
         "coptic": "Ⲛⲉⲛⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ:"
       },
@@ -1231,13 +1219,13 @@
     "side": 1
   },
   {
-    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ...",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
-      "english": "Through the prayers, of my fathers the apostles, O Lord.....",
-      "arabic": "بصلوات سادتى الآباء الرسل يارب ..."
+      "english": "Through the prayers, of my fathers the apostles, O Lord, grant us the forgiveness of our sins.",
+      "arabic": "بصلوات سادتى الآباء الرسل يارب أنعم لنا بمغفرة خطايانا."
     },
     "transliterations": {
-      "english": "Hiten nievshee: ente nashois enioti enapostolos: Epshois ari-ehmot..."
+      "english": "Hiten nievshee: ente nashois enioti enapostolos: Epshois ari-ehmot nan empikho evol ente nennovi."
     },
     "stanzas": [
       {
@@ -1247,25 +1235,22 @@
         "coptic": "ⲛ̀ⲧⲉ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ:"
       },
       {
-        "coptic": "Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ..."
+        "coptic": "Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
       }
     ]
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ) * Ϩⲁⲛⲭ̀ⲗⲟⲙ ⲛ̀ⲁⲧⲗⲱⲙ: ⲁϥⲧⲏⲓⲧⲟⲩ ⲛ̀ϫⲉ Ⲡⲟ̅ⲥ̅: ϩⲓϫⲉⲛ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ: ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ.",
+    "coptic": "Ϩⲁⲛⲭ̀ⲗⲟⲙ ⲛ̀ⲁⲧⲗⲱⲙ: ⲁϥⲧⲏⲓⲧⲟⲩ ⲛ̀ϫⲉ Ⲡⲟ̅ⲥ̅: ϩⲓϫⲉⲛ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ: ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ.",
     "translations": {
-      "english": "(For the Martyrs) * Unfading crowns, the Lord has placed, upon the whole choir, of the martyrs.",
-      "arabic": "لأجل الشهداء أكاليل غير مضمحلة جعلها الرب على جميع صفوف الشهداء."
+      "english": "Unfading crowns, the Lord has placed, upon the whole choir, of the martyrs.",
+      "arabic": "أكاليل غير مضمحلة جعلها الرب على جميع صفوف الشهداء."
     },
     "transliterations": {
-      "english": "(Ethve nimartiros) * Haneklom enatlom: afteeitou enje Epshois: hijen epkhoros teerf: ente nimartiros."
+      "english": "Haneklom enatlom: afteeitou enje Epshois: hijen epkhoros teerf: ente nimartiros."
     },
     "stanzas": [
       {
-        "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ)"
-      },
-      {
-        "coptic": "* Ϩⲁⲛⲭ̀ⲗⲟⲙ ⲛ̀ⲁⲧⲗⲱⲙ:"
+        "coptic": "Ϩⲁⲛⲭ̀ⲗⲟⲙ ⲛ̀ⲁⲧⲗⲱⲙ:"
       },
       {
         "coptic": "ⲁϥⲧⲏⲓⲧⲟⲩ ⲛ̀ϫⲉ Ⲡⲟ̅ⲥ̅:"
@@ -1303,13 +1288,13 @@
     ]
   },
   {
-    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: Ⲡⲟ̅ⲥ̅....",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
-      "english": "Through the prayers, of the whole choir of the martyrs, O Lord....",
-      "arabic": "بصلوات جميع صفوف الشهداء يارب ..."
+      "english": "Through the prayers, of the whole choir of the martyrs, O Lord, grant us the forgiveness of our sins.",
+      "arabic": "بصلوات جميع صفوف الشهداء يارب أنعم لنا بمغفرة خطايانا."
     },
     "transliterations": {
-      "english": "Hiten nievshee: ente epkhoros teerf ente nimartiros: Epshois...."
+      "english": "Hiten nievshee: ente epkhoros teerf ente nimartiros: Epshois ari-ehmot nan empikho evol ente nennovi."
     },
     "stanzas": [
       {
@@ -1319,24 +1304,21 @@
         "coptic": "ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ:"
       },
       {
-        "coptic": "Ⲡⲟ̅ⲥ̅...."
+        "coptic": "Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
       }
     ],
     "side": 1
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ) Ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲁⲕ: ⲉⲩⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲉ̀ⲩⲉⲥⲁϫⲓ ⲙ̀ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.",
+    "coptic": "Ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲁⲕ: ⲉⲩⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲉ̀ⲩⲉⲥⲁϫⲓ ⲙ̀ⲡ̀ⲱ̀ⲟⲩ: ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.",
     "translations": {
-      "english": "(For the Saints) Your saints bless You, and they speak, of the glory, of Your Kingdom)",
-      "arabic": "لأجل القديسين قديسيك يباركونك. وينطقون بمجد ملكوتك."
+      "english": "Your saints bless You, and they speak, of the glory, of Your Kingdom.",
+      "arabic": "قديسيك يباركونك. وينطقون بمجد ملكوتك."
     },
     "transliterations": {
-      "english": "(Ethve nee-ethowab) Nee-ethowab entak: eve-esmou erok: evesaji emepoou: ente tekmetouro."
+      "english": "Nee-ethowab entak: eve-esmou erok: evesaji emepoou: ente tekmetouro."
     },
     "stanzas": [
-      {
-        "coptic": "(Ⲉⲑⲃⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ)"
-      },
       {
         "coptic": "Ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲧⲁⲕ:"
       },
@@ -1377,13 +1359,13 @@
     "side": 1
   },
   {
-    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ: ⲛⲉⲙ ⲛⲓⲏ̀ⲙⲏⲓ ⲛⲉⲙ ⲛⲓⲇⲓⲕⲉⲟⲥ: Ⲡⲟ̅ⲥ̅...",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ: ⲛ̀ⲧⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ: ⲛⲉⲙ ⲛⲓⲏ̀ⲙⲏⲓ ⲛⲉⲙ ⲛⲓⲇⲓⲕⲉⲟⲥ: Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
     "translations": {
-      "english": "Through the prayers, of the whole choir of the cross-bearers, the righteous and the just, O Lord....",
-      "arabic": "بصلوات كافة مصاف لابسى الصليب والأبرار والصديقين يارب..."
+      "english": "Through the prayers, of the whole choir of the cross-bearers, the righteous and the just, O Lord, grant us the forgiveness of our sins.",
+      "arabic": "بصلوات كافة مصاف لابسى الصليب والأبرار والصديقين يارب أنعم لنا بمغفرة خطايانا."
     },
     "transliterations": {
-      "english": "Hiten nievshee: ente epkhoros teerf ente ni-estavroforos: nem ni-eemee nem nithikeos: Epshois..."
+      "english": "Hiten nievshee: ente epkhoros teerf ente ni-estavroforos: nem ni-eemee nem nithikeos: Epshois ari-ehmot nan empikho evol ente nennovi."
     },
     "stanzas": [
       {
@@ -1396,25 +1378,22 @@
         "coptic": "ⲛⲉⲙ ⲛⲓⲏ̀ⲙⲏⲓ ⲛⲉⲙ ⲛⲓⲇⲓⲕⲉⲟⲥ:"
       },
       {
-        "coptic": "Ⲡⲟ̅ⲥ̅..."
+        "coptic": "Ⲡⲟ̅ⲥ̅ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
       }
     ]
   },
   {
-    "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ) * Ⲭⲉⲣⲉ Ⲉⲗⲓⲁⲥ: ⲡⲓⲥⲟⲫⲣⲟⲛ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ⲛⲉⲙ Ⲉⲗⲓⲥⲉⲟⲥ: ⲡⲉϥⲥⲱⲧⲡ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ.",
+    "coptic": "Ⲭⲉⲣⲉ Ⲉⲗⲓⲁⲥ: ⲡⲓⲥⲟⲫⲣⲟⲛ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ⲛⲉⲙ Ⲉⲗⲓⲥⲉⲟⲥ: ⲡⲉϥⲥⲱⲧⲡ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ.",
     "translations": {
-      "english": "(For the Patriarchs and the Prophets) * Hail to Elijah, the prophet of temperance, and Elisha, his elect disciple.",
-      "arabic": "لأجل الآباء والأنبياء السلام لايليا النبى المتعفف واليشع تلميذه المختار."
+      "english": "Hail to Elijah, the prophet of temperance, and Elisha, his elect disciple.",
+      "arabic": "السلام لايليا النبى المتعفف واليشع تلميذه المختار."
     },
     "transliterations": {
-      "english": "(Ethve nipatriarshees nem ni-eprofeetees) * Shere Elias: pisofron emeprofeetees: nem Eliseos: pefsotp emmatheetees."
+      "english": "Shere Elias: pisofron emeprofeetees: nem Eliseos: pefsotp emmatheetees."
     },
     "stanzas": [
       {
-        "coptic": "(Ⲉⲑⲃⲉ ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ)"
-      },
-      {
-        "coptic": "* Ⲭⲉⲣⲉ Ⲉⲗⲓⲁⲥ:"
+        "coptic": "Ⲭⲉⲣⲉ Ⲉⲗⲓⲁⲥ:"
       },
       {
         "coptic": "ⲡⲓⲥⲟⲫⲣⲟⲛ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:"
