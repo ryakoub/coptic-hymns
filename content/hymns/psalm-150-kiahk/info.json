@@ -1,0 +1,21 @@
+{
+  "title": "Psalm 150 of the Fourth Hoos, Kiahk tune",
+  "titles": {
+    "english": "Psalm 150 of the Fourth Hoos, Kiahk tune",
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ",
+    "arabic": "المزمور 150 للهوس الرابع بالطريقة الكيهكي"
+  },
+  "places": [
+    {
+      "place": "kiahk/midnight-praises",
+      "order": 15
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=rt1m18Q4XMY",
+  "mahragan": {
+    "year": 2022,
+    "stage": "kg",
+    "level": "gifted"
+  },
+  "channel": "The Coptic Gate"
+}

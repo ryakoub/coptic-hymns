@@ -1,6 +1,6 @@
 {
- "version": "5242c09e4e9f8ba2",
- "updated": "2026-10-28T11:53:49Z",
+ "version": "ec8e24c3afaf98fd",
+ "updated": "2026-10-28T12:09:12Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -494,6 +494,7 @@
        "service": "midnight-praises",
        "entries": [
         "tenoueh-ensok-kiahk",
+        "psalm-150-kiahk",
         "aritenthonti"
        ]
       },
@@ -3830,6 +3831,32 @@
     "url": "catalog/v1/texts/psalm-150-4th-hoos.json",
     "bytes": 8026,
     "sha256": "b311d6c6532de9fd0814cc2213b1ce1ef9b20a76372a71b5d29846179c79d281"
+   }
+  },
+  {
+   "id": "psalm-150-kiahk",
+   "titles": {
+    "english": "Psalm 150 of the Fourth Hoos, Kiahk tune",
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ",
+    "arabic": "المزمور 150 للهوس الرابع بالطريقة الكيهكي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 16,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "psalm-150-kiahk"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/psalm-150-kiahk.json",
+    "bytes": 8299,
+    "sha256": "865644c79c138e9bae4ba00103905d9b77567e298c4c732dadd6542c98b677cf"
    }
   },
   {
@@ -7982,14 +8009,14 @@
   {
    "id": "gospel-response-kiahk-sunday-2",
    "text": "gospel-response-kiahk-sunday-2",
-   "duration": 84.82,
+   "duration": 53.38,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 2
    },
    "source": "https://tasbeha.org/hymn_library/view/67",
-   "youtube": "https://www.youtube.com/watch?v=zuZ-lkE8e4Y",
+   "youtube": "https://www.youtube.com/watch?v=yAa8vERn0cM",
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-kiahk-sunday-2.json",
@@ -8000,8 +8027,8 @@
     {
      "url": "content/hymns/gospel-response-kiahk-sunday-2/audio.m4a",
      "role": "audio",
-     "bytes": 1372643,
-     "sha256": "7373976fec711840d6f0562f7c3d39a838ebb03e3bfe6479cabc6ee525bf4d5f"
+     "bytes": 864246,
+     "sha256": "f2a326671b359075d857bfa765f3908c17bb8b7c4540d0144cd461335649e129"
     }
    ]
   },
@@ -9868,6 +9895,32 @@
      "role": "audio",
      "bytes": 2865718,
      "sha256": "d2f908df0c084eac5678540724abe2657eba6307e69982b846baf88e4e12f8c9"
+    }
+   ]
+  },
+  {
+   "id": "psalm-150-kiahk",
+   "text": "psalm-150-kiahk",
+   "duration": 152.6,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 16
+   },
+   "source": "content/hymns/psalm-150-kiahk/",
+   "youtube": "https://www.youtube.com/watch?v=rt1m18Q4XMY",
+   "files": [
+    {
+     "url": "catalog/v1/timings/psalm-150-kiahk.json",
+     "bytes": 80,
+     "sha256": "e4f630c5c972e9fda865d8018c117b765f66c3bfd6be8484bd72cecc3e6f445c",
+     "role": "timing"
+    },
+    {
+     "url": "content/hymns/psalm-150-kiahk/audio.m4a",
+     "role": "audio",
+     "bytes": 2468800,
+     "sha256": "ced9bc3b02361f251230bb7c09f2a9798159d4e5b19e8c198c63b05c327baad5"
     }
    ]
   },
