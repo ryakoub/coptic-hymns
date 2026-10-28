@@ -396,3 +396,11 @@ body.embed .line { scroll-margin-top: 0; }
   .app-banner .pill { margin-left: 62px; }
   .hero h1 { font-size: 32px; }
 }
+
+/* ── The tour's steps and the feature cards: dark blue, orange titles ── */
+
+.feature, .tour-steps button { background: linear-gradient(160deg, #0b4f7c, #073554); box-shadow: 0 6px 20px rgba(2, 50, 80, 0.22); }
+.feature h3, .tour-steps button strong { color: #ffb74d; }
+.feature p, .tour-steps button span { color: #d4e8f5; }
+.feature .icon { background: rgba(255, 167, 38, 0.16); color: #ffb74d; }
+.tour-steps button[aria-pressed="true"] { border-color: var(--orange); background: linear-gradient(160deg, #0e639a, #08416a); }
