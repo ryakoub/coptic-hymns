@@ -3,67 +3,258 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Coptic Chanter | A hymn</title>
-<link rel="icon" type="image/svg+xml" href="../favicon.svg">
-<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<title>A hymn | Coptic Chanter</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:title" content="A hymn in Coptic Chanter" />
-<meta property="og:description" content="Open it in the Coptic Chanter app for iPhone and iPad: the words light up as the cantor sings." />
+<meta property="og:description" content="Listen with the words lighting up as the cantor sings, in Coptic, English and Arabic." />
 <meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
 <meta property="og:type" content="website" />
-<link rel="stylesheet" href="../css/style.css?v=20261027">
-<style>
-.hymn-card { background: #fff; border-radius: 18px; box-shadow: 0 4px 18px rgba(0,0,0,0.09); padding: 28px; margin: 10px 0 24px; color: #2a3a48; line-height: 1.6; font-size: 16px; text-align: center; }
-.hymn-card .coptic { font-family: var(--coptic-font-traditional); font-size: 30px; color: #0e6f8f; margin: 0 0 6px; }
-.hymn-card .english { font-size: 20px; font-weight: 600; margin: 0 0 4px; }
-.hymn-card .arabic { font-size: 19px; color: #556; margin: 0 0 18px; }
-.hymn-card .note { color: #667; font-size: 14px; margin: 16px 0 0; }
-</style>
+<link rel="stylesheet" href="/css/site.css?v=20261027">
 </head>
 
-<!-- A shared hymn (/hymn/?id=<recording id>). With the app installed, iOS opens the app on the hymn instead
-     (see /.well-known/apple-app-site-association); this page is for everyone else. -->
-<body class="home-page">
-<main class="page-shell">
-
-<section class="home-banner" aria-label="Coptic Chanter banner">
-<img class="home-logo" src="../brand/logo-en.svg" alt="" width="160" height="160">
-<h1 class="home-title">Coptic Chanter</h1>
-<p class="home-subtitle">Someone shared a hymn with you.</p>
-</section>
-
-<div class="hymn-card">
-<p class="coptic" id="coptic"></p>
-<p class="english" id="english">A hymn</p>
-<p class="arabic" id="arabic" dir="rtl" lang="ar"></p>
-<p id="get">Coptic Chanter for iPhone and iPad shows the words of each hymn, lighting up as the cantor sings. It is being tested now and will be on the App Store soon.</p>
-<p class="note">Already have the app? Press and hold the link you received, then choose <strong>Open in Coptic Chanter</strong>.</p>
-</div>
-
-<a class="button" href="../index.html" style="text-align:center;">Coptic Chanter home</a>
-
-</main>
+<!-- A hymn (/hymn/?id=<recording id>), also where a hymn shared from the app lands. With the app installed, iOS
+     opens the app on the hymn instead (see /.well-known/apple-app-site-association); this page is for everyone else. -->
+<body>
+<main class="wrap" id="page"><p class="notice">Loading…</p></main>
+<script src="/js/site.js?v=20261027"></script>
 <script>
-// The App Store or TestFlight link, once there is a public one.
-const GET_APP = null;
+// Embedded in another page (the home page's sample): only the words and the player, and with lines=N only
+// the first N lines, from the first line's start to the next line's.
+const params = new URLSearchParams(location.search);
+const embed = params.has("embed");
+const maxLines = Number(params.get("lines")) || 0;
+if (embed) document.body.classList.add("embed");
+else { CC.header("library"); CC.footer(); }
 
-const id = new URLSearchParams(location.search).get("id");
-if (GET_APP) {
-  document.getElementById("get").innerHTML =
-    'Coptic Chanter for iPhone and iPad shows the words of each hymn, lighting up as the cantor sings. ' +
-    `<a class="button" href="${GET_APP}" style="text-align:center;margin-top:14px;">Get the app</a>`;
+const SETTINGS = "cc.hymn.settings";
+const settings = (() => { try { return { languages: "both", translit: true, arabic: false, ...JSON.parse(localStorage.getItem(SETTINGS) || "{}") }; } catch { return { languages: "both", translit: true, arabic: false }; } })();
+const save = () => { try { localStorage.setItem(SETTINGS, JSON.stringify(settings)); } catch {} };
+
+// Words as written: a word with no trailing space joins the next (as the app's TimingDocument.writtenWords).
+function writtenWords(words) {
+  const out = []; let joined = "";
+  for (const w of words) { joined += w.text; if (w.trailingSpace !== false) { out.push(joined); joined = ""; } }
+  if (joined) out.push(joined);
+  return out;
 }
-if (id) {
-  fetch("../catalog/v1/index.json").then(r => r.json()).then(catalog => {
-    const recording = catalog.recordings.find(r => r.id === id);
-    const text = recording && catalog.texts.find(t => t.id === recording.text);
-    if (!text) return;
-    const t = text.titles || {};
-    document.getElementById("coptic").textContent = t.coptic || "";
-    document.getElementById("english").textContent = t.english || "";
-    document.getElementById("arabic").textContent = t.arabic || "";
-    document.title = `Coptic Chanter | ${t.english || t.coptic || "A hymn"}`;
-  }).catch(() => {});
+const split = s => (s || "").split(/\s+/).filter(Boolean);
+const same = (a, b) => a.length === b.length && a.every((x, i) => x === b[i]);
+
+// What a recording in `language` sings for a line: the Coptic, or the sung wording (else the translation).
+function sungText(line, language) {
+  if (language === "coptic") return line.coptic ?? (line.stanzas || []).map(s => s.coptic).join(" ");
+  return line.sung?.[language] ?? line.translations?.[language] ?? "";
 }
+
+// The timing adjusted to the current words, as the app's TimingDocument.reconciled.
+function reconcile(timing, text, language) {
+  const lines = new Map(text.lines.map(l => [l.id, l]));
+  for (const seg of timing.segments) {
+    const line = lines.get(seg.line);
+    if (!seg.words?.length || !line) continue;
+    const current = split(sungText(line, language));
+    if (same(writtenWords(seg.words), current)) continue;
+    const marked = seg.words.filter(w => w.start != null);
+    seg.words = marked.length && same(writtenWords(marked), current)
+      ? marked
+      : current.map(t => ({ text: t, start: null, end: null }));
+  }
+  return timing;
+}
+
+const spans = words => words.map((w, i) =>
+  `<span class="w" data-i="${i}">${CC.esc(w.text)}</span>${w.trailingSpace === false ? "" : " "}`).join("");
+
+CC.catalog().then(async c => {
+  const page = document.getElementById("page");
+  const id = params.get("id");
+  let rec = c.recordingById.get(id);
+  if (!rec && c.textById.has(id)) rec = c.recordingById.get(c.textById.get(id).recordings[0]);
+  if (!rec) { page.innerHTML = '<p class="notice">This hymn isn’t in the library. <a href="/library.html">See the library</a></p>'; return; }
+
+  const entry = c.textById.get(rec.text);
+  const t = entry?.titles || {};
+  document.title = `${CC.primary(t) || "A hymn"} | Coptic Chanter`;
+  const language = rec.language || "coptic";
+  const audio = rec.files.find(f => f.role === "audio");
+  const timingFile = rec.files.find(f => f.role === "timing");
+
+  const [text, timing] = await Promise.all([
+    entry ? fetch("/" + entry.file.url).then(r => r.json()) : null,
+    timingFile ? fetch("/" + timingFile.url).then(r => r.ok ? r.json() : null).catch(() => null) : null,
+  ]);
+  if (timing && text) reconcile(timing, text, language);
+  let segments = (timing?.segments || []).slice().sort((a, b) => a.start - b.start);
+  let clipStart = 0, clipEnd = Infinity;
+  if (maxLines && text) {
+    let n = 0;
+    text.lines = text.lines.filter(l => (l.label ? n < maxLines : ++n <= maxLines));
+    const kept = new Set(text.lines.map(l => l.id));
+    const first = segments.findIndex(s => kept.has(s.line));
+    if (first >= 0) {
+      const after = segments.findIndex((s, i) => i > first && !kept.has(s.line));
+      clipStart = Math.max(0, segments[first].start - 1);
+      if (after >= 0) clipEnd = segments[after].start;
+      segments = segments.slice(first, after >= 0 ? after : undefined);
+    }
+  }
+
+  // Where the hymn is in the library, for the way back.
+  let home;
+  outer: for (const g of c.library) for (const col of g.collections) for (const s of col.sections)
+    if (s.entries.some(e => CC.entryRecording(e) === rec.id)) { home = col; break outer; }
+
+  const others = (entry?.recordings || []).filter(r => r !== rec.id).map(r => c.recordingById.get(r)).filter(r => r?.files.some(f => f.role === "audio"));
+  const label = r => {
+    const lang = (r.language || "coptic")[0].toUpperCase() + (r.language || "coptic").slice(1);
+    const name = r.tune?.english || r.cantor;
+    return !name ? lang : name.startsWith(lang) || lang === "Coptic" ? name : `${lang} · ${name}`;
+  };
+
+  page.innerHTML = embed ? `
+<div class="player"><div class="player-card">
+  <audio id="audio" controls controlsList="nodownload" preload="metadata" src="/${CC.esc(audio.url)}"></audio>
+  <div class="opts"><span class="tabs" id="sung">${[rec, ...others].map(r => `<button type="button" data-id="${r.id}" aria-pressed="${r.id === rec.id}">Sung in ${CC.esc((r.language || "coptic")[0].toUpperCase() + (r.language || "coptic").slice(1))}</button>`).join("")}</span>
+  <span class="tabs" id="langs" hidden></span><input type="checkbox" id="translit" hidden><input type="checkbox" id="arabic" hidden></div>
+</div></div>
+<div class="lyrics" id="lyrics"></div>
+<p class="embed-more"><a href="/hymn/?id=${encodeURIComponent(rec.id)}" target="_top">The whole hymn →</a></p>` : `
+${home ? `<div class="crumbs"><a href="/library.html">Library</a> › <a href="/season.html?id=${home.id}">${CC.esc(CC.primary(home.titles))}</a></div>` : ""}
+<div class="hymn-head">
+  ${t.coptic ? `<div class="coptic">${CC.esc(t.coptic)}</div>` : ""}
+  <h1>${CC.esc(t.english || t.coptic || "")}</h1>
+  ${t.arabic ? `<div class="ar" lang="ar">${CC.esc(t.arabic)}</div>` : ""}
+</div>
+<div class="app-banner"><img src="/brand/icon-1024.png" alt="">
+  <div><strong>Coptic Chanter for iPhone and iPad</strong>${CC.GET_APP
+    ? "Download hymns to listen offline, follow the scores, and more."
+    : "Being tested now, on the App Store soon. Already have it? Press and hold the link you received and choose Open in Coptic Chanter."}</div>
+  ${CC.GET_APP ? `<a class="pill light" href="${CC.GET_APP}">Get the app</a>` : ""}</div>
+<div class="player"><div class="player-card">
+  ${audio ? `<audio id="audio" controls controlsList="nodownload" preload="metadata" src="/${CC.esc(audio.url)}"></audio>` : "<p>No recording yet.</p>"}
+  <div class="opts">
+    ${others.length ? `<select id="tune" aria-label="Recording"><option value="${rec.id}">${CC.esc(label(rec))}</option>${others.map(r => `<option value="${r.id}">${CC.esc(label(r))}</option>`).join("")}</select>` : `<span style="color:var(--muted)">${CC.esc(label(rec))}</span>`}
+    <span class="tabs" id="langs">
+      <button type="button" data-v="both">Coptic &amp; English</button><button type="button" data-v="coptic">Coptic</button><button type="button" data-v="english">English</button>
+    </span>
+    <label><input type="checkbox" id="translit"> Transliteration</label>
+    <label><input type="checkbox" id="arabic"> Arabic</label>
+    ${CC.syncBadge(rec)}
+  </div>
+</div></div>
+${text?.intro ? `<details class="intro"><summary>About this hymn</summary>${text.intro.english ? `<p>${CC.esc(text.intro.english)}</p>` : ""}${text.intro.arabic ? `<p lang="ar" dir="rtl">${CC.esc(text.intro.arabic)}</p>` : ""}</details>` : ""}
+<div class="lyrics" id="lyrics"></div>`;
+
+  const audioEl = document.getElementById("audio");
+  audioEl?.addEventListener("contextmenu", e => e.preventDefault());
+  const go = r => {
+    params.set("id", r);
+    if (audioEl && !audioEl.paused) params.set("autoplay", "1"); else params.delete("autoplay");
+    location.search = params.toString();
+  };
+  document.getElementById("tune")?.addEventListener("change", e => go(e.target.value));
+  document.getElementById("sung")?.addEventListener("click", e => { const b = e.target.closest("button"); if (b && b.dataset.id !== rec.id) go(b.dataset.id); });
+  if (embed) {
+    // Only the lines shown: start at the first, stop at the next one's start (and back to the first).
+    audioEl.addEventListener("play", () => { if (audioEl.currentTime < clipStart || audioEl.currentTime >= clipEnd) audioEl.currentTime = clipStart; });
+    audioEl.addEventListener("timeupdate", () => { if (audioEl.currentTime >= clipEnd) { audioEl.pause(); audioEl.currentTime = clipStart; } });
+    if (params.has("autoplay")) audioEl.play().catch(() => {});
+    // Tell the page around it how tall to make the frame.
+    new ResizeObserver(() => parent.postMessage({ ccHeight: document.documentElement.scrollHeight }, "*")).observe(document.body);
+  }
+
+  // ── The words ──
+  const firstWords = new Map();   // line id → the words shown (the first time it's sung with words)
+  for (const s of segments) if (s.words?.length && !firstWords.has(s.line)) firstWords.set(s.line, s.words);
+  const lyrics = document.getElementById("lyrics");
+
+  function render() {
+    // An English recording always shows its English words; a line without the language chosen shows the other.
+    const showCoptic = settings.languages !== "english" || language === "coptic";
+    const showEnglish = settings.languages !== "coptic" || language === "english";
+    lyrics.classList.toggle("only", !(showCoptic && showEnglish));
+    lyrics.innerHTML = (text?.lines || []).map(l => {
+      if (l.label) return `<div class="line label" data-line="${l.id}">${CC.esc(l.label)}</div>`;
+      const cop = sungText(l, "coptic"), en = l.translations?.english || "", sungEn = sungText(l, "english");
+      const timed = firstWords.get(l.id);
+      const copHTML = language === "coptic" && timed ? spans(timed) : CC.esc(cop);
+      const enHTML = language === "english" ? (timed ? spans(timed) : CC.esc(sungEn)) : CC.esc(en);
+      const tr = settings.translit && l.transliterations?.english ? `<span class="tr">${CC.esc(l.transliterations.english)}</span>` : "";
+      const c1 = (showCoptic || !en) && cop ? `<div class="cop">${copHTML}${tr}</div>` : "";
+      const c2 = (showEnglish || !cop) && (en || sungEn) ? `<div class="en">${enHTML}</div>` : "";
+      const ar = settings.arabic && l.translations?.arabic ? `<div class="arabic" lang="ar" dir="rtl">${CC.esc(l.translations.arabic)}</div>` : "";
+      return `<div class="line${l.static ? " static" : ""}${l.side === 1 ? " side-1" : ""}" data-line="${l.id}">${c1}${c2}${ar}</div>`;
+    }).join("") || '<p class="notice">The words of this hymn are being added.</p>';
+    lit = { line: null, word: null };
+    tick();
+  }
+
+  // Options, remembered on this device.
+  const langs = document.getElementById("langs");
+  const syncOptions = () => {
+    for (const b of langs.querySelectorAll("button")) b.setAttribute("aria-pressed", b.dataset.v === settings.languages);
+    document.getElementById("translit").checked = settings.translit;
+    document.getElementById("arabic").checked = settings.arabic;
+  };
+  langs.addEventListener("click", e => { const b = e.target.closest("button"); if (b) { settings.languages = b.dataset.v; save(); syncOptions(); render(); } });
+  document.getElementById("translit").addEventListener("change", e => { settings.translit = e.target.checked; save(); render(); });
+  document.getElementById("arabic").addEventListener("change", e => { settings.arabic = e.target.checked; save(); render(); });
+
+  // ── Following the recording (as the app's segmentIndex and wordIndex) ──
+  let lit = { line: null, word: null };
+  function segmentAt(time) {
+    let lo = 0, hi = segments.length;
+    while (lo < hi) { const mid = (lo + hi) >> 1; if (segments[mid].start <= time) lo = mid + 1; else hi = mid; }
+    return lo - 1;
+  }
+  function wordAt(i, time) {
+    const words = segments[i].words;
+    if (!words) return null;
+    const lineEnd = segments[i + 1]?.start ?? Infinity;
+    for (let k = 0; k < words.length; k++) {
+      const w = words[k];
+      if (w.start == null || time < w.start) continue;
+      const end = w.end ?? words.slice(k + 1).find(x => x.start != null)?.start ?? lineEnd;
+      if (time < end) return k;
+    }
+    return null;
+  }
+  function tick() {
+    if (!audioEl || !segments.length) return;
+    const i = segmentAt(audioEl.currentTime);
+    const lineId = i >= 0 ? segments[i].line : null;
+    const word = i >= 0 ? wordAt(i, audioEl.currentTime) : null;
+    if (lineId !== lit.line) {
+      lyrics.querySelector(".line.lit")?.classList.remove("lit");
+      const el = lineId && lyrics.querySelector(`[data-line="${lineId}"]`);
+      if (el) {
+        el.classList.add("lit");
+        if (!audioEl.paused && !embed) el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }
+    if (lineId !== lit.line || word !== lit.word) {
+      lyrics.querySelector(".w.on")?.classList.remove("on");
+      if (word != null) lyrics.querySelector(`[data-line="${lineId}"] .w[data-i="${word}"]`)?.classList.add("on");
+    }
+    lit = { line: lineId, word };
+  }
+  const loop = () => { tick(); if (!audioEl.paused) requestAnimationFrame(loop); };
+  audioEl?.addEventListener("play", loop);
+  audioEl?.addEventListener("seeked", tick);
+
+  // Touch a line to hear it from its start.
+  lyrics.addEventListener("click", e => {
+    const el = e.target.closest(".line[data-line]");
+    const s = el && segments.find(x => x.line === el.dataset.line);
+    if (!s || !audioEl) return;
+    audioEl.currentTime = s.start;
+    audioEl.play();
+  });
+
+  syncOptions();
+  render();
+});
 </script>
 </body>
 </html>

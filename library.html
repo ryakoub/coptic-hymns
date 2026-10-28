@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Library | Coptic Chanter</title>
+<meta name="description" content="Every hymn in Coptic Chanter, by season, fast and feast of the Coptic church year.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:title" content="Coptic Chanter Library" />
+<meta property="og:description" content="Every hymn in Coptic Chanter, by season, fast and feast of the Coptic church year." />
+<meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
+<link rel="stylesheet" href="/css/site.css?v=20261027">
+</head>
+<body>
+<main class="wrap">
+  <h1 class="page-title">Library</h1>
+  <p class="page-sub">The hymns of the Coptic church year, by season, fast and feast, as in the app.</p>
+  <div class="tabs" id="tabs" role="group" aria-label="Show"></div>
+  <div id="groups"><p class="notice">Loading…</p></div>
+</main>
+<script src="/js/site.js?v=20261027"></script>
+<script>
+CC.header("library");
+CC.footer();
+
+CC.catalog().then(c => {
+  // Empty seasons stay hidden until their first hymn is added, as in the app.
+  const groups = c.library
+    .map(g => ({ ...g, collections: g.collections.filter(col => CC.entryCount(col) > 0) }))
+    .filter(g => g.collections.length);
+
+  const tabs = document.getElementById("tabs");
+  const shown = new URLSearchParams(location.search).get("show") || "all";
+  tabs.innerHTML = [{ id: "all", titles: { english: "All" } }, ...groups]
+    .map(g => `<button type="button" data-id="${g.id}" aria-pressed="${g.id === shown}">${CC.esc(CC.primary(g.titles))}</button>`).join("");
+
+  const render = which => {
+    document.getElementById("groups").innerHTML = groups.filter(g => which === "all" || g.id === which).map(g => {
+      const hymns = g.collections.reduce((n, col) => n + CC.entryCount(col), 0);
+      return `<section>
+  <div class="group-head"><h2>${CC.esc(CC.primary(g.titles))}</h2>
+    <span class="count">${g.collections.length} · ${hymns} hymns</span>
+    <span lang="ar">${CC.esc(g.titles.arabic || "")}</span></div>
+  <div class="grid">${g.collections.map(col => CC.card(c, col, g.id)).join("")}</div>
+</section>`;
+    }).join("");
+    for (const b of tabs.querySelectorAll("button")) b.setAttribute("aria-pressed", b.dataset.id === which);
+  };
+  tabs.addEventListener("click", e => {
+    const b = e.target.closest("button");
+    if (!b) return;
+    render(b.dataset.id);
+    history.replaceState(null, "", b.dataset.id === "all" ? "library.html" : `library.html?show=${b.dataset.id}`);
+  });
+  render(groups.some(g => g.id === shown) ? shown : "all");
+});
+</script>
+</body>
+</html>

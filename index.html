@@ -1,46 +1,182 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Coptic Chanter</title>
-<link rel="icon" type="image/svg+xml" href="favicon.svg">
-<link rel="shortcut icon" href="favicon.svg">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="description" content="The hymns of the Coptic Orthodox Church for iPhone and iPad, with the words lighting up as the cantor sings, in Coptic, English and Arabic.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="shortcut icon" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:title" content="Coptic Chanter" />
-<meta property="og:description" content="Audio-synced Coptic hymn learning with lyrics, timing, and curriculum-based navigation." />
+<meta property="og:description" content="The hymns of the Coptic Orthodox Church, with the words lighting up as the cantor sings." />
 <meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
 <meta property="og:url" content="https://www.copticchanter.com/" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
-<link rel="stylesheet" href="css/style.css?v=20261026">
+<link rel="stylesheet" href="/css/site.css?v=20261027">
 </head>
+<body>
+<main class="wrap">
 
-<body class="home-page">
-
-<main class="page-shell">
-<section class="home-banner" aria-label="Coptic Chanter banner">
-<img class="home-logo" src="brand/logo.svg" alt="" width="160" height="160">
-<h1 class="home-title">Coptic Chanter</h1>
-<p class="home-coptic-subtitle">Ⲁⲣⲓⲯⲁⲗⲓⲛ ϧⲉⲛ ⲛⲓϩⲩⲙⲛⲟⲥ</p>
-<p class="home-subtitle">Audio-synced Coptic hymn learning with lyrics, timing, and curriculum-based navigation.</p>
+<section class="hero">
+  <div>
+    <span class="badge">iPhone &amp; iPad · now in testing</span>
+    <h1>Learn the hymns, word by word.</h1>
+    <p>Coptic Chanter follows the cantor through every hymn of the church year: the words light up as they are sung, in Coptic, English and Arabic, so you can listen, read along and learn to chant.</p>
+    <div class="actions">
+      <a class="pill gold" href="/library.html">Browse the hymns</a>
+      <a class="pill light" href="#get">Get the app</a>
+    </div>
+    <div class="checks"><span>✓ Free</span><span>✓ No ads, no tracking</span><span>✓ Always growing</span></div>
+  </div>
+  <div class="seal" role="img" aria-label="Coptic Chanter: ϩⲱⲥ ⲉ̀ⲣⲟϥ, Praise Him">
+    <img src="/brand/logo.svg" alt=""><img class="alt" src="/brand/logo-en.svg" alt="">
+  </div>
 </section>
 
-<a class="button" href="groups.html?curriculum=mahragan-keraza-2026">
-<span class="button-title">Mahragan Al-Keraza 2026</span>
-<span class="button-subtitle">Midwest and Chicago Churches, USA</span>
-</a>
+<div class="section-head" id="tour">
+  <div class="eyebrow">In the app</div>
+  <h2>See it at work.</h2>
+</div>
+<div class="tour">
+  <div class="tour-steps" id="tour-steps">
+    <button type="button" data-clip="words"><strong>Follow every word</strong><span>The word being sung lights up, with the transliteration above it and the English below.</span></button>
+    <button type="button" data-clip="english"><strong>Sung in English too</strong><span>Switch to the English version, timed word by word just like the Coptic.</span></button>
+    <button type="button" data-clip="score"><strong>Scores that follow along</strong><span>A cursor moves across the music as the cantor sings.</span></button>
+    <button type="button" data-clip="timing"><strong>Time the words yourself</strong><span>Tap each word as you hear it: that’s how every hymn is timed, by volunteers.</span></button>
+    <button type="button" data-clip="library" data-still="5"><strong>The whole church year</strong><span>Seasons, services and folders, with what’s timed word by word marked.</span></button>
+    <button type="button" data-clip="home" data-still="5" data-device="tablet"><strong>Today in the church year</strong><span>On iPad: the Coptic date, the season we are in, and the feasts coming up.</span></button>
+    <button type="button" data-clip="myhymns" data-device="tablet"><strong>Your own hymns</strong><span>On iPad: add your own slides or scores and recordings, and mark them as you listen.</span></button>
+  </div>
+  <div class="phone" id="tour-frame"><video id="tour-video" muted playsinline preload="auto" poster="/brand/clips/words.jpg"></video><img id="tour-still" alt="" hidden></div>
+</div>
 
-<figure class="home-mahragan-logo" aria-label="Mahragan Al-Keraza logo">
-<a class="home-mahragan-logo-link" href="groups.html?curriculum=mahragan-keraza-2026" aria-label="Open Mahragan Al-Keraza 2026 groups">
-<img src="logo.jpeg" alt="Mahragan Al-Keraza 2026 logo">
-</a>
-</figure>
+<div class="section-head" id="features">
+  <div class="eyebrow">Features</div>
+  <h2>Made for learning and for the church.</h2>
+</div>
+<div class="features">
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h10M4 17h13"/><circle cx="19" cy="12" r="1.5" fill="currentColor"/></svg></div>
+    <h3>Follow every word</h3><p>Each word lights up as the cantor sings it, and the hymn scrolls along. Touch a line to hear it from its start.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2l4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="M7 22l-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg></div>
+    <h3>Repeat and slow down</h3><p>Repeat the line being sung until you have it, step from line to line, and slow the cantor down to half speed.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 5h7M7.5 5v2M5 12c2-1 4-3 5-6M6 9c1 2 3 3 5 3"/><path d="M13 20l4-9 4 9M14.5 17h5"/></svg></div>
+    <h3>Coptic, English and Arabic</h3><p>The Coptic beside its English, with the Arabic and a transliteration in Latin letters when you want them. English versions sung as English.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></div>
+    <h3>Many tunes and cantors</h3><p>Hear a hymn by more than one cantor, in its annual and festal tunes, and in English where it is sung in English.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></div>
+    <h3>Today in the church year</h3><p>The Coptic date, the season we are in, and the feasts and fasts coming up, each opening its hymns.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 10h18M3 14h18M3 18h18"/><path d="M14 4v8" stroke-width="3"/></svg></div>
+    <h3>Scores that follow along</h3><p>Hymn scores and hand-written notation, with a cursor that moves across the page as the recording plays.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 10l5 5 5-5"/><path d="M5 21h14"/></svg></div>
+    <h3>Offline</h3><p>Download a whole season before church or a trip, and every hymn plays without a connection.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-5-5"/></svg></div>
+    <h3>Find the line you remember</h3><p>Search titles and the words themselves, in English, Coptic or Arabic.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2M12 19v3"/></svg></div>
+    <h3>My hymns</h3><p>Add your own recordings and notation, mark them as you listen, and back them up or share them with your class.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M9 7h6M9 11h6M9 15h3"/></svg></div>
+    <h3>Made for the pew</h3><p>Large text that fits the screen, the two sides of the choir tinted apart, a traditional Coptic font, and a screen that stays on.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8h16v-8M16 6l-4-4-4 4M12 2v13"/></svg></div>
+    <h3>Share a hymn</h3><p>Send a hymn to a friend or a class: the link opens it in the app, or here on the website.</p></div>
+  <div class="feature"><div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7L21 8"/><path d="M21 3v5h-5"/></svg></div>
+    <h3>Always growing</h3><p>New hymns, words and timings arrive by themselves, without waiting for an app update.</p></div>
+</div>
 
-<p class="home-theme-verse" lang="cop">ⲧⲉⲛⲉⲣϩⲟⲩⲟ̀ ϭⲣⲟ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲫⲏⲉⲧⲁϥⲙⲉⲛ ⲣⲓⲧⲉⲛ.</p>
+<div class="section-head" id="try">
+  <div class="eyebrow">Try it here</div>
+  <h2>Listen to a few verses.</h2>
+  <p>The first verses of the Second Hoos, sung in Coptic or in English, right here on the page.</p>
+</div>
+<div class="sample">
+  <iframe id="sample" src="/hymn/?id=second-hoos&amp;embed=1&amp;lines=2" title="The Second Hoos" loading="lazy"></iframe>
+</div>
 
-<p class="home-links"><a href="support.html">Support</a> · <a href="privacy.html">Privacy</a> · <a href="contact.html">Contact</a></p>
+<div class="section-head">
+  <div class="eyebrow">The church year</div>
+  <h2>Every season, fast and feast.</h2>
+  <p>Hymns are gathered as the church sings them: by season, then by service, from Vespers and Midnight Praises to the Liturgy.</p>
+</div>
+<div class="strip" id="strip"></div>
+<p style="text-align:center"><a href="/library.html">See the whole library →</a></p>
+
+<div class="section-head" id="programs">
+  <div class="eyebrow">Programs</div>
+  <h2>Mahragan Al-Keraza</h2>
+  <p>The hymns of the Mahragan for the Midwest and Chicago churches, by grade and level, so every student can practice at home.</p>
+</div>
+<div class="grid" id="programs-grid"></div>
+
+<div class="section-head">
+  <div class="eyebrow">Serve with us</div>
+  <h2>Help time the hymns.</h2>
+  <p>Every hymn is timed by hand, word by word, by volunteers using the app’s pencil. If you can spare an hour, write to <a href="mailto:support@copticchanter.com">support@copticchanter.com</a> and we’ll send you a hymn to time.</p>
+</div>
+
+<section class="cta" id="get">
+  <img src="/brand/icon-1024.png" alt="">
+  <h2>Coming soon to the App Store</h2>
+  <p id="get-text">Coptic Chanter is being tested now and will be on the App Store soon. It needs iPhone or iPad with iOS 26.</p>
+  <a class="pill gold" id="get-button" hidden>Get the app</a>
+</section>
+
 </main>
+<script src="/js/site.js?v=20261027"></script>
+<script>
+CC.header("home");
+CC.footer();
 
+if (CC.GET_APP) {
+  document.querySelector("#get h2").textContent = "Get Coptic Chanter";
+  document.getElementById("get-text").textContent = "Free for iPhone and iPad (iOS 26 or later).";
+  Object.assign(document.getElementById("get-button"), { href: CC.GET_APP, hidden: false });
+}
+
+// The tour: each clip plays once, then the next one (a still picture stays a few seconds).
+(() => {
+  const steps = [...document.querySelectorAll("#tour-steps button")];
+  const video = document.getElementById("tour-video"), still = document.getElementById("tour-still");
+  let i = 0, timer;
+  const show = k => {
+    i = (k + steps.length) % steps.length;
+    clearTimeout(timer);
+    steps.forEach((b, j) => b.setAttribute("aria-pressed", j === i));
+    const { clip, still: secs, device } = steps[i].dataset;
+    document.getElementById("tour-frame").classList.toggle("tablet", device === "tablet");
+    if (secs) {
+      video.pause(); video.hidden = true;
+      still.src = `/brand/clips/${clip}.jpg`; still.hidden = false;
+      timer = setTimeout(() => show(i + 1), secs * 1000);
+    } else {
+      still.hidden = true; video.hidden = false;
+      video.poster = `/brand/clips/${clip}.jpg`;
+      video.src = `/brand/clips/${clip}.mp4`;
+      video.play().catch(() => {});
+    }
+  };
+  video.addEventListener("ended", () => show(i + 1));
+  steps.forEach((b, j) => b.addEventListener("click", () => show(j)));
+  // Start when the tour scrolls into view.
+  new IntersectionObserver((entries, o) => { if (entries[0].isIntersecting) { show(0); o.disconnect(); } }, { threshold: 0.3 })
+    .observe(document.querySelector(".tour"));
+})();
+
+// The sample's frame grows to fit the words.
+addEventListener("message", e => {
+  if (e.origin === location.origin && e.data?.ccHeight) document.getElementById("sample").style.height = e.data.ccHeight + "px";
+});
+
+CC.catalog().then(c => {
+  const all = c.library.flatMap(g => g.collections.filter(col => CC.entryCount(col) > 0).map(col => [col, g.id]));
+  // The seasons we are in first, then the church year in order; programs have their own section.
+  const year = all.filter(([, g]) => g !== "programs");
+  year.sort((a, b) => CC.isCurrent(b[0]) - CC.isCurrent(a[0]));
+  document.getElementById("strip").innerHTML = year.map(([col, g]) => CC.card(c, col, g)).join("");
+  document.getElementById("programs-grid").innerHTML = all.filter(([, g]) => g === "programs").map(([col, g]) => CC.card(c, col, g)).join("")
+    + `<a class="card" href="/groups.html?curriculum=mahragan-keraza-2026"><div class="cover" style="background:#fff"><img src="/logo.jpeg" alt="" style="width:100%;height:100%;object-fit:contain"></div>
+       <div class="meta"><strong>Mahragan 2026 by level</strong><span class="n">The classic practice pages</span></div></a>`;
+
+});
+</script>
 </body>
 </html>

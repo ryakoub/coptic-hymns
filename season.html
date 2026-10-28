@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coptic Chanter</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:title" content="Coptic Chanter" />
+<meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
+<link rel="stylesheet" href="/css/site.css?v=20261027">
+</head>
+<body>
+<main class="wrap" id="page"><p class="notice">Loading…</p></main>
+<script src="/js/site.js?v=20261027"></script>
+<script>
+CC.header("library");
+CC.footer();
+
+// One season, fast, feast or program: its services (or levels), each a list of hymns with sub-folders, as in the app.
+CC.catalog().then(c => {
+  const id = new URLSearchParams(location.search).get("id");
+  let col, group;
+  for (const g of c.library) for (const x of g.collections) if (x.id === id) { col = x; group = g; }
+  const page = document.getElementById("page");
+  if (!col) { page.innerHTML = '<p class="notice">This season isn’t in the library. <a href="/library.html">See the library</a></p>'; return; }
+
+  const name = CC.primary(col.titles);
+  document.title = `${name} | Coptic Chanter`;
+
+  const row = e => {
+    const r = c.recordingById.get(CC.entryRecording(e));
+    const t = c.textById.get(CC.entryText(c, e));
+    if (!r) return "";
+    const tune = r.tune?.english || "";
+    return `<a class="row" href="/hymn/?id=${encodeURIComponent(r.id)}">
+  <span class="titles"><strong>${CC.esc(CC.primary(t?.titles) || r.id)}</strong>
+    ${t?.titles.english && t.titles.coptic ? `<span class="sub coptic">${CC.esc(t.titles.coptic)}</span>` : ""}
+    ${t?.titles.arabic ? `<span class="sub" lang="ar">${CC.esc(t.titles.arabic)}</span>` : ""}
+    ${tune ? `<span class="tune">${CC.esc(tune)}</span>` : ""}</span>
+  ${CC.syncBadge(r)}<span class="dur">${CC.duration(r.duration)}</span></a>`;
+  };
+
+  const list = s => `<div class="list">${CC.sectionItems(s).map(item => item.hymn ? row(item.hymn) : `
+<details class="folder"><summary class="row"><span class="titles"><strong>${CC.esc(CC.primary(item.folder.titles))}</strong>
+  ${item.folder.titles.arabic ? `<span class="sub" lang="ar">${CC.esc(item.folder.titles.arabic)}</span>` : ""}</span>
+  <span class="dur">${item.folder.recordings.length}</span><span class="chev">›</span></summary>
+  <div class="inner">${item.folder.recordings.map(row).join("")}</div></details>`).join("")}</div>`;
+
+  const key = s => s.service || s.id;
+  const section = (s, withHead = true) => {
+    if (!s.entries.length) return "";
+    const t = CC.sectionTitles(c, s);
+    return (withHead ? `<h3 class="list-head"><span>${CC.esc(CC.primary(t))}</span><span class="ar" lang="ar">${CC.esc(t.arabic || "")}</span></h3>` : "") + list(s);
+  };
+
+  // Headings over several sections (Regular Tune's Praises and Liturgy); the rest are listed after them.
+  const inParts = new Set((col.parts || []).flatMap(p => p.sections));
+  const parts = (col.parts || []).map(p => {
+    const body = p.sections.map(k => col.sections.find(s => key(s) === k)).filter(Boolean)
+      .map(s => section(s, !(p.inline || []).includes(key(s)))).join("");
+    return body ? `<h2 class="part-head">${CC.esc(CC.primary(p.titles))}<span class="ar" lang="ar">${CC.esc(p.titles.arabic || "")}</span></h2>${body}` : "";
+  }).join("");
+  const rest = col.sections.filter(s => !inParts.has(key(s))).map(s => section(s)).join("");
+
+  const when = CC.spanText(col);
+  page.innerHTML = `
+<div class="crumbs"><a href="/library.html">Library</a> › <a href="/library.html?show=${group.id}">${CC.esc(CC.primary(group.titles))}</a></div>
+<div class="season-banner" style="${CC.cover(col, group.id)}">
+  <div><h1>${CC.esc(name)}</h1>
+    <div class="ar" lang="ar">${CC.esc(col.titles.arabic || "")}</div>
+    <div class="when">${CC.entryCount(col)} hymns${when ? " · " + (CC.isCurrent(col) ? "Now, " : "") + CC.esc(when) : ""}</div></div>
+</div>
+${parts}${rest}
+<div class="app-banner" style="margin-top:28px"><img src="/brand/icon-1024.png" alt="">
+  <div><strong>Take ${CC.esc(name)} with you</strong>In the app, download the whole season to listen offline, with the words lighting up as the cantor sings.</div>
+  <a class="pill light" href="${CC.GET_APP || "/#get"}">Get the app</a></div>`;
+});
+</script>
+</body>
+</html>
