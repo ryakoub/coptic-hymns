@@ -1,6 +1,6 @@
 {
- "version": "559f4f49577fa8ac",
- "updated": "2026-10-28T03:13:17Z",
+ "version": "20e80ceec4223fa8",
+ "updated": "2026-10-28T10:52:25Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -508,8 +508,6 @@
         "doxology-kiahk-5",
         "doxology-kiahk-6",
         "hetenyat-kiahk",
-        "hetenyat-gabriel-zechariah-elizabeth",
-        "hetenyat-john-joachim-anna",
         "conclusion-kiahk"
        ]
       },
@@ -1634,7 +1632,7 @@
    "id": "aritenthonti",
    "titles": {
     "english": "Aritenthonti",
-    "coptic": "(Ⲁⲣⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ϯⲙⲟⲩⲕⲓ)",
+    "coptic": "Ⲁⲣⲉⲧⲉⲛⲑⲱⲛϯ ⲉ̀ϯⲙⲟⲩⲕⲓ",
     "arabic": "أريتين ثونتي"
    },
    "tags": [],
@@ -1652,8 +1650,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aritenthonti.json",
-    "bytes": 4986,
-    "sha256": "d4ad8e9b48e1391a19c61f67bb4d49732299971535f14c0c1b174aac962eb370"
+    "bytes": 4984,
+    "sha256": "3d07cc13fada2b838cb999b33346624f96b3f2bccb04e1cd57194b886907af52"
    }
   },
   {
@@ -2103,8 +2101,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-kiahk.json",
-    "bytes": 3957,
-    "sha256": "1b4f2cf5347e2c5f2d27b5c9c506a52b4623ca1ed8511a2322ed86810d37bb4a"
+    "bytes": 3927,
+    "sha256": "08ca1167b17ae2eae6b045feb1195c0fc6465da7f512ef33866c36e6936f5283"
    }
   },
   {
@@ -2973,8 +2971,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hetenyat-annual.json",
-    "bytes": 13713,
-    "sha256": "4717b551ad9c96380ecd872356636ba9d6a4ad17872f28804b87b9d63cd99262"
+    "bytes": 13711,
+    "sha256": "afd62c5037ad373081ec83b638dbe5061fa6d55d26d876bd8de4848d64bf35ca"
    }
   },
   {
@@ -3045,7 +3043,7 @@
      "url": "https://www.coptichymnsinenglish.com/album/30/track/457"
     }
    ],
-   "lines": 6,
+   "lines": 4,
    "translations": [
     "arabic",
     "english"
@@ -3058,8 +3056,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hetenyat-kiahk.json",
-    "bytes": 7501,
-    "sha256": "5277623f557e95f783e9733ab5ff8f9451188d6998f9ebcaee3774ad39098a85"
+    "bytes": 5101,
+    "sha256": "5b95715f34f18d665564d830cfd241d0d621d2585f19f6b667679d6c597c2e34"
    }
   },
   {
@@ -3745,7 +3743,7 @@
      "url": "https://www.coptichymnsinenglish.com/album/30/track/461"
     }
    ],
-   "lines": 3,
+   "lines": 1,
    "translations": [
     "arabic",
     "english"
@@ -3758,8 +3756,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-kiahk.json",
-    "bytes": 3557,
-    "sha256": "11af206da5d2bdf6889175d7e34bcf57578277b80e1f7891015663705768d6a1"
+    "bytes": 1130,
+    "sha256": "d60b41a17620f7ebc826cb5268278be1c9887f04da535a37ead5ff48fb0aacd8"
    }
   },
   {
@@ -3837,9 +3835,9 @@
   {
    "id": "psalm-kiahk",
    "titles": {
-    "english": "Kiahk Psalm",
+    "english": "Liturgy Psalm, Second Sunday of Kiahk",
     "coptic": "Ⲥⲱⲧⲉⲙ ⲧⲁϣⲉⲣⲓ",
-    "arabic": "المزمور الكيهكي"
+    "arabic": "مزمور قداس الأحد الثاني من شهر كيهك"
    },
    "tags": [],
    "pending": false,
@@ -3863,8 +3861,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/psalm-kiahk.json",
-    "bytes": 2815,
-    "sha256": "ab0113518bad5a6bc904fc5fae0789c477a54740bdb92b24fe4590e453e798d9"
+    "bytes": 2876,
+    "sha256": "8091821d2b520e5d6e2d083dd8ede477e205bc4ffc8f509d0bc09e739560fbe2"
    }
   },
   {
@@ -5635,8 +5633,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verses-cymbals-kiahk.json",
-    "bytes": 2351,
-    "sha256": "c30df2ce3689731f642e354618dbb63230211dbebe8368c7fa2340720be71437"
+    "bytes": 2339,
+    "sha256": "94986eaff69e4a90189def7439b33de2e8e98f1fc666f8aeff57c9f41873cce4"
    }
   },
   {
@@ -8177,7 +8175,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 6
+    "of": 4
    },
    "source": "https://tasbeha.org/hymn_library/view/61",
    "youtube": "https://www.youtube.com/watch?v=HR35VeTAM5A",
@@ -9775,7 +9773,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 3
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/203",
    "youtube": "https://www.youtube.com/watch?v=6IeF4fTywts",
