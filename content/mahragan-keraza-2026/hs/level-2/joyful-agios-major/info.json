@@ -8,16 +8,6 @@
     "arabic": "آجيوس الفرايحي (كبير)"
   },
   "places": [
-    "feast-of-the-cross/liturgy",
-    "nativity/liturgy",
-    "circumcision/liturgy",
-    "theophany/liturgy",
-    "wedding-at-cana/liturgy",
-    "presentation/liturgy",
-    "lazarus-saturday/liturgy",
-    "palm-sunday/liturgy",
-    "resurrection/liturgy",
-    "ascension/liturgy",
-    "pentecost/liturgy"
+    "resurrection/liturgy"
   ]
 }

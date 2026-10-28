@@ -1,6 +1,6 @@
 {
- "version": "a51ae666a38cd4cd",
- "updated": "2026-10-26T20:38:47Z",
+ "version": "559f4f49577fa8ac",
+ "updated": "2026-10-28T03:13:17Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -801,7 +801,6 @@
        "service": "liturgy",
        "entries": [
         "gospel-response-feast-cross",
-        "joyful-agios-major",
         "praxis-response-feast-cross"
        ]
       },
@@ -844,9 +843,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -888,9 +885,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -929,9 +924,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -970,9 +963,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -1011,9 +1002,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -1046,9 +1035,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -1083,9 +1070,7 @@
       },
       {
        "service": "liturgy",
-       "entries": [
-        "joyful-agios-major"
-       ]
+       "entries": []
       },
       {
        "service": "special",
@@ -1175,8 +1160,7 @@
       {
        "service": "liturgy",
        "entries": [
-        "christos-analympsis",
-        "joyful-agios-major"
+        "christos-analympsis"
        ]
       },
       {
@@ -1212,7 +1196,6 @@
        "service": "liturgy",
        "entries": [
         "blessed-pentecost",
-        "joyful-agios-major",
         "pi-pnevma"
        ]
       },
