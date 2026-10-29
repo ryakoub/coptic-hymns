@@ -1,6 +1,6 @@
 {
- "version": "43ae0fa6f57787d6",
- "updated": "2026-10-28T12:20:34Z",
+ "version": "316bc20a9436d8bd",
+ "updated": "2026-10-29T23:35:21Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -493,11 +493,11 @@
       {
        "service": "midnight-praises",
        "entries": [
-        "tenen",
         "adam-psali-kiahk-1",
         "adam-psali-kiahk-2",
         "adam-psali-kiahk-3",
         "tenoueh-ensok-kiahk",
+        "tenen",
         "psalm-150-kiahk",
         "adam-psali-kiahk-4",
         "aritenthonti",
