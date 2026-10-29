@@ -161,7 +161,7 @@ const CC = (() => {
     </ul></div>
     <div><h4>Help</h4><ul>
       <li><a href="/support.html">Support</a></li>
-      <li><a href="mailto:support@copticchanter.com">support@copticchanter.com</a></li>
+      <li><a href="mailto:hello@copticchanter.com">hello@copticchanter.com</a></li>
       <li><a href="/privacy.html">Privacy</a></li>
     </ul></div>
   </div>
