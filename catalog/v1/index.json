@@ -1,6 +1,6 @@
 {
- "version": "26b37f7a58779e7b",
- "updated": "2026-10-30T00:25:53Z",
+ "version": "d4dc2c5c16333069",
+ "updated": "2026-10-30T00:38:01Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1459,24 +1459,27 @@
   {
    "id": "adam-psali-kiahk-1",
    "titles": {
-    "english": "Kiahk Adam Psali on the First Hoos",
-    "arabic": "إبصالية آدام كيهكي على الهوس الأول"
+    "english": "Kiahk Adam Psali on the First Hoos (The Lord has reigned)",
+    "arabic": "إبصالية آدام كيهكي على الهوس الأول",
+    "coptic": "Ⲁ Ⲡ̀ϭⲟⲓⲥ ⲉⲣⲟⲩⲣⲟ"
    },
    "tags": [],
-   "pending": true,
-   "lines": 1,
+   "pending": false,
+   "lines": 26,
    "translations": [
     "arabic",
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
     "adam-psali-kiahk-1"
    ],
    "file": {
     "url": "catalog/v1/texts/adam-psali-kiahk-1.json",
-    "bytes": 494,
-    "sha256": "726113a82cc4714020ea83922d85b8438bda57fe8724dc4d306e1755b4c94f9b"
+    "bytes": 25649,
+    "sha256": "06e6a7ce75332e1db4a5b68c9daf5e149702ecf09a173a878f2dcf17bac45afb"
    }
   },
   {
@@ -6018,7 +6021,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 1
+    "of": 26
    },
    "source": "content/hymns/adam-psali-kiahk-1/",
    "youtube": "https://www.youtube.com/watch?v=muGaOkjZIPU",

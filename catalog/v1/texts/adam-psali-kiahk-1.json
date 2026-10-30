@@ -1,17 +1,686 @@
 {
  "id": "adam-psali-kiahk-1",
  "titles": {
-  "english": "Kiahk Adam Psali on the First Hoos",
-  "arabic": "إبصالية آدام كيهكي على الهوس الأول"
+  "english": "Kiahk Adam Psali on the First Hoos (The Lord has reigned)",
+  "arabic": "إبصالية آدام كيهكي على الهوس الأول",
+  "coptic": "Ⲁ Ⲡ̀ϭⲟⲓⲥ ⲉⲣⲟⲩⲣⲟ"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
+   "coptic": "Ⲁ Ⲡ̀ϭⲟⲓⲥ ⲉⲣⲟⲩⲣⲟ: ⲁϥϯ ⲛ̀ⲟⲩⲥⲁⲓ ϩⲓⲱⲧϥ: ⲛⲉⲙ ⲡ̀ⲱ̀ⲟⲩ ⲛⲉⲙ ⲡ̀ⲧⲁⲓⲟ: ⲟⲩⲟϩ ϧⲉⲛ ϯϫⲟⲙ ⲁϥⲙⲟⲣϥ.",
    "translations": {
-    "english": "Lyrics missing: the words are being added. Meanwhile, listen to the recording.",
-    "arabic": "الكلمات غير متوفرة بعد، وجارٍ إضافتها. استمع إلى التسجيل في الأثناء."
-   }
+    "english": "The Lord has reigned and was clothed with splendor, with glory and honor, and also power.",
+    "arabic": "الرب قد ملك، واشتمل بالبهاء، والمجد والكرامة، وتمنطق بالقوة."
+   },
+   "transliterations": {
+    "english": "A Epchois ererro: afti ensai hiotf: nem ep-o-ou nem eptaio: ouoh khen tijom afmorf."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ Ⲡ̀ϭⲟⲓⲥ ⲉⲣⲟⲩⲣⲟ:"
+    },
+    {
+     "coptic": "ⲁϥϯ ⲛ̀ⲟⲩⲥⲁⲓ ϩⲓⲱⲧϥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡ̀ⲱ̀ⲟⲩ ⲛⲉⲙ ⲡ̀ⲧⲁⲓⲟ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ϧⲉⲛ ϯϫⲟⲙ ⲁϥⲙⲟⲣϥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲃⲁⲥⲓⲗⲓⲉ Ⲫⲓⲱⲧ: Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ: ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ: ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ.",
+   "translations": {
+    "english": "The Father the King, the Lord of powers: with the split, the waters of the sea split.",
+    "arabic": "أيها الملك الآب، رب القوات، بالقطع قد قطع، ماء البحر."
+   },
+   "transliterations": {
+    "english": "Vasilie Ef-yot: Epchois ente nijom: khen oushot afshot: enje pimo-ou ente efiom."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲃⲁⲥⲓⲗⲓⲉ Ⲫⲓⲱⲧ:"
+    },
+    {
+     "coptic": "Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲡⲓⲙⲱⲟⲩ ⲛ̀ⲧⲉ ⲫ̀ⲓⲟⲙ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲅⲏⲥ ⲛ̀ⲁⲑⲛⲁⲩ ⲉ̀ⲣⲟϥ: ⲟⲩⲟϩ ⲛ̀ⲁⲑⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ: ⲁⲩⲙⲟϣⲓ ϩⲓⲱⲧϥ: ⲁⲩϭⲟⲥ ⲛ̀ϫⲉ ⲛⲓϫⲟⲗ.",
+   "translations": {
+    "english": "A hidden earth that was invisible was walked upon, and the depths were congealed.",
+    "arabic": "أرض غير منظورة، وغير ظاهرة، كانوا يمشون عليها، وقد جمدت الأمواج."
+   },
+   "transliterations": {
+    "english": "Ghees enathnav erof: ouoh enathouonh evol: avmoshi hiotf: avchos enje nijol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲅⲏⲥ ⲛ̀ⲁⲑⲛⲁⲩ ⲉ̀ⲣⲟϥ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲛ̀ⲁⲑⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ⲁⲩⲙⲟϣⲓ ϩⲓⲱⲧϥ:"
+    },
+    {
+     "coptic": "ⲁⲩϭⲟⲥ ⲛ̀ϫⲉ ⲛⲓϫⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲇⲓⲕⲉⲟⲥ ⲙ̀ⲫ̀ⲣⲏϯ: ⲛ̀ⲟⲩⲥⲟⲃⲧ ⲉϥⲧⲁϫⲣⲏⲟⲩⲧ: Ⲫⲁⲣⲁⲱ̀ ϧⲉⲛ ⲟⲩϩⲟϯ: ⲛⲉⲙ ⲛⲉϥϫⲟⲙ ⲉⲧⲧⲁⲗⲏⲟⲩⲧ.",
+   "translations": {
+    "english": "Truly like a strong fortress, Pharaoh was afraid with his hosts.",
+    "arabic": "حقاً مثل الحصن الثابت، وفرعون بخوف، مع قوات مركباته."
+   },
+   "transliterations": {
+    "english": "Thikeos em-efreeti: enousovt eftajreeout: Farao khen ouhoti: nem nefjom ettaleeout."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲇⲓⲕⲉⲟⲥ ⲙ̀ⲫ̀ⲣⲏϯ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲟⲩⲥⲟⲃⲧ ⲉϥⲧⲁϫⲣⲏⲟⲩⲧ:"
+    },
+    {
+     "coptic": "Ⲫⲁⲣⲁⲱ̀ ϧⲉⲛ ⲟⲩϩⲟϯ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲛⲉϥϫⲟⲙ ⲉⲧⲧⲁⲗⲏⲟⲩⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲉⲫ̀ⲓⲟⲙ ⲉⲧϭⲟⲥⲓ: ϧⲉⲛ ⲡ̀ⲉⲧϣⲏⲕ ⲁϥϭⲟⲗⲕⲟⲩ: ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓ: ϩ̀ⲑⲟ ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ.",
+   "translations": {
+    "english": "In the great sea they drowned; the horse and its rider He has thrown into the sea.",
+    "arabic": "في البحر الأعظم، غرقوا في العمق، الخيل وركاب الخيل طرحهم."
+   },
+   "transliterations": {
+    "english": "Efiom etchosi: khen epetsheek afcholkou: ouehtho nem ouchasi: ehtho afverv-orou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲫ̀ⲓⲟⲙ ⲉⲧϭⲟⲥⲓ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲡ̀ⲉⲧϣⲏⲕ ⲁϥϭⲟⲗⲕⲟⲩ:"
+    },
+    {
+     "coptic": "ⲟⲩϩ̀ⲑⲟ ⲛⲉⲙ ⲟⲩϭⲁⲥⲓ:"
+    },
+    {
+     "coptic": "ϩ̀ⲑⲟ ⲁϥⲃⲉⲣⲃⲱⲣⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲍⲱⲛⲧ ⲡⲓⲕ̀ⲣⲓⲧⲏⲥ: ⲡⲉⲧϧⲟⲙϧⲉⲙ ⲛ̀ⲛⲓⲃⲱⲧⲥ: ϩⲁⲛⲥⲱⲧⲡ ⲛ̀ⲁ̀ⲛⲁⲃⲁⲧⲏⲥ: ⲛⲉⲙ ⲛⲉϥⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ.",
+   "translations": {
+    "english": "The Creator and Judge, the Man of war: chosen captains and his chariots.",
+    "arabic": "الخالق الديان، محطم الحروب، مركبات منتخبة، وركابها."
+   },
+   "transliterations": {
+    "english": "Zont pikritees: petkhomkhem ennivots: hansotp en-anavatees: nem nefverechoouts."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲍⲱⲛⲧ ⲡⲓⲕ̀ⲣⲓⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲡⲉⲧϧⲟⲙϧⲉⲙ ⲛ̀ⲛⲓⲃⲱⲧⲥ:"
+    },
+    {
+     "coptic": "ϩⲁⲛⲥⲱⲧⲡ ⲛ̀ⲁ̀ⲛⲁⲃⲁⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲛⲉϥⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲏⲡⲡⲉ ϧⲉⲛ ⲟⲩϭⲣⲏⲟⲩⲧ: ⲁϥⲧⲁⲕⲱⲟⲩ ⲣⲏⲧⲟⲥ: ⲟⲩⲟϩ ⲁϥϭⲓⲙⲱⲓⲧ: ϧⲁϫⲱϥ ⲙ̀ⲡⲉϥⲗⲁⲟⲥ.",
+   "translations": {
+    "english": "Behold with victory He destroyed them all, and eased the way for His people.",
+    "arabic": "هوذا بالغلبة، قد أهلكهم جميعاً، وسهل، طريق شعبه."
+   },
+   "transliterations": {
+    "english": "Eeppe khen ouchreeout: aftako-ou reetos: ouoh afchimoit: khajof empeflaos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲏⲡⲡⲉ ϧⲉⲛ ⲟⲩϭⲣⲏⲟⲩⲧ:"
+    },
+    {
+     "coptic": "ⲁϥⲧⲁⲕⲱⲟⲩ ⲣⲏⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲁϥϭⲓⲙⲱⲓⲧ:"
+    },
+    {
+     "coptic": "ϧⲁϫⲱϥ ⲙ̀ⲡⲉϥⲗⲁⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲑⲟⲩⲓ̀ⲛⲁⲙ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ⲁⲥⲓ̀ⲣⲓ ⲛ̀ⲟⲩϫⲟⲙ: ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ⲛⲁⲩⲙⲟϣⲓ ϧⲉⲛ ⲫ̀ⲓⲟⲙ.",
+   "translations": {
+    "english": "The right hand of Immanuel has shown power; the children of Israel walked in the sea.",
+    "arabic": "يمين عمانوئيل، صنعت قوة، وبنو إسرائيل، مشوا في البحر."
+   },
+   "transliterations": {
+    "english": "Tho-ouinam en-Emmanoueel: asiri enoujom: nensheeri em-Pisra-eel: navmoshi khen efiom."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲑⲟⲩⲓ̀ⲛⲁⲙ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ:"
+    },
+    {
+     "coptic": "ⲁⲥⲓ̀ⲣⲓ ⲛ̀ⲟⲩϫⲟⲙ:"
+    },
+    {
+     "coptic": "ⲛⲉⲛϣⲏⲣⲓ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ⲛⲁⲩⲙⲟϣⲓ ϧⲉⲛ ⲫ̀ⲓⲟⲙ."
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "side": 0,
+   "coptic": "Ⲓⲧⲉ ϧⲉⲛ ⲑ̀ⲙⲏϯ ⲙ̀ⲫ̀ⲛⲟⲩⲛ: ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϯⲡⲉⲧⲣⲁ: ϣⲁ ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ: ϩⲓ ⲡ̀ϣⲁϥⲉ ⲛ̀Ⲥⲓⲛⲁ.",
+   "translations": {
+    "english": "They were in the depth like rocks, until they entered the wilderness of Sinai.",
+    "arabic": "وكان في وسط العمق، مثل الصخرة، حتى أدخلهم، إلى برية سيناء."
+   },
+   "transliterations": {
+    "english": "Ite khen ethmeeti em-efnoun: em-efreeti entipetra: sha entefchitou ekhoun: hi epshafe en-Sina."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲓⲧⲉ ϧⲉⲛ ⲑ̀ⲙⲏϯ ⲙ̀ⲫ̀ⲛⲟⲩⲛ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϯⲡⲉⲧⲣⲁ:"
+    },
+    {
+     "coptic": "ϣⲁ ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ ⲉ̀ϧⲟⲩⲛ:"
+    },
+    {
+     "coptic": "ϩⲓ ⲡ̀ϣⲁϥⲉ ⲛ̀Ⲥⲓⲛⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "side": 1,
+   "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲧⲟⲙⲓ ϧⲉⲛ ⲟⲩϣ̀ⲣⲱⲓⲥ: ⲛⲉⲙ Ⲙⲱⲩ̀ⲥⲏⲥ ⲫⲁ ⲡⲓⲱ̀ⲟⲩ: ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉⲠ̀ϭⲟⲓⲥ: ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ.",
+   "translations": {
+    "english": "As it is fitting, [they sang] with Moses the glorified: \"Sing to the Lord, for He has triumphed gloriously.\"",
+    "arabic": "كما يليق باحتراس، مع موسى الممجد، قائلين فلنسبح الرب، لأنه بالمجد قد تمجد."
+   },
+   "transliterations": {
+    "english": "Kata eftomi khen ousherois: nem Mo-ysees fa pi-o-ou: je marenhos e-Epchois: je khen ou-o-ou gar afchi-o-ou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲕⲁⲧⲁ ⲫ̀ⲧⲟⲙⲓ ϧⲉⲛ ⲟⲩϣ̀ⲣⲱⲓⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲙⲱⲩ̀ⲥⲏⲥ ⲫⲁ ⲡⲓⲱ̀ⲟⲩ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲙⲁⲣⲉⲛϩⲱⲥ ⲉⲠ̀ϭⲟⲓⲥ:"
+    },
+    {
+     "coptic": "ϫⲉ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲅⲁⲣ ⲁϥϭⲓⲱ̀ⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "side": 0,
+   "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ: ⲥⲉⲉⲣϩⲩⲙⲛⲟⲥ ⲉ̀ⲣⲟⲕ: ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲕⲱⲃ: ⲟⲩⲟϩ ⲉⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ.",
+   "translations": {
+    "english": "All the people chant to You; thousands and myriads praise You.",
+    "arabic": "كل الشعوب معاً، يرتلون لك، ربوات أضعاف، يسبحونك."
+   },
+   "transliterations": {
+    "english": "Laos niven evsop: se-erhymnos erok: hanthva enkov: ouoh evesmou erok."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲉⲩⲥⲟⲡ:"
+    },
+    {
+     "coptic": "ⲥⲉⲉⲣϩⲩⲙⲛⲟⲥ ⲉ̀ⲣⲟⲕ:"
+    },
+    {
+     "coptic": "ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲕⲱⲃ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲉⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ."
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "side": 1,
+   "coptic": "Ⲙⲁⲣⲉϥⲁ̀ϣⲁⲓ ⲛ̀ϧⲏⲧⲉⲛ: ⲛ̀ϫⲉ ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲛⲟⲩϯ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ.",
+   "translations": {
+    "english": "May the light of Your divinity shine within us, that is great at all times, O Christ our God.",
+    "arabic": "فليشرق فينا، نور لاهوتك، العظيم كل حين، أيها المسيح إلهنا."
+   },
+   "transliterations": {
+    "english": "Marefashai enkheeten: enje efouoini ente tekmethnouti: pinishti enseeou niven: o Pikhristos Pennouti."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙⲁⲣⲉϥⲁ̀ϣⲁⲓ ⲛ̀ϧⲏⲧⲉⲛ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲑⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲡⲓⲛⲓϣϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ:"
+    },
+    {
+     "coptic": "ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ."
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "side": 0,
+   "coptic": "Ⲛⲁⲓ ⲛⲁⲛ ⲟⲩⲟϩ ⲛⲁϩⲙⲉⲛ: Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲡⲓⲗⲟⲅⲟⲥ: ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲉⲑⲛⲏⲟⲩ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
+   "translations": {
+    "english": "Have mercy and save us, O Jesus Christ the Word, the true Light who comes into the world.",
+    "arabic": "ارحمنا ونجنا، يا يسوع المسيح الكلمة، النور الحقيقي، الآتي إلى العالم."
+   },
+   "transliterations": {
+    "english": "Nai nan ouoh nahmen: Eesous Pikhristos pilogos: piouoini entafmeei: ethneeou epikosmos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲛⲁⲓ ⲛⲁⲛ ⲟⲩⲟϩ ⲛⲁϩⲙⲉⲛ:"
+    },
+    {
+     "coptic": "Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲡⲓⲗⲟⲅⲟⲥ:"
+    },
+    {
+     "coptic": "ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "ⲉⲑⲛⲏⲟⲩ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "side": 1,
+   "coptic": "Ⲝⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ: ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲫⲏⲉⲧⲟⲛϧ ⲁⲑⲁⲛⲁⲧⲟⲥ: ⲫⲏⲉⲧⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛⲙⲏⲓⲛⲓ.",
+   "translations": {
+    "english": "Blessed are You, O Son of God, who dwells in Light, the Living and Immortal, and Performer of signs.",
+    "arabic": "تباركت يا ابن الله، الكائن في النور، الحي غير المائت، الصانع الآيات."
+   },
+   "transliterations": {
+    "english": "Eksmarout o Ee-os Theos: fee-etshop khen piouoini: fee-etonkh athanatos: fee-etiri enhanmeeini."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲝⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲱ̀ Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ:"
+    },
+    {
+     "coptic": "ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲡⲓⲟⲩⲱⲓⲛⲓ:"
+    },
+    {
+     "coptic": "ⲫⲏⲉⲧⲟⲛϧ ⲁⲑⲁⲛⲁⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲫⲏⲉⲧⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛⲙⲏⲓⲛⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l15",
+   "side": 0,
+   "coptic": "Ⲟⲡⲧⲉⲛ ⲛⲉⲙ ⲡⲓⲥⲟⲛⲓ: ⲛ̀ⲟⲩⲓ̀ⲛⲁⲙ Ⲡⲁⲛⲟⲩϯ: ⲟⲩⲟϩ ⲉⲕⲉⲣⲟⲩⲱⲓⲛⲓ: ⲛ̀ⲛⲉⲛⲛⲟⲩⲥ ⲛⲉⲙ ⲛⲉⲛⲕⲁϯ.",
+   "translations": {
+    "english": "Count us with the right-hand thief, O my God, and enlighten our minds and understanding.",
+    "arabic": "احسبنا مع اللص اليمين، يا إلهي، وأضئ عقولنا وأفهامنا."
+   },
+   "transliterations": {
+    "english": "Opten nem pisoni: en-ouinam Panouti: ouoh ekerouoini: ennennous nem nenkati."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲟⲡⲧⲉⲛ ⲛⲉⲙ ⲡⲓⲥⲟⲛⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲟⲩⲓ̀ⲛⲁⲙ Ⲡⲁⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲉⲕⲉⲣⲟⲩⲱⲓⲛⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲛⲉⲛⲛⲟⲩⲥ ⲛⲉⲙ ⲛⲉⲛⲕⲁϯ."
+    }
+   ]
+  },
+  {
+   "id": "l16",
+   "side": 1,
+   "coptic": "Ⲡⲉϥⲣⲏϯ ⲧⲉⲛⲛⲁⲛⲟϩⲉⲙ ⲇⲉ: ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲇⲉⲙⲱⲛ: ⲟⲩⲟϩ ϧⲉⲛ ⲧⲉⲕϫⲟⲙ ⲉⲕⲉ̀ϧⲟⲙϧⲉⲙ: ⲛ̀ⲧⲟⲩϫⲟⲙ ⲛ̀ⲁ̀ⲕⲁⲑⲁⲣⲧⲟⲛ.",
+   "translations": {
+    "english": "Likewise may we be saved from demons. Crush with Your power their defiled power.",
+    "arabic": "ومثله هكذا نخلص من الشياطين، وبقوتك اسحق قواتها النجسة."
+   },
+   "transliterations": {
+    "english": "Pefreeti tennanohem de: evol khen nidemon: ouoh khen tekjom ekekhomkhem: entoujom en-akatharton."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲡⲉϥⲣⲏϯ ⲧⲉⲛⲛⲁⲛⲟϩⲉⲙ ⲇⲉ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲇⲉⲙⲱⲛ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ϧⲉⲛ ⲧⲉⲕϫⲟⲙ ⲉⲕⲉ̀ϧⲟⲙϧⲉⲙ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲟⲩϫⲟⲙ ⲛ̀ⲁ̀ⲕⲁⲑⲁⲣⲧⲟⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l17",
+   "side": 0,
+   "coptic": "Ⲣⲱⲓⲥ ⲉ̀ⲣⲟⲛ ϣⲁ ⲡⲓⲛⲓϥⲓ: ⲛ̀ϧⲁⲉ̀ ⲁ̀ⲛⲟⲛ ⲧⲏⲣⲉⲛ: ϣⲟⲡ ⲉ̀ⲣⲟⲕ ⲛ̀ⲛⲉⲛⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ: ⲛⲉⲙ ⲛⲉⲛⲇⲱⲣⲟⲛ ⲛⲓⲃⲉⲛ.",
+   "translations": {
+    "english": "Guard us to the last breath, all of us; accept our incense and all our sacrifices.",
+    "arabic": "احرسنا إلى النفس الأخير، نحن كلنا، واقبل إليك بخورنا، وكل قرابيننا."
+   },
+   "transliterations": {
+    "english": "Rois eron sha pinifi: enkha-e anon teeren: shop erok ennenesthoinoufi: nem nendoron niven."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲣⲱⲓⲥ ⲉ̀ⲣⲟⲛ ϣⲁ ⲡⲓⲛⲓϥⲓ:"
+    },
+    {
+     "coptic": "ⲛ̀ϧⲁⲉ̀ ⲁ̀ⲛⲟⲛ ⲧⲏⲣⲉⲛ:"
+    },
+    {
+     "coptic": "ϣⲟⲡ ⲉ̀ⲣⲟⲕ ⲛ̀ⲛⲉⲛⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲛⲉⲛⲇⲱⲣⲟⲛ ⲛⲓⲃⲉⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l18",
+   "side": 1,
+   "coptic": "Ⲥⲟⲙⲥ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ: Ⲫⲛⲟⲩϯ ⲡⲓⲛⲁⲏⲧ: ϫⲟⲩϣⲧ ⲉ̀ϧⲣⲏⲓ ⲉ̀ϫⲱⲛ: ϧⲉⲛ ⲟⲩⲃⲁⲗ ⲛ̀ⲛⲁⲏⲧ.",
+   "translations": {
+    "english": "Look and hearken to us, O God the Merciful; behold us with merciful eyes.",
+    "arabic": "انظر واستجب لنا، يا الله الرحوم، انظر إلينا، بعين الرحمة."
+   },
+   "transliterations": {
+    "english": "Soms sotem eron: Efnouti pinaeet: jousht ekhreei ejon: khen ouval ennaeet."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲥⲟⲙⲥ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ:"
+    },
+    {
+     "coptic": "Ⲫⲛⲟⲩϯ ⲡⲓⲛⲁⲏⲧ:"
+    },
+    {
+     "coptic": "ϫⲟⲩϣⲧ ⲉ̀ϧⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩⲃⲁⲗ ⲛ̀ⲛⲁⲏⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l19",
+   "side": 0,
+   "coptic": "Ⲧⲱⲛⲕ Ⲡ̀ϭⲟⲓⲥ Ⲫⲛⲟⲩϯ: ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ϫⲉ ⲛ̀ⲑⲟⲕ ⲡⲉ ⲡⲉⲛⲛⲁϣϯ: ⲟⲩⲟϩ ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ.",
+   "translations": {
+    "english": "Arise, O Lord God, and help us, for You are our victory and our Savior.",
+    "arabic": "قم أيها الرب الإله وأعنا، لأنك أنت هو ناصرنا ومخلصنا."
+   },
+   "transliterations": {
+    "english": "Tonk Epchois Efnouti: ariboeethin eron: je enthok pe pennashti: ouoh Soteer eemon."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲱⲛⲕ Ⲡ̀ϭⲟⲓⲥ Ⲫⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲛ̀ⲑⲟⲕ ⲡⲉ ⲡⲉⲛⲛⲁϣϯ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l20",
+   "side": 1,
+   "coptic": "Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ ⲛⲁⲓ ⲛⲁⲛ: ⲟⲩⲟϩ ⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲟⲩⲟϩ ϭⲓⲙⲱⲓⲧ ⲛⲁⲛ: ϧⲉⲛ ⲡⲉⲕⲛⲁⲓ ϣⲁ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "O Son of God, have mercy on us, forgive us, and lead us in Your mercy until the end.",
+    "arabic": "يا ابن الله ارحمنا، واغفر لنا، واهدنا برحمتك، إلى الغاية."
+   },
+   "transliterations": {
+    "english": "Ee-os Theos nai nan: ouoh ko nan evol: ouoh chimoit nan: khen peknai sha evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ ⲛⲁⲓ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ⲭⲱ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ⲟⲩⲟϩ ϭⲓⲙⲱⲓⲧ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲡⲉⲕⲛⲁⲓ ϣⲁ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l21",
+   "side": 0,
+   "coptic": "Ⲫⲛⲟⲩϯ ⲫⲏⲉⲧϩⲉⲙⲥⲓ: ⲥⲁⲡ̀ϣⲱⲓ ⲉ̀ϫⲉⲛ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲙⲟⲓ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ⲛ̀ⲧⲟⲓ: ϧⲉⲛ Ⲓⲉⲣⲟⲥⲁⲗⲏⲙ.",
+   "translations": {
+    "english": "O God who sits on the cherubim, grant Your people an inheritance in Jerusalem.",
+    "arabic": "يا الله الجالس فوق الشاروبيم، أعط شعبك نصيباً في أورشليم."
+   },
+   "transliterations": {
+    "english": "Efnouti fee-ethemsi: sapshoi ejen nisheroubim: moi empeklaos entoi: khen Ierosaleem."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲫⲛⲟⲩϯ ⲫⲏⲉⲧϩⲉⲙⲥⲓ:"
+    },
+    {
+     "coptic": "ⲥⲁⲡ̀ϣⲱⲓ ⲉ̀ϫⲉⲛ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ:"
+    },
+    {
+     "coptic": "ⲙⲟⲓ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ⲛ̀ⲧⲟⲓ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ Ⲓⲉⲣⲟⲥⲁⲗⲏⲙ."
+    }
+   ]
+  },
+  {
+   "id": "l22",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ϥ̀ⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲑ̀ⲙⲁⲩ ⲙ̀ⲫⲏⲉⲑⲟⲩⲁⲃ.",
+   "translations": {
+    "english": "Hail to you, O Mary, a holy hail; hail to you, O Mary, the mother of the Holy One.",
+    "arabic": "السلام لك يا مريم، سلاماً مقدساً، السلام لك يا مريم، يا أم القدوس."
+   },
+   "transliterations": {
+    "english": "Shere ne Maria: khen ousheri efouab: shere ne Maria: ethmav emfee-ethouab."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ϥ̀ⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ⲑ̀ⲙⲁⲩ ⲙ̀ⲫⲏⲉⲑⲟⲩⲁⲃ."
+    }
+   ]
+  },
+  {
+   "id": "l23",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭ̀ⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲑ̀ⲙⲁⲩ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
+   "translations": {
+    "english": "Hail to you, O Mary, the beautiful dove; hail to you, O Mary, the mother of Jesus Christ.",
+    "arabic": "السلام لك يا مريم، الحمامة الحسنة، السلام لك يا مريم، أم يسوع المسيح."
+   },
+   "transliterations": {
+    "english": "Shere ne Maria: tichrompi ethnesos: shere ne Maria: ethmav en-Eesous Pikhristos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ϯϭ̀ⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ:"
+    },
+    {
+     "coptic": "ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ:"
+    },
+    {
+     "coptic": "ⲑ̀ⲙⲁⲩ ⲛ̀Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l24",
+   "side": 1,
+   "coptic": "Ⲭⲱⲣⲁ ⲙ̀ⲡⲓⲣⲁϣⲓ: ⲉⲑⲙⲉϩ ⲛ̀ⲑⲉⲗⲏⲗ: ϧⲉⲛ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲉⲕⲣⲉϥϣⲉⲙϣⲓ: Ⲙⲓⲭⲁⲏⲗ ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ.",
+   "translations": {
+    "english": "The land of joy, full of happiness, through the prayers of Your servants Michael and Gabriel.",
+    "arabic": "كورة الفرح، مملوءة تهليلاً، بطلبات خدامك، ميخائيل وغبريال."
+   },
+   "transliterations": {
+    "english": "Khora empirashi: ethmeh entheleel: khen nitobh ente nekrefshemshi: Mikha-eel nem Ghavrieel."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲱⲣⲁ ⲙ̀ⲡⲓⲣⲁϣⲓ:"
+    },
+    {
+     "coptic": "ⲉⲑⲙⲉϩ ⲛ̀ⲑⲉⲗⲏⲗ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲉⲕⲣⲉϥϣⲉⲙϣⲓ:"
+    },
+    {
+     "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l25",
+   "side": 0,
+   "coptic": "Ⲯⲉⲡⲓ ⲛ̀ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: ⲛⲉⲙ Ⲓⲱⲃ ⲡⲓⲇⲓⲕⲉⲟⲥ: Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲃⲁⲡⲧⲓⲥⲧⲏⲥ.",
+   "translations": {
+    "english": "The rest of the angels, Moses the prophet, Job the righteous, and John the Baptist.",
+    "arabic": "بقية الملائكة، وموسى النبي، وأيوب الصديق، ويوحنا المعمدان."
+   },
+   "transliterations": {
+    "english": "Epsepi enni-angelos: nem Mo-ysees piprofeetees: nem Iov pithikeos: Ioannees pivaptistees."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲯⲉⲡⲓ ⲛ̀ⲛⲓⲁⲅⲅⲉⲗⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲙⲱⲩ̀ⲥⲏⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ Ⲓⲱⲃ ⲡⲓⲇⲓⲕⲉⲟⲥ:"
+    },
+    {
+     "coptic": "Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲃⲁⲡⲧⲓⲥⲧⲏⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l26",
+   "side": 1,
+   "coptic": "Ⲱⲥⲁⲩⲧⲟⲥ ⲡⲓϩⲏⲕⲓ: ⲡⲉⲕⲃⲱⲕ ⲡⲓⲉ̀ⲗⲁⲭⲓⲥⲧⲟⲥ: ⲁ̀ⲣⲓⲧϥ ⲛⲉⲙⲱⲟⲩ ⲛ̀ⲁⲧⲁ̀ⲣⲓⲕⲓ: ϣⲁ ⲧ̀ϧⲁⲉ̀ ⲛ̀ⲛⲓⲭ̀ⲣⲟⲛⲟⲥ.",
+   "translations": {
+    "english": "Likewise Your servant, the wretched and poor: may he be with them without blame until the end of time.",
+    "arabic": "فلهذا عبدك، المسكين الحقير، اجعله معهم بغير لوم، إلى آخر الأزمان."
+   },
+   "transliterations": {
+    "english": "Osavtos piheeki: pekvok pi-elakhistos: aritf nemo-ou enatariki: sha etkha-e ennikhronos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲱⲥⲁⲩⲧⲟⲥ ⲡⲓϩⲏⲕⲓ:"
+    },
+    {
+     "coptic": "ⲡⲉⲕⲃⲱⲕ ⲡⲓⲉ̀ⲗⲁⲭⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲣⲓⲧϥ ⲛⲉⲙⲱⲟⲩ ⲛ̀ⲁⲧⲁ̀ⲣⲓⲕⲓ:"
+    },
+    {
+     "coptic": "ϣⲁ ⲧ̀ϧⲁⲉ̀ ⲛ̀ⲛⲓⲭ̀ⲣⲟⲛⲟⲥ."
+    }
+   ]
   }
  ]
 }

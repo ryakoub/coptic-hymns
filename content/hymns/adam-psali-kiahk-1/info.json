@@ -1,8 +1,9 @@
 {
-  "title": "Kiahk Adam Psali on the First Hoos",
+  "title": "Kiahk Adam Psali on the First Hoos (The Lord has reigned)",
   "titles": {
-    "english": "Kiahk Adam Psali on the First Hoos",
-    "arabic": "إبصالية آدام كيهكي على الهوس الأول"
+    "english": "Kiahk Adam Psali on the First Hoos (The Lord has reigned)",
+    "arabic": "إبصالية آدام كيهكي على الهوس الأول",
+    "coptic": "Ⲁ Ⲡ̀ϭⲟⲓⲥ ⲉⲣⲟⲩⲣⲟ"
   },
   "places": [
     {
@@ -15,6 +16,5 @@
     "year": 2022,
     "stage": "college",
     "level": "2"
-  },
-  "notes": "Placeholder: lyrics missing, to be added"
+  }
 }
