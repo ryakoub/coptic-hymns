@@ -1,17 +1,56 @@
 {
  "id": "tenen",
  "titles": {
-  "english": "Tenen",
+  "english": "Tenen (The Song of the Three Holy Youth)",
+  "coptic": "Ⲧⲉⲛⲉⲛ",
   "arabic": "لحن تينين"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
+   "coptic": "Ⲧⲉⲛⲉⲛ ⲟ̀ⲑⲉⲛ ⲑⲩⲥⲓⲁⲛ ⲕⲉ ⲧⲏⲛ ⲗⲟⲅⲓⲕⲏⲛ: ⲗⲁⲧⲣⲓⲁⲛ ⲁ̀ⲛⲁⲡⲉⲙⲡⲱⲙⲉⲛ: ⲥⲉⲁⲩⲧⲱ ⲥⲏⲙⲉⲣⲟⲛ ⲱ̀ ⲇⲁⲥ: ⲡ̀ⲣⲟⲥ ⲇⲟⲝⲁ ⲥⲟⲩ Ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ. Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ ⲕⲉ Ⲙⲓⲥⲁⲏⲗ.",
    "translations": {
-    "english": "Lyrics missing: the words are being added. Meanwhile, listen to the recording.",
-    "arabic": "الكلمات غير متوفرة بعد، وجارٍ إضافتها. استمع إلى التسجيل في الأثناء."
-   }
+    "english": "We therefore present an offering and rational worship; we send unto You this day psalmodies for Your glory, O our Savior. Hananiah, Azariah and Mishael.",
+    "arabic": "فمن ثم نقدم الذبيحة والعبادة العقلية. ونرسل لك في هذا اليوم التسابيح لدى مجدك يا مخلصنا. حنانيا وعزاريا وميصائيل."
+   },
+   "transliterations": {
+    "english": "Tenen otheen thisian ke teen loghikeen: latrian anapempomen: se-afto seemeron o thas: epros thoxa soo Soteer eemon. Ananias Azarias ke Misaeel."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛⲉⲛ ⲟ̀ⲑⲉⲛ ⲑⲩⲥⲓⲁⲛ ⲕⲉ ⲧⲏⲛ ⲗⲟⲅⲓⲕⲏⲛ:"
+    },
+    {
+     "coptic": "ⲗⲁⲧⲣⲓⲁⲛ ⲁ̀ⲛⲁⲡⲉⲙⲡⲱⲙⲉⲛ:"
+    },
+    {
+     "coptic": "ⲥⲉⲁⲩⲧⲱ ⲥⲏⲙⲉⲣⲟⲛ ⲱ̀ ⲇⲁⲥ:"
+    },
+    {
+     "coptic": "ⲡ̀ⲣⲟⲥ ⲇⲟⲝⲁ ⲥⲟⲩ Ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ."
+    },
+    {
+     "coptic": "Ⲁ̀ⲛⲁⲛⲓⲁⲥ Ⲁ̀ⲍⲁⲣⲓⲁⲥ ⲕⲉ Ⲙⲓⲥⲁⲏⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲉⲩϩⲱⲥ ⲉⲩⲥ̀ⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ.",
+   "translations": {
+    "english": "They praise and glorify God at all times.",
+    "arabic": "يسبحون ويباركون الله في كل حين."
+   },
+   "transliterations": {
+    "english": "Ev-hos ev-esmou e-Efnouti enseeou niven."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲉⲩϩⲱⲥ ⲉⲩⲥ̀ⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ."
+    }
+   ]
   }
  ]
 }

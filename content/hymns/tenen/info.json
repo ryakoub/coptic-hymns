@@ -1,7 +1,8 @@
 {
-  "title": "Tenen",
+  "title": "Tenen (The Song of the Three Holy Youth)",
   "titles": {
-    "english": "Tenen",
+    "english": "Tenen (The Song of the Three Holy Youth)",
+    "coptic": "Ⲧⲉⲛⲉⲛ",
     "arabic": "لحن تينين"
   },
   "places": [
@@ -16,5 +17,5 @@
     "stage": "grades-3-4",
     "level": "gifted"
   },
-  "notes": "Placeholder: lyrics missing, to be added"
+  "notes": "The recording sings the first verse and the ending only."
 }
