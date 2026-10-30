@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'Arial Coptic Local';
-  src: url('../fonts/ArialCoptic.ttf') format('truetype'), local('ArialCoptic'), local('Arial Coptic');
+  src: url('../fonts/ArialCoptic.ttf?v=20261030') format('truetype'), local('ArialCoptic'), local('Arial Coptic');
   font-display: swap;
 }
 
