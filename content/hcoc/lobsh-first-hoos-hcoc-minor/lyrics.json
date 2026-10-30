@@ -1,1 +1,516 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 6.18,
+    "words": [
+      {
+        "text": "Ϧⲉⲛ",
+        "start": 6.18
+      },
+      {
+        "text": "ⲟⲩϣⲱⲧ",
+        "start": 6.91,
+        "estimated": true
+      },
+      {
+        "text": "ⲁϥϣⲱⲧ:",
+        "start": 8.38,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 9.85
+      },
+      {
+        "text": "ⲡⲓⲙⲱⲟⲩ",
+        "start": 10.89,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 11.94,
+        "estimated": true
+      },
+      {
+        "text": "ⲫ̀ⲓⲟⲙ:",
+        "start": 12.98
+      },
+      {
+        "text": "ⲟⲩⲟϩ",
+        "start": 14.11
+      },
+      {
+        "text": "ⲫ̀ⲛⲟⲩⲛ",
+        "start": 15.81
+      },
+      {
+        "text": "ⲉⲧϣⲏⲕ:",
+        "start": 16.85
+      },
+      {
+        "text": "ⲁϥϣⲱⲡⲓ",
+        "start": 17.73,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲟⲩⲙⲁ",
+        "start": 19.05
+      },
+      {
+        "text": "ⲙ̀ⲙⲟϣⲓ.",
+        "start": 19.88
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 23.01,
+    "words": [
+      {
+        "text": "Ⲟⲩⲕⲁϩⲓ",
+        "start": 23.01
+      },
+      {
+        "text": "ⲛ̀ⲁⲑⲟⲩⲱⲛϩ:",
+        "start": 24.53,
+        "estimated": true
+      },
+      {
+        "text": "ⲁ̀ⲫ̀ⲣⲏ",
+        "start": 26.05
+      },
+      {
+        "text": "ϣⲁⲓ",
+        "start": 29.11
+      },
+      {
+        "text": "ϩⲓϫⲱϥ:",
+        "start": 30.91
+      },
+      {
+        "text": "ⲟⲩⲙⲱⲓⲧ",
+        "start": 32.06,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲁⲧⲥⲓⲛⲓ:",
+        "start": 33.22,
+        "estimated": true
+      },
+      {
+        "text": "ⲁⲩⲙⲟϣⲓ",
+        "start": 35.52,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲓⲱⲧϥ.",
+        "start": 37.25
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 40.95,
+    "words": [
+      {
+        "text": "Ⲟⲩⲙⲱⲟⲩ",
+        "start": 40.95
+      },
+      {
+        "text": "ⲉϥⲃⲏⲗ",
+        "start": 41.98,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ:",
+        "start": 43.01
+      },
+      {
+        "text": "ⲁϥⲟ̀ϩⲓ",
+        "start": 44.58,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲣⲁⲧϥ:",
+        "start": 46.94,
+        "estimated": true
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 48.51
+      },
+      {
+        "text": "ⲟⲩϩⲱⲃ",
+        "start": 49.02,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ϣ̀ⲫⲏⲣⲓ:",
+        "start": 50.03,
+        "estimated": true
+      },
+      {
+        "text": "ⲙ̀ⲡⲁⲣⲁⲇⲟⲝⲟⲛ.",
+        "start": 52.05
+      }
+    ]
+  },
+  {
+    "line": "l4",
+    "start": 57.15,
+    "words": [
+      {
+        "text": "Ⲫⲁⲣⲁⲱ̀",
+        "start": 57.15
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 58.32,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉϥϩⲁⲣⲙⲁ:",
+        "start": 58.91
+      },
+      {
+        "text": "ⲁⲩⲱⲙⲥ",
+        "start": 61.3,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲡⲉⲥⲏⲧ:",
+        "start": 62.09,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲛϣⲏⲣⲓ",
+        "start": 64.48
+      },
+      {
+        "text": "ⲙ̀Ⲡⲓⲥⲣⲁⲏⲗ:",
+        "start": 66.41
+      },
+      {
+        "text": "ⲁⲩⲉⲣϫⲓⲛⲓⲟⲣ",
+        "start": 67.8,
+        "estimated": true
+      },
+      {
+        "text": "ⲙ̀ⲫ̀ⲓⲟⲙ.",
+        "start": 69.18
+      }
+    ]
+  },
+  {
+    "line": "l5",
+    "start": 73.25,
+    "words": [
+      {
+        "text": "Ⲉ̀ⲛⲁϥϩⲱⲥ",
+        "start": 73.25
+      },
+      {
+        "text": "ϧⲁϫⲱⲟⲩ",
+        "start": 74.53,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲉ:",
+        "start": 75.38
+      },
+      {
+        "text": "ⲛ̀ϫⲉ",
+        "start": 75.78,
+        "estimated": true
+      },
+      {
+        "text": "Ⲙⲱⲩ̀ⲥⲏⲥ",
+        "start": 76.59,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:",
+        "start": 77.4,
+        "estimated": true
+      },
+      {
+        "text": "ϣⲁ",
+        "start": 79.41
+      },
+      {
+        "text": "ⲛ̀ⲧⲉϥϭⲓⲧⲟⲩ",
+        "start": 79.91,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ϧⲟⲩⲛ:",
+        "start": 81.91,
+        "estimated": true
+      },
+      {
+        "text": "ϩⲓ",
+        "start": 82.91,
+        "estimated": true
+      },
+      {
+        "text": "ⲡ̀ϣⲁϥⲉ",
+        "start": 83.41,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀Ⲥⲓⲛⲁ.",
+        "start": 84.91
+      }
+    ]
+  },
+  {
+    "line": "l6",
+    "start": 87.65,
+    "words": [
+      {
+        "text": "Ⲉ̀ⲛⲁϥϩⲱⲥ",
+        "start": 87.65
+      },
+      {
+        "text": "ⲉ̀Ⲫ̀ⲛⲟⲩϯ:",
+        "start": 90.01
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 90.81
+      },
+      {
+        "text": "ⲧⲁⲓϩⲱⲇⲏ",
+        "start": 91.32,
+        "estimated": true
+      },
+      {
+        "text": "ⲙ̀ⲃⲉⲣⲓ:",
+        "start": 92.83,
+        "estimated": true
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 94.35
+      },
+      {
+        "text": "ⲙⲁⲣⲉⲛϩⲱⲥ",
+        "start": 95.0,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀Ⲡ̀ϭⲟⲓⲥ:",
+        "start": 96.95
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 97.93,
+        "estimated": true
+      },
+      {
+        "text": "ϧⲉⲛ",
+        "start": 98.26,
+        "estimated": true
+      },
+      {
+        "text": "ⲟⲩⲱ̀ⲟⲩ",
+        "start": 98.59,
+        "estimated": true
+      },
+      {
+        "text": "ⲅⲁⲣ",
+        "start": 98.92,
+        "estimated": true
+      },
+      {
+        "text": "ⲁϥϭⲓⲱ̀ⲟⲩ.",
+        "start": 99.25
+      }
+    ]
+  },
+  {
+    "line": "l7",
+    "start": 102.45,
+    "words": [
+      {
+        "text": "Ϩⲓⲧⲉⲛ",
+        "start": 102.45
+      },
+      {
+        "text": "ⲛⲓⲉⲩⲭⲏ:",
+        "start": 103.38,
+        "estimated": true
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 104.31,
+        "estimated": true
+      },
+      {
+        "text": "Ⲙⲱⲩ̀ⲥⲏⲥ",
+        "start": 105.25,
+        "estimated": true
+      },
+      {
+        "text": "ⲡⲓⲁⲣⲭⲏⲡ̀ⲣⲟⲫⲏⲧⲏⲥ:",
+        "start": 106.18
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 108.91
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ",
+        "start": 110.38
+      },
+      {
+        "text": "ⲛⲁⲛ:",
+        "start": 111.51
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲭⲱ",
+        "start": 111.86,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 112.91
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 113.52,
+        "estimated": true
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 113.81
+      }
+    ]
+  },
+  {
+    "line": "l8",
+    "start": 116.65,
+    "words": [
+      {
+        "text": "Ϩⲓⲧⲉⲛ",
+        "start": 116.65
+      },
+      {
+        "text": "ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ:",
+        "start": 117.38
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 119.68
+      },
+      {
+        "text": "Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ",
+        "start": 120.08
+      },
+      {
+        "text": "ⲉⲑⲟⲩⲁⲃ",
+        "start": 121.32
+      },
+      {
+        "text": "Ⲙⲁⲣⲓⲁ:",
+        "start": 122.42
+      },
+      {
+        "text": "Ⲡ̀ϭⲟⲓⲥ",
+        "start": 123.75
+      },
+      {
+        "text": "ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ",
+        "start": 124.55
+      },
+      {
+        "text": "ⲛⲁⲛ:",
+        "start": 125.55
+      },
+      {
+        "text": "ⲙ̀ⲡⲓⲭⲱ",
+        "start": 125.75,
+        "estimated": true
+      },
+      {
+        "text": "ⲉ̀ⲃⲟⲗ",
+        "start": 126.35
+      },
+      {
+        "text": "ⲛ̀ⲧⲉ",
+        "start": 127.65
+      },
+      {
+        "text": "ⲛⲉⲛⲛⲟⲃⲓ.",
+        "start": 128.28
+      }
+    ]
+  },
+  {
+    "line": "l9",
+    "start": 131.75,
+    "words": [
+      {
+        "text": "Ⲧⲉⲛⲟⲩⲱϣⲧ",
+        "start": 131.75
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲕ",
+        "start": 132.49,
+        "estimated": true
+      },
+      {
+        "text": "ⲱ̀",
+        "start": 133.24,
+        "estimated": true
+      },
+      {
+        "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:",
+        "start": 133.61
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 135.45,
+        "estimated": true
+      },
+      {
+        "text": "Ⲡⲉⲕⲓⲱⲧ",
+        "start": 135.91
+      },
+      {
+        "text": "ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:",
+        "start": 136.91
+      },
+      {
+        "text": "ⲛⲉⲙ",
+        "start": 139.21
+      },
+      {
+        "text": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
+        "start": 139.98
+      },
+      {
+        "text": "ⲉⲑⲟⲩⲁⲃ:",
+        "start": 141.56,
+        "estimated": true
+      },
+      {
+        "text": "ϫⲉ",
+        "start": 142.35
+      },
+      {
+        "text": "(ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀)",
+        "start": 142.75,
+        "estimated": true
+      },
+      {
+        "text": "ⲁⲕⲥⲱϯ",
+        "start": 144.38
+      },
+      {
+        "text": "ⲙ̀ⲙⲟⲛ.",
+        "start": 145.21
+      }
+    ]
+  }
+]
