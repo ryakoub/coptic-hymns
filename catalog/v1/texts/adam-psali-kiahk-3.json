@@ -1,17 +1,527 @@
 {
  "id": "adam-psali-kiahk-3",
  "titles": {
-  "english": "Kiahk Adam Psali on the Third Hoos",
-  "arabic": "إبصالية آدام كيهكي على الهوس الثالث"
+  "english": "Kiahk Adam Psali on the Third Hoos (I thank You, O God of Israel)",
+  "arabic": "إبصالية آدام كيهكي على الهوس الثالث",
+  "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕⲓ̀ⲣⲓ ⲛⲉⲙⲁⲛ: ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.",
    "translations": {
-    "english": "Lyrics missing: the words are being added. Meanwhile, listen to the recording.",
-    "arabic": "الكلمات غير متوفرة بعد، وجارٍ إضافتها. استمع إلى التسجيل في الأثناء."
-   }
+    "english": "I thank You, O God of Israel, for You had mercy upon us according to Your great mercy.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك صنعت معنا كعظيم رحمتك."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akiri neman: kata peknishti ennai."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲓ̀ⲣⲓ ⲛⲉⲙⲁⲛ:"
+    },
+    {
+     "coptic": "ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉⲕϣⲏⲣⲓ: ϣⲁ ⲛ̀ⲧⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You have sent Your Son to save us.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك أرسلت ابنك حتى خلصتنا."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akouorp empeksheeri: sha enteksoti emmon."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉⲕϣⲏⲣⲓ:"
+    },
+    {
+     "coptic": "ϣⲁ ⲛ̀ⲧⲉⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You were incarnate of Saint Mary.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك تجسدت من القديسة مريم."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akchisarx evol: khen thee-ethouab Maria."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲩⲙⲁⲥⲕ ϧⲉⲛ Ⲃⲏⲑⲗⲉⲉⲙ: ⲕⲁⲧⲁ ϯⲡ̀ⲣⲟⲫⲏⲧⲓⲁ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You were born in Bethlehem according to the prophecies.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك ولدت في بيت لحم كالنبوة."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je avmask khen Veethle-em: kata tiprofeetia."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲩⲙⲁⲥⲕ ϧⲉⲛ Ⲃⲏⲑⲗⲉⲉⲙ:"
+    },
+    {
+     "coptic": "ⲕⲁⲧⲁ ϯⲡ̀ⲣⲟⲫⲏⲧⲓⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲩⲛⲁⲩ ⲉ̀ⲡⲉⲕⲱ̀ⲟⲩ: ⲛ̀ϫⲉ ⲛⲓⲙⲁⲛⲉ̀ⲥⲱⲟⲩ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for the shepherds beheld Your glory.",
+    "arabic": "أشكرك يا إله إسرائيل، لأن الرعاة نظروا مجدك."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je avnav epek-o-ou: enje nimanesoou."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲩⲛⲁⲩ ⲉ̀ⲡⲉⲕⲱ̀ⲟⲩ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲛⲓⲙⲁⲛⲉ̀ⲥⲱⲟⲩ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕϣⲁⲓ ⲛⲁⲛ: ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲥⲁⲓⲉ̀.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You revealed to us Your holy glory.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك أشرقت لنا ببهائك."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akshai nan: khen tekmetsaie."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕϣⲁⲓ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲥⲁⲓⲉ̀."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛⲙⲏⲓⲛⲓ ⲛⲉⲙ ϩⲁⲛ ϣ̀ⲫⲏⲣⲓ ⲉⲩⲟϣ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You have performed many signs and wonders.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك صنعت آيات ومعجزات كثيرة."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akiri enhanmeeini nem han eshfeeri ev-osh."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲓ̀ⲣⲓ ⲛ̀ϩⲁⲛⲙⲏⲓⲛⲓ ⲛⲉⲙ ϩⲁⲛ ϣ̀ⲫⲏⲣⲓ ⲉⲩⲟϣ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲩⲉⲣ ⲟⲩⲥⲟϭⲛⲓ ⲉ̀ⲣⲟⲕ: ⲛ̀ϫⲉ ⲛⲓⲒⲟⲩⲇⲁⲓ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for the Jews conspired against You.",
+    "arabic": "أشكرك يا إله إسرائيل، لأن اليهود تشاوروا عليك."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je aver ousochni erok: enje ni-Ioudai."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲩⲉⲣ ⲟⲩⲥⲟϭⲛⲓ ⲉ̀ⲣⲟⲕ:"
+    },
+    {
+     "coptic": "ⲛ̀ϫⲉ ⲛⲓⲒⲟⲩⲇⲁⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲩⲁϣⲕ ⲉ̀ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ϧⲉⲛ ϯⲄⲟⲗⲅⲟⲑⲁ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You were crucified upon the Cross in Golgotha.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك صلبت على الصليب بالجلجثة."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je avashk epistavros: khen tiGolgotha."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲩⲁϣⲕ ⲉ̀ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ:"
+    },
+    {
+     "coptic": "ϧⲉⲛ ϯⲄⲟⲗⲅⲟⲑⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲩⲭⲁⲕ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You were placed in the tomb like those who are dead.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك وضعت في القبر مثل الأموات."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je avkhak khen pimhav: emefreeti ennirefmo-out."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲩⲭⲁⲕ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲙⲉⲛⲉⲛⲥⲁ ϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ: ⲁⲕⲧⲱⲛⲕ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You have risen from the dead after three days.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك قمت من الموت بعد ثلاثة أيام."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je menensa shomt en-ehoou: aktonk evolkhen nee-ethmo-out."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲙⲉⲛⲉⲛⲥⲁ ϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ:"
+    },
+    {
+     "coptic": "ⲁⲕⲧⲱⲛⲕ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ."
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕϣⲉⲛⲁⲕ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲁ̀ⲙⲉⲛϯ: ⲉ̀ϧⲟⲩⲛ ⲉ̀ϯⲡ̀ⲣⲟⲛⲓⲁ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You have descended into Hades and the abyss.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك نزلت إلى الجحيم حيث الهاوية."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akshenak epeseet e-amenti: ekhoun etipronia."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕϣⲉⲛⲁⲕ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲁ̀ⲙⲉⲛϯ:"
+    },
+    {
+     "coptic": "ⲉ̀ϧⲟⲩⲛ ⲉ̀ϯⲡ̀ⲣⲟⲛⲓⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕⲛⲟϩⲉⲙ ⲛ̀Ⲁⲇⲁⲙ: ⲛⲉⲙ ⲡⲉϥⲅⲉⲛⲟⲥ ⲧⲏⲣϥ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You have saved Adam and his entire race.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك خلصت آدم وكل جنسه."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je aknohem en-Adam: nem pefgenos teerf."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕⲛⲟϩⲉⲙ ⲛ̀Ⲁⲇⲁⲙ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲡⲉϥⲅⲉⲛⲟⲥ ⲧⲏⲣϥ."
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕϩⲟⲛϩⲉⲛ ⲉ̀ⲧⲟⲧⲟⲩ: ⲛ̀ⲛⲉⲕⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You have sent Your apostles.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك أوصيت رسلك."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akhonhen etotou: ennekapostolos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕϩⲟⲛϩⲉⲛ ⲉ̀ⲧⲟⲧⲟⲩ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲛⲉⲕⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l15",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕϣⲉⲛⲁⲕ ⲉ̀ϩ̀ⲣⲏⲓ: ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You ascended into the highest heavens.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك صعدت إلى أعلى السموات."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akshenak ehreei: epshoi enifeeoui."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕϣⲉⲛⲁⲕ ⲉ̀ϩ̀ⲣⲏⲓ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l16",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲁⲕϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ: ⲙ̀Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You sat on the right of the Pantocrator.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك جلست عن يمين ضابط الكل."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je akhemsi sa-ouinam: em-Pipantokrator."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲁⲕϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ:"
+    },
+    {
+     "coptic": "ⲙ̀Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ."
+    }
+   ]
+  },
+  {
+   "id": "l17",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ⲉⲕⲉ̀ⲓ̀ ⲉ̀ϯϩⲁⲡ: ⲉ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, for You shall come and judge the entire world.",
+    "arabic": "أشكرك يا إله إسرائيل، لأنك ستأتي وتدين المسكونة."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je eke-ee etihap: etioikoumenee."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ⲉⲕⲉ̀ⲓ̀ ⲉ̀ϯϩⲁⲡ:"
+    },
+    {
+     "coptic": "ⲉ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ."
+    }
+   ]
+  },
+  {
+   "id": "l18",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ⲙⲟⲓ ⲛⲏⲓ ⲛ̀ⲟⲩⲛⲁⲓ: ⲛⲉⲙ ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, grant unto me mercy and forgiveness.",
+    "arabic": "أشكرك يا إله إسرائيل، أعطني رحمة وغفراناً."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: moi neei ennounai: nem ouko evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ⲙⲟⲓ ⲛⲏⲓ ⲛ̀ⲟⲩⲛⲁⲓ:"
+    },
+    {
+     "coptic": "ⲛⲉⲙ ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l19",
+   "side": 0,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ⲁ̀ⲣⲓⲥⲩⲛⲭⲱⲣⲓⲛ: ⲛ̀ⲛⲉⲛⲡⲁⲣⲁⲡ̀ⲧⲱⲙⲁ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, absolve and remit all our trespasses.",
+    "arabic": "أشكرك يا إله إسرائيل، اصفح عن زلاتنا."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: arisinkhorin: ennenparaptoma."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲣⲓⲥⲩⲛⲭⲱⲣⲓⲛ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲛⲉⲛⲡⲁⲣⲁⲡ̀ⲧⲱⲙⲁ."
+    }
+   ]
+  },
+  {
+   "id": "l20",
+   "side": 1,
+   "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ: ϫⲉ ϯϯⲱ̀ⲟⲩ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ: ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.",
+   "translations": {
+    "english": "I thank You, O God of Israel, we glorify Your name and we worship You, according to Your great mercy.",
+    "arabic": "أشكرك يا إله إسرائيل، ونمجد اسمك ونسجد لك كعظيم رحمتك."
+   },
+   "transliterations": {
+    "english": "Tishep-ehmot entotk: Efnouti em-Pisra-eel: je titi-o-ou empekran ouoh tenouosht emmok: kata peknishti ennai."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ:"
+    },
+    {
+     "coptic": "Ⲫϯ ⲙ̀Ⲡⲓⲥ̀ⲣⲁⲏⲗ:"
+    },
+    {
+     "coptic": "ϫⲉ ϯϯⲱ̀ⲟⲩ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲟⲩⲟϩ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ:"
+    },
+    {
+     "coptic": "ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ."
+    }
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "version": "4efc9a275ca1038e",
- "updated": "2026-10-30T00:48:11Z",
+ "version": "204f3173fe13e04a",
+ "updated": "2026-10-30T00:51:06Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1511,24 +1511,27 @@
   {
    "id": "adam-psali-kiahk-3",
    "titles": {
-    "english": "Kiahk Adam Psali on the Third Hoos",
-    "arabic": "إبصالية آدام كيهكي على الهوس الثالث"
+    "english": "Kiahk Adam Psali on the Third Hoos (I thank You, O God of Israel)",
+    "arabic": "إبصالية آدام كيهكي على الهوس الثالث",
+    "coptic": "Ϯϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ"
    },
    "tags": [],
-   "pending": true,
-   "lines": 1,
+   "pending": false,
+   "lines": 20,
    "translations": [
     "arabic",
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
     "adam-psali-kiahk-3"
    ],
    "file": {
     "url": "catalog/v1/texts/adam-psali-kiahk-3.json",
-    "bytes": 496,
-    "sha256": "45f2bad8b55517fb78678e0d217cc3c6d2fca4e8eb8f3d4c7079b92801118563"
+    "bytes": 18406,
+    "sha256": "ead17b8cb02cdbe2e11f8a8142f6cfc70d9574250baed3930621ecb6a027747c"
    }
   },
   {
@@ -6076,7 +6079,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 1
+    "of": 20
    },
    "source": "content/hymns/adam-psali-kiahk-3/",
    "youtube": "https://www.youtube.com/watch?v=_vk9E4-JWQs",
