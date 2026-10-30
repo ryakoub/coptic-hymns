@@ -1,6 +1,6 @@
 {
- "version": "1a51ad5cbc9f3b9b",
- "updated": "2026-10-30T00:59:25Z",
+ "version": "1f9cf85a2b1b1d0a",
+ "updated": "2026-10-30T01:03:32Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -499,7 +499,6 @@
         "tenoueh-ensok-kiahk",
         "tenen",
         "psalm-150-kiahk",
-        "adam-psali-kiahk-4",
         "aritenthonti",
         "sheraat-kiahk",
         "conclusion-tarh-workers"

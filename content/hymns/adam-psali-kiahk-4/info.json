@@ -4,17 +4,17 @@
     "english": "Kiahk Adam Psali on the Fourth Hoos",
     "arabic": "إبصالية آدام كيهكي على الهوس الرابع"
   },
-  "places": [
-    {
-      "place": "kiahk/midnight-praises",
-      "order": 17
-    }
-  ],
   "youtube": "https://www.youtube.com/watch?v=XuhpMKrls6Y",
   "mahragan": {
     "year": 2022,
     "stage": "graduates",
     "level": "1"
   },
-  "notes": "Placeholder: lyrics missing, to be added"
+  "notes": "Hidden until its words are found (not in Coptic Reader); to show it again, rename hiddenPlaces back to places.",
+  "hiddenPlaces": [
+    {
+      "place": "kiahk/midnight-praises",
+      "order": 17
+    }
+  ]
 }
