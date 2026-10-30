@@ -111,6 +111,7 @@ a:hover { text-decoration: underline; }
 .site-footer h4 { margin: 0 0 10px; color: var(--text); font-size: 14px; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
 .site-footer a { color: var(--muted); }
+.site-footer .churches { display: block; width: 200px; height: auto; margin-top: 4px; padding: 8px; background: #fff; border-radius: 12px; }
 .site-footer .closing { margin-top: 28px; text-align: center; }
 .site-footer .closing .coptic { font-size: 18px; color: var(--text); }
 @media (max-width: 640px) { .site-footer .cols { grid-template-columns: 1fr 1fr; } .site-footer .about { grid-column: 1 / -1; } }

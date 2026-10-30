@@ -152,6 +152,8 @@ const CC = (() => {
     <div class="about">
       <a class="brand" href="/"><img src="/brand/logo-en.svg" alt="" width="36" height="36">Coptic Chanter</a>
       <p>The hymns of the Coptic Orthodox Church, with their words lighting up as the cantor sings. Free, with no ads and no tracking.</p>
+      <p>Offered by the Coptic Orthodox Churches of Chicago and Affiliated Midwest Regions.</p>
+      <img class="churches" src="/brand/midwest-churches.jpg" alt="Coptic Orthodox Patriarchate, Churches of Chicago and Affiliated Midwest Regions" width="200" height="154">
     </div>
     <div><h4>Explore</h4><ul>
       <li><a href="/library.html">Library</a></li>
