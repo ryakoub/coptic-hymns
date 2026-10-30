@@ -186,6 +186,8 @@ a:hover { text-decoration: underline; }
 .cta img { width: 96px; height: 96px; border-radius: 22px; box-shadow: 0 10px 26px rgba(0, 0, 0, 0.3); }
 .cta h2 { font-size: clamp(26px, 3.6vw, 38px); margin: 16px 0 8px; }
 .cta p { opacity: 0.92; margin: 0 auto 22px; max-width: 34em; }
+.cta a:not(.pill) { color: inherit; text-decoration: underline; }
+.get-steps { text-align: left; max-width: 30em; margin: 0 auto 24px; padding-left: 1.4em; line-height: 1.5; display: grid; gap: 10px; }
 
 /* ── Library ────────────────────────────────────────── */
 

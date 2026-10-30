@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coptic Chanter | Get the app</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="shortcut icon" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:title" content="Get Coptic Chanter" />
+<meta property="og:description" content="Learn the hymns of the Church, word by word. Free for iPhone and iPad." />
+<meta property="og:image" content="https://www.copticchanter.com/CopticChanter.png" />
+<meta property="og:url" content="https://www.copticchanter.com/get/" />
+<meta property="og:type" content="website" />
+<link rel="stylesheet" href="/css/site.css?v=20261030b">
+</head>
+
+<body>
+<main class="wrap">
+
+<!-- Where the bookmark's QR code leads (copticchanter.com/get). On an iPhone or iPad: how to install, with the
+     button to CC.GET_APP (TestFlight for now, the App Store later). Elsewhere: the website. -->
+<section class="cta" id="get">
+  <img src="/brand/icon-1024.png" alt="">
+  <h2>Get Coptic Chanter</h2>
+  <p id="get-text">Learn the hymns of the Church, word by word. Free for iPhone and iPad with iOS 18 or later.</p>
+
+  <div id="testflight" hidden>
+    <ol class="get-steps">
+      <li>Tap <strong>Install</strong> below.</li>
+      <li>If you're asked to, get <strong>TestFlight</strong> from the App Store. It's Apple's free app for trying new apps. Then come back to this page and tap <strong>Install</strong> again.</li>
+      <li>In TestFlight, tap <strong>Accept</strong>, then <strong>Install</strong>.</li>
+    </ol>
+  </div>
+  <a class="pill gold" id="get-button" hidden>Install</a>
+
+  <p id="not-ios" hidden>The app is for iPhone and iPad. Open this page on one, or point its camera at the code on your bookmark. On any phone or computer you can <a href="/library.html">listen and follow the words</a> on this website.</p>
+  <p id="coming" hidden>The app is being tested now and will be on the App Store soon. Meanwhile you can <a href="/library.html">listen and follow the words</a> on this website.</p>
+</section>
+
+</main>
+<script src="/js/site.js?v=20261030"></script>
+<script>
+CC.header("home");
+CC.footer();
+
+const ios = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const show = id => document.getElementById(id).hidden = false;
+if (!CC.GET_APP) show("coming");
+else if (!ios) show("not-ios");
+else {
+  if (CC.GET_APP.includes("testflight.apple.com")) show("testflight");
+  else document.getElementById("get-button").textContent = "Get it on the App Store";
+  Object.assign(document.getElementById("get-button"), { href: CC.GET_APP, hidden: false });
+}
+</script>
+</body>
+</html>
