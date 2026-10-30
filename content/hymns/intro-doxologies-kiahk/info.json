@@ -1,7 +1,8 @@
 {
-  "title": "Introduction to the Doxologies, Kiahk",
+  "title": "Introduction to the Doxologies, Kiahk tune",
   "titles": {
-    "english": "Introduction to the Doxologies, Kiahk",
+    "english": "Introduction to the Doxologies, Kiahk tune",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ",
     "arabic": "مقدمة الذكصولوجيات الكيهكي"
   },
   "places": [
@@ -16,5 +17,8 @@
     "stage": "hs",
     "level": "1"
   },
-  "notes": "Placeholder: lyrics missing, to be added"
+  "text": "intro-doxologies-annual",
+  "tune": {
+    "english": "Kiahk tune"
+  }
 }

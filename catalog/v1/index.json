@@ -1,6 +1,6 @@
 {
- "version": "1f9cf85a2b1b1d0a",
- "updated": "2026-10-30T01:03:32Z",
+ "version": "d738969076de8917",
+ "updated": "2026-10-30T01:27:08Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -207,6 +207,7 @@
       {
        "service": "raising-of-incense",
        "entries": [
+        "intro-doxologies-annual",
         "doxology-st-mary-vespers",
         "doxology-st-mary-matins",
         "doxology-archangel-michael",
@@ -227,6 +228,7 @@
           "arabic": "الذكصولوجيات"
          },
          "recordings": [
+          "intro-doxologies-annual",
           "doxology-st-mary-vespers",
           "doxology-st-mary-matins",
           "doxology-archangel-michael",
@@ -509,7 +511,6 @@
        "entries": [
         "verses-cymbals-kiahk",
         "intro-doxologies-kiahk",
-        "intro-doxologies-last-two",
         "doxology-kiahk-1",
         "doxology-kiahk-2",
         "doxology-kiahk-3",
@@ -3312,49 +3313,30 @@
    }
   },
   {
-   "id": "intro-doxologies-kiahk",
+   "id": "intro-doxologies-annual",
    "titles": {
-    "english": "Introduction to the Doxologies, Kiahk",
-    "arabic": "مقدمة الذكصولوجيات الكيهكي"
+    "english": "Introduction to the Doxologies (Hail to you, we ask you)",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ",
+    "arabic": "مقدمة الذكصولوجيات"
    },
    "tags": [],
-   "pending": true,
-   "lines": 1,
+   "pending": false,
+   "lines": 8,
    "translations": [
     "arabic",
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
+    "intro-doxologies-annual",
     "intro-doxologies-kiahk"
    ],
    "file": {
-    "url": "catalog/v1/texts/intro-doxologies-kiahk.json",
-    "bytes": 488,
-    "sha256": "ceca952a532a8c003e8065bea117ab60d217c941ee31f9e72175aa2d8ca32bb6"
-   }
-  },
-  {
-   "id": "intro-doxologies-last-two",
-   "titles": {
-    "english": "Last two verses of the Introduction to the Doxologies",
-    "arabic": "الربعان الأخيران من مقدمة الذكصولوجيات"
-   },
-   "tags": [],
-   "pending": true,
-   "lines": 1,
-   "translations": [
-    "arabic",
-    "english"
-   ],
-   "transliterations": [],
-   "recordings": [
-    "intro-doxologies-last-two"
-   ],
-   "file": {
-    "url": "catalog/v1/texts/intro-doxologies-last-two.json",
-    "bytes": 529,
-    "sha256": "37bca2e03a86cc111d4e50159bafcf39d8ebd2a57be7b9c7c442d43693ef9a17"
+    "url": "catalog/v1/texts/intro-doxologies-annual.json",
+    "bytes": 9473,
+    "sha256": "e8e625e402d28346c23b9d904af0034a98508eea3bcbce70250e386b208f1e3b"
    }
   },
   {
@@ -9147,21 +9129,43 @@
    ]
   },
   {
+   "id": "intro-doxologies-annual",
+   "text": "intro-doxologies-annual",
+   "duration": null,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 8
+   },
+   "source": "https://tasbeha.org/hymn_library/view/1850",
+   "files": [
+    {
+     "url": "catalog/v1/timings/intro-doxologies-annual.json",
+     "bytes": 96,
+     "sha256": "855e4e3a2167d9be1465d6e4c0eebc07d3bc6f01f8a929f01ec1ad2ffc074760",
+     "role": "timing"
+    }
+   ]
+  },
+  {
    "id": "intro-doxologies-kiahk",
-   "text": "intro-doxologies-kiahk",
+   "text": "intro-doxologies-annual",
    "duration": 224.65,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 1
+    "of": 0
    },
    "source": "content/hymns/intro-doxologies-kiahk/",
+   "tune": {
+    "english": "Kiahk tune"
+   },
    "youtube": "https://www.youtube.com/watch?v=Xp4dDuybqxQ",
    "files": [
     {
      "url": "catalog/v1/timings/intro-doxologies-kiahk.json",
-     "bytes": 94,
-     "sha256": "a120f53e6e93e753347e38e6ffb0769549c7e3c4e6e63a06477944c30c89f15d",
+     "bytes": 95,
+     "sha256": "6f7ae59cb41bce70107d096ea91be533b445d67d0b2b4dcb6db9f34aa127eb5f",
      "role": "timing"
     },
     {
@@ -9169,32 +9173,6 @@
      "role": "audio",
      "bytes": 3634040,
      "sha256": "015f136db1da7525ab25c173b55404b8a6964b8ed5a629187ae7a7bb7a9c1eea"
-    }
-   ]
-  },
-  {
-   "id": "intro-doxologies-last-two",
-   "text": "intro-doxologies-last-two",
-   "duration": 75.33,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 1
-   },
-   "source": "content/hymns/intro-doxologies-last-two/",
-   "youtube": "https://www.youtube.com/watch?v=rI_pR3eyjY4",
-   "files": [
-    {
-     "url": "catalog/v1/timings/intro-doxologies-last-two.json",
-     "bytes": 100,
-     "sha256": "52197e2627fc8fd72a4644f9fd65f03845abd50c8edc91b97f5d4531689e2186",
-     "role": "timing"
-    },
-    {
-     "url": "content/hymns/intro-doxologies-last-two/audio.m4a",
-     "role": "audio",
-     "bytes": 1219668,
-     "sha256": "7dbd910cb243126833458c641f523bfa064cc7cf977693b9bc0416e589bdf340"
     }
    ]
   },

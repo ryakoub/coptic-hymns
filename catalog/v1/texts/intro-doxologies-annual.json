@@ -1,0 +1,215 @@
+{
+ "id": "intro-doxologies-annual",
+ "titles": {
+  "english": "Introduction to the Doxologies (Hail to you, we ask you)",
+  "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ",
+  "arabic": "مقدمة الذكصولوجيات"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ: ⲱ̀ ⲑⲏⲉⲑⲟⲩⲁⲃ ⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ⲉⲧⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: Ϯⲙⲁⲥⲛⲟⲩϯ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
+   "translations": {
+    "english": "Hail to you, we ask you, O saint, full-of-glory, ever-virgin, Theotokos, and Mother of Christ.",
+    "arabic": "السَّلامُ لَكِ، نَسْألُكِ أيَّتُها القِدِّيسَةُ الممْتَلِئةُ مَجْداً، العَذْراءُ كلَّ حينٍ، والِدةُ الإلَهِ، أمُّ المسيحِ."
+   },
+   "transliterations": {
+    "english": "Shere ne tentiho ero: o thee-ethowab ethmeh enoou: etoi emparthenos enseeou niven: Timasnoti Ethmav empi-ekhristos."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ:"
+    },
+    {
+     "coptic": "ⲱ̀ ⲑⲏⲉⲑⲟⲩⲁⲃ ⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ:"
+    },
+    {
+     "coptic": "ⲉⲧⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ:"
+    },
+    {
+     "coptic": "Ϯⲙⲁⲥⲛⲟⲩϯ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲁ̀ⲛⲓⲟⲩⲓ̀ ⲛ̀ⲧⲉⲛⲡ̀ⲣⲟⲥⲉⲩⲭⲏ: ⲉ̀ⲡ̀ϣⲱⲓ ϩⲁ Ⲡⲉϣⲏⲣⲓ ⲙ̀ⲙⲉⲛⲣⲓⲧ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Lift our prayers to your beloved Son, that He may forgive us our sins.",
+    "arabic": "أصْعِدي صَلَواتِنا إلى إبْنكِ الحَبيبِ ليغْفِرَ لَنا خَطايانا."
+   },
+   "transliterations": {
+    "english": "Anioui enteneprosevshee: e-epshoi ha Pesheeri emmenrit: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲛⲓⲟⲩⲓ̀ ⲛ̀ⲧⲉⲛⲡ̀ⲣⲟⲥⲉⲩⲭⲏ:"
+    },
+    {
+     "coptic": "ⲉ̀ⲡ̀ϣⲱⲓ ϩⲁ Ⲡⲉϣⲏⲣⲓ ⲙ̀ⲙⲉⲛⲣⲓⲧ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲑⲟⲩⲁⲃ.",
+   "translations": {
+    "english": "Hail to her who gave birth to the true Light, Christ our God, the saintly Virgin.",
+    "arabic": "السَّلامُ لِلَّتي وَلَدَتْ لَنا النُّورَ الحَقيقيَّ، المسيحَ إلَهَنا، العَذْراءُ القدِّيسَةُ."
+   },
+   "transliterations": {
+    "english": "Shere thee-etasmisi nan: empiowoini enta-efmee: Pi-ekhristos Pennoti: Tiparthenos ethowab."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ⲙ̀Ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ:"
+    },
+    {
+     "coptic": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ:"
+    },
+    {
+     "coptic": "Ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲑⲟⲩⲁⲃ."
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲙⲁϯϩⲟ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛ̀ⲧⲉϥⲉⲣⲟⲩⲛⲁⲓ ⲛⲉⲙ ⲛⲉⲛⲯⲩⲭⲏ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "Ask the Lord on our behalf, to have mercy upon our souls, and that He may forgive us our sins.",
+    "arabic": "إسْألي الرَّبَّ عنَّا ليَصْنَعَ رَحْمَةً مَعَ نُفوسِنا ويغْفِرَ لَنا خَطايانا."
+   },
+   "transliterations": {
+    "english": "Matiho emepshois e-ehree egon: enteferounai nem nenpsishee: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲙⲁϯϩⲟ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲉⲣⲟⲩⲛⲁⲓ ⲛⲉⲙ ⲛⲉⲛⲯⲩⲭⲏ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ϯⲡⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁⲙ: Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ: ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛ̀ⲧⲉ ⲡ̀ⲅⲉⲛⲟⲥ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲣⲱⲙⲓ.",
+   "translations": {
+    "english": "O Virgin Mary, the holy Theotokos, the trusted advocate of the human race.",
+    "arabic": "أيَّتُها العَذْراءُ مَرْيَم والِدةُ الإلهِ، القِدِّيسَةُ الشَّفيعَةُ الأمينَةُ لجنْسِ البَشرِيَّةِ."
+   },
+   "transliterations": {
+    "english": "Tiparthenos Mariam: Tithe-otokos ethowab: ti-eprostatees etenhot: ente epgenos ente timetromi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ϯⲡⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁⲙ:"
+    },
+    {
+     "coptic": "Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ:"
+    },
+    {
+     "coptic": "ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉ ⲡ̀ⲅⲉⲛⲟⲥ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲣⲱⲙⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "side": 1,
+   "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛⲁϩⲣⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲫⲏⲉ̀ⲧⲁⲣⲉϫ̀ⲫⲟϥ: ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Intercede on our behalf before Christ to whom you gave birth that He may grant us the forgiveness of our sins.",
+    "arabic": "إشْفَعي فينا أَمامَ المَسيحِ الذي وَلدْتيهِ لِكَيْ يُنْعِمَ لنا بغُفْرانِ خَطايانا."
+   },
+   "transliterations": {
+    "english": "Ari-epresvevin e-ehree egon: nahren Pi-ekhristos: fee-etare-egfof: hopos enteferehmot nan: emepko evol ente nennovi."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ:"
+    },
+    {
+     "coptic": "ⲛⲁϩⲣⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲫⲏⲉ̀ⲧⲁⲣⲉϫ̀ⲫⲟϥ:"
+    },
+    {
+     "coptic": "ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ:"
+    },
+    {
+     "coptic": "ⲙ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+   "translations": {
+    "english": "Hail to you O Virgin, the very and true queen, hail to the pride of our race, who gave birth to Emmanuel.",
+    "arabic": "السَّلامُ لَكِ أيَّتُها العَذْراءُ، الملِكةُ الحَقيقيَّةُ. السَّلامُ لفَخْر جِنْسِنا، وَلدْتِ لَنا عمَّانوئيل."
+   },
+   "transliterations": {
+    "english": "Shere ne o Tiparthenos: tiouro emmee enaleethinee: shere epshoushou ente pengenos: are-egfo nan enemmanoweel."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ:"
+    },
+    {
+     "coptic": "ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ:"
+    },
+    {
+     "coptic": "ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ."
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ.",
+   "translations": {
+    "english": "We ask you to remember us, O our trusted advocate, before our Lord Jesus Christ, that He may forgive us our sins.",
+    "arabic": "نَسْألُكِ اذْكُرينا، أيَّتُها الشَّفيعَةُ المؤْتَمَنةُ، أَمامَ ربِّنا يَسوعَ المسيحِ، ليغْفِرَ لَنا خَطايانا."
+   },
+   "transliterations": {
+    "english": "Tentiho aripenmevi: o ti-eprostatees etenhot: nahren Penshois Ieesous Pi-ekhristos: entefka nennovi nan evol."
+   },
+   "stanzas": [
+    {
+     "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ:"
+    },
+    {
+     "coptic": "ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ:"
+    },
+    {
+     "coptic": "ⲛⲁϩⲣⲉⲛ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+    },
+    {
+     "coptic": "ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+    }
+   ]
+  }
+ ]
+}

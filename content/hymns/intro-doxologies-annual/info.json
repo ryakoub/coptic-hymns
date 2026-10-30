@@ -1,0 +1,18 @@
+{
+  "title": "Introduction to the Doxologies (Hail to you, we ask you)",
+  "titles": {
+    "english": "Introduction to the Doxologies (Hail to you, we ask you)",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ",
+    "arabic": "مقدمة الذكصولوجيات"
+  },
+  "source": "https://tasbeha.org/hymn_library/view/1850",
+  "places": [
+    "annual/raising-of-incense"
+  ],
+  "group": {
+    "english": "Doxologies"
+  },
+  "order": 90,
+  "placeholder": true,
+  "notes": "Placeholder: the words are in; a recording in the regular tune is still to be found."
+}
