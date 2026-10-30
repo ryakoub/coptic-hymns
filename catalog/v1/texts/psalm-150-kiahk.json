@@ -44,6 +44,18 @@
   {
    "id": "l3",
    "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l4",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲡⲓⲧⲁϫⲣⲟ ⲛ̀ⲧⲉ ⲧⲉϥϫⲟⲙ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him in the firmament of His power Alleluia.",
@@ -54,7 +66,19 @@
    }
   },
   {
-   "id": "l4",
+   "id": "l5",
+   "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l6",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ϩⲓϫⲉⲛ ⲧⲉϥⲙⲉⲧϫⲱⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -66,8 +90,20 @@
    }
   },
   {
-   "id": "l5",
+   "id": "l7",
    "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l8",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲧⲉϥⲙⲉⲧⲛⲓϣϯ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him according to the multitudes of His greatness Alleluia.",
@@ -78,7 +114,19 @@
    }
   },
   {
-   "id": "l6",
+   "id": "l9",
+   "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l10",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲥⲁⲗⲡⲓⲅⲅⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -90,8 +138,20 @@
    }
   },
   {
-   "id": "l7",
+   "id": "l11",
    "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l12",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲟⲩⲕⲩⲑⲁⲣⲁ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with psaltery and harp Alleluia.",
@@ -102,7 +162,19 @@
    }
   },
   {
-   "id": "l8",
+   "id": "l13",
+   "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l14",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ϩⲁⲛⲭⲟⲣⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -114,8 +186,20 @@
    }
   },
   {
-   "id": "l9",
+   "id": "l15",
    "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l16",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲁⲡ ⲛⲉⲙ ⲟⲩⲟⲣⲅⲁⲛⲟⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him with strings and organs Alleluia.",
@@ -126,7 +210,19 @@
    }
   },
   {
-   "id": "l10",
+   "id": "l17",
+   "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l18",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲉ̀ⲛⲉⲥⲉ ⲧⲟⲩⲥ̀ⲙⲏ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -138,8 +234,20 @@
    }
   },
   {
-   "id": "l11",
+   "id": "l19",
    "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l20",
+   "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲛ̀ⲧⲉ ⲟⲩⲉϣⲗⲏⲗⲟⲩⲓ̀ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
     "english": "Praise Him upon the cymbals of joy Alleluia.",
@@ -150,7 +258,19 @@
    }
   },
   {
-   "id": "l12",
+   "id": "l21",
+   "side": 0,
+   "coptic": "Ⲉϥⲉ̀ⲣⲁⲛⲁϥ ⲙ̀Ⲡⲉⲛⲛⲟⲩϯ ⲛ̀ϫⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ϫⲉ ⲛⲁⲛⲉ ⲟⲩⲯⲁⲗⲙⲟⲥ.",
+   "translations": {
+    "english": "Unto our God is due glory and praise. Praise the Lord our God with a good psalm.",
+    "arabic": "يليق لإلهنا المجد والتسبيح. سبحوا الرب إلهنا فإن المزمور جيد."
+   },
+   "transliterations": {
+    "english": "Efe-ranaf em-Pennouti enje pi-o-ou nem pi-esmou. Esmou e-Epchois Pennouti je nane oupsalmos."
+   }
+  },
+  {
+   "id": "l22",
    "side": 1,
    "coptic": "Ⲛⲓϥⲓ ⲛⲓⲃⲉⲛ ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲧⲏⲣⲟⲩ ⲉ̀ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -162,7 +282,7 @@
    }
   },
   {
-   "id": "l13",
+   "id": "l23",
    "side": 0,
    "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -174,7 +294,7 @@
    }
   },
   {
-   "id": "l14",
+   "id": "l24",
    "side": 1,
    "coptic": "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -186,7 +306,7 @@
    }
   },
   {
-   "id": "l15",
+   "id": "l25",
    "side": 0,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁ̅ⲗ̅. Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -209,7 +329,7 @@
    ]
   },
   {
-   "id": "l16",
+   "id": "l26",
    "side": 1,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁ̅ⲗ̅. Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {

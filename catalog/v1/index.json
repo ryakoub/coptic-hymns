@@ -1,6 +1,6 @@
 {
- "version": "ce22d1f42dc30321",
- "updated": "2026-10-30T00:53:24Z",
+ "version": "1a51ad5cbc9f3b9b",
+ "updated": "2026-10-30T00:59:25Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -4072,7 +4072,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 16,
+   "lines": 26,
    "translations": [
     "arabic",
     "english"
@@ -4085,8 +4085,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/psalm-150-kiahk.json",
-    "bytes": 8299,
-    "sha256": "865644c79c138e9bae4ba00103905d9b77567e298c4c732dadd6542c98b677cf"
+    "bytes": 14939,
+    "sha256": "3aae4956f81bbcfeb9668f0deff0d35d3b21c3d5b01b8784508ade315ca0d3d1"
    }
   },
   {
@@ -10464,7 +10464,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 16
+    "of": 26
    },
    "source": "content/hymns/psalm-150-kiahk/",
    "youtube": "https://www.youtube.com/watch?v=rt1m18Q4XMY",
