@@ -116,7 +116,7 @@
 <section class="cta" id="get">
   <img src="/brand/icon-1024.png" alt="">
   <h2>Coming soon to the App Store</h2>
-  <p id="get-text">Coptic Chanter is being tested now and will be on the App Store soon. It needs iPhone or iPad with iOS 26.</p>
+  <p id="get-text">Coptic Chanter is being tested now and will be on the App Store soon. It needs an iPhone or iPad with iOS 18 or later.</p>
   <a class="pill gold" id="get-button" hidden>Get the app</a>
 </section>
 
@@ -128,7 +128,7 @@ CC.footer();
 
 if (CC.GET_APP) {
   document.querySelector("#get h2").textContent = "Get Coptic Chanter";
-  document.getElementById("get-text").textContent = "Free for iPhone and iPad (iOS 26 or later).";
+  document.getElementById("get-text").textContent = "Free for iPhone and iPad (iOS 18 or later).";
   Object.assign(document.getElementById("get-button"), { href: CC.GET_APP, hidden: false });
 }
 
