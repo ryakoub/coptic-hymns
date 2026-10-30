@@ -1,8 +1,9 @@
 {
-  "title": "Kiahk Adam Psali on the Second Hoos",
+  "title": "Kiahk Adam Psali on the Second Hoos (My heart and my tongue)",
   "titles": {
-    "english": "Kiahk Adam Psali on the Second Hoos",
-    "arabic": "إبصالية آدام كيهكي على الهوس الثاني"
+    "english": "Kiahk Adam Psali on the Second Hoos (My heart and my tongue)",
+    "arabic": "إبصالية آدام كيهكي على الهوس الثاني",
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ"
   },
   "places": [
     {
@@ -15,6 +16,5 @@
     "year": 2022,
     "stage": "hs",
     "level": "1"
-  },
-  "notes": "Placeholder: lyrics missing, to be added"
+  }
 }

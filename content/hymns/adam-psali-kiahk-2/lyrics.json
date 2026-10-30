@@ -1,8 +1,698 @@
 [
   {
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ: ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
     "translations": {
-      "english": "Lyrics missing: the words are being added. Meanwhile, listen to the recording.",
-      "arabic": "الكلمات غير متوفرة بعد، وجارٍ إضافتها. استمع إلى التسجيل في الأثناء."
-    }
+      "english": "My heart and my tongue praise the Trinity, O Holy Trinity, have mercy upon us.",
+      "arabic": "قلبي ولساني يسبحان الثالوث، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Apaheet nem palas: hos etitrias: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲃⲟⲛ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ ⲛⲁⲕ: ⲟⲩⲟϩ ⲥⲉⲉⲣⲃⲱⲕ ⲛⲁⲕ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Everyone praises You and worships You, O Holy Trinity, have mercy upon us.",
+      "arabic": "كل أحد يسبحك، ويتعبد لك، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Von niven sehos nak: ouoh se-ervok nak: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲃⲟⲛ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ ⲛⲁⲕ:"
+      },
+      {
+        "coptic": "ⲟⲩⲟϩ ⲥⲉⲉⲣⲃⲱⲕ ⲛⲁⲕ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲅⲉ ⲅⲁⲣ ⲛ̀ⲑⲟⲕ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ: Ⲡⲉⲛⲥⲱⲧⲏⲣ ⲟⲩⲟϩ ⲡⲓⲛⲓϣϯ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "For You are our God and our great Savior, O Holy Trinity, have mercy upon us.",
+      "arabic": "لأنك أنت إلهنا، ومخلصنا العظيم، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ge gar enthok pe Pennouti: Pensoteer ouoh pinishti: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲅⲉ ⲅⲁⲣ ⲛ̀ⲑⲟⲕ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ:"
+      },
+      {
+        "coptic": "Ⲡⲉⲛⲥⲱⲧⲏⲣ ⲟⲩⲟϩ ⲡⲓⲛⲓϣϯ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲇⲉⲥⲡⲟⲩⲇⲉ ⲕⲩⲣⲓⲟⲛ: ⲁϥⲓ̀ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "The Master Lord, He came and saved us, O Holy Trinity, have mercy upon us.",
+      "arabic": "السيد الرب، أتى وخلصنا، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Thespouthe Kyrion: afi-afsoti emmon: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲇⲉⲥⲡⲟⲩⲇⲉ ⲕⲩⲣⲓⲟⲛ:"
+      },
+      {
+        "coptic": "ⲁϥⲓ̀ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ: ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "My heart and my tongue praise the Trinity, O Holy Trinity, have mercy upon us.",
+      "arabic": "قلبي ولساني يسبحان الثالوث، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Apaheet nem palas: hos etitrias: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲉⲑⲃⲉ ⲛⲉⲕϩⲁⲡ ⲙ̀ⲙⲏⲓ: ⲙⲁϯ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "For the sake of Your true judgments, teach me Your justice, O Holy Trinity, have mercy upon us.",
+      "arabic": "من أجل أحكامك الحقيقية، علمني عدلك، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ethve nekhap emmeei: matisavoi enekmethmeei: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲉⲑⲃⲉ ⲛⲉⲕϩⲁⲡ ⲙ̀ⲙⲏⲓ:"
+      },
+      {
+        "coptic": "ⲙⲁϯ̀ⲥⲁⲃⲟⲓ ⲉ̀ⲛⲉⲕⲙⲉⲑⲙⲏⲓ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲍⲉⲟϣ ⲛ̀ϫⲉ ⲛⲉⲕⲛⲁⲓ: ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Many are Your mercies; grant us Your salvation, O Holy Trinity, have mercy upon us.",
+      "arabic": "كثيرة هي رحمتك، تعهدنا بخلاصك، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ze-osh enje neknai: jempenshini khen pekoujai: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲍⲉⲟϣ ⲛ̀ϫⲉ ⲛⲉⲕⲛⲁⲓ:"
+      },
+      {
+        "coptic": "ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲏⲥ ϩⲏⲡⲡⲉ ⲁ̀ⲛⲟⲕ: ⲉⲓⲉ̀ⲫⲱⲧ ϩⲁⲣⲟⲕ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "I am here before You; I took refuge in You, O Holy Trinity, have mercy upon us.",
+      "arabic": "هوذا أنا، التجأت إليك، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ees heeppe anok: ei-efot harok: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲏⲥ ϩⲏⲡⲡⲉ ⲁ̀ⲛⲟⲕ:"
+      },
+      {
+        "coptic": "ⲉⲓⲉ̀ⲫⲱⲧ ϩⲁⲣⲟⲕ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ: ⲱ̀ ⲡⲓⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Yours is the power and the glory, O King of glory, O Holy Trinity, have mercy upon us.",
+      "arabic": "لك القوة والمجد، يا ملك المجد، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Thok te tijom nem pi-o-ou: o piouro ente ep-o-ou: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ:"
+      },
+      {
+        "coptic": "ⲱ̀ ⲡⲓⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲡ̀ⲱ̀ⲟⲩ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ: ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "My heart and my tongue praise the Trinity, O Holy Trinity, have mercy upon us.",
+      "arabic": "قلبي ولساني يسبحان الثالوث، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Apaheet nem palas: hos etitrias: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲓⲏⲥⲟⲩⲥ ⲡⲉ ⲧⲉⲛϩⲉⲗⲡⲓⲥ: ϧⲉⲛ ⲛⲉⲛⲑ̀ⲗⲩⲯⲓⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Jesus is our hope in our tribulations, O Holy Trinity, have mercy upon us.",
+      "arabic": "يسوع هو رجاؤنا، في شدائدنا، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Eesous pe tenhelpis: khen nenthlipsis: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲓⲏⲥⲟⲩⲥ ⲡⲉ ⲧⲉⲛϩⲉⲗⲡⲓⲥ:"
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲛⲉⲛⲑ̀ⲗⲩⲯⲓⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲕⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ: ⲛⲁϩⲙⲉⲛ ϧⲉⲛ ⲛⲓⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "You are blessed, O Son of God; deliver us from temptations, O Holy Trinity, have mercy upon us.",
+      "arabic": "تباركت يا ابن الله، نجنا من التجارب، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Kesmarout Ee-os Theos: nahmen khen nipirasmos: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲕⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ:"
+      },
+      {
+        "coptic": "ⲛⲁϩⲙⲉⲛ ϧⲉⲛ ⲛⲓⲡⲓⲣⲁⲥⲙⲟⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ ⲛⲁⲕ: ⲱ̀ ⲡ̀ⲟⲩⲣⲟ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "All nations praise You, O Christ the King, O Holy Trinity, have mercy upon us.",
+      "arabic": "كل الشعوب تسبحك، أيها الملك المسيح، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Laos niven sehos nak: o epouro Pikhristos: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲗⲁⲟⲥ ⲛⲓⲃⲉⲛ ⲥⲉϩⲱⲥ ⲛⲁⲕ:"
+      },
+      {
+        "coptic": "ⲱ̀ ⲡ̀ⲟⲩⲣⲟ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲙⲁⲧⲁⲗϭⲟ ⲛ̀ⲛⲉⲛϣⲱⲛⲓ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Grant us Your peace; heal our sicknesses, O Holy Trinity, have mercy upon us.",
+      "arabic": "أعطنا سلامك، اشف أمراضنا، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Moi nan entekhireenee: matalcho ennenshoni: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ:"
+      },
+      {
+        "coptic": "ⲙⲁⲧⲁⲗϭⲟ ⲛ̀ⲛⲉⲛϣⲱⲛⲓ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ: ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "My heart and my tongue praise the Trinity, O Holy Trinity, have mercy upon us.",
+      "arabic": "قلبي ولساني يسبحان الثالوث، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Apaheet nem palas: hos etitrias: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲛ̀ⲑⲟⲕ ⲟⲩⲣⲉϥϣⲉⲛϩⲏⲧ: ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "You are the compassionate, and You are the Merciful, O Holy Trinity, have mercy upon us.",
+      "arabic": "أنت المتحنن، وأنت الرحوم، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Enthok ourefshenheet: ouoh ennaeet: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲛ̀ⲑⲟⲕ ⲟⲩⲣⲉϥϣⲉⲛϩⲏⲧ:"
+      },
+      {
+        "coptic": "ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲝⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ⲑⲟⲕ: ⲧⲉⲛϩⲱⲥ ⲛⲁⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "You are blessed; we praise and bless You, O Holy Trinity, have mercy upon us.",
+      "arabic": "تباركت أنت، نسبحك ونباركك، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Exmarout enthok: tenhos nak tenesmou erok: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲝⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ⲑⲟⲕ:"
+      },
+      {
+        "coptic": "ⲧⲉⲛϩⲱⲥ ⲛⲁⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲟⲩⲛⲓϣϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲡⲓⲣⲉϥϯϩⲁⲡ ⲙ̀ⲙⲏⲓ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Truly great is the Just Judge, O Holy Trinity, have mercy upon us.",
+      "arabic": "عظيم بالحقيقة، الديان العادل، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ounishti entafmeei: pireftihap emmeei: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲟⲩⲛⲓϣϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ:"
+      },
+      {
+        "coptic": "ⲡⲓⲣⲉϥϯϩⲁⲡ ⲙ̀ⲙⲏⲓ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲡⲉⲕⲣⲁⲛ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ: ⲱ̀ ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Your name is blessed, O the True Logos, O Holy Trinity, have mercy upon us.",
+      "arabic": "اسمك مبارك، أيها الكلمة الحقيقي، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Pekran etesmarout: o pilogos entafmeei: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲡⲉⲕⲣⲁⲛ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ:"
+      },
+      {
+        "coptic": "ⲱ̀ ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ: ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "My heart and my tongue praise the Trinity, O Holy Trinity, have mercy upon us.",
+      "arabic": "قلبي ولساني يسبحان الثالوث، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Apaheet nem palas: hos etitrias: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲣⲱⲓⲥ ⲉ̀ⲣⲟⲛ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Guard us, O Christ, with Your goodness, O Holy Trinity, have mercy upon us.",
+      "arabic": "احرسنا أيها المسيح، بصلاحك، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Rois eron o Pikhristos: khen tekmetagathos: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲣⲱⲓⲥ ⲉ̀ⲣⲟⲛ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ:"
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲥⲱⲧⲉⲙ ⲉ̀ⲛⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ: ϧⲉⲛ ⲛⲟⲩⲁ̀ⲛⲁⲅⲕⲏ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Hearken unto the sinners in their tribulations, O Holy Trinity, have mercy upon us.",
+      "arabic": "اسمع للخطاة، في شدائدهم، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Sotem enirefernovi: khen nouanankee: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲥⲱⲧⲉⲙ ⲉ̀ⲛⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ:"
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲛⲟⲩⲁ̀ⲛⲁⲅⲕⲏ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲧⲁⲯⲩⲭⲏ ⲛⲉⲙ ⲡⲁⲛⲟⲥ: ⲱ̀ⲗⲟⲩ ⲉ̀ⲟⲩⲣⲁⲛⲟⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "My soul and my mind, lift them up to heaven, O Holy Trinity, have mercy upon us.",
+      "arabic": "نفسي وعقلي، ارفعهما إلى السماء، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Tapsikhee nem panos: olou e-ouranos: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲧⲁⲯⲩⲭⲏ ⲛⲉⲙ ⲡⲁⲛⲟⲥ:"
+      },
+      {
+        "coptic": "ⲱ̀ⲗⲟⲩ ⲉ̀ⲟⲩⲣⲁⲛⲟⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲥⲱϯ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "O Son of our God, grant us Your salvation, O Holy Trinity, have mercy upon us.",
+      "arabic": "يا ابن الله إلهنا، أعطنا خلاصاً، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ee-os Theos Pennouti: moi nan enousoti: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲩⲓⲟⲥ Ⲑⲉⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ:"
+      },
+      {
+        "coptic": "ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲥⲱϯ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ: ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "My heart and my tongue praise the Trinity, O Holy Trinity, have mercy upon us.",
+      "arabic": "قلبي ولساني يسبحان الثالوث، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Apaheet nem palas: hos etitrias: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ:"
+      },
+      {
+        "coptic": "ϩⲱⲥ ⲉ̀ϯⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲫϯ ⲡⲓⲛⲁⲏⲧ: ⲡⲓⲣⲉϥⲱⲟⲩⲛ̀ϩⲏⲧ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "God the Merciful, the longsuffering, O Holy Trinity, have mercy upon us.",
+      "arabic": "الله الرحوم، طويل الأناة، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Efnouti pinaeet: pirefo-ounheet: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲫϯ ⲡⲓⲛⲁⲏⲧ:"
+      },
+      {
+        "coptic": "ⲡⲓⲣⲉϥⲱⲟⲩⲛ̀ϩⲏⲧ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲭⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ: ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "Holy, Holy, Holy, O Son of the Holy, O Holy Trinity, have mercy upon us.",
+      "arabic": "قدوس قدوس قدوس، يا ابن القدوس، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Ekouab ekouab ekouab: epsheeri em-Fee-ethouab: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲭⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ:"
+      },
+      {
+        "coptic": "ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫⲏⲉⲑⲟⲩⲁⲃ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲯⲩⲭⲏ ⲛ̀ⲛⲉⲛⲓⲟϯ: ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ ⲱ̀ ⲡⲓⲣⲉϥⲥⲱϯ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "The souls of our fathers, give rest to them, O Savior, O Holy Trinity, have mercy upon us.",
+      "arabic": "أنفس آبائنا، نيحهم أيها المخلص، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "Epsikhee ennenioti: mamton no-ou o pirefsoti: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲯⲩⲭⲏ ⲛ̀ⲛⲉⲛⲓⲟϯ:"
+      },
+      {
+        "coptic": "ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ ⲱ̀ ⲡⲓⲣⲉϥⲥⲱϯ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲱ ⲡⲉⲛⲛⲏⲃ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ̀: ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲛⲁⲛⲓⲫⲏⲟⲩⲓ: ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ: ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+    "translations": {
+      "english": "O our Master, remember us in Your heavenly kingdom, O Holy Trinity, have mercy upon us.",
+      "arabic": "يا ملكنا اذكرنا، في ملكوتك السماوي، أيها الثالوث القدوس ارحمنا."
+    },
+    "transliterations": {
+      "english": "O pennev aripenmevi: khen tekmetouro ennanifeeoui: agia Trias: eleeson eemas."
+    },
+    "stanzas": [
+      {
+        "coptic": "Ⲱ ⲡⲉⲛⲛⲏⲃ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ̀:"
+      },
+      {
+        "coptic": "ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ ⲛ̀ⲛⲁⲛⲓⲫⲏⲟⲩⲓ:"
+      },
+      {
+        "coptic": "ⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ:"
+      },
+      {
+        "coptic": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ."
+      }
+    ]
   }
 ]

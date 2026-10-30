@@ -1,6 +1,6 @@
 {
- "version": "d4dc2c5c16333069",
- "updated": "2026-10-30T00:38:01Z",
+ "version": "4efc9a275ca1038e",
+ "updated": "2026-10-30T00:48:11Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1485,24 +1485,27 @@
   {
    "id": "adam-psali-kiahk-2",
    "titles": {
-    "english": "Kiahk Adam Psali on the Second Hoos",
-    "arabic": "إبصالية آدام كيهكي على الهوس الثاني"
+    "english": "Kiahk Adam Psali on the Second Hoos (My heart and my tongue)",
+    "arabic": "إبصالية آدام كيهكي على الهوس الثاني",
+    "coptic": "Ⲁⲡⲁϩⲏⲧ ⲛⲉⲙ ⲡⲁⲗⲁⲥ"
    },
    "tags": [],
-   "pending": true,
-   "lines": 1,
+   "pending": false,
+   "lines": 29,
    "translations": [
     "arabic",
     "english"
    ],
-   "transliterations": [],
+   "transliterations": [
+    "english"
+   ],
    "recordings": [
     "adam-psali-kiahk-2"
    ],
    "file": {
     "url": "catalog/v1/texts/adam-psali-kiahk-2.json",
-    "bytes": 497,
-    "sha256": "e4971385acdc06c2ed22d7d3fccd81f25646312585ff0fae5ebacdcf8f8a0587"
+    "bytes": 26475,
+    "sha256": "9e364a962592173f85103879ffce397d17481117f8cf15b3a085848703ce5a1f"
    }
   },
   {
@@ -6047,7 +6050,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 1
+    "of": 29
    },
    "source": "content/hymns/adam-psali-kiahk-2/",
    "youtube": "https://www.youtube.com/watch?v=zr-k8Z35XxI",
