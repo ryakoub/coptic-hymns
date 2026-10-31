@@ -12,7 +12,7 @@
 </head>
 <body>
 <main class="wrap" id="page"><p class="notice">Loading…</p></main>
-<script src="/js/site.js?v=20261029"></script>
+<script src="/js/site.js?v=20261031"></script>
 <script>
 CC.header("library");
 CC.footer();
@@ -74,7 +74,7 @@ CC.catalog().then(c => {
 ${parts}${rest}
 <div class="app-banner" style="margin-top:28px"><img src="/brand/icon-1024.png" alt="">
   <div><strong>Take ${CC.esc(name)} with you</strong>In the app, download the whole season to listen offline, with the words lighting up as the cantor sings.</div>
-  <a class="pill light" href="${CC.GET_APP || "/#get"}">Get the app</a></div>`;
+  <a class="pill light" href="${CC.GET_APP ? "/get/" : "/#get"}">Get the app</a></div>`;
 });
 </script>
 </body>

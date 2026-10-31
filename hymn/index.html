@@ -17,7 +17,7 @@
      opens the app on the hymn instead (see /.well-known/apple-app-site-association); this page is for everyone else. -->
 <body>
 <main class="wrap" id="page"><p class="notice">Loading…</p></main>
-<script src="/js/site.js?v=20261027"></script>
+<script src="/js/site.js?v=20261031"></script>
 <script>
 // Embedded in another page (the home page's sample): only the words and the player, and with lines=N only
 // the first N lines, from the first line's start to the next line's.
@@ -130,7 +130,7 @@ ${home ? `<div class="crumbs"><a href="/library.html">Library</a> › <a href="/
   <div><strong>Coptic Chanter for iPhone and iPad</strong>${CC.GET_APP
     ? "Download hymns to listen offline, follow the scores, and more."
     : "Being tested now, on the App Store soon. Already have it? Press and hold the link you received and choose Open in Coptic Chanter."}</div>
-  ${CC.GET_APP ? `<a class="pill light" href="${CC.GET_APP}">Get the app</a>` : ""}</div>
+  ${CC.GET_APP ? `<a class="pill light" href="/get/">Get the app</a>` : ""}</div>
 <div class="player"><div class="player-card">
   ${audio ? `<audio id="audio" controls controlsList="nodownload" preload="metadata" src="/${CC.esc(audio.url)}"></audio>` : "<p>No recording yet.</p>"}
   <div class="opts">

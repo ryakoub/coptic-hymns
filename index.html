@@ -121,7 +121,7 @@
 </section>
 
 </main>
-<script src="/js/site.js?v=20261029"></script>
+<script src="/js/site.js?v=20261031"></script>
 <script>
 CC.header("home");
 CC.footer();
@@ -129,7 +129,7 @@ CC.footer();
 if (CC.GET_APP) {
   document.querySelector("#get h2").textContent = "Get Coptic Chanter";
   document.getElementById("get-text").textContent = "Free for iPhone and iPad (iOS 18 or later).";
-  Object.assign(document.getElementById("get-button"), { href: CC.GET_APP, hidden: false });
+  Object.assign(document.getElementById("get-button"), { href: "/get/", hidden: false });
 }
 
 // The tour: each clip plays once, then the next one (a still picture stays a few seconds).

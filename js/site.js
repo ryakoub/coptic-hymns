@@ -2,7 +2,8 @@
 // (catalog/v1/index.json), the header and footer, season colors, and the church calendar.
 const CC = (() => {
   // The App Store or public TestFlight link, once there is one; until then the pages say "coming soon".
-  const GET_APP = null;
+  // TestFlight's public link for now, the App Store page later. Buttons go to /get/, which explains the steps.
+  const GET_APP = "https://testflight.apple.com/join/3FdEweaG";
 
   let catalogPromise;
   function catalog() {
@@ -140,7 +141,7 @@ const CC = (() => {
     ${link("/library.html", "Library", "library", "menu-library")}
     ${link("/#features", "Features", "features")}
     ${link("/support.html", "Support", "support")}
-    <a class="pill" href="${GET_APP || "/#get"}">Get the app</a>
+    <a class="pill" href="${GET_APP ? "/get/" : "/#get"}">Get the app</a>
   </nav>
 </div></header>`);
   }
