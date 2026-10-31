@@ -995,27 +995,27 @@
     ]
   },
   {
-    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ.",
     "translations": {
-      "english": "Alleluia, Alleluia, Alleluia.",
-      "arabic": "هلليلويا، هلليلويا، هلليلويا."
+      "english": "Alleluia, Alleluia, Alleluia. Sing to the Lord a new song Alleluia. And His praise in the congregation of the saints.",
+      "arabic": "هلليلويا، هلليلويا، هلليلويا. إنشدوا للرب نشيداً جديداً هلليلويا. لأن تسبحته في بيعة القديسين."
     },
     "transliterations": {
-      "english": "Alleelouia: alleelouia: alleelouia."
+      "english": "Alleelouia: alleelouia: alleelouia. Go emepshois khen ougo emveri alleelouia. Je are pefesmou khen etekkleesia ente nee-ethowab."
     },
     "stanzas": [
       {
-        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       },
       {
-        "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
+        "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       },
       {
-        "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
+        "coptic": "Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ."
       }
     ],
     "sung": {
-      "english": "Alleluia, Alleluia,"
+      "english": "Alleluia, Alleluia, Alleluia Sing to Lord a new song alleluia. And His praise in the congregation of the saints."
     },
     "start": 197.94,
     "words": [
@@ -1030,31 +1030,7 @@
       {
         "text": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
         "start": 201.34
-      }
-    ]
-  },
-  {
-    "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ.",
-    "translations": {
-      "english": "Sing to the Lord a new song Alleluia. And His praise in the congregation of the saints.",
-      "arabic": "إنشدوا للرب نشيداً جديداً هلليلويا. لأن تسبحته في بيعة القديسين."
-    },
-    "transliterations": {
-      "english": "Go emepshois khen ougo emveri alleelouia. Je are pefesmou khen etekkleesia ente nee-ethowab."
-    },
-    "stanzas": [
-      {
-        "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       },
-      {
-        "coptic": "Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ."
-      }
-    ],
-    "sung": {
-      "english": "Alleluia Sing to Lord a new song alleluia. And His praise in the congregation of the saints."
-    },
-    "start": 202.51,
-    "words": [
       {
         "text": "Ϫⲱ",
         "start": 202.51
@@ -1691,27 +1667,24 @@
     ]
   },
   {
-    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
     "translations": {
-      "english": "Alleluia, Alleluia, Alleluia.",
-      "arabic": "هلليلويا، هلليلويا، هلليلويا."
+      "english": "Alleluia, Alleluia, Alleluia. Praise God in all His saints Alleluia.",
+      "arabic": "هلليلويا، هلليلويا، هلليلويا. سبحوا الله في جميع قديسيه هلليلويا."
     },
     "transliterations": {
-      "english": "Alleelouia: alleelouia: alleelouia."
+      "english": "Alleelouia: alleelouia: alleelouia. Esmou e-efnoti khen nee-ethowab teerou entaf alleelouia."
     },
     "stanzas": [
       {
-        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
+        "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       },
       {
-        "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
-      },
-      {
-        "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
+        "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
       }
     ],
     "sung": {
-      "english": "Alleluia, Alleluia,"
+      "english": "Alleluia, Alleluia, Alleluia. Praise God, in all His saints alleluia."
     },
     "start": 305.24,
     "words": [
@@ -1726,23 +1699,7 @@
       {
         "text": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
         "start": 308.04
-      }
-    ]
-  },
-  {
-    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
-    "translations": {
-      "english": "Praise God in all His saints Alleluia.",
-      "arabic": "سبحوا الله في جميع قديسيه هلليلويا."
-    },
-    "transliterations": {
-      "english": "Esmou e-efnoti khen nee-ethowab teerou entaf alleelouia."
-    },
-    "sung": {
-      "english": "Alleluia. Praise God, in all His saints alleluia."
-    },
-    "start": 310.01,
-    "words": [
+      },
       {
         "text": "Ⲥ̀ⲙⲟⲩ",
         "start": 310.01

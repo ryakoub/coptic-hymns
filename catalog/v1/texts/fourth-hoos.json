@@ -315,44 +315,21 @@
   {
    "id": "l16",
    "side": 1,
-   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ.",
    "translations": {
-    "english": "Alleluia, Alleluia, Alleluia.",
-    "arabic": "هلليلويا، هلليلويا، هلليلويا."
+    "english": "Alleluia, Alleluia, Alleluia. Sing to the Lord a new song Alleluia. And His praise in the congregation of the saints.",
+    "arabic": "هلليلويا، هلليلويا، هلليلويا. إنشدوا للرب نشيداً جديداً هلليلويا. لأن تسبحته في بيعة القديسين."
    },
    "transliterations": {
-    "english": "Alleelouia: alleelouia: alleelouia."
+    "english": "Alleelouia: alleelouia: alleelouia. Go emepshois khen ougo emveri alleelouia. Je are pefesmou khen etekkleesia ente nee-ethowab."
    },
    "sung": {
-    "english": "Alleluia, Alleluia,"
+    "english": "Alleluia, Alleluia, Alleluia Sing to Lord a new song alleluia. And His praise in the congregation of the saints."
    },
    "stanzas": [
     {
-     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
+     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
     },
-    {
-     "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
-    },
-    {
-     "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
-    }
-   ]
-  },
-  {
-   "id": "l17",
-   "side": 0,
-   "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϫⲉ ⲁ̀ⲣⲉ ⲡⲉϥⲥ̀ⲙⲟⲩ ϧⲉⲛ ⲧ̀ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ.",
-   "translations": {
-    "english": "Sing to the Lord a new song Alleluia. And His praise in the congregation of the saints.",
-    "arabic": "إنشدوا للرب نشيداً جديداً هلليلويا. لأن تسبحته في بيعة القديسين."
-   },
-   "transliterations": {
-    "english": "Go emepshois khen ougo emveri alleelouia. Je are pefesmou khen etekkleesia ente nee-ethowab."
-   },
-   "sung": {
-    "english": "Alleluia Sing to Lord a new song alleluia. And His praise in the congregation of the saints."
-   },
-   "stanzas": [
     {
      "coptic": "Ϫⲱ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ϧⲉⲛ ⲟⲩϫⲱ ⲙ̀ⲃⲉⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
     },
@@ -362,8 +339,8 @@
    ]
   },
   {
-   "id": "l18",
-   "side": 1,
+   "id": "l17",
+   "side": 0,
    "coptic": "Ⲙⲁⲣⲉϥⲟⲩⲛⲟϥ ⲛ̀ϫⲉ Ⲡⲓⲥⲣⲁⲏⲗ ⲉ̀ϫⲉⲛ ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲉⲛϣⲏⲣⲓ ⲛ̀Ⲥⲓⲱⲛ ⲙⲁⲣⲟⲩⲑⲉⲗⲏⲗ ⲉ̀ϫⲉⲛ Ⲡⲟⲩⲟⲩⲣⲟ.",
    "translations": {
     "english": "Let Israel rejoice in his Maker Alleluia. Let the children of Zion be joyful in their King.",
@@ -385,8 +362,8 @@
    ]
   },
   {
-   "id": "l19",
-   "side": 0,
+   "id": "l18",
+   "side": 1,
    "coptic": "Ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉϥⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ϧⲉⲛ ⲟⲩⲭⲟⲣⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϧⲉⲛ ⲟⲩⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲙⲁⲣⲟⲩⲉⲣⲯⲁⲗⲓⲛ ⲉ̀ⲣⲟϥ.",
    "translations": {
     "english": "Let them praise His name in a chorus Alleluia. Let them sing praises unto Him with timbrel and harp.",
@@ -408,8 +385,8 @@
    ]
   },
   {
-   "id": "l20",
-   "side": 1,
+   "id": "l19",
+   "side": 0,
    "coptic": "Ϫⲉ Ⲡ̀ϭⲟⲓⲥ ⲛⲁϯⲙⲁϯ ⲉ̀ϫⲉⲛ ⲡⲉϥⲗⲁⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϥ̀ⲛⲁϭⲓⲥⲓ ⲛ̀ⲛⲓⲣⲉⲙⲣⲁⲩϣ ϧⲉⲛ ⲟⲩⲟⲩϫⲁⲓ.",
    "translations": {
     "english": "For the Lord takes pleasure in His people Alleluia. He will raise the meek with salvation.",
@@ -428,8 +405,8 @@
    ]
   },
   {
-   "id": "l21",
-   "side": 0,
+   "id": "l20",
+   "side": 1,
    "coptic": "Ⲉⲩⲉ̀ϣⲟⲩϣⲟⲩ ⲙ̀ⲙⲱⲟⲩ ⲛ̀ϫⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ϧⲉⲛ ⲟⲩⲱ̀ⲟⲩ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲉⲩⲉ̀ⲑⲉⲗⲏⲗ ⲙ̀ⲙⲱⲟⲩ ϩⲓϫⲉⲛ ⲛⲟⲩⲙⲁⲛⲉⲛⲕⲟⲧ.",
    "translations": {
     "english": "Let the saints be joyful in glory Alleluia. Let them sing aloud upon their beds.",
@@ -451,8 +428,8 @@
    ]
   },
   {
-   "id": "l22",
-   "side": 1,
+   "id": "l21",
+   "side": 0,
    "coptic": "Ⲛⲓϭⲓⲥⲓ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ ⲉⲧⲭⲏ ϧⲉⲛ ⲧⲟⲩϣ̀ⲃⲱⲃⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ϩⲁⲛⲥⲏϥⲓ ⲛ̀ⲣⲟⲥ̀ⲛⲁⲩ ⲉⲧⲭⲏ ϧⲉⲛ ⲛⲟⲩϫⲓϫ.",
    "translations": {
     "english": "Let the high praises of God be in their mouth Alleluia. And a two edged sword in their hands.",
@@ -474,8 +451,8 @@
    ]
   },
   {
-   "id": "l23",
-   "side": 0,
+   "id": "l22",
+   "side": 1,
    "coptic": "Ⲉ̀ⲡ̀ϫⲓⲛⲓ̀ⲣⲓ ⲛ̀ⲟⲩϭⲓⲙ̀ⲡ̀ϣⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲉⲙ ϩⲁⲛⲥⲟϩⲓ ϧⲉⲛ ⲛⲓⲗⲁⲟⲥ.",
    "translations": {
     "english": "To execute vengeance on the nations Alleluia. And punishments on the people.",
@@ -494,8 +471,8 @@
    ]
   },
   {
-   "id": "l24",
-   "side": 1,
+   "id": "l23",
+   "side": 0,
    "coptic": "Ⲉ̀ⲡ̀ϫⲓⲛⲥⲱⲛϩ ⲛ̀ϩⲁⲛⲟⲩⲣⲱⲟⲩ ϧⲉⲛ ϩⲁⲛⲡⲉⲇⲏⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲉⲙ ⲛⲏⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲧⲱⲟⲩ ϧⲉⲛ ϩⲁⲛⲡⲉⲇⲏⲥ ⲛ̀ϫⲓϫ ⲙ̀ⲃⲉⲛⲓⲡⲓ.",
    "translations": {
     "english": "To bind their kings with chains Alleluia. And their nobles with fetters of iron.",
@@ -514,8 +491,8 @@
    ]
   },
   {
-   "id": "l25",
-   "side": 0,
+   "id": "l24",
+   "side": 1,
    "coptic": "Ⲉ̀ⲡ̀ϫⲓⲛⲓ̀ⲣⲓ ⲛ̀ϧⲏⲧⲟⲩ ⲛ̀ⲟⲩϩⲁⲡ ⲉϥⲥ̀ϧⲏⲟⲩⲧ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲡⲁⲓⲱ̀ⲟⲩ ⲫⲁⲓ ⲁϥϣⲟⲡ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ.",
    "translations": {
     "english": "To execute on them the written judgment Alleluia. This honor have all His saints.",
@@ -534,48 +511,30 @@
    ]
   },
   {
-   "id": "l26",
-   "side": 1,
-   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
+   "id": "l25",
+   "side": 0,
+   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
-    "english": "Alleluia, Alleluia, Alleluia.",
-    "arabic": "هلليلويا، هلليلويا، هلليلويا."
+    "english": "Alleluia, Alleluia, Alleluia. Praise God in all His saints Alleluia.",
+    "arabic": "هلليلويا، هلليلويا، هلليلويا. سبحوا الله في جميع قديسيه هلليلويا."
    },
    "transliterations": {
-    "english": "Alleelouia: alleelouia: alleelouia."
+    "english": "Alleelouia: alleelouia: alleelouia. Esmou e-efnoti khen nee-ethowab teerou entaf alleelouia."
    },
    "sung": {
-    "english": "Alleluia, Alleluia,"
+    "english": "Alleluia, Alleluia, Alleluia. Praise God, in all His saints alleluia."
    },
    "stanzas": [
     {
-     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
+     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
     },
     {
-     "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ:"
-    },
-    {
-     "coptic": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
+     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
     }
    ]
   },
   {
-   "id": "l27",
-   "side": 0,
-   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
-   "translations": {
-    "english": "Praise God in all His saints Alleluia.",
-    "arabic": "سبحوا الله في جميع قديسيه هلليلويا."
-   },
-   "transliterations": {
-    "english": "Esmou e-efnoti khen nee-ethowab teerou entaf alleelouia."
-   },
-   "sung": {
-    "english": "Alleluia. Praise God, in all His saints alleluia."
-   }
-  },
-  {
-   "id": "l28",
+   "id": "l26",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲡⲓⲧⲁϫⲣⲟ ⲛ̀ⲧⲉ ⲧⲉϥϫⲟⲙ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -587,7 +546,7 @@
    }
   },
   {
-   "id": "l29",
+   "id": "l27",
    "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ϩⲓϫⲉⲛ ⲧⲉϥⲙⲉⲧϫⲱⲣⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -599,7 +558,7 @@
    }
   },
   {
-   "id": "l30",
+   "id": "l28",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲧⲉϥⲙⲉⲧⲛⲓϣϯ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -614,7 +573,7 @@
    }
   },
   {
-   "id": "l31",
+   "id": "l29",
    "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲥⲁⲗⲡⲓⲅⲅⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -626,7 +585,7 @@
    }
   },
   {
-   "id": "l32",
+   "id": "l30",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲟⲩⲕⲩⲑⲁⲣⲁ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -641,7 +600,7 @@
    }
   },
   {
-   "id": "l33",
+   "id": "l31",
    "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ϩⲁⲛⲭⲟⲣⲟⲥ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -656,7 +615,7 @@
    }
   },
   {
-   "id": "l34",
+   "id": "l32",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲁⲡ ⲛⲉⲙ ⲟⲩⲟⲣⲅⲁⲛⲟⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -671,7 +630,7 @@
    }
   },
   {
-   "id": "l35",
+   "id": "l33",
    "side": 0,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲉ̀ⲛⲉⲥⲉ ⲧⲟⲩⲥ̀ⲙⲏ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -683,7 +642,7 @@
    }
   },
   {
-   "id": "l36",
+   "id": "l34",
    "side": 1,
    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲛ̀ⲧⲉ ⲟⲩⲉϣⲗⲏⲗⲟⲩⲓ̀ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -698,7 +657,7 @@
    }
   },
   {
-   "id": "l37",
+   "id": "l35",
    "side": 0,
    "coptic": "Ⲛⲓϥⲓ ⲛⲓⲃⲉⲛ ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲧⲏⲣⲟⲩ ⲉ̀ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -713,7 +672,7 @@
    }
   },
   {
-   "id": "l38",
+   "id": "l36",
    "side": 1,
    "coptic": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -725,7 +684,7 @@
    }
   },
   {
-   "id": "l39",
+   "id": "l37",
    "side": 0,
    "coptic": "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -737,7 +696,7 @@
    }
   },
   {
-   "id": "l40",
+   "id": "l38",
    "side": 1,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁ̅ⲗ̅. Ⲇⲟⲝⲁ ⲥⲓ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {
@@ -763,7 +722,7 @@
    ]
   },
   {
-   "id": "l41",
+   "id": "l39",
    "side": 0,
    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ: ⲁ̅ⲗ̅. Ⲡⲓⲱ̀ⲟⲩ ⲫⲁ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲉ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
    "translations": {

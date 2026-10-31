@@ -1,6 +1,6 @@
 {
- "version": "02fc0adfb8c7d591",
- "updated": "2026-10-30T01:47:50Z",
+ "version": "add613f1f92402f4",
+ "updated": "2026-10-31T14:24:59Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2944,7 +2944,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 41,
+   "lines": 39,
    "translations": [
     "arabic",
     "english"
@@ -2958,8 +2958,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fourth-hoos.json",
-    "bytes": 33298,
-    "sha256": "c07714d6e54daea2433b5efdae42c042ed2936c370fc3c97ad00ab59fa854898"
+    "bytes": 32919,
+    "sha256": "2531a18281ed6b64f4f8f630b645b77bf53c6842640f5eeb03ed594e8e40328e"
    }
   },
   {
@@ -8303,9 +8303,9 @@
    "text": "fourth-hoos",
    "duration": 441.99,
    "timing": {
-    "lines": 41,
-    "words": 41,
-    "of": 41
+    "lines": 39,
+    "words": 39,
+    "of": 39
    },
    "source": "https://tasbeha.org/hymn_library/view/127",
    "youtube": "https://youtu.be/udKHxnPA3ps",
@@ -8314,8 +8314,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/fourth-hoos.json",
-     "bytes": 37243,
-     "sha256": "ed81628adf0ac1167a4bff785c254a604edf42b42fda37c11b1604078a2e9037",
+     "bytes": 37056,
+     "sha256": "970461f6207bd61e1393d4cce77ff94f4d9b16b5094681f22b9edd59ac5556f2",
      "role": "timing"
     },
     {
@@ -8331,9 +8331,9 @@
    "text": "fourth-hoos",
    "duration": 437.63,
    "timing": {
-    "lines": 41,
-    "words": 41,
-    "of": 41
+    "lines": 39,
+    "words": 39,
+    "of": 39
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
    "tune": {
@@ -8344,8 +8344,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/fourth-hoos-english.json",
-     "bytes": 38761,
-     "sha256": "ea51a559c0d3f7321cf3ef22fe7374b890428e364ce11ef638ee1190ef05d397",
+     "bytes": 38631,
+     "sha256": "fe4da93ced7567ab2ba528e480148da20d348f6dd7d253f44286031c1b6bc0d2",
      "role": "timing"
     },
     {
