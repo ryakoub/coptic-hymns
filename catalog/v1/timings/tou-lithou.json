@@ -4,248 +4,248 @@
  "segments": [
   {
    "line": "l1",
-   "start": 4.49,
+   "start": 4.11,
    "words": [
     {
      "text": "Ⲧⲟⲩ",
-     "start": 4.49,
-     "end": 2.61
+     "start": 4.11,
+     "end": null
     },
     {
      "text": "ⲗⲓⲑⲟⲩⲥ",
-     "start": 5.31,
-     "end": 5.84
+     "start": 5.04,
+     "end": null
     },
     {
      "text": "ⲫ̀ⲣⲁⲅⲓⲥⲑⲉⲛ",
-     "start": 7.02,
-     "end": 11.21
+     "start": 6.71,
+     "end": null
     },
     {
      "text": "ⲧⲟⲥ",
-     "start": 10.55,
-     "end": 12.82
+     "start": 10.11,
+     "end": null
     },
     {
      "text": "ⲩ̀ⲡⲟ",
-     "start": 12.6,
-     "end": 14.97
+     "start": 11.98,
+     "end": null
     },
     {
      "text": "ⲧⲱⲛ",
-     "start": 14.18,
-     "end": 16.58
+     "start": 13.94,
+     "end": null
     },
     {
      "text": "Ⲓⲟⲩⲇⲉⲱⲛ:",
-     "start": 15.23,
-     "end": 20.88
+     "start": 14.95,
+     "end": null
     },
     {
      "text": "ⲕⲉ",
-     "start": 23.6,
-     "end": 21.95
+     "start": 23.01,
+     "end": null
     },
     {
      "text": "ⲥ̀ⲧ̀ⲣⲁⲧⲓⲱ",
-     "start": 24.17,
-     "end": 26.78
+     "start": 23.98,
+     "end": null
     },
     {
      "text": "ⲧⲱⲛ",
-     "start": 26.7,
-     "end": 28.4
+     "start": 26.31,
+     "end": null
     },
     {
      "text": "ⲫⲩⲗⲁⲥⲥⲟⲛ",
-     "start": 27.8,
-     "end": 32.69
+     "start": 27.31,
+     "end": null
     },
     {
      "text": "ⲧⲱⲛ",
-     "start": 30.87,
-     "end": 34.31
+     "start": 30.78,
+     "end": null
     },
     {
      "text": "ⲧⲟ",
-     "start": 31.86,
-     "end": 35.38
+     "start": 31.51,
+     "end": null
     },
     {
      "text": "ⲁⲭⲣⲁⲛⲧⲟⲛ",
-     "start": 32.72,
-     "end": 39.68
+     "start": 32.38,
+     "end": null
     },
     {
      "text": "ⲥⲟⲩ",
-     "start": 35.25,
-     "end": 41.29
+     "start": 35.01,
+     "end": null
     },
     {
      "text": "Ⲥⲱⲙⲁ:",
-     "start": 36.33,
-     "end": 43.97
+     "start": 35.81,
+     "end": null
     },
     {
      "text": "ⲁ̀ⲛⲉⲥⲧⲏⲥ",
-     "start": 40.28,
-     "end": 48.27
+     "start": 39.61,
+     "end": null
     },
     {
      "text": "ⲧ̀ⲣⲓⲏ̀ⲙⲉⲣⲟⲥ",
-     "start": 42.98,
-     "end": 54.18
+     "start": 42.21,
+     "end": null
     },
     {
      "text": "Ⲥⲱⲧⲏⲣ:",
-     "start": 46.52,
-     "end": 57.4
+     "start": 46.18,
+     "end": null
     },
     {
      "text": "ⲇⲱⲣⲟⲩⲙⲉⲛⲟⲥ",
-     "start": 52.95,
-     "end": 62.78
+     "start": 52.34,
+     "end": null
     },
     {
      "text": "ⲧⲱ",
-     "start": 56.73,
-     "end": 63.85
+     "start": 56.38,
+     "end": null
     },
     {
      "text": "ⲕⲟⲥⲙⲱ",
-     "start": 57.85,
-     "end": 66.54
+     "start": 57.31,
+     "end": null
     },
     {
      "text": "ⲧⲏⲛ",
-     "start": 59.31,
-     "end": 68.15
+     "start": 59.15,
+     "end": null
     },
     {
      "text": "ⲍⲱⲏⲛ:",
-     "start": 60.33,
-     "end": 70.83
+     "start": 59.98,
+     "end": null
     }
    ]
   },
   {
    "line": "l2",
-   "start": 64.07,
+   "start": 63.94,
    "words": [
     {
      "text": "ⲇⲓⲁ",
-     "start": 64.07,
-     "end": 72.47
+     "start": 63.94,
+     "end": null
     },
     {
      "text": "ⲧⲟⲩⲧⲟ",
-     "start": 65.77,
-     "end": 75.21
+     "start": 65.68,
+     "end": null
     },
     {
      "text": "ⲉ̀ⲇⲩⲛⲁⲙⲓⲥ",
-     "start": 67.41,
-     "end": 80.13
+     "start": 67.24,
+     "end": null
     },
     {
      "text": "ⲧⲱⲛ",
-     "start": 70.83,
-     "end": 81.77
+     "start": 70.78,
+     "end": null
     },
     {
      "text": "ⲟⲩⲣⲁⲛⲱⲛ",
-     "start": 71.96,
-     "end": 85.6
+     "start": 71.71,
+     "end": null
     },
     {
      "text": "ⲉ̀ⲃⲟⲱⲛ",
-     "start": 76.49,
-     "end": 88.88
+     "start": 76.24,
+     "end": null
     },
     {
      "text": "ⲥⲓ",
-     "start": 81.0,
-     "end": 89.97
+     "start": 80.71,
+     "end": null
     },
     {
      "text": "ⲍⲱⲟ̀ⲇⲟⲧⲁ:",
-     "start": 82.59,
-     "end": 94.89
+     "start": 82.28,
+     "end": null
     },
     {
      "text": "ⲇⲟⲝⲁ",
-     "start": 89.03,
-     "end": 97.08
+     "start": 88.34,
+     "end": null
     },
     {
      "text": "ⲧⲏ",
-     "start": 90.65,
-     "end": 98.17
+     "start": 90.31,
+     "end": null
     },
     {
      "text": "Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ",
-     "start": 91.62,
-     "end": 103.09
+     "start": 91.34,
+     "end": null
     },
     {
      "text": "ⲥⲟⲩ",
-     "start": 94.47,
-     "end": 104.73
+     "start": 94.31,
+     "end": null
     },
     {
      "text": "Ⲭ̀ⲣⲓⲥⲧⲉ:",
-     "start": 95.21,
-     "end": 109.11
+     "start": 95.04,
+     "end": null
     },
     {
      "text": "ⲇⲟⲝⲁ",
-     "start": 97.84,
-     "end": 111.3
+     "start": 97.41,
+     "end": null
     },
     {
      "text": "ⲧⲏ",
-     "start": 99.35,
-     "end": 112.39
+     "start": 99.01,
+     "end": null
     },
     {
      "text": "ⲃⲁⲥⲓⲗⲓⲁ",
-     "start": 100.4,
-     "end": 116.22
+     "start": 100.08,
+     "end": null
     },
     {
      "text": "ⲥⲟⲩ:",
-     "start": 106.3,
-     "end": 118.41
+     "start": 105.94,
+     "end": null
     },
     {
      "text": "ⲇⲟⲝⲁ",
-     "start": 107.49,
-     "end": 120.59
+     "start": 107.21,
+     "end": null
     },
     {
      "text": "ⲧⲏ",
-     "start": 108.68,
-     "end": 121.69
+     "start": 108.31,
+     "end": null
     },
     {
      "text": "ⲟⲓⲕⲟⲛⲟⲙⲓⲁ",
-     "start": 109.65,
-     "end": 126.61
+     "start": 108.81,
+     "end": null
     },
     {
      "text": "ⲥⲟⲩ:",
-     "start": 115.19,
-     "end": 128.79
+     "start": 115.01,
+     "end": null
     },
     {
      "text": "ⲙⲟⲛⲉ",
-     "start": 116.48,
-     "end": 130.98
+     "start": 116.01,
+     "end": null
     },
     {
      "text": "Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
-     "start": 123.06,
-     "end": 137.54
+     "start": 122.61,
+     "end": null
     }
    ]
   }

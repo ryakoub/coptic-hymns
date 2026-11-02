@@ -1,6 +1,6 @@
 [
   {
-    "start": 4.49,
+    "start": 4.11,
     "coptic": "Ⲧⲟⲩ ⲗⲓⲑⲟⲩⲥ ⲫ̀ⲣⲁⲅⲓⲥⲑⲉⲛ ⲧⲟⲥ ⲩ̀ⲡⲟ ⲧⲱⲛ Ⲓⲟⲩⲇⲉⲱⲛ: ⲕⲉ ⲥ̀ⲧ̀ⲣⲁⲧⲓⲱ ⲧⲱⲛ ⲫⲩⲗⲁⲥⲥⲟⲛ ⲧⲱⲛ ⲧⲟ ⲁⲭⲣⲁⲛⲧⲟⲛ ⲥⲟⲩ Ⲥⲱⲙⲁ: ⲁ̀ⲛⲉⲥⲧⲏⲥ ⲧ̀ⲣⲓⲏ̀ⲙⲉⲣⲟⲥ Ⲥⲱⲧⲏⲣ: ⲇⲱⲣⲟⲩⲙⲉⲛⲟⲥ ⲧⲱ ⲕⲟⲥⲙⲱ ⲧⲏⲛ ⲍⲱⲏⲛ:",
     "translations": {
       "english": "When the stone was sealed by the Jews, and the soldiers were guarding Your undefiled Body, You rose on the third day, O Savior, granting life to the world."
@@ -8,128 +8,104 @@
     "words": [
       {
         "text": "Ⲧⲟⲩ",
-        "start": 4.49,
-        "end": 2.61
+        "start": 4.11
       },
       {
         "text": "ⲗⲓⲑⲟⲩⲥ",
-        "start": 5.31,
-        "end": 5.84
+        "start": 5.04
       },
       {
         "text": "ⲫ̀ⲣⲁⲅⲓⲥⲑⲉⲛ",
-        "start": 7.02,
-        "end": 11.21
+        "start": 6.71
       },
       {
         "text": "ⲧⲟⲥ",
-        "start": 10.55,
-        "end": 12.82
+        "start": 10.11
       },
       {
         "text": "ⲩ̀ⲡⲟ",
-        "start": 12.6,
-        "end": 14.97
+        "start": 11.98
       },
       {
         "text": "ⲧⲱⲛ",
-        "start": 14.18,
-        "end": 16.58
+        "start": 13.94
       },
       {
         "text": "Ⲓⲟⲩⲇⲉⲱⲛ:",
-        "start": 15.23,
-        "end": 20.88
+        "start": 14.95
       },
       {
         "text": "ⲕⲉ",
-        "start": 23.6,
-        "end": 21.95
+        "start": 23.01
       },
       {
         "text": "ⲥ̀ⲧ̀ⲣⲁⲧⲓⲱ",
-        "start": 24.17,
-        "end": 26.78
+        "start": 23.98
       },
       {
         "text": "ⲧⲱⲛ",
-        "start": 26.7,
-        "end": 28.4
+        "start": 26.31
       },
       {
         "text": "ⲫⲩⲗⲁⲥⲥⲟⲛ",
-        "start": 27.8,
-        "end": 32.69
+        "start": 27.31
       },
       {
         "text": "ⲧⲱⲛ",
-        "start": 30.87,
-        "end": 34.31
+        "start": 30.78
       },
       {
         "text": "ⲧⲟ",
-        "start": 31.86,
-        "end": 35.38
+        "start": 31.51
       },
       {
         "text": "ⲁⲭⲣⲁⲛⲧⲟⲛ",
-        "start": 32.72,
-        "end": 39.68
+        "start": 32.38
       },
       {
         "text": "ⲥⲟⲩ",
-        "start": 35.25,
-        "end": 41.29
+        "start": 35.01
       },
       {
         "text": "Ⲥⲱⲙⲁ:",
-        "start": 36.33,
-        "end": 43.97
+        "start": 35.81
       },
       {
         "text": "ⲁ̀ⲛⲉⲥⲧⲏⲥ",
-        "start": 40.28,
-        "end": 48.27
+        "start": 39.61
       },
       {
         "text": "ⲧ̀ⲣⲓⲏ̀ⲙⲉⲣⲟⲥ",
-        "start": 42.98,
-        "end": 54.18
+        "start": 42.21
       },
       {
         "text": "Ⲥⲱⲧⲏⲣ:",
-        "start": 46.52,
-        "end": 57.4
+        "start": 46.18
       },
       {
         "text": "ⲇⲱⲣⲟⲩⲙⲉⲛⲟⲥ",
-        "start": 52.95,
-        "end": 62.78
+        "start": 52.34
       },
       {
         "text": "ⲧⲱ",
-        "start": 56.73,
-        "end": 63.85
+        "start": 56.38
       },
       {
         "text": "ⲕⲟⲥⲙⲱ",
-        "start": 57.85,
-        "end": 66.54
+        "start": 57.31
       },
       {
         "text": "ⲧⲏⲛ",
-        "start": 59.31,
-        "end": 68.15
+        "start": 59.15
       },
       {
         "text": "ⲍⲱⲏⲛ:",
-        "start": 60.33,
-        "end": 70.83
+        "start": 59.98
       }
     ]
   },
   {
-    "start": 64.07,
+    "start": 63.94,
     "coptic": "ⲇⲓⲁ ⲧⲟⲩⲧⲟ ⲉ̀ⲇⲩⲛⲁⲙⲓⲥ ⲧⲱⲛ ⲟⲩⲣⲁⲛⲱⲛ ⲉ̀ⲃⲟⲱⲛ ⲥⲓ ⲍⲱⲟ̀ⲇⲟⲧⲁ: ⲇⲟⲝⲁ ⲧⲏ Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ ⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲉ: ⲇⲟⲝⲁ ⲧⲏ ⲃⲁⲥⲓⲗⲓⲁ ⲥⲟⲩ: ⲇⲟⲝⲁ ⲧⲏ ⲟⲓⲕⲟⲛⲟⲙⲓⲁ ⲥⲟⲩ: ⲙⲟⲛⲉ Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
     "translations": {
       "english": "For this reason, the heavenly powers cried out to You, O Giver of Life, “Glory to Your Resurrection O Christ. Glory to Your kingdom. Glory be to Your Economy, O You who alone are Lover of Mankind.”"
@@ -137,118 +113,95 @@
     "words": [
       {
         "text": "ⲇⲓⲁ",
-        "start": 64.07,
-        "end": 72.47
+        "start": 63.94
       },
       {
         "text": "ⲧⲟⲩⲧⲟ",
-        "start": 65.77,
-        "end": 75.21
+        "start": 65.68
       },
       {
         "text": "ⲉ̀ⲇⲩⲛⲁⲙⲓⲥ",
-        "start": 67.41,
-        "end": 80.13
+        "start": 67.24
       },
       {
         "text": "ⲧⲱⲛ",
-        "start": 70.83,
-        "end": 81.77
+        "start": 70.78
       },
       {
         "text": "ⲟⲩⲣⲁⲛⲱⲛ",
-        "start": 71.96,
-        "end": 85.6
+        "start": 71.71
       },
       {
         "text": "ⲉ̀ⲃⲟⲱⲛ",
-        "start": 76.49,
-        "end": 88.88
+        "start": 76.24
       },
       {
         "text": "ⲥⲓ",
-        "start": 81.0,
-        "end": 89.97
+        "start": 80.71
       },
       {
         "text": "ⲍⲱⲟ̀ⲇⲟⲧⲁ:",
-        "start": 82.59,
-        "end": 94.89
+        "start": 82.28
       },
       {
         "text": "ⲇⲟⲝⲁ",
-        "start": 89.03,
-        "end": 97.08
+        "start": 88.34
       },
       {
         "text": "ⲧⲏ",
-        "start": 90.65,
-        "end": 98.17
+        "start": 90.31
       },
       {
         "text": "Ⲁ̀ⲛⲁⲥⲧⲁⲥⲓ",
-        "start": 91.62,
-        "end": 103.09
+        "start": 91.34
       },
       {
         "text": "ⲥⲟⲩ",
-        "start": 94.47,
-        "end": 104.73
+        "start": 94.31
       },
       {
         "text": "Ⲭ̀ⲣⲓⲥⲧⲉ:",
-        "start": 95.21,
-        "end": 109.11
+        "start": 95.04
       },
       {
         "text": "ⲇⲟⲝⲁ",
-        "start": 97.84,
-        "end": 111.3
+        "start": 97.41
       },
       {
         "text": "ⲧⲏ",
-        "start": 99.35,
-        "end": 112.39
+        "start": 99.01
       },
       {
         "text": "ⲃⲁⲥⲓⲗⲓⲁ",
-        "start": 100.4,
-        "end": 116.22
+        "start": 100.08
       },
       {
         "text": "ⲥⲟⲩ:",
-        "start": 106.3,
-        "end": 118.41
+        "start": 105.94
       },
       {
         "text": "ⲇⲟⲝⲁ",
-        "start": 107.49,
-        "end": 120.59
+        "start": 107.21
       },
       {
         "text": "ⲧⲏ",
-        "start": 108.68,
-        "end": 121.69
+        "start": 108.31
       },
       {
         "text": "ⲟⲓⲕⲟⲛⲟⲙⲓⲁ",
-        "start": 109.65,
-        "end": 126.61
+        "start": 108.81
       },
       {
         "text": "ⲥⲟⲩ:",
-        "start": 115.19,
-        "end": 128.79
+        "start": 115.01
       },
       {
         "text": "ⲙⲟⲛⲉ",
-        "start": 116.48,
-        "end": 130.98
+        "start": 116.01
       },
       {
         "text": "Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ.",
-        "start": 123.06,
-        "end": 137.54
+        "start": 122.61
       }
     ]
   }

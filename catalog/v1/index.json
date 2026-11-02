@@ -1,6 +1,6 @@
 {
- "version": "add613f1f92402f4",
- "updated": "2026-10-31T14:24:59Z",
+ "version": "044e2c9c84199f37",
+ "updated": "2026-11-02T01:06:08Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -13665,8 +13665,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/tou-lithou.json",
-     "bytes": 4169,
-     "sha256": "ff02b831edc2dc5a109d03c33eff0280f4bd89f7aa1318db5eaa13caa90ee78e",
+     "bytes": 4122,
+     "sha256": "e788cd396bfb42362b34ca822ef6730f189584409537b229b74ee5e62f05c4ee",
      "role": "timing"
     },
     {
