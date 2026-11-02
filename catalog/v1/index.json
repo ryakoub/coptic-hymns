@@ -1,6 +1,6 @@
 {
- "version": "044e2c9c84199f37",
- "updated": "2026-11-02T01:06:08Z",
+ "version": "e9cd53b250a6902a",
+ "updated": "2026-11-02T01:25:14Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1229,6 +1229,50 @@
     "arabic": "مناسبات أخرى"
    },
    "collections": [
+    {
+     "id": "the-29th",
+     "titles": {
+      "english": "The 29th of the Month",
+      "arabic": "تذكار يوم ٢٩ من الشهر القبطي"
+     },
+     "dates": null,
+     "monthly": {
+      "day": 29,
+      "except": [
+       5,
+       6
+      ]
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": [
+        "the-29th-psali-watos",
+        "the-29th-psali-adam",
+        "the-29th-tarh-watos"
+       ]
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": [
+        "the-29th-verses-of-the-cymbals",
+        "the-29th-doxologies",
+        "the-29th-psalm-response",
+        "the-29th-conclusion"
+       ]
+      },
+      {
+       "service": "liturgy",
+       "entries": [
+        "the-29th-hitenyat",
+        "the-29th-praxis-responses",
+        "the-29th-aspasmos-adam",
+        "the-29th-aspasmos-watos",
+        "the-29th-distribution"
+       ]
+      }
+     ]
+    },
     {
      "id": "veneration",
      "titles": {
@@ -5708,6 +5752,270 @@
     "url": "catalog/v1/texts/teoi-enhekanos.json",
     "bytes": 55876,
     "sha256": "41a00465acaa570ae224c770aab67029e7d6246b943771cff0a6b16619e6252e"
+   }
+  },
+  {
+   "id": "the-29th-aspasmos-adam",
+   "titles": {
+    "english": "Aspasmos Adam · The 29th",
+    "arabic": "الأسبسمس الآدام · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-aspasmos-adam"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-aspasmos-adam.json",
+    "bytes": 307,
+    "sha256": "5fa09d15ed66d70e73035b7f1de9db1fb13841fc4fe5e46065faa59d7bcaefad"
+   }
+  },
+  {
+   "id": "the-29th-aspasmos-watos",
+   "titles": {
+    "english": "Aspasmos Watos · The 29th",
+    "arabic": "الأسبسمس الواطس · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-aspasmos-watos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-aspasmos-watos.json",
+    "bytes": 309,
+    "sha256": "cd98f0ae061b16de03ff28866ae309fd7c17f35917e6756bead772def75b2c65"
+   }
+  },
+  {
+   "id": "the-29th-conclusion",
+   "titles": {
+    "english": "Conclusion · The 29th",
+    "arabic": "الختام · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-conclusion"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-conclusion.json",
+    "bytes": 284,
+    "sha256": "6d04dfc56619ecc731ba2660e537e1a23dced54e34c92691102cf47bff5c30b3"
+   }
+  },
+  {
+   "id": "the-29th-distribution",
+   "titles": {
+    "english": "Distribution Hymn · The 29th",
+    "arabic": "لحن التوزيع · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-distribution"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-distribution.json",
+    "bytes": 302,
+    "sha256": "017d502bb466c3601095cc0d8ffff051056362d43c3f7d6658901a298145d9be"
+   }
+  },
+  {
+   "id": "the-29th-doxologies",
+   "titles": {
+    "english": "Doxologies · The 29th",
+    "arabic": "الذوكصولوجيات · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-doxologies"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-doxologies.json",
+    "bytes": 298,
+    "sha256": "b70daa0aaa2407e7f9714605dd3f655dbf7e28c7b0e937d166913f65adf9caa1"
+   }
+  },
+  {
+   "id": "the-29th-hitenyat",
+   "titles": {
+    "english": "Hitenyat · The 29th",
+    "arabic": "الهيتنيات · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-hitenyat"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-hitenyat.json",
+    "bytes": 286,
+    "sha256": "4cc28f36fa96e7872d6897e562ea370dc29a97d679a3a3048b28162e8f3be445"
+   }
+  },
+  {
+   "id": "the-29th-praxis-responses",
+   "titles": {
+    "english": "Praxis Responses · The 29th",
+    "arabic": "مردات الإبركسيس · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-praxis-responses"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-praxis-responses.json",
+    "bytes": 313,
+    "sha256": "76b7b46bdf75174f52f246f2bb0cd9a4b96c3e726911f990f73a72abfed2a0e5"
+   }
+  },
+  {
+   "id": "the-29th-psali-adam",
+   "titles": {
+    "english": "Psali Adam · The 29th",
+    "arabic": "إبصالية آدام · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-psali-adam"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-psali-adam.json",
+    "bytes": 295,
+    "sha256": "66fc259ff760fb1fba08884ce7a346be772f6e3c246d66ca21ab36c9240e07e7"
+   }
+  },
+  {
+   "id": "the-29th-psali-watos",
+   "titles": {
+    "english": "Psali Watos · The 29th",
+    "arabic": "إبصالية واطس · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-psali-watos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-psali-watos.json",
+    "bytes": 297,
+    "sha256": "edfe5d660988f1ad538a4e091b38e141d24e33b371f525be0700acee06dce551"
+   }
+  },
+  {
+   "id": "the-29th-psalm-response",
+   "titles": {
+    "english": "Psalm Response · The 29th",
+    "arabic": "مرد المزمور · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-psalm-response"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-psalm-response.json",
+    "bytes": 301,
+    "sha256": "057a282396d4e397e4cafce41cc3c2d7dbce11bcae0f587be562d0f34a5f95f7"
+   }
+  },
+  {
+   "id": "the-29th-tarh-watos",
+   "titles": {
+    "english": "Tarh Watos · The 29th",
+    "arabic": "طرح واطس · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-tarh-watos"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-tarh-watos.json",
+    "bytes": 287,
+    "sha256": "3b53f130cfdcb282c36e7835064c2edfded3f72badc8e8128790eec8425f6bf7"
+   }
+  },
+  {
+   "id": "the-29th-verses-of-the-cymbals",
+   "titles": {
+    "english": "Verses of the Cymbals · The 29th",
+    "arabic": "أرباع الناقوس · تذكار ٢٩"
+   },
+   "tags": [],
+   "pending": true,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "the-29th-verses-of-the-cymbals"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/the-29th-verses-of-the-cymbals.json",
+    "bytes": 319,
+    "sha256": "a1e5ffa114924e4885f51b360ab6e235b7c4f200679480d37dfd861c472feeec"
    }
   },
   {
@@ -13431,6 +13739,318 @@
      "role": "audio",
      "bytes": 11808953,
      "sha256": "91cb5352134c11790ea819da76ba617150298b2aecc5d413877a1a3630af079b"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-aspasmos-adam",
+   "text": "the-29th-aspasmos-adam",
+   "duration": 245.29,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-aspasmos-adam/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-aspasmos-adam.json",
+     "bytes": 135,
+     "sha256": "8fe39a1d6a309c8cc06dc76a375636a39c77923bb94aa5db27a1b8322cf4164d",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-aspasmos-adam/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1475413,
+     "sha256": "4415f91c9afd3b16321acd6b2500e01ed088aff423369efcdf5ec3c418b1c58c"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-aspasmos-watos",
+   "text": "the-29th-aspasmos-watos",
+   "duration": 448.73,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-aspasmos-watos/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-aspasmos-watos.json",
+     "bytes": 137,
+     "sha256": "1636d5afd96145492a8e94180e29b26a53344b11fdd42bb9c0ff67d4cce1828b",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-aspasmos-watos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2691101,
+     "sha256": "9b03ac363010fae885530cbfca6e7e070dd604e2f2aab36a6300e35b07e072cd"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-conclusion",
+   "text": "the-29th-conclusion",
+   "duration": 69.43,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-conclusion/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-conclusion.json",
+     "bytes": 129,
+     "sha256": "ebd804407d0cb0996f96356b4caa30c215c7390dcb38417da2a43243342cd19e",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-conclusion/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 418190,
+     "sha256": "c69616ef4d38249d22c22e7184e5fceacd35f76a04daaa89700f60b2a3a309fa"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-distribution",
+   "text": "the-29th-distribution",
+   "duration": 516.23,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-distribution/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-distribution.json",
+     "bytes": 133,
+     "sha256": "e990a5db8ee873beef70c4a616a2c8324d251cd84d76b2bb4d726e89c70ade12",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-distribution/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 3099084,
+     "sha256": "627fd6a801af59e0b929561f4dc4f2a37b72098a4246382e71bf294b105193ba"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-doxologies",
+   "text": "the-29th-doxologies",
+   "duration": 531.17,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-doxologies/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-doxologies.json",
+     "bytes": 129,
+     "sha256": "900d2590eb84ed136e458dfc455600c69ad4d6415fed6cd26d8ef0bfdd2a8c02",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-doxologies/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 3186806,
+     "sha256": "10bba5aa88e726f2446b07c125b7768c8f8c7925d4ef6c4a23359f96586f023a"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-hitenyat",
+   "text": "the-29th-hitenyat",
+   "duration": 718.65,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-hitenyat/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-hitenyat.json",
+     "bytes": 125,
+     "sha256": "15851dd588392cfd73489ba42a9747da2678ac15ff8558104ce017b493517b30",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-hitenyat/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 4310591,
+     "sha256": "ace6afa87e7f89c2d827c3a0a63db0517ef713960e397809d6bb0b06e5947318"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-praxis-responses",
+   "text": "the-29th-praxis-responses",
+   "duration": 359.34,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-praxis-responses/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-praxis-responses.json",
+     "bytes": 141,
+     "sha256": "b508cad3a28835a9b75c12ff8a2355b33d0bb697da5b280737b1fb0fa5024aa7",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-praxis-responses/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 2155825,
+     "sha256": "ad55ff84eedbde002687699c09204d370a5f3876abdcef95540e19260f059ee7"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-psali-adam",
+   "text": "the-29th-psali-adam",
+   "duration": 545.54,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-psali-adam/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-psali-adam.json",
+     "bytes": 129,
+     "sha256": "6794045f504bc03524172fdca072ce9559a9ebd33286680416a8b14b9264a24e",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-psali-adam/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 3273363,
+     "sha256": "17455e5db41bd4fdf784919c4ad5f6be71c3ab7afc2b528d036752fdea620b31"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-psali-watos",
+   "text": "the-29th-psali-watos",
+   "duration": 526.86,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-psali-watos/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-psali-watos.json",
+     "bytes": 131,
+     "sha256": "e7346f5661f2b7588c89ab59872f38c75a1c9eac4a10f1696ee62a72284dd1b6",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-psali-watos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 3167028,
+     "sha256": "7e5342b393e130bb84b50694794a2990cb8a541066a19c3caaa37de9542a4d0f"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-psalm-response",
+   "text": "the-29th-psalm-response",
+   "duration": 74.24,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-psalm-response/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-psalm-response.json",
+     "bytes": 137,
+     "sha256": "b0ca29681fda5d9e95f05bc14905b9f2151fe483973afa15abc0d1a4539b6960",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-psalm-response/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 446771,
+     "sha256": "c57b159b184a01adaf0ed9be1ac7e8d387570c23ec190361f9ff5a4422e2c809"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-tarh-watos",
+   "text": "the-29th-tarh-watos",
+   "duration": 194.72,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-tarh-watos/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-tarh-watos.json",
+     "bytes": 129,
+     "sha256": "bc64ed9327e6ce190aa4042b0b3666f38de5fdefb9082bf6cb53d929af6b2f6a",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-tarh-watos/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1167032,
+     "sha256": "c7aebb70c08507cfd60828a1e4386450cf62e956977e67da9c7371977532c731"
+    }
+   ]
+  },
+  {
+   "id": "the-29th-verses-of-the-cymbals",
+   "text": "the-29th-verses-of-the-cymbals",
+   "duration": 270.71,
+   "timing": {
+    "lines": 1,
+    "words": 0,
+    "of": 1
+   },
+   "source": "content/the-29th/the-29th-verses-of-the-cymbals/",
+   "cantor": "Moallem Ibrahim Ayad",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-29th-verses-of-the-cymbals.json",
+     "bytes": 151,
+     "sha256": "1a68b7422999a3f6c6f1ab5a06b8ab2ef14bba20e110f48749a2a4f3bba21490",
+     "role": "timing"
+    },
+    {
+     "url": "content/the-29th/the-29th-verses-of-the-cymbals/audio.seek.m4a",
+     "role": "audio",
+     "bytes": 1629447,
+     "sha256": "80c85dfe4665a1cb99b2fe48182ffbad7efc1544a9dca2fba5038b89c61ca6c0"
     }
    ]
   },

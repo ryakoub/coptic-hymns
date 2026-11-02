@@ -877,6 +877,35 @@
    },
    "collections": [
     {
+     "id": "the-29th",
+     "titles": {
+      "english": "The 29th of the Month",
+      "arabic": "تذكار يوم ٢٩ من الشهر القبطي"
+     },
+     "dates": null,
+     "monthly": {
+      "day": 29,
+      "except": [
+       5,
+       6
+      ]
+     },
+     "sections": [
+      {
+       "service": "midnight-praises",
+       "entries": []
+      },
+      {
+       "service": "raising-of-incense",
+       "entries": []
+      },
+      {
+       "service": "liturgy",
+       "entries": []
+      }
+     ]
+    },
+    {
      "id": "veneration",
      "titles": {
       "english": "Veneration",
