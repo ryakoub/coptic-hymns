@@ -262,9 +262,14 @@ class Build:
         recording id, to follow that recording's audio without another copy of it. "draft": true keeps the
         notation out of the catalog (until it is marked) unless the build is run with --drafts. Each notation
         gets "texts": the hymns it is a version of (those of its recordings, and any named in "texts", e.g. the
-        recital Ten Theeno for the melismatic one), so a hymn can lead to its score."""
+        recital Ten Theeno for the melismatic one), so a hymn can lead to its score.
+
+        "locked": true is a score shared only by permission: its "pdf" is sealed by tools/lock_pdf.swift (the PDF
+        itself never comes into this public repo), it goes in "lockedNotations" (and each collection's
+        "lockedNotations"), which only builds that can open it read, and the app offers no copy of it.
+        "permission": {"english": …, "arabic": …} is shown with it. Returns (open, locked)."""
         collections = {c["id"]: c for g in library["groups"] for c in g["collections"]}
-        out = []
+        out, locked = [], []
         for path in sorted((CONTENT / "notations").glob("*/notation.json")):
             nid, folder = path.parent.name, path.parent
             try:
@@ -278,6 +283,11 @@ class Build:
             pdf = folder / n.get("pdf", "notation.pdf")
             if not pdf.exists():
                 self.error(nid, f"no PDF {pdf.name}")
+                continue
+            is_locked = bool(n.get("locked"))
+            if is_locked != pdf.read_bytes()[:5].startswith(b"CCLK1"):
+                self.error(nid, "locked: the PDF must be sealed with tools/lock_pdf.swift" if is_locked
+                           else f"{pdf.name} is sealed, but notation.json doesn't say \"locked\": true")
                 continue
             ref = lambda f, role: {"url": f.relative_to(ROOT).as_posix(), "role": role, "bytes": f.stat().st_size, "sha256": sha256_file(f)}
             recs, texts = [], list(n.get("texts", []))
@@ -306,7 +316,11 @@ class Build:
             entry = {"id": nid, "titles": n.get("titles", {}), "kind": n.get("kind", "score"), "pdf": ref(pdf, "pdf"),
                      "recordings": recs, **({"credit": n["credit"]} if n.get("credit") else {}),
                      **({"cursor": n["cursor"]} if n.get("cursor") else {}),
-                     **({"texts": list(dict.fromkeys(texts))} if texts else {})}
+                     **({"texts": list(dict.fromkeys(texts))} if texts else {}),
+                     **({"locked": True} if is_locked else {}),
+                     **({"permission": n["permission"]} if n.get("permission") else {})}
+            if is_locked and not n.get("permission"):
+                self.warn(nid, "locked without \"permission\" (whose, in English and Arabic)")
             for t in n.get("texts", []):
                 if t not in self.texts:
                     self.error(nid, f"texts names {t!r}, which is not a hymn")
@@ -318,9 +332,9 @@ class Build:
                 if c is None:
                     self.error(nid, f"places it in {place}, which is not in the library")
                     continue
-                c.setdefault("notations", []).append(nid)
-            out.append(entry)
-        return out
+                c.setdefault("lockedNotations" if is_locked else "notations", []).append(nid)
+            (locked if is_locked else out).append(entry)
+        return out, locked
 
     def apply_places(self, library):
         """Add each recording to the library sections its info.json names, after any listed in library.json."""
@@ -482,7 +496,7 @@ def main():
     library = json.loads(LIBRARY.read_text(encoding="utf-8"))
     b.apply_places(library)
     b.check_library(library)
-    notations_out = b.notations(library)
+    notations_out, locked_out = b.notations(library)
 
     texts_out = []
     for tid, t in sorted(b.texts.items()):
@@ -514,6 +528,7 @@ def main():
         if credits_path.exists() else None
     payload = {"schema": SCHEMA, "baseUrl": BASE_URL, "services": library["services"], "library": library["groups"],
                "texts": texts_out, "recordings": recordings_out, "notations": notations_out,
+               **({"lockedNotations": locked_out} if locked_out else {}),
                **({"credits": credits} if credits else {})}
     # The version changes only when content does, so the app can tell cheaply whether anything is new.
     version = sha256_bytes(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode())[:16]
