@@ -4,8 +4,10 @@
     "arabic": "الختام · تذكار ٢٩"
   },
   "places": [
-    "the-29th/raising-of-incense"
+    "the-29th/raising-of-incense",
+    "the-29th/liturgy"
   ],
   "order": 90,
-  "cantor": "Moallem Ibrahim Ayad"
+  "cantor": "Moallem Ibrahim Ayad",
+  "youtube": "https://www.youtube.com/watch?v=uFemhlbV8eo"
 }

@@ -893,15 +893,34 @@
      "sections": [
       {
        "service": "midnight-praises",
-       "entries": []
+       "entries": [
+        "the-29th-psali-watos",
+        "the-29th-psali-adam",
+        "the-29th-tarh-watos"
+       ]
       },
       {
        "service": "raising-of-incense",
-       "entries": []
+       "entries": [
+        "the-29th-verses-of-the-cymbals",
+        "the-29th-doxologies",
+        "the-29th-psalm-response",
+        "the-29th-gospel-response",
+        "the-29th-conclusion"
+       ]
       },
       {
        "service": "liturgy",
-       "entries": []
+       "entries": [
+        "the-29th-hitenyat",
+        "the-29th-praxis-responses",
+        "the-29th-psalm-response",
+        "the-29th-gospel-response",
+        "the-29th-aspasmos-adam",
+        "the-29th-aspasmos-watos",
+        "the-29th-distribution",
+        "the-29th-conclusion"
+       ]
       }
      ]
     },
