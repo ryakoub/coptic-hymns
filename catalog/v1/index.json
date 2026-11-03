@@ -1,6 +1,6 @@
 {
- "version": "d4ba45e1f08599fb",
- "updated": "2026-11-03T05:29:38Z",
+ "version": "d3ae70e7f6f8a998",
+ "updated": "2026-11-03T20:11:22Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5609,6 +5609,7 @@
    ],
    "recordings": [
     "ten-oosht-evol-basil",
+    "ten-oosht-evol-english-chie",
     "ten-oosht-evol-gregory",
     "ten-oosht-evol-vespers-matins",
     "we-look-for-the-resurrection-english"
@@ -5737,8 +5738,7 @@
    ],
    "recordings": [
     "tennav",
-    "tennav-english",
-    "tennav-english-chie"
+    "tennav-english"
    ],
    "file": {
     "url": "catalog/v1/texts/tennav.json",
@@ -14752,6 +14752,36 @@
    ]
   },
   {
+   "id": "ten-oosht-evol-english-chie",
+   "text": "ten-oosht-evol-basil",
+   "duration": 30.06,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/16/track/49",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-oosht-evol-english-chie.json",
+     "bytes": 97,
+     "sha256": "fbcdc886f89fcc0c352a00ea5895706a1e54aa74e98f15b2112dae986cbe39c1",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ten-oosht-evol-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 446940,
+     "sha256": "fd3372412c5979a413f7b0b310465704f949ab18c722fb46a4164c5aede641ff"
+    }
+   ]
+  },
+  {
    "id": "ten-oosht-evol-gregory",
    "text": "ten-oosht-evol-basil",
    "duration": 92.53,
@@ -15036,36 +15066,6 @@
      "role": "audio",
      "bytes": 6133075,
      "sha256": "88d38d1f9ac7d4767d6c963f4be3c106c7a812ee0b10d4c42b5c487e61d1b269"
-    }
-   ]
-  },
-  {
-   "id": "tennav-english-chie",
-   "text": "tennav",
-   "duration": 30.06,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "https://www.coptichymnsinenglish.com/album/16/track/49",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
-   "cantor": "Coptic Hymns in English",
-   "language": "english",
-   "files": [
-    {
-     "url": "catalog/v1/timings/tennav-english-chie.json",
-     "bytes": 75,
-     "sha256": "5feee4f0988ae1cc8a9132e0b152c379dde3c471ee6207edce61b0c995fafffb",
-     "role": "timing"
-    },
-    {
-     "url": "content/english/tennav-english-chie/audio.m4a",
-     "role": "audio",
-     "bytes": 446940,
-     "sha256": "fd3372412c5979a413f7b0b310465704f949ab18c722fb46a4164c5aede641ff"
     }
    ]
   },
