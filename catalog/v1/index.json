@@ -1,6 +1,6 @@
 {
- "version": "9fb743bce0fc4d9a",
- "updated": "2026-11-03T03:17:26Z",
+ "version": "8861f04b54491374",
+ "updated": "2026-11-03T03:53:28Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2163,7 +2163,8 @@
     "english"
    ],
    "recordings": [
-    "concluding-canon-annual"
+    "concluding-canon-annual",
+    "concluding-canon-annual-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual.json",
@@ -2189,7 +2190,8 @@
     "english"
    ],
    "recordings": [
-    "concluding-canon-annual-liturgy"
+    "concluding-canon-annual-liturgy",
+    "concluding-canon-annual-liturgy-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual-liturgy.json",
@@ -2656,7 +2658,8 @@
     "english"
    ],
    "recordings": [
-    "doxology-kiahk-6"
+    "doxology-kiahk-6",
+    "doxology-kiahk-6-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-kiahk-6.json",
@@ -2886,7 +2889,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "ethbe-ti-anastasis"
+    "ethbe-ti-anastasis",
+    "ethbe-ti-anastasis-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/ethbe-ti-anastasis.json",
@@ -3165,7 +3169,8 @@
    ],
    "recordings": [
     "gospel-response-vespers-annual",
-    "gospel-response-matins-annual"
+    "gospel-response-matins-annual",
+    "gospel-response-vespers-annual-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-response-vespers-annual.json",
@@ -3367,7 +3372,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "hymn-of-the-blessing"
+    "hymn-of-the-blessing",
+    "hymn-of-the-blessing-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/hymn-of-the-blessing.json",
@@ -3417,7 +3423,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "joyful-agios-major"
+    "joyful-agios-major",
+    "joyful-agios-major-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/joyful-agios-major.json",
@@ -3779,7 +3786,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "ou-katikisis"
+    "ou-katikisis",
+    "ou-katikisis-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/ou-katikisis.json",
@@ -3800,7 +3808,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "paralex-of-resurrection"
+    "paralex-of-resurrection",
+    "paralex-of-resurrection-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/paralex-of-resurrection.json",
@@ -3845,7 +3854,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "pi-christos-aftonf"
+    "pi-christos-aftonf",
+    "pi-christos-aftonf-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/pi-christos-aftonf.json",
@@ -3871,7 +3881,8 @@
     "english"
    ],
    "recordings": [
-    "pi-ehmot-ghar-small"
+    "pi-ehmot-ghar-small",
+    "pi-ehmot-ghar-small-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/pi-ehmot-ghar-small.json",
@@ -4000,7 +4011,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "praxis-response-feast-cross"
+    "praxis-response-feast-cross",
+    "praxis-response-feast-cross-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-feast-cross.json",
@@ -4055,7 +4067,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "praxis-response-resurrection"
+    "praxis-response-resurrection",
+    "praxis-response-resurrection-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-resurrection.json",
@@ -4268,7 +4281,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "refrain-third-hour-pentecost"
+    "refrain-third-hour-pentecost",
+    "refrain-third-hour-pentecost-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/refrain-third-hour-pentecost.json",
@@ -4929,7 +4943,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "second-doxology-resurrection"
+    "second-doxology-resurrection",
+    "second-doxology-resurrection-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/second-doxology-resurrection.json",
@@ -5657,7 +5672,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "ten-thinou"
+    "ten-thinou",
+    "ten-thinou-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-thinou.json",
@@ -5683,7 +5699,8 @@
     "english"
    ],
    "recordings": [
-    "tenen"
+    "tenen",
+    "tenen-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/tenen.json",
@@ -6092,7 +6109,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "the-thought-of-man"
+    "the-thought-of-man",
+    "the-thought-of-man-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/the-thought-of-man.json",
@@ -6142,7 +6160,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "this-is-the-day"
+    "this-is-the-day",
+    "this-is-the-day-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/this-is-the-day.json",
@@ -6168,7 +6187,8 @@
     "english"
    ],
    "recordings": [
-    "ti-galilee"
+    "ti-galilee",
+    "ti-galilee-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/ti-galilee.json",
@@ -6194,7 +6214,9 @@
     "english"
    ],
    "recordings": [
-    "ti-stoli"
+    "ti-stoli",
+    "ti-stoli-english-chie",
+    "ti-stoli-english-chie-2"
    ],
    "file": {
     "url": "catalog/v1/texts/ti-stoli.json",
@@ -6277,7 +6299,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "verse-cymbals-feast-cross"
+    "verse-cymbals-feast-cross",
+    "verse-cymbals-feast-cross-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/verse-cymbals-feast-cross.json",
@@ -7728,6 +7751,36 @@
    ]
   },
   {
+   "id": "concluding-canon-annual-english-chie",
+   "text": "concluding-canon-annual",
+   "duration": 62.35,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/16/track/50",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-canon-annual-english-chie.json",
+     "bytes": 109,
+     "sha256": "3af1e0ec437bd93bea76d2357387a97d918fcf52e794390a48fa04e2ea777a5d",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/concluding-canon-annual-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1085592,
+     "sha256": "b02ed0877e01e640bff2f92ca8f09b6fe8da079bd1f3529f94cbae1847fd857d"
+    }
+   ]
+  },
+  {
    "id": "concluding-canon-annual-liturgy",
    "text": "concluding-canon-annual-liturgy",
    "duration": 55.34,
@@ -7753,6 +7806,36 @@
      "role": "audio",
      "bytes": 897592,
      "sha256": "9378cbd9d7f9eaa732b737d63b9a8640b465bbe3fb3985511ab4a7bdfe406d9d"
+    }
+   ]
+  },
+  {
+   "id": "concluding-canon-annual-liturgy-english-chie",
+   "text": "concluding-canon-annual-liturgy",
+   "duration": 62.35,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/16/track/50",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/concluding-canon-annual-liturgy-english-chie.json",
+     "bytes": 125,
+     "sha256": "3a36c755504ab71d9bfde50cd72e1b4945d9eb85bdbc07cbd2d6a8357547f03d",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/concluding-canon-annual-liturgy-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1085592,
+     "sha256": "b02ed0877e01e640bff2f92ca8f09b6fe8da079bd1f3529f94cbae1847fd857d"
     }
    ]
   },
@@ -8472,6 +8555,36 @@
    ]
   },
   {
+   "id": "doxology-kiahk-6-english-chie",
+   "text": "doxology-kiahk-6",
+   "duration": 96.89,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/30/track/454",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/doxology-kiahk-6-english-chie.json",
+     "bytes": 95,
+     "sha256": "2ae742f30055124f1fc52cb2c03d2ffad2ac0188052b7f4b91807efb7f407beb",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/doxology-kiahk-6-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1872119,
+     "sha256": "39bbf42f2065832c1f8b3ca322ce2138a70a3656ba1c6b21a98a16468620346c"
+    }
+   ]
+  },
+  {
    "id": "doxology-resurrection",
    "text": "doxology-resurrection",
    "duration": 176.0,
@@ -8799,6 +8912,36 @@
      "role": "audio",
      "bytes": 10141132,
      "sha256": "3514a2865e1c216925fd0b4d3724c863a40fff249e4905f9e0e9edda2059fcd1"
+    }
+   ]
+  },
+  {
+   "id": "ethbe-ti-anastasis-english-chie",
+   "text": "ethbe-ti-anastasis",
+   "duration": 461.87,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/10/track/29",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ethbe-ti-anastasis-english-chie.json",
+     "bytes": 99,
+     "sha256": "9100a5431d1aa32c3bbd284cfab690c7488810e50b736cb243011c595569137a",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ethbe-ti-anastasis-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 9387259,
+     "sha256": "c24a7eeb7369c94c69df4f5dc9ef9a6f5e23a3ebbbaa9b60a0eab4e7b15bf268"
     }
    ]
   },
@@ -9371,6 +9514,36 @@
    ]
   },
   {
+   "id": "gospel-response-vespers-annual-english-chie",
+   "text": "gospel-response-vespers-annual",
+   "duration": 45.04,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/16/track/220",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/gospel-response-vespers-annual-english-chie.json",
+     "bytes": 123,
+     "sha256": "35223cb8104821cadb77096ef496b5f22a4d2e4385876cddb8680a19ea73fa62",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/gospel-response-vespers-annual-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 893227,
+     "sha256": "a63ed77d726653c06841e249a71931f482447e0cde8b81d5bc8834bebabb6c54"
+    }
+   ]
+  },
+  {
    "id": "hetenyat-annual",
    "text": "hetenyat-annual",
    "duration": 674.42,
@@ -9606,6 +9779,36 @@
      "role": "audio",
      "bytes": 2837688,
      "sha256": "584cbd836e0770eb719316e09277a7b9cd4e2b793f3f49354939aff96ca41420"
+    }
+   ]
+  },
+  {
+   "id": "hymn-of-the-blessing-english-chie",
+   "text": "hymn-of-the-blessing",
+   "duration": 156.87,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/19/track/63",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/hymn-of-the-blessing-english-chie.json",
+     "bytes": 103,
+     "sha256": "ec1b3c6213c54186901f517a2a59fdfbd03eab83bd448b5ac4f841fc8e223f64",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/hymn-of-the-blessing-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 3088837,
+     "sha256": "566f4471ddd6517d2d4dc8a3c2d84a938efe0621b7e43f7b1b346488df2e907e"
     }
    ]
   },
@@ -10235,6 +10438,36 @@
      "role": "audio",
      "bytes": 4650028,
      "sha256": "b203c6cba8c71daeb99b40009aa6f6c859b54e5d6733ddcc94f1fbfd0e367b16"
+    }
+   ]
+  },
+  {
+   "id": "joyful-agios-major-english-chie",
+   "text": "joyful-agios-major",
+   "duration": 151.3,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/5/track/159",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/joyful-agios-major-english-chie.json",
+     "bytes": 99,
+     "sha256": "2eff736efda8ce224413cc30d980b00b31d5ed23e30ac1aa8bbeeeac9989ccbc",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/joyful-agios-major-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 2985522,
+     "sha256": "f5cc2e170e2998f1195e924c931a77bda728997478672538cb279f0e0017195c"
     }
    ]
   },
@@ -11008,6 +11241,36 @@
    ]
   },
   {
+   "id": "ou-katikisis-english-chie",
+   "text": "ou-katikisis",
+   "duration": 523.73,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/55/track/62",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ou-katikisis-english-chie.json",
+     "bytes": 87,
+     "sha256": "c8395bb723b36e212f8d76fd68d550f9533825551bd09e968d6afa69a277b24a",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ou-katikisis-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 10368877,
+     "sha256": "92957830325d4496e0d9c5f634c0ef9937f86b7164a7687d7d548e857c56fd4f"
+    }
+   ]
+  },
+  {
    "id": "paralex-of-resurrection",
    "text": "paralex-of-resurrection",
    "duration": 168.47,
@@ -11030,6 +11293,36 @@
      "role": "audio",
      "bytes": 2543447,
      "sha256": "a7898d6e98879c3ed5c7c726416f0520e930ebe26a2e17170e71a4bc5d9a44ea"
+    }
+   ]
+  },
+  {
+   "id": "paralex-of-resurrection-english-chie",
+   "text": "paralex-of-resurrection",
+   "duration": 129.25,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/5/track/526",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/paralex-of-resurrection-english-chie.json",
+     "bytes": 109,
+     "sha256": "a50b9aaa753eefa57ccdf8bd34196a8bbed57c15ca7441ec2e5a93441b164c9a",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/paralex-of-resurrection-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 2095297,
+     "sha256": "1f2c438ac64ab26543a888076b4a044180aab6af7514e8dfb958e002d8af6538"
     }
    ]
   },
@@ -11086,6 +11379,36 @@
    ]
   },
   {
+   "id": "pi-christos-aftonf-english-chie",
+   "text": "pi-christos-aftonf",
+   "duration": 237.9,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/5/track/589",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/pi-christos-aftonf-english-chie.json",
+     "bytes": 99,
+     "sha256": "c9144e48c2dfa6c550a19586baa4f5c1253c871136e82e13f7a9965ed71d753b",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/pi-christos-aftonf-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 4702146,
+     "sha256": "fc3075a0f9b858f31212f9d37cba569492e2b238c23048a4fa8623e899852dc9"
+    }
+   ]
+  },
+  {
    "id": "pi-ehmot-ghar-small",
    "text": "pi-ehmot-ghar-small",
    "duration": 223.89,
@@ -11108,6 +11431,36 @@
      "role": "audio",
      "bytes": 3621660,
      "sha256": "dc562bd74e1e29d86d72af8f7d609df0b5df0eb64517235e2d0cd5c8a9c88d79"
+    }
+   ]
+  },
+  {
+   "id": "pi-ehmot-ghar-small-english-chie",
+   "text": "pi-ehmot-ghar-small",
+   "duration": 96.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/38/track/655",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/pi-ehmot-ghar-small-english-chie.json",
+     "bytes": 101,
+     "sha256": "c4f984cc641d1451448c0d5f5dfb1b67610730fe88ae24ed8bbbfcb6fa64f89f",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/pi-ehmot-ghar-small-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1967109,
+     "sha256": "f6d1655c8fb999cdbb238078a6dd07a5f88352a216745c57794a66abd3e4aad2"
     }
    ]
   },
@@ -11331,6 +11684,36 @@
    ]
   },
   {
+   "id": "praxis-response-feast-cross-english-chie",
+   "text": "praxis-response-feast-cross",
+   "duration": 98.64,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/7/track/441",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-feast-cross-english-chie.json",
+     "bytes": 117,
+     "sha256": "79378aad1e5e509b70a44833afde40eca472a0f88ab08fe6040e87c451b5bb0f",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/praxis-response-feast-cross-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1658938,
+     "sha256": "95d791ac6253acbe241c5cb5f2cd4fa728ad493544672264c4dc02a8ebdd79ec"
+    }
+   ]
+  },
+  {
    "id": "praxis-response-kiahk",
    "text": "praxis-response-kiahk",
    "duration": 127.34,
@@ -11409,6 +11792,36 @@
      "role": "audio",
      "bytes": 1542822,
      "sha256": "89d5815b48c12b9008f57bcd878ac1e0bfa1ee09be8f162b74b33192cab39914"
+    }
+   ]
+  },
+  {
+   "id": "praxis-response-resurrection-english-chie",
+   "text": "praxis-response-resurrection",
+   "duration": 101.22,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/5/track/224",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/praxis-response-resurrection-english-chie.json",
+     "bytes": 119,
+     "sha256": "f8d7977d1fa238e286a5af487eae66bb4e55a4cce5ba966ae2f57f32a41951ba",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/praxis-response-resurrection-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1669925,
+     "sha256": "4ef674a88abe24631c987ab7f58cc548181144a802c6140f66897e21ac1ddc27"
     }
    ]
   },
@@ -11800,6 +12213,36 @@
      "role": "audio",
      "bytes": 1082535,
      "sha256": "43733abecaf053c92aac076827a8c3bcbb47d49b5a7633ed4f07ca327d8702ea"
+    }
+   ]
+  },
+  {
+   "id": "refrain-third-hour-pentecost-english-chie",
+   "text": "refrain-third-hour-pentecost",
+   "duration": 92.16,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/22/track/514",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/refrain-third-hour-pentecost-english-chie.json",
+     "bytes": 119,
+     "sha256": "70d4ac25998ca200ef551cb5cf68096ae5e30aa35fe2e4d36c81ed27329c1daf",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/refrain-third-hour-pentecost-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1632987,
+     "sha256": "eed28781efcfd83434ca1dcf095a4c3854db0b3e12e6cdeb395485501af9afba"
     }
    ]
   },
@@ -12802,6 +13245,36 @@
      "role": "audio",
      "bytes": 1910545,
      "sha256": "b8ffd311137e8bd2a66777d895271bf20f50ec13a1feb88bf2f5c691cb7dfd5a"
+    }
+   ]
+  },
+  {
+   "id": "second-doxology-resurrection-english-chie",
+   "text": "second-doxology-resurrection",
+   "duration": 66.01,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/54/track/712",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/second-doxology-resurrection-english-chie.json",
+     "bytes": 119,
+     "sha256": "43da59d24e7f69ff747186e01ba7306c4bf283e37565f6316550ee4cf5f60586",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/second-doxology-resurrection-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1277129,
+     "sha256": "740bb2b6080390665900d268f747eefaa464ca35cf1e316ad8ea0663a85c6299"
     }
    ]
   },
@@ -14418,6 +14891,36 @@
    ]
   },
   {
+   "id": "ten-thinou-english-chie",
+   "text": "ten-thinou",
+   "duration": 418.61,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/18/track/36",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-thinou-english-chie.json",
+     "bytes": 83,
+     "sha256": "11c4fd99612a3ad317a6c2307d4b3342d4a103208c9da11952dc0a96c79b701b",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ten-thinou-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 8551053,
+     "sha256": "1550aa3b67870768ccfb684885b608199234f617bab608ed8c6f5c58b73b5b83"
+    }
+   ]
+  },
+  {
    "id": "tenen",
    "text": "tenen",
    "duration": 744.27,
@@ -14440,6 +14943,36 @@
      "role": "audio",
      "bytes": 12037443,
      "sha256": "92015cfe7c2e529aaf2725d2047f2e64b4c39bc763c17ef4b36741a32e7d005b"
+    }
+   ]
+  },
+  {
+   "id": "tenen-english-chie",
+   "text": "tenen",
+   "duration": 1022.23,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/40/track/661",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/tenen-english-chie.json",
+     "bytes": 73,
+     "sha256": "16b1dcf68e5fb75a9fe8fd70988de269c22c63df1240e1b40de58ed22d0cd7d3",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/tenen-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 20299884,
+     "sha256": "2ecae962422fcc55f9a6a5a2900caf3d87d19fbc2eca3115561b965237fcd810"
     }
    ]
   },
@@ -15173,6 +15706,36 @@
    ]
   },
   {
+   "id": "the-thought-of-man-english-chie",
+   "text": "the-thought-of-man",
+   "duration": 62.59,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/19/track/861",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/the-thought-of-man-english-chie.json",
+     "bytes": 99,
+     "sha256": "f7c9c613d57ea1126199f159a2445be7710f4ecb67301ce966ce66a26ac07079",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/the-thought-of-man-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1218135,
+     "sha256": "f8f9facf475b91308ff7741f6fca3114b11cd80cab360d3472851e8f3ee78c33"
+    }
+   ]
+  },
+  {
    "id": "third-hoos",
    "text": "third-hoos",
    "duration": 460.24,
@@ -15257,6 +15820,36 @@
    ]
   },
   {
+   "id": "this-is-the-day-english-chie",
+   "text": "this-is-the-day",
+   "duration": 71.37,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/19/track/215",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/this-is-the-day-english-chie.json",
+     "bytes": 93,
+     "sha256": "7db2da0ea139d9440dfcf5a3f2c7c0273092470eca8b93ab520e6d64a1ade30f",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/this-is-the-day-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1434112,
+     "sha256": "9a864797bde1bb7848df1a9e36a6a299af670b2812165daf0d4ffdd9a5f7ba8b"
+    }
+   ]
+  },
+  {
    "id": "ti-galilee",
    "text": "ti-galilee",
    "duration": 728.5,
@@ -15279,6 +15872,36 @@
      "role": "audio",
      "bytes": 11782513,
      "sha256": "9060151af9ef2d3e95ec6b9d7f661ae49871f41d593e51a7061861edfbbd5b64"
+    }
+   ]
+  },
+  {
+   "id": "ti-galilee-english-chie",
+   "text": "ti-galilee",
+   "duration": 215.59,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/34/track/568",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ti-galilee-english-chie.json",
+     "bytes": 83,
+     "sha256": "99fc10015feeecf902d9ce53f97e464422a146a2584e73fdd61f8acb5eec6f1b",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ti-galilee-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 3600583,
+     "sha256": "75dbd5b561058faddb356c1ee814778359e4edc3927f26015366bac280887b5e"
     }
    ]
   },
@@ -15334,6 +15957,66 @@
      "role": "audio",
      "bytes": 5486861,
      "sha256": "e92579dcc672fe8ba4abe506930bd1c7a645bafc33ae326667728dde265dc336"
+    }
+   ]
+  },
+  {
+   "id": "ti-stoli-english-chie",
+   "text": "ti-stoli",
+   "duration": 138.87,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/37/track/733",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ti-stoli-english-chie.json",
+     "bytes": 79,
+     "sha256": "5e1c714dff536bc13819de2219df574266819fee23c40a9d5f5a029228576e1b",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ti-stoli-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 2219616,
+     "sha256": "0f2e4e9ca0e3c3c286c139b6596b6bd2b620c418a2474ecdec24c7b28e12431f"
+    }
+   ]
+  },
+  {
+   "id": "ti-stoli-english-chie-2",
+   "text": "ti-stoli",
+   "duration": 134.3,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/37/track/734",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ti-stoli-english-chie-2.json",
+     "bytes": 81,
+     "sha256": "f524238cc9f96142e3610c81faa43fb17385b228fc7ca306ad0fbdd2128427ff",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ti-stoli-english-chie-2/audio.m4a",
+     "role": "audio",
+     "bytes": 2168418,
+     "sha256": "f935305b59fee23ae4b827d674509a08f1a250cf0554088723c4a328eca5419d"
     }
    ]
   },
@@ -15472,6 +16155,36 @@
      "role": "audio",
      "bytes": 1399196,
      "sha256": "0684eea8dc2464ed45466aff3901e90b74e0594b2287be5eda62e95c6dca32bf"
+    }
+   ]
+  },
+  {
+   "id": "verse-cymbals-feast-cross-english-chie",
+   "text": "verse-cymbals-feast-cross",
+   "duration": 60.08,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/7/track/749",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verse-cymbals-feast-cross-english-chie.json",
+     "bytes": 113,
+     "sha256": "0410699c1b019f91de10152fd745cac5059668c692619e61bee2acf27b55ef73",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/verse-cymbals-feast-cross-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1157716,
+     "sha256": "34eb0730971ba152a2275b8974e1c9ab6bc69b2cf12b6d378266ee96810e8f26"
     }
    ]
   },
