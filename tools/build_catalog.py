@@ -324,7 +324,12 @@ class Build:
                     continue
                 recs.append({"id": f"{nid}-{i}", "name": r.get("name") or f"Recording {i}",
                              **({"cantor": r["cantor"]} if r.get("cantor") else {}), "audio": audio_ref, "points": points})
-            entry = {"id": nid, "titles": n.get("titles", {}), "kind": n.get("kind", "score"), "pdf": ref(pdf, "pdf"),
+            titles = dict(n.get("titles", {}))
+            # A score of one hymn goes by that hymn's name (its kind, score or Hazzat, tells them apart).
+            named = {self.names[t]["name"] for t in dict.fromkeys(texts or []) if self.names.get(t, {}).get("name")}
+            if len(named) == 1:
+                titles["english"] = named.pop()
+            entry = {"id": nid, "titles": titles, "kind": n.get("kind", "score"), "pdf": ref(pdf, "pdf"),
                      "recordings": recs, **({"credit": n["credit"]} if n.get("credit") else {}),
                      **({"cursor": n["cursor"]} if n.get("cursor") else {}),
                      **({"texts": list(dict.fromkeys(texts))} if texts else {}),

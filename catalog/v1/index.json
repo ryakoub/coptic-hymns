@@ -1,6 +1,6 @@
 {
- "version": "f493a1598d0db6dc",
- "updated": "2026-11-03T23:51:00Z",
+ "version": "0f913f62ffdcb39c",
+ "updated": "2026-11-03T23:57:50Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -28909,7 +28909,7 @@
   {
    "id": "ten-theeno",
    "titles": {
-    "english": "Ten Theeno (Arise, O Children of the Light)",
+    "english": "Ten Thino",
     "arabic": "تين ثينو (قوموا يا بني النور)",
     "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ"
    },
@@ -33857,7 +33857,7 @@
     "ten-theeno",
     "ten-thinou"
    ],
-   "version": "26fbf9e9d7cacd1a"
+   "version": "f9b42822377d7a4f"
   },
   {
    "id": "ti-shouri-annual",
