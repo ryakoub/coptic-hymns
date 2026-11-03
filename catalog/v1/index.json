@@ -1,6 +1,6 @@
 {
- "version": "e8d9a093f1fb0c97",
- "updated": "2026-11-03T00:21:46Z",
+ "version": "1d7464af596c5f69",
+ "updated": "2026-11-03T00:22:32Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -33802,6 +33802,11 @@
       "name": "St. Anthony Coptic Orthodox Monastery, California"
      },
      {
+      "name": "Coptic Hymns in English",
+      "role": "English recordings, by permission",
+      "url": "https://www.coptichymnsinenglish.com"
+     },
+     {
       "name": "English Hymns Committee"
      },
      {
@@ -33818,6 +33823,10 @@
      },
      {
       "name": "George Kyrillos"
+     },
+     {
+      "name": "Moallem Ibrahim Ayad",
+      "role": "The 29th of the Month (MTC Coptic TV)"
      }
     ]
    },
