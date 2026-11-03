@@ -1,6 +1,6 @@
 {
- "version": "d3ae70e7f6f8a998",
- "updated": "2026-11-03T20:11:22Z",
+ "version": "f493a1598d0db6dc",
+ "updated": "2026-11-03T23:51:00Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1611,10 +1611,16 @@
   {
    "id": "adam-theotokias-conclusion",
    "titles": {
-    "english": "The Adam Theotokias Conclusion",
+    "english": "Adam Theotokia Conclusion",
     "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ ⲡⲁⲛⲟⲩϯ",
     "arabic": "ختام الثيؤطوكيات الأدام"
    },
+   "subtitle": {
+    "english": "“Your mercies O my God”"
+   },
+   "aka": [
+    "The Adam Theotokias Conclusion"
+   ],
    "tags": [],
    "pending": false,
    "lines": 17,
@@ -1633,8 +1639,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
-    "bytes": 17515,
-    "sha256": "fc2b4db2e20b23ee16774ad835e6744e543d69d10eaea8eba141283c5f7df370"
+    "bytes": 17510,
+    "sha256": "41269ab9db653aac56701cdb813bfe91bf89c58e1599f4eee2acd3f650ad1aaa"
    }
   },
   {
@@ -1776,6 +1782,9 @@
     "coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
     "english": "Aripsalin",
     "arabic": "اريبصالين"
+   },
+   "subtitle": {
+    "english": "“O sing unto Him who was crucified”"
    },
    "tags": [],
    "pending": false,
@@ -2124,10 +2133,16 @@
   {
    "id": "commemoration-of-saints",
    "titles": {
-    "english": "The Commemoration of the Saint",
+    "english": "Commemoration of the Saints",
     "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ",
     "arabic": "مجمع القديسين"
    },
+   "subtitle": {
+    "english": "“Commemoration of the Saints”"
+   },
+   "aka": [
+    "The Commemoration of the Saint"
+   ],
    "tags": [],
    "pending": false,
    "lines": 75,
@@ -2144,8 +2159,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/commemoration-of-saints.json",
-    "bytes": 99707,
-    "sha256": "18756fbefb4aa6799dd1e313b76215420e624d8d643f145a898fe9c20fecac61"
+    "bytes": 99704,
+    "sha256": "e9e2f6f6e6da2b3b61310e2c686a1089171d6cdbffc051a04c70d633cef553cf"
    }
   },
   {
@@ -2178,10 +2193,16 @@
   {
    "id": "concluding-canon-annual-liturgy",
    "titles": {
-    "english": "Closing Canon of the communal prayers (Liturgy and Praises)",
+    "english": "Closing Canon (Liturgy and Praises)",
     "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
     "arabic": "ختام الصلوات الجماعية السنوي"
    },
+   "subtitle": {
+    "english": "Conclusion Canon"
+   },
+   "aka": [
+    "Closing Canon of the communal prayers (Liturgy and Praises)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 6,
@@ -2198,8 +2219,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual-liturgy.json",
-    "bytes": 5003,
-    "sha256": "b4a748a656087a680d6e93c432cc30b7fbfb177246b40a3342268fb0319bd53e"
+    "bytes": 4979,
+    "sha256": "3566abb64946581837dab08abd3141cc8426aa4578026eff889c6c35dab65e50"
    }
   },
   {
@@ -2282,10 +2303,16 @@
   {
    "id": "conclusion-midnight-praises",
    "titles": {
-    "english": "Conclusion of Midnight Praises",
+    "english": "Conclusion of the Midnight Praises",
     "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
     "arabic": "ختام التسبحة"
    },
+   "subtitle": {
+    "english": "of the Midnight Praises"
+   },
+   "aka": [
+    "Conclusion of Midnight Praises"
+   ],
    "tags": [],
    "pending": false,
    "lines": 31,
@@ -2299,8 +2326,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-midnight-praises.json",
-    "bytes": 5525,
-    "sha256": "74dce27252379331065050ab0ebc34d8ebdf7b54ac82d98506475c520894825c"
+    "bytes": 5529,
+    "sha256": "5af0d9752e3204e0f890194f5f6d8ae181f902a2155f1ff56e3fb2f138eb7a87"
    }
   },
   {
@@ -2762,10 +2789,16 @@
   {
    "id": "doxology-virgin-midnight",
    "titles": {
-    "english": "Doxology for Virgin Mary - Midnight Praise",
+    "english": "Doxology of St. Mary (Midnight Praises)",
     "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ",
     "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
    },
+   "subtitle": {
+    "english": "“Your greatness O Mary”"
+   },
+   "aka": [
+    "Doxology for Virgin Mary - Midnight Praise"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -2789,8 +2822,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-virgin-midnight.json",
-    "bytes": 7304,
-    "sha256": "913df25e5f59f8b76b4296aafd6cf0b3fe559bacb8a47dd3f12fdaf00978387b"
+    "bytes": 7301,
+    "sha256": "2aba6bd8d417ef3926ce4e804dc596ecbaf1ed66452936118342d60baae5b56d"
    }
   },
   {
@@ -2953,8 +2986,14 @@
   {
    "id": "first-hoos",
    "titles": {
-    "english": "First Hoos"
+    "english": "First Canticle"
    },
+   "subtitle": {
+    "english": "“Then Moses sang”"
+   },
+   "aka": [
+    "First Hoos"
+   ],
    "tags": [],
    "pending": false,
    "lines": 25,
@@ -2970,17 +3009,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos.json",
-    "bytes": 15413,
-    "sha256": "0c0e06c0bf308a61a79910bbba890bd70ba25b167e53dc714dd4d394c6c59dfb"
+    "bytes": 15417,
+    "sha256": "43e102367bfd3f43f72489fd83633ccc23cf7e2e928ad1b9d01ac79c9bf7fa47"
    }
   },
   {
    "id": "first-sunday-psali",
    "titles": {
-    "english": "The First Sunday Psali",
+    "english": "Sunday Psali (1)",
     "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ",
     "arabic": "إبصالية الأحد الأول"
    },
+   "subtitle": {
+    "english": "1st Sunday Psali (I believe)"
+   },
+   "aka": [
+    "The First Sunday Psali"
+   ],
    "tags": [],
    "pending": false,
    "lines": 24,
@@ -2997,17 +3042,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-sunday-psali.json",
-    "bytes": 22674,
-    "sha256": "4a8dc4b17c7f4c5884242206f1e0223e5d57858ac09eb0c11f8561f38bfb4f1d"
+    "bytes": 22668,
+    "sha256": "3c305edfff9a7742922bdc9e1cd5a0f68e76a7266aabca4e3056a875751ad3b2"
    }
   },
   {
    "id": "fourth-hoos",
    "titles": {
-    "english": "The Fourth Hoos",
+    "english": "Fourth Canticle",
     "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ⲃⲟⲗ",
     "arabic": "الهوس الرابع"
    },
+   "subtitle": {
+    "english": "“Praise the Lord from the heavens Alleluia…”"
+   },
+   "aka": [
+    "The Fourth Hoos"
+   ],
    "tags": [],
    "pending": false,
    "lines": 39,
@@ -3025,7 +3076,7 @@
    "file": {
     "url": "catalog/v1/texts/fourth-hoos.json",
     "bytes": 32919,
-    "sha256": "2531a18281ed6b64f4f8f630b645b77bf53c6842640f5eeb03ed594e8e40328e"
+    "sha256": "677e20a736c3494c12a0b2472010068c2543e6854d764cf7e92c081f531ee525"
    }
   },
   {
@@ -3517,10 +3568,16 @@
   {
    "id": "leepon",
    "titles": {
-    "english": "Intro of the Theotokia (Leebon)",
+    "english": "Leebon",
     "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ",
     "arabic": "مقدمة الثيؤطوكية - ليبون"
    },
+   "subtitle": {
+    "english": "Introduction to the Adam Theotokia"
+   },
+   "aka": [
+    "Intro of the Theotokia (Leebon)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 4,
@@ -3537,8 +3594,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/leepon.json",
-    "bytes": 4271,
-    "sha256": "6d7f50d1085f435a818f8a560a1d326087cf0b811154f0640d30a11cd1c9e808"
+    "bytes": 4246,
+    "sha256": "714f2f721d7ce4442a7c6c2f59c5998d98b97078e83f93fa12ba471d792423c8"
    }
   },
   {
@@ -3595,10 +3652,16 @@
   {
    "id": "lobsh-first-hoos",
    "titles": {
-    "english": "Lobsh of First Hoos",
+    "english": "Lobsh of the First Canticle",
     "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
     "arabic": "لبش الهوس الأول"
    },
+   "subtitle": {
+    "english": "“With the split, the waters of the”"
+   },
+   "aka": [
+    "Lobsh of First Hoos"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -3623,17 +3686,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
-    "bytes": 9558,
-    "sha256": "fb4960ca6411d33d0a9a89e1c81f40e4d9a546aa1da92fee3ae5887b9a88d953"
+    "bytes": 9566,
+    "sha256": "42fca8fda36cef6e2be67a12f4f2b40ebb1c0a8593da23bba609a531d7b54d3d"
    }
   },
   {
    "id": "morning-doxology",
    "titles": {
-    "english": "The Morning Doxology",
+    "english": "Morning Doxology",
     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫⲓⲱⲧ",
     "arabic": "ذكصولوجية باكر"
    },
+   "subtitle": {
+    "english": "“We worship the Father and the Son”"
+   },
+   "aka": [
+    "The Morning Doxology"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -3658,17 +3727,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/morning-doxology.json",
-    "bytes": 62129,
-    "sha256": "d9daea27f1e88f808892a6f5611ab34eecc7e8463cea7a08aa4f4c7dfafce13c"
+    "bytes": 62125,
+    "sha256": "4e7ad989d6405b97b495d31677cd1b280d20b46b9ea3a185bc9459b82eb78dda"
    }
   },
   {
    "id": "ni-ethnos-tero",
    "titles": {
-    "english": "Ni Ethnos Tero (O praise the Lord, all ye nations)",
+    "english": "Ni Ethnos Tero",
     "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ",
     "arabic": "لحن ني إثنوس تيرو"
    },
+   "subtitle": {
+    "english": "“Praise the Lord, all you nations”"
+   },
+   "aka": [
+    "Ni Ethnos Tero (O praise the Lord, all ye nations)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 4,
@@ -3684,17 +3759,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ni-ethnos-tero.json",
-    "bytes": 3665,
-    "sha256": "c2cc433bb84a6c9a6386a44390b866fb5ca929dbe96be4311c5ffb5126f4f28b"
+    "bytes": 3629,
+    "sha256": "58d0c8b183339e52824bb43c1df61568bdb5bc846d19d70ccb2c0ea9eebf8fa5"
    }
   },
   {
    "id": "nim-ghar",
    "titles": {
-    "english": "The Sixteenth Part - Nim Ghar",
+    "english": "Nim Ghar (16)",
     "coptic": "Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ",
     "arabic": "القطعة السادسة عشر - نيم غار"
    },
+   "subtitle": {
+    "english": "“Who is likened unto You”"
+   },
+   "aka": [
+    "The Sixteenth Part - Nim Ghar"
+   ],
    "tags": [],
    "pending": false,
    "lines": 14,
@@ -3711,8 +3792,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/nim-ghar.json",
-    "bytes": 13054,
-    "sha256": "3e5fc5de62d0d7756bdb6d2e6908aeda421f4a2ff671c56e4c0ae88c05b1f544"
+    "bytes": 13038,
+    "sha256": "3f029639eb0f5544b00d94d59527e6eb0fab3c4a17684b1985b75454ab2fef8a"
    }
   },
   {
@@ -4958,10 +5039,16 @@
   {
    "id": "second-hoos",
    "titles": {
-    "english": "The Second Hoos",
+    "english": "Second Canticle",
     "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
     "arabic": "الهوس الثاني"
    },
+   "subtitle": {
+    "english": "“O give thanks to the Lord for”"
+   },
+   "aka": [
+    "The Second Hoos"
+   ],
    "tags": [],
    "pending": false,
    "lines": 28,
@@ -4979,16 +5066,22 @@
    "file": {
     "url": "catalog/v1/texts/second-hoos.json",
     "bytes": 25408,
-    "sha256": "4844fb388f9716e9513428c4c9a310b700b25b9a9cfd6171be49d1e89ac5e2ca"
+    "sha256": "d849c4d4fed084e2276a4d9d3d6903d986b8b82745f63118cb1a04ba366b6beb"
    }
   },
   {
    "id": "second-hoos-lobsh",
    "titles": {
-    "english": "The Second Hoos Lobsh",
+    "english": "Lobsh of the Second Canticle",
     "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛⲉϩ",
     "arabic": "لبش الهوس الثاني"
    },
+   "subtitle": {
+    "english": "“Let us give thanks, to Christ our”"
+   },
+   "aka": [
+    "The Second Hoos Lobsh"
+   ],
    "tags": [],
    "pending": false,
    "lines": 12,
@@ -5006,17 +5099,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos-lobsh.json",
-    "bytes": 12418,
-    "sha256": "c63fd8d119a788ea3f871a3655e317085ba0cac2005c951fca02355b646dbbdb"
+    "bytes": 12425,
+    "sha256": "01d0c4133a16455587660ba418576aaefbe7395bef86c294163a34832894b439"
    }
   },
   {
    "id": "second-sunday-psali",
    "titles": {
-    "english": "The Second Sunday Psali",
+    "english": "Sunday Psali (2)",
     "coptic": "Ⲁⲓⲕⲱϯ ⲛ̀ⲥⲱⲕ",
     "arabic": "إبصالية الأحد الثانية"
    },
+   "subtitle": {
+    "english": "2nd Sunday Psali (I sought after You)"
+   },
+   "aka": [
+    "The Second Sunday Psali"
+   ],
    "tags": [],
    "pending": false,
    "lines": 32,
@@ -5033,17 +5132,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-sunday-psali.json",
-    "bytes": 30332,
-    "sha256": "17102797782a92e38d463a259ab77676436faf97905a3aefda8cb1664a2c4836"
+    "bytes": 30325,
+    "sha256": "ada8bc0a99df4fb9cde550b92bf374bf21836030fe0d2678827c9d7e6755aeb9"
    }
   },
   {
    "id": "semoti",
    "titles": {
-    "english": "The Seventh Part - Semoti",
+    "english": "Semouti (7)",
     "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
     "arabic": "القطعة السابعة - سيموتي"
    },
+   "subtitle": {
+    "english": "“You are called righteous”"
+   },
+   "aka": [
+    "The Seventh Part - Semoti"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5069,17 +5174,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/semoti.json",
-    "bytes": 6944,
-    "sha256": "e65f6130746cf2a11b9b9a4d411ee1e6763e328c409b0fe6c6e6bec4e14b60b8"
+    "bytes": 6930,
+    "sha256": "3db9c89a14b92b1d8b110130e2d8c95a6019db75ac72f04effaf569337db1b8e"
    }
   },
   {
    "id": "shashf-ensop",
    "titles": {
-    "english": "The Eighth Part - Shashf Ensop",
+    "english": "Shashf Ensop (8)",
     "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ",
     "arabic": "القطعة الثامنة - شاشف إنسوب"
    },
+   "subtitle": {
+    "english": "“Seven times every day”"
+   },
+   "aka": [
+    "The Eighth Part - Shashf Ensop"
+   ],
    "tags": [],
    "pending": false,
    "lines": 25,
@@ -5096,8 +5207,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shashf-ensop.json",
-    "bytes": 32085,
-    "sha256": "d279b3faf56925a9b22142cca48ca0578f0de867610307f137553fb811bd4f6a"
+    "bytes": 32071,
+    "sha256": "da8f62eeafbe3149f4b4ef664a3dc4f90d5e43bb474207244d0bb9860a66a530"
    }
   },
   {
@@ -5126,10 +5237,16 @@
   {
    "id": "shere-ne-maria",
    "titles": {
-    "english": "The Seventh Part - Shere ne Maria",
+    "english": "Shere ne Maria (7)",
     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
     "arabic": "القطعة السابعة - شيري نيه ماريا"
    },
+   "subtitle": {
+    "english": "“Hail to you Mary”"
+   },
+   "aka": [
+    "The Seventh Part - Shere ne Maria"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5154,8 +5271,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shere-ne-maria.json",
-    "bytes": 5910,
-    "sha256": "e7595e780cd1ef841bbd821ab64a36cb28eab7b4ac435f7a6456e8c82c77513f"
+    "bytes": 5895,
+    "sha256": "778dd698bf51cf49cc8b31cc226e2b19f71cbaf9161f02ad95533e0d4ffc02a0"
    }
   },
   {
@@ -5221,10 +5338,16 @@
   {
    "id": "sunday-theotokia-1",
    "titles": {
-    "english": "The Sunday Theotokia (1)",
+    "english": "Sunday Theotokia (1)",
     "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
     "arabic": "ثيؤطوكية الأحد - القطعة الأولى"
    },
+   "subtitle": {
+    "english": "“You are called righteous”"
+   },
+   "aka": [
+    "The Sunday Theotokia (1)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 15,
@@ -5241,17 +5364,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-1.json",
-    "bytes": 15031,
-    "sha256": "94155fad518e605a39a28f08afd4f38a6781cca9c09700637dd4dbab950f4cef"
+    "bytes": 15027,
+    "sha256": "1a4a8a89563503dd3e1a7ded1e666e42c2f0bb51679c4119c330cd624cc04af4"
    }
   },
   {
    "id": "sunday-theotokia-11",
    "titles": {
-    "english": "The Sunday Theotokia (11)",
+    "english": "Sunday Theotokia (11)",
     "coptic": "Ⲣⲁⲛ ⲛⲓⲃⲉⲛ ⲉⲧϭⲟⲥⲓ",
     "arabic": "ثيؤطوكية الأحد - القطعة الحادية عشر"
    },
+   "subtitle": {
+    "english": "“All the high names”"
+   },
+   "aka": [
+    "The Sunday Theotokia (11)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 4,
@@ -5268,17 +5397,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-11.json",
-    "bytes": 4092,
-    "sha256": "4ea0dc2c942050a95c9e8f904bbdad4c1f5fbb2f2ca167168e65b8a0152035b9"
+    "bytes": 4088,
+    "sha256": "11b4e44e115b4c4de85d24ff7c9b79d2338031736eab9c9eede8cfe079a69570"
    }
   },
   {
    "id": "sunday-theotokia-12",
    "titles": {
-    "english": "The Sunday Theotokia (12)",
+    "english": "Sunday Theotokia (12)",
     "coptic": "Ⲡⲉⲱ̀ⲟⲩ Ⲙⲁⲣⲓⲁ",
     "arabic": "ثيؤطوكية الأحد - القطعة الثانية عشر"
    },
+   "subtitle": {
+    "english": "“Your glory O Mary”"
+   },
+   "aka": [
+    "The Sunday Theotokia (12)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 5,
@@ -5295,17 +5430,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-12.json",
-    "bytes": 5242,
-    "sha256": "533b03b4e9ad8a028ed19f2b2e5811ff7d26d23c846d83bcd083e2d186b62f58"
+    "bytes": 5238,
+    "sha256": "93f76d77733ca142f2a7d799ba4395e2361ea12b3bd1ee25a1a2e22bb4dc11b7"
    }
   },
   {
    "id": "sunday-theotokia-13",
    "titles": {
-    "english": "The Sunday Theotokia (13)",
+    "english": "Sunday Theotokia (13)",
     "coptic": "Ⲟⲩⲥ̀ⲕⲏⲛⲏ ⲙ̀ⲙⲏⲓ",
     "arabic": "ثيؤطوكية الأحد - القطعة الثالثة عشر"
    },
+   "subtitle": {
+    "english": "“A true tabernacle”"
+   },
+   "aka": [
+    "The Sunday Theotokia (13)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 7,
@@ -5322,17 +5463,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-13.json",
-    "bytes": 7462,
-    "sha256": "9e91b40ea3e0b7f73e8187f04da3c30d48f4bd901c5637842054c871fbbaf044"
+    "bytes": 7458,
+    "sha256": "193ed9152514fc832198501a53ef39bf44ea90a45a6a1ae4ec9e1f3ad766322e"
    }
   },
   {
    "id": "sunday-theotokia-14",
    "titles": {
-    "english": "The Sunday Theotokia (14)",
+    "english": "Sunday Theotokia (14)",
     "coptic": "Ⲁⲕⲥⲟⲗⲥⲉⲗ ⲛ̀ⲛⲉⲛⲯⲩⲭⲏ",
     "arabic": "ثيؤطوكية الأحد - القطعة الرابعة عشر"
    },
+   "subtitle": {
+    "english": "“You decorated our souls”"
+   },
+   "aka": [
+    "The Sunday Theotokia (14)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 14,
@@ -5349,17 +5496,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-14.json",
-    "bytes": 14664,
-    "sha256": "ad4ea856fb72ebab313de8482af21f76c51940f33d353845d28a42faf3d8960b"
+    "bytes": 14660,
+    "sha256": "ebdb21978e9ecbc5d6b578712ec0f73474770124af83b30ec34654763c37c58f"
    }
   },
   {
    "id": "sunday-theotokia-15",
    "titles": {
-    "english": "The Sunday Theotokia (15)",
+    "english": "Sunday Theotokia (15)",
     "coptic": "Ⲛⲓⲙ ⲡⲉⲑⲛⲁϣ̀ⲥⲁϫⲓ",
     "arabic": "ثيؤطوكية الأحد - القطعة الخامسة عشر"
    },
+   "subtitle": {
+    "english": "“Who can speak of”"
+   },
+   "aka": [
+    "The Sunday Theotokia (15)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 18,
@@ -5376,17 +5529,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-15.json",
-    "bytes": 17969,
-    "sha256": "d1f8b61dadd337875b1f63450511cc5bd497341336c089e4cb232a38425c0569"
+    "bytes": 17965,
+    "sha256": "f0a94340344d1181d63434e01903cd49061c95cc28008aa8321ad50981350d2d"
    }
   },
   {
    "id": "sunday-theotokia-2",
    "titles": {
-    "english": "The Sunday Theotokia (2)",
+    "english": "Sunday Theotokia (2)",
     "coptic": "Ϯⲕⲓⲃⲱⲧⲟⲥ ⲉⲧⲟϣϫ",
     "arabic": "ثيؤطوكية الأحد - القطعة الثانية"
    },
+   "subtitle": {
+    "english": "“The ark overlaid”"
+   },
+   "aka": [
+    "The Sunday Theotokia (2)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 15,
@@ -5403,17 +5562,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-2.json",
-    "bytes": 14928,
-    "sha256": "fab77f323a2b8133a54160ed224d057e7cd7a5b09f4f87c92d5084c6ceefddba"
+    "bytes": 14924,
+    "sha256": "a8f21d60c27e58d01f0118c38c9d086257e4b9a921d60dee858be59512eb89f8"
    }
   },
   {
    "id": "sunday-theotokia-3",
    "titles": {
-    "english": "The Sunday Theotokia (3)",
+    "english": "Sunday Theotokia (3)",
     "coptic": "Ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ",
     "arabic": "ثيؤطوكية الأحد - القطعة الثالثة"
    },
+   "subtitle": {
+    "english": "“The mercy seat”"
+   },
+   "aka": [
+    "The Sunday Theotokia (3)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 12,
@@ -5430,17 +5595,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-3.json",
-    "bytes": 11641,
-    "sha256": "3b031481bcd98209e05e6569fb3513d8eb1cd2782403878022d1657b485966f1"
+    "bytes": 11637,
+    "sha256": "51fcec7a692a283cb72b26b470929e91e2c08e9908ccb262a34e12f7d1834382"
    }
   },
   {
    "id": "sunday-theotokia-4",
    "titles": {
-    "english": "The Sunday Theotokia (4)",
+    "english": "Sunday Theotokia (4)",
     "coptic": "Ⲛ̀ⲑⲟ ⲡⲉ ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ",
     "arabic": "ثيؤطوكية الأحد - القطعة الرابعة"
    },
+   "subtitle": {
+    "english": "“You are the pot”"
+   },
+   "aka": [
+    "The Sunday Theotokia (4)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 12,
@@ -5457,17 +5628,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-4.json",
-    "bytes": 11982,
-    "sha256": "27bd92bcc62ecea71353b8e399f19ac93f22aea64df24a89f5d959e70a81df45"
+    "bytes": 11978,
+    "sha256": "28e3d8550fe80d5999a3dfbc8a524cce8c7a8e1d930bd1811ce9603469989be9"
    }
   },
   {
    "id": "sunday-theotokia-5",
    "titles": {
-    "english": "The Sunday Theotokia (5)",
+    "english": "Sunday Theotokia (5)",
     "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯⲗⲩⲭⲛⲓⲁ",
     "arabic": "ثيؤطوكية الأحد - القطعة الخامسة"
    },
+   "subtitle": {
+    "english": "“You are the lampstand”"
+   },
+   "aka": [
+    "The Sunday Theotokia (5)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 15,
@@ -5484,17 +5661,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-5.json",
-    "bytes": 15655,
-    "sha256": "400559afdd10f9406c52db3421438613b7cd7bfe0cd131e8f72bec2c44ac6fe6"
+    "bytes": 15651,
+    "sha256": "315fd453cdef2aef917b8eab0325fb08c8cbf66ed4f9170f35bf69d88d06860d"
    }
   },
   {
    "id": "sunday-theotokia-6",
    "titles": {
-    "english": "The Sunday Theotokia (6)",
+    "english": "Sunday Theotokia (6)",
     "coptic": "Ⲛ̀ⲑⲟ ⲧⲉ ϯϣⲟⲩⲣⲏ",
     "arabic": "ثيؤطوكية الأحد - القطعة السادسة"
    },
+   "subtitle": {
+    "english": "“You are the censer”"
+   },
+   "aka": [
+    "The Sunday Theotokia (6)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 13,
@@ -5511,17 +5694,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-6.json",
-    "bytes": 13084,
-    "sha256": "1c456bb0ff5b0bc4e01dcdc728e48156510d3479e38220d7cc17fe0b879bb8c5"
+    "bytes": 13080,
+    "sha256": "d1ba65cee2c4e5c8665e0de35bc0085601f8cd4c1022ecfc88756bbf81492992"
    }
   },
   {
    "id": "sunday-theotokia-9",
    "titles": {
-    "english": "The Sunday Theotokia (9)",
+    "english": "Sunday Theotokia (9)",
     "coptic": "Ⲁⲩⲙⲟⲩϯ ⲉ̀ⲣⲟ",
     "arabic": "ثيؤطوكية الأحد - القطعة التاسعة"
    },
+   "subtitle": {
+    "english": "“You are called”"
+   },
+   "aka": [
+    "The Sunday Theotokia (9)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 5,
@@ -5538,8 +5727,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/sunday-theotokia-9.json",
-    "bytes": 5049,
-    "sha256": "6f2df3a99d1348d81538edfe8e45e510a001a5e27577d755e85629d2326b78ec"
+    "bytes": 5045,
+    "sha256": "e127924082b27412a6ec096b63069e8f774084ce9286ed4e89e7c350de679fad"
    }
   },
   {
@@ -5599,6 +5788,13 @@
    },
    "tags": [],
    "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "We Look for the Resurrection",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/49"
+    }
+   ],
    "lines": 1,
    "translations": [
     "arabic",
@@ -5623,10 +5819,16 @@
   {
    "id": "ten-theeno",
    "titles": {
-    "english": "The Hymn of Ten-theno",
+    "english": "Ten Thino",
     "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ",
     "arabic": "لحن تين ثينو"
    },
+   "subtitle": {
+    "english": "“Arise O children of the light”"
+   },
+   "aka": [
+    "The Hymn of Ten-theno"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5650,8 +5852,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
-    "bytes": 26118,
-    "sha256": "2cd9face1183e99b5468599b34c484c93fd5e7fb70f284c25a0c57a3396541c1"
+    "bytes": 26106,
+    "sha256": "13a247d77fb942f1eafcf89307cdce93380179e7c5472f342c0d62d60b511049"
    }
   },
   {
@@ -5715,19 +5917,18 @@
   {
    "id": "tennav",
    "titles": {
-    "english": "The Hymn of the Resurrection - Tennav",
+    "english": "Tennav",
     "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
     "arabic": "لحن القيامة - تينناف"
    },
+   "subtitle": {
+    "english": "“We look at the Resurrection of Christ”"
+   },
+   "aka": [
+    "The Hymn of the Resurrection - Tennav"
+   ],
    "tags": [],
    "pending": false,
-   "links": [
-    {
-     "site": "Coptic Hymns in English",
-     "title": "We Look for the Resurrection",
-     "url": "https://www.coptichymnsinenglish.com/album/16/track/49"
-    }
-   ],
    "lines": 9,
    "translations": [
     "arabic",
@@ -5742,17 +5943,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tennav.json",
-    "bytes": 27623,
-    "sha256": "adb865871d37bf9cf68b354cd0df02b9f95ff7b496de08ec495516ebdc009518"
+    "bytes": 27592,
+    "sha256": "d911273c6058aaaecac25dc271d2129a3ee37a7e4968e48eba5b0b59f7e3dac6"
    }
   },
   {
    "id": "tenoue-n-khok",
    "titles": {
     "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ",
-    "english": "Tenoueh Ensok (We Follow You)",
+    "english": "Ten Oweh Ensok",
     "arabic": "تين أوويه إنسوك"
    },
+   "subtitle": {
+    "english": "“We follow You with all our hearts”"
+   },
+   "aka": [
+    "Tenoueh Ensok (We Follow You)"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5780,17 +5987,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
-    "bytes": 5042,
-    "sha256": "b375ae29d44b8b775b658eb94014874c3f6798c26c56eff58717afa90ee7c11c"
+    "bytes": 5027,
+    "sha256": "7f42dabe6de5ca755128fd5a28bc4dc0c08958fdaa7941ad3acdb485669df609"
    }
   },
   {
    "id": "teoi-enhekanos",
    "titles": {
-    "english": "The Tenth Part - Teoi Enhekanos",
+    "english": "Teoi Enhikanos (10)",
     "coptic": "Ⲧⲉⲟⲓ ⲛ̀ϩⲓⲕⲁⲛⲟⲥ",
     "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
    },
+   "subtitle": {
+    "english": "“You are more worthy”"
+   },
+   "aka": [
+    "The Tenth Part - Teoi Enhekanos"
+   ],
    "tags": [],
    "pending": false,
    "lines": 59,
@@ -5807,8 +6020,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/teoi-enhekanos.json",
-    "bytes": 55876,
-    "sha256": "41a00465acaa570ae224c770aab67029e7d6246b943771cff0a6b16619e6252e"
+    "bytes": 55864,
+    "sha256": "909597d8f37f99f5cd857ae25b80b06251e90f017d1b2b42a7392305fab2497d"
    }
   },
   {
@@ -6124,10 +6337,16 @@
   {
    "id": "third-hoos",
    "titles": {
-    "english": "The Third Hoos",
+    "english": "Third Canticle",
     "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ",
     "arabic": "الهوس الثالث"
    },
+   "subtitle": {
+    "english": "“Blessed are You O Lord God of”"
+   },
+   "aka": [
+    "The Third Hoos"
+   ],
    "tags": [],
    "pending": false,
    "lines": 40,
@@ -6145,7 +6364,7 @@
    "file": {
     "url": "catalog/v1/texts/third-hoos.json",
     "bytes": 37444,
-    "sha256": "da07770ba32d32a3e57db2bf339c021706a1edca9624a221b6217f50532a881f"
+    "sha256": "335ce25b7b2d24a821440e416df38d9ed19a12e145867e34e7bfe07b41606f58"
    }
   },
   {

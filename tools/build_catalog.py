@@ -36,6 +36,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 LIBRARY = ROOT / "catalog" / "library.json"
+# Each hymn's name in the lists and the line under it saying what it says (tools/import_hymn_names.py).
+NAMES = ROOT / "catalog" / "hymn-names.json"
 OUT = ROOT / "catalog" / "v1"
 BASE_URL = "https://www.copticchanter.com/"
 SCHEMA = 2
@@ -136,6 +138,8 @@ class Build:
         self.kind_of = {}      # recording id -> its info.json "kind" (recital, melismatic, both)
         self.held_back = []    # melismatic recordings left out of their places until a score follows them
 
+    names = json.loads(NAMES.read_text(encoding="utf-8")) if NAMES.exists() else {}
+
     def warn(self, rid, msg): self.problems.append(("warn", rid, msg))
     def error(self, rid, msg): self.problems.append(("error", rid, msg))
 
@@ -175,12 +179,19 @@ class Build:
             tlines.append(t)
         pending = not any(COPTIC.search(l.get("coptic", "")) for l in lines)
         titles = self.titles_for(rid, info)
+        named = self.names.get(tid, {})
+        # The name it had before keeps finding it in the search (people still type "Second Hoos").
+        aka = [titles["english"]] if named.get("name") and titles.get("english") not in (None, named["name"]) else []
+        if named.get("name"):
+            titles["english"] = named["name"]
         if "english" not in titles:
             self.warn(tid, "no English title")
         if pending:
             self.warn(tid, "lyrics not added yet")
         self.texts[tid] = {"id": tid, "titles": titles, "tags": info.get("tags", []), "pending": pending, "lines": tlines,
                            "links": info.get("links", []),
+                           "subtitle": {"english": named["says"]} if named.get("says") else None,
+                           "aka": aka,
                            # A short introduction (what the hymn is, when it is sung), shown above its words.
                            "intro": {k: v for k, v in (info.get("intro") or {}).items() if k in ("english", "arabic") and v}}
 
@@ -503,7 +514,9 @@ def main():
         lines = [l for l in t["lines"] if not l.get("label") and not l.get("static")]
         doc = json.dumps({"id": tid, "titles": t["titles"], **({"intro": t["intro"]} if t["intro"] else {}), "lines": t["lines"]},
                          ensure_ascii=False, indent=1).encode()
-        texts_out.append({"id": tid, "titles": t["titles"], "tags": t["tags"], "pending": t["pending"],
+        texts_out.append({"id": tid, "titles": t["titles"], **({"subtitle": t["subtitle"]} if t.get("subtitle") else {}),
+                          **({"aka": t["aka"]} if t.get("aka") else {}),
+                          "tags": t["tags"], "pending": t["pending"],
                           # Where else to hear it (another site's recording, linked rather than copied).
                           **({"links": t["links"]} if t["links"] else {}),
                           "lines": len(lines),

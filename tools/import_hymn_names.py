@@ -1,0 +1,45 @@
+#!/usr/bin/env python3
+"""Merge the names worked out in the hymn-names sheet into catalog/hymn-names.json.
+
+Each hymn gets two lines in the app's lists: its name (the one the church knows it by) and a second line saying
+what it says. build_catalog.py puts the name in the text's English title and the second line in its "subtitle".
+
+Usage:
+  python3 tools/import_hymn_names.py "hymn-names (Psalmody).csv" --book "Holy Psalmody"
+Rows are matched by the sheet's id column; only rows of the given book (or all, without --book) are taken.
+Save the sheet from Excel as "CSV UTF-8" so the Coptic and Arabic survive.
+"""
+import argparse, csv, json, re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+NAMES = ROOT / "catalog" / "hymn-names.json"
+
+def tidy(s):
+    s = re.sub(r"\s+", " ", (s or "").strip())
+    # Straight quotes around the whole line become the curly ones used everywhere else.
+    if len(s) > 1 and s[0] == '"' and s[-1] == '"':
+        s = "“" + s[1:-1] + "”"
+    return s
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("sheet")
+    ap.add_argument("--book")
+    a = ap.parse_args()
+    rows = list(csv.DictReader(open(a.sheet, encoding="utf-8-sig")))
+    names = json.loads(NAMES.read_text(encoding="utf-8")) if NAMES.exists() else {}
+    n = 0
+    for r in rows:
+        if a.book and r.get("Book") != a.book:
+            continue
+        name, line = tidy(r.get("Proposed name (big line)")), tidy(r.get("Proposed second line (small)"))
+        if not name:
+            continue
+        names[r["id"]] = {"name": name, **({"says": line} if line else {})}
+        n += 1
+    NAMES.write_text(json.dumps(dict(sorted(names.items())), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"{n} names taken; {len(names)} in {NAMES.relative_to(ROOT)}")
+
+if __name__ == "__main__":
+    main()
