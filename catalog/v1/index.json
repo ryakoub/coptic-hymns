@@ -1,6 +1,6 @@
 {
- "version": "1d7464af596c5f69",
- "updated": "2026-11-03T00:22:32Z",
+ "version": "9fb743bce0fc4d9a",
+ "updated": "2026-11-03T03:17:26Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -6260,8 +6260,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tou-lithou.json",
-    "bytes": 1503,
-    "sha256": "ff6d6a52329a5c1852dd617df5693805814400750a92b164b9620cd4b97b0d53"
+    "bytes": 1696,
+    "sha256": "fd8daad151acaca57ee047312e0c463dbb41ad282f52b21025ee85635d25b63e"
    }
   },
   {
