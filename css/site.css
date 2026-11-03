@@ -316,6 +316,8 @@ details.folder .inner .row { padding-left: 34px; }
 .line:first-child { border-top: 0; }
 .line.side-1 { background: var(--side-tint); }
 .line.lit { background: var(--line-lit); box-shadow: inset 5px 0 var(--orange); }
+/* The line a shared link points to (&line=), until the recording lights another. */
+.line.shared:not(.lit) { box-shadow: inset 5px 0 var(--gold-soft); }
 .line.label { display: block; cursor: default; font-weight: 700; color: var(--red); text-align: center; background: none; }
 .line.static { cursor: default; color: var(--muted); font-style: italic; }
 .line .cop { font-family: var(--coptic); font-size: 22px; line-height: 1.45; }
