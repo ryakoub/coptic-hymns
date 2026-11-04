@@ -17,11 +17,15 @@ ROOT = Path(__file__).resolve().parent.parent
 NAMES = ROOT / "catalog" / "hymn-names.json"
 
 def tidy(s):
-    s = re.sub(r"\s+", " ", (s or "").strip())
-    # Straight quotes around the whole line become the curly ones used everywhere else.
-    if len(s) > 1 and s[0] == '"' and s[-1] == '"':
-        s = "“" + s[1:-1] + "”"
-    return s
+    return re.sub(r"\s+", " ", (s or "").strip())
+
+def plain(s):
+    """The second line as plain words: no quotes around it, no "…" at its end."""
+    s = tidy(s)
+    s = re.sub(r"(\.\.\.|…)$", "", s).strip()
+    if len(s) > 1 and s[0] in "\"“" and s[-1] in "\"”":
+        s = s[1:-1]
+    return re.sub(r"(\.\.\.|…)$", "", s).strip()
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -34,7 +38,7 @@ def main():
     for r in rows:
         if a.book and r.get("Book") != a.book:
             continue
-        name, line = tidy(r.get("Proposed name (big line)")), tidy(r.get("Proposed second line (small)"))
+        name, line = tidy(r.get("Proposed name (big line)")), plain(r.get("Proposed second line (small)"))
         if not name:
             continue
         coptic, arabic = tidy(r.get("Coptic first words")), tidy(r.get("Arabic name"))

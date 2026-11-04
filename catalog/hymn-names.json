@@ -1,19 +1,19 @@
 {
  "adam-theotokias-conclusion": {
   "name": "Adam Theotokia Conclusion",
-  "says": "“Your mercies O my God”",
+  "says": "Your mercies O my God",
   "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ Ⲡⲁⲛⲟⲩϯ",
   "arabic": "ختام الثيؤطوكيات الأدام - مراحمك يا إلهي"
  },
  "aripalin": {
   "name": "Aripsalin",
-  "says": "“O sing unto Him who was crucified”",
+  "says": "O sing unto Him who was crucified",
   "coptic": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ",
   "arabic": "اريبصالين"
  },
  "commemoration-of-saints": {
   "name": "Commemoration of the Saints",
-  "says": "“Commemoration of the Saints”",
+  "says": "Commemoration of the Saints",
   "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ",
   "arabic": "مجمع القديسين"
  },
@@ -30,13 +30,13 @@
  },
  "doxology-virgin-midnight": {
   "name": "Doxology of St. Mary (Midnight Praises)",
-  "says": "“Your greatness O Mary”",
+  "says": "Your greatness O Mary",
   "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ",
   "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
  },
  "first-hoos": {
   "name": "First Canticle",
-  "says": "“Then Moses sang”",
+  "says": "Then Moses sang",
   "coptic": "Ⲧⲟⲧⲉ ⲁϥϩⲱⲥ",
   "arabic": "الهوس الأول"
  },
@@ -48,7 +48,7 @@
  },
  "fourth-hoos": {
   "name": "Fourth Canticle",
-  "says": "“Praise the Lord from the heavens Alleluia…”",
+  "says": "Praise the Lord from the heavens Alleluia",
   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
   "arabic": "الهوس الرابع"
  },
@@ -60,35 +60,35 @@
  },
  "lobsh-first-hoos": {
   "name": "Lobsh of the First Canticle",
-  "says": "“With the split, the waters of the”",
+  "says": "With the split, the waters of the",
   "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
   "arabic": "لبش الهوس الأول"
  },
  "morning-doxology": {
   "name": "Morning Doxology",
-  "says": "“We worship the Father and the Son”",
+  "says": "We worship the Father and the Son",
   "arabic": "ذكصولوجية باكر"
  },
  "ni-ethnos-tero": {
   "name": "Ni Ethnos Tero",
-  "says": "“Praise the Lord, all you nations”",
+  "says": "Praise the Lord, all you nations",
   "coptic": "Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ",
   "arabic": "لحن ني إثنوس تيرو"
  },
  "nim-ghar": {
   "name": "Nim Ghar",
-  "says": "“Who is likened unto You”",
+  "says": "Who is likened unto You",
   "arabic": "القطعة السادسة عشر - نيم غار"
  },
  "second-hoos": {
   "name": "Second Canticle",
-  "says": "“O give thanks to the Lord for”",
+  "says": "O give thanks to the Lord for",
   "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ",
   "arabic": "الهوس الثاني"
  },
  "second-hoos-lobsh": {
   "name": "Lobsh of the Second Canticle",
-  "says": "“Let us give thanks, to Christ our”",
+  "says": "Let us give thanks, to Christ our",
   "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ",
   "arabic": "لبش الهوس الثاني"
  },
@@ -100,113 +100,113 @@
  },
  "semoti": {
   "name": "Semouti",
-  "says": "“You are called righteous”",
+  "says": "You are called righteous",
   "arabic": "القطعة السابعة - سيموتي"
  },
  "shashf-ensop": {
   "name": "Shashf Ensop",
-  "says": "“Seven times every day”",
+  "says": "Seven times every day",
   "arabic": "القطعة الثامنة - شاشف إنسوب"
  },
  "shere-ne-maria": {
   "name": "Shere ne Maria",
-  "says": "“Hail to you Mary”",
+  "says": "Hail to you Mary",
   "arabic": "القطعة السابعة - شيري نيه ماريا"
  },
  "sunday-theotokia-1": {
   "name": "Sunday Theotokia (1)",
-  "says": "“You are called righteous”",
+  "says": "You are called righteous",
   "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
   "arabic": "ثيؤطوكية الأحد - القطعة الأولى"
  },
  "sunday-theotokia-11": {
   "name": "Sunday Theotokia (11)",
-  "says": "“All the high names”",
+  "says": "All the high names",
   "arabic": "ثيؤطوكية الأحد - القطعة الحادية عشر"
  },
  "sunday-theotokia-12": {
   "name": "Sunday Theotokia (12)",
-  "says": "“Your glory O Mary”",
+  "says": "Your glory O Mary",
   "arabic": "ثيؤطوكية الأحد - القطعة الثانية عشر"
  },
  "sunday-theotokia-13": {
   "name": "Sunday Theotokia (13)",
-  "says": "“A true tabernacle”",
+  "says": "A true tabernacle",
   "arabic": "ثيؤطوكية الأحد - القطعة الثالثة عشر"
  },
  "sunday-theotokia-14": {
   "name": "Sunday Theotokia (14)",
-  "says": "“You decorated our souls”",
+  "says": "You decorated our souls",
   "arabic": "ثيؤطوكية الأحد - القطعة الرابعة عشر"
  },
  "sunday-theotokia-15": {
   "name": "Sunday Theotokia (15)",
-  "says": "“Who can speak of”",
+  "says": "Who can speak of",
   "arabic": "ثيؤطوكية الأحد - القطعة الخامسة عشر"
  },
  "sunday-theotokia-2": {
   "name": "Sunday Theotokia (2)",
-  "says": "“The ark overlaid”",
+  "says": "The ark overlaid",
   "coptic": "Ϯⲕⲓⲃⲱⲧⲟⲥ ⲉⲧⲟϣϫ",
   "arabic": "ثيؤطوكية الأحد - القطعة الثانية"
  },
  "sunday-theotokia-3": {
   "name": "Sunday Theotokia (3)",
-  "says": "“The mercy seat”",
+  "says": "The mercy seat",
   "coptic": "Ⲡⲓⲓ̀ⲗⲁⲥⲧⲏⲣⲓⲟⲛ",
   "arabic": "ثيؤطوكية الأحد - القطعة الثالثة"
  },
  "sunday-theotokia-4": {
   "name": "Sunday Theotokia (4)",
-  "says": "“You are the pot”",
+  "says": "You are the pot",
   "coptic": "Ⲛ̀ⲑⲟ ⲡⲉ ⲡⲓⲥ̀ⲧⲁⲙⲛⲟⲥ",
   "arabic": "ثيؤطوكية الأحد - القطعة الرابعة"
  },
  "sunday-theotokia-5": {
   "name": "Sunday Theotokia (5)",
-  "says": "“You are the lampstand”",
+  "says": "You are the lampstand",
   "arabic": "ثيؤطوكية الأحد - القطعة الخامسة"
  },
  "sunday-theotokia-6": {
   "name": "Sunday Theotokia (6)",
-  "says": "“You are the censer”",
+  "says": "You are the censer",
   "arabic": "ثيؤطوكية الأحد - القطعة السادسة"
  },
  "sunday-theotokia-9": {
   "name": "Sunday Theotokia (9)",
-  "says": "“You are called”",
+  "says": "You are called",
   "arabic": "ثيؤطوكية الأحد - القطعة التاسعة"
  },
  "ten-theeno": {
   "name": "Ten Thino",
-  "says": "“Arise O children of the light”",
+  "says": "Arise O children of the light",
   "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ",
   "arabic": "لحن تين ثينو"
  },
  "ten-thinou": {
   "name": "Ten Thino (long)",
-  "says": "“Arise O children of the light”"
+  "says": "Arise O children of the light"
  },
  "tennav": {
   "name": "Tennav",
-  "says": "“We look at the Resurrection of Christ”",
+  "says": "We look at the Resurrection of Christ",
   "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲉ̀Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
   "arabic": "لحن القيامة - تينناف"
  },
  "tenoue-n-khok": {
   "name": "Ten Oweh Ensok",
-  "says": "“We follow You with all our hearts”",
+  "says": "We follow You with all our hearts",
   "coptic": "Ⲧⲉⲛⲟⲩⲉϩ ⲛ̀ⲥⲱⲕ",
   "arabic": "تين أوويه إنسوك"
  },
  "teoi-enhekanos": {
   "name": "Teoi Enhikanos",
-  "says": "“You are more worthy”",
+  "says": "You are more worthy",
   "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
  },
  "third-hoos": {
   "name": "Third Canticle",
-  "says": "“Blessed are You O Lord God of”",
+  "says": "Blessed are You O Lord God of",
   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ",
   "arabic": "الهوس الثالث"
  }

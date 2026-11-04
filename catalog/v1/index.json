@@ -1,6 +1,6 @@
 {
- "version": "6b63143c28c24162",
- "updated": "2026-11-04T02:31:20Z",
+ "version": "859fd8c9f1e0f384",
+ "updated": "2026-11-04T02:38:13Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1616,7 +1616,7 @@
     "arabic": "ختام الثيؤطوكيات الأدام - مراحمك يا إلهي"
    },
    "subtitle": {
-    "english": "“Your mercies O my God”"
+    "english": "Your mercies O my God"
    },
    "aka": [
     "The Adam Theotokias Conclusion"
@@ -1784,7 +1784,7 @@
     "arabic": "اريبصالين"
    },
    "subtitle": {
-    "english": "“O sing unto Him who was crucified”"
+    "english": "O sing unto Him who was crucified"
    },
    "tags": [],
    "pending": false,
@@ -2138,7 +2138,7 @@
     "arabic": "مجمع القديسين"
    },
    "subtitle": {
-    "english": "“Commemoration of the Saints”"
+    "english": "Commemoration of the Saints"
    },
    "aka": [
     "The Commemoration of the Saint"
@@ -2794,7 +2794,7 @@
     "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
    },
    "subtitle": {
-    "english": "“Your greatness O Mary”"
+    "english": "Your greatness O Mary"
    },
    "aka": [
     "Doxology for Virgin Mary - Midnight Praise"
@@ -2991,7 +2991,7 @@
     "arabic": "الهوس الأول"
    },
    "subtitle": {
-    "english": "“Then Moses sang”"
+    "english": "Then Moses sang"
    },
    "aka": [
     "First Hoos"
@@ -3056,7 +3056,7 @@
     "arabic": "الهوس الرابع"
    },
    "subtitle": {
-    "english": "“Praise the Lord from the heavens Alleluia…”"
+    "english": "Praise the Lord from the heavens Alleluia"
    },
    "aka": [
     "The Fourth Hoos"
@@ -3659,7 +3659,7 @@
     "arabic": "لبش الهوس الأول"
    },
    "subtitle": {
-    "english": "“With the split, the waters of the”"
+    "english": "With the split, the waters of the"
    },
    "aka": [
     "Lobsh of First Hoos"
@@ -3700,7 +3700,7 @@
     "arabic": "ذكصولوجية باكر"
    },
    "subtitle": {
-    "english": "“We worship the Father and the Son”"
+    "english": "We worship the Father and the Son"
    },
    "aka": [
     "The Morning Doxology"
@@ -3741,7 +3741,7 @@
     "arabic": "لحن ني إثنوس تيرو"
    },
    "subtitle": {
-    "english": "“Praise the Lord, all you nations”"
+    "english": "Praise the Lord, all you nations"
    },
    "aka": [
     "Ni Ethnos Tero (O praise the Lord, all ye nations)"
@@ -3773,7 +3773,7 @@
     "arabic": "القطعة السادسة عشر - نيم غار"
    },
    "subtitle": {
-    "english": "“Who is likened unto You”"
+    "english": "Who is likened unto You"
    },
    "aka": [
     "The Sixteenth Part - Nim Ghar"
@@ -5046,7 +5046,7 @@
     "arabic": "الهوس الثاني"
    },
    "subtitle": {
-    "english": "“O give thanks to the Lord for”"
+    "english": "O give thanks to the Lord for"
    },
    "aka": [
     "The Second Hoos"
@@ -5079,7 +5079,7 @@
     "arabic": "لبش الهوس الثاني"
    },
    "subtitle": {
-    "english": "“Let us give thanks, to Christ our”"
+    "english": "Let us give thanks, to Christ our"
    },
    "aka": [
     "The Second Hoos Lobsh"
@@ -5146,7 +5146,7 @@
     "arabic": "القطعة السابعة - سيموتي"
    },
    "subtitle": {
-    "english": "“You are called righteous”"
+    "english": "You are called righteous"
    },
    "aka": [
     "The Seventh Part - Semoti"
@@ -5188,7 +5188,7 @@
     "arabic": "القطعة الثامنة - شاشف إنسوب"
    },
    "subtitle": {
-    "english": "“Seven times every day”"
+    "english": "Seven times every day"
    },
    "aka": [
     "The Eighth Part - Shashf Ensop"
@@ -5244,7 +5244,7 @@
     "arabic": "القطعة السابعة - شيري نيه ماريا"
    },
    "subtitle": {
-    "english": "“Hail to you Mary”"
+    "english": "Hail to you Mary"
    },
    "aka": [
     "The Seventh Part - Shere ne Maria"
@@ -5345,7 +5345,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الأولى"
    },
    "subtitle": {
-    "english": "“You are called righteous”"
+    "english": "You are called righteous"
    },
    "aka": [
     "The Sunday Theotokia (1)"
@@ -5378,7 +5378,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الحادية عشر"
    },
    "subtitle": {
-    "english": "“All the high names”"
+    "english": "All the high names"
    },
    "aka": [
     "The Sunday Theotokia (11)"
@@ -5411,7 +5411,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الثانية عشر"
    },
    "subtitle": {
-    "english": "“Your glory O Mary”"
+    "english": "Your glory O Mary"
    },
    "aka": [
     "The Sunday Theotokia (12)"
@@ -5444,7 +5444,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الثالثة عشر"
    },
    "subtitle": {
-    "english": "“A true tabernacle”"
+    "english": "A true tabernacle"
    },
    "aka": [
     "The Sunday Theotokia (13)"
@@ -5477,7 +5477,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الرابعة عشر"
    },
    "subtitle": {
-    "english": "“You decorated our souls”"
+    "english": "You decorated our souls"
    },
    "aka": [
     "The Sunday Theotokia (14)"
@@ -5510,7 +5510,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الخامسة عشر"
    },
    "subtitle": {
-    "english": "“Who can speak of”"
+    "english": "Who can speak of"
    },
    "aka": [
     "The Sunday Theotokia (15)"
@@ -5543,7 +5543,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الثانية"
    },
    "subtitle": {
-    "english": "“The ark overlaid”"
+    "english": "The ark overlaid"
    },
    "aka": [
     "The Sunday Theotokia (2)"
@@ -5576,7 +5576,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الثالثة"
    },
    "subtitle": {
-    "english": "“The mercy seat”"
+    "english": "The mercy seat"
    },
    "aka": [
     "The Sunday Theotokia (3)"
@@ -5609,7 +5609,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الرابعة"
    },
    "subtitle": {
-    "english": "“You are the pot”"
+    "english": "You are the pot"
    },
    "aka": [
     "The Sunday Theotokia (4)"
@@ -5642,7 +5642,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة الخامسة"
    },
    "subtitle": {
-    "english": "“You are the lampstand”"
+    "english": "You are the lampstand"
    },
    "aka": [
     "The Sunday Theotokia (5)"
@@ -5675,7 +5675,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة السادسة"
    },
    "subtitle": {
-    "english": "“You are the censer”"
+    "english": "You are the censer"
    },
    "aka": [
     "The Sunday Theotokia (6)"
@@ -5708,7 +5708,7 @@
     "arabic": "ثيؤطوكية الأحد - القطعة التاسعة"
    },
    "subtitle": {
-    "english": "“You are called”"
+    "english": "You are called"
    },
    "aka": [
     "The Sunday Theotokia (9)"
@@ -5826,7 +5826,7 @@
     "arabic": "لحن تين ثينو"
    },
    "subtitle": {
-    "english": "“Arise O children of the light”"
+    "english": "Arise O children of the light"
    },
    "aka": [
     "The Hymn of Ten-theno"
@@ -5867,7 +5867,7 @@
     "arabic": "تين ثينو الكبير"
    },
    "subtitle": {
-    "english": "“Arise O children of the light”"
+    "english": "Arise O children of the light"
    },
    "aka": [
     "Ten Theeno (Arise, O Children of the Light)"
@@ -5930,7 +5930,7 @@
     "arabic": "لحن القيامة - تينناف"
    },
    "subtitle": {
-    "english": "“We look at the Resurrection of Christ”"
+    "english": "We look at the Resurrection of Christ"
    },
    "aka": [
     "The Hymn of the Resurrection - Tennav"
@@ -5963,7 +5963,7 @@
     "arabic": "تين أوويه إنسوك"
    },
    "subtitle": {
-    "english": "“We follow You with all our hearts”"
+    "english": "We follow You with all our hearts"
    },
    "aka": [
     "Tenoueh Ensok (We Follow You)"
@@ -6007,7 +6007,7 @@
     "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
    },
    "subtitle": {
-    "english": "“You are more worthy”"
+    "english": "You are more worthy"
    },
    "aka": [
     "The Tenth Part - Teoi Enhekanos"
@@ -6350,7 +6350,7 @@
     "arabic": "الهوس الثالث"
    },
    "subtitle": {
-    "english": "“Blessed are You O Lord God of”"
+    "english": "Blessed are You O Lord God of"
    },
    "aka": [
     "The Third Hoos"
