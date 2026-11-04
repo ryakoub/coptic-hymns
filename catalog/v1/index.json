@@ -1,6 +1,6 @@
 {
- "version": "859fd8c9f1e0f384",
- "updated": "2026-11-04T02:38:13Z",
+ "version": "8bcf80b784fa19ee",
+ "updated": "2026-11-04T04:44:25Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5952,7 +5952,7 @@
    "file": {
     "url": "catalog/v1/texts/tennav.json",
     "bytes": 27588,
-    "sha256": "8582c119f5591ba7e438273096cb2d1af91920eb89489e3802580b911bb62755"
+    "sha256": "86d48d7f58558f9af8eed0db31b79b448e56834e40e78c7e7fa197e88390c244"
    }
   },
   {
