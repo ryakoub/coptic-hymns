@@ -1,6 +1,6 @@
 {
- "version": "a3542fd73f6cd49b",
- "updated": "2026-11-04T18:50:22Z",
+ "version": "ee8c2f514a67422e",
+ "updated": "2026-11-04T18:55:22Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -41804,9 +41804,9 @@
    "locked": true,
    "permission": {
     "english": "Used by permission of Cantor Bola",
-    "arabic": "بإذن من المرتل بولا"
+    "arabic": "بسماح من المرتل بولا"
    },
-   "version": "0d90b1bcc56fac3c"
+   "version": "7dc8cd3fb28284f3"
   }
  ],
  "credits": {
