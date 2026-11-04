@@ -1,6 +1,6 @@
 {
- "version": "6d9532fa8da3c846",
- "updated": "2026-11-04T02:04:29Z",
+ "version": "6b63143c28c24162",
+ "updated": "2026-11-04T02:31:20Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1612,8 +1612,8 @@
    "id": "adam-theotokias-conclusion",
    "titles": {
     "english": "Adam Theotokia Conclusion",
-    "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ ⲡⲁⲛⲟⲩϯ",
-    "arabic": "ختام الثيؤطوكيات الأدام"
+    "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ Ⲡⲁⲛⲟⲩϯ",
+    "arabic": "ختام الثيؤطوكيات الأدام - مراحمك يا إلهي"
    },
    "subtitle": {
     "english": "“Your mercies O my God”"
@@ -1639,8 +1639,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
-    "bytes": 17510,
-    "sha256": "41269ab9db653aac56701cdb813bfe91bf89c58e1599f4eee2acd3f650ad1aaa"
+    "bytes": 17539,
+    "sha256": "5bf3cc808f0b07ce62bf803ebf7c5e185a466925e11d00ac7064590b5b737290"
    }
   },
   {
@@ -1779,7 +1779,7 @@
   {
    "id": "aripalin",
    "titles": {
-    "coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
+    "coptic": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ",
     "english": "Aripsalin",
     "arabic": "اريبصالين"
    },
@@ -1801,8 +1801,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aripalin.json",
-    "bytes": 26351,
-    "sha256": "8c7a2d917c137464cfa713f7bf48761373defb7eb94edc82a18ea376e39135b4"
+    "bytes": 26353,
+    "sha256": "fcfd66e518d8001384e8729b052281ec94f0f13e3cc220f3f266b022d53ff390"
    }
   },
   {
@@ -2304,7 +2304,7 @@
    "id": "conclusion-midnight-praises",
    "titles": {
     "english": "Conclusion of the Midnight Praises",
-    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+    "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ",
     "arabic": "ختام التسبحة"
    },
    "subtitle": {
@@ -2326,8 +2326,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/conclusion-midnight-praises.json",
-    "bytes": 5529,
-    "sha256": "5af0d9752e3204e0f890194f5f6d8ae181f902a2155f1ff56e3fb2f138eb7a87"
+    "bytes": 5509,
+    "sha256": "d4970e4ba0fc84841082442a6db5776f33c33d25564db0b09394501fd5271a50"
    }
   },
   {
@@ -2986,7 +2986,9 @@
   {
    "id": "first-hoos",
    "titles": {
-    "english": "First Canticle"
+    "english": "First Canticle",
+    "coptic": "Ⲧⲟⲧⲉ ⲁϥϩⲱⲥ",
+    "arabic": "الهوس الأول"
    },
    "subtitle": {
     "english": "“Then Moses sang”"
@@ -3009,15 +3011,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-hoos.json",
-    "bytes": 15417,
-    "sha256": "43e102367bfd3f43f72489fd83633ccc23cf7e2e928ad1b9d01ac79c9bf7fa47"
+    "bytes": 15496,
+    "sha256": "1b12046d535140f220449826f34cdb5b42786c6c731c07871a6ae5410b239b6d"
    }
   },
   {
    "id": "first-sunday-psali",
    "titles": {
     "english": "Sunday Psali (1)",
-    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁⲓ",
+    "coptic": "Ⲁⲓⲛⲁϩϯ ⲉⲑⲃⲉ ⲫⲁ",
     "arabic": "إبصالية الأحد الأول"
    },
    "subtitle": {
@@ -3042,15 +3044,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/first-sunday-psali.json",
-    "bytes": 22668,
-    "sha256": "3c305edfff9a7742922bdc9e1cd5a0f68e76a7266aabca4e3056a875751ad3b2"
+    "bytes": 22665,
+    "sha256": "98ff49c34d2a15d309823298e0ba532058b47607580845e57a469a401cc3cb39"
    }
   },
   {
    "id": "fourth-hoos",
    "titles": {
     "english": "Fourth Canticle",
-    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲉ̀ⲃⲟⲗ",
+    "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
     "arabic": "الهوس الرابع"
    },
    "subtitle": {
@@ -3075,8 +3077,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fourth-hoos.json",
-    "bytes": 32919,
-    "sha256": "677e20a736c3494c12a0b2472010068c2543e6854d764cf7e92c081f531ee525"
+    "bytes": 32904,
+    "sha256": "4e99ff71ad1c37b3efac6ad4b9d814f7897dd8378dd483ee0a3e9f2e34b1a872"
    }
   },
   {
@@ -3568,7 +3570,7 @@
   {
    "id": "leepon",
    "titles": {
-    "english": "Leebon",
+    "english": "Leepon",
     "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ",
     "arabic": "مقدمة الثيؤطوكية - ليبون"
    },
@@ -3595,7 +3597,7 @@
    "file": {
     "url": "catalog/v1/texts/leepon.json",
     "bytes": 4246,
-    "sha256": "714f2f721d7ce4442a7c6c2f59c5998d98b97078e83f93fa12ba471d792423c8"
+    "sha256": "5ac9c510f5ebe7e502fe15655acdeb79529094e13af71d78d16137c5d607d2c1"
    }
   },
   {
@@ -3735,7 +3737,7 @@
    "id": "ni-ethnos-tero",
    "titles": {
     "english": "Ni Ethnos Tero",
-    "coptic": "Ⲡⲓⲃⲱϩⲉⲙ ⲛ̀ⲧⲉ Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ",
+    "coptic": "Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ",
     "arabic": "لحن ني إثنوس تيرو"
    },
    "subtitle": {
@@ -3759,14 +3761,14 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ni-ethnos-tero.json",
-    "bytes": 3629,
-    "sha256": "58d0c8b183339e52824bb43c1df61568bdb5bc846d19d70ccb2c0ea9eebf8fa5"
+    "bytes": 3596,
+    "sha256": "58f95f6632dcc7ed931748dd87355d9aa7390edd66a44747b9c28d49a598b8e9"
    }
   },
   {
    "id": "nim-ghar",
    "titles": {
-    "english": "Nim Ghar (16)",
+    "english": "Nim Ghar",
     "coptic": "Ⲛⲓⲙ ⲅⲁⲣ ϧⲉⲛ ⲛⲓⲛⲟⲩϯ",
     "arabic": "القطعة السادسة عشر - نيم غار"
    },
@@ -3792,8 +3794,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/nim-ghar.json",
-    "bytes": 13038,
-    "sha256": "3f029639eb0f5544b00d94d59527e6eb0fab3c4a17684b1985b75454ab2fef8a"
+    "bytes": 13033,
+    "sha256": "6d0349f1d658db9ded41e74d560d6cb210dcfce930d06302fed04588de81f149"
    }
   },
   {
@@ -5040,7 +5042,7 @@
    "id": "second-hoos",
    "titles": {
     "english": "Second Canticle",
-    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡ̀ϭⲟⲓⲥ",
+    "coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ",
     "arabic": "الهوس الثاني"
    },
    "subtitle": {
@@ -5065,15 +5067,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos.json",
-    "bytes": 25408,
-    "sha256": "d849c4d4fed084e2276a4d9d3d6903d986b8b82745f63118cb1a04ba366b6beb"
+    "bytes": 25386,
+    "sha256": "2e2d77e863dba8182270cf72b22dc772e8ffc8b9621a87fc8bbcf9cff47c6540"
    }
   },
   {
    "id": "second-hoos-lobsh",
    "titles": {
     "english": "Lobsh of the Second Canticle",
-    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛⲉϩ",
+    "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ",
     "arabic": "لبش الهوس الثاني"
    },
    "subtitle": {
@@ -5099,8 +5101,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos-lobsh.json",
-    "bytes": 12425,
-    "sha256": "01d0c4133a16455587660ba418576aaefbe7395bef86c294163a34832894b439"
+    "bytes": 12437,
+    "sha256": "1d54e86319b1f2ca5386366e87f1e04847609dee68c20d74cfd877508d7a7797"
    }
   },
   {
@@ -5139,7 +5141,7 @@
   {
    "id": "semoti",
    "titles": {
-    "english": "Semouti (7)",
+    "english": "Semouti",
     "coptic": "Ⲥⲉⲙⲟⲩϯ ⲉ̀ⲣⲟ ⲇⲓⲕⲉⲟⲥ",
     "arabic": "القطعة السابعة - سيموتي"
    },
@@ -5174,14 +5176,14 @@
    ],
    "file": {
     "url": "catalog/v1/texts/semoti.json",
-    "bytes": 6930,
-    "sha256": "3db9c89a14b92b1d8b110130e2d8c95a6019db75ac72f04effaf569337db1b8e"
+    "bytes": 6926,
+    "sha256": "6ff5d31bf3f0110cba32c37dd2353cb7519ec2ee46b32d9665fe206e7529e578"
    }
   },
   {
    "id": "shashf-ensop",
    "titles": {
-    "english": "Shashf Ensop (8)",
+    "english": "Shashf Ensop",
     "coptic": "Ϣⲁϣϥ ⲛ̀ⲥⲟⲡ ⲙ̀ⲙⲏⲛⲓ",
     "arabic": "القطعة الثامنة - شاشف إنسوب"
    },
@@ -5207,8 +5209,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shashf-ensop.json",
-    "bytes": 32071,
-    "sha256": "da8f62eeafbe3149f4b4ef664a3dc4f90d5e43bb474207244d0bb9860a66a530"
+    "bytes": 32067,
+    "sha256": "40ab307c3f81e8705dab35804d16822e366ad228e7df0dc5faeaf5b00f7be9a0"
    }
   },
   {
@@ -5237,7 +5239,7 @@
   {
    "id": "shere-ne-maria",
    "titles": {
-    "english": "Shere ne Maria (7)",
+    "english": "Shere ne Maria",
     "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
     "arabic": "القطعة السابعة - شيري نيه ماريا"
    },
@@ -5271,8 +5273,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/shere-ne-maria.json",
-    "bytes": 5895,
-    "sha256": "778dd698bf51cf49cc8b31cc226e2b19f71cbaf9161f02ad95533e0d4ffc02a0"
+    "bytes": 5891,
+    "sha256": "1a007390239abca9b2cb29fe7c6034bf144eeca42835387de0a4f38d2eca584c"
    }
   },
   {
@@ -5924,7 +5926,7 @@
    "id": "tennav",
    "titles": {
     "english": "Tennav",
-    "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲛ̀ⲧⲉ Ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
+    "coptic": "Ⲧⲉⲛⲛⲁⲩ ⲉ̀Ⲧ̀ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
     "arabic": "لحن القيامة - تينناف"
    },
    "subtitle": {
@@ -5949,14 +5951,14 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tennav.json",
-    "bytes": 27592,
-    "sha256": "d911273c6058aaaecac25dc271d2129a3ee37a7e4968e48eba5b0b59f7e3dac6"
+    "bytes": 27588,
+    "sha256": "8582c119f5591ba7e438273096cb2d1af91920eb89489e3802580b911bb62755"
    }
   },
   {
    "id": "tenoue-n-khok",
    "titles": {
-    "coptic": "Ⲧⲉⲛⲟⲩⲉϩ Ⲛ̀ⲥⲱⲕ",
+    "coptic": "Ⲧⲉⲛⲟⲩⲉϩ ⲛ̀ⲥⲱⲕ",
     "english": "Ten Oweh Ensok",
     "arabic": "تين أوويه إنسوك"
    },
@@ -5994,13 +5996,13 @@
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
     "bytes": 5027,
-    "sha256": "7f42dabe6de5ca755128fd5a28bc4dc0c08958fdaa7941ad3acdb485669df609"
+    "sha256": "51d0d54b696be46355f1ede870d60df23ea6351cb76ca714a26cb7419bae0a29"
    }
   },
   {
    "id": "teoi-enhekanos",
    "titles": {
-    "english": "Teoi Enhikanos (10)",
+    "english": "Teoi Enhikanos",
     "coptic": "Ⲧⲉⲟⲓ ⲛ̀ϩⲓⲕⲁⲛⲟⲥ",
     "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
    },
@@ -6026,8 +6028,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/teoi-enhekanos.json",
-    "bytes": 55864,
-    "sha256": "909597d8f37f99f5cd857ae25b80b06251e90f017d1b2b42a7392305fab2497d"
+    "bytes": 55859,
+    "sha256": "e4f54ba9f2917804bfa3f72e7987e869b800dcde0b527c4ca3e6d3035f75e49d"
    }
   },
   {
@@ -6344,7 +6346,7 @@
    "id": "third-hoos",
    "titles": {
     "english": "Third Canticle",
-    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ",
+    "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ",
     "arabic": "الهوس الثالث"
    },
    "subtitle": {
@@ -6369,8 +6371,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/third-hoos.json",
-    "bytes": 37444,
-    "sha256": "335ce25b7b2d24a821440e416df38d9ed19a12e145867e34e7bfe07b41606f58"
+    "bytes": 37427,
+    "sha256": "fac7c66211a0165935d9ae7e4a8fe824e986b8c44456c95539490567890b3876"
    }
   },
   {

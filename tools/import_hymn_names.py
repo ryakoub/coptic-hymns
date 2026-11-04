@@ -2,7 +2,8 @@
 """Merge the names worked out in the hymn-names sheet into catalog/hymn-names.json.
 
 Each hymn gets two lines in the app's lists: its name (the one the church knows it by) and a second line saying
-what it says. build_catalog.py puts the name in the text's English title and the second line in its "subtitle".
+what it says, with its Coptic and Arabic names. build_catalog.py puts the name in the text's English title, the
+Coptic and Arabic names in its other titles, and the second line in its "subtitle".
 
 Usage:
   python3 tools/import_hymn_names.py "hymn-names (Psalmody).csv" --book "Holy Psalmody"
@@ -36,7 +37,11 @@ def main():
         name, line = tidy(r.get("Proposed name (big line)")), tidy(r.get("Proposed second line (small)"))
         if not name:
             continue
-        names[r["id"]] = {"name": name, **({"says": line} if line else {})}
+        coptic, arabic = tidy(r.get("Coptic first words")), tidy(r.get("Arabic name"))
+        # The Coptic column only when it's in Coptic letters (some rows hold the words in Latin letters, as a reminder).
+        coptic = coptic if re.search(r"[\u2C80-\u2CFF\u03E2-\u03EF]", coptic) else ""
+        names[r["id"]] = {"name": name, **({"says": line} if line else {}),
+                          **({"coptic": coptic} if coptic else {}), **({"arabic": arabic} if arabic else {})}
         n += 1
     NAMES.write_text(json.dumps(dict(sorted(names.items())), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"{n} names taken; {len(names)} in {NAMES.relative_to(ROOT)}")

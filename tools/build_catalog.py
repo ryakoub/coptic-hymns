@@ -184,6 +184,10 @@ class Build:
         aka = [titles["english"]] if named.get("name") and titles.get("english") not in (None, named["name"]) else []
         if named.get("name"):
             titles["english"] = named["name"]
+        # Its Coptic and Arabic names from the sheet too, so every hymn in a list shows all three alike.
+        for lang in ("coptic", "arabic"):
+            if named.get(lang):
+                titles[lang] = named[lang]
         if "english" not in titles:
             self.warn(tid, "no English title")
         if pending:

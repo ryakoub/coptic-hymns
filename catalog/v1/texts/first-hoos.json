@@ -1,7 +1,9 @@
 {
  "id": "first-hoos",
  "titles": {
-  "english": "First Canticle"
+  "english": "First Canticle",
+  "coptic": "Ⲧⲟⲧⲉ ⲁϥϩⲱⲥ",
+  "arabic": "الهوس الأول"
  },
  "lines": [
   {
