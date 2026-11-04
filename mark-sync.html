@@ -442,7 +442,7 @@ async function addTracks(p,files){
     p.tracks.push({id,name:f.name.replace(/\.[^.]+$/,''),fileName:f.name,fileKey:key,points:[]}); }
 }
 
-/* Small text prompt (rename). Resolves to the text, or null when cancelled. */
+/* Small text prompt (rename). Resolves to the text, or null when canceled. */
 function askText({title,value='',hint='',ok='Save',allowEmpty=false}){
   const d=$('#ask'), inp=$('#askIn');
   $('#askTitle').textContent=title; $('#askHint').textContent=hint; $('#askHint').hidden=!hint; $('#askOk').textContent=ok;
@@ -682,7 +682,7 @@ function renderTrackList(){
     ol.append(li);
   });
 }
-/* Drag to reorder: the handle captures the pointer and the row moves through the list as it passes each neighbour's midpoint. */
+/* Drag to reorder: the handle captures the pointer and the row moves through the list as it passes each neighbor's midpoint. */
 let tdrag=null; const trkList=$('#trkList');
 trkList.addEventListener('pointerdown',e=>{ const h=e.target.closest('.handle'); if(!h) return; e.preventDefault();
   tdrag={li:h.closest('li'),pid:e.pointerId}; tdrag.li.classList.add('dragging'); h.setPointerCapture(e.pointerId); });
