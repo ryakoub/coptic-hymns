@@ -1,6 +1,6 @@
 {
- "version": "0f913f62ffdcb39c",
- "updated": "2026-11-03T23:57:50Z",
+ "version": "6d9532fa8da3c846",
+ "updated": "2026-11-04T02:04:29Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5848,7 +5848,8 @@
    ],
    "recordings": [
     "ten-theeno",
-    "ten-theeno-english"
+    "ten-theeno-english",
+    "ten-theeno-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
@@ -5860,9 +5861,15 @@
    "id": "ten-thinou",
    "titles": {
     "coptic": "Ⲧⲉⲛ Ⲑⲏⲛⲟⲩ",
-    "english": "Ten Theeno (Arise, O Children of the Light)",
-    "arabic": "تين ثينو"
+    "english": "Ten Thino (long)",
+    "arabic": "تين ثينو الكبير"
    },
+   "subtitle": {
+    "english": "“Arise O children of the light”"
+   },
+   "aka": [
+    "Ten Theeno (Arise, O Children of the Light)"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5878,13 +5885,12 @@
    ],
    "transliterations": [],
    "recordings": [
-    "ten-thinou",
-    "ten-thinou-english-chie"
+    "ten-thinou"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-thinou.json",
-    "bytes": 520,
-    "sha256": "8f3bbbaeeb47d03d4fce1e9f3b886835d6537633365fdcad9ad17b58e13e8e6c"
+    "bytes": 506,
+    "sha256": "c3823a21dfc1a8d62d5d95e36cca0ebbd812d235bd3b202613e3cb25a7acbd62"
    }
   },
   {
@@ -15116,6 +15122,36 @@
    ]
   },
   {
+   "id": "ten-theeno-english-chie",
+   "text": "ten-theeno",
+   "duration": 418.61,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/18/track/36",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/ten-theeno-english-chie.json",
+     "bytes": 83,
+     "sha256": "1ff79df6e0dad9ca3c72c0b69e1ceae5101a687abb78b8780d620e9f2d419d4b",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/ten-theeno-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 8551053,
+     "sha256": "1550aa3b67870768ccfb684885b608199234f617bab608ed8c6f5c58b73b5b83"
+    }
+   ]
+  },
+  {
    "id": "ten-thinou",
    "text": "ten-thinou",
    "duration": 562.13,
@@ -15139,36 +15175,6 @@
      "role": "audio",
      "bytes": 9164718,
      "sha256": "3a54ec05e5eb491f7f90e2e673362d020a33bace06376cd508e80017eba5e1ab"
-    }
-   ]
-  },
-  {
-   "id": "ten-thinou-english-chie",
-   "text": "ten-thinou",
-   "duration": 418.61,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "https://www.coptichymnsinenglish.com/album/18/track/36",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
-   "cantor": "Coptic Hymns in English",
-   "language": "english",
-   "files": [
-    {
-     "url": "catalog/v1/timings/ten-thinou-english-chie.json",
-     "bytes": 83,
-     "sha256": "11c4fd99612a3ad317a6c2307d4b3342d4a103208c9da11952dc0a96c79b701b",
-     "role": "timing"
-    },
-    {
-     "url": "content/english/ten-thinou-english-chie/audio.m4a",
-     "role": "audio",
-     "bytes": 8551053,
-     "sha256": "1550aa3b67870768ccfb684885b608199234f617bab608ed8c6f5c58b73b5b83"
     }
    ]
   },
@@ -28909,8 +28915,8 @@
   {
    "id": "ten-theeno",
    "titles": {
-    "english": "Ten Thino",
-    "arabic": "تين ثينو (قوموا يا بني النور)",
+    "english": "Ten Thino (long)",
+    "arabic": "تين ثينو الكبير (قوموا يا بني النور)",
     "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ"
    },
    "kind": "score",
@@ -28923,7 +28929,7 @@
    "recordings": [
     {
      "id": "ten-theeno-1",
-     "name": "Ten Theeno, Mahragan 2026",
+     "name": "Ten Thino (long), Mahragan 2026",
      "audio": {
       "url": "content/mahragan-keraza-2026/college/level-2/ten-thinou/audio.seek.m4a",
       "role": "audio",
@@ -33854,10 +33860,9 @@
     "toLineEnd": true
    },
    "texts": [
-    "ten-theeno",
     "ten-thinou"
    ],
-   "version": "f9b42822377d7a4f"
+   "version": "e278019372b7b96f"
   },
   {
    "id": "ti-shouri-annual",

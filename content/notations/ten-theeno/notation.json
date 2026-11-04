@@ -1,7 +1,7 @@
 {
  "titles": {
-  "english": "Ten Theeno (Arise, O Children of the Light)",
-  "arabic": "تين ثينو (قوموا يا بني النور)",
+  "english": "Ten Thino (long)",
+  "arabic": "تين ثينو الكبير (قوموا يا بني النور)",
   "coptic": "Ⲧⲉⲛⲑⲏⲛⲟⲩ"
  },
  "kind": "score",
@@ -10,7 +10,7 @@
   "annual"
  ],
  "texts": [
-  "ten-theeno"
+  "ten-thinou"
  ],
  "pdf": "notation.pdf",
  "cursor": {
@@ -19,7 +19,7 @@
  },
  "recordings": [
   {
-   "name": "Ten Theeno, Mahragan 2026",
+   "name": "Ten Thino (long), Mahragan 2026",
    "recording": "ten-thinou",
    "points": [
     [
