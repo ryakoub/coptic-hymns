@@ -9,23 +9,13 @@
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲁ̀ⲙⲏⲛ.",
+   "coptic": "Ⲁ̀ⲙⲏⲛ. Ϯⲛⲁϩϯ.",
    "translations": {
-    "english": "Amen,"
+    "english": "Amen, I believe.",
+    "arabic": "حقاً. أؤمن."
    },
    "transliterations": {
-    "english": "Ameen."
-   }
-  },
-  {
-   "id": "l2",
-   "side": 1,
-   "coptic": "Ϯⲛⲁϩϯ.",
-   "translations": {
-    "english": "I believe."
-   },
-   "transliterations": {
-    "english": "Tinahti."
+    "english": "Ameen. Tinahti."
    }
   }
  ]

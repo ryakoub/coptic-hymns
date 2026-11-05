@@ -1,6 +1,6 @@
 {
- "version": "3a4657c5396bb1b9",
- "updated": "2026-11-05T04:41:32Z",
+ "version": "5e56040f0097b66a",
+ "updated": "2026-11-05T05:47:31Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5305,8 +5305,9 @@
    ],
    "tags": [],
    "pending": false,
-   "lines": 2,
+   "lines": 1,
    "translations": [
+    "arabic",
     "english"
    ],
    "transliterations": [
@@ -5319,8 +5320,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-anaphora-amen-i-believe.json",
-    "bytes": 538,
-    "sha256": "d0c2cbb97ea01ade234ee38574adb8bdb742deac6bedcaa855a4afa5dd09fab7"
+    "bytes": 430,
+    "sha256": "4c4e61736c7512b7afcac57d4f2eefe80514f9276c53cf3d08375d3d72c0625a"
    }
   },
   {
@@ -13609,7 +13610,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 2
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2624",
    "kind": "recital",
