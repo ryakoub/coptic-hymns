@@ -5,7 +5,8 @@
       "english": "Is o panagios Pateer:"
     },
     "translations": {
-      "english": "One is the All-Holy Father,"
+      "english": "One is the All-Holy Father,",
+      "arabic": "واحد الآب الكلي القدوس."
     }
   },
   {
@@ -14,7 +15,8 @@
       "english": "is o panagios I-ios:"
     },
     "translations": {
-      "english": "one is the All-Holy Son,"
+      "english": "one is the All-Holy Son,",
+      "arabic": "واحد الإبن الكلي القدوس."
     }
   },
   {
@@ -23,7 +25,8 @@
       "english": "en to panagion Epnevma:"
     },
     "translations": {
-      "english": "one is the All-Holy Spirit."
+      "english": "one is the All-Holy Spirit.",
+      "arabic": "واحد الروح القدس الكلي."
     }
   },
   {
@@ -32,7 +35,8 @@
       "english": "ameen."
     },
     "translations": {
-      "english": "Amen."
+      "english": "Amen.",
+      "arabic": "آمين."
     }
   },
   {
@@ -41,7 +45,8 @@
       "english": "Is Pateer agios:"
     },
     "translations": {
-      "english": "One is the Holy Father,"
+      "english": "One is the Holy Father,",
+      "arabic": "واحد هو الآب القدوس."
     }
   },
   {
@@ -50,7 +55,8 @@
       "english": "is o I-ios agios:"
     },
     "translations": {
-      "english": "one is the Holy Son,"
+      "english": "one is the Holy Son,",
+      "arabic": "واحد هو الإبن القدوس."
     }
   },
   {
@@ -59,7 +65,8 @@
       "english": "en Epnevma Agion:"
     },
     "translations": {
-      "english": "one is the Holy Spirit."
+      "english": "one is the Holy Spirit.",
+      "arabic": "واحد هو الروح القدس."
     }
   },
   {
@@ -68,7 +75,8 @@
       "english": "ameen."
     },
     "translations": {
-      "english": "Amen."
+      "english": "Amen.",
+      "arabic": "آمين."
     }
   }
 ]

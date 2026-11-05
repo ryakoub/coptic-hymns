@@ -1,38 +1,12 @@
 [
   {
-    "coptic": "Ⲁ̀ⲙⲏⲛ.",
+    "coptic": "Ⲁ̀ⲙⲏⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
     "transliterations": {
-      "english": "Ameen."
+      "english": "Ameen. Kirie ele-eeson: Kirie ele-eeson: Kirie ele-eeson."
     },
     "translations": {
-      "english": "Amen."
-    }
-  },
-  {
-    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
-    "transliterations": {
-      "english": "Kirie ele-eeson:"
-    },
-    "translations": {
-      "english": "Lord have mercy,"
-    }
-  },
-  {
-    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
-    "transliterations": {
-      "english": "Kirie ele-eeson:"
-    },
-    "translations": {
-      "english": "Lord have mercy,"
-    }
-  },
-  {
-    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-    "transliterations": {
-      "english": "Kirie ele-eeson."
-    },
-    "translations": {
-      "english": "Lord have mercy."
+      "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy.",
+      "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
     }
   }
 ]

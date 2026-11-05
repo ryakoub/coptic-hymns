@@ -10,7 +10,8 @@
    "side": 0,
    "coptic": "Ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲡⲁⲧⲏⲣ:",
    "translations": {
-    "english": "One is the All-Holy Father,"
+    "english": "One is the All-Holy Father,",
+    "arabic": "واحد الآب الكلي القدوس."
    },
    "transliterations": {
     "english": "Is o panagios Pateer:"
@@ -21,7 +22,8 @@
    "side": 1,
    "coptic": "ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲩⲓⲟⲥ:",
    "translations": {
-    "english": "one is the All-Holy Son,"
+    "english": "one is the All-Holy Son,",
+    "arabic": "واحد الإبن الكلي القدوس."
    },
    "transliterations": {
     "english": "is o panagios I-ios:"
@@ -32,7 +34,8 @@
    "side": 0,
    "coptic": "ⲉⲛ ⲧⲟ ⲡⲁⲛⲁ̀ⲅⲓⲟⲛ Ⲡ̀ⲛⲉⲩⲙⲁ:",
    "translations": {
-    "english": "one is the All-Holy Spirit."
+    "english": "one is the All-Holy Spirit.",
+    "arabic": "واحد الروح القدس الكلي."
    },
    "transliterations": {
     "english": "en to panagion Epnevma:"
@@ -43,7 +46,8 @@
    "side": 1,
    "coptic": "ⲁ̀ⲙⲏⲛ.",
    "translations": {
-    "english": "Amen."
+    "english": "Amen.",
+    "arabic": "آمين."
    },
    "transliterations": {
     "english": "ameen."
@@ -54,7 +58,8 @@
    "side": 0,
    "coptic": "Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ:",
    "translations": {
-    "english": "One is the Holy Father,"
+    "english": "One is the Holy Father,",
+    "arabic": "واحد هو الآب القدوس."
    },
    "transliterations": {
     "english": "Is Pateer agios:"
@@ -65,7 +70,8 @@
    "side": 1,
    "coptic": "ⲓⲥ ⲟ̀ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ:",
    "translations": {
-    "english": "one is the Holy Son,"
+    "english": "one is the Holy Son,",
+    "arabic": "واحد هو الإبن القدوس."
    },
    "transliterations": {
     "english": "is o I-ios agios:"
@@ -76,7 +82,8 @@
    "side": 0,
    "coptic": "ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ:",
    "translations": {
-    "english": "one is the Holy Spirit."
+    "english": "one is the Holy Spirit.",
+    "arabic": "واحد هو الروح القدس."
    },
    "transliterations": {
     "english": "en Epnevma Agion:"
@@ -87,7 +94,8 @@
    "side": 1,
    "coptic": "ⲁ̀ⲙⲏⲛ.",
    "translations": {
-    "english": "Amen."
+    "english": "Amen.",
+    "arabic": "آمين."
    },
    "transliterations": {
     "english": "ameen."

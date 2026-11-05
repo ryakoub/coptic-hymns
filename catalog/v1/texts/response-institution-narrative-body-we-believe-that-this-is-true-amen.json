@@ -8,23 +8,13 @@
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+   "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ.",
    "translations": {
-    "english": "We believe that this is true."
+    "english": "We believe that this is true. Amen.",
+    "arabic": "نؤمن أن هذا هو بالحقيقة. آمين."
    },
    "transliterations": {
-    "english": "Tennahti je fai pe khen oumethmee:"
-   }
-  },
-  {
-   "id": "l2",
-   "side": 1,
-   "coptic": "ⲁ̀ⲙⲏⲛ.",
-   "translations": {
-    "english": "Amen"
-   },
-   "transliterations": {
-    "english": "ameen."
+    "english": "Tennahti je fai pe khen oumethmee: ameen."
    }
   }
  ]

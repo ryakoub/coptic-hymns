@@ -1,41 +1,20 @@
 {
  "id": "nature-litany-lord-have-mercy-3x-english",
  "titles": {
-  "english": "Nature Litany - Lord have mercy 3x",
-  "arabic": "يا ربُّ إرحَم (3)"
+  "english": "Nature Litany - Lord have mercy, Lord have mercy, Lord have mercy",
+  "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
    "translations": {
-    "english": "Lord have mercy,"
+    "english": "Lord have mercy, Lord have mercy, Lord have mercy.",
+    "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
    },
    "transliterations": {
-    "english": "Kirie ele-eeson:"
-   }
-  },
-  {
-   "id": "l2",
-   "side": 1,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
-   "translations": {
-    "english": "Lord have mercy,"
-   },
-   "transliterations": {
-    "english": "Kirie ele-eeson:"
-   }
-  },
-  {
-   "id": "l3",
-   "side": 0,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-   "translations": {
-    "english": "Lord have mercy."
-   },
-   "transliterations": {
-    "english": "Kirie ele-eeson."
+    "english": "Kirie ele-eeson: Kirie ele-eeson: Kirie ele-eeson."
    }
   }
  ]

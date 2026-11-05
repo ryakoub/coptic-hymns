@@ -8,23 +8,13 @@
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+   "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ.",
    "translations": {
-    "english": "This is also true."
+    "english": "This is also true. Amen.",
+    "arabic": "هذا هو أيضاً بالحقيقة. آمين."
    },
    "transliterations": {
-    "english": "Fai on pe khen oumethmee:"
-   }
-  },
-  {
-   "id": "l2",
-   "side": 1,
-   "coptic": "ⲁ̀ⲙⲏⲛ.",
-   "translations": {
-    "english": "Amen"
-   },
-   "transliterations": {
-    "english": "ameen."
+    "english": "Fai on pe khen oumethmee: ameen."
    }
   }
  ]

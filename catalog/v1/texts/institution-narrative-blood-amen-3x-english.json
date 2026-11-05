@@ -2,40 +2,19 @@
  "id": "institution-narrative-blood-amen-3x-english",
  "titles": {
   "english": "Institution Narrative (Blood) - Amen 3x",
-  "arabic": "آمين (3)"
+  "arabic": "آمين، آمين، آمين"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲁ̀ⲙⲏⲛ:",
+   "coptic": "Ⲁ̀ⲙⲏⲛ: ⲁ̀ⲙⲏⲛ: ⲁ̀ⲙⲏⲛ.",
    "translations": {
-    "english": "Amen,"
+    "english": "Amen, amen, amen.",
+    "arabic": "آمين، آمين، آمين."
    },
    "transliterations": {
-    "english": "Ameen:"
-   }
-  },
-  {
-   "id": "l2",
-   "side": 1,
-   "coptic": "ⲁ̀ⲙⲏⲛ:",
-   "translations": {
-    "english": "amen,"
-   },
-   "transliterations": {
-    "english": "ameen:"
-   }
-  },
-  {
-   "id": "l3",
-   "side": 0,
-   "coptic": "ⲁ̀ⲙⲏⲛ.",
-   "translations": {
-    "english": "amen."
-   },
-   "transliterations": {
-    "english": "ameen."
+    "english": "Ameen: ameen: ameen."
    }
   }
  ]

@@ -1,29 +1,12 @@
 [
   {
-    "coptic": "Ⲁ̀ⲙⲏⲛ:",
+    "coptic": "Ⲁ̀ⲙⲏⲛ: ⲁ̀ⲙⲏⲛ: ⲁ̀ⲙⲏⲛ.",
     "transliterations": {
-      "english": "Ameen:"
+      "english": "Ameen: ameen: ameen."
     },
     "translations": {
-      "english": "Amen,"
-    }
-  },
-  {
-    "coptic": "ⲁ̀ⲙⲏⲛ:",
-    "transliterations": {
-      "english": "ameen:"
-    },
-    "translations": {
-      "english": "amen,"
-    }
-  },
-  {
-    "coptic": "ⲁ̀ⲙⲏⲛ.",
-    "transliterations": {
-      "english": "ameen."
-    },
-    "translations": {
-      "english": "amen."
+      "english": "Amen, amen, amen.",
+      "arabic": "آمين، آمين، آمين."
     }
   }
 ]

@@ -1,52 +1,20 @@
 {
  "id": "response-amen-lord-have-mercy-3x",
  "titles": {
-  "english": "Amen. Lord have mercy 3x",
-  "arabic": "آمين. يا ربُّ إرحَم (3)"
+  "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy",
+  "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲁ̀ⲙⲏⲛ.",
+   "coptic": "Ⲁ̀ⲙⲏⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
    "translations": {
-    "english": "Amen."
+    "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy.",
+    "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
    },
    "transliterations": {
-    "english": "Ameen."
-   }
-  },
-  {
-   "id": "l2",
-   "side": 1,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
-   "translations": {
-    "english": "Lord have mercy,"
-   },
-   "transliterations": {
-    "english": "Kirie ele-eeson:"
-   }
-  },
-  {
-   "id": "l3",
-   "side": 0,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ:",
-   "translations": {
-    "english": "Lord have mercy,"
-   },
-   "transliterations": {
-    "english": "Kirie ele-eeson:"
-   }
-  },
-  {
-   "id": "l4",
-   "side": 1,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-   "translations": {
-    "english": "Lord have mercy."
-   },
-   "transliterations": {
-    "english": "Kirie ele-eeson."
+    "english": "Ameen. Kirie ele-eeson: Kirie ele-eeson: Kirie ele-eeson."
    }
   }
  ]

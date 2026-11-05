@@ -1,20 +1,12 @@
 [
   {
-    "coptic": "Ϯⲛⲁϩϯ:",
+    "coptic": "Ϯⲛⲁϩϯ: ⲁ̀ⲙⲏⲛ.",
     "transliterations": {
-      "english": "Tinahti:"
+      "english": "Tinahti: ameen."
     },
     "translations": {
-      "english": "I believe."
-    }
-  },
-  {
-    "coptic": "ⲁ̀ⲙⲏⲛ.",
-    "transliterations": {
-      "english": "ameen."
-    },
-    "translations": {
-      "english": ""
+      "english": "I believe. Amen.",
+      "arabic": "أؤمن. آمين."
     }
   }
 ]

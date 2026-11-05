@@ -1,20 +1,12 @@
 [
   {
-    "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ:",
+    "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ.",
     "transliterations": {
-      "english": "Tennahti je fai pe khen oumethmee:"
+      "english": "Tennahti je fai pe khen oumethmee: ameen."
     },
     "translations": {
-      "english": "We believe that this is true."
-    }
-  },
-  {
-    "coptic": "ⲁ̀ⲙⲏⲛ.",
-    "transliterations": {
-      "english": "ameen."
-    },
-    "translations": {
-      "english": "Amen"
+      "english": "We believe that this is true. Amen.",
+      "arabic": "نؤمن أن هذا هو بالحقيقة. آمين."
     }
   }
 ]
