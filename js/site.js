@@ -16,6 +16,9 @@ const CC = (() => {
     return catalogPromise;
   }
 
+  // A catalog file's address: the recordings are on Backblaze (absolute URLs), everything else on this site.
+  const fileURL = url => /^https?:\/\//.test(url) ? url : "/" + url;
+
   const esc = s => String(s ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]);
 
   // The app's rules: the English title first, then the Coptic, then the Arabic.
@@ -186,6 +189,6 @@ const CC = (() => {
 </a>`;
   }
 
-  return { GET_APP, catalog, esc, primary, entryCount, entryRecording, entryText, sectionTitles, sectionItems,
+  return { GET_APP, catalog, esc, fileURL, primary, entryCount, entryRecording, entryText, sectionTitles, sectionItems,
            syncBadge, duration, cover, isCurrent, nextSpan, spanText, header, footer, card };
 })();

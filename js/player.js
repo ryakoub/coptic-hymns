@@ -16,13 +16,25 @@ const syncOffsetMs = rawSyncOffset !== null ? Number(rawSyncOffset) : browserOff
 const syncOffsetSec = syncOffsetMs / 1000;
 const syncDebugBuild = "20260413j";
 
-// The hymn's audio file: info.json's "audio" when given, otherwise the first of these that exists
-// (same order as the app's catalog: the seek-friendly m4a, a plain m4a, then an older mp3).
+// The hymn's audio file: info.json's "audio" when given, otherwise the one the app's catalog names for this
+// folder (the recordings are on Backblaze, not on this site), otherwise the first of these that exists here
+// (a local copy of the site; same order as the catalog: the seek-friendly m4a, a plain m4a, then an older mp3).
 const AUDIO_FILES = ["audio.seek.m4a", "audio.m4a", "audio.mp3"];
 
 async function pickPreferredAudioUrl(base, given) {
 if (typeof given === "string" && given) {
 return given;
+}
+try {
+const catalog = await fetch("/catalog/v1/index.json").then(r => r.json());
+for (const r of catalog.recordings || []) {
+const file = (r.files || []).find(f => f.role === "audio");
+if (file && decodeURIComponent(file.url).endsWith(`/${base}/${file.url.split("/").pop()}`)) {
+return file.url;
+}
+}
+} catch (_) {
+// Look for the file on this site instead.
 }
 for (const name of AUDIO_FILES) {
 try {

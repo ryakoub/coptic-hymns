@@ -30,7 +30,7 @@ Usage:
   python3 tools/build_catalog.py --check    # report only, exit 1 on errors
   python3 tools/build_catalog.py --drafts   # include hymns with notation marked "draft" (to try them locally)
 """
-import argparse, datetime, hashlib, json, re, shutil, subprocess, sys
+import argparse, datetime, hashlib, json, re, shutil, subprocess, sys, urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,6 +40,14 @@ LIBRARY = ROOT / "catalog" / "library.json"
 NAMES = ROOT / "catalog" / "hymn-names.json"
 OUT = ROOT / "catalog" / "v1"
 BASE_URL = "https://www.copticchanter.com/"
+# The recordings are served from Backblaze B2 (bucket coptic-chanter-audio), at their repo paths: the site
+# is over GitHub Pages' 1 GB limit with them. tools/b2_sync.sh uploads new audio; the Pages workflow leaves
+# the audio out of the site. The audio stays in the repo, so another host only means changing this line.
+AUDIO_BASE = "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/"
+
+
+def audio_url(path):
+    return AUDIO_BASE + urllib.parse.quote(path.relative_to(ROOT).as_posix())
 SCHEMA = 2
 
 COPTIC = re.compile("[Ⲁ-⳿Ϣ-ϯ]")
@@ -304,7 +312,7 @@ class Build:
                 self.error(nid, "locked: the PDF must be sealed with tools/lock_pdf.swift" if is_locked
                            else f"{pdf.name} is sealed, but notation.json doesn't say \"locked\": true")
                 continue
-            ref = lambda f, role: {"url": f.relative_to(ROOT).as_posix(), "role": role, "bytes": f.stat().st_size, "sha256": sha256_file(f)}
+            ref = lambda f, role: {"url": audio_url(f) if role == "audio" else f.relative_to(ROOT).as_posix(), "role": role, "bytes": f.stat().st_size, "sha256": sha256_file(f)}
             recs, texts = [], list(n.get("texts", []))
             for i, r in enumerate(n.get("recordings", []), 1):
                 if r.get("recording") and r["recording"] in self.recordings:
@@ -558,7 +566,7 @@ def main():
         audio = e.pop("_audio", None)
         files = [b.file(f"timings/{rid}.json", json.dumps(b.timings[rid], ensure_ascii=False, indent=1).encode())]
         if audio:
-            files.append({"url": audio.relative_to(ROOT).as_posix(), "role": "audio", "bytes": audio.stat().st_size, "sha256": sha256_file(audio)})
+            files.append({"url": audio_url(audio), "role": "audio", "bytes": audio.stat().st_size, "sha256": sha256_file(audio)})
         files[0]["role"] = "timing"
         e["files"] = files
         recordings_out.append(e)
