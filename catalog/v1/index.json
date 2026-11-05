@@ -1,6 +1,6 @@
 {
- "version": "ee8c2f514a67422e",
- "updated": "2026-11-04T18:55:22Z",
+ "version": "b558209343fc81cf",
+ "updated": "2026-11-05T11:13:05Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -6647,7 +6647,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/adam-psali-kiahk-1/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/adam-psali-kiahk-1/audio.m4a",
      "role": "audio",
      "bytes": 8272471,
      "sha256": "10eacf9e2584be8dc4f915fe733a63b016394c71fc8f78b820326e85e1aadaba"
@@ -6673,7 +6673,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/adam-psali-kiahk-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/adam-psali-kiahk-2/audio.m4a",
      "role": "audio",
      "bytes": 11633041,
      "sha256": "037a7cc5a988ed359eb962dfd9094f001d369b5da249dcf6b3f7af55ea32af54"
@@ -6699,7 +6699,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/adam-psali-kiahk-3/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/adam-psali-kiahk-3/audio.m4a",
      "role": "audio",
      "bytes": 3521385,
      "sha256": "ece2d5db406719dc80861e688ede5f26b7c3b958758a78b1001408a12cda9b26"
@@ -6725,7 +6725,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/adam-psali-kiahk-4/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/adam-psali-kiahk-4/audio.m4a",
      "role": "audio",
      "bytes": 6809104,
      "sha256": "67f4fc0a0912bd51b2f6a2f3e57f6663894d9bc374906390fb1a1434a8414e2d"
@@ -6754,7 +6754,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/adam-theotokias-conclusion/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/adam-theotokias-conclusion/audio.mp3",
      "role": "audio",
      "bytes": 3967908,
      "sha256": "deffce921fa15ab11d5c1bd857dae7cb946ce6ccdbbb883ef3a4a0706fab5b69"
@@ -6784,7 +6784,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/adam-theotokias-conclusion-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/adam-theotokias-conclusion-english/audio.mp3",
      "role": "audio",
      "bytes": 3584779,
      "sha256": "fd0c89c106e5890fbf923b3dddaa02823bb0e7a6ca7e73f989efb25756d07be5"
@@ -6813,7 +6813,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/adam-theotokias-conclusion-hcoc-1/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/adam-theotokias-conclusion-hcoc-1/audio.m4a",
      "role": "audio",
      "bytes": 3722826,
      "sha256": "3e57986df4fadc8be3e89f69720d2afd5f6d8c28b26cbdd181e9e3563ae93c02"
@@ -6842,7 +6842,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/adam-theotokias-conclusion-hcoc-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/adam-theotokias-conclusion-hcoc-2/audio.m4a",
      "role": "audio",
      "bytes": 3946999,
      "sha256": "edfb74dcbf86ab672285e1926394fdf34dfc8e63d4d2025600d4196c2798a112"
@@ -6873,7 +6873,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/again-i-believe-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/again-i-believe-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 145903,
      "sha256": "1583789706dc757502194a1b2e46afe249aa2fb3683e588af31ac440e2315a45"
@@ -6899,7 +6899,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/agios-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/agios-annual/audio.m4a",
      "role": "audio",
      "bytes": 2354255,
      "sha256": "b85e3367835cfc4fd0ce397991ef71783d3a80b3e7821ec3128dec3ef494d808"
@@ -6925,7 +6925,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/alleluia-offertory/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/alleluia-offertory/audio.m4a",
      "role": "audio",
      "bytes": 8470369,
      "sha256": "ae3eb2c6e45259847246ec157f18204ad89cf32e37ef527a6668da9bd4142310"
@@ -6956,7 +6956,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/amen-lord-have-mercy-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/amen-lord-have-mercy-3x-english/audio.m4a",
      "role": "audio",
      "bytes": 258395,
      "sha256": "cd92a727c489b3a95e2d172578777701bff417631e42e911de26c6ff4be47a1f"
@@ -6982,7 +6982,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/amen-ton-thanaton/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/amen-ton-thanaton/audio.m4a",
      "role": "audio",
      "bytes": 2055713,
      "sha256": "a30ed76fcd1a6073e619827b88579536712d1fb0428b16daf05a3f2e6aa8fc6c"
@@ -7013,7 +7013,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-according-to-your-mercy-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-according-to-your-mercy-english/audio.m4a",
      "role": "audio",
      "bytes": 426293,
      "sha256": "231de6b4c28ed54b452f01a5356018e2c82fbf58042d6b6e466328caf6c3765e"
@@ -7044,7 +7044,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 260082,
      "sha256": "b600f1e66cc86f1e6f8e2854bde38b3c36a14927e1711d8b445e3f1379da9b42"
@@ -7075,7 +7075,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-amen-i-believe-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-amen-i-believe-english/audio.m4a",
      "role": "audio",
      "bytes": 317752,
      "sha256": "48cdc124275bf5890a89f7363bee2f64d93c7ae7a188b46ab253c16d60e97e5c"
@@ -7105,7 +7105,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-and-with-your-spirit-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-and-with-your-spirit-english/audio.m4a",
      "role": "audio",
      "bytes": 213463,
      "sha256": "ec1406785d5fd29d94fd9571433720832f8f09b127715e32517ae5240f828b4d"
@@ -7135,7 +7135,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-it-is-meet-and-right-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-it-is-meet-and-right-english/audio.m4a",
      "role": "audio",
      "bytes": 285818,
      "sha256": "889f852c266047f4056e49851555dbffd25f67f54ca1f62f90bada71aa2a5372"
@@ -7161,7 +7161,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/anaphora-responses-st-basil-st-gregory-liturgies/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-2/anaphora-responses-st-basil-st-gregory-liturgies/audio.seek.m4a",
      "role": "audio",
      "bytes": 2030730,
      "sha256": "5989455369b253f237a8f83978f90a50b96150046055a196b60e9e11fb8d094c"
@@ -7191,7 +7191,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/anaphora-responses-st-basil-st-gregory-liturgies-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/anaphora-responses-st-basil-st-gregory-liturgies-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 5627110,
      "sha256": "7c078122bb1257c7b374faf6d1c84272fec285b24f291357e0eaf77665df331d"
@@ -7221,7 +7221,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-the-cherubimic-hymn-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-the-cherubimic-hymn-english/audio.m4a",
      "role": "audio",
      "bytes": 902819,
      "sha256": "68f56a7df6dec400b613cfa1a506d5a024cc9e23d55d841d135522768f3d6060"
@@ -7251,7 +7251,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-we-have-them-with-the-lord-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/anaphora-we-have-them-with-the-lord-english/audio.m4a",
      "role": "audio",
      "bytes": 178704,
      "sha256": "7b5490b025bd528bc2ef9804a6ce113d6a399e2f20aacf1adc25b0fd51c5157a"
@@ -7282,7 +7282,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/and-with-your-spirit-2-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/and-with-your-spirit-2-english/audio.m4a",
      "role": "audio",
      "bytes": 129790,
      "sha256": "ac804532d7b58a8ad604d3750ca2d7cd4c4d09274dcdb1a0e74f59384371aa08"
@@ -7313,7 +7313,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/and-with-your-spirit-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/and-with-your-spirit-english/audio.m4a",
      "role": "audio",
      "bytes": 134595,
      "sha256": "6d370caca453bc49991894f59631da89433dea7c97df95542b9656c13e13fe2a"
@@ -7340,7 +7340,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-1/arihouo-chasf-third-hoos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-1/arihouo-chasf-third-hoos/audio.seek.m4a",
      "role": "audio",
      "bytes": 6274557,
      "sha256": "eb92c2bb2e5401e7fa89a7e58b013fd8de8eb2e2163d5ed7d30ad3c060d25ba8"
@@ -7368,7 +7368,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-2/aripalin/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-2/aripalin/audio.seek.m4a",
      "role": "audio",
      "bytes": 8798997,
      "sha256": "b80db69454e77c562335ed0fc5f8776652320774d4c84cf1a473b4bb83c840e7"
@@ -7398,7 +7398,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/aripalin-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/aripalin-english/audio.mp3",
      "role": "audio",
      "bytes": 9948627,
      "sha256": "52e21db9dc14123f7a2ad52b252b5dfd4048aba745ed87021468cd7b2e0df250"
@@ -7424,7 +7424,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/aritenthonti/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/aritenthonti/audio.m4a",
      "role": "audio",
      "bytes": 13691609,
      "sha256": "90f3898a853c2d11d193514eb5322c382269915bb34c0d80cb01cd17b502fc6e"
@@ -7454,7 +7454,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/as-it-was-full-ending-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/as-it-was-full-ending-english/audio.m4a",
      "role": "audio",
      "bytes": 880484,
      "sha256": "961b1421b259b24ff27c42649656a79ecdbb11997ed2e0cff09f1aecdb84f6f2"
@@ -7484,7 +7484,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/as-it-was-short-ending-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/as-it-was-short-ending-english/audio.m4a",
      "role": "audio",
      "bytes": 194236,
      "sha256": "0d6b4cad5242818e3c0cf608380a947b9a4f9bff1daf88c8e2f78e00c60fe499"
@@ -7510,7 +7510,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/aspasmos-adam-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/aspasmos-adam-annual/audio.m4a",
      "role": "audio",
      "bytes": 13701445,
      "sha256": "3b9047e44e99e716efd0af268b97e63720a98fab6bbb9101b1f14607343439e8"
@@ -7536,7 +7536,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/aspasmos-adam-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/aspasmos-adam-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 3158254,
      "sha256": "df6e220c32be678448d486668c00f7e26daad503eb1f8b92d10d6e13666119f5"
@@ -7562,7 +7562,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-2/aspasmos-adam-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-2/aspasmos-adam-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 2185366,
      "sha256": "5fdf22897d35a734c4c8ea254f8d7883be1cb58b47b3f6d217b28e6fc8917a9f"
@@ -7588,7 +7588,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/aspasmos-watos-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/aspasmos-watos-annual/audio.m4a",
      "role": "audio",
      "bytes": 8104945,
      "sha256": "d76e605c35a2d7724e37da597416c1fb0b1f62edf5fd7843708906b321a55c74"
@@ -7614,7 +7614,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/aspazisti/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/aspazisti/audio.m4a",
      "role": "audio",
      "bytes": 10191055,
      "sha256": "7a06c1cf8775bae96ba5151d8adb92f81ec01f4b3bdbcf56c5cd9d5990f44039"
@@ -7640,7 +7640,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/aven-pi-arshee-erevs/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/aven-pi-arshee-erevs/audio.mp3",
      "role": "audio",
      "bytes": 11505773,
      "sha256": "fae098b29afce1156e1481fb25e2f7a2c933a2ecc9b1eabdc7da0c973d7dc8a8"
@@ -7671,7 +7671,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/before-you-o-lord-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/before-you-o-lord-english/audio.m4a",
      "role": "audio",
      "bytes": 364662,
      "sha256": "eacae59413148c59b4295adc54b27218984d04ac521eec217c468532595f66f0"
@@ -7697,7 +7697,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/blessed-pentecost/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-1/blessed-pentecost/audio.seek.m4a",
      "role": "audio",
      "bytes": 902644,
      "sha256": "ab9b5e85547d529afeaa487cf07472a8d5ac2614148bec29fb9bc3e6629aa395"
@@ -7723,7 +7723,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/audio.seek.m4a",
      "role": "audio",
      "bytes": 1306422,
      "sha256": "2a5edfacdb10e5a9720471b34d789656b0f5fb55889b899ce826581994f8009e"
@@ -7753,7 +7753,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/censer-annual-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/censer-annual-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1601970,
      "sha256": "c6dda05142eb62c4161eb8397ed5a2c4a070f0d096ce356de5d04850c7619d6a"
@@ -7779,7 +7779,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/cherubim-response/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/cherubim-response/audio.m4a",
      "role": "audio",
      "bytes": 2248746,
      "sha256": "aaa42dda961ba5109768829c67912349962a87fa0584a5f1a976ddc9a03efa81"
@@ -7805,7 +7805,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-1/christ-is-risen/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-1/christ-is-risen/audio.seek.m4a",
      "role": "audio",
      "bytes": 5465377,
      "sha256": "dfaa7d909da8027f41358d49b7b7ee0e420b256d30e815f15eb8ed99c55136c2"
@@ -7835,7 +7835,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/christ-is-risen-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/christ-is-risen-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2161618,
      "sha256": "5355e4df40c95660fb7b98f685861585aca1ee2fb92af8b8bcf9ccb8393fa7b7"
@@ -7861,7 +7861,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-1/christos-analympsis/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-1/christos-analympsis/audio.seek.m4a",
      "role": "audio",
      "bytes": 4997014,
      "sha256": "480c2778d5467612b84945190c874e324b9380523ea1544a272a430478a15ce2"
@@ -7891,7 +7891,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/christos-analympsis-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/christos-analympsis-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 4265751,
      "sha256": "3782f09b3aaee275b9aecf042e7c7c3cb276cfa617e74bcb68e43b3673fd460c"
@@ -7917,7 +7917,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/commemoration-of-saints/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/commemoration-of-saints/audio.mp3",
      "role": "audio",
      "bytes": 26112122,
      "sha256": "335becce5bcd403a6c06dbe6de7b6809651ca201307ff7744c953c378530af70"
@@ -7947,7 +7947,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/commemoration-of-saints-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/commemoration-of-saints-english/audio.mp3",
      "role": "audio",
      "bytes": 17817960,
      "sha256": "b40cc8e0ebdc1962e71d04510f809a9920c7ae84e6a5ac1ccf4454710d42f0ba"
@@ -7976,7 +7976,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/concluding-canon-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/concluding-canon-annual/audio.m4a",
      "role": "audio",
      "bytes": 1043322,
      "sha256": "f5531f966f7a97a11a0fdd507fc55cd7497f5b3bc8ee4cfbf1ccbaea432157cc"
@@ -8006,7 +8006,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/concluding-canon-annual-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/concluding-canon-annual-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1085592,
      "sha256": "b02ed0877e01e640bff2f92ca8f09b6fe8da079bd1f3529f94cbae1847fd857d"
@@ -8035,7 +8035,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/concluding-canon-annual-liturgy/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/concluding-canon-annual-liturgy/audio.m4a",
      "role": "audio",
      "bytes": 897592,
      "sha256": "9378cbd9d7f9eaa732b737d63b9a8640b465bbe3fb3985511ab4a7bdfe406d9d"
@@ -8065,7 +8065,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/concluding-canon-annual-liturgy-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/concluding-canon-annual-liturgy-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1085592,
      "sha256": "b02ed0877e01e640bff2f92ca8f09b6fe8da079bd1f3529f94cbae1847fd857d"
@@ -8091,7 +8091,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/kg/level-1/concluding-canon-feast-cross/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/kg/level-1/concluding-canon-feast-cross/audio.seek.m4a",
      "role": "audio",
      "bytes": 336306,
      "sha256": "38fbd1d3ade268883776a3b83711777a136ed3158e2f618ecfd6c7c3a31d6075"
@@ -8121,7 +8121,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/concluding-litany-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/concluding-litany-english/audio.mp3",
      "role": "audio",
      "bytes": 4138556,
      "sha256": "0ec638b730287aa07efc8389fce192fd9415b5736ef704c0fad74a6a1997e65f"
@@ -8147,7 +8147,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/conclusion-canon-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-1/conclusion-canon-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 1026483,
      "sha256": "9cbe9e8578a2a1c67d4a0de5dfc83544fbd135582c4541977fbdd14a3b92aa70"
@@ -8173,7 +8173,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/conclusion-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/conclusion-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 1350929,
      "sha256": "9dc07899bc83bd03ca939ec609cc32e988ef8871f24f27c1a62009f8f13feb36"
@@ -8203,7 +8203,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/conclusion-kiahk-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/conclusion-kiahk-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 951500,
      "sha256": "e19aedee7d61443eed52f6a3f6ca18ad823efb56b826f533317fde53f044b098"
@@ -8230,7 +8230,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/audio.seek.m4a",
      "role": "audio",
      "bytes": 4079473,
      "sha256": "be3a8b153697884ddaa0df3c21820aa62c182fee4cc7194d908799f87e2c4f69"
@@ -8256,7 +8256,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/conclusion-tarh-workers/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/conclusion-tarh-workers/audio.m4a",
      "role": "audio",
      "bytes": 5434288,
      "sha256": "ecc9aa3d5d0b724b53589882da16ed4671060ba11cdc03483f94af88e2efa5ef"
@@ -8287,7 +8287,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/confession-amen-i-believe-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/confession-amen-i-believe-english/audio.m4a",
      "role": "audio",
      "bytes": 443042,
      "sha256": "623d2f6ac7f7b01e2a2ff43a9c04143bae625c3aad700975c63149399c56c434"
@@ -8318,7 +8318,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/confession-first-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/confession-first-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 362406,
      "sha256": "beaa480f80005756a515284489202a0c665d59a24585ddb21e3b322f0408ca05"
@@ -8349,7 +8349,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/confession-second-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/confession-second-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 558276,
      "sha256": "ca24cb312b8c5f9fb3ca1bb1de388c5c22e9d0f2ea6c312b9d856cbba50819e2"
@@ -8375,7 +8375,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/distribution-alleluia-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/distribution-alleluia-annual/audio.m4a",
      "role": "audio",
      "bytes": 3402345,
      "sha256": "32e1977d4d8ebf12bfe73721aa43a082e9eec116ddf6c9509b52ee4a846edd9d"
@@ -8404,7 +8404,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/distribution-annual-psalm-150/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/distribution-annual-psalm-150/audio.m4a",
      "role": "audio",
      "bytes": 8079502,
      "sha256": "49429cb030b62d23ec0744674b4779c6a2d0e5d1f2c6a89cfa538fb215e9a31b"
@@ -8430,7 +8430,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/distribution-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/distribution-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 2641164,
      "sha256": "e86002c8b98edc8d076ad547dbf72258cfe4a5ed522e97e8df275a1c91a9c39f"
@@ -8456,7 +8456,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/distribution-refrain-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-2/distribution-refrain-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 688979,
      "sha256": "625472961d424d4dad0b8da3cc79f5884619817cbd7f022dd261c67016e9a5a8"
@@ -8483,7 +8483,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-archangel-michael/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-archangel-michael/audio.m4a",
      "role": "audio",
      "bytes": 2789869,
      "sha256": "2b86cc4ef308a8d3a439d6fadee6bb0c2a4c947ebfb5935e8ed68f8cc55e35a4"
@@ -8510,7 +8510,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/doxology-heavenly-orders/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-2/doxology-heavenly-orders/audio.seek.m4a",
      "role": "audio",
      "bytes": 2474602,
      "sha256": "884d091330ab288d038b626009de5585de3e6e7863238f5f204d9b0fbbd85546"
@@ -8540,7 +8540,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-heavenly-orders-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-heavenly-orders-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 7241523,
      "sha256": "4fe6bf4d20c7e84b7533f560c2a368885456179515e5f1038009cd6adf260670"
@@ -8567,7 +8567,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-john-baptist-1/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-john-baptist-1/audio.m4a",
      "role": "audio",
      "bytes": 2170638,
      "sha256": "c3fe846b409a10a51e1e5974174ffb6b4d9838aac7e412079a63022e57b3edad"
@@ -8594,7 +8594,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-john-baptist-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-john-baptist-2/audio.m4a",
      "role": "audio",
      "bytes": 2254379,
      "sha256": "0991b8566dfb6cc8c0d927edfb0d3c0f8897a42c369f588608bd8b2ea4d585d0"
@@ -8620,7 +8620,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-kiahk-1/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-kiahk-1/audio.m4a",
      "role": "audio",
      "bytes": 5196980,
      "sha256": "37680c0104d084ea224c604773798f63852a5540303ec12a4cf1259fb3ef933d"
@@ -8646,7 +8646,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-kiahk-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-kiahk-2/audio.m4a",
      "role": "audio",
      "bytes": 3627281,
      "sha256": "b4f8184c974feeb4bb7c89f7a58cd9710db77f05e5e9c86c888e7366488cbdb2"
@@ -8672,7 +8672,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-kiahk-3/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-kiahk-3/audio.m4a",
      "role": "audio",
      "bytes": 5163534,
      "sha256": "ef27d2b82db6edf17fe303a5c9541fb84c4899df8fc4dba5e49a7b21bd540cdd"
@@ -8702,7 +8702,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-kiahk-3-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-kiahk-3-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1872119,
      "sha256": "e6e895994c7b6a70805307aa15687d384620d94447676377ac586a073a0552bf"
@@ -8728,7 +8728,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-kiahk-4/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-kiahk-4/audio.m4a",
      "role": "audio",
      "bytes": 2736158,
      "sha256": "cf0961bf214f830bc2bbfbba987bbc0f73599c57935638ec5caaeab5f28ee495"
@@ -8754,7 +8754,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-kiahk-5/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-kiahk-5/audio.m4a",
      "role": "audio",
      "bytes": 5152668,
      "sha256": "93302360c28835bcf3bef2e398d82813895f236c3beb69048fcf2d718e5cc18a"
@@ -8780,7 +8780,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-kiahk-6/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-kiahk-6/audio.m4a",
      "role": "audio",
      "bytes": 2801886,
      "sha256": "69042c01fd2c01f67bc1d4b3b79345da0509b22981fc9105081e4464e53c7cc5"
@@ -8810,7 +8810,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-kiahk-6-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-kiahk-6-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1872119,
      "sha256": "39bbf42f2065832c1f8b3ca322ce2138a70a3656ba1c6b21a98a16468620346c"
@@ -8836,7 +8836,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-1/doxology-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 2672805,
      "sha256": "39b4a0bfb3975d411a3dff7b68776576bf923cd9700bba7d045cce109253397d"
@@ -8866,7 +8866,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2479824,
      "sha256": "385078dbce001ca3b3fe8a79ff07ce2d4baf1c4bbe5ad6a899733108a52244ea"
@@ -8893,7 +8893,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins/audio.seek.m4a",
      "role": "audio",
      "bytes": 2933797,
      "sha256": "317a43fdc4ae692f59cae106021ddc4d6e4a9588ac9b049d6ba1452eec073c69"
@@ -8923,7 +8923,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-st-mary-matins-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-st-mary-matins-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2495856,
      "sha256": "7989491e58c4ba38791d75bc831b83f8889b4baa010e82c5157ca101a9ad9389"
@@ -8950,7 +8950,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/doxology-st-mary-vespers/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-1/doxology-st-mary-vespers/audio.seek.m4a",
      "role": "audio",
      "bytes": 2085050,
      "sha256": "08f043ffba5b421ab3666f26826fc0cafc63602a18a6867786d3de2f2e33746a"
@@ -8980,7 +8980,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-st-mary-vespers-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-st-mary-vespers-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1663109,
      "sha256": "1eaa992e869c8ee7b989b4c2457b8dff83072ac63e5d4b377205951ef6bc6eba"
@@ -9006,7 +9006,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/doxology-virgin-midnight/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/doxology-virgin-midnight/audio.mp3",
      "role": "audio",
      "bytes": 2966078,
      "sha256": "1ad2e3222df71f68b3495193538fa4c01ec71a893242d1b8aae8555a7561c1b9"
@@ -9036,7 +9036,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/doxology-virgin-midnight-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/doxology-virgin-midnight-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1490220,
      "sha256": "d86d86c1338dc2c5d43ce126274b422595273051ee2d18b98f6beb170f15c809"
@@ -9062,7 +9062,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/eleison-imas-je-nai-nan/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/eleison-imas-je-nai-nan/audio.m4a",
      "role": "audio",
      "bytes": 3321608,
      "sha256": "641c37ebfaddec6e6095153c157f2a8ce365cab2f1de9693ed50d6765393aeae"
@@ -9088,7 +9088,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/kg/level-2/ere-po-esmo-may-their-holy-blessing/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/kg/level-2/ere-po-esmo-may-their-holy-blessing/audio.seek.m4a",
      "role": "audio",
      "bytes": 819220,
      "sha256": "1423a1f7348709c2ca8fb3a2c5a1edffa62c988be90cdef21e0787025190a0c6"
@@ -9114,7 +9114,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/esmo-epchois/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/esmo-epchois/audio.mp3",
      "role": "audio",
      "bytes": 6244930,
      "sha256": "67ad7bde61bac6a6b080e56b6658bdfeee18f070d0341e841e544cdc8e575ed7"
@@ -9141,7 +9141,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-1/ethbe-ti-anastasis/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-1/ethbe-ti-anastasis/audio.seek.m4a",
      "role": "audio",
      "bytes": 10141132,
      "sha256": "3514a2865e1c216925fd0b4d3724c863a40fff249e4905f9e0e9edda2059fcd1"
@@ -9171,7 +9171,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ethbe-ti-anastasis-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ethbe-ti-anastasis-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 9387259,
      "sha256": "c24a7eeb7369c94c69df4f5dc9ef9a6f5e23a3ebbbaa9b60a0eab4e7b15bf268"
@@ -9198,7 +9198,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/evol-hiten-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/evol-hiten-major/audio.m4a",
      "role": "audio",
      "bytes": 9124552,
      "sha256": "e3c8dc31e45b524715dba98cc4b18af2277bee89b56e48a012f5ee37bc8c9533"
@@ -9224,7 +9224,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-2/fai-etafenf/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-2/fai-etafenf/audio.seek.m4a",
      "role": "audio",
      "bytes": 7716643,
      "sha256": "556f1f4814b925a5e0dee051de5fe1145aa4692389e94b4ca3d450f009472c99"
@@ -9251,7 +9251,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-1/first-hoos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-1/first-hoos/audio.seek.m4a",
      "role": "audio",
      "bytes": 5576817,
      "sha256": "2643cda9ed86d94cc06b933ded7601d8a316a74f679bbc0b750a9940521876e4"
@@ -9281,7 +9281,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/first-hoos-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/first-hoos-english/audio.mp3",
      "role": "audio",
      "bytes": 5058485,
      "sha256": "ba5fb8b73834fadac43247c8ab5f0d8f23f75bbba3b24debdbd4eb2fd02d0b06"
@@ -9311,7 +9311,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/first-hoos-lobsh-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/first-hoos-lobsh-english/audio.mp3",
      "role": "audio",
      "bytes": 4985780,
      "sha256": "11f400a0553c67163c4745dd15cad6b92843b9bd6a1fc490e86671578ba2b72c"
@@ -9338,7 +9338,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/first-sunday-psali/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/first-sunday-psali/audio.mp3",
      "role": "audio",
      "bytes": 6809194,
      "sha256": "7486dd206095ed2d7c3c994af137955bf43f393c5fe3c243d582bc08802d3b87"
@@ -9368,7 +9368,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/first-sunday-psali-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/first-sunday-psali-english/audio.mp3",
      "role": "audio",
      "bytes": 5790766,
      "sha256": "c7e4ff6ff3a892772d605ffab02e3b9ab574d65673248625b518037f0d3d9c2a"
@@ -9396,7 +9396,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/fourth-hoos/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/fourth-hoos/audio.m4a",
      "role": "audio",
      "bytes": 7148913,
      "sha256": "2264fa08434aac4596b636f7ecb17e3ffb18bb677f6d7a7e2ba3a23e158c1d07"
@@ -9426,7 +9426,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/fourth-hoos-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/fourth-hoos-english/audio.mp3",
      "role": "audio",
      "bytes": 7003250,
      "sha256": "6cc91771522983e8511fbf0eff99d22971089ce3754bddc68957b0c176338fb2"
@@ -9457,7 +9457,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/fraction-lord-have-mercy-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/fraction-lord-have-mercy-english/audio.m4a",
      "role": "audio",
      "bytes": 318882,
      "sha256": "3592dfd0c30615f1a106289c03a9dd07d15dc08ea07c8d63106834cf03566d65"
@@ -9482,7 +9482,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/gospel-luke/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/gospel-luke/audio.mp3",
      "role": "audio",
      "bytes": 925984,
      "sha256": "edafc221e092ada223fb784df5da70b31b9d3d63fa200444a8eb30dade803ddd"
@@ -9512,7 +9512,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/gospel-luke-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/gospel-luke-english/audio.mp3",
      "role": "audio",
      "bytes": 543283,
      "sha256": "2b2e3376ede0c25c435aa8765f7e7ea9b54e360d8f5df466de163743c44c9fa9"
@@ -9538,7 +9538,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/gospel-response-feast-cross/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-1/gospel-response-feast-cross/audio.seek.m4a",
      "role": "audio",
      "bytes": 2113001,
      "sha256": "4c74034a94b4575bd2bbd105acf80d709d2861bda3031a3fe42cdadc2f37bbe2"
@@ -9568,7 +9568,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/gospel-response-feast-cross-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/gospel-response-feast-cross-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 623215,
      "sha256": "73cae72b84fef71cce39ed71152e8502f59977beb40eb2e019122dbe14c1e307"
@@ -9594,7 +9594,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/gospel-response-kiahk-sunday-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/gospel-response-kiahk-sunday-2/audio.m4a",
      "role": "audio",
      "bytes": 864246,
      "sha256": "f2a326671b359075d857bfa765f3908c17bb8b7c4540d0144cd461335649e129"
@@ -9624,7 +9624,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/gospel-response-kiahk-sunday-2-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/gospel-response-kiahk-sunday-2-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1026138,
      "sha256": "e070ed9f32b58700cfb3371c2398d181372cc21997dc14c583adcf1520ae33e3"
@@ -9650,7 +9650,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/gospel-response-kiahk-sunday-3/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/gospel-response-kiahk-sunday-3/audio.m4a",
      "role": "audio",
      "bytes": 1405314,
      "sha256": "841242b3a99ebdc63e89c347a3b0e59cedb771c6470f2d54d193842b365eb08d"
@@ -9680,7 +9680,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/gospel-response-kiahk-sunday-3-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/gospel-response-kiahk-sunday-3-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 981198,
      "sha256": "4356ae067745bfc8731f23e6ef2ad3c9054c05cf12e648ec3c6d119833834e34"
@@ -9710,7 +9710,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/gospel-response-matins-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/gospel-response-matins-annual/audio.m4a",
      "role": "audio",
      "bytes": 2138719,
      "sha256": "4dbcaf98639d0cc8c027fa147edcea0564e28e103ea322a797e95218d41fffe5"
@@ -9739,7 +9739,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/gospel-response-vespers-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/gospel-response-vespers-annual/audio.m4a",
      "role": "audio",
      "bytes": 1275008,
      "sha256": "946e3161fc61bef7cfde925201974aa72143a3c0dd4a66469c6c42342a9332b3"
@@ -9769,7 +9769,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/gospel-response-vespers-annual-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/gospel-response-vespers-annual-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 893227,
      "sha256": "a63ed77d726653c06841e249a71931f482447e0cde8b81d5bc8834bebabb6c54"
@@ -9795,7 +9795,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/hetenyat-annual/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/hetenyat-annual/audio.m4a",
      "role": "audio",
      "bytes": 10908397,
      "sha256": "84a2cfcaa49fe2489e61e79cf6fe86edd2e4f8052dbb4e58fa464a2dcf1f8949"
@@ -9821,7 +9821,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/hetenyat-gabriel-zechariah-elizabeth/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/hetenyat-gabriel-zechariah-elizabeth/audio.m4a",
      "role": "audio",
      "bytes": 1882223,
      "sha256": "046aeb74319e89698a07eb42d695a81505a4437c896e8b8671c3ac3079f35c55"
@@ -9847,7 +9847,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/hetenyat-john-joachim-anna/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/hetenyat-john-joachim-anna/audio.m4a",
      "role": "audio",
      "bytes": 2346985,
      "sha256": "6e959e693cf33559a7b7e60b14ad5310f59e6687165f43c9af67ae5108e960fa"
@@ -9873,7 +9873,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/hetenyat-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/hetenyat-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 2989270,
      "sha256": "c9ff2cb64bff4e5a7029d495ca658c04dd966d03355ceb0f6dec354873af963f"
@@ -9903,7 +9903,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/hetenyat-kiahk-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/hetenyat-kiahk-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2993023,
      "sha256": "ec8be54573e32fc2fae427bf69b6587030c56d101635c6afd04483a2c75ca2d4"
@@ -9929,7 +9929,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/kg/level-2/hiten-archangel-michael-feast-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/kg/level-2/hiten-archangel-michael-feast-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 710925,
      "sha256": "e7f32c16cbf5f063ac3d1b4fc7a8722bc2d97a68e1b37c9005dcfa09a1dec9cf"
@@ -9956,7 +9956,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/hos-erof/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/hos-erof/audio.m4a",
      "role": "audio",
      "bytes": 8189892,
      "sha256": "bc8830c88f974c5de1d50bd2915ef3e20d5de9a26932ffcb1d0638635641de4f"
@@ -9982,7 +9982,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-1/hossana-intro-doxologies-first-doxology/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-1/hossana-intro-doxologies-first-doxology/audio.seek.m4a",
      "role": "audio",
      "bytes": 5926561,
      "sha256": "44c776bf6c7f220065981c661e1227cf898462137eeb4375c003e94164cc586e"
@@ -10008,7 +10008,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/audio.seek.m4a",
      "role": "audio",
      "bytes": 2837688,
      "sha256": "584cbd836e0770eb719316e09277a7b9cd4e2b793f3f49354939aff96ca41420"
@@ -10038,7 +10038,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/hymn-of-the-blessing-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/hymn-of-the-blessing-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3088837,
      "sha256": "566f4471ddd6517d2d4dc8a3c2d84a938efe0621b7e43f7b1b346488df2e907e"
@@ -10069,7 +10069,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/i-believe-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/i-believe-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 133177,
      "sha256": "845a97a160214a4949d3db42994a4ff2f4ed860adc20ca6e6a3eefc636f7f5a1"
@@ -10100,7 +10100,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/in-christ-jesus-our-lord-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/in-christ-jesus-our-lord-english/audio.m4a",
      "role": "audio",
      "bytes": 379365,
      "sha256": "73ddebc12c424b97f82ecd2dc94f93f4cb1f364ea531f0e8cdb3667304d031a9"
@@ -10131,7 +10131,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-blood-again-we-believe-we-confess-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-again-we-believe-we-confess-english/audio.m4a",
      "role": "audio",
      "bytes": 357331,
      "sha256": "4143a29bd9ee77c101d46147f218c9a1b59060539052dd944dda612203b4e0a8"
@@ -10162,7 +10162,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-blood-amen-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-amen-3x-english/audio.m4a",
      "role": "audio",
      "bytes": 517591,
      "sha256": "a2337581c80f86d4a6186ecbbcc831e2a18c41392043b4f63d48464672d85646"
@@ -10193,7 +10193,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-blood-this-is-also-true-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-this-is-also-true-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 257296,
      "sha256": "60f3e6773040cc48838c0f28ca7527b35e6b1bb33e8007a300334da743f82c26"
@@ -10224,7 +10224,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-body-amen-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-amen-3x-english/audio.m4a",
      "role": "audio",
      "bytes": 528895,
      "sha256": "ba2f4134a6f85ecaa83852c3b3638fa1654d3a97ceac0ad63a062142425fe52f"
@@ -10255,7 +10255,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-body-this-is-true-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-this-is-true-english/audio.m4a",
      "role": "audio",
      "bytes": 327378,
      "sha256": "e49a2e12cb655e53164c22b83a7c92b11be76bfb0d5de014e263fe9f3e7f0588"
@@ -10286,7 +10286,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-body-we-believe-that-this-is-true-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-we-believe-that-this-is-true-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 366122,
      "sha256": "b6ba23807604c756cc97ac24acaf3e477612caf4632f5e69030bf70b5a04050f"
@@ -10317,7 +10317,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-body-we-believe-we-confess-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-we-believe-we-confess-english/audio.m4a",
      "role": "audio",
      "bytes": 354497,
      "sha256": "b72acead223b06220e47907bfc3ec065b3b2fe06ce4e2980d1c242e4e575f068"
@@ -10348,7 +10348,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-truly-we-believe-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-truly-we-believe-english/audio.m4a",
      "role": "audio",
      "bytes": 320593,
      "sha256": "384cd328f43f95c6dc3324319c643544bdc93d5a4058e4611b9604a9033e1632"
@@ -10378,7 +10378,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/institution-narrative-your-death-o-lord-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-your-death-o-lord-english/audio.m4a",
      "role": "audio",
      "bytes": 991863,
      "sha256": "dfc420a4339c231e60a2ce45d91da873969898f28f9ec6b5f56e89e7723a0ae0"
@@ -10426,7 +10426,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/intro-doxologies-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/intro-doxologies-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 3634040,
      "sha256": "015f136db1da7525ab25c173b55404b8a6964b8ed5a629187ae7a7bb7a9c1eea"
@@ -10457,7 +10457,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/intro-to-fraction-amen-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/intro-to-fraction-amen-english/audio.m4a",
      "role": "audio",
      "bytes": 366081,
      "sha256": "ccf800939d6b2863b0d8975e070064890245f5eeb0bd8a58899c019dd3b06ee4"
@@ -10488,7 +10488,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/intro-to-fraction-and-with-your-spirit-2-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/intro-to-fraction-and-with-your-spirit-2-english/audio.m4a",
      "role": "audio",
      "bytes": 233261,
      "sha256": "76088cf1c2378f96f30f8f854268c9175762521e60e0c554b5b5814476486e5e"
@@ -10519,7 +10519,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/intro-to-fraction-and-with-your-spirit-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/intro-to-fraction-and-with-your-spirit-english/audio.m4a",
      "role": "audio",
      "bytes": 232974,
      "sha256": "5949ac40fb718f9c96bc2bcc26f85d2c37a6c41f43f82f51b634423797580b4b"
@@ -10550,7 +10550,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/intro-to-fraction-and-your-precious-blood-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/intro-to-fraction-and-your-precious-blood-english/audio.m4a",
      "role": "audio",
      "bytes": 105224,
      "sha256": "2db8750b410b7f1bf1b0bb6c900944c42554355326e39a223e005f115554a5e0"
@@ -10581,7 +10581,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/intro-to-fraction-lord-have-mercy-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/intro-to-fraction-lord-have-mercy-english/audio.m4a",
      "role": "audio",
      "bytes": 125566,
      "sha256": "d0a73fd31ffc98be404ca57bca73fffdfcc50c864c9004dfd81890bb71ef6a62"
@@ -10612,7 +10612,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/intro-to-fraction-we-worship-your-holy-body-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/intro-to-fraction-we-worship-your-holy-body-english/audio.m4a",
      "role": "audio",
      "bytes": 173342,
      "sha256": "c30acbc1412ef36abf37d44331d37d67f29cce0dbe7c8b07d845cd6b7cd045c8"
@@ -10641,7 +10641,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/je-nai-nan/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/je-nai-nan/audio.m4a",
      "role": "audio",
      "bytes": 3350523,
      "sha256": "54ceb98b97a8c4a300be7c90e334a7357af8b123051c3b4bc1b6b1b6ee35c934"
@@ -10667,7 +10667,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-2/joyful-agios-major/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-2/joyful-agios-major/audio.seek.m4a",
      "role": "audio",
      "bytes": 4650028,
      "sha256": "b203c6cba8c71daeb99b40009aa6f6c859b54e5d6733ddcc94f1fbfd0e367b16"
@@ -10697,7 +10697,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/joyful-agios-major-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/joyful-agios-major-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2985522,
      "sha256": "f5cc2e170e2998f1195e924c931a77bda728997478672538cb279f0e0017195c"
@@ -10723,7 +10723,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-2/kata-ni-khoros/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-2/kata-ni-khoros/audio.seek.m4a",
      "role": "audio",
      "bytes": 5820509,
      "sha256": "7924b6bdda738ffbc6c4677a1aa3d37e7f086c946163401d0497d3afed036524"
@@ -10753,7 +10753,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/kata-ni-khoros-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/kata-ni-khoros-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 7427563,
      "sha256": "9d8ebf5bb636a1eb61d74b850335f122cbcb44b826d095cdf97cafcfdf64ee01"
@@ -10779,7 +10779,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-1/ke-ypertou/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-1/ke-ypertou/audio.seek.m4a",
      "role": "audio",
      "bytes": 8611458,
      "sha256": "fadf96582c6db03c685196e0295c787c9e24994dd373e5b75c5e2bc45ac14469"
@@ -10805,7 +10805,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/kyrie-eleison-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/kyrie-eleison-major/audio.m4a",
      "role": "audio",
      "bytes": 2735043,
      "sha256": "22f217524cc2401e12b637fb54571fd3e54dbe890ac78c0c7587613e3d82a489"
@@ -10833,7 +10833,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/leepon/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/leepon/audio.m4a",
      "role": "audio",
      "bytes": 897971,
      "sha256": "0525cf5a5511d13c00c4446d51dce30623b9ab16cadb0bac756c479e2a54b157"
@@ -10863,7 +10863,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/leepon-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/leepon-english/audio.m4a",
      "role": "audio",
      "bytes": 897427,
      "sha256": "e3859eb7e3e43f38ec4651c4665d0aa5eaa4a38bd1c40e98b3c50a0052fefc17"
@@ -10889,7 +10889,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/kg/level-2/liturgy-gospel-response-annual/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/kg/level-2/liturgy-gospel-response-annual/audio.seek.m4a",
      "role": "audio",
      "bytes": 1538496,
      "sha256": "23571030b50708658ca05c29d9518137a427f8fd18ad02947083c186ef27b634"
@@ -10915,7 +10915,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/liturgy-gospel-response-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-2/liturgy-gospel-response-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 2931523,
      "sha256": "6f03bce572af4413654ad7b232544d23047bed323de368904c36bc4cdfc21fba"
@@ -10945,7 +10945,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/liturgy-gospel-response-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/liturgy-gospel-response-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1956396,
      "sha256": "8d75e0650072461ebc99eb43a042d826f61a19257deed410ba5ff0d843393d95"
@@ -10974,7 +10974,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-1/lobsh-first-hoos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-1/lobsh-first-hoos/audio.seek.m4a",
      "role": "audio",
      "bytes": 6184244,
      "sha256": "a154783dd42186176906ff23a420136dae58092aea5f387540d184a96fb015d6"
@@ -11003,7 +11003,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/lobsh-first-hoos-hcoc-minor/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/lobsh-first-hoos-hcoc-minor/audio.m4a",
      "role": "audio",
      "bytes": 2814053,
      "sha256": "13fd6f37260fb73eeaf7fd906e868c02f70636db16fc2cfddc72bd80b48b04c2"
@@ -11034,7 +11034,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/lord-have-mercy-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/lord-have-mercy-3x-english/audio.m4a",
      "role": "audio",
      "bytes": 180687,
      "sha256": "8be89519a395b8254a6c0e5ed8d36173e5f6fa664de74f2734e7674a02edf0f9"
@@ -11064,7 +11064,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/may-their-holy-blessing-full-ending-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/may-their-holy-blessing-full-ending-english/audio.m4a",
      "role": "audio",
      "bytes": 1020972,
      "sha256": "98f711238e6d5fc631f1e8fda215de4833a7760170c0f88a8b61b48c12428ce4"
@@ -11094,7 +11094,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/may-their-holy-blessing-short-ending-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/may-their-holy-blessing-short-ending-english/audio.m4a",
      "role": "audio",
      "bytes": 239475,
      "sha256": "75b7ed160eba341ed1268f4649d96f75eded65049fd506453b98512d7f184141"
@@ -11123,7 +11123,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/morning-doxology/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/morning-doxology/audio.m4a",
      "role": "audio",
      "bytes": 17982191,
      "sha256": "b6a3df1eae5b687a22054cd655a44deb6b2580039a85f9fd0deb85276fa6ec62"
@@ -11153,7 +11153,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/morning-doxology-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/morning-doxology-english/audio.m4a",
      "role": "audio",
      "bytes": 13702279,
      "sha256": "78b7b0f263dbced43a4e1ec32bb95eb5fec93e8a3d33ef56069ab90b466c76e9"
@@ -11183,7 +11183,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/morning-doxology-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/morning-doxology-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 9477795,
      "sha256": "9911453d84d262f827c4a4307da88c53640af567a8480683c939ab4745edb40b"
@@ -11214,7 +11214,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/nature-litany-lord-have-mercy-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/nature-litany-lord-have-mercy-3x-english/audio.m4a",
      "role": "audio",
      "bytes": 190572,
      "sha256": "fdeadd61abc2b943ba477cbcfa329be358113bd495f75f184c78b03be43666e6"
@@ -11240,7 +11240,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ni-ethnos-tero/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ni-ethnos-tero/audio.m4a",
      "role": "audio",
      "bytes": 15191138,
      "sha256": "c454cef7bc2cf5cbe680e800165c86869217809e95b5636b540b297d24a0e9f9"
@@ -11266,7 +11266,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/nim-ghar/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/nim-ghar/audio.mp3",
      "role": "audio",
      "bytes": 4122541,
      "sha256": "fe9cb5344ff1bb7d8b533334a4e83cedd77e6ed437e942a6f326957f10ceeef0"
@@ -11296,7 +11296,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/nim-ghar-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/nim-ghar-english/audio.mp3",
      "role": "audio",
      "bytes": 3025544,
      "sha256": "aabccd4221fbe2fd750c0a6b656b20eff766d5bed968588a130ef47b02456166"
@@ -11327,7 +11327,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/oblations-litany-lord-have-mercy-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/oblations-litany-lord-have-mercy-english/audio.m4a",
      "role": "audio",
      "bytes": 189159,
      "sha256": "a471fbfdb5ae999438618f91f468f040d8c4954adf6b1ac530c01a9adac02a5a"
@@ -11358,7 +11358,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/one-is-the-all-holy-father-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/one-is-the-all-holy-father-english/audio.m4a",
      "role": "audio",
      "bytes": 570149,
      "sha256": "aba5afe2c56d8c0e6ce97738901ef298b00b86c0a02db99215105e394787f789"
@@ -11384,7 +11384,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-2/onim-nai-symfonia/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-2/onim-nai-symfonia/audio.seek.m4a",
      "role": "audio",
      "bytes": 2944699,
      "sha256": "8510ec1c31436339d8037929f6b3476ffafc9b1d2801bd95b49af8012cb8dd25"
@@ -11414,7 +11414,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/onim-nai-symfonia-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/onim-nai-symfonia-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3719663,
      "sha256": "561ef5dc54fce28e66654a3603d200a12d311dd93890a400237077d1511fc7c6"
@@ -11440,7 +11440,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/os-ein-response/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/os-ein-response/audio.m4a",
      "role": "audio",
      "bytes": 1977605,
      "sha256": "d4af61f79a35e7dba215bc758fbeed3bc903d631dd3a8e1324484c1ebf6b3b31"
@@ -11466,7 +11466,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-2/ou-katikisis/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-2/ou-katikisis/audio.seek.m4a",
      "role": "audio",
      "bytes": 11420965,
      "sha256": "55374662ab1566d4cff304043656aa1994e44ace8ac6d432967af8b7a61836dc"
@@ -11496,7 +11496,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ou-katikisis-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ou-katikisis-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 10368877,
      "sha256": "92957830325d4496e0d9c5f634c0ef9937f86b7164a7687d7d548e857c56fd4f"
@@ -11522,7 +11522,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/paralex-of-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-2/paralex-of-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 2543447,
      "sha256": "a7898d6e98879c3ed5c7c726416f0520e930ebe26a2e17170e71a4bc5d9a44ea"
@@ -11552,7 +11552,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/paralex-of-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/paralex-of-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2095297,
      "sha256": "1f2c438ac64ab26543a888076b4a044180aab6af7514e8dfb958e002d8af6538"
@@ -11578,7 +11578,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-2/paralex-shere-maria/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-2/paralex-shere-maria/audio.seek.m4a",
      "role": "audio",
      "bytes": 7587788,
      "sha256": "9caa860f2f87a9f726328fd07175a241f6f547b6756b67a283cd5f742b1ee438"
@@ -11604,7 +11604,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-1/pi-christos-aftonf/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-1/pi-christos-aftonf/audio.seek.m4a",
      "role": "audio",
      "bytes": 2550766,
      "sha256": "3eea0c2fdcdd624efc90e7a550384c172898592516e80bffe2dfe8419db19fe4"
@@ -11634,7 +11634,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/pi-christos-aftonf-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/pi-christos-aftonf-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 4702146,
      "sha256": "fc3075a0f9b858f31212f9d37cba569492e2b238c23048a4fa8623e899852dc9"
@@ -11660,7 +11660,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/pi-ehmot-ghar-small/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/pi-ehmot-ghar-small/audio.m4a",
      "role": "audio",
      "bytes": 3621660,
      "sha256": "dc562bd74e1e29d86d72af8f7d609df0b5df0eb64517235e2d0cd5c8a9c88d79"
@@ -11690,7 +11690,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/pi-ehmot-ghar-small-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/pi-ehmot-ghar-small-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1967109,
      "sha256": "f6d1655c8fb999cdbb238078a6dd07a5f88352a216745c57794a66abd3e4aad2"
@@ -11716,7 +11716,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-1/pi-oik/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-1/pi-oik/audio.seek.m4a",
      "role": "audio",
      "bytes": 7359068,
      "sha256": "25c6d8245a30e74b6aa055fdcfa719f99f5784272fc0554f7f100a2a2b161b31"
@@ -11746,7 +11746,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/pi-oik-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/pi-oik-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 8074807,
      "sha256": "8f3db2c0c5c88161b2dcf5f310a6dacdda70dba9c50025c11a92696cb9d70473"
@@ -11772,7 +11772,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/pi-pnevma/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-1/pi-pnevma/audio.seek.m4a",
      "role": "audio",
      "bytes": 700600,
      "sha256": "2f8acfd5fa4301c39946c84e5a1f4154a61cb5917c77cf32e297bb0f9f13a74f"
@@ -11802,7 +11802,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/pi-pnevma-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/pi-pnevma-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 10532540,
      "sha256": "a3571ed109e0f687811600f4ba69df4ac961a9235ed194c5bf59c7a20ce044e0"
@@ -11828,7 +11828,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/praxis-mohayar-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/praxis-mohayar-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 3567198,
      "sha256": "e92f775759b7ff261743878c670059564119eeec27f4e5294b092e1762857a69"
@@ -11854,7 +11854,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/praxis-response-annual/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-1/praxis-response-annual/audio.seek.m4a",
      "role": "audio",
      "bytes": 1461838,
      "sha256": "0ea164b266fe89f0473e9df443e0785a9268b0b74322d579a1c9adf8314ababf"
@@ -11883,7 +11883,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/praxis-response-annual-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/praxis-response-annual-major/audio.m4a",
      "role": "audio",
      "bytes": 9860586,
      "sha256": "e3e7a7b39ffeaad9326acef079ae8a6bbd4e675ed73eae5df1dc490cd62b84cf"
@@ -11909,7 +11909,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-1/praxis-response-feast-cross/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-1/praxis-response-feast-cross/audio.seek.m4a",
      "role": "audio",
      "bytes": 1459687,
      "sha256": "c782520129595927a7c16b9b26c6569dd06b725dd2f463523186c58186d4b09e"
@@ -11939,7 +11939,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/praxis-response-feast-cross-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/praxis-response-feast-cross-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1658938,
      "sha256": "95d791ac6253acbe241c5cb5f2cd4fa728ad493544672264c4dc02a8ebdd79ec"
@@ -11965,7 +11965,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/praxis-response-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/praxis-response-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 2060219,
      "sha256": "33acdf5268e5af233764ff44d3389ff59b4c2277be4d6fb46a953c378d612e61"
@@ -11995,7 +11995,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/praxis-response-kiahk-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/praxis-response-kiahk-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3046809,
      "sha256": "c9074c8dab33966bc80f2b45f9b9ff23bbbe1c67fd0192c66a7dabd2ee38064e"
@@ -12021,7 +12021,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/praxis-response-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-2/praxis-response-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 1542822,
      "sha256": "89d5815b48c12b9008f57bcd878ac1e0bfa1ee09be8f162b74b33192cab39914"
@@ -12051,7 +12051,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/praxis-response-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/praxis-response-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1669925,
      "sha256": "4ef674a88abe24631c987ab7f58cc548181144a802c6140f66897e21ac1ddc27"
@@ -12077,7 +12077,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/procession-refrain-feast-cross/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-1/procession-refrain-feast-cross/audio.seek.m4a",
      "role": "audio",
      "bytes": 520540,
      "sha256": "c672f4abd5071d9a943272d437d7cfaf7f972707363bb389f719ea2a8a8b1dea"
@@ -12107,7 +12107,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/procession-refrain-feast-cross-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/procession-refrain-feast-cross-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 359977,
      "sha256": "b554a4b483760ade8aad401d80b30dd1700a85d071ec1a1e5bef3b0958289522"
@@ -12134,7 +12134,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/psalm-150-4th-hoos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-2/psalm-150-4th-hoos/audio.seek.m4a",
      "role": "audio",
      "bytes": 2865718,
      "sha256": "d2f908df0c084eac5678540724abe2657eba6307e69982b846baf88e4e12f8c9"
@@ -12160,7 +12160,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/psalm-150-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/psalm-150-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 2468800,
      "sha256": "ced9bc3b02361f251230bb7c09f2a9798159d4e5b19e8c198c63b05c327baad5"
@@ -12186,7 +12186,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/psalm-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/psalm-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 4303983,
      "sha256": "90d3f91b835c2e83451a49a30f3bd3cc359fd042b727c7b491da9574f3225200"
@@ -12216,7 +12216,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/psalm-kiahk-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/psalm-kiahk-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3716988,
      "sha256": "a41ad97f3e079e1efe244b02ecee23db7840797426828d4ad7e952aef41dba09"
@@ -12242,7 +12242,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/psalm-procession-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/psalm-procession-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 1915269,
      "sha256": "e98a0c34b0d5fe7789fa8e977e10cad202a8faca587fec1e78b477fcdf9e971e"
@@ -12268,7 +12268,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/kg/level-1/psalm-response-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/kg/level-1/psalm-response-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 801314,
      "sha256": "49e88885f0715e03ab76d7fac00dd2ab640bc5e405457088fc90dd2b3e803ae3"
@@ -12298,7 +12298,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/psalm-response-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/psalm-response-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 812246,
      "sha256": "59b1ef2252c857b3a5e471b5e697cf5fcdc9a2797527bc34d23775198770e15c"
@@ -12329,7 +12329,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/reconciliation-prayer-and-with-your-spirit-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/reconciliation-prayer-and-with-your-spirit-english/audio.m4a",
      "role": "audio",
      "bytes": 191995,
      "sha256": "8967b39f0f2326b7651ee1f82ac9f1e41f844ff19caa69115869eeb702c66cd6"
@@ -12360,7 +12360,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/reconciliation-prayer-lord-have-mercy-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/reconciliation-prayer-lord-have-mercy-english/audio.m4a",
      "role": "audio",
      "bytes": 174184,
      "sha256": "5b175cf45b961783cf56c0cce034cd7d2f86f5ba13490654777c89c41ab46a2a"
@@ -12390,7 +12390,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/reconciliation-prayer-through-the-intercession-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/reconciliation-prayer-through-the-intercession-english/audio.m4a",
      "role": "audio",
      "bytes": 824804,
      "sha256": "dda7c8b0f17b9c1101d23c5b40e34cc9c5ee485203bf2a1d672a331cb518cddc"
@@ -12416,7 +12416,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/reconciliation-response-basil/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/reconciliation-response-basil/audio.m4a",
      "role": "audio",
      "bytes": 1798858,
      "sha256": "56bbf7b56ce211b32524ce7890e5fbc16b88d7d279b3d1e646260f85c1450bac"
@@ -12442,7 +12442,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/ms/level-1/refrain-third-hour-pentecost/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-1/refrain-third-hour-pentecost/audio.seek.m4a",
      "role": "audio",
      "bytes": 1082535,
      "sha256": "43733abecaf053c92aac076827a8c3bcbb47d49b5a7633ed4f07ca327d8702ea"
@@ -12472,7 +12472,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/refrain-third-hour-pentecost-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/refrain-third-hour-pentecost-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1632987,
      "sha256": "eed28781efcfd83434ca1dcf095a4c3854db0b3e12e6cdeb395485501af9afba"
@@ -13418,7 +13418,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-2/second-doxology-apostles/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-2/second-doxology-apostles/audio.seek.m4a",
      "role": "audio",
      "bytes": 1856550,
      "sha256": "d6d24b0adee569c1f59a2ce671c9c0ed874289866717a9fa88819881d812d3fa"
@@ -13448,7 +13448,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/second-doxology-apostles-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/second-doxology-apostles-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1298717,
      "sha256": "b340d9bea8effe95f5ff04e5007da3ba427d2d5b8ddfb900fd30df49852c26ee"
@@ -13474,7 +13474,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-1/second-doxology-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-1/second-doxology-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 1910545,
      "sha256": "b8ffd311137e8bd2a66777d895271bf20f50ec13a1feb88bf2f5c691cb7dfd5a"
@@ -13504,7 +13504,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/second-doxology-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/second-doxology-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1277129,
      "sha256": "740bb2b6080390665900d268f747eefaa464ca35cf1e316ad8ea0663a85c6299"
@@ -13532,7 +13532,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/second-hoos/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/second-hoos/audio.m4a",
      "role": "audio",
      "bytes": 5159767,
      "sha256": "438e58eb4fa0ab1ce4207cbb8513988ef794046cf9cb6e5eb6f608be53ee904e"
@@ -13562,7 +13562,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/second-hoos-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/second-hoos-english/audio.mp3",
      "role": "audio",
      "bytes": 4828609,
      "sha256": "334d04fe937f41db9b7557f4668b72dfea9d421509cc9ee46997a3c1ce58b527"
@@ -13590,7 +13590,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/second-hoos-lobsh/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/second-hoos-lobsh/audio.mp3",
      "role": "audio",
      "bytes": 16765831,
      "sha256": "d03a2c2371cfffca45fe015bdabba64be782a2c80300ac9e7e174e1089080ccf"
@@ -13620,7 +13620,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/second-hoos-lobsh-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/second-hoos-lobsh-english/audio.mp3",
      "role": "audio",
      "bytes": 6620001,
      "sha256": "6c7b9127214c71ae63ee9606b5ff061265fe964c8647882edbc37e700b0778cf"
@@ -13649,7 +13649,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/second-hoos-lobsh-hcoc-minor/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/second-hoos-lobsh-hcoc-minor/audio.m4a",
      "role": "audio",
      "bytes": 3474983,
      "sha256": "47c2661a84e667da598c88ffd8ea2c0b707561a45abd993deb17aa8133ce854f"
@@ -13676,7 +13676,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/second-sunday-psali/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/second-sunday-psali/audio.mp3",
      "role": "audio",
      "bytes": 8420832,
      "sha256": "9b990243d205c64369c4d040288c569a4216f39b0abcd0e5742020301eb45fff"
@@ -13706,7 +13706,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/second-sunday-psali-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/second-sunday-psali-english/audio.mp3",
      "role": "audio",
      "bytes": 7688717,
      "sha256": "c537495350d45014c83baeb6bdadd8dc84375f87485111b39a2e9efaab8f7eb3"
@@ -13735,7 +13735,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/semoti/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/semoti/audio.m4a",
      "role": "audio",
      "bytes": 1909786,
      "sha256": "e2dfd2eb0dd793383be57ac49ebb0496033517a4b8744df82ec0436b61eb93bc"
@@ -13765,7 +13765,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/semoti-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/semoti-english/audio.mp3",
      "role": "audio",
      "bytes": 1607410,
      "sha256": "ba683b22621b726c1916c231c4d4e4a67a60a83bfc5ec91c59c4d63f8efe78ba"
@@ -13795,7 +13795,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/semoti-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/semoti-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 6803909,
      "sha256": "c41a5e808c68a58379a57768b8cbae1443c894ab11f92c9ebbba23ea637903be"
@@ -13824,7 +13824,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/semoti-hcoc-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/semoti-hcoc-major/audio.m4a",
      "role": "audio",
      "bytes": 12770623,
      "sha256": "c5474ed65728a4c9699a2127528929150d49af0d3ff905e1d586666deb5e409f"
@@ -13854,7 +13854,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/seven-short-litanies-have-mercy-upon-us-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/seven-short-litanies-have-mercy-upon-us-english/audio.m4a",
      "role": "audio",
      "bytes": 214321,
      "sha256": "3e58477ca45b08dbc2fa2703c94536456350119434b6c2da20d302774964e043"
@@ -13885,7 +13885,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/seven-short-litanies-lord-have-mercy-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/seven-short-litanies-lord-have-mercy-english/audio.m4a",
      "role": "audio",
      "bytes": 128113,
      "sha256": "c41441ac14d86a4d3e4d431bb9b19148a9aba989cef0ac2804acb946fb674cff"
@@ -13911,7 +13911,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/shashf-ensop/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/shashf-ensop/audio.mp3",
      "role": "audio",
      "bytes": 10839565,
      "sha256": "b9d9ff31188d6a8392b6236a0af7f4d250f1cbb542f2cc67ad59d7ebb5d97421"
@@ -13941,7 +13941,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/shashf-ensop-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/shashf-ensop-english/audio.mp3",
      "role": "audio",
      "bytes": 7696245,
      "sha256": "c8f5945e34055222ce3273ecde0a779ace656cee6c1c52778d2aa6c595826663"
@@ -13967,7 +13967,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sheraat-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sheraat-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 27239778,
      "sha256": "f4de89ec4a644aeb33702798f7ef12cb64ce6a0c36a70e4ad59582080aa8f171"
@@ -13996,7 +13996,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/shere-ne-maria/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/shere-ne-maria/audio.m4a",
      "role": "audio",
      "bytes": 1651429,
      "sha256": "58959f77a713586ce9b2eb639ecc29665faf28a9ecf233ef1d0437b40f8651a1"
@@ -14026,7 +14026,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/shere-ne-maria-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/shere-ne-maria-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 6854780,
      "sha256": "cb2387ddf7927ee6204d684b8ed398b69d9b6d1e120951c7230a199e6bcaeba5"
@@ -14055,7 +14055,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/shere-ne-maria-hcoc-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/shere-ne-maria-hcoc-major/audio.m4a",
      "role": "audio",
      "bytes": 6176464,
      "sha256": "d8546321723c08dd2fbfd63ca99fae6a8fe4caeb145c78ec1b0669d940e527d7"
@@ -14081,7 +14081,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/kg/level-1/sotees-ameen-fast/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/kg/level-1/sotees-ameen-fast/audio.seek.m4a",
      "role": "audio",
      "bytes": 469003,
      "sha256": "b0b5e84572d6cc2fc0138128f2ae5f535f5daeb2ca8081b982893f84f0d181c5"
@@ -14111,7 +14111,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sotees-ameen-fast-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sotees-ameen-fast-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3897158,
      "sha256": "c987bc38f17f924acee5e568cc2e6a319457bef12ffdc69db071083feecfc856"
@@ -14140,7 +14140,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sotees-ameen-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sotees-ameen-major/audio.m4a",
      "role": "audio",
      "bytes": 5422647,
      "sha256": "81557a2331adb051e561a2eec96f8325b52e9a506d03d2735d07c235bc2730cd"
@@ -14167,7 +14167,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/st-mark-doxology-first-one/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-2/st-mark-doxology-first-one/audio.seek.m4a",
      "role": "audio",
      "bytes": 2209300,
      "sha256": "905b82f4612623dd8d9c400c6d170511afac59aba78a5974c5f1355798c3f9a7"
@@ -14197,7 +14197,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/st-mark-doxology-first-one-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/st-mark-doxology-first-one-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1512733,
      "sha256": "6f80bf432a579f85cbd2f57c1cab0e477b61ec49149a2214c6ada28270e1f6fe"
@@ -14225,7 +14225,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-1/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-1/audio.m4a",
      "role": "audio",
      "bytes": 3447783,
      "sha256": "4a1e8e78fbe5c714660e0ec92592c44e433b4178710b323af328e2fee53d7f7b"
@@ -14255,7 +14255,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-1-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-1-english/audio.m4a",
      "role": "audio",
      "bytes": 3421161,
      "sha256": "f635ebfe4663e8990043574566a6babf6ebda6dae4b40c97a3ef4694ee3c7fc1"
@@ -14283,7 +14283,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-11/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-11/audio.m4a",
      "role": "audio",
      "bytes": 1023394,
      "sha256": "09b6df0f728d40a6d86db9fe0f5a5d9305b7919682c1e8c10b314620f9ecf5d9"
@@ -14313,7 +14313,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-11-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-11-english/audio.mp3",
      "role": "audio",
      "bytes": 889206,
      "sha256": "e6cd35c8357ac1919eca5f84f56926fd77b36be6f8fcda6e680f5455bc41b208"
@@ -14341,7 +14341,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-12/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-12/audio.m4a",
      "role": "audio",
      "bytes": 1277262,
      "sha256": "7bda26047e6f313b5b35f0e162cd766230f1d69d10132879e7fec52015bd26d7"
@@ -14371,7 +14371,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-12-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-12-english/audio.mp3",
      "role": "audio",
      "bytes": 1186376,
      "sha256": "990456f60f94e72e21d79eb91856136ef61398ad964432b7b19157e310fe9230"
@@ -14399,7 +14399,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-13/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-13/audio.m4a",
      "role": "audio",
      "bytes": 1816507,
      "sha256": "221451babb34626a4d9803de9888e04f2771cfbfcc27a19fc5fac42ff7f4f237"
@@ -14429,7 +14429,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-13-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-13-english/audio.mp3",
      "role": "audio",
      "bytes": 1188465,
      "sha256": "a9234bec82a9b7c383e81c2f7c2a7fdbca5e54fbca06e905e4e96b2368728bfd"
@@ -14457,7 +14457,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-14/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-14/audio.m4a",
      "role": "audio",
      "bytes": 3564194,
      "sha256": "e55896a91daac870bb3a695d1dfaf885cfe900b17d9a9ce407a084f6908ef0af"
@@ -14487,7 +14487,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-14-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-14-english/audio.mp3",
      "role": "audio",
      "bytes": 3159142,
      "sha256": "43107788fd9756d75c6c459c70569ccf72549bd1068b553fba986bcb8338edc8"
@@ -14515,7 +14515,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-15/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-15/audio.m4a",
      "role": "audio",
      "bytes": 4600643,
      "sha256": "00dc6d4e67c501b119acac7e3455b8826cd158724bb4fdf32564bc00f991c3bc"
@@ -14545,7 +14545,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-15-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-15-english/audio.mp3",
      "role": "audio",
      "bytes": 4043962,
      "sha256": "b9f55635b555de3b9539b1a9157010bac76eaa430d34db029269f51349c2ed48"
@@ -14573,7 +14573,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-2/audio.m4a",
      "role": "audio",
      "bytes": 3447044,
      "sha256": "7630fe56f87327b902da741e56cf963b4ff4f31f10aec0ada38705804fca7300"
@@ -14603,7 +14603,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-2-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-2-english/audio.mp3",
      "role": "audio",
      "bytes": 3375378,
      "sha256": "a444029994b76e75cd4738f17bb0d5d0a2369e1bc75eeb7ff70b907809e54000"
@@ -14631,7 +14631,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-3/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-3/audio.m4a",
      "role": "audio",
      "bytes": 2764334,
      "sha256": "34b2f7966757a5010dcbe8cebc11dc8a3b3d66ea734b3bed8a9fd6a93a35a3f0"
@@ -14661,7 +14661,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-3-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-3-english/audio.mp3",
      "role": "audio",
      "bytes": 2713749,
      "sha256": "70e24cc6529894dfa1b770bcfbf8103300ba3949e61d6fc40e01946773f0ac1e"
@@ -14689,7 +14689,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-4/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-4/audio.m4a",
      "role": "audio",
      "bytes": 2576574,
      "sha256": "79f4359e1c502df7d2bc4be1e78c01b9d8654c0b6be12e616ff9c3aaf009b45f"
@@ -14719,7 +14719,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-4-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-4-english/audio.mp3",
      "role": "audio",
      "bytes": 2718346,
      "sha256": "843db125975a9e423f80e0db157e6ea92921e595e4d1e7fc53de7e2c2e4bb125"
@@ -14747,7 +14747,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-5/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-5/audio.m4a",
      "role": "audio",
      "bytes": 3722675,
      "sha256": "51af410a3b278324bd30206725f0bbd7516d39ba945105d15a6f3314d8978bc8"
@@ -14777,7 +14777,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-5-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-5-english/audio.mp3",
      "role": "audio",
      "bytes": 3396276,
      "sha256": "6cfe07b850004650000f3f512654ef3087a07156159391660bd83443196c76d4"
@@ -14805,7 +14805,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-6/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-6/audio.m4a",
      "role": "audio",
      "bytes": 2928060,
      "sha256": "84210c6e10fa49582710f5fe5373964a2d5cdbe3ce4bccb2082c446b2bd4d939"
@@ -14835,7 +14835,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-6-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-6-english/audio.mp3",
      "role": "audio",
      "bytes": 2969122,
      "sha256": "5fc349efba0f53d8cb8c817b7128446759a145f8e5ea0422621c2e51f75278ee"
@@ -14863,7 +14863,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/sunday-theotokia-9/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/sunday-theotokia-9/audio.m4a",
      "role": "audio",
      "bytes": 1253979,
      "sha256": "1809393556ed8ee16a8522080050b0f43357e5d6cc6175d82716e2a3bfa98d88"
@@ -14893,7 +14893,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/sunday-theotokia-9-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sunday-theotokia-9-english/audio.mp3",
      "role": "audio",
      "bytes": 1079806,
      "sha256": "72563721243614e67e2bba571e82b22cda42f0500abe83f62a3244daf87433a9"
@@ -14919,7 +14919,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/tai-shouri/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tai-shouri/audio.m4a",
      "role": "audio",
      "bytes": 2649800,
      "sha256": "60bb8753f23784a026c2d2403ea63bf868a58626e5f6e4a6389f36678b57d6f3"
@@ -14945,7 +14945,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/tarh-watos-intro/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tarh-watos-intro/audio.m4a",
      "role": "audio",
      "bytes": 31819970,
      "sha256": "3c9b9cfe1c8a344e49d41a83a52ca78cfa090d83d64d7ce0d2c62842c1e919a3"
@@ -14974,7 +14974,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ten-oosht-evol-basil/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ten-oosht-evol-basil/audio.m4a",
      "role": "audio",
      "bytes": 1291907,
      "sha256": "c5a36aeb5134159ad64b1ecd2caae80225ac4429a11900120b57f36bf95a76b8"
@@ -15004,7 +15004,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ten-oosht-evol-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ten-oosht-evol-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 446940,
      "sha256": "fd3372412c5979a413f7b0b310465704f949ab18c722fb46a4164c5aede641ff"
@@ -15033,7 +15033,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ten-oosht-evol-gregory/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ten-oosht-evol-gregory/audio.m4a",
      "role": "audio",
      "bytes": 1497316,
      "sha256": "9dddeeb14a8068d72eed6800a7070a0b23c3a03c700ce3f73ad810e6fce033eb"
@@ -15062,7 +15062,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ten-oosht-evol-vespers-matins/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ten-oosht-evol-vespers-matins/audio.m4a",
      "role": "audio",
      "bytes": 1836410,
      "sha256": "7abbd3ef126167ac6e10fe2caffbabd241bee36fd238dca1d43da40c1c82627c"
@@ -15089,7 +15089,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ten-theeno/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ten-theeno/audio.m4a",
      "role": "audio",
      "bytes": 5084353,
      "sha256": "a5f1e510ca8ae5e56140dccd67624f7266efaf2f604c649ed7f10265fc24e1a5"
@@ -15119,7 +15119,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ten-theeno-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ten-theeno-english/audio.mp3",
      "role": "audio",
      "bytes": 5372387,
      "sha256": "3f03a68f59b7fb143a42713864b92d2a1b94843b2e705b70a65934fe8fa35d48"
@@ -15149,7 +15149,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ten-theeno-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ten-theeno-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 8551053,
      "sha256": "1550aa3b67870768ccfb684885b608199234f617bab608ed8c6f5c58b73b5b83"
@@ -15176,7 +15176,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/college/level-2/ten-thinou/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-2/ten-thinou/audio.seek.m4a",
      "role": "audio",
      "bytes": 9164718,
      "sha256": "3a54ec05e5eb491f7f90e2e673362d020a33bace06376cd508e80017eba5e1ab"
@@ -15202,7 +15202,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/tenen/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tenen/audio.m4a",
      "role": "audio",
      "bytes": 12037443,
      "sha256": "92015cfe7c2e529aaf2725d2047f2e64b4c39bc763c17ef4b36741a32e7d005b"
@@ -15232,7 +15232,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/tenen-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/tenen-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 20299884,
      "sha256": "2ecae962422fcc55f9a6a5a2900caf3d87d19fbc2eca3115561b965237fcd810"
@@ -15262,7 +15262,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/tennav/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tennav/audio.m4a",
      "role": "audio",
      "bytes": 7311711,
      "sha256": "b14e885083b6644bbbbebeb979903d7f00b419a3db6a2fc16f4248f5b46b7374"
@@ -15292,7 +15292,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/tennav-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/tennav-english/audio.mp3",
      "role": "audio",
      "bytes": 6133075,
      "sha256": "88d38d1f9ac7d4767d6c963f4be3c106c7a812ee0b10d4c42b5c487e61d1b269"
@@ -15321,7 +15321,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-2/tenoue-n-khok/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-2/tenoue-n-khok/audio.seek.m4a",
      "role": "audio",
      "bytes": 6432078,
      "sha256": "d0f8bb63e84bf8b6f06377a2036a4bf615dd729070efe4c6fd4d67043cad3a77"
@@ -15351,7 +15351,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/tenoue-n-khok-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/tenoue-n-khok-english/audio.mp3",
      "role": "audio",
      "bytes": 3704734,
      "sha256": "955b72cecc16a490675807b9da7a1696fcea039abd4d96a2c59f2b22519701b1"
@@ -15381,7 +15381,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/tenoue-n-khok-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/tenoue-n-khok-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2897185,
      "sha256": "5b2f5db2dd08de2003f659f76022d4c6406277e359ebaafd5c8b94566c3005c4"
@@ -15411,7 +15411,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/tenoue-n-khok-english-chie-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/tenoue-n-khok-english-chie-2/audio.m4a",
      "role": "audio",
      "bytes": 1768778,
      "sha256": "d8471678201060a542e35bfb247ee761744113f53407e18d10f2c9edd69c21c0"
@@ -15440,7 +15440,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/tenoue-n-khok-hcoc-medium/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/tenoue-n-khok-hcoc-medium/audio.m4a",
      "role": "audio",
      "bytes": 3809946,
      "sha256": "643d40daf7f67f33e76ccfef554b1ede21e306dc8cf44c65dbecaa759d1f6ad6"
@@ -15469,7 +15469,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hcoc/tenoue-n-khok-hcoc-minor/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hcoc/tenoue-n-khok-hcoc-minor/audio.m4a",
      "role": "audio",
      "bytes": 2796779,
      "sha256": "eb79f6c2f78a71f97c201b6cc38b0a3bb35a19e7e0211598c92dcd34d056f72c"
@@ -15498,7 +15498,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/tenoueh-ensok-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tenoueh-ensok-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 2866475,
      "sha256": "71c97f69dbb01bdbe4406efd75a2c8a5be245a530906252bc013f1d5fd037e7f"
@@ -15524,7 +15524,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/teoi-enhekanos/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/teoi-enhekanos/audio.mp3",
      "role": "audio",
      "bytes": 14394727,
      "sha256": "840f11a9e9cf37e35e2f73f8d4b094d2d07a9166f1183f29c253aaeffd43a672"
@@ -15554,7 +15554,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/teoi-enhekanos-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/teoi-enhekanos-english/audio.mp3",
      "role": "audio",
      "bytes": 11808953,
      "sha256": "91cb5352134c11790ea819da76ba617150298b2aecc5d413877a1a3630af079b"
@@ -15581,7 +15581,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-aspasmos-adam/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-aspasmos-adam/audio.seek.m4a",
      "role": "audio",
      "bytes": 3903168,
      "sha256": "8bcad7b10e91d04ddc591c6a88c1430b90db54649e5b73ce0d3242813d6e21c0"
@@ -15608,7 +15608,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-aspasmos-watos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-aspasmos-watos/audio.seek.m4a",
      "role": "audio",
      "bytes": 7131088,
      "sha256": "725f8217827696e542947d43c3e316fcb2ac37bd7455f29d90a98dcb5530692b"
@@ -15635,7 +15635,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-conclusion/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-conclusion/audio.seek.m4a",
      "role": "audio",
      "bytes": 1112154,
      "sha256": "5c395e0e7b4b2d66dbcd9a33cd3464438ff9bd4eeb202776ab8daeecd2c6203f"
@@ -15662,7 +15662,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-distribution/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-distribution/audio.seek.m4a",
      "role": "audio",
      "bytes": 8198356,
      "sha256": "bcf9b378cc5b168b0eb80771125f4163545b49d7f8fe9329c2c69be63a47c56c"
@@ -15689,7 +15689,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-doxologies/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-doxologies/audio.seek.m4a",
      "role": "audio",
      "bytes": 8392125,
      "sha256": "3c30e9c08ff72e24368efe2728af4eb970f0304319a22f5a7d3e820d296146dd"
@@ -15716,7 +15716,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-gospel-response/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-gospel-response/audio.seek.m4a",
      "role": "audio",
      "bytes": 1926153,
      "sha256": "5de164c1f3491150ad41806cc957ff25f8041dd4beca2594fe357ceb8c82f67f"
@@ -15743,7 +15743,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-hitenyat/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-hitenyat/audio.seek.m4a",
      "role": "audio",
      "bytes": 11407808,
      "sha256": "d6d92c66a37abb3fa89997989b78ccaf365a6421bf77715cd380e2b3f37b12b0"
@@ -15770,7 +15770,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-praxis-responses/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-praxis-responses/audio.seek.m4a",
      "role": "audio",
      "bytes": 5695867,
      "sha256": "66943457c02a1b1514e82943d911968dc1f3eab35f007506528c4b5c9a8b1e17"
@@ -15797,7 +15797,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-psali-adam/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-psali-adam/audio.seek.m4a",
      "role": "audio",
      "bytes": 8563262,
      "sha256": "76c83ad7d5c17f3ea81d1d4f37e99e4ac5ea1d416a73a43f9a844277e147d83e"
@@ -15824,7 +15824,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-psali-watos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-psali-watos/audio.seek.m4a",
      "role": "audio",
      "bytes": 8282077,
      "sha256": "bcb831c83aab6e079eff433df66375b7176b6bb748c2240b8bc4d75c49fc1657"
@@ -15851,7 +15851,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-psalm-response/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-psalm-response/audio.seek.m4a",
      "role": "audio",
      "bytes": 1169710,
      "sha256": "9c3a60d7840929d22891532522f961b7e0a446a03a55165947f38307c034db8d"
@@ -15878,7 +15878,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-tarh-watos/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-tarh-watos/audio.seek.m4a",
      "role": "audio",
      "bytes": 3041139,
      "sha256": "d135323c9353719a4f04abf485254d6a407c8d55168e8694dcb8f8005714fd96"
@@ -15905,7 +15905,7 @@
      "role": "timing"
     },
     {
-     "url": "content/the-29th/the-29th-verses-of-the-cymbals/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/the-29th/the-29th-verses-of-the-cymbals/audio.seek.m4a",
      "role": "audio",
      "bytes": 4303859,
      "sha256": "488e937e603cd22c3cb9be09ead7262fb66c2b54c198b760f0186537dfc51d53"
@@ -15931,7 +15931,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/the-thought-of-man/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-2/the-thought-of-man/audio.seek.m4a",
      "role": "audio",
      "bytes": 1177195,
      "sha256": "731694a0acd1da510597f6d0e55e05826dfcb430f25a65c1b9f4fc56ce725b60"
@@ -15961,7 +15961,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/the-thought-of-man-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/the-thought-of-man-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1218135,
      "sha256": "f8f9facf475b91308ff7741f6fca3114b11cd80cab360d3472851e8f3ee78c33"
@@ -15989,7 +15989,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/third-hoos/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/third-hoos/audio.m4a",
      "role": "audio",
      "bytes": 7444099,
      "sha256": "53c02a9a88c3734e06f448949f9d2086e79d3e90bbfa775b3f77aff4583a7c9a"
@@ -16019,7 +16019,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/third-hoos-english/audio.mp3",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/third-hoos-english/audio.mp3",
      "role": "audio",
      "bytes": 7498531,
      "sha256": "0e63436bd0157d6391e510ed06b1d0fb82fd9740204ae6b83134f0f38f0b6cfa"
@@ -16045,7 +16045,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-1/this-is-the-day/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-1/this-is-the-day/audio.seek.m4a",
      "role": "audio",
      "bytes": 1412571,
      "sha256": "8fa674a9979376f0cdfae2b5af830bd471560c2d8dba7a35e9ad4d1a6624def8"
@@ -16075,7 +16075,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/this-is-the-day-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/this-is-the-day-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1434112,
      "sha256": "9a864797bde1bb7848df1a9e36a6a299af670b2812165daf0d4ffdd9a5f7ba8b"
@@ -16101,7 +16101,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ti-galilee/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ti-galilee/audio.m4a",
      "role": "audio",
      "bytes": 11782513,
      "sha256": "9060151af9ef2d3e95ec6b9d7f661ae49871f41d593e51a7061861edfbbd5b64"
@@ -16131,7 +16131,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ti-galilee-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ti-galilee-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3600583,
      "sha256": "75dbd5b561058faddb356c1ee814778359e4edc3927f26015366bac280887b5e"
@@ -16160,7 +16160,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ti-shouri-major/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ti-shouri-major/audio.m4a",
      "role": "audio",
      "bytes": 7022750,
      "sha256": "d28398a91425aa86a1327b426538a38a2bd0d6d4b1ca411ba63d4538ddfcf3f6"
@@ -16186,7 +16186,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/ti-stoli/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/ti-stoli/audio.m4a",
      "role": "audio",
      "bytes": 5486861,
      "sha256": "e92579dcc672fe8ba4abe506930bd1c7a645bafc33ae326667728dde265dc336"
@@ -16216,7 +16216,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ti-stoli-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ti-stoli-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 2219616,
      "sha256": "0f2e4e9ca0e3c3c286c139b6596b6bd2b620c418a2474ecdec24c7b28e12431f"
@@ -16246,7 +16246,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ti-stoli-english-chie-2/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ti-stoli-english-chie-2/audio.m4a",
      "role": "audio",
      "bytes": 2168418,
      "sha256": "f935305b59fee23ae4b827d674509a08f1a250cf0554088723c4a328eca5419d"
@@ -16272,7 +16272,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-3-4/level-1/ton-syna/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-1/ton-syna/audio.seek.m4a",
      "role": "audio",
      "bytes": 1405206,
      "sha256": "f9ec6b95fdfda26419faf5e59fa4e79d577a2a7533799c829721c913391868cf"
@@ -16302,7 +16302,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/ton-syna-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/ton-syna-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1678015,
      "sha256": "f36fa5332dccd8a8d75c00e0fb50f2f8738045bd82a25771ada7c7c00d6e6acb"
@@ -16328,7 +16328,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/hs/level-1/tou-lithou/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/hs/level-1/tou-lithou/audio.seek.m4a",
      "role": "audio",
      "bytes": 2321372,
      "sha256": "952fb38dbed64e88af2c51f20906e4a88a1a31f2d735e6fe8d7c6edea109638a"
@@ -16358,7 +16358,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/tou-lithou-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/tou-lithou-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 3160655,
      "sha256": "67c54450c76b126deec2fcbbcdf9bb91e8cd5a094a3af9adeb05a44d45085e39"
@@ -16384,7 +16384,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-1/verse-cymbals-feast-cross/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-1/verse-cymbals-feast-cross/audio.seek.m4a",
      "role": "audio",
      "bytes": 1399196,
      "sha256": "0684eea8dc2464ed45466aff3901e90b74e0594b2287be5eda62e95c6dca32bf"
@@ -16414,7 +16414,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/verse-cymbals-feast-cross-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/verse-cymbals-feast-cross-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 1157716,
      "sha256": "34eb0730971ba152a2275b8974e1c9ab6bc69b2cf12b6d378266ee96810e8f26"
@@ -16440,7 +16440,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-5-6/level-2/verse-cymbals-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-5-6/level-2/verse-cymbals-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 3231374,
      "sha256": "6bff1ceb2ee0177467e4c02dea7755029186e3664bee90a098eab8b80952b8ed"
@@ -16466,7 +16466,7 @@
      "role": "timing"
     },
     {
-     "url": "content/hymns/verses-cymbals-kiahk/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/verses-cymbals-kiahk/audio.m4a",
      "role": "audio",
      "bytes": 1269751,
      "sha256": "cc123153505cad13de87fdc78313bf5660a3d78432a745d561c9adfadd669f1f"
@@ -16496,7 +16496,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/verses-cymbals-kiahk-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/verses-cymbals-kiahk-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 578999,
      "sha256": "28445f00c9517d6fe09a5d08585f128ee93da5f3a1d1994f0c54d1cfb774c03f"
@@ -16522,7 +16522,7 @@
      "role": "timing"
     },
     {
-     "url": "content/mahragan-keraza-2026/grades-1-2/level-2/verses-cymbals-resurrection/audio.seek.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-1-2/level-2/verses-cymbals-resurrection/audio.seek.m4a",
      "role": "audio",
      "bytes": 2009481,
      "sha256": "dce8491b9317b16a2e6df50774579c7c7d561ed7ac2996e0fd354f2fffce6b38"
@@ -16552,7 +16552,7 @@
      "role": "timing"
     },
     {
-     "url": "content/english/verses-cymbals-resurrection-english-chie/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/verses-cymbals-resurrection-english-chie/audio.m4a",
      "role": "audio",
      "bytes": 6175619,
      "sha256": "824c19d65b6329888d02405c74c5c6615039a50920c306b541befe222de72418"
@@ -16582,7 +16582,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/we-look-for-the-resurrection-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/we-look-for-the-resurrection-english/audio.m4a",
      "role": "audio",
      "bytes": 355910,
      "sha256": "fdef99ff21f639d7a2cf3eb03633082c5af68585dfc5689191571683f80c29f4"
@@ -16613,7 +16613,7 @@
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/we-praise-you-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/we-praise-you-english/audio.m4a",
      "role": "audio",
      "bytes": 330740,
      "sha256": "04c2f8043a71938ed4d7d0000592b305492e7b8312a1f8997d765197e3cef5fc"
@@ -16642,7 +16642,7 @@
      "name": "Alleluia (Offertory)",
      "cantor": "George Kyrillos",
      "audio": {
-      "url": "content/notations/alli-el-korban/audio.mp3",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/alli-el-korban/audio.mp3",
       "role": "audio",
       "bytes": 5397151,
       "sha256": "80a2b4f59431806f4116ef93b3f2fee57df53f098659542c84c6dcbf66dc6b9b"
@@ -17367,7 +17367,7 @@
    "texts": [
     "alleluia-offertory"
    ],
-   "version": "eac77d4e4903e937"
+   "version": "fad50749d20aa14b"
   },
   {
    "id": "hymn-of-the-blessing",
@@ -17388,7 +17388,7 @@
      "id": "hymn-of-the-blessing-1",
      "name": "The Hymn of the Blessing",
      "audio": {
-      "url": "content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/audio.seek.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/audio.seek.m4a",
       "role": "audio",
       "bytes": 2837688,
       "sha256": "584cbd836e0770eb719316e09277a7b9cd4e2b793f3f49354939aff96ca41420"
@@ -19097,7 +19097,7 @@
    "texts": [
     "hymn-of-the-blessing"
    ],
-   "version": "abaa26975a265abb"
+   "version": "bff19e788173cc28"
   },
   {
    "id": "pi-gen-misi",
@@ -19118,7 +19118,7 @@
      "id": "pi-gen-misi-1",
      "name": "Mahragan 2023",
      "audio": {
-      "url": "content/notations/pi-gen-misi/mahragan-2023.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/pi-gen-misi/mahragan-2023.m4a",
       "role": "audio",
       "bytes": 1730889,
       "sha256": "45daba015d729f6ed638be084fd7b00a200e4377067d8b2394b2079e79aee315"
@@ -19786,7 +19786,7 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "4c4a149ac3d75c48"
+   "version": "26b1183a6f841e1b"
   },
   {
    "id": "seven-tunes-1",
@@ -19808,7 +19808,7 @@
      "name": "Cantor Bola",
      "cantor": "Cantor Bola",
      "audio": {
-      "url": "content/notations/seven-tunes-1/bola.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/seven-tunes-1/bola.m4a",
       "role": "audio",
       "bytes": 2904010,
       "sha256": "860c571f75e7c8594ed263c522f2e9388fe8c3f5884c1bc83fa8b8c6c809595a"
@@ -21891,7 +21891,7 @@
      "name": "Cantor Ibrahim",
      "cantor": "Cantor Ibrahim",
      "audio": {
-      "url": "content/notations/seven-tunes-1/ibrahim.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/seven-tunes-1/ibrahim.m4a",
       "role": "audio",
       "bytes": 2246026,
       "sha256": "c374a7269a841f33f12518c7484f986693a74cf0366f14d2c7e209edd7797e42"
@@ -25205,7 +25205,7 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "c5a2b96a5c964831"
+   "version": "7fd9fe9c6b3f4039"
   },
   {
    "id": "seven-tunes-2",
@@ -25227,7 +25227,7 @@
      "name": "Cantor Bola",
      "cantor": "Cantor Bola",
      "audio": {
-      "url": "content/notations/seven-tunes-2/bola.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/seven-tunes-2/bola.m4a",
       "role": "audio",
       "bytes": 2536893,
       "sha256": "46283457b7d236be526ebc8deb50ffd5cd7a9d0d407c98dd580f4cd4aa26d0e6"
@@ -26765,7 +26765,7 @@
     "size": 0.05,
     "toLineEnd": true
    },
-   "version": "ae520ecef91c6d79"
+   "version": "1813a973bd02b609"
   },
   {
    "id": "tai-shouri-annual",
@@ -26786,7 +26786,7 @@
      "id": "tai-shouri-annual-1",
      "name": "Tai Shouri, annual",
      "audio": {
-      "url": "content/hymns/tai-shouri/audio.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tai-shouri/audio.m4a",
       "role": "audio",
       "bytes": 2649800,
       "sha256": "60bb8753f23784a026c2d2403ea63bf868a58626e5f6e4a6389f36678b57d6f3"
@@ -28915,7 +28915,7 @@
    "texts": [
     "tai-shouri"
    ],
-   "version": "c0db8ee58af44811"
+   "version": "45019a99e8da0808"
   },
   {
    "id": "ten-theeno",
@@ -28936,7 +28936,7 @@
      "id": "ten-theeno-1",
      "name": "Ten Thino (long), Mahragan 2026",
      "audio": {
-      "url": "content/mahragan-keraza-2026/college/level-2/ten-thinou/audio.seek.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/college/level-2/ten-thinou/audio.seek.m4a",
       "role": "audio",
       "bytes": 9164718,
       "sha256": "3a54ec05e5eb491f7f90e2e673362d020a33bace06376cd508e80017eba5e1ab"
@@ -33867,7 +33867,7 @@
    "texts": [
     "ten-thinou"
    ],
-   "version": "e278019372b7b96f"
+   "version": "e0a0f03ee1a307bd"
   },
   {
    "id": "ti-shouri-annual",
@@ -33888,7 +33888,7 @@
      "id": "ti-shouri-annual-1",
      "name": "Ti Shouri, annual",
      "audio": {
-      "url": "content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/audio.seek.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/audio.seek.m4a",
       "role": "audio",
       "bytes": 1306422,
       "sha256": "2a5edfacdb10e5a9720471b34d789656b0f5fb55889b899ce826581994f8009e"
@@ -34715,7 +34715,7 @@
    "texts": [
     "censer-annual"
    ],
-   "version": "76dffb2833384dcf"
+   "version": "5baf472c99f4de59"
   },
   {
    "id": "tou-lithou-hazzat",
@@ -34737,7 +34737,7 @@
      "name": "Cantor Zaher Andraos",
      "cantor": "Cantor Zaher Andraos",
      "audio": {
-      "url": "content/notations/tou-lithou-hazzat/zaher-andraos.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/tou-lithou-hazzat/zaher-andraos.m4a",
       "role": "audio",
       "bytes": 2594599,
       "sha256": "ca347e8169a50fe30441698641992344d3bb4aa80c8bfde6b1220f68a3133182"
@@ -36295,7 +36295,7 @@
    "texts": [
     "tou-lithou"
    ],
-   "version": "e961f70ad979496d"
+   "version": "2562472edcdebfaa"
   }
  ],
  "lockedNotations": [
@@ -36319,7 +36319,7 @@
      "name": "Alleluia (Offertory), Cantor Bola",
      "cantor": "Cantor Bola Mounir",
      "audio": {
-      "url": "content/notations/alleluia-offertory-hazzat/audio.m4a",
+      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/notations/alleluia-offertory-hazzat/audio.m4a",
       "role": "audio",
       "bytes": 6133522,
       "sha256": "65c1551c22b1296d76583407fa3739ebbf52a90ebf7dd2535af18bdff993732e"
@@ -41806,7 +41806,7 @@
     "english": "Used by permission of Cantor Bola",
     "arabic": "بسماح من المرتل بولا"
    },
-   "version": "7dc8cd3fb28284f3"
+   "version": "a4dd7adfac029753"
   }
  ],
  "credits": {
