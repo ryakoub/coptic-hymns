@@ -408,6 +408,7 @@ class Build:
         # that doesn't know about groups shows it as before. A section may name its sub-folders in library.json,
         # in order and with their titles ({"id", "titles"}): its hymns are then listed folder by folder in that
         # order (hymns in no sub-folder after them); otherwise the sub-folders come where their first hymn does.
+        # A named sub-folder can be inside another one: {"id", "titles", "parent": <its id>}.
         for s in sections.values():
             spec = [g for g in s.get("groups", []) if g.get("id")]
             rank = {g["id"]: n for n, g in enumerate(spec)}
@@ -436,6 +437,24 @@ class Build:
                                "recordings": []}
                     groups.append(by[gid])
                 by[gid]["recordings"].append(rid)
+            # A sub-folder named in library.json with "parent": <sub-folder id> is shown inside that one (the
+            # Liturgy of the Faithful's Reconciliation, Anaphora, …). The parent lists all their hymns too, so an
+            # app that doesn't know about "parent" shows the parent with every hymn in it.
+            kids = {}
+            for g in spec:
+                if g.get("parent") and g["id"] in by:
+                    kids.setdefault(g["parent"], []).append(g["id"])
+                    by[g["id"]]["parent"] = g["parent"]
+            for pid, children in kids.items():
+                if pid not in by:
+                    if pid not in rank:
+                        self.error("library", f"{s.get('id') or s.get('service')}: sub-folder parent {pid!r} not named in library.json")
+                        continue
+                    by[pid] = {"id": pid, "titles": spec[rank[pid]]["titles"], "recordings": []}
+                    groups.insert(groups.index(by[children[0]]), by[pid])
+                inside = {pid, *children}
+                by[pid]["recordings"] = [r for r in (e if isinstance(e, str) else e.get("recording") for e in s["entries"])
+                                         if group_id(r)[0] in inside]
             if spec:
                 unknown = [g["id"] for g in groups if g["id"] not in rank]
                 if unknown:

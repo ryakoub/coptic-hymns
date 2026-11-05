@@ -1,6 +1,6 @@
 {
- "version": "a52b950e7e2e582a",
- "updated": "2026-11-05T04:09:18Z",
+ "version": "0f8b4f005037a380",
+ "updated": "2026-11-05T04:21:14Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -353,7 +353,57 @@
          },
          "recordings": [
           "ten-oosht-evol-basil",
-          "ten-oosht-evol-gregory"
+          "ten-oosht-evol-gregory",
+          "reconciliation-prayer-and-with-your-spirit-english",
+          "reconciliation-prayer-lord-have-mercy-english",
+          "reconciliation-response-basil",
+          "aspasmos-adam-annual",
+          "anaphora-responses-st-basil-st-gregory-liturgies",
+          "aspasmos-watos-annual",
+          "cherubim-response",
+          "anaphora-amen-english",
+          "anaphora-amen-i-believe-english",
+          "anaphora-according-to-your-mercy-english",
+          "eleison-imas-je-nai-nan",
+          "je-nai-nan",
+          "amen-ton-thanaton",
+          "we-praise-you-english",
+          "i-believe-amen-english",
+          "again-i-believe-amen-english",
+          "lord-have-mercy-3x-english",
+          "institution-narrative-truly-we-believe-english",
+          "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+          "institution-narrative-body-amen-3x-english",
+          "institution-narrative-body-we-believe-we-confess-english",
+          "institution-narrative-body-this-is-true-english",
+          "institution-narrative-blood-amen-3x-english",
+          "institution-narrative-blood-again-we-believe-we-confess-english",
+          "institution-narrative-blood-this-is-also-true-amen-english",
+          "seven-short-litanies-lord-have-mercy-english",
+          "nature-litany-lord-have-mercy-3x-english",
+          "oblations-litany-lord-have-mercy-english",
+          "ere-po-esmo-may-their-holy-blessing",
+          "os-ein-response",
+          "intro-to-fraction-and-with-your-spirit-english",
+          "intro-to-fraction-amen-english",
+          "intro-to-fraction-we-worship-your-holy-body-english",
+          "intro-to-fraction-and-your-precious-blood-english",
+          "intro-to-fraction-lord-have-mercy-english",
+          "intro-to-fraction-and-with-your-spirit-2-english",
+          "fraction-lord-have-mercy-english",
+          "in-christ-jesus-our-lord-english",
+          "before-you-o-lord-english",
+          "and-with-your-spirit-english",
+          "amen-lord-have-mercy-3x-english",
+          "and-with-your-spirit-2-english",
+          "one-is-the-all-holy-father-english",
+          "confession-first-amen-english",
+          "confession-second-amen-english",
+          "confession-amen-i-believe-english",
+          "distribution-alleluia-annual",
+          "distribution-annual-psalm-150",
+          "pi-oik",
+          "concluding-canon-annual-liturgy"
          ]
         },
         {
@@ -363,11 +413,14 @@
           "arabic": "الصلح"
          },
          "recordings": [
+          "ten-oosht-evol-basil",
+          "ten-oosht-evol-gregory",
           "reconciliation-prayer-and-with-your-spirit-english",
           "reconciliation-prayer-lord-have-mercy-english",
           "reconciliation-response-basil",
           "aspasmos-adam-annual"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "anaphora",
@@ -389,7 +442,8 @@
           "i-believe-amen-english",
           "again-i-believe-amen-english",
           "lord-have-mercy-3x-english"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "institution-narrative",
@@ -406,7 +460,8 @@
           "institution-narrative-blood-amen-3x-english",
           "institution-narrative-blood-again-we-believe-we-confess-english",
           "institution-narrative-blood-this-is-also-true-amen-english"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "litanies",
@@ -420,7 +475,8 @@
           "oblations-litany-lord-have-mercy-english",
           "ere-po-esmo-may-their-holy-blessing",
           "os-ein-response"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "fraction",
@@ -442,7 +498,8 @@
           "amen-lord-have-mercy-3x-english",
           "and-with-your-spirit-2-english",
           "one-is-the-all-holy-father-english"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "confession",
@@ -454,7 +511,8 @@
           "confession-first-amen-english",
           "confession-second-amen-english",
           "confession-amen-i-believe-english"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "communion",
@@ -467,7 +525,8 @@
           "distribution-annual-psalm-150",
           "pi-oik",
           "concluding-canon-annual-liturgy"
-         ]
+         ],
+         "parent": "liturgy-of-the-faithful"
         }
        ]
       },
@@ -5019,8 +5078,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/reconciliation-response-basil.json",
-    "bytes": 3009,
-    "sha256": "a23fa465d71f1131b4193a69741b8a958004765d62c4b204bb0ef27c04c5ce74"
+    "bytes": 2911,
+    "sha256": "f98dc41d3f7dc75c86b043c7a917a6e48ff641cfa7a58d7c71204c802eaae3b4"
    }
   },
   {

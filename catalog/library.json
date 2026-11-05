@@ -157,49 +157,56 @@
          "titles": {
           "english": "Reconciliation",
           "arabic": "الصلح"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "anaphora",
          "titles": {
           "english": "Anaphora",
           "arabic": "الأنافورا"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "institution-narrative",
          "titles": {
           "english": "Institution Narrative",
           "arabic": "كلمات التأسيس"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "litanies",
          "titles": {
           "english": "Litanies",
           "arabic": "الأواشي"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "fraction",
          "titles": {
           "english": "Fraction",
           "arabic": "القسمة"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "confession",
          "titles": {
           "english": "Confession",
           "arabic": "الاعتراف"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         },
         {
          "id": "communion",
          "titles": {
           "english": "Communion",
           "arabic": "التوزيع"
-         }
+         },
+         "parent": "liturgy-of-the-faithful"
         }
        ]
       },
