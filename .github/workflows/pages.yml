@@ -27,8 +27,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: Leave out the recordings
         run: |
-          find content -path content/notations -prune -o -type f \( -name '*.m4a' -o -name '*.mp3' \) -print -delete | wc -l
-          du -sh .
+          set -euo pipefail
+          find content -type f \( -name '*.m4a' -o -name '*.mp3' \) -not -path 'content/notations/*' -delete
+          left=$(find content -type f \( -name '*.m4a' -o -name '*.mp3' \) -not -path 'content/notations/*' | wc -l)
+          test "$left" -eq 0
+          du -sh --exclude=.git .
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
