@@ -1,0 +1,33 @@
+{
+ "id": "anaphora-responses-gregory",
+ "titles": {
+  "english": "Anaphora Responses (St. Gregory)",
+  "arabic": "مرادات بدء القداس الغريغوري"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲕⲉ ⲙⲉⲧⲁ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ.",
+   "translations": {
+    "english": "And with your spirit."
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲉ̀ⲭⲟⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ.",
+   "translations": {
+    "english": "We have them with the Lord."
+   }
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ.",
+   "translations": {
+    "english": "It is meet and right."
+   }
+  }
+ ]
+}

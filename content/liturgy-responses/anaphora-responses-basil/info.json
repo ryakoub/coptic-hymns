@@ -1,0 +1,18 @@
+{
+  "titles": {
+    "english": "Anaphora Responses (St. Basil)",
+    "arabic": "مرادات بدء القداس الباسيلي"
+  },
+  "tune": {
+    "english": "St. Basil Liturgy"
+  },
+  "source": "Mahragan El-Keraza 2026, Grades 5–6 Level 2 (its St. Basil half)",
+  "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
+  "places": [
+    "annual/liturgy"
+  ],
+  "group": {
+    "english": "Anaphora"
+  },
+  "order": 3400
+}

@@ -1,0 +1,18 @@
+{
+ "recording": "anaphora-responses-basil-english",
+ "text": "anaphora-responses-basil",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.3
+  },
+  {
+   "line": "l2",
+   "start": 17.4
+  },
+  {
+   "line": "l3",
+   "start": 31.95
+  }
+ ]
+}

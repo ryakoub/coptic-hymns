@@ -28,6 +28,14 @@
   "coptic": "Ⲁ̀ⲙⲏⲛ",
   "arabic": "آمين"
  },
+ "anaphora-responses-basil": {
+  "name": "Anaphora Responses (St. Basil)",
+  "arabic": "مرادات بدء القداس الباسيلي"
+ },
+ "anaphora-responses-gregory": {
+  "name": "Anaphora Responses (St. Gregory)",
+  "arabic": "مرادات بدء القداس الغريغوري"
+ },
  "anaphora-responses-st-basil-st-gregory-liturgies": {
   "name": "Anaphora Responses (St. Basil and St. Gregory)",
   "arabic": "مرادات بدء القداس الباسيلي والغريغوري"

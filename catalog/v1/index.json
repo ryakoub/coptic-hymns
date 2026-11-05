@@ -1,6 +1,6 @@
 {
- "version": "0f8b4f005037a380",
- "updated": "2026-11-05T04:21:14Z",
+ "version": "3a4657c5396bb1b9",
+ "updated": "2026-11-05T04:41:32Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -264,7 +264,8 @@
         "reconciliation-prayer-lord-have-mercy-english",
         "reconciliation-response-basil",
         "aspasmos-adam-annual",
-        "anaphora-responses-st-basil-st-gregory-liturgies",
+        "anaphora-responses-basil",
+        "anaphora-responses-gregory",
         "aspasmos-watos-annual",
         "cherubim-response",
         "anaphora-amen-english",
@@ -358,7 +359,8 @@
           "reconciliation-prayer-lord-have-mercy-english",
           "reconciliation-response-basil",
           "aspasmos-adam-annual",
-          "anaphora-responses-st-basil-st-gregory-liturgies",
+          "anaphora-responses-basil",
+          "anaphora-responses-gregory",
           "aspasmos-watos-annual",
           "cherubim-response",
           "anaphora-amen-english",
@@ -429,7 +431,8 @@
           "arabic": "الأنافورا"
          },
          "recordings": [
-          "anaphora-responses-st-basil-st-gregory-liturgies",
+          "anaphora-responses-basil",
+          "anaphora-responses-gregory",
           "aspasmos-watos-annual",
           "cherubim-response",
           "anaphora-amen-english",
@@ -1885,6 +1888,59 @@
    }
   },
   {
+   "id": "anaphora-responses-basil",
+   "titles": {
+    "english": "Anaphora Responses (St. Basil)",
+    "arabic": "مرادات بدء القداس الباسيلي"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "anaphora-responses-basil",
+    "anaphora-responses-basil-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/anaphora-responses-basil.json",
+    "bytes": 720,
+    "sha256": "a2d60d17dd5d77368ec9e55488fdd831313debb543b4ae5263c3cd539c999f21"
+   }
+  },
+  {
+   "id": "anaphora-responses-gregory",
+   "titles": {
+    "english": "Anaphora Responses (St. Gregory)",
+    "arabic": "مرادات بدء القداس الغريغوري"
+   },
+   "tags": [],
+   "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Anaphora Responses, with the priest’s parts",
+     "url": "https://www.coptichymnsinenglish.com/album/50/track/710"
+    }
+   ],
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "anaphora-responses-gregory",
+    "anaphora-responses-gregory-english-chie"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/anaphora-responses-gregory.json",
+    "bytes": 726,
+    "sha256": "4b5f7621cfc79c32122aeb8f3f09de9455122a6c54a9a2347b716350db4fdb82"
+   }
+  },
+  {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "titles": {
     "english": "Anaphora Responses (St. Basil and St. Gregory)",
@@ -1908,11 +1964,7 @@
    ],
    "transliterations": [],
    "recordings": [
-    "anaphora-responses-st-basil-st-gregory-liturgies",
-    "anaphora-and-with-your-spirit-english",
-    "anaphora-it-is-meet-and-right-english",
-    "anaphora-responses-st-basil-st-gregory-liturgies-english-chie",
-    "anaphora-we-have-them-with-the-lord-english"
+    "anaphora-responses-st-basil-st-gregory-liturgies"
    ],
    "file": {
     "url": "catalog/v1/texts/anaphora-responses-st-basil-st-gregory-liturgies.json",
@@ -7956,62 +8008,120 @@
    ]
   },
   {
-   "id": "anaphora-and-with-your-spirit-english",
-   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
-   "duration": 17.39,
+   "id": "anaphora-responses-basil",
+   "text": "anaphora-responses-basil",
+   "duration": 55.0,
    "timing": {
-    "lines": 0,
+    "lines": 3,
     "words": 0,
-    "of": 0
+    "of": 3
    },
-   "source": "https://tasbeha.org/hymn_library/view/2616",
+   "source": "Mahragan El-Keraza 2026, Grades 5–6 Level 2 (its St. Basil half)",
    "tune": {
-    "english": "St. Basil Liturgy - English · And with Your Spirit"
+    "english": "St. Basil Liturgy"
    },
-   "cantor": "English Hymns Committee",
-   "language": "english",
+   "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
    "files": [
     {
-     "url": "catalog/v1/timings/anaphora-and-with-your-spirit-english.json",
-     "bytes": 135,
-     "sha256": "ae6e4883b2071ebe5985d13f7831486a923f8ef31d4028b8985abf6a004d3525",
+     "url": "catalog/v1/timings/anaphora-responses-basil.json",
+     "bytes": 230,
+     "sha256": "e5dfdb191ea356a0bc648034d7833a46dd2ec807f6060afd4ccd432f430906d5",
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-and-with-your-spirit-english/audio.m4a",
+     "url": "content/liturgy-responses/anaphora-responses-basil/audio.m4a",
      "role": "audio",
-     "bytes": 213463,
-     "sha256": "ec1406785d5fd29d94fd9571433720832f8f09b127715e32517ae5240f828b4d"
+     "bytes": 866737,
+     "sha256": "e21ce784716f0cabbcace09f650faa19c07757aa8238d733e8e592693e7fa7df"
     }
    ]
   },
   {
-   "id": "anaphora-it-is-meet-and-right-english",
-   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
-   "duration": 23.34,
+   "id": "anaphora-responses-basil-english",
+   "text": "anaphora-responses-basil",
+   "duration": 53.2,
    "timing": {
-    "lines": 0,
+    "lines": 3,
     "words": 0,
-    "of": 0
+    "of": 3
    },
-   "source": "https://tasbeha.org/hymn_library/view/2623",
+   "source": "https://tasbeha.org/hymn_library/view/2616 (with 2622 and 2623, joined)",
    "tune": {
-    "english": "St. Basil Liturgy - English · It is meet and right"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
    "files": [
     {
-     "url": "catalog/v1/timings/anaphora-it-is-meet-and-right-english.json",
-     "bytes": 135,
-     "sha256": "c3541490b478512ae61f5b848d10e75f8ba04835a86b0ea3135590628f9df411",
+     "url": "catalog/v1/timings/anaphora-responses-basil-english.json",
+     "bytes": 236,
+     "sha256": "4daba89e7ed80ef7e6307e8429b61972756583a108743caf48115436e9c9214f",
      "role": "timing"
     },
     {
-     "url": "content/liturgy-responses/english/anaphora-it-is-meet-and-right-english/audio.m4a",
+     "url": "content/liturgy-responses/english/anaphora-responses-basil-english/audio.m4a",
      "role": "audio",
-     "bytes": 285818,
-     "sha256": "889f852c266047f4056e49851555dbffd25f67f54ca1f62f90bada71aa2a5372"
+     "bytes": 559961,
+     "sha256": "3c435d20440b6c373e6c58e9f06418e59e6b86a8b1f9af1debcd24a8ac6c9bcf"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-responses-gregory",
+   "text": "anaphora-responses-gregory",
+   "duration": 70.0,
+   "timing": {
+    "lines": 3,
+    "words": 0,
+    "of": 3
+   },
+   "source": "Mahragan El-Keraza 2026, Grades 5–6 Level 2 (its St. Gregory half)",
+   "tune": {
+    "english": "St. Gregory Liturgy"
+   },
+   "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-responses-gregory.json",
+     "bytes": 233,
+     "sha256": "9dc66751912b5b166718a33da782289607a5b54c21baacb4f4a606d6a655ab1b",
+     "role": "timing"
+    },
+    {
+     "url": "content/liturgy-responses/anaphora-responses-gregory/audio.m4a",
+     "role": "audio",
+     "bytes": 1089979,
+     "sha256": "c07a3349468eac7f826185c0133a0e89b04d49d261770776eb4eeeb6ef7d2e99"
+    }
+   ]
+  },
+  {
+   "id": "anaphora-responses-gregory-english-chie",
+   "text": "anaphora-responses-gregory",
+   "duration": 70.7,
+   "timing": {
+    "lines": 3,
+    "words": 0,
+    "of": 3
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/50/track/710",
+   "tune": {
+    "english": "St. Gregory Liturgy - English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/anaphora-responses-gregory-english-chie.json",
+     "bytes": 247,
+     "sha256": "4f662b1007d0ca2f2e84b19abf7ff2a6b64deb7d0809ab77e49f40e845dc15ba",
+     "role": "timing"
+    },
+    {
+     "url": "content/english/anaphora-responses-gregory-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 1416874,
+     "sha256": "0395fc50650e918af98e5abab1c8e5785a4a9de912e191daf04abf015713445c"
     }
    ]
   },
@@ -8042,36 +8152,6 @@
    ]
   },
   {
-   "id": "anaphora-responses-st-basil-st-gregory-liturgies-english-chie",
-   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
-   "duration": 300.04,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "https://www.coptichymnsinenglish.com/album/50/track/710",
-   "tune": {
-    "english": "St. Gregory Liturgy - English · Coptic Hymns in English"
-   },
-   "cantor": "Coptic Hymns in English",
-   "language": "english",
-   "files": [
-    {
-     "url": "catalog/v1/timings/anaphora-responses-st-basil-st-gregory-liturgies-english-chie.json",
-     "bytes": 159,
-     "sha256": "df135f8a4d5b61935a536e9ace796e2816fcd18698ff9b6f39f65a9821cc8b9e",
-     "role": "timing"
-    },
-    {
-     "url": "content/english/anaphora-responses-st-basil-st-gregory-liturgies-english-chie/audio.m4a",
-     "role": "audio",
-     "bytes": 5627110,
-     "sha256": "7c078122bb1257c7b374faf6d1c84272fec285b24f291357e0eaf77665df331d"
-    }
-   ]
-  },
-  {
    "id": "anaphora-the-cherubimic-hymn-english",
    "text": "cherubim-response",
    "duration": 74.03,
@@ -8098,36 +8178,6 @@
      "role": "audio",
      "bytes": 902819,
      "sha256": "68f56a7df6dec400b613cfa1a506d5a024cc9e23d55d841d135522768f3d6060"
-    }
-   ]
-  },
-  {
-   "id": "anaphora-we-have-them-with-the-lord-english",
-   "text": "anaphora-responses-st-basil-st-gregory-liturgies",
-   "duration": 14.54,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "https://tasbeha.org/hymn_library/view/2622",
-   "tune": {
-    "english": "St. Basil Liturgy - English · We have them with the Lord"
-   },
-   "cantor": "English Hymns Committee",
-   "language": "english",
-   "files": [
-    {
-     "url": "catalog/v1/timings/anaphora-we-have-them-with-the-lord-english.json",
-     "bytes": 141,
-     "sha256": "a64a02bd47423574309af7b7f9f9adb589216ad09184997f3e3c915f9e3d3332",
-     "role": "timing"
-    },
-    {
-     "url": "content/liturgy-responses/english/anaphora-we-have-them-with-the-lord-english/audio.m4a",
-     "role": "audio",
-     "bytes": 178704,
-     "sha256": "7b5490b025bd528bc2ef9804a6ce113d6a399e2f20aacf1adc25b0fd51c5157a"
     }
    ]
   },

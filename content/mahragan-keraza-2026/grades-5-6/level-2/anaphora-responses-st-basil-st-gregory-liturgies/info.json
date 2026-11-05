@@ -1,18 +1,11 @@
 {
   "title": "Anaphora Responses of St. Basil and St. Gregory Liturgies",
   "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
-  "places": [
-    "annual/liturgy"
-  ],
   "links": [
     {
       "site": "Coptic Hymns in English",
       "title": "Anaphora Responses",
       "url": "https://www.coptichymnsinenglish.com/album/50/track/710"
     }
-  ],
-  "group": {
-    "english": "Anaphora"
-  },
-  "order": 3400
+  ]
 }
