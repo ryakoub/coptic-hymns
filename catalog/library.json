@@ -153,6 +153,48 @@
          }
         },
         {
+         "id": "reconciliation",
+         "titles": {
+          "english": "Reconciliation",
+          "arabic": "الصلح"
+         }
+        },
+        {
+         "id": "anaphora",
+         "titles": {
+          "english": "Anaphora",
+          "arabic": "الأنافورا"
+         }
+        },
+        {
+         "id": "institution-narrative",
+         "titles": {
+          "english": "Institution Narrative",
+          "arabic": "كلمات التأسيس"
+         }
+        },
+        {
+         "id": "litanies",
+         "titles": {
+          "english": "Litanies",
+          "arabic": "الأواشي"
+         }
+        },
+        {
+         "id": "fraction",
+         "titles": {
+          "english": "Fraction",
+          "arabic": "القسمة"
+         }
+        },
+        {
+         "id": "confession",
+         "titles": {
+          "english": "Confession",
+          "arabic": "الاعتراف"
+         }
+        },
+        {
          "id": "communion",
          "titles": {
           "english": "Communion",

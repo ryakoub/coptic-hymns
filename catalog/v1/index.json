@@ -1,6 +1,6 @@
 {
- "version": "ee8c2f514a67422e",
- "updated": "2026-11-04T18:55:22Z",
+ "version": "8641abc3802aa875",
+ "updated": "2026-11-05T00:12:31Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -264,12 +264,19 @@
         "reconciliation-prayer-lord-have-mercy-english",
         "reconciliation-response-basil",
         "aspasmos-adam-annual",
-        "anaphora-responses-st-basil-st-gregory-liturgies",
         "aspasmos-watos-annual",
+        "anaphora-responses-st-basil-st-gregory-liturgies",
         "cherubim-response",
         "anaphora-amen-english",
         "anaphora-amen-i-believe-english",
         "anaphora-according-to-your-mercy-english",
+        "eleison-imas-je-nai-nan",
+        "je-nai-nan",
+        "amen-ton-thanaton",
+        "we-praise-you-english",
+        "i-believe-amen-english",
+        "again-i-believe-amen-english",
+        "lord-have-mercy-3x-english",
         "institution-narrative-truly-we-believe-english",
         "institution-narrative-body-we-believe-that-this-is-true-amen-english",
         "institution-narrative-body-amen-3x-english",
@@ -278,13 +285,6 @@
         "institution-narrative-blood-amen-3x-english",
         "institution-narrative-blood-again-we-believe-we-confess-english",
         "institution-narrative-blood-this-is-also-true-amen-english",
-        "eleison-imas-je-nai-nan",
-        "je-nai-nan",
-        "amen-ton-thanaton",
-        "we-praise-you-english",
-        "i-believe-amen-english",
-        "again-i-believe-amen-english",
-        "lord-have-mercy-3x-english",
         "seven-short-litanies-lord-have-mercy-english",
         "nature-litany-lord-have-mercy-3x-english",
         "oblations-litany-lord-have-mercy-english",
@@ -353,17 +353,51 @@
          },
          "recordings": [
           "ten-oosht-evol-basil",
-          "ten-oosht-evol-gregory",
+          "ten-oosht-evol-gregory"
+         ]
+        },
+        {
+         "id": "reconciliation",
+         "titles": {
+          "english": "Reconciliation",
+          "arabic": "الصلح"
+         },
+         "recordings": [
           "reconciliation-prayer-and-with-your-spirit-english",
           "reconciliation-prayer-lord-have-mercy-english",
           "reconciliation-response-basil",
           "aspasmos-adam-annual",
+          "aspasmos-watos-annual"
+         ]
+        },
+        {
+         "id": "anaphora",
+         "titles": {
+          "english": "Anaphora",
+          "arabic": "الأنافورا"
+         },
+         "recordings": [
           "anaphora-responses-st-basil-st-gregory-liturgies",
-          "aspasmos-watos-annual",
           "cherubim-response",
           "anaphora-amen-english",
           "anaphora-amen-i-believe-english",
           "anaphora-according-to-your-mercy-english",
+          "eleison-imas-je-nai-nan",
+          "je-nai-nan",
+          "amen-ton-thanaton",
+          "we-praise-you-english",
+          "i-believe-amen-english",
+          "again-i-believe-amen-english",
+          "lord-have-mercy-3x-english"
+         ]
+        },
+        {
+         "id": "institution-narrative",
+         "titles": {
+          "english": "Institution Narrative",
+          "arabic": "كلمات التأسيس"
+         },
+         "recordings": [
           "institution-narrative-truly-we-believe-english",
           "institution-narrative-body-we-believe-that-this-is-true-amen-english",
           "institution-narrative-body-amen-3x-english",
@@ -371,19 +405,30 @@
           "institution-narrative-body-this-is-true-english",
           "institution-narrative-blood-amen-3x-english",
           "institution-narrative-blood-again-we-believe-we-confess-english",
-          "institution-narrative-blood-this-is-also-true-amen-english",
-          "eleison-imas-je-nai-nan",
-          "je-nai-nan",
-          "amen-ton-thanaton",
-          "we-praise-you-english",
-          "i-believe-amen-english",
-          "again-i-believe-amen-english",
-          "lord-have-mercy-3x-english",
+          "institution-narrative-blood-this-is-also-true-amen-english"
+         ]
+        },
+        {
+         "id": "litanies",
+         "titles": {
+          "english": "Litanies",
+          "arabic": "الأواشي"
+         },
+         "recordings": [
           "seven-short-litanies-lord-have-mercy-english",
           "nature-litany-lord-have-mercy-3x-english",
           "oblations-litany-lord-have-mercy-english",
           "ere-po-esmo-may-their-holy-blessing",
-          "os-ein-response",
+          "os-ein-response"
+         ]
+        },
+        {
+         "id": "fraction",
+         "titles": {
+          "english": "Fraction",
+          "arabic": "القسمة"
+         },
+         "recordings": [
           "intro-to-fraction-and-with-your-spirit-english",
           "intro-to-fraction-amen-english",
           "intro-to-fraction-we-worship-your-holy-body-english",
@@ -396,7 +441,16 @@
           "and-with-your-spirit-english",
           "amen-lord-have-mercy-3x-english",
           "and-with-your-spirit-2-english",
-          "one-is-the-all-holy-father-english",
+          "one-is-the-all-holy-father-english"
+         ]
+        },
+        {
+         "id": "confession",
+         "titles": {
+          "english": "Confession",
+          "arabic": "الاعتراف"
+         },
+         "recordings": [
           "confession-first-amen-english",
           "confession-second-amen-english",
           "confession-amen-i-believe-english"
