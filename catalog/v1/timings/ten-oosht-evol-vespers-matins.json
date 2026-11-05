@@ -1,10 +1,15 @@
 {
  "recording": "ten-oosht-evol-vespers-matins",
- "text": "ten-oosht-evol-basil",
+ "text": "ten-oosht-evol-vespers-matins",
  "segments": [
   {
    "line": "l1",
    "start": 38.28,
+   "stanzas": [
+    38.28,
+    58.35,
+    68.98
+   ],
    "words": [
     {
      "text": "Ⲧⲉⲛϫⲟⲩϣⲧ",

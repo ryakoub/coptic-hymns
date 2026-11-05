@@ -1,10 +1,15 @@
 {
  "recording": "ten-oosht-evol-gregory",
- "text": "ten-oosht-evol-basil",
+ "text": "ten-oosht-evol-gregory",
  "segments": [
   {
    "line": "l1",
    "start": 40.58,
+   "stanzas": [
+    40.58,
+    56.01,
+    67.98
+   ],
    "words": [
     {
      "text": "Ⲧⲉⲛϫⲟⲩϣⲧ",

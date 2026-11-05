@@ -5,17 +5,41 @@
   "coptic": "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ Ⲡⲁⲛⲟⲩϯ",
   "arabic": "ختام الثيؤطوكيات الأدام - مراحمك يا إلهي"
  },
+ "agios-annual": {
+  "name": "Agios (Trisagion)",
+  "says": "Holy God, holy Mighty, holy",
+  "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ",
+  "arabic": "الثلاث تقديسات السنوي"
+ },
+ "alleluia-offertory": {
+  "name": "Alleluia of the Offertory",
+  "says": "Alleluia",
+  "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+  "arabic": "لحن آللي القربان"
+ },
  "aripalin": {
   "name": "Aripsalin",
   "says": "O sing unto Him who was crucified",
   "coptic": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ",
   "arabic": "اريبصالين"
  },
+ "censer-annual": {
+  "name": "The Golden Censer",
+  "says": "The golden censer",
+  "coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ",
+  "arabic": "المجمرة الذهب"
+ },
  "commemoration-of-saints": {
   "name": "Commemoration of the Saints",
   "says": "Commemoration of the Saints",
   "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ",
   "arabic": "مجمع القديسين"
+ },
+ "concluding-canon-annual": {
+  "name": "Closing Canon",
+  "says": "Amen, Lord have mercy, Lord",
+  "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "ختام الصلوات الجماعية السنوي"
  },
  "concluding-canon-annual-liturgy": {
   "name": "Closing Canon (Liturgy and Praises)",
@@ -27,6 +51,42 @@
   "says": "of the Midnight Praises",
   "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ",
   "arabic": "ختام التسبحة"
+ },
+ "doxology-archangel-michael": {
+  "name": "Doxology of Archangel Michael",
+  "says": "Michael the head",
+  "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ",
+  "arabic": "ذكصولوجية الملاك ميخائيل"
+ },
+ "doxology-heavenly-orders": {
+  "name": "Doxology of the Heavenly Orders",
+  "says": "Seven archangels, praising as they",
+  "coptic": "Ϣⲁϣϥ (ⲍ̅) ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ",
+  "arabic": "ذكصولوجية السمائين"
+ },
+ "doxology-john-baptist-1": {
+  "name": "Doxology of St. John the Baptist (1)",
+  "says": "Among those born of women",
+  "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ",
+  "arabic": "ذكصولوجية القديس يوحنا المعمدان الأولى"
+ },
+ "doxology-john-baptist-2": {
+  "name": "Doxology of St. John the Baptist (2)",
+  "says": "John has witnessed",
+  "coptic": "Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ",
+  "arabic": "ذكصولوجية القديس يوحنا المعمدان الثانية"
+ },
+ "doxology-st-mary-matins": {
+  "name": "Doxology of St. Mary (Matins)",
+  "says": "Blessed are you O Mary",
+  "coptic": "Ⲱⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ̀",
+  "arabic": "ذكصولوجية العذراء - باكر"
+ },
+ "doxology-st-mary-vespers": {
+  "name": "Doxology of St. Mary (Vespers)",
+  "says": "The adornment of Mary",
+  "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲙ̀Ⲙⲁⲣⲓⲁⲙ",
+  "arabic": "ذكصولوجية العذراء - عشية"
  },
  "doxology-virgin-midnight": {
   "name": "Doxology of St. Mary (Midnight Praises)",
@@ -52,11 +112,47 @@
   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
   "arabic": "الهوس الرابع"
  },
+ "gospel-response-vespers-annual": {
+  "name": "Gospel Response (Vespers and Matins)",
+  "says": "Let us worship our Savior",
+  "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ",
+  "arabic": "مرد الإنجيل السنوي (عشية وباكر)"
+ },
+ "hetenyat-annual": {
+  "name": "Intercessions",
+  "says": "Through the intercessions",
+  "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+  "arabic": "الهيتنيات السنوي"
+ },
+ "hymn-of-the-blessing": {
+  "name": "Hymn of the Blessing",
+  "says": "We worship the Father",
+  "coptic": "Ⲧⲉⲛⲟ̀ⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛ̀ⲧⲉ",
+  "arabic": "لحن الثالوث (لحن البركة)"
+ },
+ "intro-doxologies-annual": {
+  "name": "Introduction to the Doxologies",
+  "says": "Hail to you, we ask",
+  "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ",
+  "arabic": "مقدمة الذكصولوجيات"
+ },
+ "kyrie-eleison-major": {
+  "name": "Kyrie Eleison (long)",
+  "says": "Amen. Lord have mercy, Lord",
+  "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "لحن كيرياليسون الكبير"
+ },
  "leepon": {
   "name": "Leepon",
   "says": "Introduction to the Adam Theotokia",
   "coptic": "Ⲗⲟⲓⲡⲟⲛ ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ",
   "arabic": "مقدمة الثيؤطوكية - ليبون"
+ },
+ "liturgy-gospel-response-annual": {
+  "name": "Liturgy Gospel Response",
+  "says": "Blessed are they in truth",
+  "coptic": "Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ ϧⲉⲛ ⲟⲩⲙⲉⲑⲏⲓ",
+  "arabic": "مرد الانجيل - اواونياطو"
  },
  "lobsh-first-hoos": {
   "name": "Lobsh of the First Canticle",
@@ -79,6 +175,30 @@
   "name": "Nim Ghar",
   "says": "Who is likened unto You",
   "arabic": "القطعة السادسة عشر - نيم غار"
+ },
+ "paralex-shere-maria": {
+  "name": "Paralex: Shere Maria",
+  "says": "Hail to Mary the queen",
+  "coptic": "Ⲭⲉⲣⲉ Ⲙⲁⲣⲓⲁ ϯⲟⲩⲣⲱ",
+  "arabic": "برلكس لحن البركة - شيري ني ماريا"
+ },
+ "pi-ehmot-ghar-small": {
+  "name": "Pi Ehmot Ghar (short)",
+  "says": "The grace of our Lord",
+  "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅",
+  "arabic": "لحن بي أهموت غار الصغيرة"
+ },
+ "praxis-response-annual": {
+  "name": "Praxis Response",
+  "says": "Hail to you O Mary",
+  "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+  "arabic": "مرد الابركسيس - شيري ني ماريا"
+ },
+ "praxis-response-annual-major": {
+  "name": "Praxis Response (Long)",
+  "says": "Hail to you O Mary",
+  "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+  "arabic": "مرد الابركسيس - شيري ني ماريا"
  },
  "second-hoos": {
   "name": "Second Canticle",
@@ -112,6 +232,24 @@
   "name": "Shere ne Maria",
   "says": "Hail to you Mary",
   "arabic": "القطعة السابعة - شيري نيه ماريا"
+ },
+ "sotees-ameen-fast": {
+  "name": "Sotees Ameen (Fast)",
+  "says": "Saved. Amen.",
+  "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ",
+  "arabic": "خلصت حقاً"
+ },
+ "sotees-ameen-major": {
+  "name": "Sotees Ameen (Long)",
+  "says": "Saved. Amen.",
+  "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ",
+  "arabic": "خلصت حقاً"
+ },
+ "st-mark-doxology-first-one": {
+  "name": "Doxology of St. Mark (1)",
+  "says": "O Mark the Apostle",
+  "coptic": "Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ",
+  "arabic": "الذكصولوجية الاولى لمار مرقس"
  },
  "sunday-theotokia-1": {
   "name": "Sunday Theotokia (1)",
@@ -177,6 +315,30 @@
   "says": "You are called",
   "arabic": "ثيؤطوكية الأحد - القطعة التاسعة"
  },
+ "tai-shouri": {
+  "name": "This Censer",
+  "says": "This is the censer",
+  "coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ",
+  "arabic": "لحن طاي شوري السنوي"
+ },
+ "ten-oosht-evol-basil": {
+  "name": "Ten Ge-osht Evol (St. Basil)",
+  "says": "We look for the resurrection",
+  "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ",
+  "arabic": "مرد تين جوشت إيفول"
+ },
+ "ten-oosht-evol-gregory": {
+  "name": "Ten Ge-osht Evol (St. Gregory)",
+  "says": "We look for the resurrection",
+  "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ",
+  "arabic": "مرد تين جوشت إيفول"
+ },
+ "ten-oosht-evol-vespers-matins": {
+  "name": "Conclusion of Creed",
+  "says": "We look for the resurrection",
+  "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ",
+  "arabic": "مرد تين جوشت إيفول"
+ },
  "ten-theeno": {
   "name": "Ten Thino",
   "says": "Arise O children of the light",
@@ -204,10 +366,22 @@
   "says": "You are more worthy",
   "arabic": "القطعة العاشرة - تي اوي إنهيكانوس"
  },
+ "the-thought-of-man": {
+  "name": "The Thought of Man",
+  "says": "Alleluia The thought of man",
+  "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀",
+  "arabic": "الليلويا ان فكر الانسان"
+ },
  "third-hoos": {
   "name": "Third Canticle",
   "says": "Blessed are You O Lord God of",
   "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ Ⲡ̀ϭⲟⲓⲥ",
   "arabic": "الهوس الثالث"
+ },
+ "this-is-the-day": {
+  "name": "This Is the Day",
+  "says": "Alleluia. This is the day",
+  "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲫⲁⲓ",
+  "arabic": "هذا هو اليوم الذي صنعه الرب"
  }
 }

@@ -1,0 +1,18 @@
+{
+ "id": "sotees-ameen-major",
+ "titles": {
+  "english": "Sotees Ameen (Long)",
+  "arabic": "خلصت حقاً",
+  "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ: ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
+   "translations": {
+    "english": "Saved. Amen. And with your spirit."
+   }
+  }
+ ]
+}

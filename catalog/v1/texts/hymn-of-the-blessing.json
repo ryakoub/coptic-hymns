@@ -1,7 +1,9 @@
 {
  "id": "hymn-of-the-blessing",
  "titles": {
-  "english": "The Hymn of the Blessing"
+  "english": "Hymn of the Blessing",
+  "coptic": "Ⲧⲉⲛⲟ̀ⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛ̀ⲧⲉ",
+  "arabic": "لحن الثالوث (لحن البركة)"
  },
  "lines": [
   {

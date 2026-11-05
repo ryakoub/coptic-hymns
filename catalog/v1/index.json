@@ -1,6 +1,6 @@
 {
- "version": "8641abc3802aa875",
- "updated": "2026-11-05T00:12:31Z",
+ "version": "f0321d51ccf535cb",
+ "updated": "2026-11-05T02:04:30Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1703,10 +1703,16 @@
   {
    "id": "agios-annual",
    "titles": {
-    "english": "Trisagion (annual)",
+    "english": "Agios (Trisagion)",
     "coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ",
     "arabic": "الثلاث تقديسات السنوي"
    },
+   "subtitle": {
+    "english": "Holy God, holy Mighty, holy"
+   },
+   "aka": [
+    "Trisagion (annual)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 5,
@@ -1722,17 +1728,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/agios-annual.json",
-    "bytes": 5305,
-    "sha256": "d501436d617229cf0fb324c52bfed7e4703a3b49b37e6938d81ebd599a925b36"
+    "bytes": 5304,
+    "sha256": "2019813a82a4166385f0089559326048c6a8c269a12de74ee15103075b332e1f"
    }
   },
   {
    "id": "alleluia-offertory",
    "titles": {
-    "english": "Alleluia of the Offertory (Al el-Korban)",
-    "coptic": "Ⲁⲗ",
+    "english": "Alleluia of the Offertory",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
     "arabic": "لحن آللي القربان"
    },
+   "subtitle": {
+    "english": "Alleluia"
+   },
+   "aka": [
+    "Alleluia of the Offertory (Al el-Korban)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -1748,8 +1760,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/alleluia-offertory.json",
-    "bytes": 416,
-    "sha256": "efe7773e47c1142439d9a4dea3d216ec5a375ec12891505c60810a32215bde78"
+    "bytes": 422,
+    "sha256": "016770cedeaf7f1e3e9cd298189847d43cb64372ed98a60c78ee56f85fb7bdfb"
    }
   },
   {
@@ -2073,8 +2085,11 @@
    "id": "censer-annual",
    "titles": {
     "english": "The Golden Censer",
-    "coptic": "Ϯϣⲟⲩⲣⲓ",
+    "coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ",
     "arabic": "المجمرة الذهب"
+   },
+   "subtitle": {
+    "english": "The golden censer"
    },
    "tags": [],
    "pending": false,
@@ -2097,8 +2112,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/censer-annual.json",
-    "bytes": 652,
-    "sha256": "548cd5b39a9b12ebc74e9ecb7f5436c2a258aade4508790bef949d62a905b79c"
+    "bytes": 670,
+    "sha256": "8c21b87210eb1a8e5ed6be040c0b89eef3a0d1d2f6690cad60d784fc9b9bf5b4"
    }
   },
   {
@@ -2223,10 +2238,16 @@
   {
    "id": "concluding-canon-annual",
    "titles": {
-    "english": "Closing Canon of the communal prayers (annual)",
-    "coptic": "Ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "english": "Closing Canon",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
     "arabic": "ختام الصلوات الجماعية السنوي"
    },
+   "subtitle": {
+    "english": "Amen, Lord have mercy, Lord"
+   },
+   "aka": [
+    "Closing Canon of the communal prayers (annual)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 7,
@@ -2243,8 +2264,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual.json",
-    "bytes": 5493,
-    "sha256": "d989a783ad0f2366eb6bdbd655e4bcd9e4690429439bc81d3771e1da301114b9"
+    "bytes": 5473,
+    "sha256": "6b8122357db49073a17e9bc128a70e3b6d8e86c404c2aa29e825d49497883f81"
    }
   },
   {
@@ -2485,8 +2506,11 @@
    "id": "doxology-archangel-michael",
    "titles": {
     "english": "Doxology of Archangel Michael",
-    "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ",
+    "coptic": "Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ",
     "arabic": "ذكصولوجية الملاك ميخائيل"
+   },
+   "subtitle": {
+    "english": "Michael the head"
    },
    "tags": [],
    "pending": false,
@@ -2503,16 +2527,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-archangel-michael.json",
-    "bytes": 7072,
-    "sha256": "7e5dd6dc59ca52f9a071b3625b1393dda46687bd5229c90e1d2adeeac40018cf"
+    "bytes": 7052,
+    "sha256": "c9ffef25d38c04120781fb46a63509b041284564273d354d695228fd434b9ea7"
    }
   },
   {
    "id": "doxology-heavenly-orders",
    "titles": {
-    "english": "Doxology of Heavenly Orders",
-    "arabic": "ذكصولوجية السمائين"
+    "english": "Doxology of the Heavenly Orders",
+    "arabic": "ذكصولوجية السمائين",
+    "coptic": "Ϣⲁϣϥ (ⲍ̅) ⲛ̀ⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ"
    },
+   "subtitle": {
+    "english": "Seven archangels, praising as they"
+   },
+   "aka": [
+    "Doxology of Heavenly Orders"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -2533,17 +2564,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-heavenly-orders.json",
-    "bytes": 8654,
-    "sha256": "e5cf94590e0356f11dc222cc6164ce39db57fc82e6a6a379876936047d7d80bd"
+    "bytes": 8734,
+    "sha256": "5e130f2d9fb0fc48fe61e90e996b84dee662e3768eb54db2a649358820ba0dff"
    }
   },
   {
    "id": "doxology-john-baptist-1",
    "titles": {
-    "english": "First Doxology of St. John the Baptist",
-    "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ ϧⲉⲛ ⲛⲓϫⲓⲛⲙⲓⲥⲓ",
+    "english": "Doxology of St. John the Baptist (1)",
+    "coptic": "Ⲙ̀ⲡⲉ ⲟⲩⲟⲛ ⲧⲱⲛϥ",
     "arabic": "ذكصولوجية القديس يوحنا المعمدان الأولى"
    },
+   "subtitle": {
+    "english": "Among those born of women"
+   },
+   "aka": [
+    "First Doxology of St. John the Baptist"
+   ],
    "tags": [],
    "pending": false,
    "lines": 4,
@@ -2559,17 +2596,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-john-baptist-1.json",
-    "bytes": 4948,
-    "sha256": "2d1083295e4d1f1da5836d8614afe18ead91cf7c3d6c4a8e8c7c9d110728f67c"
+    "bytes": 4910,
+    "sha256": "5a54a182eb0cb2abf0524595107af9e85c6b1e82669d2044543c575c8414109e"
    }
   },
   {
    "id": "doxology-john-baptist-2",
    "titles": {
-    "english": "Second Doxology of St. John the Baptist",
+    "english": "Doxology of St. John the Baptist (2)",
     "coptic": "Ⲁϥⲉⲣⲙⲉⲑⲣⲉ ⲛ̀ϫⲉ Ⲓⲱⲁⲛⲛⲏⲥ",
     "arabic": "ذكصولوجية القديس يوحنا المعمدان الثانية"
    },
+   "subtitle": {
+    "english": "John has witnessed"
+   },
+   "aka": [
+    "Second Doxology of St. John the Baptist"
+   ],
    "tags": [],
    "pending": false,
    "lines": 4,
@@ -2585,8 +2628,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-john-baptist-2.json",
-    "bytes": 4905,
-    "sha256": "167ff45b5f1494cb53f256a7a6ce2e0afacff93ac99e25627bfc545ed28f781f"
+    "bytes": 4902,
+    "sha256": "f3a5842d2e73142ec19048da4f12bf2341cd07df1f42a372fc169b1fcaba4cfa"
    }
   },
   {
@@ -2786,9 +2829,16 @@
   {
    "id": "doxology-st-mary-matins",
    "titles": {
-    "english": "Doxology of St. Mary, Matins",
-    "arabic": "ذكصولوجية العذراء - باكر"
+    "english": "Doxology of St. Mary (Matins)",
+    "arabic": "ذكصولوجية العذراء - باكر",
+    "coptic": "Ⲱⲟⲩⲛⲓⲁϯ ⲛ̀ⲑⲟ Ⲙⲁⲣⲓⲁ̀"
    },
+   "subtitle": {
+    "english": "Blessed are you O Mary"
+   },
+   "aka": [
+    "Doxology of St. Mary, Matins"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -2809,16 +2859,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-st-mary-matins.json",
-    "bytes": 4499,
-    "sha256": "d6cf432ed899c5df0cad2e9f1df040667e331a2f40329251ed520a2279fa8688"
+    "bytes": 4566,
+    "sha256": "95476291ba4f1c83111888a049b781386d7f89b4fa2c1717cee198145de9ba63"
    }
   },
   {
    "id": "doxology-st-mary-vespers",
    "titles": {
-    "english": "Doxology of St. Mary Vespers",
-    "arabic": "ذكصولوجية العذراء - عشية"
+    "english": "Doxology of St. Mary (Vespers)",
+    "arabic": "ذكصولوجية العذراء - عشية",
+    "coptic": "Ⲉ̀ⲣⲉ ⲡ̀ⲥⲟⲗⲥⲉⲗ ⲙ̀Ⲙⲁⲣⲓⲁⲙ"
    },
+   "subtitle": {
+    "english": "The adornment of Mary"
+   },
+   "aka": [
+    "Doxology of St. Mary Vespers"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -2839,8 +2896,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/doxology-st-mary-vespers.json",
-    "bytes": 5157,
-    "sha256": "14c05df81ef8fa91f9aca6964786f6a547d5a16b6a2e5a8c6ada571089e6cfd4"
+    "bytes": 5234,
+    "sha256": "875f8e766dee9eab5b523ce0bb979cda49c75b362f9412612f4282fe5f3a6151"
    }
   },
   {
@@ -3266,10 +3323,16 @@
   {
    "id": "gospel-response-vespers-annual",
    "titles": {
-    "english": "Annual Gospel Response (Vespers and Matins)",
+    "english": "Gospel Response (Vespers and Matins)",
     "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ",
     "arabic": "مرد الإنجيل السنوي (عشية وباكر)"
    },
+   "subtitle": {
+    "english": "Let us worship our Savior"
+   },
+   "aka": [
+    "Annual Gospel Response (Vespers and Matins)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 4,
@@ -3287,17 +3350,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/gospel-response-vespers-annual.json",
-    "bytes": 5123,
-    "sha256": "5f4a7b456da7ab5d3544c17598377b9534ee109f6f7f44b4b94076e037ac4bbe"
+    "bytes": 5116,
+    "sha256": "976f666627cb2f6283ba27979248c6061d8d084ec985b8296b058610a70529ed"
    }
   },
   {
    "id": "hetenyat-annual",
    "titles": {
-    "english": "Annual Hetenyat (intercessions)",
-    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ̀",
+    "english": "Intercessions",
+    "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
     "arabic": "الهيتنيات السنوي"
    },
+   "subtitle": {
+    "english": "Through the intercessions"
+   },
+   "aka": [
+    "Annual Hetenyat (intercessions)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 15,
@@ -3313,8 +3382,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hetenyat-annual.json",
-    "bytes": 13711,
-    "sha256": "afd62c5037ad373081ec83b638dbe5061fa6d55d26d876bd8de4848d64bf35ca"
+    "bytes": 13691,
+    "sha256": "cc7af22131d496ea9220fa7bbfd405752953bd34006e782863634b5947677d02"
    }
   },
   {
@@ -3475,8 +3544,16 @@
   {
    "id": "hymn-of-the-blessing",
    "titles": {
-    "english": "The Hymn of the Blessing"
+    "english": "Hymn of the Blessing",
+    "coptic": "Ⲧⲉⲛⲟ̀ⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛ̀ⲧⲉ",
+    "arabic": "لحن الثالوث (لحن البركة)"
    },
+   "subtitle": {
+    "english": "We worship the Father"
+   },
+   "aka": [
+    "The Hymn of the Blessing"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3490,17 +3567,23 @@
    ],
    "file": {
     "url": "catalog/v1/texts/hymn-of-the-blessing.json",
-    "bytes": 595,
-    "sha256": "71bcbe4f59108be8019f5c0711572acb5b90a54eaf7b5964b72d31865c9318fa"
+    "bytes": 723,
+    "sha256": "bd4050e15484128292d60d9f19e52a8928c4db349e585daf4c01467d9d594a3a"
    }
   },
   {
    "id": "intro-doxologies-annual",
    "titles": {
-    "english": "Introduction to the Doxologies (Hail to you, we ask you)",
-    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ",
+    "english": "Introduction to the Doxologies",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ",
     "arabic": "مقدمة الذكصولوجيات"
    },
+   "subtitle": {
+    "english": "Hail to you, we ask"
+   },
+   "aka": [
+    "Introduction to the Doxologies (Hail to you, we ask you)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 8,
@@ -3517,8 +3600,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/intro-doxologies-annual.json",
-    "bytes": 9473,
-    "sha256": "e8e625e402d28346c23b9d904af0034a98508eea3bcbce70250e386b208f1e3b"
+    "bytes": 9435,
+    "sha256": "c91bd2c730a670e6083d8ce401763caaffce3abc7db5afe7c6902e387377155f"
    }
   },
   {
@@ -3603,7 +3686,11 @@
    "id": "kyrie-eleison-major",
    "titles": {
     "english": "Kyrie Eleison (long)",
-    "arabic": "لحن كيرياليسون الكبير"
+    "arabic": "لحن كيرياليسون الكبير",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+   },
+   "subtitle": {
+    "english": "Amen. Lord have mercy, Lord"
    },
    "tags": [],
    "pending": false,
@@ -3620,8 +3707,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/kyrie-eleison-major.json",
-    "bytes": 954,
-    "sha256": "e56410753fbe262ad631a48d1f6f01bc2d24d04d84dc5e6c1b5e2e1682e9a0de"
+    "bytes": 1026,
+    "sha256": "475bf15383d96e8c37f3564ecd5f001266df17848cf0aec757b96f77c2247cf3"
    }
   },
   {
@@ -3660,8 +3747,16 @@
   {
    "id": "liturgy-gospel-response-annual",
    "titles": {
-    "english": "Liturgy Gospel Response, Annual"
+    "english": "Liturgy Gospel Response",
+    "coptic": "Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ ϧⲉⲛ ⲟⲩⲙⲉⲑⲏⲓ",
+    "arabic": "مرد الانجيل - اواونياطو"
    },
+   "subtitle": {
+    "english": "Blessed are they in truth"
+   },
+   "aka": [
+    "Liturgy Gospel Response, Annual"
+   ],
    "tags": [],
    "pending": false,
    "lines": 3,
@@ -3674,8 +3769,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/liturgy-gospel-response-annual.json",
-    "bytes": 1537,
-    "sha256": "4b10798aa01ebb813a1a48d68ec8121b9944536dd9d4b9fb965fe987afb06f2b"
+    "bytes": 1661,
+    "sha256": "a83fe53533691f0cfee5df0b8686b9f05bc25a34ef21f15fbeddeccb2139b667"
    }
   },
   {
@@ -3963,9 +4058,16 @@
   {
    "id": "paralex-shere-maria",
    "titles": {
-    "english": "Paralex, Shere Maria",
-    "arabic": "برلكس لحن البركة - شيري ني ماريا"
+    "english": "Paralex: Shere Maria",
+    "arabic": "برلكس لحن البركة - شيري ني ماريا",
+    "coptic": "Ⲭⲉⲣⲉ Ⲙⲁⲣⲓⲁ ϯⲟⲩⲣⲱ"
    },
+   "subtitle": {
+    "english": "Hail to Mary the queen"
+   },
+   "aka": [
+    "Paralex, Shere Maria"
+   ],
    "tags": [],
    "pending": false,
    "lines": 10,
@@ -3978,8 +4080,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/paralex-shere-maria.json",
-    "bytes": 4844,
-    "sha256": "0568c4c101a70fb40840924d14addc17c5f7d837fc01e2f30d68ad34ea59bd17"
+    "bytes": 4903,
+    "sha256": "de0cc31f18a42e27e639c3f25a192cfea5a8c7b75320e3c2cf3e8f7ccd848b33"
    }
   },
   {
@@ -4010,8 +4112,11 @@
    "id": "pi-ehmot-ghar-small",
    "titles": {
     "english": "Pi Ehmot Ghar (short)",
-    "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ",
+    "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅",
     "arabic": "لحن بي أهموت غار الصغيرة"
+   },
+   "subtitle": {
+    "english": "The grace of our Lord"
    },
    "tags": [],
    "pending": false,
@@ -4029,8 +4134,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-ehmot-ghar-small.json",
-    "bytes": 3298,
-    "sha256": "84cb6fd2fc9014f30a74b4b8e188ca980855c80edf2925f0f6cbfda18ffcd8e0"
+    "bytes": 3323,
+    "sha256": "74a27670486992e6026edc247bc193e8a8fd6675b3fd4fbc2252c0117b60cd68"
    }
   },
   {
@@ -4121,8 +4226,16 @@
   {
    "id": "praxis-response-annual",
    "titles": {
-    "english": "Praxis Response, Annual"
+    "english": "Praxis Response",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+    "arabic": "مرد الابركسيس - شيري ني ماريا"
    },
+   "subtitle": {
+    "english": "Hail to you O Mary"
+   },
+   "aka": [
+    "Praxis Response, Annual"
+   ],
    "tags": [],
    "pending": false,
    "lines": 2,
@@ -4131,13 +4244,41 @@
    ],
    "transliterations": [],
    "recordings": [
-    "praxis-response-annual",
-    "praxis-response-annual-major"
+    "praxis-response-annual"
    ],
    "file": {
     "url": "catalog/v1/texts/praxis-response-annual.json",
-    "bytes": 579,
-    "sha256": "74510430b6ca9b84022c859e1fca96ae519bbe3661cad6f3cbe9c5e97e79c90c"
+    "bytes": 690,
+    "sha256": "448559e6de9e925b416f070da196d54eed3c1594b17b1f11d4a916e481ba03e2"
+   }
+  },
+  {
+   "id": "praxis-response-annual-major",
+   "titles": {
+    "english": "Praxis Response (Long)",
+    "arabic": "مرد الابركسيس - شيري ني ماريا",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ"
+   },
+   "subtitle": {
+    "english": "Hail to you O Mary"
+   },
+   "aka": [
+    "Annual Praxis Response (long)"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 2,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "praxis-response-annual-major"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/praxis-response-annual-major.json",
+    "bytes": 703,
+    "sha256": "7552be26a9b03d4edce8d4cc74d2c44ccecc360c8852f19df80a8644d3e491ae"
    }
   },
   {
@@ -5337,7 +5478,12 @@
   {
    "id": "sotees-ameen-fast",
    "titles": {
-    "english": "Sotees Ameen (Fast)"
+    "english": "Sotees Ameen (Fast)",
+    "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ",
+    "arabic": "خلصت حقاً"
+   },
+   "subtitle": {
+    "english": "Saved. Amen."
    },
    "tags": [],
    "pending": false,
@@ -5355,21 +5501,56 @@
    "transliterations": [],
    "recordings": [
     "sotees-ameen-fast",
-    "sotees-ameen-fast-english-chie",
-    "sotees-ameen-major"
+    "sotees-ameen-fast-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/sotees-ameen-fast.json",
-    "bytes": 312,
-    "sha256": "d0cc0f2bf76f12a0ed2d8806654e0522a06a3697d4543a7f324b4cf68b15fe98"
+    "bytes": 391,
+    "sha256": "897e6ff85d9b9afc8a29cb123bd2cefcfbff34e96051198c35b7b1002da86fb6"
+   }
+  },
+  {
+   "id": "sotees-ameen-major",
+   "titles": {
+    "english": "Sotees Ameen (Long)",
+    "arabic": "خلصت حقاً",
+    "coptic": "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ"
+   },
+   "subtitle": {
+    "english": "Saved. Amen."
+   },
+   "aka": [
+    "Sotis Amen (long)"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "sotees-ameen-major"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/sotees-ameen-major.json",
+    "bytes": 392,
+    "sha256": "61204c7e5bd9ce8ba4e2ec6b1df1a3ef04530f1a5292ff1707c8bd6eed9ada54"
    }
   },
   {
    "id": "st-mark-doxology-first-one",
    "titles": {
-    "english": "St. Mark Doxology (First One)",
-    "arabic": "الذكصولوجية الاولى لمار مرقس"
+    "english": "Doxology of St. Mark (1)",
+    "arabic": "الذكصولوجية الاولى لمار مرقس",
+    "coptic": "Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ"
    },
+   "subtitle": {
+    "english": "O Mark the Apostle"
+   },
+   "aka": [
+    "St. Mark Doxology (First One)"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5390,8 +5571,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/st-mark-doxology-first-one.json",
-    "bytes": 2942,
-    "sha256": "9642dc8cca7c97cebe5ad5b3901240397e895edf08d398765160fc8b259610ab"
+    "bytes": 3007,
+    "sha256": "5541e1a7c8b9dc1145aa078837e5c2cad682899ee35034f040f0bb5c007ab87a"
    }
   },
   {
@@ -5793,10 +5974,16 @@
   {
    "id": "tai-shouri",
    "titles": {
-    "english": "Tai Shouri (annual)",
-    "coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ",
+    "english": "This Censer",
+    "coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ",
     "arabic": "لحن طاي شوري السنوي"
    },
+   "subtitle": {
+    "english": "This is the censer"
+   },
+   "aka": [
+    "Tai Shouri (annual)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5812,8 +5999,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/tai-shouri.json",
-    "bytes": 1496,
-    "sha256": "b48dc3eace69d49bfc7086d2cf9adee076125325ecf7bcf5ad7c5322bc71fecd"
+    "bytes": 1533,
+    "sha256": "dcc6286a0364c115945c45608cd0838033250713ac5b3e89b038a9343eaae883"
    }
   },
   {
@@ -5842,9 +6029,16 @@
   {
    "id": "ten-oosht-evol-basil",
    "titles": {
-    "english": "Ten Goosht Evol response",
-    "arabic": "مرد تين جوشت إيفول"
+    "english": "Ten Ge-osht Evol (St. Basil)",
+    "arabic": "مرد تين جوشت إيفول",
+    "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ"
    },
+   "subtitle": {
+    "english": "We look for the resurrection"
+   },
+   "aka": [
+    "Ten Goosht Evol response"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -5865,14 +6059,76 @@
    "recordings": [
     "ten-oosht-evol-basil",
     "ten-oosht-evol-english-chie",
-    "ten-oosht-evol-gregory",
-    "ten-oosht-evol-vespers-matins",
     "we-look-for-the-resurrection-english"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-oosht-evol-basil.json",
-    "bytes": 1140,
-    "sha256": "0cf9eec736ba24367e99c2491227a21d47f10ec03de5e047453665be86b4fa68"
+    "bytes": 1197,
+    "sha256": "73e07cf31de8fa946a8a132eca7efd1e9de15453ea46cddf79c89b5c58d8aa9e"
+   }
+  },
+  {
+   "id": "ten-oosht-evol-gregory",
+   "titles": {
+    "english": "Ten Ge-osht Evol (St. Gregory)",
+    "arabic": "مرد تين جوشت إيفول",
+    "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ"
+   },
+   "subtitle": {
+    "english": "We look for the resurrection"
+   },
+   "aka": [
+    "Ten Goosht Evol response, St. Gregory Liturgy"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ten-oosht-evol-gregory"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ten-oosht-evol-gregory.json",
+    "bytes": 1201,
+    "sha256": "38259374f9901f8f462bbad4cf612c6bf83b4aeb18f9941cefd64b78e51d2769"
+   }
+  },
+  {
+   "id": "ten-oosht-evol-vespers-matins",
+   "titles": {
+    "english": "Conclusion of Creed",
+    "arabic": "مرد تين جوشت إيفول",
+    "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ"
+   },
+   "subtitle": {
+    "english": "We look for the resurrection"
+   },
+   "aka": [
+    "Ten Goosht Evol response"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "ten-oosht-evol-vespers-matins"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ten-oosht-evol-vespers-matins.json",
+    "bytes": 1197,
+    "sha256": "aaceee9b38c3a7b3a3556ce7ef0a281489248b8accc4e5c4315e8e37ff1940a9"
    }
   },
   {
@@ -6379,8 +6635,11 @@
    "id": "the-thought-of-man",
    "titles": {
     "english": "The Thought of Man",
-    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ϫⲉ ⲫ̀ⲙⲉⲩⲓ̀",
     "arabic": "الليلويا ان فكر الانسان"
+   },
+   "subtitle": {
+    "english": "Alleluia The thought of man"
    },
    "tags": [],
    "pending": false,
@@ -6396,7 +6655,7 @@
    "file": {
     "url": "catalog/v1/texts/the-thought-of-man.json",
     "bytes": 868,
-    "sha256": "d3d47f74e2bdc260f46d1aa5f02ea0289df098f93cb7136465c2e64fd34d35f7"
+    "sha256": "39050eccdf3bb4194aadbcda77d9d0d40c59acec1ec599cdcf0e3fac6b19bdf8"
    }
   },
   {
@@ -6436,8 +6695,11 @@
    "id": "this-is-the-day",
    "titles": {
     "english": "This Is the Day",
-    "coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉϩⲟⲩⲟ",
+    "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲫⲁⲓ",
     "arabic": "هذا هو اليوم الذي صنعه الرب"
+   },
+   "subtitle": {
+    "english": "Alleluia. This is the day"
    },
    "tags": [],
    "pending": false,
@@ -6452,8 +6714,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/this-is-the-day.json",
-    "bytes": 962,
-    "sha256": "c6ffa78396280fe93d97182521445b0ee3185af5e3957ef821e62b24e2d7f136"
+    "bytes": 963,
+    "sha256": "bf7e22a1d5fbc8d58d78a40d8bc4ca071dea9c53827144125e01d000d5c30eb1"
    }
   },
   {
@@ -11917,12 +12179,12 @@
   },
   {
    "id": "praxis-response-annual-major",
-   "text": "praxis-response-annual",
+   "text": "praxis-response-annual-major",
    "duration": 609.66,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 2
    },
    "source": "content/hymns/praxis-response-annual-major/",
    "tune": {
@@ -11932,8 +12194,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-annual-major.json",
-     "bytes": 100,
-     "sha256": "100f84b5f411a959115815a9626ae0515ea8457622a4729048bcea15310dec84",
+     "bytes": 106,
+     "sha256": "934a1e2e5530b7207376abffd871da733d14b4256d6c36952d0ae885d8ad5005",
      "role": "timing"
     },
     {
@@ -14174,12 +14436,12 @@
   },
   {
    "id": "sotees-ameen-major",
-   "text": "sotees-ameen-fast",
+   "text": "sotees-ameen-major",
    "duration": 335.25,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "content/hymns/sotees-ameen-major/",
    "tune": {
@@ -14189,8 +14451,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/sotees-ameen-major.json",
-     "bytes": 85,
-     "sha256": "6d0e42ea4b076e08ccf0501b01a359e36fcb2ffc2d543abda4fc8b1eb730d1b9",
+     "bytes": 86,
+     "sha256": "5886496f464ae5f51c5939ab509094476da313e018f216f6d7e5f894dfa3a187",
      "role": "timing"
     },
     {
@@ -15067,7 +15329,7 @@
   },
   {
    "id": "ten-oosht-evol-gregory",
-   "text": "ten-oosht-evol-basil",
+   "text": "ten-oosht-evol-gregory",
    "duration": 92.53,
    "timing": {
     "lines": 1,
@@ -15082,8 +15344,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-gregory.json",
-     "bytes": 1253,
-     "sha256": "81b2f0fc576a8fbf84fa9cc0fd2ee7d59281d296f43db12f2db220cc01acba42",
+     "bytes": 1309,
+     "sha256": "b4a27455a0aef68f35835733972aa9c73ddf6b96836347661b2d6e967094a0e2",
      "role": "timing"
     },
     {
@@ -15096,7 +15358,7 @@
   },
   {
    "id": "ten-oosht-evol-vespers-matins",
-   "text": "ten-oosht-evol-basil",
+   "text": "ten-oosht-evol-vespers-matins",
    "duration": 113.5,
    "timing": {
     "lines": 1,
@@ -15111,8 +15373,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-vespers-matins.json",
-     "bytes": 1260,
-     "sha256": "e2bfb4cf3aef105764a20cc24c47538170b3d26afef440b4b3e79deb8fd0632b",
+     "bytes": 1323,
+     "sha256": "c8ebe87f125d30dbd5de6cd48c9f99d1fd9fcc45f951eec16d589d622337461e",
      "role": "timing"
     },
     {
@@ -16679,7 +16941,7 @@
   {
    "id": "alli-el-korban",
    "titles": {
-    "english": "Alleluia (Offertory)",
+    "english": "Alleluia of the Offertory",
     "arabic": "هللي القربان",
     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ"
    },
@@ -17421,12 +17683,12 @@
    "texts": [
     "alleluia-offertory"
    ],
-   "version": "eac77d4e4903e937"
+   "version": "38baa32b5693eb42"
   },
   {
    "id": "hymn-of-the-blessing",
    "titles": {
-    "english": "The Hymn of the Blessing",
+    "english": "Hymn of the Blessing",
     "arabic": "تين آوآوشت",
     "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ"
    },
@@ -19151,7 +19413,7 @@
    "texts": [
     "hymn-of-the-blessing"
    ],
-   "version": "abaa26975a265abb"
+   "version": "434dab1b2ee78adf"
   },
   {
    "id": "pi-gen-misi",
@@ -26824,7 +27086,7 @@
   {
    "id": "tai-shouri-annual",
    "titles": {
-    "english": "Tai Shouri (annual)",
+    "english": "This Censer",
     "arabic": "لحن طاي شوري السنوي",
     "coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ"
    },
@@ -28969,7 +29231,7 @@
    "texts": [
     "tai-shouri"
    ],
-   "version": "c0db8ee58af44811"
+   "version": "6a31e118c37bc610"
   },
   {
    "id": "ten-theeno",
@@ -33926,7 +34188,7 @@
   {
    "id": "ti-shouri-annual",
    "titles": {
-    "english": "Ti Shouri (The Golden Censer)",
+    "english": "The Golden Censer",
     "arabic": "لحن تي شوري (المجمرة الذهب)",
     "coptic": "Ϯϣⲟⲩⲣⲏ"
    },
@@ -34769,7 +35031,7 @@
    "texts": [
     "censer-annual"
    ],
-   "version": "76dffb2833384dcf"
+   "version": "5a57be5d18aaf3a2"
   },
   {
    "id": "tou-lithou-hazzat",
@@ -36356,7 +36618,7 @@
   {
    "id": "alleluia-offertory-hazzat",
    "titles": {
-    "english": "Alleluia (Offertory)",
+    "english": "Alleluia of the Offertory",
     "arabic": "اللي القربان",
     "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ"
    },
@@ -41860,7 +42122,7 @@
     "english": "Used by permission of Cantor Bola",
     "arabic": "بسماح من المرتل بولا"
    },
-   "version": "7dc8cd3fb28284f3"
+   "version": "29d9fc13960b657c"
   }
  ],
  "credits": {
