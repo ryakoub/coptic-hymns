@@ -17,7 +17,7 @@
      opens the app on the hymn instead (see /.well-known/apple-app-site-association); this page is for everyone else. -->
 <body>
 <main class="wrap" id="page"><p class="notice">Loading…</p></main>
-<script src="/js/site.js?v=20261031"></script>
+<script src="/js/site.js?v=20261105"></script>
 <script>
 // Embedded in another page (the home page's sample): only the words and the player, and with lines=N only
 // the first N lines, from the first line's start to the next line's.
@@ -90,7 +90,7 @@ CC.catalog().then(async c => {
   ${t.arabic ? `<div class="ar" lang="ar">${CC.esc(t.arabic)}</div>` : ""}
 </div>
 ${scoreBanner}
-${audio ? `<div class="player"><div class="player-card"><audio controls controlsList="nodownload" preload="metadata" src="/${CC.esc(audio.url)}"></audio></div></div>` : ""}`;
+${audio ? `<div class="player"><div class="player-card"><audio controls controlsList="nodownload" preload="metadata" src="${CC.esc(CC.fileURL(audio.url))}"></audio></div></div>` : ""}`;
     return;
   }
   if (!rec) { page.innerHTML = '<p class="notice">This hymn isn’t in the library. <a href="/library.html">See the library</a></p>'; return; }
@@ -136,7 +136,7 @@ ${audio ? `<div class="player"><div class="player-card"><audio controls controls
 
   page.innerHTML = embed ? `
 <div class="player"><div class="player-card">
-  <audio id="audio" controls controlsList="nodownload" preload="metadata" src="/${CC.esc(audio.url)}"></audio>
+  <audio id="audio" controls controlsList="nodownload" preload="metadata" src="${CC.esc(CC.fileURL(audio.url))}"></audio>
   <div class="opts"><span class="tabs" id="sung">${[rec, ...others].map(r => `<button type="button" data-id="${r.id}" aria-pressed="${r.id === rec.id}">Sung in ${CC.esc((r.language || "coptic")[0].toUpperCase() + (r.language || "coptic").slice(1))}</button>`).join("")}</span>
   <span class="tabs" id="langs" hidden></span><input type="checkbox" id="translit" hidden><input type="checkbox" id="arabic" hidden></div>
 </div></div>
@@ -154,7 +154,7 @@ ${scoreBanner || `<div class="app-banner"><img src="/brand/icon-1024.png" alt=""
     : "Being tested now, on the App Store soon. Already have it? Press and hold the link you received and choose Open in Coptic Chanter."}</div>
   ${CC.GET_APP ? `<a class="pill light" href="/get/">Get the app</a>` : ""}</div>`}
 <div class="player"><div class="player-card">
-  ${audio ? `<audio id="audio" controls controlsList="nodownload" preload="metadata" src="/${CC.esc(audio.url)}"></audio>` : "<p>No recording yet.</p>"}
+  ${audio ? `<audio id="audio" controls controlsList="nodownload" preload="metadata" src="${CC.esc(CC.fileURL(audio.url))}"></audio>` : "<p>No recording yet.</p>"}
   <div class="opts">
     ${others.length ? `<select id="tune" aria-label="Recording"><option value="${rec.id}">${CC.esc(label(rec))}</option>${others.map(r => `<option value="${r.id}">${CC.esc(label(r))}</option>`).join("")}</select>` : `<span style="color:var(--muted)">${CC.esc(label(rec))}</span>`}
     <span class="tabs" id="langs">

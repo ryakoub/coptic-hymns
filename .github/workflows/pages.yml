@@ -1,0 +1,37 @@
+# Publishes copticchanter.com from main, without the recordings: they are served from Backblaze B2
+# (tools/b2_sync.sh uploads them; the catalog's audio URLs point there). With them the site is over
+# GitHub Pages' 1 GB limit. The scores' own audio (content/notations, ~22 MB) stays, for score-sync.
+name: Publish the website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Leave out the recordings
+        run: |
+          find content -path content/notations -prune -o -type f \( -name '*.m4a' -o -name '*.mp3' \) -print -delete | wc -l
+          du -sh .
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
