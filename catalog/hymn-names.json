@@ -482,5 +482,45 @@
   "says": "Alleluia. This is the day",
   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲫⲁⲓ",
   "arabic": "هذا هو اليوم الذي صنعه الرب"
+ },
+ "response-institution-narrative-truly-we-believe": {
+  "name": "Truly, we believe",
+  "coptic": "Ⲁ̀ⲗⲏⲑⲟⲥ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
+  "arabic": "بالحقيقة نؤمن"
+ },
+ "response-institution-narrative-body-we-believe-that-this-is-true-amen": {
+  "name": "We believe that this is true. Amen",
+  "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ",
+  "arabic": "نؤمن أن هذا هو بالحقيقة. آمين"
+ },
+ "institution-narrative-body-amen-3x-english": {
+  "name": "Amen, amen, amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين، آمين، آمين"
+ },
+ "response-institution-narrative-body-we-believe-we-confess": {
+  "name": "We believe, we confess, and we glorify",
+  "coptic": "Ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ",
+  "arabic": "نؤمن ونعترف ونمجد"
+ },
+ "response-institution-narrative-body-this-is-true-amen": {
+  "name": "This is true. Amen",
+  "coptic": "Ⲫⲁⲓ ⲡⲉ ϧⲉⲛ",
+  "arabic": "هذا هو بالحقيقة. آمين"
+ },
+ "institution-narrative-blood-amen-3x-english": {
+  "name": "Amen, amen, amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين، آمين، آمين"
+ },
+ "response-institution-narrative-blood-again-we-believe-we-confess": {
+  "name": "Again, we believe, we confess, and we glorify",
+  "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
+  "arabic": "وأيضاً نؤمن ونعترف ونمجد"
+ },
+ "response-institution-narrative-blood-this-is-also-true-amen": {
+  "name": "This is also true. Amen",
+  "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ",
+  "arabic": "هذا هو أيضاً بالحقيقة. آمين"
  }
 }

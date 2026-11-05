@@ -1,6 +1,6 @@
 {
- "version": "b8c61a14adf6755b",
- "updated": "2026-11-05T12:12:12Z",
+ "version": "a76e412e5ef08a3a",
+ "updated": "2026-11-05T12:15:59Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3872,9 +3872,13 @@
   {
    "id": "institution-narrative-blood-amen-3x-english",
    "titles": {
-    "english": "Institution Narrative (Blood) - Amen 3x",
-    "arabic": "آمين، آمين، آمين"
+    "english": "Amen, amen, amen",
+    "arabic": "آمين، آمين، آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ"
    },
+   "aka": [
+    "Institution Narrative (Blood) - Amen 3x"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3890,16 +3894,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/institution-narrative-blood-amen-3x-english.json",
-    "bytes": 470,
-    "sha256": "9e3bf8d897ab77369cd47eaf49d993a8850e9ba316519ad50d83367e7fb63c3f"
+    "bytes": 507,
+    "sha256": "2b805fcaf84c277c5d773a9129907df57aa15100ec910b33b0e0cbf8eae2dbcc"
    }
   },
   {
    "id": "institution-narrative-body-amen-3x-english",
    "titles": {
-    "english": "Institution Narrative (Body) - Amen 3x",
-    "arabic": "آمين، آمين، آمين"
+    "english": "Amen, amen, amen",
+    "arabic": "آمين، آمين، آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ"
    },
+   "aka": [
+    "Institution Narrative (Body) - Amen 3x"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3915,8 +3923,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/institution-narrative-body-amen-3x-english.json",
-    "bytes": 468,
-    "sha256": "07d723e23318f259cd0b8fe0ea212ab1f7978edd7e584b4a5e68feec4cd93bbd"
+    "bytes": 506,
+    "sha256": "42ea634b4c3cc4e9fc9b66048a08de5af966f51924ba48a61b739a368f094e0d"
    }
   },
   {
@@ -5484,9 +5492,13 @@
   {
    "id": "response-institution-narrative-blood-again-we-believe-we-confess",
    "titles": {
-    "english": "Institution Narrative (Blood) - Again, we believe, we confess",
-    "arabic": "الصلوات التأسيسية (الدم) - وأيضاً نؤمن ونعترف"
+    "english": "Again, we believe, we confess, and we glorify",
+    "arabic": "وأيضاً نؤمن ونعترف ونمجد",
+    "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ"
    },
+   "aka": [
+    "Institution Narrative (Blood) - Again, we believe, we confess"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5504,16 +5516,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-blood-again-we-believe-we-confess.json",
-    "bytes": 726,
-    "sha256": "8589645d0678176146f12dd82da3e54a5948ffeade08b8a825df2653aae096fe"
+    "bytes": 745,
+    "sha256": "c819e2ac25f5b3cbbc0b45a5759d8016c0974b1e40b16ffd0ec156422387a1b7"
    }
   },
   {
    "id": "response-institution-narrative-blood-this-is-also-true-amen",
    "titles": {
-    "english": "Institution Narrative (Blood) - This is also true. Amen",
-    "arabic": "الصلوات التأسيسية (الدم) - هذا هو أيضاً بالحقيقة. آمين."
+    "english": "This is also true. Amen",
+    "arabic": "هذا هو أيضاً بالحقيقة. آمين",
+    "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ"
    },
+   "aka": [
+    "Institution Narrative (Blood) - This is also true. Amen"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5531,16 +5547,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-blood-this-is-also-true-amen.json",
-    "bytes": 634,
-    "sha256": "30b46fa154f2edb0a5d45f15ddf56a9facbce55e400d727b070c2f08f51d7bc5"
+    "bytes": 593,
+    "sha256": "05f9769f2f9029049343e643b2ebae77b4702e17ca4d19baaec7180de0bbf48f"
    }
   },
   {
    "id": "response-institution-narrative-body-this-is-true-amen",
    "titles": {
-    "english": "Institution Narrative (Body) - This is true. Amen",
-    "arabic": "الصلوات التأسيسية (الجسد) - هذا هو بالحقيقة. آمين"
+    "english": "This is true. Amen",
+    "arabic": "هذا هو بالحقيقة. آمين",
+    "coptic": "Ⲫⲁⲓ ⲡⲉ ϧⲉⲛ"
    },
+   "aka": [
+    "Institution Narrative (Body) - This is true. Amen"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5558,16 +5578,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-body-this-is-true-amen.json",
-    "bytes": 586,
-    "sha256": "e8940e0282ac9123fff0870215bcd60abf5fbc2df9ec69a8b07dde38ec4e1095"
+    "bytes": 547,
+    "sha256": "5ba070cf790d8d28e9e32af3233b9eb76b18c7ff8a1d78c6001af9f8b0bf8982"
    }
   },
   {
    "id": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
    "titles": {
-    "english": "Institution Narrative (Body) - We believe that this is true. Amen",
-    "arabic": "الصلوات التأسيسية (الجسد) - نؤمن أن هذا هو بالحقيقة. آمين"
+    "english": "We believe that this is true. Amen",
+    "arabic": "نؤمن أن هذا هو بالحقيقة. آمين",
+    "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ"
    },
+   "aka": [
+    "Institution Narrative (Body) - We believe that this is true. Amen"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5585,16 +5609,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-body-we-believe-that-this-is-true-amen.json",
-    "bytes": 700,
-    "sha256": "5e021b783d12adada2a97a53f1008bc6fbcdcfea005b8cd57e918422f833194a"
+    "bytes": 671,
+    "sha256": "54988ac2c809160e36a0183982530d80993fde0212b46d8405ef67b3ea5afa9f"
    }
   },
   {
    "id": "response-institution-narrative-body-we-believe-we-confess",
    "titles": {
-    "english": "Institution Narrative (Body) - We believe, we confess",
-    "arabic": "الصلوات التأسيسية (الجسد) - نؤمن ونعترف"
+    "english": "We believe, we confess, and we glorify",
+    "arabic": "نؤمن ونعترف ونمجد",
+    "coptic": "Ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ"
    },
+   "aka": [
+    "Institution Narrative (Body) - We believe, we confess"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5612,16 +5640,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-body-we-believe-we-confess.json",
-    "bytes": 648,
-    "sha256": "b1b212747b23aed9f5de0d94ca18eec0e85b174f8f109f2bbdc77e7cfc653a0d"
+    "bytes": 686,
+    "sha256": "54bb2cf16dac0f1d772f7c8cfdfcceecad45ed2cca18b09f60866f3eed4e67f5"
    }
   },
   {
    "id": "response-institution-narrative-truly-we-believe",
    "titles": {
-    "english": "Institution Narrative - Truly, we believe",
-    "arabic": "الصلوات التأسيسية - بالحقيقة نؤمن"
+    "english": "Truly, we believe",
+    "arabic": "بالحقيقة نؤمن",
+    "coptic": "Ⲁ̀ⲗⲏⲑⲟⲥ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ"
    },
+   "aka": [
+    "Institution Narrative - Truly, we believe"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5639,8 +5671,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-truly-we-believe.json",
-    "bytes": 510,
-    "sha256": "4b9ab083ac7f21d661dba7f5cfa2f74e8fa9bc3eaa8ea8567ded09bb34534369"
+    "bytes": 519,
+    "sha256": "653a457203ce0cf582dadf54f4a349cad2328d4d4a8b826298c2d79cfbf593d6"
    }
   },
   {
@@ -11079,7 +11111,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2629",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Blood)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11110,7 +11142,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Blood)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11141,7 +11173,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2630",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Blood)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11172,7 +11204,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11203,7 +11235,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2628",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11234,7 +11266,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2626",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11265,7 +11297,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2627",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative (Body)"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11296,7 +11328,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2625",
    "tune": {
-    "english": "St. Basil Liturgy - English · Institution Narrative"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
