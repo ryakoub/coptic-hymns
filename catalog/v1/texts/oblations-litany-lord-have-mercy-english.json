@@ -1,0 +1,20 @@
+{
+ "id": "oblations-litany-lord-have-mercy-english",
+ "titles": {
+  "english": "Oblations Litany - Lord have mercy",
+  "arabic": "يا ربُّ إرحَم"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "translations": {
+    "english": "Lord have mercy."
+   },
+   "transliterations": {
+    "english": "Kirie ele-eeson."
+   }
+  }
+ ]
+}

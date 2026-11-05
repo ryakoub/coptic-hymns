@@ -1,0 +1,20 @@
+{
+ "id": "confession-second-amen-english",
+ "titles": {
+  "english": "Confession - Second Amen",
+  "arabic": "آمين"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen."
+   },
+   "transliterations": {
+    "english": "Ameen."
+   }
+  }
+ ]
+}

@@ -17,17 +17,50 @@
   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
   "arabic": "لحن آللي القربان"
  },
+ "amen-ton-thanaton": {
+  "name": "Amen, Amen, Amen, Ton Thanaton Sou",
+  "says": "Amen. Amen.",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ",
+  "arabic": "مرد آمين آمين آمين تون ثاناتون سو"
+ },
+ "anaphora-amen-english": {
+  "name": "Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
+ },
+ "anaphora-responses-st-basil-st-gregory-liturgies": {
+  "name": "Anaphora Responses (St. Basil and St. Gregory)",
+  "arabic": "مرادات بدء القداس الباسيلي والغريغوري"
+ },
  "aripalin": {
   "name": "Aripsalin",
   "says": "O sing unto Him who was crucified",
   "coptic": "Ⲁ̀ⲣⲓⲯⲁⲗⲓⲛ",
   "arabic": "اريبصالين"
  },
+ "aspasmos-adam-annual": {
+  "name": "Aspasmos Adam",
+  "says": "Rejoice O Mary, handmaiden",
+  "coptic": "Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ Ⲙⲁⲣⲓⲁ",
+  "arabic": "الأسبسمس الآدام السنوي - افرحي يا مريم"
+ },
+ "aspasmos-watos-annual": {
+  "name": "Aspasmos Watos",
+  "says": "O Lord God",
+  "coptic": "Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ",
+  "arabic": "الأسبسمس الواطس السنوي - أيها الرب إاله القوات"
+ },
  "censer-annual": {
   "name": "The Golden Censer",
   "says": "The golden censer",
   "coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ",
   "arabic": "المجمرة الذهب"
+ },
+ "cherubim-response": {
+  "name": "Response of the Cherubim",
+  "says": "The Cherubim worship You",
+  "coptic": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ",
+  "arabic": "مرد تسبحة الشاروبيم"
  },
  "commemoration-of-saints": {
   "name": "Commemoration of the Saints",
@@ -93,6 +126,12 @@
   "says": "Your greatness O Mary",
   "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ",
   "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
+ },
+ "eleison-imas-je-nai-nan": {
+  "name": "Eleison Imas and Je Nai Nan",
+  "says": "Have mercy upon us",
+  "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
+  "arabic": "إليسون إيماس وجي ناي نان"
  },
  "first-hoos": {
   "name": "First Canticle",
@@ -160,6 +199,12 @@
   "coptic": "Ϧⲉⲛ ⲟⲩϣⲱⲧ ⲁϥϣⲱⲧ",
   "arabic": "لبش الهوس الأول"
  },
+ "lord-have-mercy-3x-english": {
+  "name": "Lord have mercy (3x)",
+  "says": "Kirie ele-eeson",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم (3)"
+ },
  "morning-doxology": {
   "name": "Morning Doxology",
   "says": "We worship the Father and the Son",
@@ -199,6 +244,52 @@
   "says": "Hail to you O Mary",
   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
   "arabic": "مرد الابركسيس - شيري ني ماريا"
+ },
+ "reconciliation-prayer-and-with-your-spirit-english": {
+  "name": "And with Your Spirit",
+  "says": "Ke to epnevmati sou",
+  "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ",
+  "arabic": "ولروحك أيضاً"
+ },
+ "reconciliation-prayer-lord-have-mercy-english": {
+  "name": "Lord have mercy",
+  "says": "Kirie ele-eeson",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم"
+ },
+ "reconciliation-response-basil": {
+  "name": "Reconciliation Response (St. Basil)",
+  "says": "Through the intercessions",
+  "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
+  "arabic": "بشفاعات والدة الاله"
+ },
+ "response-again-i-believe-amen": {
+  "name": "Again, I believe. Amen",
+  "says": "Ke palin tinahti",
+  "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ϯⲛⲁϩϯ",
+  "arabic": "وأيضاً أؤمن"
+ },
+ "response-anaphora-according-to-your-mercy": {
+  "name": "According to Your mercy",
+  "coptic": "Ⲕⲁⲧⲁ ⲧⲟ ⲉ̀ⲗⲉⲟⲥ",
+  "arabic": "كرحمتك يا رب"
+ },
+ "response-anaphora-amen-i-believe": {
+  "name": "Amen, I believe",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ",
+  "arabic": "حقاً. أؤمن"
+ },
+ "response-i-believe-amen": {
+  "name": "I believe. Amen",
+  "says": "Tinahti",
+  "coptic": "Ϯⲛⲁϩϯ",
+  "arabic": "أؤمن."
+ },
+ "response-we-praise-you": {
+  "name": "We praise You",
+  "says": "Tenhos erok tenesmou erok",
+  "coptic": "Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ",
+  "arabic": "نسبحك"
  },
  "second-hoos": {
   "name": "Second Canticle",

@@ -1,0 +1,21 @@
+{
+ "id": "reconciliation-prayer-lord-have-mercy-english",
+ "titles": {
+  "english": "Lord have mercy",
+  "arabic": "يا ربُّ إرحَم",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "translations": {
+    "english": "Lord have mercy."
+   },
+   "transliterations": {
+    "english": "Kirie ele-eeson."
+   }
+  }
+ ]
+}

@@ -7,7 +7,9 @@ Coptic and Arabic names in its other titles, and the second line in its "subtitl
 
 Usage:
   python3 tools/import_hymn_names.py "hymn-names (Psalmody).csv" --book "Holy Psalmody"
-Rows are matched by the sheet's id column; only rows of the given book (or all, without --book) are taken.
+Rows are matched to texts by their Recording column: the text that recording belongs to (its info.json "text",
+or the recording itself when it is its own text), else by the id column. Only rows of the given book (or all,
+without --book) are taken, and with --rows only those orders (e.g. --rows 28-39,48-54).
 Save the sheet from Excel as "CSV UTF-8" so the Coptic and Arabic survive.
 """
 import argparse, csv, json, re
@@ -27,16 +29,36 @@ def plain(s):
         s = s[1:-1]
     return re.sub(r"(\.\.\.|…)$", "", s).strip()
 
+def text_of_recording():
+    """Recording id -> the text it is a version of."""
+    out = {}
+    for f in (ROOT / "content").glob("**/info.json"):
+        info = json.loads(f.read_text(encoding="utf-8"))
+        out[f.parent.name] = info.get("text") or f.parent.name
+    return out
+
+def orders(spec):
+    keep = set()
+    for part in spec.split(","):
+        a, _, b = part.partition("-")
+        keep.update(range(int(a), int(b or a) + 1))
+    return keep
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("sheet")
     ap.add_argument("--book")
+    ap.add_argument("--rows")
     a = ap.parse_args()
+    texts = text_of_recording()
+    keep = orders(a.rows) if a.rows else None
     rows = list(csv.DictReader(open(a.sheet, encoding="utf-8-sig")))
     names = json.loads(NAMES.read_text(encoding="utf-8")) if NAMES.exists() else {}
     n = 0
     for r in rows:
         if a.book and r.get("Book") != a.book:
+            continue
+        if keep is not None and int(r["Order"]) not in keep:
             continue
         name, line = tidy(r.get("Proposed name (big line)")), plain(r.get("Proposed second line (small)"))
         if not name:
@@ -44,7 +66,9 @@ def main():
         coptic, arabic = tidy(r.get("Coptic first words")), tidy(r.get("Arabic name"))
         # The Coptic column only when it's in Coptic letters (some rows hold the words in Latin letters, as a reminder).
         coptic = coptic if re.search(r"[\u2C80-\u2CFF\u03E2-\u03EF]", coptic) else ""
-        names[r["id"]] = {"name": name, **({"says": line} if line else {}),
+        coptic = re.sub(r"[\s:.]*(\.\.\.|…)$", "", coptic)    # the first words, without the sheet's "…" after them
+        tid = texts.get(tidy(r.get("Recording")), r["id"])
+        names[tid] = {"name": name, **({"says": line} if line else {}),
                           **({"coptic": coptic} if coptic else {}), **({"arabic": arabic} if arabic else {})}
         n += 1
     NAMES.write_text(json.dumps(dict(sorted(names.items())), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

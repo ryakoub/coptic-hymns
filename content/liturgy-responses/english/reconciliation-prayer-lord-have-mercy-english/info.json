@@ -1,11 +1,11 @@
 {
   "titles": {
-    "english": "Reconciliation Prayer - Lord have mercy"
+    "english": "Reconciliation Prayer - Lord have mercy",
+    "arabic": "يا ربُّ إرحَم"
   },
-  "text": "response-lord-have-mercy",
   "language": "english",
   "tune": {
-    "english": "St. Basil Liturgy - English · Reconciliation Prayer"
+    "english": "St. Basil Liturgy - English"
   },
   "cantor": "English Hymns Committee",
   "source": "https://tasbeha.org/hymn_library/view/2617",

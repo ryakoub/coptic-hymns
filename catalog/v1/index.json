@@ -1,6 +1,6 @@
 {
- "version": "f0321d51ccf535cb",
- "updated": "2026-11-05T02:04:30Z",
+ "version": "a52b950e7e2e582a",
+ "updated": "2026-11-05T04:09:18Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -264,8 +264,8 @@
         "reconciliation-prayer-lord-have-mercy-english",
         "reconciliation-response-basil",
         "aspasmos-adam-annual",
-        "aspasmos-watos-annual",
         "anaphora-responses-st-basil-st-gregory-liturgies",
+        "aspasmos-watos-annual",
         "cherubim-response",
         "anaphora-amen-english",
         "anaphora-amen-i-believe-english",
@@ -366,8 +366,7 @@
           "reconciliation-prayer-and-with-your-spirit-english",
           "reconciliation-prayer-lord-have-mercy-english",
           "reconciliation-response-basil",
-          "aspasmos-adam-annual",
-          "aspasmos-watos-annual"
+          "aspasmos-adam-annual"
          ]
         },
         {
@@ -378,6 +377,7 @@
          },
          "recordings": [
           "anaphora-responses-st-basil-st-gregory-liturgies",
+          "aspasmos-watos-annual",
           "cherubim-response",
           "anaphora-amen-english",
           "anaphora-amen-i-believe-english",
@@ -1767,9 +1767,16 @@
   {
    "id": "amen-ton-thanaton",
    "titles": {
-    "english": "Amen, Amen, Amen, Ton thanaton sou",
-    "arabic": "مرد آمين آمين آمين تون ثاناتون سو"
+    "english": "Amen, Amen, Amen, Ton Thanaton Sou",
+    "arabic": "مرد آمين آمين آمين تون ثاناتون سو",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ"
    },
+   "subtitle": {
+    "english": "Amen. Amen."
+   },
+   "aka": [
+    "Amen, Amen, Amen, Ton thanaton sou"
+   ],
    "tags": [],
    "pending": false,
    "lines": 2,
@@ -1786,15 +1793,47 @@
    ],
    "file": {
     "url": "catalog/v1/texts/amen-ton-thanaton.json",
-    "bytes": 2487,
-    "sha256": "bf3433add05f4dfe7f85a188a56befcd1367c4babd6a22bd3dcb4a7d3011899e"
+    "bytes": 2547,
+    "sha256": "60a59671bed69d483401cdc22cc182ef97a8ae9fd43ef539e49b761aa1558130"
+   }
+  },
+  {
+   "id": "anaphora-amen-english",
+   "titles": {
+    "english": "Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
+   },
+   "aka": [
+    "Anaphora - Amen"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "anaphora-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/anaphora-amen-english.json",
+    "bytes": 314,
+    "sha256": "4430da100f45a4e70fe15eaaf762b3d47e56bc083b6709345eb3f83c9393d1fc"
    }
   },
   {
    "id": "anaphora-responses-st-basil-st-gregory-liturgies",
    "titles": {
-    "english": "Anaphora Responses of St. Basil and St. Gregory Liturgies"
+    "english": "Anaphora Responses (St. Basil and St. Gregory)",
+    "arabic": "مرادات بدء القداس الباسيلي والغريغوري"
    },
+   "aka": [
+    "Anaphora Responses of St. Basil and St. Gregory Liturgies"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -1818,8 +1857,56 @@
    ],
    "file": {
     "url": "catalog/v1/texts/anaphora-responses-st-basil-st-gregory-liturgies.json",
-    "bytes": 1246,
-    "sha256": "b1c59d10f55271e0b316fac67f11d50a76ab7df88fd0cee10442c9d54e08c5d1"
+    "bytes": 1321,
+    "sha256": "782765942d0aec258ddc1c8303a2abfa66ea6f224657d361e51b908aa7d7fee2"
+   }
+  },
+  {
+   "id": "and-with-your-spirit-2-english",
+   "titles": {
+    "english": "And with Your Spirit",
+    "arabic": "ولروحك أيضاً"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "and-with-your-spirit-2-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/and-with-your-spirit-2-english.json",
+    "bytes": 390,
+    "sha256": "e683a6309aa90b33406556406ea095eb62a94a0ad8c5c04000849d3a51a38234"
+   }
+  },
+  {
+   "id": "and-with-your-spirit-english",
+   "titles": {
+    "english": "And with Your Spirit",
+    "arabic": "ولروحك أيضاً"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "and-with-your-spirit-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/and-with-your-spirit-english.json",
+    "bytes": 388,
+    "sha256": "f5952da74f79ecd20944a036ece7e167704e9890d2f5d032b2bc6ed293a52af6"
    }
   },
   {
@@ -1903,10 +1990,16 @@
   {
    "id": "aspasmos-adam-annual",
    "titles": {
-    "english": "Annual Aspasmos Adam",
+    "english": "Aspasmos Adam",
     "coptic": "Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ Ⲙⲁⲣⲓⲁ",
-    "arabic": "الأسبسمس الآدام السنوي"
+    "arabic": "الأسبسمس الآدام السنوي - افرحي يا مريم"
    },
+   "subtitle": {
+    "english": "Rejoice O Mary, handmaiden"
+   },
+   "aka": [
+    "Annual Aspasmos Adam"
+   ],
    "tags": [],
    "pending": false,
    "lines": 7,
@@ -1922,8 +2015,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aspasmos-adam-annual.json",
-    "bytes": 7943,
-    "sha256": "484b2aaae994d2ccc6485bd1e8cd67f5191659fa62efce9ace979b1d32f4ac32"
+    "bytes": 7963,
+    "sha256": "ee304e87150122bc62a8e28866a23f1fb2c1154fdd22e82af67b0b222102753a"
    }
   },
   {
@@ -1977,10 +2070,16 @@
   {
    "id": "aspasmos-watos-annual",
    "titles": {
-    "english": "Annual Aspasmos Watos",
-    "coptic": "Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ",
-    "arabic": "الأسبسمس الواطس السنوي"
+    "english": "Aspasmos Watos",
+    "coptic": "Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ",
+    "arabic": "الأسبسمس الواطس السنوي - أيها الرب إاله القوات"
    },
+   "subtitle": {
+    "english": "O Lord God"
+   },
+   "aka": [
+    "Annual Aspasmos Watos"
+   ],
    "tags": [],
    "pending": false,
    "lines": 8,
@@ -1996,8 +2095,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/aspasmos-watos-annual.json",
-    "bytes": 5565,
-    "sha256": "58b98f2934f5cfb1e4cae520cf53090b1ba54f0d3229d0a744ec89eabcd53586"
+    "bytes": 5612,
+    "sha256": "831cfed81758eace57aaad3d6327bb829159aa4e974b3e8428ba51b85aaeefb9"
    }
   },
   {
@@ -2119,9 +2218,16 @@
   {
    "id": "cherubim-response",
    "titles": {
-    "english": "Response of the Cherubim's praise",
-    "arabic": "مرد تسبحة الشاروبيم"
+    "english": "Response of the Cherubim",
+    "arabic": "مرد تسبحة الشاروبيم",
+    "coptic": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ"
    },
+   "subtitle": {
+    "english": "The Cherubim worship You"
+   },
+   "aka": [
+    "Response of the Cherubim's praise"
+   ],
    "tags": [],
    "pending": false,
    "lines": 2,
@@ -2138,8 +2244,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/cherubim-response.json",
-    "bytes": 2145,
-    "sha256": "ac3804491d5ba69bdbf6665c6443200b853563b8d4a22d7e17ab3e07dc190eb8"
+    "bytes": 2218,
+    "sha256": "6d33f5dc9133fb531551b4d2ddc72cc76137e0827b1117ee0a45eaccd907b618"
    }
   },
   {
@@ -2429,6 +2535,54 @@
     "url": "catalog/v1/texts/conclusion-tarh-workers.json",
     "bytes": 491,
     "sha256": "e2f57edca3761264333afb070701fdb97d74978f70ea1edcc49af8af54b21d62"
+   }
+  },
+  {
+   "id": "confession-first-amen-english",
+   "titles": {
+    "english": "Confession - First Amen",
+    "arabic": "آمين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "confession-first-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/confession-first-amen-english.json",
+    "bytes": 311,
+    "sha256": "4fa87c0015b892b33870417c3e73f5a37406fec6deed8e24ea86663dc8e6d695"
+   }
+  },
+  {
+   "id": "confession-second-amen-english",
+   "titles": {
+    "english": "Confession - Second Amen",
+    "arabic": "آمين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "confession-second-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/confession-second-amen-english.json",
+    "bytes": 313,
+    "sha256": "a22fd119ad197fb07d6cce25b31a6be128754c0fd6cb57d9a903fe3d4d6774cf"
    }
   },
   {
@@ -2944,8 +3098,11 @@
    "id": "eleison-imas-je-nai-nan",
    "titles": {
     "english": "Eleison Imas and Je Nai Nan",
-    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ,Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
     "arabic": "إليسون إيماس وجي ناي نان"
+   },
+   "subtitle": {
+    "english": "Have mercy upon us"
    },
    "tags": [],
    "pending": false,
@@ -2964,8 +3121,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/eleison-imas-je-nai-nan.json",
-    "bytes": 2523,
-    "sha256": "ad60e94dc9fbc56b4af13246a4ae26bd955695c3b278fee9d852652e65d6d315"
+    "bytes": 2482,
+    "sha256": "60ebd7c88ba7d3eeaf94d09870ed7c78990ca774c100778c071ef7e733e279cd"
    }
   },
   {
@@ -3193,6 +3350,30 @@
     "url": "catalog/v1/texts/fourth-hoos.json",
     "bytes": 32904,
     "sha256": "4e99ff71ad1c37b3efac6ad4b9d814f7897dd8378dd483ee0a3e9f2e34b1a872"
+   }
+  },
+  {
+   "id": "fraction-lord-have-mercy-english",
+   "titles": {
+    "english": "Fraction - Lord have mercy",
+    "arabic": "يا ربُّ إرحَم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "fraction-lord-have-mercy-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/fraction-lord-have-mercy-english.json",
+    "bytes": 381,
+    "sha256": "4b8a5757141d576ce8e0d4ef5b1ea487838d692c6e36ab9e687a2b55165c6413"
    }
   },
   {
@@ -3572,6 +3753,54 @@
    }
   },
   {
+   "id": "institution-narrative-blood-amen-3x-english",
+   "titles": {
+    "english": "Institution Narrative (Blood) - Amen 3x",
+    "arabic": "آمين (3)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "institution-narrative-blood-amen-3x-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/institution-narrative-blood-amen-3x-english.json",
+    "bytes": 693,
+    "sha256": "409643f4ff931efddb76d4314f24af7dc82f9091111105471cd484f32b269d26"
+   }
+  },
+  {
+   "id": "institution-narrative-body-amen-3x-english",
+   "titles": {
+    "english": "Institution Narrative (Body) - Amen 3x",
+    "arabic": "آمين (3)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "institution-narrative-body-amen-3x-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/institution-narrative-body-amen-3x-english.json",
+    "bytes": 691,
+    "sha256": "78165aae00753774fa0b92fbe1979136fc5a68a6af7cd91196e4c2a5fe0a557e"
+   }
+  },
+  {
    "id": "intro-doxologies-annual",
    "titles": {
     "english": "Introduction to the Doxologies",
@@ -3602,6 +3831,102 @@
     "url": "catalog/v1/texts/intro-doxologies-annual.json",
     "bytes": 9435,
     "sha256": "c91bd2c730a670e6083d8ce401763caaffce3abc7db5afe7c6902e387377155f"
+   }
+  },
+  {
+   "id": "intro-to-fraction-amen-english",
+   "titles": {
+    "english": "Intro to Fraction - Amen",
+    "arabic": "آمين"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "intro-to-fraction-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/intro-to-fraction-amen-english.json",
+    "bytes": 313,
+    "sha256": "91d8b5f97676b0274dc828e068f63952064c4cb47f7db15ab2db4507a3228226"
+   }
+  },
+  {
+   "id": "intro-to-fraction-and-with-your-spirit-2-english",
+   "titles": {
+    "english": "Intro to Fraction - And with Your Spirit",
+    "arabic": "ولروحك أيضاً"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "intro-to-fraction-and-with-your-spirit-2-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/intro-to-fraction-and-with-your-spirit-2-english.json",
+    "bytes": 428,
+    "sha256": "05781f5d5d9449a411432f08904e94eea4ac933e8c005232289da8644c0d272a"
+   }
+  },
+  {
+   "id": "intro-to-fraction-and-with-your-spirit-english",
+   "titles": {
+    "english": "Intro to Fraction - And with Your Spirit",
+    "arabic": "ولروحك أيضاً"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "intro-to-fraction-and-with-your-spirit-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/intro-to-fraction-and-with-your-spirit-english.json",
+    "bytes": 426,
+    "sha256": "e2e2dab23b62e5b8b77b3a8c3fee1e2774765e7c417dc611892e8fa83b107eb4"
+   }
+  },
+  {
+   "id": "intro-to-fraction-lord-have-mercy-english",
+   "titles": {
+    "english": "Intro to Fraction - Lord have mercy",
+    "arabic": "يا ربُّ إرحَم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "intro-to-fraction-lord-have-mercy-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/intro-to-fraction-lord-have-mercy-english.json",
+    "bytes": 399,
+    "sha256": "2097c08ab1622ccc1fb8b04c578d0b170cb50208cd471a381d2f4aff0d005015"
    }
   },
   {
@@ -3845,6 +4170,37 @@
    }
   },
   {
+   "id": "lord-have-mercy-3x-english",
+   "titles": {
+    "english": "Lord have mercy (3x)",
+    "arabic": "يا ربُّ إرحَم (3)",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+   },
+   "subtitle": {
+    "english": "Kirie ele-eeson"
+   },
+   "aka": [
+    "Lord have mercy 3x"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "lord-have-mercy-3x-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/lord-have-mercy-3x-english.json",
+    "bytes": 874,
+    "sha256": "5c820b63a30b4ddb89c1d9f9c8b38519052d21e4a6b5a8b2808d2a05c1f11d4f"
+   }
+  },
+  {
    "id": "morning-doxology",
    "titles": {
     "english": "Morning Doxology",
@@ -3883,6 +4239,30 @@
     "url": "catalog/v1/texts/morning-doxology.json",
     "bytes": 62125,
     "sha256": "4e7ad989d6405b97b495d31677cd1b280d20b46b9ea3a185bc9459b82eb78dda"
+   }
+  },
+  {
+   "id": "nature-litany-lord-have-mercy-3x-english",
+   "titles": {
+    "english": "Nature Litany - Lord have mercy 3x",
+    "arabic": "يا ربُّ إرحَم (3)"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "nature-litany-lord-have-mercy-3x-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/nature-litany-lord-have-mercy-3x-english.json",
+    "bytes": 845,
+    "sha256": "d9cc1c84ab1b458ff6a0fa4ad6e867da87d4434da64a7e3e0bbbb6e9d567b6a7"
    }
   },
   {
@@ -3948,6 +4328,30 @@
     "url": "catalog/v1/texts/nim-ghar.json",
     "bytes": 13033,
     "sha256": "6d0349f1d658db9ded41e74d560d6cb210dcfce930d06302fed04588de81f149"
+   }
+  },
+  {
+   "id": "oblations-litany-lord-have-mercy-english",
+   "titles": {
+    "english": "Oblations Litany - Lord have mercy",
+    "arabic": "يا ربُّ إرحَم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "oblations-litany-lord-have-mercy-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/oblations-litany-lord-have-mercy-english.json",
+    "bytes": 397,
+    "sha256": "2e333e41ffbe71b39a92501b52f544fc8b3cba0424d1b5649a061cc33ce96712"
    }
   },
   {
@@ -4525,12 +4929,80 @@
    }
   },
   {
+   "id": "reconciliation-prayer-and-with-your-spirit-english",
+   "titles": {
+    "english": "And with Your Spirit",
+    "arabic": "ولروحك أيضاً",
+    "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
+   },
+   "subtitle": {
+    "english": "Ke to epnevmati sou"
+   },
+   "aka": [
+    "Reconciliation Prayer - And with Your Spirit"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "reconciliation-prayer-and-with-your-spirit-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/reconciliation-prayer-and-with-your-spirit-english.json",
+    "bytes": 466,
+    "sha256": "40ce093f94dde82160109525f72f2a1c80e25f86ab298b0f3027875a08d92095"
+   }
+  },
+  {
+   "id": "reconciliation-prayer-lord-have-mercy-english",
+   "titles": {
+    "english": "Lord have mercy",
+    "arabic": "يا ربُّ إرحَم",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+   },
+   "subtitle": {
+    "english": "Kirie ele-eeson"
+   },
+   "aka": [
+    "Reconciliation Prayer - Lord have mercy"
+   ],
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "reconciliation-prayer-lord-have-mercy-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/reconciliation-prayer-lord-have-mercy-english.json",
+    "bytes": 440,
+    "sha256": "251ca3cd5f9d5989f86d1d588125b6957d6cadadfef266f489257d62e14993a4"
+   }
+  },
+  {
    "id": "reconciliation-response-basil",
    "titles": {
-    "english": "Reconciliation Prayer Response, St. Basil",
+    "english": "Reconciliation Response (St. Basil)",
     "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ",
-    "arabic": "مرد صلاة الصلح من القداس الباسيلي"
+    "arabic": "بشفاعات والدة الاله"
    },
+   "subtitle": {
+    "english": "Through the intercessions"
+   },
+   "aka": [
+    "Reconciliation Prayer Response, St. Basil"
+   ],
    "tags": [],
    "pending": false,
    "lines": 3,
@@ -4547,8 +5019,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/reconciliation-response-basil.json",
-    "bytes": 3040,
-    "sha256": "0bef1ade37bc5f49d8a12ab5140d9752072bc7c194be9141adcdf3ec19f3dbad"
+    "bytes": 3009,
+    "sha256": "a23fa465d71f1131b4193a69741b8a958004765d62c4b204bb0ef27c04c5ce74"
    }
   },
   {
@@ -4578,7 +5050,11 @@
    "id": "response-again-i-believe-amen",
    "titles": {
     "english": "Again, I believe. Amen",
-    "arabic": "وأيضاً أؤمن"
+    "arabic": "وأيضاً أؤمن",
+    "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ϯⲛⲁϩϯ"
+   },
+   "subtitle": {
+    "english": "Ke palin tinahti"
    },
    "tags": [],
    "pending": false,
@@ -4596,8 +5072,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-again-i-believe-amen.json",
-    "bytes": 540,
-    "sha256": "46499a7cedae339f861d78b44b77f639173d61c48bb9942be16d1374f6a9827f"
+    "bytes": 591,
+    "sha256": "2e2b57add1156dd0683bb2da4abd912ede7405dbaea117d9799b47915cb5de53"
    }
   },
   {
@@ -4617,10 +5093,6 @@
    ],
    "recordings": [
     "response-amen",
-    "anaphora-amen-english",
-    "confession-first-amen-english",
-    "confession-second-amen-english",
-    "intro-to-fraction-amen-english",
     "response-amen-arabic"
    ],
    "file": {
@@ -4646,8 +5118,6 @@
    ],
    "recordings": [
     "response-amen-3x",
-    "institution-narrative-blood-amen-3x-english",
-    "institution-narrative-body-amen-3x-english",
     "response-amen-3x-arabic"
    ],
    "file": {
@@ -4685,9 +5155,13 @@
   {
    "id": "response-anaphora-according-to-your-mercy",
    "titles": {
-    "english": "Anaphora - According to Your mercy",
-    "arabic": "الأنافورا - كرحمتك يا رب"
+    "english": "According to Your mercy",
+    "arabic": "كرحمتك يا رب",
+    "coptic": "Ⲕⲁⲧⲁ ⲧⲟ ⲉ̀ⲗⲉⲟⲥ"
    },
+   "aka": [
+    "Anaphora - According to Your mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 2,
@@ -4704,16 +5178,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-anaphora-according-to-your-mercy.json",
-    "bytes": 751,
-    "sha256": "384c4a5af1e6c846da1233f8c1bb094dd9a864f9adbe77270e3a8b2619e6b147"
+    "bytes": 772,
+    "sha256": "b9427cd85757ceeebd404948969cc717990e72dc45c4965c0b94569a02a9b169"
    }
   },
   {
    "id": "response-anaphora-amen-i-believe",
    "titles": {
-    "english": "Anaphora - Amen, I believe",
-    "arabic": "الأنافورا - حقاً. أؤمن"
+    "english": "Amen, I believe",
+    "arabic": "حقاً. أؤمن",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ"
    },
+   "aka": [
+    "Anaphora - Amen, I believe"
+   ],
    "tags": [],
    "pending": false,
    "lines": 2,
@@ -4730,8 +5208,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-anaphora-amen-i-believe.json",
-    "bytes": 527,
-    "sha256": "e63499ace510dc92a7f48a0cf0f732a24eaba83b21e2c8734828b5abd50c0e11"
+    "bytes": 538,
+    "sha256": "d0c2cbb97ea01ade234ee38574adb8bdb742deac6bedcaa855a4afa5dd09fab7"
    }
   },
   {
@@ -4751,11 +5229,6 @@
    ],
    "recordings": [
     "response-and-with-your-spirit",
-    "and-with-your-spirit-2-english",
-    "and-with-your-spirit-english",
-    "intro-to-fraction-and-with-your-spirit-2-english",
-    "intro-to-fraction-and-with-your-spirit-english",
-    "reconciliation-prayer-and-with-your-spirit-english",
     "response-and-with-your-spirit-arabic"
    ],
    "file": {
@@ -4820,7 +5293,11 @@
    "id": "response-i-believe-amen",
    "titles": {
     "english": "I believe. Amen",
-    "arabic": "أؤمن."
+    "arabic": "أؤمن.",
+    "coptic": "Ϯⲛⲁϩϯ"
+   },
+   "subtitle": {
+    "english": "Tinahti"
    },
    "tags": [],
    "pending": false,
@@ -4838,8 +5315,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-i-believe-amen.json",
-    "bytes": 472,
-    "sha256": "02e770666390baf5ce45aae5bf358fb4bc607d41f2c8fe628d56cc835520f07f"
+    "bytes": 500,
+    "sha256": "fa87b38d3fa9788f5d4c16181089c829b909ae68ed1fca570b4e121e6162289b"
    }
   },
   {
@@ -5093,12 +5570,7 @@
    ],
    "recordings": [
     "response-lord-have-mercy",
-    "fraction-lord-have-mercy-english",
-    "intro-to-fraction-lord-have-mercy-english",
-    "oblations-litany-lord-have-mercy-english",
-    "reconciliation-prayer-lord-have-mercy-english",
-    "response-lord-have-mercy-arabic",
-    "seven-short-litanies-lord-have-mercy-english"
+    "response-lord-have-mercy-arabic"
    ],
    "file": {
     "url": "catalog/v1/texts/response-lord-have-mercy.json",
@@ -5123,8 +5595,6 @@
    ],
    "recordings": [
     "response-lord-have-mercy-3x",
-    "lord-have-mercy-3x-english",
-    "nature-litany-lord-have-mercy-3x-english",
     "response-lord-have-mercy-3x-arabic"
    ],
    "file": {
@@ -5163,7 +5633,11 @@
    "id": "response-we-praise-you",
    "titles": {
     "english": "We praise You",
-    "arabic": "نسبحك"
+    "arabic": "نسبحك",
+    "coptic": "Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ"
+   },
+   "subtitle": {
+    "english": "Tenhos erok tenesmou erok"
    },
    "tags": [],
    "pending": false,
@@ -5181,8 +5655,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-we-praise-you.json",
-    "bytes": 536,
-    "sha256": "c9f9f54c5aafd523ec3640870d9f1359aab28d8e2c13fe53f3a037c2debb453f"
+    "bytes": 608,
+    "sha256": "2023a5aa271da0b5dfc6b35ef8cd2f9c0b8e0d8b3b4239949d7095f5da754821"
    }
   },
   {
@@ -5376,6 +5850,30 @@
     "url": "catalog/v1/texts/semoti.json",
     "bytes": 6926,
     "sha256": "6ff5d31bf3f0110cba32c37dd2353cb7519ec2ee46b32d9665fe206e7529e578"
+   }
+  },
+  {
+   "id": "seven-short-litanies-lord-have-mercy-english",
+   "titles": {
+    "english": "Seven Short Litanies - Lord have mercy",
+    "arabic": "يا ربُّ إرحَم"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "seven-short-litanies-lord-have-mercy-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/seven-short-litanies-lord-have-mercy-english.json",
+    "bytes": 405,
+    "sha256": "7c542138313caf9f7e05de3eb516d6246b59ee0618d9266548fd3fc3a5c596d9"
    }
   },
   {
@@ -6058,7 +6556,6 @@
    ],
    "recordings": [
     "ten-oosht-evol-basil",
-    "ten-oosht-evol-english-chie",
     "we-look-for-the-resurrection-english"
    ],
    "file": {
@@ -6123,7 +6620,8 @@
     "english"
    ],
    "recordings": [
-    "ten-oosht-evol-vespers-matins"
+    "ten-oosht-evol-vespers-matins",
+    "ten-oosht-evol-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-oosht-evol-vespers-matins.json",
@@ -7316,7 +7814,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/331",
    "tune": {
-    "english": "St. Basil Liturgy - English · Anaphora"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7338,16 +7836,16 @@
   },
   {
    "id": "anaphora-amen-english",
-   "text": "response-amen",
+   "text": "anaphora-amen-english",
    "duration": 21.22,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "St. Basil Liturgy - English · Anaphora"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7355,8 +7853,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-amen-english.json",
-     "bytes": 84,
-     "sha256": "5bb0237059b34cbbc369d29b61bd1baef54be085939fe49ca9403acb4ba03770",
+     "bytes": 92,
+     "sha256": "b1594668329ff3191b5b8d3b3a7357d26a593db389e9746a6598b22959ba3029",
      "role": "timing"
     },
     {
@@ -7378,7 +7876,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2624",
    "tune": {
-    "english": "St. Basil Liturgy - English · Anaphora"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -7495,7 +7993,7 @@
    },
    "source": "https://www.coptichymnsinenglish.com/album/50/track/710",
    "tune": {
-    "english": "English · Coptic Hymns in English"
+    "english": "St. Gregory Liturgy - English · Coptic Hymns in English"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
@@ -7576,12 +8074,12 @@
   },
   {
    "id": "and-with-your-spirit-2-english",
-   "text": "response-and-with-your-spirit",
+   "text": "and-with-your-spirit-2-english",
    "duration": 10.52,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
@@ -7593,8 +8091,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/and-with-your-spirit-2-english.json",
-     "bytes": 109,
-     "sha256": "751a7b0ec4c526e27a56fd6d013cf910712a8c710cea2e1c1999c6523929cf08",
+     "bytes": 110,
+     "sha256": "bd86c2cca3b740e6227b5066992ee6fc5cd3746d82c4624b3bd94170890f68aa",
      "role": "timing"
     },
     {
@@ -7607,12 +8105,12 @@
   },
   {
    "id": "and-with-your-spirit-english",
-   "text": "response-and-with-your-spirit",
+   "text": "and-with-your-spirit-english",
    "duration": 10.91,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
@@ -7624,8 +8122,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/and-with-your-spirit-english.json",
-     "bytes": 107,
-     "sha256": "d0bd321b8634cdf544f2fcea076a7e757dde77f7f82f04ce2c4911952ce19968",
+     "bytes": 106,
+     "sha256": "ed813b1bd8f7a0cf6de2ef99901a0589b59e4afce4a3c21c72ec89bcfe5df44f",
      "role": "timing"
     },
     {
@@ -8612,12 +9110,12 @@
   },
   {
    "id": "confession-first-amen-english",
-   "text": "response-amen",
+   "text": "confession-first-amen-english",
    "duration": 29.63,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
@@ -8629,8 +9127,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/confession-first-amen-english.json",
-     "bytes": 92,
-     "sha256": "76c236ae023d2a86ea887b88ea7ce01f4edbbc8c8f5f4c13f9c841e9c77f6c11",
+     "bytes": 108,
+     "sha256": "54ad74a9e81e5fc28bde9a0bbbabdfafd4663d322828885ce663d7e40b360203",
      "role": "timing"
     },
     {
@@ -8643,12 +9141,12 @@
   },
   {
    "id": "confession-second-amen-english",
-   "text": "response-amen",
+   "text": "confession-second-amen-english",
    "duration": 45.72,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
@@ -8660,8 +9158,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/confession-second-amen-english.json",
-     "bytes": 93,
-     "sha256": "b80d44b74166abb44b879b2cf384f4ef08902a49e7a961fd065c03191c2420f2",
+     "bytes": 110,
+     "sha256": "926cb90ebe1f1a270118c2bc053e03fe9148fa570ef143d55addad97529b42ce",
      "role": "timing"
     },
     {
@@ -9751,12 +10249,12 @@
   },
   {
    "id": "fraction-lord-have-mercy-english",
-   "text": "response-lord-have-mercy",
+   "text": "fraction-lord-have-mercy-english",
    "duration": 26.05,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
@@ -9768,8 +10266,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/fraction-lord-have-mercy-english.json",
-     "bytes": 106,
-     "sha256": "9bf2b353764addeb2b463ac91044db0eeabbf13d93f808a5dbeb5bea8f6c0ca8",
+     "bytes": 114,
+     "sha256": "f556d38b886ce11d33e9cf3ecd9441bd30fedd7ac1c56dde547bc1bf434c43a9",
      "role": "timing"
     },
     {
@@ -10456,12 +10954,12 @@
   },
   {
    "id": "institution-narrative-blood-amen-3x-english",
-   "text": "response-amen-3x",
+   "text": "institution-narrative-blood-amen-3x-english",
    "duration": 42.38,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
    "tune": {
@@ -10473,8 +10971,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-blood-amen-3x-english.json",
-     "bytes": 109,
-     "sha256": "1ad4cd8e04965495a2a7fa2556d633a47d4304140c3c73bb3047a9c0414221f5",
+     "bytes": 136,
+     "sha256": "5f4cb85309b777c182157b75b23fd6895ef440306be18e1aa9a09dc56371398c",
      "role": "timing"
     },
     {
@@ -10518,12 +11016,12 @@
   },
   {
    "id": "institution-narrative-body-amen-3x-english",
-   "text": "response-amen-3x",
+   "text": "institution-narrative-body-amen-3x-english",
    "duration": 43.31,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
    "tune": {
@@ -10535,8 +11033,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-body-amen-3x-english.json",
-     "bytes": 108,
-     "sha256": "fdccedea8d0199198f80c4a6a80b565d34f4fb0216074d22e71925ef08065a8d",
+     "bytes": 134,
+     "sha256": "e0445be70f60e7cd63a880fae1464d949f1890655e41f8b5034e2a627e579931",
      "role": "timing"
     },
     {
@@ -10751,12 +11249,12 @@
   },
   {
    "id": "intro-to-fraction-amen-english",
-   "text": "response-amen",
+   "text": "intro-to-fraction-amen-english",
    "duration": 29.93,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
@@ -10768,8 +11266,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/intro-to-fraction-amen-english.json",
-     "bytes": 93,
-     "sha256": "fceae3089f661d978619eca043acf48674a9673a6d5c8d66742b7804e321862b",
+     "bytes": 110,
+     "sha256": "43c42e7c4d8a4fe0a5b1e6fb1ab9994706049c84908817ab2e8f16a1e09503bd",
      "role": "timing"
     },
     {
@@ -10782,12 +11280,12 @@
   },
   {
    "id": "intro-to-fraction-and-with-your-spirit-2-english",
-   "text": "response-and-with-your-spirit",
+   "text": "intro-to-fraction-and-with-your-spirit-2-english",
    "duration": 19.02,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
@@ -10799,8 +11297,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/intro-to-fraction-and-with-your-spirit-2-english.json",
-     "bytes": 127,
-     "sha256": "2f39e69b1c151808651521aa04b3454230748393ed13c3e72b757e672439a28c",
+     "bytes": 146,
+     "sha256": "c7ae4d119df75de12e57421b3042c7b9edb7f294e2221b4a67fb36e9c9928cdf",
      "role": "timing"
     },
     {
@@ -10813,12 +11311,12 @@
   },
   {
    "id": "intro-to-fraction-and-with-your-spirit-english",
-   "text": "response-and-with-your-spirit",
+   "text": "intro-to-fraction-and-with-your-spirit-english",
    "duration": 18.99,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
@@ -10830,8 +11328,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/intro-to-fraction-and-with-your-spirit-english.json",
-     "bytes": 125,
-     "sha256": "eb592ca2b06ac8eb6af421711b454ac8a31446e774b80d673a551e497a4a0b0a",
+     "bytes": 142,
+     "sha256": "e63553957c2df5b1bae2ff6176dde2fee875c45113a6f1e8041c966fbba1d902",
      "role": "timing"
     },
     {
@@ -10875,12 +11373,12 @@
   },
   {
    "id": "intro-to-fraction-lord-have-mercy-english",
-   "text": "response-lord-have-mercy",
+   "text": "intro-to-fraction-lord-have-mercy-english",
    "duration": 10.17,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
@@ -10892,8 +11390,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/intro-to-fraction-lord-have-mercy-english.json",
-     "bytes": 115,
-     "sha256": "e2241b2c3706b6e4a616c53eba1dc418856d92d6fba37922e6e007ee76649cb5",
+     "bytes": 132,
+     "sha256": "6d717735a358a2bf9c5c7e75e1e5a0b6af349ad096493c484c74c173e1c81fe0",
      "role": "timing"
     },
     {
@@ -11328,16 +11826,16 @@
   },
   {
    "id": "lord-have-mercy-3x-english",
-   "text": "response-lord-have-mercy-3x",
+   "text": "lord-have-mercy-3x-english",
    "duration": 14.7,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
    "tune": {
-    "english": "St. Basil Liturgy - English · after “Again, I believe. Amen”"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11345,8 +11843,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/lord-have-mercy-3x-english.json",
-     "bytes": 103,
-     "sha256": "66d6d2845e634fac19fbb70e3cae4c4fb6d1d9f27760c17748a28c693de66311",
+     "bytes": 102,
+     "sha256": "f2baba3465a1d7318e9cadf0b155069ae87cb5686bf79ab33ed3e60b487ef2e1",
      "role": "timing"
     },
     {
@@ -11508,12 +12006,12 @@
   },
   {
    "id": "nature-litany-lord-have-mercy-3x-english",
-   "text": "response-lord-have-mercy-3x",
+   "text": "nature-litany-lord-have-mercy-3x-english",
    "duration": 15.51,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
    "tune": {
@@ -11525,8 +12023,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/nature-litany-lord-have-mercy-3x-english.json",
-     "bytes": 117,
-     "sha256": "ecdd9dc640d07498394ac4b4584f7318c12005210883f01124cdccd093bb6f4e",
+     "bytes": 130,
+     "sha256": "81f74e9ba27694795530772b826dba2d8405285a9d08eddb939b5ebc3ba054e3",
      "role": "timing"
     },
     {
@@ -11621,12 +12119,12 @@
   },
   {
    "id": "oblations-litany-lord-have-mercy-english",
-   "text": "response-lord-have-mercy",
+   "text": "oblations-litany-lord-have-mercy-english",
    "duration": 15.39,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
@@ -11638,8 +12136,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/oblations-litany-lord-have-mercy-english.json",
-     "bytes": 114,
-     "sha256": "85b4f78259f8006c07ce609ae82ea2f62147dcd772f6cd02e80d11a6dc4cd5c8",
+     "bytes": 130,
+     "sha256": "d7ec1922d94c14e2112d52525d1cb0713927fd75186dd5474075b583b03c05a7",
      "role": "timing"
     },
     {
@@ -12623,16 +13121,16 @@
   },
   {
    "id": "reconciliation-prayer-and-with-your-spirit-english",
-   "text": "response-and-with-your-spirit",
+   "text": "reconciliation-prayer-and-with-your-spirit-english",
    "duration": 15.63,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "St. Basil Liturgy - English · Reconciliation Prayer"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12640,8 +13138,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/reconciliation-prayer-and-with-your-spirit-english.json",
-     "bytes": 129,
-     "sha256": "28e09b5515797ccb919929862fff3bbf5a200798fc32f11631d21dd7e4a78188",
+     "bytes": 150,
+     "sha256": "6d16118c9e87c869dbf96c7d8386ae678dfeb1fae520e624df940a5820ac8347",
      "role": "timing"
     },
     {
@@ -12654,16 +13152,16 @@
   },
   {
    "id": "reconciliation-prayer-lord-have-mercy-english",
-   "text": "response-lord-have-mercy",
+   "text": "reconciliation-prayer-lord-have-mercy-english",
    "duration": 14.16,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "St. Basil Liturgy - English · Reconciliation Prayer"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12671,8 +13169,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/reconciliation-prayer-lord-have-mercy-english.json",
-     "bytes": 119,
-     "sha256": "e4777dbfd9661bc01eaf194a9d3ef99c874e529a54001a6a4e9d77bd37c9add9",
+     "bytes": 140,
+     "sha256": "591b9248938ea2e09909d41fb3f97afac9d7d609ee05a935cb52395bf54d70a3",
      "role": "timing"
     },
     {
@@ -14179,12 +14677,12 @@
   },
   {
    "id": "seven-short-litanies-lord-have-mercy-english",
-   "text": "response-lord-have-mercy",
+   "text": "seven-short-litanies-lord-have-mercy-english",
    "duration": 10.38,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
@@ -14196,8 +14694,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/seven-short-litanies-lord-have-mercy-english.json",
-     "bytes": 118,
-     "sha256": "4004435c94e2481fb9237005317d1921bbc764cf1ff086573f05749aaa2b5f42",
+     "bytes": 138,
+     "sha256": "f03d06f84d1f331a80953b719d22dbceaa0c19003be3c429557c400c9d21693c",
      "role": "timing"
     },
     {
@@ -15299,7 +15797,7 @@
   },
   {
    "id": "ten-oosht-evol-english-chie",
-   "text": "ten-oosht-evol-basil",
+   "text": "ten-oosht-evol-vespers-matins",
    "duration": 30.06,
    "timing": {
     "lines": 0,
@@ -15315,8 +15813,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-english-chie.json",
-     "bytes": 97,
-     "sha256": "fbcdc886f89fcc0c352a00ea5895706a1e54aa74e98f15b2112dae986cbe39c1",
+     "bytes": 106,
+     "sha256": "21c9f87e3b222337b45b91beeb9ba8732c7a3034e1a23cbb08f8bcd0bae5f8ba",
      "role": "timing"
     },
     {
