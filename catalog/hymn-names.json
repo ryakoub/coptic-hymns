@@ -559,16 +559,16 @@
   "arabic": "لحن طاي شوري السنوي"
  },
  "ten-oosht-evol-basil": {
-  "name": "Ten Ge-osht Evol (St. Basil)",
+  "name": "Conclusion of Creed (St. Basil)",
   "says": "We look for the resurrection",
   "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ",
-  "arabic": "مرد تين جوشت إيفول"
+  "arabic": "مرد تين جوشت إيفول (الباسيلي)"
  },
  "ten-oosht-evol-gregory": {
-  "name": "Ten Ge-osht Evol (St. Gregory)",
+  "name": "Conclusion of Creed (St. Gregory)",
   "says": "We look for the resurrection",
   "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ",
-  "arabic": "مرد تين جوشت إيفول"
+  "arabic": "مرد تين جوشت إيفول (الغريغوري)"
  },
  "ten-oosht-evol-vespers-matins": {
   "name": "Conclusion of Creed",

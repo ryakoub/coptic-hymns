@@ -1,6 +1,6 @@
 {
- "version": "f21feeb2b4bb862a",
- "updated": "2026-11-06T02:15:21Z",
+ "version": "214999289a5b1a94",
+ "updated": "2026-11-06T02:23:34Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -6937,8 +6937,8 @@
   {
    "id": "ten-oosht-evol-basil",
    "titles": {
-    "english": "Ten Ge-osht Evol (St. Basil)",
-    "arabic": "مرد تين جوشت إيفول",
+    "english": "Conclusion of Creed (St. Basil)",
+    "arabic": "مرد تين جوشت إيفول (الباسيلي)",
     "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ"
    },
    "subtitle": {
@@ -6970,15 +6970,15 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-oosht-evol-basil.json",
-    "bytes": 1197,
-    "sha256": "73e07cf31de8fa946a8a132eca7efd1e9de15453ea46cddf79c89b5c58d8aa9e"
+    "bytes": 1219,
+    "sha256": "00e3f8b1d83e12d6c8059beeb12e23f718541cf559c385bf7e2ab09760187970"
    }
   },
   {
    "id": "ten-oosht-evol-gregory",
    "titles": {
-    "english": "Ten Ge-osht Evol (St. Gregory)",
-    "arabic": "مرد تين جوشت إيفول",
+    "english": "Conclusion of Creed (St. Gregory)",
+    "arabic": "مرد تين جوشت إيفول (الغريغوري)",
     "coptic": "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ"
    },
    "subtitle": {
@@ -7002,8 +7002,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ten-oosht-evol-gregory.json",
-    "bytes": 1201,
-    "sha256": "38259374f9901f8f462bbad4cf612c6bf83b4aeb18f9941cefd64b78e51d2769"
+    "bytes": 1225,
+    "sha256": "e65b0990af535bb038d7ed7a76bd040a5aec2f8ac2a53f046aa2a0e81ca6a193"
    }
   },
   {
