@@ -1,6 +1,6 @@
 {
- "version": "214999289a5b1a94",
- "updated": "2026-11-06T02:23:34Z",
+ "version": "05baccb7127e87eb",
+ "updated": "2026-11-06T02:28:50Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -5384,8 +5384,7 @@
    ],
    "recordings": [
     "response-again-i-believe-amen",
-    "again-i-believe-amen-english",
-    "response-again-i-believe-amen-arabic"
+    "again-i-believe-amen-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-again-i-believe-amen.json",
@@ -5410,8 +5409,7 @@
     "english"
    ],
    "recordings": [
-    "response-amen",
-    "response-amen-arabic"
+    "response-amen"
    ],
    "file": {
     "url": "catalog/v1/texts/response-amen.json",
@@ -5436,8 +5434,7 @@
     "english"
    ],
    "recordings": [
-    "response-amen-3x",
-    "response-amen-3x-arabic"
+    "response-amen-3x"
    ],
    "file": {
     "url": "catalog/v1/texts/response-amen-3x.json",
@@ -5464,8 +5461,7 @@
    ],
    "recordings": [
     "response-amen-lord-have-mercy-3x",
-    "amen-lord-have-mercy-3x-english",
-    "response-amen-lord-have-mercy-3x-arabic"
+    "amen-lord-have-mercy-3x-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-amen-lord-have-mercy-3x.json",
@@ -5495,8 +5491,7 @@
    ],
    "recordings": [
     "response-anaphora-according-to-your-mercy",
-    "anaphora-according-to-your-mercy-english",
-    "response-anaphora-according-to-your-mercy-arabic"
+    "anaphora-according-to-your-mercy-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-anaphora-according-to-your-mercy.json",
@@ -5526,8 +5521,7 @@
    ],
    "recordings": [
     "response-anaphora-amen-i-believe",
-    "anaphora-amen-i-believe-english",
-    "response-anaphora-amen-i-believe-arabic"
+    "anaphora-amen-i-believe-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-anaphora-amen-i-believe.json",
@@ -5552,8 +5546,7 @@
     "english"
    ],
    "recordings": [
-    "response-and-with-your-spirit",
-    "response-and-with-your-spirit-arabic"
+    "response-and-with-your-spirit"
    ],
    "file": {
     "url": "catalog/v1/texts/response-and-with-your-spirit.json",
@@ -5580,8 +5573,7 @@
    ],
    "recordings": [
     "response-before-you-o-lord",
-    "before-you-o-lord-english",
-    "response-before-you-o-lord-arabic"
+    "before-you-o-lord-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-before-you-o-lord.json",
@@ -5611,8 +5603,7 @@
    ],
    "recordings": [
     "response-confession-amen-i-believe",
-    "confession-amen-i-believe-english",
-    "response-confession-amen-i-believe-arabic"
+    "confession-amen-i-believe-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-confession-amen-i-believe.json",
@@ -5642,8 +5633,7 @@
    ],
    "recordings": [
     "response-i-believe-amen",
-    "i-believe-amen-english",
-    "response-i-believe-amen-arabic"
+    "i-believe-amen-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-i-believe-amen.json",
@@ -5670,8 +5660,7 @@
    ],
    "recordings": [
     "response-in-christ-jesus-our-lord",
-    "in-christ-jesus-our-lord-english",
-    "response-in-christ-jesus-our-lord-arabic"
+    "in-christ-jesus-our-lord-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-in-christ-jesus-our-lord.json",
@@ -5701,8 +5690,7 @@
    ],
    "recordings": [
     "response-institution-narrative-blood-again-we-believe-we-confess",
-    "institution-narrative-blood-again-we-believe-we-confess-english",
-    "response-institution-narrative-blood-again-we-believe-we-confess-arabic"
+    "institution-narrative-blood-again-we-believe-we-confess-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-blood-again-we-believe-we-confess.json",
@@ -5732,8 +5720,7 @@
    ],
    "recordings": [
     "response-institution-narrative-blood-this-is-also-true-amen",
-    "institution-narrative-blood-this-is-also-true-amen-english",
-    "response-institution-narrative-blood-this-is-also-true-amen-arabic"
+    "institution-narrative-blood-this-is-also-true-amen-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-blood-this-is-also-true-amen.json",
@@ -5763,8 +5750,7 @@
    ],
    "recordings": [
     "response-institution-narrative-body-this-is-true-amen",
-    "institution-narrative-body-this-is-true-english",
-    "response-institution-narrative-body-this-is-true-amen-arabic"
+    "institution-narrative-body-this-is-true-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-body-this-is-true-amen.json",
@@ -5794,8 +5780,7 @@
    ],
    "recordings": [
     "response-institution-narrative-body-we-believe-that-this-is-true-amen",
-    "institution-narrative-body-we-believe-that-this-is-true-amen-english",
-    "response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic"
+    "institution-narrative-body-we-believe-that-this-is-true-amen-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-body-we-believe-that-this-is-true-amen.json",
@@ -5825,8 +5810,7 @@
    ],
    "recordings": [
     "response-institution-narrative-body-we-believe-we-confess",
-    "institution-narrative-body-we-believe-we-confess-english",
-    "response-institution-narrative-body-we-believe-we-confess-arabic"
+    "institution-narrative-body-we-believe-we-confess-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-body-we-believe-we-confess.json",
@@ -5856,8 +5840,7 @@
    ],
    "recordings": [
     "response-institution-narrative-truly-we-believe",
-    "institution-narrative-truly-we-believe-english",
-    "response-institution-narrative-truly-we-believe-arabic"
+    "institution-narrative-truly-we-believe-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-truly-we-believe.json",
@@ -5887,8 +5870,7 @@
    ],
    "recordings": [
     "response-intro-to-fraction-and-your-precious-blood",
-    "intro-to-fraction-and-your-precious-blood-english",
-    "response-intro-to-fraction-and-your-precious-blood-arabic"
+    "intro-to-fraction-and-your-precious-blood-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-intro-to-fraction-and-your-precious-blood.json",
@@ -5918,8 +5900,7 @@
    ],
    "recordings": [
     "response-intro-to-fraction-we-worship-your-holy-body",
-    "intro-to-fraction-we-worship-your-holy-body-english",
-    "response-intro-to-fraction-we-worship-your-holy-body-arabic"
+    "intro-to-fraction-we-worship-your-holy-body-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-intro-to-fraction-we-worship-your-holy-body.json",
@@ -5944,8 +5925,7 @@
     "english"
    ],
    "recordings": [
-    "response-lord-have-mercy",
-    "response-lord-have-mercy-arabic"
+    "response-lord-have-mercy"
    ],
    "file": {
     "url": "catalog/v1/texts/response-lord-have-mercy.json",
@@ -5970,8 +5950,7 @@
     "english"
    ],
    "recordings": [
-    "response-lord-have-mercy-3x",
-    "response-lord-have-mercy-3x-arabic"
+    "response-lord-have-mercy-3x"
    ],
    "file": {
     "url": "catalog/v1/texts/response-lord-have-mercy-3x.json",
@@ -5998,8 +5977,7 @@
    ],
    "recordings": [
     "response-one-is-the-all-holy-father",
-    "one-is-the-all-holy-father-english",
-    "response-one-is-the-all-holy-father-arabic"
+    "one-is-the-all-holy-father-english"
    ],
    "file": {
     "url": "catalog/v1/texts/response-one-is-the-all-holy-father.json",
@@ -6029,7 +6007,6 @@
    ],
    "recordings": [
     "response-we-praise-you",
-    "response-we-praise-you-arabic",
     "we-praise-you-english"
    ],
    "file": {
@@ -13846,26 +13823,6 @@
    ]
   },
   {
-   "id": "response-again-i-believe-amen-arabic",
-   "text": "response-again-i-believe-amen",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-again-i-believe-amen-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-again-i-believe-amen-arabic.json",
-     "bytes": 115,
-     "sha256": "973e7708f817563bc98519c4a854d0c27f8d0d7479d1e9fa2db34e2cd42424cd",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-amen",
    "text": "response-amen",
    "duration": null,
@@ -13906,46 +13863,6 @@
    ]
   },
   {
-   "id": "response-amen-3x-arabic",
-   "text": "response-amen-3x",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-amen-3x-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-amen-3x-arabic.json",
-     "bytes": 89,
-     "sha256": "bbc92488608c6ddf2ff9e942a575125e09394522a3824f4a33f23633ce5cfaee",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-amen-arabic",
-   "text": "response-amen",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-amen-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-amen-arabic.json",
-     "bytes": 83,
-     "sha256": "93051e2f2891242dce7e14d58816d21b530bcb4647663afd1750c2a9408797aa",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-amen-lord-have-mercy-3x",
    "text": "response-amen-lord-have-mercy-3x",
    "duration": null,
@@ -13961,26 +13878,6 @@
      "url": "catalog/v1/timings/response-amen-lord-have-mercy-3x.json",
      "bytes": 114,
      "sha256": "37f6ca0f35d6a24b14c4b106cf9b3543c4e70a9305036cfc4b4563b418a4e7d3",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-amen-lord-have-mercy-3x-arabic",
-   "text": "response-amen-lord-have-mercy-3x",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-amen-lord-have-mercy-3x-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-amen-lord-have-mercy-3x-arabic.json",
-     "bytes": 121,
-     "sha256": "a1b90444ce4b07b746b3dcddbf99ba515ce526751f5885db26470910a3a3be4b",
      "role": "timing"
     }
    ]
@@ -14006,26 +13903,6 @@
    ]
   },
   {
-   "id": "response-anaphora-according-to-your-mercy-arabic",
-   "text": "response-anaphora-according-to-your-mercy",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-anaphora-according-to-your-mercy-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-anaphora-according-to-your-mercy-arabic.json",
-     "bytes": 139,
-     "sha256": "ad3bf77d77c8e60174cb9169ede241bc7aab4f653cb38bd5a0fc86aaa464e991",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-anaphora-amen-i-believe",
    "text": "response-anaphora-amen-i-believe",
    "duration": null,
@@ -14041,26 +13918,6 @@
      "url": "catalog/v1/timings/response-anaphora-amen-i-believe.json",
      "bytes": 114,
      "sha256": "39d77ae814804292b47612e2b3c66bcd046be5e6a8bf4eae450cee7017f16b40",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-anaphora-amen-i-believe-arabic",
-   "text": "response-anaphora-amen-i-believe",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-anaphora-amen-i-believe-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-anaphora-amen-i-believe-arabic.json",
-     "bytes": 121,
-     "sha256": "2362ea2e22929e49528e6fe50771ac0be7ca3815e15e40704e345ea0b2056a8c",
      "role": "timing"
     }
    ]
@@ -14086,26 +13943,6 @@
    ]
   },
   {
-   "id": "response-and-with-your-spirit-arabic",
-   "text": "response-and-with-your-spirit",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-and-with-your-spirit-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-and-with-your-spirit-arabic.json",
-     "bytes": 115,
-     "sha256": "6dc12dae2aeb57cac9448da35ec8c79d6ed06be33d49bcd6165b5067821486c6",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-before-you-o-lord",
    "text": "response-before-you-o-lord",
    "duration": null,
@@ -14121,26 +13958,6 @@
      "url": "catalog/v1/timings/response-before-you-o-lord.json",
      "bytes": 102,
      "sha256": "6e6f90407d8594840bfe7294de7df24e5d66294e5682a396e4cd8861ab01a15c",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-before-you-o-lord-arabic",
-   "text": "response-before-you-o-lord",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-before-you-o-lord-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-before-you-o-lord-arabic.json",
-     "bytes": 109,
-     "sha256": "2503bdde7208f9af951ab134041b35a7240c8156452e34762d0c41280fc0cbc5",
      "role": "timing"
     }
    ]
@@ -14166,26 +13983,6 @@
    ]
   },
   {
-   "id": "response-confession-amen-i-believe-arabic",
-   "text": "response-confession-amen-i-believe",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-confession-amen-i-believe-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-confession-amen-i-believe-arabic.json",
-     "bytes": 125,
-     "sha256": "bd4beed1143d2e155b6bf4929bafb19ae0f402f0126c6eac28d297b6d6c104a3",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-i-believe-amen",
    "text": "response-i-believe-amen",
    "duration": null,
@@ -14201,26 +13998,6 @@
      "url": "catalog/v1/timings/response-i-believe-amen.json",
      "bytes": 96,
      "sha256": "d0b01086f69df2185f67542e25fe3a478b22e059713bfc6f8bb7dd04796ab020",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-i-believe-amen-arabic",
-   "text": "response-i-believe-amen",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-i-believe-amen-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-i-believe-amen-arabic.json",
-     "bytes": 103,
-     "sha256": "10defd5564bcb8a20a2bace363bbc565e0ccdfe94a90cafdc333b634ef204890",
      "role": "timing"
     }
    ]
@@ -14246,26 +14023,6 @@
    ]
   },
   {
-   "id": "response-in-christ-jesus-our-lord-arabic",
-   "text": "response-in-christ-jesus-our-lord",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-in-christ-jesus-our-lord-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-in-christ-jesus-our-lord-arabic.json",
-     "bytes": 123,
-     "sha256": "8e940a01d1c60b8c655d129d06c607a7bc6d1f432a0f4ea6843c20b130556f95",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-institution-narrative-blood-again-we-believe-we-confess",
    "text": "response-institution-narrative-blood-again-we-believe-we-confess",
    "duration": null,
@@ -14281,26 +14038,6 @@
      "url": "catalog/v1/timings/response-institution-narrative-blood-again-we-believe-we-confess.json",
      "bytes": 178,
      "sha256": "903326024586437bdff17b37d71e3cd544304b94aeeb5c6997b0d2e1fe70ee80",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-institution-narrative-blood-again-we-believe-we-confess-arabic",
-   "text": "response-institution-narrative-blood-again-we-believe-we-confess",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-institution-narrative-blood-again-we-believe-we-confess-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-institution-narrative-blood-again-we-believe-we-confess-arabic.json",
-     "bytes": 185,
-     "sha256": "4a032d951030ca8046d589db7afe5f681a9051943e974a7bf71914db1ac2dc53",
      "role": "timing"
     }
    ]
@@ -14326,26 +14063,6 @@
    ]
   },
   {
-   "id": "response-institution-narrative-blood-this-is-also-true-amen-arabic",
-   "text": "response-institution-narrative-blood-this-is-also-true-amen",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-institution-narrative-blood-this-is-also-true-amen-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-institution-narrative-blood-this-is-also-true-amen-arabic.json",
-     "bytes": 175,
-     "sha256": "992a47caf9b46d5fe5006b58a2ae32818cd12b13d6a6705d4b8f22726d3032ad",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-institution-narrative-body-this-is-true-amen",
    "text": "response-institution-narrative-body-this-is-true-amen",
    "duration": null,
@@ -14361,26 +14078,6 @@
      "url": "catalog/v1/timings/response-institution-narrative-body-this-is-true-amen.json",
      "bytes": 156,
      "sha256": "6c7fdc70950cc96e298ea391647392bf530c571300ded4f1324cf9488c528900",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-institution-narrative-body-this-is-true-amen-arabic",
-   "text": "response-institution-narrative-body-this-is-true-amen",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-institution-narrative-body-this-is-true-amen-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-institution-narrative-body-this-is-true-amen-arabic.json",
-     "bytes": 163,
-     "sha256": "f6f8ff7070802a94094083b7d322a3ac9eeda16d402031f62f4a940b0ed57618",
      "role": "timing"
     }
    ]
@@ -14406,26 +14103,6 @@
    ]
   },
   {
-   "id": "response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic",
-   "text": "response-institution-narrative-body-we-believe-that-this-is-true-amen",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-that-this-is-true-amen-arabic.json",
-     "bytes": 195,
-     "sha256": "9ce59d041e26427eb6ed58ff081cabf313c239c6573531dffa04ebd5670fb71c",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-institution-narrative-body-we-believe-we-confess",
    "text": "response-institution-narrative-body-we-believe-we-confess",
    "duration": null,
@@ -14441,26 +14118,6 @@
      "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-we-confess.json",
      "bytes": 164,
      "sha256": "fe64ff1a659e5f37ddbd88b64f4d1e9c090aa757af4ad43e4d1a86a913d34f4b",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-institution-narrative-body-we-believe-we-confess-arabic",
-   "text": "response-institution-narrative-body-we-believe-we-confess",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-institution-narrative-body-we-believe-we-confess-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-we-confess-arabic.json",
-     "bytes": 171,
-     "sha256": "45fe9f037ce3284712685eb6194449652a2eb3731d7a4b1fd093edfa9df6a7b1",
      "role": "timing"
     }
    ]
@@ -14486,26 +14143,6 @@
    ]
   },
   {
-   "id": "response-institution-narrative-truly-we-believe-arabic",
-   "text": "response-institution-narrative-truly-we-believe",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-institution-narrative-truly-we-believe-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-institution-narrative-truly-we-believe-arabic.json",
-     "bytes": 151,
-     "sha256": "ae1189e2c371d46475caee443120476b5feb0e177f9cff64493ace9aff8c19dc",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-intro-to-fraction-and-your-precious-blood",
    "text": "response-intro-to-fraction-and-your-precious-blood",
    "duration": null,
@@ -14526,26 +14163,6 @@
    ]
   },
   {
-   "id": "response-intro-to-fraction-and-your-precious-blood-arabic",
-   "text": "response-intro-to-fraction-and-your-precious-blood",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-intro-to-fraction-and-your-precious-blood-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-intro-to-fraction-and-your-precious-blood-arabic.json",
-     "bytes": 157,
-     "sha256": "5b502b959416dadb0df05c9eacd7f10c9115832cb749cecae4236d9fdf1a7e86",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-intro-to-fraction-we-worship-your-holy-body",
    "text": "response-intro-to-fraction-we-worship-your-holy-body",
    "duration": null,
@@ -14561,26 +14178,6 @@
      "url": "catalog/v1/timings/response-intro-to-fraction-we-worship-your-holy-body.json",
      "bytes": 154,
      "sha256": "769766e51139c6163eeead70f19d64674d2790eb4d60590ff289eb32a0c968b3",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-intro-to-fraction-we-worship-your-holy-body-arabic",
-   "text": "response-intro-to-fraction-we-worship-your-holy-body",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-intro-to-fraction-we-worship-your-holy-body-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-intro-to-fraction-we-worship-your-holy-body-arabic.json",
-     "bytes": 161,
-     "sha256": "148c659e4a152865b664290b52d2d186051b0913b4fd05c6a888ccd98fb88cab",
      "role": "timing"
     }
    ]
@@ -14626,46 +14223,6 @@
    ]
   },
   {
-   "id": "response-lord-have-mercy-3x-arabic",
-   "text": "response-lord-have-mercy-3x",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-lord-have-mercy-3x-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-lord-have-mercy-3x-arabic.json",
-     "bytes": 111,
-     "sha256": "6b97cae047adf638ed69051dfcb878b26bb49b0094ca3b10ca55b6bfafe387ed",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-lord-have-mercy-arabic",
-   "text": "response-lord-have-mercy",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-lord-have-mercy-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-lord-have-mercy-arabic.json",
-     "bytes": 105,
-     "sha256": "8260855f55299193135de172d99710e1e4b849e13e69dd641f79227c0573952c",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-one-is-the-all-holy-father",
    "text": "response-one-is-the-all-holy-father",
    "duration": null,
@@ -14686,26 +14243,6 @@
    ]
   },
   {
-   "id": "response-one-is-the-all-holy-father-arabic",
-   "text": "response-one-is-the-all-holy-father",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-one-is-the-all-holy-father-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-one-is-the-all-holy-father-arabic.json",
-     "bytes": 127,
-     "sha256": "6db0e385256b6f53f5027cf9807e62160f7f2987742b061b7b2817fec559ad52",
-     "role": "timing"
-    }
-   ]
-  },
-  {
    "id": "response-we-praise-you",
    "text": "response-we-praise-you",
    "duration": null,
@@ -14721,26 +14258,6 @@
      "url": "catalog/v1/timings/response-we-praise-you.json",
      "bytes": 94,
      "sha256": "5accdc92dd6c6733a004a8941a8f11d248b9a992c02e08e80ab5805c2773b57d",
-     "role": "timing"
-    }
-   ]
-  },
-  {
-   "id": "response-we-praise-you-arabic",
-   "text": "response-we-praise-you",
-   "duration": null,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
-   },
-   "source": "content/liturgy-responses/response-we-praise-you-arabic/",
-   "language": "arabic",
-   "files": [
-    {
-     "url": "catalog/v1/timings/response-we-praise-you-arabic.json",
-     "bytes": 101,
-     "sha256": "41389cfe26193646f9e732c6cf35e9c80c3a792dddf5b7114c600f8440b4f0b7",
      "role": "timing"
     }
    ]
