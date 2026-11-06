@@ -1,6 +1,6 @@
 {
- "version": "9a706eedbd8e3276",
- "updated": "2026-11-06T03:58:55Z",
+ "version": "665719b17e08f876",
+ "updated": "2026-11-06T03:59:59Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -7826,18 +7826,6 @@
    ],
    "tags": [],
    "pending": false,
-   "links": [
-    {
-     "site": "Coptic Hymns in English",
-     "title": "Verses of the Cymbals (Adam)",
-     "url": "https://www.coptichymnsinenglish.com/album/16/track/47"
-    },
-    {
-     "site": "Coptic Hymns in English",
-     "title": "Verses of the Cymbals (Watos)",
-     "url": "https://www.coptichymnsinenglish.com/album/16/track/46"
-    }
-   ],
    "lines": 25,
    "translations": [
     "arabic",
