@@ -1,0 +1,20 @@
+{
+  "titles": {
+    "english": "Third Amen",
+    "arabic": "آمين"
+  },
+  "language": "english",
+  "tune": {
+    "english": "St. Basil Liturgy - English"
+  },
+  "cantor": "English Hymns Committee",
+  "source": "https://tasbeha.org/hymn_library/view/2620",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3542,
+  "group": {
+    "english": "Institution Narrative"
+  },
+  "kind": "recital"
+}

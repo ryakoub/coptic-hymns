@@ -18,10 +18,9 @@
   "arabic": "لحن آللي القربان"
  },
  "amen-ton-thanaton": {
-  "name": "Amen, Amen, Amen, Ton Thanaton Sou",
-  "says": "Amen. Amen.",
-  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ",
-  "arabic": "مرد آمين آمين آمين تون ثاناتون سو"
+  "name": "Amen, amen, amen. Your death, O Lord",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲧⲟⲛ ⲑⲁⲛⲁⲧⲟⲛ",
+  "arabic": "آمين آمين آمين. بموتك يا رب"
  },
  "anaphora-amen-english": {
   "name": "Amen",
@@ -39,6 +38,16 @@
  "anaphora-responses-st-basil-st-gregory-liturgies": {
   "name": "Anaphora Responses (St. Basil and St. Gregory)",
   "arabic": "مرادات بدء القداس الباسيلي والغريغوري"
+ },
+ "and-with-your-spirit-2-english": {
+  "name": "And with Your Spirit",
+  "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ",
+  "arabic": "ولروحك أيضاً"
+ },
+ "and-with-your-spirit-english": {
+  "name": "And with Your Spirit",
+  "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ",
+  "arabic": "ولروحك أيضاً"
  },
  "aripalin": {
   "name": "Aripsalin",
@@ -83,8 +92,8 @@
   "arabic": "ختام الصلوات الجماعية السنوي"
  },
  "concluding-canon-annual-liturgy": {
-  "name": "Closing Canon (Liturgy and Praises)",
-  "says": "Conclusion Canon",
+  "name": "Closing Canon",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ",
   "arabic": "ختام الصلوات الجماعية السنوي"
  },
  "conclusion-midnight-praises": {
@@ -92,6 +101,21 @@
   "says": "of the Midnight Praises",
   "coptic": "Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ",
   "arabic": "ختام التسبحة"
+ },
+ "confession-first-amen-english": {
+  "name": "Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
+ },
+ "confession-second-amen-english": {
+  "name": "Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
+ },
+ "distribution-alleluia-annual": {
+  "name": "Distribution Psalm 150",
+  "coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ",
+  "arabic": "مزمور التوزيع السنوي"
  },
  "doxology-archangel-michael": {
   "name": "Doxology of Archangel Michael",
@@ -135,11 +159,10 @@
   "coptic": "Ⲧⲉⲙⲉⲧⲛⲓϣϯ ⲱ̀ Ⲙⲁⲣⲓⲁ",
   "arabic": "ذكصولوجية للعذراء مريم - تسبحة نصف الليل"
  },
- "eleison-imas-je-nai-nan": {
-  "name": "Eleison Imas and Je Nai Nan",
-  "says": "Have mercy upon us",
-  "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
-  "arabic": "إليسون إيماس وجي ناي نان"
+ "ere-po-esmo-may-their-holy-blessing": {
+  "name": "May their holy blessing",
+  "coptic": "Ⲉ̀ⲣⲉ ⲡⲟⲩⲥ̀ⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ",
+  "arabic": "بركتهم المقدسة"
  },
  "first-hoos": {
   "name": "First Canticle",
@@ -158,6 +181,11 @@
   "says": "Praise the Lord from the heavens Alleluia",
   "coptic": "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ",
   "arabic": "الهوس الرابع"
+ },
+ "fraction-lord-have-mercy-english": {
+  "name": "Lord have mercy, Lord have mercy, Lord have mercy",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },
  "gospel-response-vespers-annual": {
   "name": "Gospel Response (Vespers and Matins)",
@@ -182,6 +210,26 @@
   "says": "Hail to you, we ask",
   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ",
   "arabic": "مقدمة الذكصولوجيات"
+ },
+ "intro-to-fraction-amen-english": {
+  "name": "Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
+ },
+ "intro-to-fraction-and-with-your-spirit-2-english": {
+  "name": "And with Your Spirit",
+  "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ",
+  "arabic": "ولروحك أيضاً"
+ },
+ "intro-to-fraction-and-with-your-spirit-english": {
+  "name": "And with Your Spirit",
+  "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ",
+  "arabic": "ولروحك أيضاً"
+ },
+ "intro-to-fraction-lord-have-mercy-english": {
+  "name": "Lord have mercy",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم"
  },
  "kyrie-eleison-major": {
   "name": "Kyrie Eleison (long)",
@@ -218,6 +266,11 @@
   "says": "We worship the Father and the Son",
   "arabic": "ذكصولوجية باكر"
  },
+ "nature-litany-lord-have-mercy-3x-english": {
+  "name": "Lord have mercy, Lord have mercy, Lord have mercy",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
+ },
  "ni-ethnos-tero": {
   "name": "Ni Ethnos Tero",
   "says": "Praise the Lord, all you nations",
@@ -228,6 +281,16 @@
   "name": "Nim Ghar",
   "says": "Who is likened unto You",
   "arabic": "القطعة السادسة عشر - نيم غار"
+ },
+ "oblations-litany-lord-have-mercy-english": {
+  "name": "Lord have mercy",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم"
+ },
+ "os-ein-response": {
+  "name": "As it was and shall be",
+  "coptic": "Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ",
+  "arabic": "كما كان وهكذا يكون"
  },
  "paralex-shere-maria": {
   "name": "Paralex: Shere Maria",
@@ -240,6 +303,11 @@
   "says": "The grace of our Lord",
   "coptic": "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅",
   "arabic": "لحن بي أهموت غار الصغيرة"
+ },
+ "pi-oik": {
+  "name": "The Bread of life",
+  "coptic": "Ⲡⲓⲱⲓⲕ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ",
+  "arabic": "بي أويك"
  },
  "praxis-response-annual": {
   "name": "Praxis Response",
@@ -277,6 +345,11 @@
   "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ϯⲛⲁϩϯ",
   "arabic": "وأيضاً أؤمن"
  },
+ "response-amen-lord-have-mercy-3x": {
+  "name": "Amen. Lord have mercy, Lord have mercy, Lord have mercy",
+  "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
+ },
  "response-anaphora-according-to-your-mercy": {
   "name": "According to Your mercy",
   "coptic": "Ⲕⲁⲧⲁ ⲧⲟ ⲉ̀ⲗⲉⲟⲥ",
@@ -287,11 +360,71 @@
   "coptic": "Ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ",
   "arabic": "حقاً. أؤمن"
  },
+ "response-before-you-o-lord": {
+  "name": "Before You, O Lord",
+  "coptic": "Ⲉ̀ⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ",
+  "arabic": "أمامك يا ربُ"
+ },
+ "response-confession-amen-i-believe": {
+  "name": "Amen, I believe",
+  "coptic": "Ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ",
+  "arabic": "حقاً. أؤمن"
+ },
  "response-i-believe-amen": {
   "name": "I believe. Amen",
   "says": "Tinahti",
   "coptic": "Ϯⲛⲁϩϯ",
   "arabic": "أؤمن."
+ },
+ "response-in-christ-jesus-our-lord": {
+  "name": "In Christ Jesus our Lord",
+  "coptic": "Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ",
+  "arabic": "بالمسيح يسوع ربنا"
+ },
+ "response-institution-narrative-blood-again-we-believe-we-confess": {
+  "name": "Again, we believe, we confess, and we glorify",
+  "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
+  "arabic": "وأيضاً نؤمن ونعترف ونمجد"
+ },
+ "response-institution-narrative-blood-this-is-also-true-amen": {
+  "name": "This is also true. Amen",
+  "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ ϧⲉⲛ",
+  "arabic": "هذا هو أيضاً بالحقيقة. آمين"
+ },
+ "response-institution-narrative-body-this-is-true-amen": {
+  "name": "This is true. Amen",
+  "coptic": "Ⲫⲁⲓ ⲡⲉ ϧⲉⲛ",
+  "arabic": "هذا هو بالحقيقة. آمين"
+ },
+ "response-institution-narrative-body-we-believe-that-this-is-true-amen": {
+  "name": "We believe that this is true. Amen",
+  "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ",
+  "arabic": "نؤمن أن هذا هو بالحقيقة. آمين"
+ },
+ "response-institution-narrative-body-we-believe-we-confess": {
+  "name": "We believe, we confess, and we glorify",
+  "coptic": "Ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ",
+  "arabic": "نؤمن ونعترف ونمجد"
+ },
+ "response-institution-narrative-truly-we-believe": {
+  "name": "Truly, we believe",
+  "coptic": "Ⲁ̀ⲗⲏⲑⲟⲥ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
+  "arabic": "بالحقيقة نؤمن"
+ },
+ "response-intro-to-fraction-and-your-precious-blood": {
+  "name": "And Your precious Blood",
+  "coptic": "Ⲛⲉⲙ Ⲡⲉⲕⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ",
+  "arabic": "ودمك الكريم"
+ },
+ "response-intro-to-fraction-we-worship-your-holy-body": {
+  "name": "We worship Your holy Body",
+  "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲕⲥⲱⲙⲁ ⲉⲑⲟⲩⲁⲃ",
+  "arabic": "نسجد لجسدك المقدس"
+ },
+ "response-one-is-the-all-holy-father": {
+  "name": "One is the All-Holy Father",
+  "coptic": "Ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ",
+  "arabic": "واحد هو الآب القدوس"
  },
  "response-we-praise-you": {
   "name": "We praise You",
@@ -321,6 +454,11 @@
   "name": "Semouti",
   "says": "You are called righteous",
   "arabic": "القطعة السابعة - سيموتي"
+ },
+ "seven-short-litanies-lord-have-mercy-english": {
+  "name": "Lord have mercy",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+  "arabic": "يا ربُّ إرحَم"
  },
  "shashf-ensop": {
   "name": "Shashf Ensop",
@@ -483,44 +621,51 @@
   "coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲫⲁⲓ",
   "arabic": "هذا هو اليوم الذي صنعه الرب"
  },
- "response-institution-narrative-truly-we-believe": {
-  "name": "Truly, we believe",
-  "coptic": "Ⲁ̀ⲗⲏⲑⲟⲥ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
-  "arabic": "بالحقيقة نؤمن"
+ "eleison-imas": {
+  "name": "Eleison Imas",
+  "says": "Have mercy upon us",
+  "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+  "arabic": "إليسون إيماس"
  },
- "response-institution-narrative-body-we-believe-that-this-is-true-amen": {
-  "name": "We believe that this is true. Amen",
-  "coptic": "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ",
-  "arabic": "نؤمن أن هذا هو بالحقيقة. آمين"
+ "je-nai-nan": {
+  "name": "Je Nai Nan",
+  "says": "Have mercy upon us",
+  "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
+  "arabic": "جي ناي نان"
  },
- "institution-narrative-body-amen-3x-english": {
-  "name": "Amen, amen, amen",
-  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ",
-  "arabic": "آمين، آمين، آمين"
+ "seven-short-litanies-have-mercy-upon-us-english": {
+  "name": "Have mercy upon us, O God the Father, the Pantocrator",
+  "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ",
+  "arabic": "إرحمنا يا الله الآب ضابط الكل"
  },
- "response-institution-narrative-body-we-believe-we-confess": {
-  "name": "We believe, we confess, and we glorify",
-  "coptic": "Ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ",
-  "arabic": "نؤمن ونعترف ونمجد"
+ "institution-narrative-body-first-amen-english": {
+  "name": "First Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
  },
- "response-institution-narrative-body-this-is-true-amen": {
-  "name": "This is true. Amen",
-  "coptic": "Ⲫⲁⲓ ⲡⲉ ϧⲉⲛ",
-  "arabic": "هذا هو بالحقيقة. آمين"
+ "institution-narrative-body-second-amen-english": {
+  "name": "Second Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
  },
- "institution-narrative-blood-amen-3x-english": {
-  "name": "Amen, amen, amen",
-  "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ",
-  "arabic": "آمين، آمين، آمين"
+ "institution-narrative-body-third-amen-english": {
+  "name": "Third Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
  },
- "response-institution-narrative-blood-again-we-believe-we-confess": {
-  "name": "Again, we believe, we confess, and we glorify",
-  "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
-  "arabic": "وأيضاً نؤمن ونعترف ونمجد"
+ "institution-narrative-blood-first-amen-english": {
+  "name": "First Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
  },
- "response-institution-narrative-blood-this-is-also-true-amen": {
-  "name": "This is also true. Amen",
-  "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ",
-  "arabic": "هذا هو أيضاً بالحقيقة. آمين"
+ "institution-narrative-blood-second-amen-english": {
+  "name": "Second Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
+ },
+ "institution-narrative-blood-third-amen-english": {
+  "name": "Third Amen",
+  "coptic": "Ⲁ̀ⲙⲏⲛ",
+  "arabic": "آمين"
  }
 }

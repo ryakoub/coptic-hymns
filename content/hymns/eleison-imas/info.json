@@ -1,9 +1,9 @@
 {
-  "title": "Eleison Imas and Je Nai Nan",
+  "title": "Eleison Imas",
   "titles": {
-    "english": "Eleison Imas and Je Nai Nan",
-    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ,Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
-    "arabic": "إليسون إيماس وجي ناي نان"
+    "english": "Eleison Imas",
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+    "arabic": "إليسون إيماس"
   },
   "source": "https://tasbeha.org/hymn_library/view/338",
   "places": [
@@ -16,7 +16,7 @@
     "level": "2"
   },
   "group": {
-    "english": "Anaphora"
+    "english": "Litanies"
   },
-  "order": 3600
+  "order": 3722
 }

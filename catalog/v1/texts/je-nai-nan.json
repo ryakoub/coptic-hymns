@@ -1,9 +1,9 @@
 {
- "id": "eleison-imas-je-nai-nan",
+ "id": "je-nai-nan",
  "titles": {
-  "english": "Eleison Imas and Je Nai Nan",
+  "english": "Je Nai Nan",
   "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
-  "arabic": "إليسون إيماس وجي ناي نان"
+  "arabic": "جي ناي نان"
  },
  "lines": [
   {
@@ -50,38 +50,6 @@
     "english": "Lord have mercy.",
     "arabic": "يا ربُّ إرحَم."
    },
-   "transliterations": {
-    "english": "Kirie ele-eeson."
-   }
-  },
-  {
-   "id": "l5",
-   "side": 0,
-   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
-   "transliterations": {
-    "english": "Ele-eeson eemas o Theos o Pateer o Pantokrator."
-   }
-  },
-  {
-   "id": "l6",
-   "side": 1,
-   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ.",
-   "transliterations": {
-    "english": "Ele-eeson eemas o Theos o Soteer eemon."
-   }
-  },
-  {
-   "id": "l7",
-   "side": 0,
-   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲕⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
-   "transliterations": {
-    "english": "Ele-eeson eemas o Theos ke ele-eeson eemas."
-   }
-  },
-  {
-   "id": "l8",
-   "side": 1,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
    "transliterations": {
     "english": "Kirie ele-eeson."
    }

@@ -1,24 +1,21 @@
 {
-  "title": "Je Nai Nan response",
+  "title": "Je Nai Nan",
   "titles": {
-    "english": "Je Nai Nan response",
-    "arabic": "مرد جي ناي نان"
+    "english": "Je Nai Nan",
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
+    "arabic": "جي ناي نان"
   },
   "youtube": "https://www.youtube.com/watch?v=u0vaygdZyoE",
   "places": [
     "annual/liturgy"
   ],
-  "text": "eleison-imas-je-nai-nan",
-  "tune": {
-    "english": "Je Nai Nan only"
-  },
   "mahragan": {
     "year": 2025,
     "stage": "grades-3-4",
     "level": "2"
   },
   "group": {
-    "english": "Anaphora"
+    "english": "Litanies"
   },
-  "order": 3610
+  "order": 3723
 }

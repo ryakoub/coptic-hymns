@@ -1,0 +1,22 @@
+{
+ "id": "institution-narrative-body-third-amen-english",
+ "titles": {
+  "english": "Third Amen",
+  "arabic": "آمين",
+  "coptic": "Ⲁ̀ⲙⲏⲛ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲏⲛ.",
+   "translations": {
+    "english": "Amen.",
+    "arabic": "آمين."
+   },
+   "transliterations": {
+    "english": "Ameen."
+   }
+  }
+ ]
+}

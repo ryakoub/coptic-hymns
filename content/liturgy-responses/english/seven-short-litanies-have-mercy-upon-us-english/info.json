@@ -1,12 +1,20 @@
 {
   "titles": {
-    "english": "Seven Short Litanies - Have mercy upon us"
+    "english": "Have mercy upon us, O God the Father, the Pantocrator",
+    "arabic": "إرحمنا يا الله الآب ضابط الكل"
   },
-  "text": "eleison-imas-je-nai-nan",
   "language": "english",
   "tune": {
     "english": "St. Basil Liturgy - English"
   },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/2634"
+  "source": "https://tasbeha.org/hymn_library/view/2634",
+  "places": [
+    "annual/liturgy"
+  ],
+  "order": 3721,
+  "group": {
+    "english": "Litanies"
+  },
+  "kind": "recital"
 }

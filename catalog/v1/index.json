@@ -1,6 +1,6 @@
 {
- "version": "32b4f67a1b990bce",
- "updated": "2026-11-06T01:07:38Z",
+ "version": "f21feeb2b4bb862a",
+ "updated": "2026-11-06T02:15:21Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -271,21 +271,26 @@
         "anaphora-amen-english",
         "anaphora-amen-i-believe-english",
         "anaphora-according-to-your-mercy-english",
-        "eleison-imas-je-nai-nan",
-        "je-nai-nan",
+        "institution-narrative-truly-we-believe-english",
+        "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+        "institution-narrative-body-first-amen-english",
+        "institution-narrative-body-second-amen-english",
+        "institution-narrative-body-third-amen-english",
+        "institution-narrative-body-we-believe-we-confess-english",
+        "institution-narrative-body-this-is-true-english",
+        "institution-narrative-blood-first-amen-english",
+        "institution-narrative-blood-second-amen-english",
+        "institution-narrative-blood-third-amen-english",
+        "institution-narrative-blood-again-we-believe-we-confess-english",
+        "institution-narrative-blood-this-is-also-true-amen-english",
         "amen-ton-thanaton",
         "we-praise-you-english",
         "i-believe-amen-english",
         "again-i-believe-amen-english",
         "lord-have-mercy-3x-english",
-        "institution-narrative-truly-we-believe-english",
-        "institution-narrative-body-we-believe-that-this-is-true-amen-english",
-        "institution-narrative-body-amen-3x-english",
-        "institution-narrative-body-we-believe-we-confess-english",
-        "institution-narrative-body-this-is-true-english",
-        "institution-narrative-blood-amen-3x-english",
-        "institution-narrative-blood-again-we-believe-we-confess-english",
-        "institution-narrative-blood-this-is-also-true-amen-english",
+        "seven-short-litanies-have-mercy-upon-us-english",
+        "eleison-imas",
+        "je-nai-nan",
         "seven-short-litanies-lord-have-mercy-english",
         "nature-litany-lord-have-mercy-3x-english",
         "oblations-litany-lord-have-mercy-english",
@@ -307,7 +312,6 @@
         "confession-first-amen-english",
         "confession-second-amen-english",
         "confession-amen-i-believe-english",
-        "distribution-alleluia-annual",
         "distribution-annual-psalm-150",
         "pi-oik",
         "concluding-canon-annual-liturgy"
@@ -366,21 +370,26 @@
           "anaphora-amen-english",
           "anaphora-amen-i-believe-english",
           "anaphora-according-to-your-mercy-english",
-          "eleison-imas-je-nai-nan",
-          "je-nai-nan",
+          "institution-narrative-truly-we-believe-english",
+          "institution-narrative-body-we-believe-that-this-is-true-amen-english",
+          "institution-narrative-body-first-amen-english",
+          "institution-narrative-body-second-amen-english",
+          "institution-narrative-body-third-amen-english",
+          "institution-narrative-body-we-believe-we-confess-english",
+          "institution-narrative-body-this-is-true-english",
+          "institution-narrative-blood-first-amen-english",
+          "institution-narrative-blood-second-amen-english",
+          "institution-narrative-blood-third-amen-english",
+          "institution-narrative-blood-again-we-believe-we-confess-english",
+          "institution-narrative-blood-this-is-also-true-amen-english",
           "amen-ton-thanaton",
           "we-praise-you-english",
           "i-believe-amen-english",
           "again-i-believe-amen-english",
           "lord-have-mercy-3x-english",
-          "institution-narrative-truly-we-believe-english",
-          "institution-narrative-body-we-believe-that-this-is-true-amen-english",
-          "institution-narrative-body-amen-3x-english",
-          "institution-narrative-body-we-believe-we-confess-english",
-          "institution-narrative-body-this-is-true-english",
-          "institution-narrative-blood-amen-3x-english",
-          "institution-narrative-blood-again-we-believe-we-confess-english",
-          "institution-narrative-blood-this-is-also-true-amen-english",
+          "seven-short-litanies-have-mercy-upon-us-english",
+          "eleison-imas",
+          "je-nai-nan",
           "seven-short-litanies-lord-have-mercy-english",
           "nature-litany-lord-have-mercy-3x-english",
           "oblations-litany-lord-have-mercy-english",
@@ -402,7 +411,6 @@
           "confession-first-amen-english",
           "confession-second-amen-english",
           "confession-amen-i-believe-english",
-          "distribution-alleluia-annual",
           "distribution-annual-psalm-150",
           "pi-oik",
           "concluding-canon-annual-liturgy"
@@ -437,14 +445,7 @@
           "cherubim-response",
           "anaphora-amen-english",
           "anaphora-amen-i-believe-english",
-          "anaphora-according-to-your-mercy-english",
-          "eleison-imas-je-nai-nan",
-          "je-nai-nan",
-          "amen-ton-thanaton",
-          "we-praise-you-english",
-          "i-believe-amen-english",
-          "again-i-believe-amen-english",
-          "lord-have-mercy-3x-english"
+          "anaphora-according-to-your-mercy-english"
          ],
          "parent": "liturgy-of-the-faithful"
         },
@@ -457,12 +458,21 @@
          "recordings": [
           "institution-narrative-truly-we-believe-english",
           "institution-narrative-body-we-believe-that-this-is-true-amen-english",
-          "institution-narrative-body-amen-3x-english",
+          "institution-narrative-body-first-amen-english",
+          "institution-narrative-body-second-amen-english",
+          "institution-narrative-body-third-amen-english",
           "institution-narrative-body-we-believe-we-confess-english",
           "institution-narrative-body-this-is-true-english",
-          "institution-narrative-blood-amen-3x-english",
+          "institution-narrative-blood-first-amen-english",
+          "institution-narrative-blood-second-amen-english",
+          "institution-narrative-blood-third-amen-english",
           "institution-narrative-blood-again-we-believe-we-confess-english",
-          "institution-narrative-blood-this-is-also-true-amen-english"
+          "institution-narrative-blood-this-is-also-true-amen-english",
+          "amen-ton-thanaton",
+          "we-praise-you-english",
+          "i-believe-amen-english",
+          "again-i-believe-amen-english",
+          "lord-have-mercy-3x-english"
          ],
          "parent": "liturgy-of-the-faithful"
         },
@@ -473,6 +483,9 @@
           "arabic": "الأواشي"
          },
          "recordings": [
+          "seven-short-litanies-have-mercy-upon-us-english",
+          "eleison-imas",
+          "je-nai-nan",
           "seven-short-litanies-lord-have-mercy-english",
           "nature-litany-lord-have-mercy-3x-english",
           "oblations-litany-lord-have-mercy-english",
@@ -524,7 +537,6 @@
           "arabic": "التوزيع"
          },
          "recordings": [
-          "distribution-alleluia-annual",
           "distribution-annual-psalm-150",
           "pi-oik",
           "concluding-canon-annual-liturgy"
@@ -1829,12 +1841,9 @@
   {
    "id": "amen-ton-thanaton",
    "titles": {
-    "english": "Amen, Amen, Amen, Ton Thanaton Sou",
-    "arabic": "مرد آمين آمين آمين تون ثاناتون سو",
-    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ"
-   },
-   "subtitle": {
-    "english": "Amen. Amen."
+    "english": "Amen, amen, amen. Your death, O Lord",
+    "arabic": "آمين آمين آمين. بموتك يا رب",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲧⲟⲛ ⲑⲁⲛⲁⲧⲟⲛ"
    },
    "aka": [
     "Amen, Amen, Amen, Ton thanaton sou"
@@ -1855,8 +1864,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/amen-ton-thanaton.json",
-    "bytes": 2547,
-    "sha256": "60a59671bed69d483401cdc22cc182ef97a8ae9fd43ef539e49b761aa1558130"
+    "bytes": 2569,
+    "sha256": "3d0ee4683be69f632f516835dabae8851029a57ff1b0048ae9140d3d511f1a24"
    }
   },
   {
@@ -1977,7 +1986,8 @@
    "id": "and-with-your-spirit-2-english",
    "titles": {
     "english": "And with Your Spirit",
-    "arabic": "ولروحك أيضاً"
+    "arabic": "ولروحك أيضاً",
+    "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
    },
    "tags": [],
    "pending": false,
@@ -1994,15 +2004,16 @@
    ],
    "file": {
     "url": "catalog/v1/texts/and-with-your-spirit-2-english.json",
-    "bytes": 432,
-    "sha256": "ee0fad7a548aeac311ae0b0a7aec837f02277ec32a2c02fecdbc8956482a8aff"
+    "bytes": 488,
+    "sha256": "157a2f07958567950ffc8cff3ad95d95bbc847aea1d558edb780e1703b768505"
    }
   },
   {
    "id": "and-with-your-spirit-english",
    "titles": {
     "english": "And with Your Spirit",
-    "arabic": "ولروحك أيضاً"
+    "arabic": "ولروحك أيضاً",
+    "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
    },
    "tags": [],
    "pending": false,
@@ -2019,8 +2030,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/and-with-your-spirit-english.json",
-    "bytes": 430,
-    "sha256": "42f33228b308b84f7f9ff4a1e1c8699e7320c3401c5151840755f2f670b8a6be"
+    "bytes": 486,
+    "sha256": "c3b55c550c64b03c1293bc0f587dc4a60a1607a9205acafc099453faca0c46be"
    }
   },
   {
@@ -2491,12 +2502,9 @@
   {
    "id": "concluding-canon-annual-liturgy",
    "titles": {
-    "english": "Closing Canon (Liturgy and Praises)",
-    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "english": "Closing Canon",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ",
     "arabic": "ختام الصلوات الجماعية السنوي"
-   },
-   "subtitle": {
-    "english": "Conclusion Canon"
    },
    "aka": [
     "Closing Canon of the communal prayers (Liturgy and Praises)"
@@ -2517,8 +2525,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual-liturgy.json",
-    "bytes": 4979,
-    "sha256": "3566abb64946581837dab08abd3141cc8426aa4578026eff889c6c35dab65e50"
+    "bytes": 4986,
+    "sha256": "3d97e1239aa59f856cbd6e03a2fb07240dcc97101d2b52b39bdcd05c8a22770a"
    }
   },
   {
@@ -2654,9 +2662,13 @@
   {
    "id": "confession-first-amen-english",
    "titles": {
-    "english": "Confession - First Amen",
-    "arabic": "آمين"
+    "english": "Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
+   "aka": [
+    "Confession - First Amen"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -2672,16 +2684,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/confession-first-amen-english.json",
-    "bytes": 337,
-    "sha256": "f22549f599abfc693c99f30e6f12e0f8f3afb6bf31b8e5b707373b4815943200"
+    "bytes": 348,
+    "sha256": "51a72273c466f7b5dc846ba5b96254a3cbb07bd5c8eee0c266a8fcc262dd95c0"
    }
   },
   {
    "id": "confession-second-amen-english",
    "titles": {
-    "english": "Confession - Second Amen",
-    "arabic": "آمين"
+    "english": "Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
+   "aka": [
+    "Confession - Second Amen"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -2697,17 +2713,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/confession-second-amen-english.json",
-    "bytes": 339,
-    "sha256": "ac16986b17adeac0210b2327b1d2ef1e010ab9625844a9031289ef6cb6a77563"
+    "bytes": 349,
+    "sha256": "257508bf64bc0f106c984d8dd2ffecbd169d34b679eb757e088e8684ce75ab7b"
    }
   },
   {
    "id": "distribution-alleluia-annual",
    "titles": {
-    "english": "Annual Distribution Alleluia",
-    "coptic": "Ⲥ̀ⲙⲟⲩ Ⲫ̀ⲛⲟⲩϯ",
-    "arabic": "آللي التوزيع السنوي"
+    "english": "Distribution Psalm 150",
+    "coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ",
+    "arabic": "مزمور التوزيع السنوي"
    },
+   "aka": [
+    "Annual Distribution Alleluia"
+   ],
    "tags": [],
    "pending": false,
    "lines": 18,
@@ -2724,8 +2743,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/distribution-alleluia-annual.json",
-    "bytes": 7545,
-    "sha256": "c1a5e9d5ffdabc60de9bd9f740883fc642225e3b3b4db29f57b115e2d0f55f7a"
+    "bytes": 7542,
+    "sha256": "cb34860384e3eaa211417cc1464c18b1874a4afae4ade8f9bdef1b8321fa2ab4"
    }
   },
   {
@@ -3211,18 +3230,18 @@
    }
   },
   {
-   "id": "eleison-imas-je-nai-nan",
+   "id": "eleison-imas",
    "titles": {
-    "english": "Eleison Imas and Je Nai Nan",
-    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
-    "arabic": "إليسون إيماس وجي ناي نان"
+    "english": "Eleison Imas",
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+    "arabic": "إليسون إيماس"
    },
    "subtitle": {
     "english": "Have mercy upon us"
    },
    "tags": [],
    "pending": false,
-   "lines": 8,
+   "lines": 4,
    "translations": [
     "arabic",
     "english"
@@ -3231,21 +3250,24 @@
     "english"
    ],
    "recordings": [
-    "eleison-imas-je-nai-nan",
-    "je-nai-nan",
-    "seven-short-litanies-have-mercy-upon-us-english"
+    "eleison-imas"
    ],
    "file": {
-    "url": "catalog/v1/texts/eleison-imas-je-nai-nan.json",
-    "bytes": 2482,
-    "sha256": "60ebd7c88ba7d3eeaf94d09870ed7c78990ca774c100778c071ef7e733e279cd"
+    "url": "catalog/v1/texts/eleison-imas.json",
+    "bytes": 1668,
+    "sha256": "c0640c2066bfbc68b670ef7f6686a8c99899dda5ac0322ec83af5f2d51decf85"
    }
   },
   {
    "id": "ere-po-esmo-may-their-holy-blessing",
    "titles": {
-    "english": "Ere Po Esmo (May Their Holy Blessing)"
+    "english": "May their holy blessing",
+    "coptic": "Ⲉ̀ⲣⲉ ⲡⲟⲩⲥ̀ⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ",
+    "arabic": "بركتهم المقدسة"
    },
+   "aka": [
+    "Ere Po Esmo (May Their Holy Blessing)"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3260,8 +3282,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/ere-po-esmo-may-their-holy-blessing.json",
-    "bytes": 698,
-    "sha256": "75a8262a98d441045c47035733597279d0f8f7ca1bbbe3c39e5529b97281dce7"
+    "bytes": 797,
+    "sha256": "4eee6e77d8dcf4b781daf53f0e7b651d1e22d4bde05a54e37dd78c70304b4625"
    }
   },
   {
@@ -3471,9 +3493,13 @@
   {
    "id": "fraction-lord-have-mercy-english",
    "titles": {
-    "english": "Fraction - Lord have mercy",
-    "arabic": "يا ربُّ إرحَم"
+    "english": "Lord have mercy, Lord have mercy, Lord have mercy",
+    "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
+   "aka": [
+    "Fraction - Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3489,8 +3515,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fraction-lord-have-mercy-english.json",
-    "bytes": 424,
-    "sha256": "7da355d9af5afbfe1d1549c7aefd42f96f16bbff9f9ea8cd8d9665f75757b080"
+    "bytes": 766,
+    "sha256": "2e01b1c6cedabaec88caeee44c25012f322b31578c5327f4a84da609d3c74d31"
    }
   },
   {
@@ -3870,15 +3896,12 @@
    }
   },
   {
-   "id": "institution-narrative-blood-amen-3x-english",
+   "id": "institution-narrative-blood-first-amen-english",
    "titles": {
-    "english": "Amen, amen, amen",
-    "arabic": "آمين، آمين، آمين",
-    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ"
+    "english": "First Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
-   "aka": [
-    "Institution Narrative (Blood) - Amen 3x"
-   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3890,24 +3913,21 @@
     "english"
    ],
    "recordings": [
-    "institution-narrative-blood-amen-3x-english"
+    "institution-narrative-blood-first-amen-english"
    ],
    "file": {
-    "url": "catalog/v1/texts/institution-narrative-blood-amen-3x-english.json",
-    "bytes": 507,
-    "sha256": "2b805fcaf84c277c5d773a9129907df57aa15100ec910b33b0e0cbf8eae2dbcc"
+    "url": "catalog/v1/texts/institution-narrative-blood-first-amen-english.json",
+    "bytes": 372,
+    "sha256": "999207a2a62cdf170736495fc2ebae25db6795d4c8960d70ac9ccebb72637c7f"
    }
   },
   {
-   "id": "institution-narrative-body-amen-3x-english",
+   "id": "institution-narrative-blood-second-amen-english",
    "titles": {
-    "english": "Amen, amen, amen",
-    "arabic": "آمين، آمين، آمين",
-    "coptic": "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ"
+    "english": "Second Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
-   "aka": [
-    "Institution Narrative (Body) - Amen 3x"
-   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3919,12 +3939,116 @@
     "english"
    ],
    "recordings": [
-    "institution-narrative-body-amen-3x-english"
+    "institution-narrative-blood-second-amen-english"
    ],
    "file": {
-    "url": "catalog/v1/texts/institution-narrative-body-amen-3x-english.json",
-    "bytes": 506,
-    "sha256": "42ea634b4c3cc4e9fc9b66048a08de5af966f51924ba48a61b739a368f094e0d"
+    "url": "catalog/v1/texts/institution-narrative-blood-second-amen-english.json",
+    "bytes": 374,
+    "sha256": "75594b989ffad0944950c1944752772c6c0da5c6e78054335f55cb78e270095e"
+   }
+  },
+  {
+   "id": "institution-narrative-blood-third-amen-english",
+   "titles": {
+    "english": "Third Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "institution-narrative-blood-third-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/institution-narrative-blood-third-amen-english.json",
+    "bytes": 372,
+    "sha256": "f1ea32a629b735a4b6c6041ae58d4e70ebb3954fc67ae3a09e7b7fbb4ba3a825"
+   }
+  },
+  {
+   "id": "institution-narrative-body-first-amen-english",
+   "titles": {
+    "english": "First Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "institution-narrative-body-first-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/institution-narrative-body-first-amen-english.json",
+    "bytes": 371,
+    "sha256": "6e71514b566c48d3e9ccee572204aab2011d3d374cf78677e938c9268acfee5a"
+   }
+  },
+  {
+   "id": "institution-narrative-body-second-amen-english",
+   "titles": {
+    "english": "Second Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "institution-narrative-body-second-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/institution-narrative-body-second-amen-english.json",
+    "bytes": 373,
+    "sha256": "ad6274a8029261f875904d5ce374a65b86ab2ddd1983848ffb66bb3d87a784de"
+   }
+  },
+  {
+   "id": "institution-narrative-body-third-amen-english",
+   "titles": {
+    "english": "Third Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "institution-narrative-body-third-amen-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/institution-narrative-body-third-amen-english.json",
+    "bytes": 371,
+    "sha256": "19d0f0f06845ebc68d0328c3074cf7f1d866d3f51f099f8ef74651d63a4a860e"
    }
   },
   {
@@ -3963,9 +4087,13 @@
   {
    "id": "intro-to-fraction-amen-english",
    "titles": {
-    "english": "Intro to Fraction - Amen",
-    "arabic": "آمين"
+    "english": "Amen",
+    "arabic": "آمين",
+    "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
+   "aka": [
+    "Intro to Fraction - Amen"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -3981,16 +4109,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/intro-to-fraction-amen-english.json",
-    "bytes": 339,
-    "sha256": "21c7974e11dea6fb94310ffb9ad4acac80f6eb121e9513b81758e88249a179d6"
+    "bytes": 349,
+    "sha256": "0ddcc8b9a7e64cc3364d04d22ae83b6b7e3d0be94a8a058b996a28d071b99dba"
    }
   },
   {
    "id": "intro-to-fraction-and-with-your-spirit-2-english",
    "titles": {
-    "english": "Intro to Fraction - And with Your Spirit",
-    "arabic": "ولروحك أيضاً"
+    "english": "And with Your Spirit",
+    "arabic": "ولروحك أيضاً",
+    "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
    },
+   "aka": [
+    "Intro to Fraction - And with Your Spirit"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4006,16 +4138,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/intro-to-fraction-and-with-your-spirit-2-english.json",
-    "bytes": 470,
-    "sha256": "a209fffb89fb12d7ed5c97fbe25ae40f9d9c503482702a4948db42ac9ade43e8"
+    "bytes": 506,
+    "sha256": "e792305c3dedc5e2b0e9b0f9f7c271834fbe07a275e566b2c1e46affacd624bc"
    }
   },
   {
    "id": "intro-to-fraction-and-with-your-spirit-english",
    "titles": {
-    "english": "Intro to Fraction - And with Your Spirit",
-    "arabic": "ولروحك أيضاً"
+    "english": "And with Your Spirit",
+    "arabic": "ولروحك أيضاً",
+    "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
    },
+   "aka": [
+    "Intro to Fraction - And with Your Spirit"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4031,16 +4167,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/intro-to-fraction-and-with-your-spirit-english.json",
-    "bytes": 468,
-    "sha256": "3ac5d49dd7ea450b6c4fe9053c50d4af4a8fc4db3efc6fe16adceb2a473236ad"
+    "bytes": 504,
+    "sha256": "889c74262de839a110e024cb6de39ead319fe5ecbbae15574a49bb63eb3d21a6"
    }
   },
   {
    "id": "intro-to-fraction-lord-have-mercy-english",
    "titles": {
-    "english": "Intro to Fraction - Lord have mercy",
-    "arabic": "يا ربُّ إرحَم"
+    "english": "Lord have mercy",
+    "arabic": "يا ربُّ إرحَم",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
+   "aka": [
+    "Intro to Fraction - Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4056,8 +4196,37 @@
    ],
    "file": {
     "url": "catalog/v1/texts/intro-to-fraction-lord-have-mercy-english.json",
-    "bytes": 442,
-    "sha256": "f89f380bab814f622e39862671fe097ced6701874e2d80c558486360db5aaef6"
+    "bytes": 479,
+    "sha256": "d7bc835bf730764835ff61509e2d14d7edf46e0a284219076f5d1e932cf76306"
+   }
+  },
+  {
+   "id": "je-nai-nan",
+   "titles": {
+    "english": "Je Nai Nan",
+    "coptic": "Ϫⲉ ⲛⲁⲓ ⲛⲁⲛ",
+    "arabic": "جي ناي نان"
+   },
+   "subtitle": {
+    "english": "Have mercy upon us"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 4,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "je-nai-nan"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/je-nai-nan.json",
+    "bytes": 1500,
+    "sha256": "948aaec9aada07d1ef5e1273d4ab2a5dc6f7d00cec9bc89a259c628d34feb4e8"
    }
   },
   {
@@ -4373,9 +4542,13 @@
   {
    "id": "nature-litany-lord-have-mercy-3x-english",
    "titles": {
-    "english": "Nature Litany - Lord have mercy, Lord have mercy, Lord have mercy",
-    "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
+    "english": "Lord have mercy, Lord have mercy, Lord have mercy",
+    "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
+   "aka": [
+    "Nature Litany - Lord have mercy, Lord have mercy, Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4391,8 +4564,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/nature-litany-lord-have-mercy-3x-english.json",
-    "bytes": 733,
-    "sha256": "235a9491cab8f4df3a368506c361cc32ed37e4377f5d313f19cb4e991f0e0532"
+    "bytes": 774,
+    "sha256": "94f78e57cd85356b84332fdab25e38936ea44ff0427aa39b55504aa6ca2fead3"
    }
   },
   {
@@ -4463,9 +4636,13 @@
   {
    "id": "oblations-litany-lord-have-mercy-english",
    "titles": {
-    "english": "Oblations Litany - Lord have mercy",
-    "arabic": "يا ربُّ إرحَم"
+    "english": "Lord have mercy",
+    "arabic": "يا ربُّ إرحَم",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
+   "aka": [
+    "Oblations Litany - Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4481,8 +4658,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/oblations-litany-lord-have-mercy-english.json",
-    "bytes": 440,
-    "sha256": "585877517893e36028a42d76da2b417970c38dd3f19f0c151c13ab5507f0eb0f"
+    "bytes": 478,
+    "sha256": "9e1fdfc7c96327883a98a4963780e0cd5889990e764b17afee9df59272ffccb3"
    }
   },
   {
@@ -4519,10 +4696,13 @@
   {
    "id": "os-ein-response",
    "titles": {
-    "english": "As it was (Os ein) response",
-    "coptic": "Ⲱⲥⲡⲉⲣ ⲏⲛ",
-    "arabic": "مرد كما كان (أوس بارين)"
+    "english": "As it was and shall be",
+    "coptic": "Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ",
+    "arabic": "كما كان وهكذا يكون"
    },
+   "aka": [
+    "As it was (Os ein) response"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4540,8 +4720,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/os-ein-response.json",
-    "bytes": 1296,
-    "sha256": "90267534163a740d062c01f31ac8135f56cb938befa2afd90b296c4c372eb04a"
+    "bytes": 1291,
+    "sha256": "728f8af1b5788045afaacbe9ff788cdea2f37e018f1d2b9375d507f3daedc52a"
    }
   },
   {
@@ -4676,10 +4856,13 @@
   {
    "id": "pi-oik",
    "titles": {
-    "coptic": "Ⲡⲓⲱⲓⲕ",
-    "english": "Pi Oik (The Bread of Life)",
+    "coptic": "Ⲡⲓⲱⲓⲕ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ",
+    "english": "The Bread of life",
     "arabic": "بي أويك"
    },
+   "aka": [
+    "Pi Oik (The Bread of Life)"
+   ],
    "tags": [],
    "pending": false,
    "links": [
@@ -4700,8 +4883,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-oik.json",
-    "bytes": 4077,
-    "sha256": "832ebd59a6e13a6183c1c170f8336c2b81612f2009d7b976d4e3b193f8376aa0"
+    "bytes": 4094,
+    "sha256": "0722d65dfadd4c375ca381364c4c646fd9d2dff201871a9eca6f4ec2af91d1ec"
    }
   },
   {
@@ -5266,7 +5449,8 @@
    "id": "response-amen-lord-have-mercy-3x",
    "titles": {
     "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy",
-    "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
+    "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
+    "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
    "tags": [],
    "pending": false,
@@ -5285,8 +5469,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-amen-lord-have-mercy-3x.json",
-    "bytes": 764,
-    "sha256": "18f3dd9fff822c2cfc8a25d1102ff72a599b129e6bd4b0264b9f5590bfcc6e84"
+    "bytes": 836,
+    "sha256": "07ef1391976e1fa2935a34e6004c47a048a57e5d5056f804f669ad1bf37fd5d6"
    }
   },
   {
@@ -5381,7 +5565,8 @@
    "id": "response-before-you-o-lord",
    "titles": {
     "english": "Before You, O Lord",
-    "arabic": "أمامك يا ربُ"
+    "arabic": "أمامك يا ربُ",
+    "coptic": "Ⲉ̀ⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ"
    },
    "tags": [],
    "pending": false,
@@ -5400,16 +5585,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-before-you-o-lord.json",
-    "bytes": 418,
-    "sha256": "66b5f4808bbd34caefb98b0a683d96cf601c5924efe603c80a8c7de267dafe93"
+    "bytes": 483,
+    "sha256": "1ca2b80ee169b0ae204f7af174819e51523bb568a56170ad0b20b94b233d0b36"
    }
   },
   {
    "id": "response-confession-amen-i-believe",
    "titles": {
-    "english": "Confession - Amen. I believe",
-    "arabic": "الإعتراف - حقاً. أؤمن"
+    "english": "Amen, I believe",
+    "arabic": "حقاً. أؤمن",
+    "coptic": "Ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ"
    },
+   "aka": [
+    "Confession - Amen. I believe"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5427,8 +5616,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-confession-amen-i-believe.json",
-    "bytes": 421,
-    "sha256": "f115b79358d4a215fa954cc6e070ee7966529543d6f228c03dc0d5da0742412d"
+    "bytes": 432,
+    "sha256": "fc2e4a02bf9fe567a0cd839eb51821dd1bcb514ba1054be7d62e883eaf386c1a"
    }
   },
   {
@@ -5466,7 +5655,8 @@
    "id": "response-in-christ-jesus-our-lord",
    "titles": {
     "english": "In Christ Jesus our Lord",
-    "arabic": "بالمسيح يسوع ربنا"
+    "arabic": "بالمسيح يسوع ربنا",
+    "coptic": "Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ"
    },
    "tags": [],
    "pending": false,
@@ -5485,8 +5675,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-in-christ-jesus-our-lord.json",
-    "bytes": 504,
-    "sha256": "887782c803aff5091ea27e7b05f096d9926d4bda4ddc78359492c85e005903e0"
+    "bytes": 577,
+    "sha256": "50cd953a890a348cd2708aecd6636dd6b163ff7eb2e6ac887afd3826719e87f0"
    }
   },
   {
@@ -5525,7 +5715,7 @@
    "titles": {
     "english": "This is also true. Amen",
     "arabic": "هذا هو أيضاً بالحقيقة. آمين",
-    "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ"
+    "coptic": "Ⲫⲁⲓ ⲟⲛ ⲡⲉ ϧⲉⲛ"
    },
    "aka": [
     "Institution Narrative (Blood) - This is also true. Amen"
@@ -5547,8 +5737,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-blood-this-is-also-true-amen.json",
-    "bytes": 593,
-    "sha256": "05f9769f2f9029049343e643b2ebae77b4702e17ca4d19baaec7180de0bbf48f"
+    "bytes": 602,
+    "sha256": "7e15e77436a11e649ed95575ca89a691f7e3c06d6e4c630335d9e582642988f4"
    }
   },
   {
@@ -5678,9 +5868,13 @@
   {
    "id": "response-intro-to-fraction-and-your-precious-blood",
    "titles": {
-    "english": "Intro to Fraction - And Your precious Blood",
-    "arabic": "مقدمة القسمة - ودمك الكريم"
+    "english": "And Your precious Blood",
+    "arabic": "ودمك الكريم",
+    "coptic": "Ⲛⲉⲙ Ⲡⲉⲕⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ"
    },
+   "aka": [
+    "Intro to Fraction - And Your precious Blood"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5698,16 +5892,20 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-intro-to-fraction-and-your-precious-blood.json",
-    "bytes": 514,
-    "sha256": "16a628ec5aef7aa1c2cfc28ee2a68ee77a57f39d9643d88fe8d4d0d941027c3f"
+    "bytes": 544,
+    "sha256": "e750f43a239147190423d036c95e1ed6a782cd1d2ae37812a3864d2483319faa"
    }
   },
   {
    "id": "response-intro-to-fraction-we-worship-your-holy-body",
    "titles": {
-    "english": "Intro to Fraction - We worship Your holy Body",
-    "arabic": "مقدمة القسمة - نسجد لجسدك المقدس"
+    "english": "We worship Your holy Body",
+    "arabic": "نسجد لجسدك المقدس",
+    "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲕⲥⲱⲙⲁ ⲉⲑⲟⲩⲁⲃ"
    },
+   "aka": [
+    "Intro to Fraction - We worship Your holy Body"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5725,8 +5923,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-intro-to-fraction-we-worship-your-holy-body.json",
-    "bytes": 557,
-    "sha256": "9edfdca99d622e422ee0afd9b19d51fdf1dcdeca89e7b61a84114ac0751dcfa0"
+    "bytes": 596,
+    "sha256": "22d18b45c24425e09c3528ae4142adbe5971e4bea641a904be994197a8ef79d2"
    }
   },
   {
@@ -5785,7 +5983,8 @@
    "id": "response-one-is-the-all-holy-father",
    "titles": {
     "english": "One is the All-Holy Father",
-    "arabic": "واحد هو الآب القدوس"
+    "arabic": "واحد هو الآب القدوس",
+    "coptic": "Ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ"
    },
    "tags": [],
    "pending": false,
@@ -5804,8 +6003,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-one-is-the-all-holy-father.json",
-    "bytes": 2371,
-    "sha256": "4bc0f483511887fd99a60bb6a4a1b2ae99732783e04ee81d9df91df97b992f03"
+    "bytes": 2426,
+    "sha256": "9fb29ce6cfa7cde80e7343d62b9ae2d92c2edaee676776e1b8cfb142b7e3006d"
    }
   },
   {
@@ -6033,11 +6232,41 @@
    }
   },
   {
+   "id": "seven-short-litanies-have-mercy-upon-us-english",
+   "titles": {
+    "english": "Have mercy upon us, O God the Father, the Pantocrator",
+    "arabic": "إرحمنا يا الله الآب ضابط الكل",
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "seven-short-litanies-have-mercy-upon-us-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/seven-short-litanies-have-mercy-upon-us-english.json",
+    "bytes": 748,
+    "sha256": "4b32cbce2c6763544b5cc9352f235d4af5092ff8b3c16fe30bc876979d89660f"
+   }
+  },
+  {
    "id": "seven-short-litanies-lord-have-mercy-english",
    "titles": {
-    "english": "Seven Short Litanies - Lord have mercy",
-    "arabic": "يا ربُّ إرحَم"
+    "english": "Lord have mercy",
+    "arabic": "يا ربُّ إرحَم",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
+   "aka": [
+    "Seven Short Litanies - Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -6053,8 +6282,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/seven-short-litanies-lord-have-mercy-english.json",
-    "bytes": 448,
-    "sha256": "8623c2e18cd781fb6de2b8656421f848bd952472348375222bf7dc936644b93a"
+    "bytes": 482,
+    "sha256": "b02e36cc89b83baa7d50f183fa339024aebb46b5bb09684b85e3fd6297c3d9fc"
    }
   },
   {
@@ -8262,7 +8491,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "St. Basil Liturgy - English · after “Amen. Lord have mercy, Lord have mercy, Lord have mercy”"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8293,7 +8522,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "St. Basil Liturgy - English · after “Before You, O Lord”"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8435,7 +8664,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
    "tune": {
-    "english": "St. Basil Liturgy - English · full ending"
+    "english": "St. Basil Liturgy - English · Long ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -8465,7 +8694,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
    "tune": {
-    "english": "St. Basil Liturgy - English · short ending"
+    "english": "St. Basil Liturgy - English · Short ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -9267,7 +9496,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2641",
    "tune": {
-    "english": "St. Basil Liturgy - English · Confession"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -9298,7 +9527,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "St. Basil Liturgy - English · Confession, first Amen"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -9329,7 +9558,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "St. Basil Liturgy - English · Confession, second Amen"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -9385,9 +9614,6 @@
     "of": 0
    },
    "source": "content/hymns/distribution-annual-psalm-150/",
-   "tune": {
-    "english": "With Psalm 150"
-   },
    "youtube": "https://www.youtube.com/watch?v=LwC3t6WzFd0",
    "files": [
     {
@@ -10037,28 +10263,28 @@
    ]
   },
   {
-   "id": "eleison-imas-je-nai-nan",
-   "text": "eleison-imas-je-nai-nan",
-   "duration": 205.33,
+   "id": "eleison-imas",
+   "text": "eleison-imas",
+   "duration": 121.45,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 8
+    "of": 4
    },
    "source": "https://tasbeha.org/hymn_library/view/338",
    "youtube": "https://www.youtube.com/watch?v=2r3OzfVD1nQ",
    "files": [
     {
-     "url": "catalog/v1/timings/eleison-imas-je-nai-nan.json",
-     "bytes": 96,
-     "sha256": "2f42e6c4b692613796ce7bab174cb1f2af146bc61cd112ccdf8639c078588b82",
+     "url": "catalog/v1/timings/eleison-imas.json",
+     "bytes": 74,
+     "sha256": "b50ee85920dbbcd389f9f435ee3822de45b4a52d92713f96f3eecbaa9691a224",
      "role": "timing"
     },
     {
-     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/eleison-imas-je-nai-nan/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/eleison-imas/audio.m4a",
      "role": "audio",
-     "bytes": 3321608,
-     "sha256": "641c37ebfaddec6e6095153c157f2a8ce365cab2f1de9693ed50d6765393aeae"
+     "bytes": 1911564,
+     "sha256": "49e37d06076a7a4d44c5ea64cd444a42398c8a3adf21e4c41c4db02df23a5a50"
     }
    ]
   },
@@ -10072,6 +10298,9 @@
     "of": 1
    },
    "source": "content/mahragan-keraza-2026/kg/level-2/ere-po-esmo-may-their-holy-blessing/",
+   "tune": {
+    "english": "Short ending"
+   },
    "youtube": "https://www.youtube.com/watch?v=UQeEvUJnwps",
    "files": [
     {
@@ -10437,7 +10666,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "St. Basil Liturgy - English · Fraction"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11132,9 +11361,9 @@
    ]
   },
   {
-   "id": "institution-narrative-blood-amen-3x-english",
-   "text": "institution-narrative-blood-amen-3x-english",
-   "duration": 42.38,
+   "id": "institution-narrative-blood-first-amen-english",
+   "text": "institution-narrative-blood-first-amen-english",
+   "duration": 12.22,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -11149,16 +11378,78 @@
    "language": "english",
    "files": [
     {
-     "url": "catalog/v1/timings/institution-narrative-blood-amen-3x-english.json",
-     "bytes": 136,
-     "sha256": "5f4cb85309b777c182157b75b23fd6895ef440306be18e1aa9a09dc56371398c",
+     "url": "catalog/v1/timings/institution-narrative-blood-first-amen-english.json",
+     "bytes": 142,
+     "sha256": "a65ee9c4c84823fa59bd752229b4dc6f2aa03313c991ea09abb3c9b912d92b6e",
      "role": "timing"
     },
     {
-     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-amen-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-first-amen-english/audio.m4a",
      "role": "audio",
-     "bytes": 517591,
-     "sha256": "a2337581c80f86d4a6186ecbbcc831e2a18c41392043b4f63d48464672d85646"
+     "bytes": 137354,
+     "sha256": "1ce4270fd27fdb2546530966139dfe9ec5a59c81723f9044dbd16f699574eb7f"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-blood-second-amen-english",
+   "text": "institution-narrative-blood-second-amen-english",
+   "duration": 11.48,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "tune": {
+    "english": "St. Basil Liturgy - English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-blood-second-amen-english.json",
+     "bytes": 144,
+     "sha256": "c587d2afaa9a707fc5d051a83652fcf9f813a1728213c21ad5971ca12bdd5e9d",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-second-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 125320,
+     "sha256": "7899cfb940e72e1a0376a1fba3a86d6a4a0b1da164d343c00ada35eb705f9206"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-blood-third-amen-english",
+   "text": "institution-narrative-blood-third-amen-english",
+   "duration": 18.68,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "tune": {
+    "english": "St. Basil Liturgy - English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-blood-third-amen-english.json",
+     "bytes": 142,
+     "sha256": "a0f5e0e62793a76421d60ecf09dba8f634b76d0f5d67b2c8f1cdac4d1c41dc2b",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-blood-third-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 207076,
+     "sha256": "81627eb990df3a0233703b3553e5862d64d74115042d46ca177cd4eb12444640"
     }
    ]
   },
@@ -11194,9 +11485,9 @@
    ]
   },
   {
-   "id": "institution-narrative-body-amen-3x-english",
-   "text": "institution-narrative-body-amen-3x-english",
-   "duration": 43.31,
+   "id": "institution-narrative-body-first-amen-english",
+   "text": "institution-narrative-body-first-amen-english",
+   "duration": 12.2,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -11211,16 +11502,78 @@
    "language": "english",
    "files": [
     {
-     "url": "catalog/v1/timings/institution-narrative-body-amen-3x-english.json",
-     "bytes": 134,
-     "sha256": "e0445be70f60e7cd63a880fae1464d949f1890655e41f8b5034e2a627e579931",
+     "url": "catalog/v1/timings/institution-narrative-body-first-amen-english.json",
+     "bytes": 140,
+     "sha256": "38269de5ffac15d1719bb0d7122ca7f894cb88033bf0dad43cf3c97f7f8f4579",
      "role": "timing"
     },
     {
-     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-amen-3x-english/audio.m4a",
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-first-amen-english/audio.m4a",
      "role": "audio",
-     "bytes": 528895,
-     "sha256": "ba2f4134a6f85ecaa83852c3b3638fa1654d3a97ceac0ad63a062142425fe52f"
+     "bytes": 137317,
+     "sha256": "7ff611d88a5d641fd136bb56bbaadffd050478b1a5ac435358d748995eea8e86"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-body-second-amen-english",
+   "text": "institution-narrative-body-second-amen-english",
+   "duration": 11.77,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "tune": {
+    "english": "St. Basil Liturgy - English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-body-second-amen-english.json",
+     "bytes": 142,
+     "sha256": "899adc57fad24e88cee0934003380d9ccb7497ff37fc30e1055e8f52d540c25d",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-second-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 133269,
+     "sha256": "7b168a1f58e6e6896b38f3c8d906572e24edf5cc04ebbf20f5f5c1a9f4441d14"
+    }
+   ]
+  },
+  {
+   "id": "institution-narrative-body-third-amen-english",
+   "text": "institution-narrative-body-third-amen-english",
+   "duration": 19.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/2620",
+   "tune": {
+    "english": "St. Basil Liturgy - English"
+   },
+   "cantor": "English Hymns Committee",
+   "kind": "recital",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/institution-narrative-body-third-amen-english.json",
+     "bytes": 140,
+     "sha256": "c9fb908a6571de1e197b1a838df2e45e54d5a3c31071508a5b0e8bec85162909",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/institution-narrative-body-third-amen-english/audio.m4a",
+     "role": "audio",
+     "bytes": 214177,
+     "sha256": "b84211f13613886c600de7d0903799036d4a5fd9c8e450aafdf3912a28fd9870"
     }
    ]
   },
@@ -11437,7 +11790,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
    "tune": {
-    "english": "St. Basil Liturgy - English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11468,7 +11821,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "St. Basil Liturgy - English · Intro to Fraction, second time"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11499,7 +11852,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
    "tune": {
-    "english": "St. Basil Liturgy - English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11530,7 +11883,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2637",
    "tune": {
-    "english": "St. Basil Liturgy - English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11561,7 +11914,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "St. Basil Liturgy - English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11592,7 +11945,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2636",
    "tune": {
-    "english": "St. Basil Liturgy - English · Intro to Fraction"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11614,30 +11967,27 @@
   },
   {
    "id": "je-nai-nan",
-   "text": "eleison-imas-je-nai-nan",
-   "duration": 207.12,
+   "text": "je-nai-nan",
+   "duration": 81.47,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 4
    },
    "source": "content/hymns/je-nai-nan/",
-   "tune": {
-    "english": "Je Nai Nan only"
-   },
    "youtube": "https://www.youtube.com/watch?v=u0vaygdZyoE",
    "files": [
     {
      "url": "catalog/v1/timings/je-nai-nan.json",
-     "bytes": 83,
-     "sha256": "94386d208c204461d3a5fe7bd1a6d62ba1eb53be2185b58d3a3a6352cf9398bc",
+     "bytes": 70,
+     "sha256": "d2f2076f6cdc826db97fc220ea6990e27a0e3bb5136b4d60c0d4c3f0be2d82a1",
      "role": "timing"
     },
     {
      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/je-nai-nan/audio.m4a",
      "role": "audio",
-     "bytes": 3350523,
-     "sha256": "54ceb98b97a8c4a300be7c90e334a7357af8b123051c3b4bc1b6b1b6ee35c934"
+     "bytes": 1242011,
+     "sha256": "65c77198620451b577cdf79d0f664a5f782e74dd0de2c4805f6bfdcdace873e8"
     }
    ]
   },
@@ -12045,7 +12395,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2635",
    "tune": {
-    "english": "St. Basil Liturgy - English · full ending"
+    "english": "St. Basil Liturgy - English · Long ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -12075,7 +12425,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2635",
    "tune": {
-    "english": "St. Basil Liturgy - English · short ending"
+    "english": "St. Basil Liturgy - English · Short ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
@@ -12194,7 +12544,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
    "tune": {
-    "english": "St. Basil Liturgy - English · Nature Litany"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12307,7 +12657,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "St. Basil Liturgy - English · Oblations Litany"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12424,6 +12774,9 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
+   "tune": {
+    "english": "Long ending (another melody)"
+   },
    "youtube": "https://www.youtube.com/watch?v=m5S7daNdUQc",
    "files": [
     {
@@ -14826,24 +15179,25 @@
   },
   {
    "id": "seven-short-litanies-have-mercy-upon-us-english",
-   "text": "eleison-imas-je-nai-nan",
+   "text": "seven-short-litanies-have-mercy-upon-us-english",
    "duration": 17.46,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2634",
    "tune": {
     "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
+   "kind": "recital",
    "language": "english",
    "files": [
     {
      "url": "catalog/v1/timings/seven-short-litanies-have-mercy-upon-us-english.json",
-     "bytes": 120,
-     "sha256": "23cf8915df9a02e8e61bc69f5ce07891eb1a3fcd0aa9a6f22f37bea9a0a3f7bf",
+     "bytes": 144,
+     "sha256": "1ab54b06f83e4e2cd9545eb7d79a6aa05f86747da88af414222276e32008fbe4",
      "role": "timing"
     },
     {
@@ -14865,7 +15219,7 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
    "tune": {
-    "english": "St. Basil Liturgy - English · Seven Short Litanies"
+    "english": "St. Basil Liturgy - English"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",

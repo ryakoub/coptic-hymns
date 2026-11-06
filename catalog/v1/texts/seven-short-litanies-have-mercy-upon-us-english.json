@@ -1,0 +1,22 @@
+{
+ "id": "seven-short-litanies-have-mercy-upon-us-english",
+ "titles": {
+  "english": "Have mercy upon us, O God the Father, the Pantocrator",
+  "arabic": "إرحمنا يا الله الآب ضابط الكل",
+  "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+   "translations": {
+    "english": "Have mercy upon us, O God the Father, the Pantocrator.",
+    "arabic": "إرحمنا يا الله الآب ضابط الكل."
+   },
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos o Pateer o Pantokrator."
+   }
+  }
+ ]
+}

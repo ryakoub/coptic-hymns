@@ -1,12 +1,12 @@
 [
   {
-    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
     "transliterations": {
-      "english": "Kirie ele-eeson."
+      "english": "Kirie ele-eeson: Kirie ele-eeson: Kirie ele-eeson."
     },
     "translations": {
-      "english": "Lord have mercy.",
-      "arabic": "يا ربُّ إرحَم."
+      "english": "Lord have mercy, Lord have mercy, Lord have mercy.",
+      "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
     }
   }
 ]

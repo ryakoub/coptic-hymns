@@ -1,7 +1,7 @@
 {
   "titles": {
-    "english": "Institution Narrative (Body) - Amen 3x",
-    "arabic": "آمين، آمين، آمين"
+    "english": "Second Amen",
+    "arabic": "آمين"
   },
   "language": "english",
   "tune": {
@@ -12,7 +12,7 @@
   "places": [
     "annual/liturgy"
   ],
-  "order": 3540,
+  "order": 3556,
   "group": {
     "english": "Institution Narrative"
   },

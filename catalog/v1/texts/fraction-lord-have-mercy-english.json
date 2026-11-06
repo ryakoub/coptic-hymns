@@ -1,20 +1,21 @@
 {
  "id": "fraction-lord-have-mercy-english",
  "titles": {
-  "english": "Fraction - Lord have mercy",
-  "arabic": "يا ربُّ إرحَم"
+  "english": "Lord have mercy, Lord have mercy, Lord have mercy",
+  "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
+  "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
  },
  "lines": [
   {
    "id": "l1",
    "side": 0,
-   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
    "translations": {
-    "english": "Lord have mercy.",
-    "arabic": "يا ربُّ إرحَم."
+    "english": "Lord have mercy, Lord have mercy, Lord have mercy.",
+    "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم."
    },
    "transliterations": {
-    "english": "Kirie ele-eeson."
+    "english": "Kirie ele-eeson: Kirie ele-eeson: Kirie ele-eeson."
    }
   }
  ]

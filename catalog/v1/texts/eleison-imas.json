@@ -1,0 +1,58 @@
+{
+ "id": "eleison-imas",
+ "titles": {
+  "english": "Eleison Imas",
+  "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+  "arabic": "إليسون إيماس"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "side": 0,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
+   "translations": {
+    "english": "Have mercy upon us O God, the Father, the Pantocrator.",
+    "arabic": "إرحمنا يا الله الآب ضابط الكل."
+   },
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos o Pateer o Pantokrator."
+   }
+  },
+  {
+   "id": "l2",
+   "side": 1,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲥⲱⲧⲏⲣ ⲏ̀ⲙⲱⲛ.",
+   "translations": {
+    "english": "Have mercy upon us O God our Savior.",
+    "arabic": "إرحمنا يا الله مخلصنا."
+   },
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos o Soteer eemon."
+   }
+  },
+  {
+   "id": "l3",
+   "side": 0,
+   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲕⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ.",
+   "translations": {
+    "english": "Have mercy upon us O God and have mercy.",
+    "arabic": "إرحمنا يا الله ثم إرحمنا."
+   },
+   "transliterations": {
+    "english": "Ele-eeson eemas o Theos ke ele-eeson eemas."
+   }
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "translations": {
+    "english": "Lord have mercy.",
+    "arabic": "يا ربُّ إرحَم."
+   },
+   "transliterations": {
+    "english": "Kirie ele-eeson."
+   }
+  }
+ ]
+}

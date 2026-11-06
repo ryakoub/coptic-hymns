@@ -6,17 +6,10 @@
     "arabic": "آللي التوزيع السنوي"
   },
   "source": "https://tasbeha.org/hymn_library/view/228",
-  "places": [
-    "annual/liturgy"
-  ],
   "youtube": "https://www.youtube.com/watch?v=OA5AUcE20mY",
   "mahragan": {
     "year": 2025,
     "stage": "grades-1-2",
     "level": "gifted"
-  },
-  "group": {
-    "english": "Communion"
-  },
-  "order": 4000
+  }
 }
