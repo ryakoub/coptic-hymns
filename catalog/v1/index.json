@@ -1,6 +1,6 @@
 {
- "version": "05baccb7127e87eb",
- "updated": "2026-11-06T02:28:50Z",
+ "version": "d8856bb3f3cec5dd",
+ "updated": "2026-11-06T02:32:10Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -278,9 +278,6 @@
         "institution-narrative-body-third-amen-english",
         "institution-narrative-body-we-believe-we-confess-english",
         "institution-narrative-body-this-is-true-english",
-        "institution-narrative-blood-first-amen-english",
-        "institution-narrative-blood-second-amen-english",
-        "institution-narrative-blood-third-amen-english",
         "institution-narrative-blood-again-we-believe-we-confess-english",
         "institution-narrative-blood-this-is-also-true-amen-english",
         "amen-ton-thanaton",
@@ -377,9 +374,6 @@
           "institution-narrative-body-third-amen-english",
           "institution-narrative-body-we-believe-we-confess-english",
           "institution-narrative-body-this-is-true-english",
-          "institution-narrative-blood-first-amen-english",
-          "institution-narrative-blood-second-amen-english",
-          "institution-narrative-blood-third-amen-english",
           "institution-narrative-blood-again-we-believe-we-confess-english",
           "institution-narrative-blood-this-is-also-true-amen-english",
           "amen-ton-thanaton",
@@ -463,9 +457,6 @@
           "institution-narrative-body-third-amen-english",
           "institution-narrative-body-we-believe-we-confess-english",
           "institution-narrative-body-this-is-true-english",
-          "institution-narrative-blood-first-amen-english",
-          "institution-narrative-blood-second-amen-english",
-          "institution-narrative-blood-third-amen-english",
           "institution-narrative-blood-again-we-believe-we-confess-english",
           "institution-narrative-blood-this-is-also-true-amen-english",
           "amen-ton-thanaton",
@@ -3980,6 +3971,9 @@
     "arabic": "آمين",
     "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
+   "subtitle": {
+    "english": "Sung after the Body and after the Blood"
+   },
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4006,6 +4000,9 @@
     "arabic": "آمين",
     "coptic": "Ⲁ̀ⲙⲏⲛ"
    },
+   "subtitle": {
+    "english": "Sung after the Body and after the Blood"
+   },
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4031,6 +4028,9 @@
     "english": "Third Amen",
     "arabic": "آمين",
     "coptic": "Ⲁ̀ⲙⲏⲛ"
+   },
+   "subtitle": {
+    "english": "Sung after the Body and after the Blood"
    },
    "tags": [],
    "pending": false,
@@ -5671,7 +5671,7 @@
   {
    "id": "response-institution-narrative-blood-again-we-believe-we-confess",
    "titles": {
-    "english": "Again, we believe, we confess, and we glorify",
+    "english": "Again, we believe, we confess",
     "arabic": "وأيضاً نؤمن ونعترف ونمجد",
     "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ"
    },
@@ -5694,8 +5694,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-institution-narrative-blood-again-we-believe-we-confess.json",
-    "bytes": 745,
-    "sha256": "c819e2ac25f5b3cbbc0b45a5759d8016c0974b1e40b16ffd0ec156422387a1b7"
+    "bytes": 729,
+    "sha256": "d990330f165b814e25f142b5bf504eb8a4a8e5f4253cc4a317322fe1bff1a138"
    }
   },
   {

@@ -382,7 +382,7 @@
   "arabic": "بالمسيح يسوع ربنا"
  },
  "response-institution-narrative-blood-again-we-believe-we-confess": {
-  "name": "Again, we believe, we confess, and we glorify",
+  "name": "Again, we believe, we confess",
   "coptic": "Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ",
   "arabic": "وأيضاً نؤمن ونعترف ونمجد"
  },
@@ -640,16 +640,19 @@
  },
  "institution-narrative-body-first-amen-english": {
   "name": "First Amen",
+  "says": "Sung after the Body and after the Blood",
   "coptic": "Ⲁ̀ⲙⲏⲛ",
   "arabic": "آمين"
  },
  "institution-narrative-body-second-amen-english": {
   "name": "Second Amen",
+  "says": "Sung after the Body and after the Blood",
   "coptic": "Ⲁ̀ⲙⲏⲛ",
   "arabic": "آمين"
  },
  "institution-narrative-body-third-amen-english": {
   "name": "Third Amen",
+  "says": "Sung after the Body and after the Blood",
   "coptic": "Ⲁ̀ⲙⲏⲛ",
   "arabic": "آمين"
  },
