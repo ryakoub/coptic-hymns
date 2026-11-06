@@ -1,5 +1,410 @@
 {
  "recording": "leepon-english",
  "text": "leepon",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.48,
+   "words": [
+    {
+     "text": "And",
+     "start": 0.48,
+     "end": null
+    },
+    {
+     "text": "whenever",
+     "start": 0.88,
+     "end": null
+    },
+    {
+     "text": "we,",
+     "start": 2.51,
+     "end": null
+    },
+    {
+     "text": "gather",
+     "start": 3.68,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "prayer,",
+     "start": 5.21,
+     "end": null
+    },
+    {
+     "text": "let",
+     "start": 6.98,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "bless",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "name,",
+     "start": 9.15,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 10.51,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Jesus.",
+     "start": 12.08,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 13.95,
+   "words": [
+    {
+     "text": "We",
+     "start": 13.95,
+     "end": null
+    },
+    {
+     "text": "bless",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "You,",
+     "start": 16.31,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 17.55,
+     "end": null
+    },
+    {
+     "text": "my",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Jesus,",
+     "start": 19.31,
+     "end": null
+    },
+    {
+     "text": "deliver",
+     "start": 20.65,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "name,",
+     "start": 23.18,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 24.2,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "hope",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "You.",
+     "start": 25.75,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 28.08,
+   "words": [
+    {
+     "text": "That",
+     "start": 28.08,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "may",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "You,",
+     "start": 29.85,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 31.35,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "good",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 33.38,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 34.59,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Spirit,",
+     "start": 36.71,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 37.48,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "(risen/come)",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "saved",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "us.",
+     "start": 39.98,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 41.41,
+   "words": [
+    {
+     "text": "Glory",
+     "start": 41.41,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 41.91,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Son,",
+     "start": 43.85,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 45.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Spirit,",
+     "start": 46.91,
+     "end": null
+    },
+    {
+     "text": "now",
+     "start": 48.01,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever",
+     "start": 49.15,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "unto,",
+     "start": 50.55,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 51.98,
+     "end": null
+    },
+    {
+     "text": "age",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ages",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Amen.",
+     "start": 53.41,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

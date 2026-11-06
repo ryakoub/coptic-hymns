@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.51,
+    "words": [
+      {
+        "text": "We",
+        "start": 0.51
+      },
+      {
+        "text": "the",
+        "start": 1.51
+      },
+      {
+        "text": "believers",
+        "start": 2.31
+      },
+      {
+        "text": "hymn",
+        "start": 4.81
+      },
+      {
+        "text": "and",
+        "start": 7.08
+      },
+      {
+        "text": "worship",
+        "start": 8.25
+      },
+      {
+        "text": "the",
+        "start": 9.58
+      },
+      {
+        "text": "Logos,",
+        "start": 10.15
+      },
+      {
+        "text": "without",
+        "start": 12.68,
+        "estimated": true
+      },
+      {
+        "text": "beginning",
+        "start": 15.21
+      },
+      {
+        "text": "with",
+        "start": 17.41
+      },
+      {
+        "text": "the",
+        "start": 19.71
+      },
+      {
+        "text": "Father",
+        "start": 20.58
+      },
+      {
+        "text": "and",
+        "start": 22.25
+      },
+      {
+        "text": "the",
+        "start": 23.78
+      },
+      {
+        "text": "Spirit,",
+        "start": 24.48
+      },
+      {
+        "text": "having",
+        "start": 28.15
+      },
+      {
+        "text": "been",
+        "start": 29.55
+      },
+      {
+        "text": "born",
+        "start": 30.35
+      },
+      {
+        "text": "of",
+        "start": 31.28
+      },
+      {
+        "text": "a",
+        "start": 32.0,
+        "estimated": true
+      },
+      {
+        "text": "virgin",
+        "start": 32.71
+      },
+      {
+        "text": "for",
+        "start": 34.31,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 35.11
+      },
+      {
+        "text": "salvation,",
+        "start": 35.68
+      },
+      {
+        "text": "for",
+        "start": 40.78
+      },
+      {
+        "text": "He",
+        "start": 42.11
+      },
+      {
+        "text": "appeared",
+        "start": 43.11
+      },
+      {
+        "text": "in",
+        "start": 44.18
+      },
+      {
+        "text": "the",
+        "start": 45.75
+      },
+      {
+        "text": "flesh",
+        "start": 47.28
+      },
+      {
+        "text": "to",
+        "start": 49.1,
+        "estimated": true
+      },
+      {
+        "text": "ascend",
+        "start": 50.91
+      },
+      {
+        "text": "on",
+        "start": 52.66,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 53.54,
+        "estimated": true
+      },
+      {
+        "text": "Cross.",
+        "start": 54.41
+      },
+      {
+        "text": "He",
+        "start": 55.1,
+        "estimated": true
+      },
+      {
+        "text": "persevered",
+        "start": 55.78
+      },
+      {
+        "text": "unto",
+        "start": 58.08
+      },
+      {
+        "text": "death",
+        "start": 59.58
+      },
+      {
+        "text": "and",
+        "start": 63.65
+      },
+      {
+        "text": "raised",
+        "start": 64.78
+      },
+      {
+        "text": "the",
+        "start": 68.21
+      },
+      {
+        "text": "dead",
+        "start": 68.78
+      },
+      {
+        "text": "through",
+        "start": 71.28
+      },
+      {
+        "text": "His",
+        "start": 72.21
+      },
+      {
+        "text": "glorious",
+        "start": 73.01
+      },
+      {
+        "text": "Resurrection.",
+        "start": 75.25
+      }
+    ]
+  }
+]

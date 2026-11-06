@@ -1,5 +1,252 @@
 {
  "recording": "ton-syna-english-chie",
  "text": "ton-syna",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.51,
+   "words": [
+    {
+     "text": "We",
+     "start": 0.51,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 1.51,
+     "end": null
+    },
+    {
+     "text": "believers",
+     "start": 2.31,
+     "end": null
+    },
+    {
+     "text": "hymn",
+     "start": 4.81,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 7.08,
+     "end": null
+    },
+    {
+     "text": "worship",
+     "start": 8.25,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 9.58,
+     "end": null
+    },
+    {
+     "text": "Logos,",
+     "start": 10.15,
+     "end": null
+    },
+    {
+     "text": "without",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "beginning",
+     "start": 15.21,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 17.41,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 19.71,
+     "end": null
+    },
+    {
+     "text": "Father",
+     "start": 20.58,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 22.25,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 23.78,
+     "end": null
+    },
+    {
+     "text": "Spirit,",
+     "start": 24.48,
+     "end": null
+    },
+    {
+     "text": "having",
+     "start": 28.15,
+     "end": null
+    },
+    {
+     "text": "been",
+     "start": 29.55,
+     "end": null
+    },
+    {
+     "text": "born",
+     "start": 30.35,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 31.28,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "virgin",
+     "start": 32.71,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 35.11,
+     "end": null
+    },
+    {
+     "text": "salvation,",
+     "start": 35.68,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": 40.78,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 42.11,
+     "end": null
+    },
+    {
+     "text": "appeared",
+     "start": 43.11,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": 44.18,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 45.75,
+     "end": null
+    },
+    {
+     "text": "flesh",
+     "start": 47.28,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ascend",
+     "start": 50.91,
+     "end": null
+    },
+    {
+     "text": "on",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Cross.",
+     "start": 54.41,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "persevered",
+     "start": 55.78,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": 58.08,
+     "end": null
+    },
+    {
+     "text": "death",
+     "start": 59.58,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 63.65,
+     "end": null
+    },
+    {
+     "text": "raised",
+     "start": 64.78,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 68.21,
+     "end": null
+    },
+    {
+     "text": "dead",
+     "start": 68.78,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": 71.28,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 72.21,
+     "end": null
+    },
+    {
+     "text": "glorious",
+     "start": 73.01,
+     "end": null
+    },
+    {
+     "text": "Resurrection.",
+     "start": 75.25,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

@@ -1,1 +1,1028 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.44,
+    "words": [
+      {
+        "text": "You",
+        "start": 0.44
+      },
+      {
+        "text": "are",
+        "start": 1.04
+      },
+      {
+        "text": "called",
+        "start": 1.51
+      },
+      {
+        "text": "righteous,",
+        "start": 2.11
+      },
+      {
+        "text": "O",
+        "start": 4.02,
+        "estimated": true
+      },
+      {
+        "text": "blessed",
+        "start": 4.98
+      },
+      {
+        "text": "one,",
+        "start": 6.11
+      },
+      {
+        "text": "among",
+        "start": 7.44
+      },
+      {
+        "text": "women,",
+        "start": 8.98
+      },
+      {
+        "text": "the",
+        "start": 10.11
+      },
+      {
+        "text": "second",
+        "start": 10.64
+      },
+      {
+        "text": "tabernacle.",
+        "start": 11.74
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 14.31,
+    "words": [
+      {
+        "text": "Which",
+        "start": 14.31
+      },
+      {
+        "text": "is",
+        "start": 15.31
+      },
+      {
+        "text": "called,",
+        "start": 16.28
+      },
+      {
+        "text": "the",
+        "start": 17.51
+      },
+      {
+        "text": "holy,",
+        "start": 18.74
+      },
+      {
+        "text": "of",
+        "start": 21.08
+      },
+      {
+        "text": "holies,",
+        "start": 22.14
+      },
+      {
+        "text": "wherein",
+        "start": 23.91
+      },
+      {
+        "text": "are",
+        "start": 24.88
+      },
+      {
+        "text": "the",
+        "start": 25.38
+      },
+      {
+        "text": "tablets.",
+        "start": 25.94
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 28.28,
+    "words": [
+      {
+        "text": "Of",
+        "start": 28.28
+      },
+      {
+        "text": "the",
+        "start": 28.75
+      },
+      {
+        "text": "covenant,",
+        "start": 29.18
+      },
+      {
+        "text": "and",
+        "start": 30.88,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 31.45,
+        "estimated": true
+      },
+      {
+        "text": "ten",
+        "start": 32.01
+      },
+      {
+        "text": "commandments,",
+        "start": 32.48
+      },
+      {
+        "text": "which",
+        "start": 34.85
+      },
+      {
+        "text": "are",
+        "start": 36.15
+      },
+      {
+        "text": "written,",
+        "start": 36.91,
+        "estimated": true
+      },
+      {
+        "text": "by",
+        "start": 37.68
+      },
+      {
+        "text": "the",
+        "start": 38.15
+      },
+      {
+        "text": "finger",
+        "start": 38.75
+      },
+      {
+        "text": "of",
+        "start": 39.91
+      },
+      {
+        "text": "God.",
+        "start": 40.45
+      }
+    ]
+  },
+  {
+    "line": "l4",
+    "start": 41.55,
+    "words": [
+      {
+        "text": "They",
+        "start": 41.55
+      },
+      {
+        "text": "have",
+        "start": 42.01
+      },
+      {
+        "text": "directed",
+        "start": 42.48
+      },
+      {
+        "text": "us,",
+        "start": 44.01
+      },
+      {
+        "text": "to",
+        "start": 45.35
+      },
+      {
+        "text": "the",
+        "start": 46.61
+      },
+      {
+        "text": "Iota,",
+        "start": 47.15
+      },
+      {
+        "text": "the",
+        "start": 48.5,
+        "estimated": true
+      },
+      {
+        "text": "name",
+        "start": 49.18
+      },
+      {
+        "text": "of",
+        "start": 49.65,
+        "estimated": true
+      },
+      {
+        "text": "salvation,",
+        "start": 49.88
+      },
+      {
+        "text": "of",
+        "start": 52.21
+      },
+      {
+        "text": "Jesus",
+        "start": 53.38
+      },
+      {
+        "text": "Christ.",
+        "start": 53.88
+      }
+    ]
+  },
+  {
+    "line": "l5",
+    "start": 55.78,
+    "words": [
+      {
+        "text": "Who",
+        "start": 55.78
+      },
+      {
+        "text": "was",
+        "start": 56.35
+      },
+      {
+        "text": "incarnate,",
+        "start": 56.95
+      },
+      {
+        "text": "of",
+        "start": 58.95
+      },
+      {
+        "text": "you",
+        "start": 59.98
+      },
+      {
+        "text": "without",
+        "start": 60.41
+      },
+      {
+        "text": "change,",
+        "start": 61.48
+      },
+      {
+        "text": "and",
+        "start": 62.31
+      },
+      {
+        "text": "became",
+        "start": 62.68
+      },
+      {
+        "text": "the",
+        "start": 63.35
+      },
+      {
+        "text": "Mediator,",
+        "start": 63.78
+      },
+      {
+        "text": "of",
+        "start": 65.48
+      },
+      {
+        "text": "a",
+        "start": 66.21
+      },
+      {
+        "text": "new",
+        "start": 66.71
+      },
+      {
+        "text": "covenant.",
+        "start": 67.25
+      }
+    ]
+  },
+  {
+    "line": "l6",
+    "start": 69.75,
+    "words": [
+      {
+        "text": "Through",
+        "start": 69.75
+      },
+      {
+        "text": "the",
+        "start": 70.95
+      },
+      {
+        "text": "shedding,",
+        "start": 71.35
+      },
+      {
+        "text": "of",
+        "start": 72.73,
+        "estimated": true
+      },
+      {
+        "text": "His",
+        "start": 73.42,
+        "estimated": true
+      },
+      {
+        "text": "holy",
+        "start": 74.11
+      },
+      {
+        "text": "Blood,",
+        "start": 75.41
+      },
+      {
+        "text": "He",
+        "start": 76.28
+      },
+      {
+        "text": "purified",
+        "start": 76.75
+      },
+      {
+        "text": "the",
+        "start": 77.61
+      },
+      {
+        "text": "faithful,",
+        "start": 78.25
+      },
+      {
+        "text": "to",
+        "start": 79.35
+      },
+      {
+        "text": "be",
+        "start": 79.59,
+        "estimated": true
+      },
+      {
+        "text": "a",
+        "start": 79.84,
+        "estimated": true
+      },
+      {
+        "text": "justified",
+        "start": 80.08
+      },
+      {
+        "text": "people.",
+        "start": 81.58
+      }
+    ]
+  },
+  {
+    "line": "l7",
+    "start": 83.58,
+    "words": [
+      {
+        "text": "Wherefore",
+        "start": 83.58
+      },
+      {
+        "text": "everyone,",
+        "start": 84.68
+      },
+      {
+        "text": "magnifies",
+        "start": 86.95
+      },
+      {
+        "text": "you,",
+        "start": 89.31
+      },
+      {
+        "text": "O",
+        "start": 89.7,
+        "estimated": true
+      },
+      {
+        "text": "my",
+        "start": 90.09,
+        "estimated": true
+      },
+      {
+        "text": "Lady",
+        "start": 90.48
+      },
+      {
+        "text": "the",
+        "start": 91.21,
+        "estimated": true
+      },
+      {
+        "text": "Mother",
+        "start": 91.58
+      },
+      {
+        "text": "of",
+        "start": 92.31,
+        "estimated": true
+      },
+      {
+        "text": "God,",
+        "start": 92.68
+      },
+      {
+        "text": "the",
+        "start": 93.51,
+        "estimated": true
+      },
+      {
+        "text": "ever-holy.",
+        "start": 94.35
+      }
+    ]
+  },
+  {
+    "line": "l8",
+    "start": 97.58,
+    "words": [
+      {
+        "text": "And",
+        "start": 97.58
+      },
+      {
+        "text": "we",
+        "start": 98.05
+      },
+      {
+        "text": "also",
+        "start": 98.58
+      },
+      {
+        "text": "pray,",
+        "start": 99.61
+      },
+      {
+        "text": "that",
+        "start": 100.41
+      },
+      {
+        "text": "we",
+        "start": 100.91
+      },
+      {
+        "text": "may",
+        "start": 101.48
+      },
+      {
+        "text": "win",
+        "start": 102.01
+      },
+      {
+        "text": "mercy,",
+        "start": 102.55
+      },
+      {
+        "text": "through",
+        "start": 104.28
+      },
+      {
+        "text": "your",
+        "start": 104.75
+      },
+      {
+        "text": "intercessions,",
+        "start": 105.38
+      },
+      {
+        "text": "with",
+        "start": 106.81
+      },
+      {
+        "text": "the",
+        "start": 107.32,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 107.83,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 108.84,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 109.35
+      }
+    ]
+  },
+  {
+    "line": "l9",
+    "start": 111.58,
+    "words": [
+      {
+        "text": "Who",
+        "start": 111.58
+      },
+      {
+        "text": "can",
+        "start": 111.98
+      },
+      {
+        "text": "speak",
+        "start": 112.48
+      },
+      {
+        "text": "of,",
+        "start": 113.68
+      },
+      {
+        "text": "the",
+        "start": 114.06,
+        "estimated": true
+      },
+      {
+        "text": "honor",
+        "start": 114.45
+      },
+      {
+        "text": "of",
+        "start": 115.26,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 115.67,
+        "estimated": true
+      },
+      {
+        "text": "tabernacle,",
+        "start": 116.08
+      },
+      {
+        "text": "which",
+        "start": 118.28
+      },
+      {
+        "text": "Moses",
+        "start": 118.88
+      },
+      {
+        "text": "had",
+        "start": 119.9,
+        "estimated": true
+      },
+      {
+        "text": "made,",
+        "start": 120.41
+      },
+      {
+        "text": "on",
+        "start": 121.97,
+        "estimated": true
+      },
+      {
+        "text": "Mount",
+        "start": 122.75
+      },
+      {
+        "text": "Sinai.",
+        "start": 123.25
+      }
+    ]
+  },
+  {
+    "line": "l10",
+    "start": 124.85,
+    "words": [
+      {
+        "text": "He",
+        "start": 124.85
+      },
+      {
+        "text": "made",
+        "start": 125.28
+      },
+      {
+        "text": "it",
+        "start": 126.03,
+        "estimated": true
+      },
+      {
+        "text": "with",
+        "start": 126.41,
+        "estimated": true
+      },
+      {
+        "text": "glory,",
+        "start": 126.78
+      },
+      {
+        "text": "as",
+        "start": 127.83,
+        "estimated": true
+      },
+      {
+        "text": "commanded",
+        "start": 128.35
+      },
+      {
+        "text": "by",
+        "start": 129.49,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 129.87,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 130.25
+      },
+      {
+        "text": "and",
+        "start": 131.78
+      },
+      {
+        "text": "according",
+        "start": 132.55
+      },
+      {
+        "text": "to",
+        "start": 133.47,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 133.77,
+        "estimated": true
+      },
+      {
+        "text": "pattern,",
+        "start": 134.08
+      },
+      {
+        "text": "shown",
+        "start": 135.35
+      },
+      {
+        "text": "unto",
+        "start": 136.07,
+        "estimated": true
+      },
+      {
+        "text": "him.",
+        "start": 137.51
+      }
+    ]
+  },
+  {
+    "line": "l11",
+    "start": 139.21,
+    "words": [
+      {
+        "text": "Therein",
+        "start": 139.21
+      },
+      {
+        "text": "Aaron,",
+        "start": 139.81
+      },
+      {
+        "text": "and",
+        "start": 141.4,
+        "estimated": true
+      },
+      {
+        "text": "his",
+        "start": 142.19,
+        "estimated": true
+      },
+      {
+        "text": "sons",
+        "start": 142.98,
+        "estimated": true
+      },
+      {
+        "text": "served,",
+        "start": 143.77,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 145.35,
+        "estimated": true
+      },
+      {
+        "text": "example",
+        "start": 146.15
+      },
+      {
+        "text": "of",
+        "start": 147.23,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 147.59,
+        "estimated": true
+      },
+      {
+        "text": "highest,",
+        "start": 147.96,
+        "estimated": true
+      },
+      {
+        "text": "in",
+        "start": 148.68,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 149.04,
+        "estimated": true
+      },
+      {
+        "text": "shadow",
+        "start": 149.4,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 150.12,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 150.49,
+        "estimated": true
+      },
+      {
+        "text": "heavenly",
+        "start": 150.85
+      },
+      {
+        "text": "ones.",
+        "start": 151.51
+      }
+    ]
+  },
+  {
+    "line": "l12",
+    "start": 152.58,
+    "words": [
+      {
+        "text": "They",
+        "start": 152.58
+      },
+      {
+        "text": "likened",
+        "start": 152.96,
+        "estimated": true
+      },
+      {
+        "text": "it",
+        "start": 154.11
+      },
+      {
+        "text": "to",
+        "start": 154.68
+      },
+      {
+        "text": "you,",
+        "start": 155.21
+      },
+      {
+        "text": "O",
+        "start": 156.51
+      },
+      {
+        "text": "Virgin",
+        "start": 157.01
+      },
+      {
+        "text": "Mary,",
+        "start": 157.95
+      },
+      {
+        "text": "the",
+        "start": 160.01
+      },
+      {
+        "text": "true",
+        "start": 160.48
+      },
+      {
+        "text": "tabernacle,",
+        "start": 161.08
+      },
+      {
+        "text": "wherein",
+        "start": 162.78
+      },
+      {
+        "text": "dwelt",
+        "start": 164.85
+      },
+      {
+        "text": "God.",
+        "start": 165.28
+      }
+    ]
+  },
+  {
+    "line": "l13",
+    "start": 166.51,
+    "words": [
+      {
+        "text": "Wherefore",
+        "start": 166.51
+      },
+      {
+        "text": "we,",
+        "start": 168.38
+      },
+      {
+        "text": "magnify",
+        "start": 169.98
+      },
+      {
+        "text": "you",
+        "start": 170.68
+      },
+      {
+        "text": "befittingly,",
+        "start": 171.18
+      },
+      {
+        "text": "with",
+        "start": 173.68
+      },
+      {
+        "text": "prophetic,",
+        "start": 175.01
+      },
+      {
+        "text": "hymnology.",
+        "start": 177.01
+      }
+    ]
+  },
+  {
+    "line": "l14",
+    "start": 180.55,
+    "words": [
+      {
+        "text": "For",
+        "start": 180.55
+      },
+      {
+        "text": "they",
+        "start": 181.01,
+        "estimated": true
+      },
+      {
+        "text": "spoke",
+        "start": 181.48,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 182.41,
+        "estimated": true
+      },
+      {
+        "text": "you,",
+        "start": 182.88
+      },
+      {
+        "text": "with",
+        "start": 184.08
+      },
+      {
+        "text": "great",
+        "start": 184.81,
+        "estimated": true
+      },
+      {
+        "text": "honor,",
+        "start": 185.55
+      },
+      {
+        "text": "O",
+        "start": 187.45
+      },
+      {
+        "text": "holy",
+        "start": 187.99,
+        "estimated": true
+      },
+      {
+        "text": "city,",
+        "start": 189.08
+      },
+      {
+        "text": "of",
+        "start": 191.05
+      },
+      {
+        "text": "the",
+        "start": 191.81,
+        "estimated": true
+      },
+      {
+        "text": "great",
+        "start": 192.58,
+        "estimated": true
+      },
+      {
+        "text": "King.",
+        "start": 193.35
+      }
+    ]
+  },
+  {
+    "line": "l15",
+    "start": 194.15,
+    "words": [
+      {
+        "text": "We",
+        "start": 194.15
+      },
+      {
+        "text": "entreat",
+        "start": 195.38
+      },
+      {
+        "text": "and",
+        "start": 196.2,
+        "estimated": true
+      },
+      {
+        "text": "pray,",
+        "start": 196.61
+      },
+      {
+        "text": "that",
+        "start": 197.55
+      },
+      {
+        "text": "we",
+        "start": 198.03,
+        "estimated": true
+      },
+      {
+        "text": "may",
+        "start": 198.58,
+        "estimated": true
+      },
+      {
+        "text": "win",
+        "start": 199.1,
+        "estimated": true
+      },
+      {
+        "text": "mercy,",
+        "start": 199.61
+      },
+      {
+        "text": "through",
+        "start": 201.25
+      },
+      {
+        "text": "your",
+        "start": 201.87,
+        "estimated": true
+      },
+      {
+        "text": "intercessions,",
+        "start": 202.71
+      },
+      {
+        "text": "with",
+        "start": 204.15
+      },
+      {
+        "text": "the",
+        "start": 204.54,
+        "estimated": true
+      },
+      {
+        "text": "Lover",
+        "start": 204.93,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 205.72,
+        "estimated": true
+      },
+      {
+        "text": "Mankind.",
+        "start": 206.11
+      }
+    ]
+  }
+]

@@ -1,5 +1,2254 @@
 {
  "recording": "tennav-english",
  "text": "tennav",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.54,
+   "words": [
+    {
+     "text": "We",
+     "start": 0.54,
+     "end": null
+    },
+    {
+     "text": "look",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "at",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Resurrection",
+     "start": 1.72,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Christ",
+     "start": 2.82,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "worship",
+     "start": 4.24,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "holy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Jesus",
+     "start": 6.32,
+     "end": null
+    },
+    {
+     "text": "Christ",
+     "start": 6.88,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 7.72,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 8.34,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 9.95,
+     "end": null
+    },
+    {
+     "text": "alone",
+     "start": 10.51,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 11.08,
+     "end": null
+    },
+    {
+     "text": "without",
+     "start": 11.52,
+     "end": null
+    },
+    {
+     "text": "sin.",
+     "start": 11.88,
+     "end": null
+    },
+    {
+     "text": "We",
+     "start": 12.58,
+     "end": null
+    },
+    {
+     "text": "bow",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "down",
+     "start": 13.18,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 14.28,
+     "end": null
+    },
+    {
+     "text": "Cross",
+     "start": 14.78,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Christ,",
+     "start": 15.45,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 16.21,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "praise",
+     "start": 16.81,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 17.28,
+     "end": null
+    },
+    {
+     "text": "glorify",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 18.75,
+     "end": null
+    },
+    {
+     "text": "Resurrection.",
+     "start": 19.18,
+     "end": null
+    },
+    {
+     "text": "For",
+     "start": 21.92,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 22.42,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "God,",
+     "start": 23.92,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 24.52,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "know",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "none",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "but",
+     "start": 25.71,
+     "end": null
+    },
+    {
+     "text": "You,",
+     "start": 26.01,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "after",
+     "start": 27.08,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "name",
+     "start": 27.95,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "called.",
+     "start": 29.87,
+     "end": null
+    },
+    {
+     "text": "Glory",
+     "start": 31.41,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 32.21,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 32.57,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 33.31,
+     "end": null
+    },
+    {
+     "text": "Father",
+     "start": 33.58,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 34.34,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 34.64,
+     "end": null
+    },
+    {
+     "text": "Son",
+     "start": 34.94,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 35.51,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 36.04,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": 36.34,
+     "end": null
+    },
+    {
+     "text": "Spirit.",
+     "start": 37.58,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 41.05,
+   "words": [
+    {
+     "text": "Come",
+     "start": 41.05,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "believers",
+     "start": 41.77,
+     "end": null
+    },
+    {
+     "text": "let",
+     "start": 42.81,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "bow",
+     "start": 43.47,
+     "end": null
+    },
+    {
+     "text": "down",
+     "start": 43.87,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Resurrection",
+     "start": 44.81,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Christ.",
+     "start": 47.51,
+     "end": null
+    },
+    {
+     "text": "Behold,",
+     "start": 48.64,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": 49.84,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Cross,",
+     "start": 50.54,
+     "end": null
+    },
+    {
+     "text": "joy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "entered",
+     "start": 51.94,
+     "end": null
+    },
+    {
+     "text": "into",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "whole",
+     "start": 53.64,
+     "end": null
+    },
+    {
+     "text": "world.",
+     "start": 54.64,
+     "end": null
+    },
+    {
+     "text": "Let",
+     "start": 56.21,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 56.58,
+     "end": null
+    },
+    {
+     "text": "bless",
+     "start": 56.84,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 57.15,
+     "end": null
+    },
+    {
+     "text": "Lord",
+     "start": 57.47,
+     "end": null
+    },
+    {
+     "text": "continually,",
+     "start": 57.88,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 59.41,
+     "end": null
+    },
+    {
+     "text": "glorify",
+     "start": 59.64,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 60.79,
+     "end": null
+    },
+    {
+     "text": "Resurrection.",
+     "start": 61.04,
+     "end": null
+    },
+    {
+     "text": "For",
+     "start": 63.61,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 63.84,
+     "end": null
+    },
+    {
+     "text": "was",
+     "start": 64.14,
+     "end": null
+    },
+    {
+     "text": "patient",
+     "start": 64.44,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 65.12,
+     "end": null
+    },
+    {
+     "text": "destroyed",
+     "start": 65.44,
+     "end": null
+    },
+    {
+     "text": "death",
+     "start": 66.51,
+     "end": null
+    },
+    {
+     "text": "by",
+     "start": 67.21,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Death.",
+     "start": 68.64,
+     "end": null
+    },
+    {
+     "text": "Now",
+     "start": 69.87,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 70.47,
+     "end": null
+    },
+    {
+     "text": "forever",
+     "start": 70.78,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 71.79,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": 72.55,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 73.18,
+     "end": null
+    },
+    {
+     "text": "age",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ages,",
+     "start": 74.81,
+     "end": null
+    },
+    {
+     "text": "Amen.",
+     "start": 75.64,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 78.11,
+   "words": [
+    {
+     "text": "All",
+     "start": 78.11,
+     "end": null
+    },
+    {
+     "text": "joy",
+     "start": 78.92,
+     "end": null
+    },
+    {
+     "text": "befits",
+     "start": 79.61,
+     "end": null
+    },
+    {
+     "text": "you,",
+     "start": 80.27,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 80.64,
+     "end": null
+    },
+    {
+     "text": "Mother",
+     "start": 80.94,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 81.91,
+     "end": null
+    },
+    {
+     "text": "God,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "you,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Adam",
+     "start": 84.22,
+     "end": null
+    },
+    {
+     "text": "returned",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Paradise.",
+     "start": 85.35,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 88.54,
+     "end": null
+    },
+    {
+     "text": "Eve",
+     "start": 89.14,
+     "end": null
+    },
+    {
+     "text": "gained",
+     "start": 89.81,
+     "end": null
+    },
+    {
+     "text": "grace",
+     "start": 90.47,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "replace",
+     "start": 91.68,
+     "end": null
+    },
+    {
+     "text": "her",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "sadness.",
+     "start": 93.11,
+     "end": null
+    },
+    {
+     "text": "Through",
+     "start": 95.31,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "she",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "gained",
+     "start": 96.07,
+     "end": null
+    },
+    {
+     "text": "freedom",
+     "start": 96.51,
+     "end": null
+    },
+    {
+     "text": "once",
+     "start": 97.11,
+     "end": null
+    },
+    {
+     "text": "more,",
+     "start": 97.44,
+     "end": null
+    },
+    {
+     "text": "as",
+     "start": 98.01,
+     "end": null
+    },
+    {
+     "text": "well",
+     "start": 98.55,
+     "end": null
+    },
+    {
+     "text": "as",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "eternal",
+     "start": 99.34,
+     "end": null
+    },
+    {
+     "text": "salvation.",
+     "start": 100.17,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 103.01,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": 103.44,
+     "end": null
+    },
+    {
+     "text": "too",
+     "start": 103.77,
+     "end": null
+    },
+    {
+     "text": "let",
+     "start": 104.14,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 104.85,
+     "end": null
+    },
+    {
+     "text": "glorify",
+     "start": 105.17,
+     "end": null
+    },
+    {
+     "text": "you,",
+     "start": 105.87,
+     "end": null
+    },
+    {
+     "text": "as",
+     "start": 106.54,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": 106.97,
+     "end": null
+    },
+    {
+     "text": "treasure",
+     "start": 107.32,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 107.97,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 108.27,
+     "end": null
+    },
+    {
+     "text": "Resurrection.",
+     "start": 108.67,
+     "end": null
+    },
+    {
+     "text": "Hail",
+     "start": 111.31,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 112.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 112.64,
+     "end": null
+    },
+    {
+     "text": "sealed",
+     "start": 112.94,
+     "end": null
+    },
+    {
+     "text": "treasure,",
+     "start": 113.34,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": 114.21,
+     "end": null
+    },
+    {
+     "text": "which",
+     "start": 114.71,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": 115.04,
+     "end": null
+    },
+    {
+     "text": "were",
+     "start": 115.37,
+     "end": null
+    },
+    {
+     "text": "given",
+     "start": 115.81,
+     "end": null
+    },
+    {
+     "text": "life.",
+     "start": 116.67,
+     "end": null
+    },
+    {
+     "text": "Hail",
+     "start": 118.24,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 118.91,
+     "end": null
+    },
+    {
+     "text": "her",
+     "start": 119.21,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 119.71,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 120.31,
+     "end": null
+    },
+    {
+     "text": "birth",
+     "start": 120.61,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 121.27,
+     "end": null
+    },
+    {
+     "text": "Christ",
+     "start": 121.45,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 121.88,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 122.11,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 122.42,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 122.71,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 123.11,
+     "end": null
+    },
+    {
+     "text": "life,",
+     "start": 123.37,
+     "end": null
+    },
+    {
+     "text": "through",
+     "start": 123.97,
+     "end": null
+    },
+    {
+     "text": "His",
+     "start": 124.51,
+     "end": null
+    },
+    {
+     "text": "Resurrection.",
+     "start": 124.81,
+     "end": null
+    },
+    {
+     "text": "Blessed",
+     "start": 127.61,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": 128.07,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 128.38,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 128.81,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": 129.01,
+     "end": null
+    },
+    {
+     "text": "teach",
+     "start": 129.87,
+     "end": null
+    },
+    {
+     "text": "me",
+     "start": 130.18,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 130.44,
+     "end": null
+    },
+    {
+     "text": "statutes.",
+     "start": 131.04,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l5",
+   "start": 160.17,
+   "words": [
+    {
+     "text": "Why",
+     "start": 160.17,
+     "end": null
+    },
+    {
+     "text": "did",
+     "start": 160.87,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 161.14,
+     "end": null
+    },
+    {
+     "text": "mix",
+     "start": 161.47,
+     "end": null
+    },
+    {
+     "text": "fragrant",
+     "start": 161.74,
+     "end": null
+    },
+    {
+     "text": "oil,",
+     "start": 162.51,
+     "end": null
+    },
+    {
+     "text": "weeping",
+     "start": 163.24,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 163.84,
+     "end": null
+    },
+    {
+     "text": "mourning,",
+     "start": 164.24,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": 164.95,
+     "end": null
+    },
+    {
+     "text": "each",
+     "start": 165.71,
+     "end": null
+    },
+    {
+     "text": "other",
+     "start": 165.97,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 166.61,
+     "end": null
+    },
+    {
+     "text": "Disciples",
+     "start": 167.01,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 168.07,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 168.41,
+     "end": null
+    },
+    {
+     "text": "Lord?",
+     "start": 169.31,
+     "end": null
+    },
+    {
+     "text": "The",
+     "start": 170.75,
+     "end": null
+    },
+    {
+     "text": "luminous",
+     "start": 170.94,
+     "end": null
+    },
+    {
+     "text": "angel",
+     "start": 171.48,
+     "end": null
+    },
+    {
+     "text": "at",
+     "start": 172.14,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 172.41,
+     "end": null
+    },
+    {
+     "text": "tomb",
+     "start": 172.91,
+     "end": null
+    },
+    {
+     "text": "said",
+     "start": 173.57,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 174.01,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 174.74,
+     "end": null
+    },
+    {
+     "text": "women",
+     "start": 175.01,
+     "end": null
+    },
+    {
+     "text": "carrying",
+     "start": 175.81,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "spices,",
+     "start": 177.14,
+     "end": null
+    },
+    {
+     "text": "\"Look",
+     "start": 179.41,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 179.78,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 180.11,
+     "end": null
+    },
+    {
+     "text": "aware",
+     "start": 180.37,
+     "end": null
+    },
+    {
+     "text": "that",
+     "start": 181.31,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Savior",
+     "start": 182.04,
+     "end": null
+    },
+    {
+     "text": "has",
+     "start": 182.78,
+     "end": null
+    },
+    {
+     "text": "risen",
+     "start": 183.44,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": 184.14,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 184.67,
+     "end": null
+    },
+    {
+     "text": "dead.\"",
+     "start": 185.44,
+     "end": null
+    },
+    {
+     "text": "Blessed",
+     "start": 186.91,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": 187.37,
+     "end": null
+    },
+    {
+     "text": "you,",
+     "start": 187.64,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 188.05,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "teach",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "me",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "statutes.",
+     "start": 190.77,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l6",
+   "start": 193.05,
+   "words": [
+    {
+     "text": "The",
+     "start": 193.05,
+     "end": null
+    },
+    {
+     "text": "women",
+     "start": 193.38,
+     "end": null
+    },
+    {
+     "text": "rushed",
+     "start": 194.01,
+     "end": null
+    },
+    {
+     "text": "very",
+     "start": 194.67,
+     "end": null
+    },
+    {
+     "text": "early",
+     "start": 195.31,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 196.11,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 196.41,
+     "end": null
+    },
+    {
+     "text": "tomb,",
+     "start": 196.71,
+     "end": null
+    },
+    {
+     "text": "carrying",
+     "start": 197.42,
+     "end": null
+    },
+    {
+     "text": "fragrant",
+     "start": 198.01,
+     "end": null
+    },
+    {
+     "text": "oil",
+     "start": 198.98,
+     "end": null
+    },
+    {
+     "text": "while",
+     "start": 199.57,
+     "end": null
+    },
+    {
+     "text": "crying.",
+     "start": 200.04,
+     "end": null
+    },
+    {
+     "text": "But",
+     "start": 202.21,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 202.81,
+     "end": null
+    },
+    {
+     "text": "angel",
+     "start": 203.11,
+     "end": null
+    },
+    {
+     "text": "stood",
+     "start": 203.77,
+     "end": null
+    },
+    {
+     "text": "before",
+     "start": 204.22,
+     "end": null
+    },
+    {
+     "text": "them",
+     "start": 204.85,
+     "end": null
+    },
+    {
+     "text": "saying,",
+     "start": 205.71,
+     "end": null
+    },
+    {
+     "text": "\"The",
+     "start": 207.84,
+     "end": null
+    },
+    {
+     "text": "time",
+     "start": 208.07,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 208.49,
+     "end": null
+    },
+    {
+     "text": "weeping",
+     "start": 208.77,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 209.37,
+     "end": null
+    },
+    {
+     "text": "over,",
+     "start": 209.77,
+     "end": null
+    },
+    {
+     "text": "do",
+     "start": 210.64,
+     "end": null
+    },
+    {
+     "text": "not",
+     "start": 211.11,
+     "end": null
+    },
+    {
+     "text": "weep",
+     "start": 211.41,
+     "end": null
+    },
+    {
+     "text": "but",
+     "start": 211.84,
+     "end": null
+    },
+    {
+     "text": "preach",
+     "start": 212.21,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 212.57,
+     "end": null
+    },
+    {
+     "text": "Resurrection",
+     "start": 213.14,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 214.27,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 214.64,
+     "end": null
+    },
+    {
+     "text": "Apostles.\"",
+     "start": 215.01,
+     "end": null
+    },
+    {
+     "text": "Blessed",
+     "start": 217.91,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "you,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "teach",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "me",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "statutes.",
+     "start": 221.74,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l7",
+   "start": 223.68,
+   "words": [
+    {
+     "text": "The",
+     "start": 223.68,
+     "end": null
+    },
+    {
+     "text": "women",
+     "start": 224.11,
+     "end": null
+    },
+    {
+     "text": "came",
+     "start": 224.81,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 225.34,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": 225.87,
+     "end": null
+    },
+    {
+     "text": "tomb,",
+     "start": 226.21,
+     "end": null
+    },
+    {
+     "text": "carrying",
+     "start": 226.91,
+     "end": null
+    },
+    {
+     "text": "fragrant",
+     "start": 227.67,
+     "end": null
+    },
+    {
+     "text": "oil",
+     "start": 228.31,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 229.21,
+     "end": null
+    },
+    {
+     "text": "incense",
+     "start": 229.61,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 230.77,
+     "end": null
+    },
+    {
+     "text": "Savior.",
+     "start": 231.18,
+     "end": null
+    },
+    {
+     "text": "They",
+     "start": 233.14,
+     "end": null
+    },
+    {
+     "text": "heard",
+     "start": 233.44,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 233.78,
+     "end": null
+    },
+    {
+     "text": "angel",
+     "start": 234.04,
+     "end": null
+    },
+    {
+     "text": "say",
+     "start": 234.81,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 235.21,
+     "end": null
+    },
+    {
+     "text": "them,",
+     "start": 235.77,
+     "end": null
+    },
+    {
+     "text": "\"Why",
+     "start": 237.37,
+     "end": null
+    },
+    {
+     "text": "do",
+     "start": 237.57,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 237.81,
+     "end": null
+    },
+    {
+     "text": "seek",
+     "start": 238.11,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 238.57,
+     "end": null
+    },
+    {
+     "text": "living",
+     "start": 238.84,
+     "end": null
+    },
+    {
+     "text": "among",
+     "start": 239.51,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 239.91,
+     "end": null
+    },
+    {
+     "text": "dead,\"",
+     "start": 240.17,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 240.97,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 241.27,
+     "end": null
+    },
+    {
+     "text": "being",
+     "start": 241.67,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 242.41,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 242.94,
+     "end": null
+    },
+    {
+     "text": "risen",
+     "start": 243.14,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": 243.77,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 244.27,
+     "end": null
+    },
+    {
+     "text": "tomb.",
+     "start": 244.91,
+     "end": null
+    },
+    {
+     "text": "Glory",
+     "start": 246.81,
+     "end": null
+    },
+    {
+     "text": "be",
+     "start": 247.27,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 248.81,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Son,",
+     "start": 250.07,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": 251.51,
+     "end": null
+    },
+    {
+     "text": "Spirit.",
+     "start": 252.94,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l8",
+   "start": 317.51,
+   "words": [
+    {
+     "text": "We",
+     "start": 317.51,
+     "end": null
+    },
+    {
+     "text": "worship",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 319.18,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Son,",
+     "start": 320.72,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": 322.74,
+     "end": null
+    },
+    {
+     "text": "Spirit,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "one",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "in",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "essence.",
+     "start": 325.08,
+     "end": null
+    },
+    {
+     "text": "And",
+     "start": 327.26,
+     "end": null
+    },
+    {
+     "text": "we",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "proclaim",
+     "start": 327.9,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "say",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Cherubim,",
+     "start": 330.37,
+     "end": null
+    },
+    {
+     "text": "\"Holy,",
+     "start": 332.99,
+     "end": null
+    },
+    {
+     "text": "holy,",
+     "start": 334.17,
+     "end": null
+    },
+    {
+     "text": "holy",
+     "start": 335.62,
+     "end": null
+    },
+    {
+     "text": "are",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord.\"",
+     "start": 337.55,
+     "end": null
+    },
+    {
+     "text": "Now",
+     "start": 340.01,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forever,",
+     "start": 341.03,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "unto",
+     "start": 342.53,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "age",
+     "start": 343.44,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "all",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ages",
+     "start": 344.72,
+     "end": null
+    },
+    {
+     "text": "amen.",
+     "start": 345.6,
+     "end": null
+    },
+    {
+     "text": "(3)",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l9",
+   "start": 348.31,
+   "words": [
+    {
+     "text": "You",
+     "start": 348.31,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 348.64,
+     "end": null
+    },
+    {
+     "text": "birth",
+     "start": 348.91,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": 349.31,
+     "end": null
+    },
+    {
+     "text": "Virgin",
+     "start": 349.55,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 350.24,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 350.55,
+     "end": null
+    },
+    {
+     "text": "Giver",
+     "start": 350.85,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 351.31,
+     "end": null
+    },
+    {
+     "text": "life,",
+     "start": 351.59,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 352.31,
+     "end": null
+    },
+    {
+     "text": "you",
+     "start": 352.61,
+     "end": null
+    },
+    {
+     "text": "saved",
+     "start": 352.94,
+     "end": null
+    },
+    {
+     "text": "Adam",
+     "start": 353.42,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": 354.27,
+     "end": null
+    },
+    {
+     "text": "sin.",
+     "start": 354.91,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 356.71,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 356.94,
+     "end": null
+    },
+    {
+     "text": "joy",
+     "start": 357.22,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 357.54,
+     "end": null
+    },
+    {
+     "text": "Eve",
+     "start": 357.87,
+     "end": null
+    },
+    {
+     "text": "instead",
+     "start": 358.22,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 359.58,
+     "end": null
+    },
+    {
+     "text": "sorrow,",
+     "start": 360.04,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 361.89,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 362.75,
+     "end": null
+    },
+    {
+     "text": "life",
+     "start": 362.95,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 363.61,
+     "end": null
+    },
+    {
+     "text": "salvation",
+     "start": 363.91,
+     "end": null
+    },
+    {
+     "text": "from",
+     "start": 364.98,
+     "end": null
+    },
+    {
+     "text": "corruption",
+     "start": 365.34,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 366.21,
+     "end": null
+    },
+    {
+     "text": "alteration.",
+     "start": 366.81,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": 370.14,
+     "end": null
+    },
+    {
+     "text": "became",
+     "start": 370.41,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 371.02,
+     "end": null
+    },
+    {
+     "text": "intercessor",
+     "start": 371.51,
+     "end": null
+    },
+    {
+     "text": "before",
+     "start": 372.85,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 373.34,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 373.57,
+     "end": null
+    },
+    {
+     "text": "Savior,",
+     "start": 374.01,
+     "end": null
+    },
+    {
+     "text": "who",
+     "start": 375.27,
+     "end": null
+    },
+    {
+     "text": "was",
+     "start": 375.57,
+     "end": null
+    },
+    {
+     "text": "incarnate",
+     "start": 376.14,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 377.01,
+     "end": null
+    },
+    {
+     "text": "you.",
+     "start": 378.07,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

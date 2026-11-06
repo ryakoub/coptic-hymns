@@ -1,6 +1,6 @@
 {
- "version": "a76e412e5ef08a3a",
- "updated": "2026-11-05T12:15:59Z",
+ "version": "32b4f67a1b990bce",
+ "updated": "2026-11-06T01:07:38Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -11810,8 +11810,8 @@
    "text": "leepon",
    "duration": 55.47,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 4,
+    "words": 4,
     "of": 4
    },
    "source": "https://tasbeha.org/hymn_library/view/465",
@@ -11821,8 +11821,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/leepon.json",
-     "bytes": 62,
-     "sha256": "74d474c71550d389e8fb09e2b53fcd40c2bbfe9665906bbdba9183f063d1ad41",
+     "bytes": 4745,
+     "sha256": "6f915bfe82bde486aa39f4fa9071d408801ea41018be94ecdd1876db9fcdcab1",
      "role": "timing"
     },
     {
@@ -11838,9 +11838,9 @@
    "text": "leepon",
    "duration": 55.38,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 4,
+    "words": 4,
+    "of": 4
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
    "tune": {
@@ -11851,8 +11851,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/leepon-english.json",
-     "bytes": 70,
-     "sha256": "b068c8301d38a8ed83671ba273b70a3031aff23ee12f52dc4ccc92ede9c940d7",
+     "bytes": 5745,
+     "sha256": "5b249ea17c6668faf260761b3ecdb0f0f196dcd0d5c3ef3d19d0e60f53499520",
      "role": "timing"
     },
     {
@@ -14625,9 +14625,9 @@
    "text": "second-hoos-lobsh",
    "duration": 214.74,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 12,
+    "words": 12,
+    "of": 12
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
    "tune": {
@@ -14637,8 +14637,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh-hcoc-minor.json",
-     "bytes": 95,
-     "sha256": "4e3d7742819d17316f43d6210f942355d881cd0d1c102e556da632e9a53debdb",
+     "bytes": 11997,
+     "sha256": "a37222b5cea69c85da2d3fd098a080edbb4c8bd4da4a911dfcdd56e9e97bcadd",
      "role": "timing"
     },
     {
@@ -15202,8 +15202,8 @@
    "text": "sunday-theotokia-1",
    "duration": 213.14,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 15,
+    "words": 15,
     "of": 15
    },
    "source": "https://tasbeha.org/hymn_library/view/476",
@@ -15213,8 +15213,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-1.json",
-     "bytes": 86,
-     "sha256": "2417fef6f395f299cb6ba892c4cba684cde3cdb347adfb4e275a1d316a01fda4",
+     "bytes": 15151,
+     "sha256": "a3b64e3cd13a63e8cd3d0fb6b33e96321d3e253fb1c8442500044225c675eff5",
      "role": "timing"
     },
     {
@@ -15230,9 +15230,9 @@
    "text": "sunday-theotokia-1",
    "duration": 211.42,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 15,
+    "words": 15,
+    "of": 15
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
    "tune": {
@@ -15243,8 +15243,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-1-english.json",
-     "bytes": 94,
-     "sha256": "6d07e3b0ecf2a2160d9c8532d1da881d3b79c43646d635a2c20bda72d1a4c911",
+     "bytes": 16982,
+     "sha256": "ff19e9219c0f8e0773745b0b7e0bc2b2b77c029cc94dc3110fa33aa5826e0bf0",
      "role": "timing"
     },
     {
@@ -15550,8 +15550,8 @@
    "text": "sunday-theotokia-2",
    "duration": 213.09,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 15,
+    "words": 15,
     "of": 15
    },
    "source": "https://tasbeha.org/hymn_library/view/476",
@@ -15561,8 +15561,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-2.json",
-     "bytes": 86,
-     "sha256": "4eed9ece0317008971157ae867dc1462cae8e75fd2e2121820b6350c716c4f7e",
+     "bytes": 14560,
+     "sha256": "b6f6c650238405142d951124923ab543fd3a9e7b40e64a9b6744294f3449a8be",
      "role": "timing"
     },
     {
@@ -15608,8 +15608,8 @@
    "text": "sunday-theotokia-3",
    "duration": 170.88,
    "timing": {
-    "lines": 0,
-    "words": 0,
+    "lines": 12,
+    "words": 12,
     "of": 12
    },
    "source": "https://tasbeha.org/hymn_library/view/476",
@@ -15619,8 +15619,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-3.json",
-     "bytes": 86,
-     "sha256": "ae195bd9b665e99b04dbc9a98c316f41175625fbd0cd9b9378abf48410a527a5",
+     "bytes": 11498,
+     "sha256": "aa6a704e7d784917d5dbeb9dd84ffd61a11a0873dafe4f77ac1850ad33cc0141",
      "role": "timing"
     },
     {
@@ -16267,9 +16267,9 @@
    "text": "tennav",
    "duration": 383.24,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 8,
+    "words": 8,
+    "of": 8
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "tune": {
@@ -16280,8 +16280,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/tennav-english.json",
-     "bytes": 70,
-     "sha256": "ba6202cfde57bea8f6fb0791a7034ee83e1a3d1da90e3236d8768ef91e9eef9d",
+     "bytes": 32545,
+     "sha256": "2de7b14cb7349eeed1f5f9b9a108786aef6b26f91872725459f0af77aa31e0e4",
      "role": "timing"
     },
     {
@@ -17277,9 +17277,9 @@
    "text": "ton-syna",
    "duration": 85.6,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 1,
+    "words": 1,
+    "of": 1
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/17",
    "tune": {
@@ -17290,8 +17290,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/ton-syna-english-chie.json",
-     "bytes": 79,
-     "sha256": "d494a29f4d8366e44a24aa2224ad1520e59f123d1affe8ec50035ed002cc13ce",
+     "bytes": 3620,
+     "sha256": "114e97751e7b63765a10ecbe12cfe208769fb6be999da6b074640664abeca17d",
      "role": "timing"
     },
     {

@@ -1,1 +1,371 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.48,
+    "words": [
+      {
+        "text": "And",
+        "start": 0.48
+      },
+      {
+        "text": "whenever",
+        "start": 0.88
+      },
+      {
+        "text": "we,",
+        "start": 2.51
+      },
+      {
+        "text": "gather",
+        "start": 3.68
+      },
+      {
+        "text": "for",
+        "start": 4.7,
+        "estimated": true
+      },
+      {
+        "text": "prayer,",
+        "start": 5.21
+      },
+      {
+        "text": "let",
+        "start": 6.98
+      },
+      {
+        "text": "us",
+        "start": 7.52,
+        "estimated": true
+      },
+      {
+        "text": "bless",
+        "start": 8.06,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 8.61,
+        "estimated": true
+      },
+      {
+        "text": "name,",
+        "start": 9.15
+      },
+      {
+        "text": "of",
+        "start": 10.51
+      },
+      {
+        "text": "my",
+        "start": 11.04,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 11.56,
+        "estimated": true
+      },
+      {
+        "text": "Jesus.",
+        "start": 12.08
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 13.95,
+    "words": [
+      {
+        "text": "We",
+        "start": 13.95
+      },
+      {
+        "text": "bless",
+        "start": 15.13,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 16.31
+      },
+      {
+        "text": "O",
+        "start": 17.55
+      },
+      {
+        "text": "my",
+        "start": 18.14,
+        "estimated": true
+      },
+      {
+        "text": "Lord",
+        "start": 18.72,
+        "estimated": true
+      },
+      {
+        "text": "Jesus,",
+        "start": 19.31
+      },
+      {
+        "text": "deliver",
+        "start": 20.65
+      },
+      {
+        "text": "us",
+        "start": 21.91,
+        "estimated": true
+      },
+      {
+        "text": "through",
+        "start": 22.34,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 22.76,
+        "estimated": true
+      },
+      {
+        "text": "name,",
+        "start": 23.18
+      },
+      {
+        "text": "for",
+        "start": 24.2
+      },
+      {
+        "text": "we",
+        "start": 24.42,
+        "estimated": true
+      },
+      {
+        "text": "have",
+        "start": 24.64,
+        "estimated": true
+      },
+      {
+        "text": "hope",
+        "start": 25.08,
+        "estimated": true
+      },
+      {
+        "text": "in",
+        "start": 25.53,
+        "estimated": true
+      },
+      {
+        "text": "You.",
+        "start": 25.75
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 28.08,
+    "words": [
+      {
+        "text": "That",
+        "start": 28.08
+      },
+      {
+        "text": "we",
+        "start": 28.43,
+        "estimated": true
+      },
+      {
+        "text": "may",
+        "start": 28.79,
+        "estimated": true
+      },
+      {
+        "text": "praise",
+        "start": 29.14,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 29.85
+      },
+      {
+        "text": "with",
+        "start": 31.35
+      },
+      {
+        "text": "Your",
+        "start": 32.02,
+        "estimated": true
+      },
+      {
+        "text": "good",
+        "start": 32.7,
+        "estimated": true
+      },
+      {
+        "text": "Father,",
+        "start": 33.38
+      },
+      {
+        "text": "and",
+        "start": 34.59
+      },
+      {
+        "text": "the",
+        "start": 35.12,
+        "estimated": true
+      },
+      {
+        "text": "Holy",
+        "start": 35.65,
+        "estimated": true
+      },
+      {
+        "text": "Spirit,",
+        "start": 36.71
+      },
+      {
+        "text": "for",
+        "start": 37.48
+      },
+      {
+        "text": "You",
+        "start": 37.71,
+        "estimated": true
+      },
+      {
+        "text": "have",
+        "start": 37.94,
+        "estimated": true
+      },
+      {
+        "text": "(risen/come)",
+        "start": 38.39,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 39.3,
+        "estimated": true
+      },
+      {
+        "text": "saved",
+        "start": 39.52,
+        "estimated": true
+      },
+      {
+        "text": "us.",
+        "start": 39.98
+      }
+    ]
+  },
+  {
+    "line": "l4",
+    "start": 41.41,
+    "words": [
+      {
+        "text": "Glory",
+        "start": 41.41
+      },
+      {
+        "text": "be",
+        "start": 41.91
+      },
+      {
+        "text": "to",
+        "start": 42.19,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 42.47,
+        "estimated": true
+      },
+      {
+        "text": "Father",
+        "start": 42.74,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 43.29,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 43.57,
+        "estimated": true
+      },
+      {
+        "text": "Son,",
+        "start": 43.85
+      },
+      {
+        "text": "and",
+        "start": 45.01
+      },
+      {
+        "text": "the",
+        "start": 45.49,
+        "estimated": true
+      },
+      {
+        "text": "Holy",
+        "start": 45.96,
+        "estimated": true
+      },
+      {
+        "text": "Spirit,",
+        "start": 46.91
+      },
+      {
+        "text": "now",
+        "start": 48.01
+      },
+      {
+        "text": "and",
+        "start": 48.58,
+        "estimated": true
+      },
+      {
+        "text": "forever",
+        "start": 49.15
+      },
+      {
+        "text": "and",
+        "start": 50.2,
+        "estimated": true
+      },
+      {
+        "text": "unto,",
+        "start": 50.55
+      },
+      {
+        "text": "the",
+        "start": 51.98
+      },
+      {
+        "text": "age",
+        "start": 52.19,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 52.59,
+        "estimated": true
+      },
+      {
+        "text": "all",
+        "start": 52.8,
+        "estimated": true
+      },
+      {
+        "text": "ages",
+        "start": 53.0,
+        "estimated": true
+      },
+      {
+        "text": "Amen.",
+        "start": 53.41
+      }
+    ]
+  }
+]

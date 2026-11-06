@@ -1,5 +1,304 @@
 {
  "recording": "leepon",
  "text": "leepon",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.48,
+   "stanzas": [
+    0.48,
+    3.81,
+    7.74,
+    10.48
+   ],
+   "words": [
+    {
+     "text": "Ⲗⲟⲓⲡⲟⲛ",
+     "start": 0.48,
+     "end": null
+    },
+    {
+     "text": "ⲁⲛϣⲁⲛⲑⲱⲟⲩϯ:",
+     "start": 1.94,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ϯⲡ̀ⲣⲟⲥⲉⲩⲭⲏ:",
+     "start": 3.81,
+     "end": null
+    },
+    {
+     "text": "ⲙⲁⲣⲉⲛⲥ̀ⲙⲟⲩ",
+     "start": 7.74,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲡⲓⲣⲁⲛ:",
+     "start": 9.41,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲧⲉ",
+     "start": 10.48,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲁϭⲟⲓⲥ",
+     "start": 11.58,
+     "end": null
+    },
+    {
+     "text": "Ⲓⲏⲥⲟⲩⲥ.",
+     "start": 12.38,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 15.04,
+   "stanzas": [
+    15.04,
+    18.08,
+    21.04,
+    23.74
+   ],
+   "words": [
+    {
+     "text": "Ϫⲉ",
+     "start": 15.04,
+     "end": null
+    },
+    {
+     "text": "ⲧⲉⲛⲛⲁⲥ̀ⲙⲟⲩ",
+     "start": 15.44,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟⲕ:",
+     "start": 16.34,
+     "end": null
+    },
+    {
+     "text": "ⲱ̀",
+     "start": 18.08,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲁϭⲟⲓⲥ",
+     "start": 18.54,
+     "end": null
+    },
+    {
+     "text": "Ⲓⲏⲥⲟⲩⲥ:",
+     "start": 19.41,
+     "end": null
+    },
+    {
+     "text": "ⲛⲁϩⲙⲉⲛ",
+     "start": 21.04,
+     "end": null
+    },
+    {
+     "text": "ϧⲉⲛ",
+     "start": 22.31,
+     "end": null
+    },
+    {
+     "text": "ⲡⲉⲕⲣⲁⲛ:",
+     "start": 22.94,
+     "end": null
+    },
+    {
+     "text": "ϫⲉ",
+     "start": 23.74,
+     "end": null
+    },
+    {
+     "text": "ⲁⲛⲉⲣϩⲉⲗⲡⲓⲥ",
+     "start": 24.48,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟⲕ.",
+     "start": 25.34,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 28.31,
+   "stanzas": [
+    28.31,
+    30.86,
+    34.71,
+    36.94
+   ],
+   "words": [
+    {
+     "text": "Ⲉⲑⲣⲉⲛϩⲱⲥ",
+     "start": 28.31,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲣⲟⲕ:",
+     "start": 30.51,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲉⲕⲓⲱⲧ",
+     "start": 31.04,
+     "end": null
+    },
+    {
+     "text": "ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ:",
+     "start": 32.78,
+     "end": null
+    },
+    {
+     "text": "ⲛⲉⲙ",
+     "start": 34.71,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ",
+     "start": 35.14,
+     "end": null
+    },
+    {
+     "text": "ⲉⲑⲟⲩⲁⲃ:",
+     "start": 36.11,
+     "end": null
+    },
+    {
+     "text": "ϫⲉ",
+     "start": 36.94,
+     "end": null
+    },
+    {
+     "text": "(ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀)",
+     "start": 37.31,
+     "end": null
+    },
+    {
+     "text": "ⲁⲕⲥⲱϯ",
+     "start": 37.98,
+     "end": null
+    },
+    {
+     "text": "ⲙ̀ⲙⲟⲛ",
+     "start": 38.91,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 41.41,
+   "stanzas": [
+    41.41,
+    43.81,
+    46.74,
+    49.71
+   ],
+   "words": [
+    {
+     "text": "Ⲇⲟⲝⲁ",
+     "start": 41.41,
+     "end": null
+    },
+    {
+     "text": "Ⲡⲁⲧⲣⲓ",
+     "start": 42.01,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 42.51,
+     "end": null
+    },
+    {
+     "text": "Ⲩ̀ⲓⲱ:",
+     "start": 42.98,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 43.81,
+     "end": null
+    },
+    {
+     "text": "Ⲁ̀ⲅⲓⲱ",
+     "start": 44.34,
+     "end": null
+    },
+    {
+     "text": "Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ:",
+     "start": 45.18,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 46.74,
+     "end": null
+    },
+    {
+     "text": "ⲛⲩⲛ",
+     "start": 47.64,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 48.04,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲓ̀",
+     "start": 48.44,
+     "end": null
+    },
+    {
+     "text": "ⲕⲉ",
+     "start": 48.94,
+     "end": null
+    },
+    {
+     "text": "ⲓⲥ",
+     "start": 49.24,
+     "end": null
+    },
+    {
+     "text": "ⲧⲟⲩⲥ:",
+     "start": 49.37,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲱ̀ⲛⲁⲥ",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "ⲧⲱⲛ",
+     "start": 50.38,
+     "end": null
+    },
+    {
+     "text": "ⲉ̀ⲱ̀ⲛⲱⲛ",
+     "start": 51.27,
+     "end": null
+    },
+    {
+     "text": "ⲁ̀ⲙⲏⲛ.",
+     "start": 51.74,
+     "end": null
+    }
+   ]
+  }
+ ]
 }
