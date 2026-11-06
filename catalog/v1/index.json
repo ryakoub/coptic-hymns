@@ -1,6 +1,6 @@
 {
- "version": "fc6d9db1690efe42",
- "updated": "2026-11-06T04:16:22Z",
+ "version": "85170b174b69e947",
+ "updated": "2026-11-06T04:23:10Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -7815,11 +7815,10 @@
    "id": "verses-cymbals-annual",
    "titles": {
     "english": "Verses of the Cymbals",
-    "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ",
-    "arabic": "أرباع الناقوس السنوي"
+    "arabic": "أرباع الناقوس السنوي (آدام وواطس)"
    },
    "subtitle": {
-    "english": "O come let us worship"
+    "english": "Adam and Watos"
    },
    "aka": [
     "Annual Verses of the Cymbals"
@@ -7839,8 +7838,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verses-cymbals-annual.json",
-    "bytes": 14051,
-    "sha256": "9517ca7e0dfe9d34a07fe9c82ea42130020467e7e6aab345a7bad0525742cba1"
+    "bytes": 14007,
+    "sha256": "655af0663cc8e6b98de5dffacabac24a03c82269b2c913c77bce84fdbff4479c"
    }
   },
   {
