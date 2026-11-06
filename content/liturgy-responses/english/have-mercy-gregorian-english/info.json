@@ -1,0 +1,19 @@
+{
+  "title": "Have Mercy (Gregorian)",
+  "titles": {
+    "english": "Have Mercy (Gregorian)",
+    "arabic": "إرحمنا (الغريغوري)"
+  },
+  "language": "english",
+  "tune": {
+    "english": "St. Gregory Liturgy - English"
+  },
+  "cantor": "George Beshara",
+  "places": [
+    "annual/liturgy"
+  ],
+  "group": {
+    "english": "Litanies"
+  },
+  "order": 3724
+}

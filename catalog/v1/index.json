@@ -1,6 +1,6 @@
 {
- "version": "69fbba43ea1471bc",
- "updated": "2026-11-06T02:32:57Z",
+ "version": "f590c4f2ab3e68bb",
+ "updated": "2026-11-06T02:45:38Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -288,6 +288,7 @@
         "seven-short-litanies-have-mercy-upon-us-english",
         "eleison-imas",
         "je-nai-nan",
+        "have-mercy-gregorian-english",
         "seven-short-litanies-lord-have-mercy-english",
         "nature-litany-lord-have-mercy-3x-english",
         "oblations-litany-lord-have-mercy-english",
@@ -384,6 +385,7 @@
           "seven-short-litanies-have-mercy-upon-us-english",
           "eleison-imas",
           "je-nai-nan",
+          "have-mercy-gregorian-english",
           "seven-short-litanies-lord-have-mercy-english",
           "nature-litany-lord-have-mercy-3x-english",
           "oblations-litany-lord-have-mercy-english",
@@ -436,10 +438,7 @@
           "anaphora-responses-basil",
           "anaphora-responses-gregory",
           "aspasmos-watos-annual",
-          "cherubim-response",
-          "anaphora-amen-english",
-          "anaphora-amen-i-believe-english",
-          "anaphora-according-to-your-mercy-english"
+          "cherubim-response"
          ],
          "parent": "liturgy-of-the-faithful"
         },
@@ -450,6 +449,9 @@
           "arabic": "كلمات التأسيس"
          },
          "recordings": [
+          "anaphora-amen-english",
+          "anaphora-amen-i-believe-english",
+          "anaphora-according-to-your-mercy-english",
           "institution-narrative-truly-we-believe-english",
           "institution-narrative-body-we-believe-that-this-is-true-amen-english",
           "institution-narrative-body-first-amen-english",
@@ -477,6 +479,7 @@
           "seven-short-litanies-have-mercy-upon-us-english",
           "eleison-imas",
           "je-nai-nan",
+          "have-mercy-gregorian-english",
           "seven-short-litanies-lord-have-mercy-english",
           "nature-litany-lord-have-mercy-3x-english",
           "oblations-litany-lord-have-mercy-english",
@@ -503,8 +506,7 @@
           "before-you-o-lord-english",
           "and-with-your-spirit-english",
           "amen-lord-have-mercy-3x-english",
-          "and-with-your-spirit-2-english",
-          "one-is-the-all-holy-father-english"
+          "and-with-your-spirit-2-english"
          ],
          "parent": "liturgy-of-the-faithful"
         },
@@ -515,6 +517,7 @@
           "arabic": "الاعتراف"
          },
          "recordings": [
+          "one-is-the-all-holy-father-english",
           "confession-first-amen-english",
           "confession-second-amen-english",
           "confession-amen-i-believe-english"
@@ -3670,6 +3673,35 @@
     "url": "catalog/v1/texts/gospel-response-vespers-annual.json",
     "bytes": 5116,
     "sha256": "976f666627cb2f6283ba27979248c6061d8d084ec985b8296b058610a70529ed"
+   }
+  },
+  {
+   "id": "have-mercy-gregorian-english",
+   "titles": {
+    "english": "Have Mercy (Gregorian)",
+    "arabic": "إرحمنا (الغريغوري)",
+    "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ"
+   },
+   "subtitle": {
+    "english": "Have mercy upon us, O God the Father"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 3,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [
+    "english"
+   ],
+   "recordings": [
+    "have-mercy-gregorian-english"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/have-mercy-gregorian-english.json",
+    "bytes": 1617,
+    "sha256": "5b774662cb4755510d95f7700854629f6db5e1cc260abf8d5bcb9db3f7e225e2"
    }
   },
   {
@@ -10987,6 +11019,36 @@
      "role": "audio",
      "bytes": 893227,
      "sha256": "a63ed77d726653c06841e249a71931f482447e0cde8b81d5bc8834bebabb6c54"
+    }
+   ]
+  },
+  {
+   "id": "have-mercy-gregorian-english",
+   "text": "have-mercy-gregorian-english",
+   "duration": 102.56,
+   "timing": {
+    "lines": 3,
+    "words": 0,
+    "of": 3
+   },
+   "source": "content/liturgy-responses/english/have-mercy-gregorian-english/",
+   "tune": {
+    "english": "St. Gregory Liturgy - English"
+   },
+   "cantor": "George Beshara",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/have-mercy-gregorian-english.json",
+     "bytes": 235,
+     "sha256": "b2f530cd4e18d9dc893058d988dfb60edec98f86047a4ebeff2633832a8b7453",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/liturgy-responses/english/have-mercy-gregorian-english/audio.m4a",
+     "role": "audio",
+     "bytes": 3375915,
+     "sha256": "ef19119e8ce6147680c99e6d7223dcda943113bb19c0df5d00529528baf8de54"
     }
    ]
   },

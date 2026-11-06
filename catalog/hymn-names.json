@@ -673,5 +673,11 @@
   "name": "Third Amen",
   "coptic": "Ⲁ̀ⲙⲏⲛ",
   "arabic": "آمين"
+ },
+ "have-mercy-gregorian-english": {
+  "name": "Have Mercy (Gregorian)",
+  "says": "Have mercy upon us, O God the Father",
+  "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+  "arabic": "إرحمنا (الغريغوري)"
  }
 }
