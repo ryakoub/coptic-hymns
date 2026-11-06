@@ -41,6 +41,18 @@
    "transliterations": {
     "english": "Ele-eeson eemas o Theos o Pateer o Pantokrator."
    }
+  },
+  {
+   "id": "l4",
+   "side": 1,
+   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+   "translations": {
+    "english": "Lord have mercy.",
+    "arabic": "يا ربُّ إرحَم."
+   },
+   "transliterations": {
+    "english": "Kirie ele-eeson."
+   }
   }
  ]
 }

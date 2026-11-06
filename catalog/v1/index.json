@@ -1,6 +1,6 @@
 {
- "version": "85170b174b69e947",
- "updated": "2026-11-06T04:23:10Z",
+ "version": "23d5cb2e3572d2a5",
+ "updated": "2026-11-06T14:18:08Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3688,7 +3688,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 3,
+   "lines": 4,
    "translations": [
     "arabic",
     "english"
@@ -3701,8 +3701,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/have-mercy-gregorian-english.json",
-    "bytes": 1617,
-    "sha256": "5b774662cb4755510d95f7700854629f6db5e1cc260abf8d5bcb9db3f7e225e2"
+    "bytes": 1882,
+    "sha256": "597ad1304538f23d2fb251a5c60dd7a5ac03f7df5fac07295a14fbd34077d9a3"
    }
   },
   {
@@ -11063,9 +11063,9 @@
    "text": "have-mercy-gregorian-english",
    "duration": 102.56,
    "timing": {
-    "lines": 3,
-    "words": 0,
-    "of": 3
+    "lines": 4,
+    "words": 3,
+    "of": 4
    },
    "source": "content/liturgy-responses/english/have-mercy-gregorian-english/",
    "tune": {
@@ -11076,8 +11076,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/have-mercy-gregorian-english.json",
-     "bytes": 235,
-     "sha256": "b2f530cd4e18d9dc893058d988dfb60edec98f86047a4ebeff2633832a8b7453",
+     "bytes": 3373,
+     "sha256": "b0daec9bcc3b7ab8f6ee23c83c79d3831f02cdaac20e94b77c627e4d5f02681b",
      "role": "timing"
     },
     {
@@ -13808,9 +13808,9 @@
    "text": "reconciliation-response-basil",
    "duration": 67.62,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 3,
+    "words": 3,
+    "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2618",
    "tune": {
@@ -13821,8 +13821,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/reconciliation-prayer-through-the-intercession-english.json",
-     "bytes": 133,
-     "sha256": "ab980c10d6a7d410bb4337489b563cbb1b06380edc15508546f22d03fd529970",
+     "bytes": 3553,
+     "sha256": "13dd9b6c7aeb3fcaa568e1ae2040b70761e95b4e0fee9f34ddf9a4ce47762f4b",
      "role": "timing"
     },
     {

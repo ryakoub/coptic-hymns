@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.44,
+    "words": [
+      {
+        "text": "Through",
+        "start": 0.44
+      },
+      {
+        "text": "the",
+        "start": 1.64,
+        "estimated": true
+      },
+      {
+        "text": "intercessions",
+        "start": 2.84
+      },
+      {
+        "text": "of",
+        "start": 5.2,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 5.79,
+        "estimated": true
+      },
+      {
+        "text": "Theotokos,",
+        "start": 6.38
+      },
+      {
+        "text": "Saint",
+        "start": 8.33,
+        "estimated": true
+      },
+      {
+        "text": "Mary,",
+        "start": 8.98
+      },
+      {
+        "text": "O",
+        "start": 10.53,
+        "estimated": true
+      },
+      {
+        "text": "Lord,",
+        "start": 11.3,
+        "estimated": true
+      },
+      {
+        "text": "grant",
+        "start": 12.08
+      },
+      {
+        "text": "us",
+        "start": 12.73,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 13.39,
+        "estimated": true
+      },
+      {
+        "text": "forgiveness",
+        "start": 14.04
+      },
+      {
+        "text": "of",
+        "start": 16.93,
+        "estimated": true
+      },
+      {
+        "text": "our",
+        "start": 17.66,
+        "estimated": true
+      },
+      {
+        "text": "sins.",
+        "start": 18.38
+      }
+    ]
+  },
+  {
+    "line": "l2",
+    "start": 20.08,
+    "words": [
+      {
+        "text": "We",
+        "start": 20.08
+      },
+      {
+        "text": "worship",
+        "start": 20.67,
+        "estimated": true
+      },
+      {
+        "text": "You,",
+        "start": 21.84,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 22.43,
+        "estimated": true
+      },
+      {
+        "text": "Christ,",
+        "start": 23.01
+      },
+      {
+        "text": "with",
+        "start": 24.5,
+        "estimated": true
+      },
+      {
+        "text": "Your",
+        "start": 25.99,
+        "estimated": true
+      },
+      {
+        "text": "good",
+        "start": 27.48
+      },
+      {
+        "text": "Father",
+        "start": 28.75,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 31.3,
+        "estimated": true
+      },
+      {
+        "text": "the",
+        "start": 32.57,
+        "estimated": true
+      },
+      {
+        "text": "Holy",
+        "start": 33.85
+      },
+      {
+        "text": "Spirit,",
+        "start": 35.38
+      },
+      {
+        "text": "for",
+        "start": 36.78,
+        "estimated": true
+      },
+      {
+        "text": "You",
+        "start": 37.48,
+        "estimated": true
+      },
+      {
+        "text": "(have",
+        "start": 38.18
+      },
+      {
+        "text": "come)",
+        "start": 39.66,
+        "estimated": true
+      },
+      {
+        "text": "and",
+        "start": 41.14,
+        "estimated": true
+      },
+      {
+        "text": "saved",
+        "start": 41.88
+      },
+      {
+        "text": "us.",
+        "start": 43.7,
+        "estimated": true
+      }
+    ]
+  },
+  {
+    "line": "l3",
+    "start": 44.88,
+    "words": [
+      {
+        "text": "A",
+        "start": 44.88
+      },
+      {
+        "text": "mercy",
+        "start": 46.2,
+        "estimated": true
+      },
+      {
+        "text": "of",
+        "start": 48.85
+      },
+      {
+        "text": "peace,",
+        "start": 49.95
+      },
+      {
+        "text": "a",
+        "start": 52.17,
+        "estimated": true
+      },
+      {
+        "text": "sacrifice",
+        "start": 53.28
+      },
+      {
+        "text": "of",
+        "start": 61.73,
+        "estimated": true
+      },
+      {
+        "text": "praise.",
+        "start": 63.85
+      }
+    ]
+  }
+]

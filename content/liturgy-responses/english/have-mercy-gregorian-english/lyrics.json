@@ -8,7 +8,68 @@
       "english": "Have mercy, have mercy, have mercy upon us, O God the Father, the Pantocrator.",
       "arabic": "إرحمنا يا الله الآب ضابط الكل."
     },
-    "start": 1.3
+    "start": 1.21,
+    "words": [
+      {
+        "text": "Have",
+        "start": 1.21
+      },
+      {
+        "text": "mercy,",
+        "start": 2.25
+      },
+      {
+        "text": "have",
+        "start": 7.95
+      },
+      {
+        "text": "mercy,",
+        "start": 9.35
+      },
+      {
+        "text": "have",
+        "start": 14.88
+      },
+      {
+        "text": "mercy",
+        "start": 15.75
+      },
+      {
+        "text": "upon",
+        "start": 18.25
+      },
+      {
+        "text": "us,",
+        "start": 20.05
+      },
+      {
+        "text": "O",
+        "start": 20.76,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 21.48
+      },
+      {
+        "text": "the",
+        "start": 23.21,
+        "estimated": true
+      },
+      {
+        "text": "Father,",
+        "start": 24.95
+      },
+      {
+        "text": "the",
+        "start": 26.92,
+        "estimated": true
+      },
+      {
+        "text": "Pantocrator.",
+        "start": 27.91
+      }
+    ]
   },
   {
     "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
@@ -19,7 +80,70 @@
       "english": "Have mercy, have mercy, have mercy upon us, O God the Father, the Pantocrator.",
       "arabic": "إرحمنا يا الله الآب ضابط الكل."
     },
-    "start": 29.1
+    "start": 32.98,
+    "words": [
+      {
+        "text": "Have",
+        "start": 32.98
+      },
+      {
+        "text": "mercy,",
+        "start": 33.75
+      },
+      {
+        "text": "have",
+        "start": 38.61
+      },
+      {
+        "text": "mercy,",
+        "start": 39.65
+      },
+      {
+        "text": "have",
+        "start": 44.55
+      },
+      {
+        "text": "mercy",
+        "start": 45.45
+      },
+      {
+        "text": "upon",
+        "start": 47.51,
+        "estimated": true
+      },
+      {
+        "text": "us,",
+        "start": 49.58,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 50.61,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 51.65
+      },
+      {
+        "text": "the",
+        "start": 53.16,
+        "estimated": true
+      },
+      {
+        "text": "Father,",
+        "start": 54.68
+      },
+      {
+        "text": "the",
+        "start": 56.63,
+        "estimated": true
+      },
+      {
+        "text": "Pantocrator.",
+        "start": 57.61
+      }
+    ]
   },
   {
     "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.",
@@ -30,6 +154,79 @@
       "english": "Have mercy, have mercy, have mercy upon us, O God the Father, the Pantocrator.",
       "arabic": "إرحمنا يا الله الآب ضابط الكل."
     },
-    "start": 58.8
+    "start": 62.75,
+    "words": [
+      {
+        "text": "Have",
+        "start": 62.75
+      },
+      {
+        "text": "mercy,",
+        "start": 63.68
+      },
+      {
+        "text": "have",
+        "start": 68.51
+      },
+      {
+        "text": "mercy,",
+        "start": 69.55
+      },
+      {
+        "text": "have",
+        "start": 74.55
+      },
+      {
+        "text": "mercy",
+        "start": 75.45
+      },
+      {
+        "text": "upon",
+        "start": 77.91
+      },
+      {
+        "text": "us,",
+        "start": 79.7,
+        "estimated": true
+      },
+      {
+        "text": "O",
+        "start": 80.59,
+        "estimated": true
+      },
+      {
+        "text": "God",
+        "start": 81.48
+      },
+      {
+        "text": "the",
+        "start": 83.08,
+        "estimated": true
+      },
+      {
+        "text": "Father,",
+        "start": 84.68
+      },
+      {
+        "text": "the",
+        "start": 86.68,
+        "estimated": true
+      },
+      {
+        "text": "Pantocrator.",
+        "start": 87.68
+      }
+    ]
+  },
+  {
+    "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
+    "transliterations": {
+      "english": "Kirie ele-eeson."
+    },
+    "translations": {
+      "english": "Lord have mercy.",
+      "arabic": "يا ربُّ إرحَم."
+    },
+    "start": 88.9
   }
 ]

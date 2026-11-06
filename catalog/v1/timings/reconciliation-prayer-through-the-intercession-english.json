@@ -1,5 +1,249 @@
 {
  "recording": "reconciliation-prayer-through-the-intercession-english",
  "text": "reconciliation-response-basil",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.44,
+   "words": [
+    {
+     "text": "Through",
+     "start": 0.44,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "intercessions",
+     "start": 2.84,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Theotokos,",
+     "start": 6.38,
+     "end": null
+    },
+    {
+     "text": "Saint",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Mary,",
+     "start": 8.98,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Lord,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "grant",
+     "start": 12.08,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "forgiveness",
+     "start": 14.04,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "sins.",
+     "start": 18.38,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l2",
+   "start": 20.08,
+   "words": [
+    {
+     "text": "We",
+     "start": 20.08,
+     "end": null
+    },
+    {
+     "text": "worship",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "You,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Christ,",
+     "start": 23.01,
+     "end": null
+    },
+    {
+     "text": "with",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Your",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "good",
+     "start": 27.48,
+     "end": null
+    },
+    {
+     "text": "Father",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Holy",
+     "start": 33.85,
+     "end": null
+    },
+    {
+     "text": "Spirit,",
+     "start": 35.38,
+     "end": null
+    },
+    {
+     "text": "for",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "You",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "(have",
+     "start": 38.18,
+     "end": null
+    },
+    {
+     "text": "come)",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "saved",
+     "start": 41.88,
+     "end": null
+    },
+    {
+     "text": "us.",
+     "start": null,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l3",
+   "start": 44.88,
+   "words": [
+    {
+     "text": "A",
+     "start": 44.88,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": 48.85,
+     "end": null
+    },
+    {
+     "text": "peace,",
+     "start": 49.95,
+     "end": null
+    },
+    {
+     "text": "a",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "sacrifice",
+     "start": 53.28,
+     "end": null
+    },
+    {
+     "text": "of",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "praise.",
+     "start": 63.85,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

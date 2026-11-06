@@ -4,15 +4,235 @@
  "segments": [
   {
    "line": "l1",
-   "start": 1.3
+   "start": 1.21,
+   "words": [
+    {
+     "text": "Have",
+     "start": 1.21,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 2.25,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 7.95,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 9.35,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 14.88,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 15.75,
+     "end": null
+    },
+    {
+     "text": "upon",
+     "start": 18.25,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": 20.05,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 21.48,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 24.95,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Pantocrator.",
+     "start": 27.91,
+     "end": null
+    }
+   ]
   },
   {
    "line": "l2",
-   "start": 29.1
+   "start": 32.98,
+   "words": [
+    {
+     "text": "Have",
+     "start": 32.98,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 33.75,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 38.61,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 39.65,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 44.55,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 45.45,
+     "end": null
+    },
+    {
+     "text": "upon",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 51.65,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 54.68,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Pantocrator.",
+     "start": 57.61,
+     "end": null
+    }
+   ]
   },
   {
    "line": "l3",
-   "start": 58.8
+   "start": 62.75,
+   "words": [
+    {
+     "text": "Have",
+     "start": 62.75,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 63.68,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 68.51,
+     "end": null
+    },
+    {
+     "text": "mercy,",
+     "start": 69.55,
+     "end": null
+    },
+    {
+     "text": "have",
+     "start": 74.55,
+     "end": null
+    },
+    {
+     "text": "mercy",
+     "start": 75.45,
+     "end": null
+    },
+    {
+     "text": "upon",
+     "start": 77.91,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "O",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "God",
+     "start": 81.48,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Father,",
+     "start": 84.68,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": null,
+     "end": null
+    },
+    {
+     "text": "Pantocrator.",
+     "start": 87.68,
+     "end": null
+    }
+   ]
+  },
+  {
+   "line": "l4",
+   "start": 88.9
   }
  ]
 }

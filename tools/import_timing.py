@@ -127,6 +127,8 @@ def merge(path, dry_run):
     folder = find_folder(rec)
     lyrics_path = folder / "lyrics.json"
     lines = json.loads(lyrics_path.read_text(encoding="utf-8"))
+    info_path = folder / "info.json"
+    sung_language = (json.loads(info_path.read_text(encoding="utf-8")).get("language") if info_path.exists() else None) or "coptic"
 
     changed, repeats = 0, 0
     done = set()
@@ -150,7 +152,13 @@ def merge(path, dry_run):
             continue
         # The website shows a line's timed words in place of its text, so import a line only when its
         # words spell out its current lyrics exactly (lyrics corrected after timing would bring old words back).
-        current_text = (lines[i].get("coptic") or "").split()
+        # The words of the language it is sung in: Coptic, or (an English recording that is its own text) the
+        # English it sings, written under "sung" when it differs from the translation.
+        if sung_language == "coptic":
+            current_text = (lines[i].get("coptic") or "").split()
+        else:
+            l = lines[i]
+            current_text = ((l.get("sung") or {}).get(sung_language) or (l.get("translations") or {}).get(sung_language) or "").split()
         line_text = written_words(out)
         if line_text != current_text:
             diff = next((k for k, (a, b) in enumerate(zip(line_text, current_text)) if a != b), min(len(line_text), len(current_text)))
