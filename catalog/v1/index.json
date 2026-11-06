@@ -1,6 +1,6 @@
 {
- "version": "c219eda7fa84513e",
- "updated": "2026-11-06T02:59:15Z",
+ "version": "f4ee673c73bdd634",
+ "updated": "2026-11-06T03:20:56Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2489,8 +2489,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual.json",
-    "bytes": 6263,
-    "sha256": "a2bd5f7c29815525f2b3fab563f896688eb94f3ab07ebe2514dfcea0dc34a735"
+    "bytes": 6272,
+    "sha256": "4de16e4fc70ecfeac4f8dbb5e3e6a360e36c655f40e88e9cad8ec4250b767508"
    }
   },
   {
@@ -2519,8 +2519,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/concluding-canon-annual-liturgy.json",
-    "bytes": 5683,
-    "sha256": "524bbe3baca29cb8e6edcac08626b53dc577588d2dc160f20029a8e037fa3ec3"
+    "bytes": 5692,
+    "sha256": "21750cfc09932430ecad9e6b57f82b027ba5e5ac7108c086910db2282015aad3"
    }
   },
   {
