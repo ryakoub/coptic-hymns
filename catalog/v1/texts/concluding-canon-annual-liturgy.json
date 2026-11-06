@@ -17,6 +17,9 @@
    "transliterations": {
     "english": "Ameen alleelouia. Thoksa Patri ke I-io ke Agio Epnevmati: ke nin ke a-i ke is tous e-onas ton e-onon: ameen."
    },
+   "sung": {
+    "english": "Amen. Alleluia. Glory to the Father and the Son and the Holy Spirit. Now and ever and unto the age of all ages. Amen."
+   },
    "stanzas": [
     {
      "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
@@ -43,6 +46,9 @@
    "transliterations": {
     "english": "Tenosh evol engo emmos: je o Penshois Ieesous Pi-ekhristos."
    },
+   "sung": {
+    "english": "We proclaim and say: “O our Lord Jesus Christ."
+   },
    "stanzas": [
     {
      "coptic": "Ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ:"
@@ -62,6 +68,9 @@
    },
    "transliterations": {
     "english": "Esmou ni-aeer ente etfe nem nimoou emefiaro nem enisiti nem nisim."
+   },
+   "sung": {
+    "english": "Bless the air of heaven, bless the water of the rivers, bless the seeds and the herbs."
    }
   },
   {
@@ -74,6 +83,9 @@
    },
    "transliterations": {
     "english": "Mare peknai nem tekhireenee oi ensovt empeklaos."
+   },
+   "sung": {
+    "english": "May Your mercy and Your peace be a fortress unto Your people."
    }
   },
   {
@@ -86,6 +98,9 @@
    },
    "transliterations": {
     "english": "Soti emmon o-woh nai nan."
+   },
+   "sung": {
+    "english": "Save us and have mercy on us.”"
    }
   },
   {
@@ -98,6 +113,9 @@
    },
    "transliterations": {
     "english": "Kirie ele-eeson: Kirie ele-eeson: Kirie evlogeeson ameen. Esmou eroi: esmou eroi: is timetanoia: ko nee evol: go empi-esmou."
+   },
+   "sung": {
+    "english": "Lord have mercy. Lord have mercy. Lord bless. Amen. Bless me, bless me. Lo the repentance (metanoia). Forgive me. Say the blessing."
    },
    "stanzas": [
     {

@@ -38,7 +38,10 @@
         "text": "ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
         "start": 7.64
       }
-    ]
+    ],
+    "sung": {
+      "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy."
+    }
   },
   {
     "coptic": "Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.",
@@ -145,7 +148,10 @@
         "text": "ⲁ̀ⲙⲏⲛ.",
         "start": 23.71
       }
-    ]
+    ],
+    "sung": {
+      "english": "Amen. Alleluia. Glory to the Father and the Son and the Holy Spirit. Now and ever and unto the age of all ages. Amen."
+    }
   },
   {
     "coptic": "Ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲱ̀ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
@@ -202,7 +208,10 @@
         "text": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
         "start": 30.31
       }
-    ]
+    ],
+    "sung": {
+      "english": "We proclaim and say: “O our Lord Jesus Christ."
+    }
   },
   {
     "coptic": "Ⲥ̀ⲙⲟⲩ ⲛⲓⲁ̀ⲏⲣ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲛⲉⲙ ⲛⲓⲙⲱⲟⲩ ⲙ̀ⲫ̀ⲓⲁⲣⲟ ⲛⲉⲙ ⲉ̀ⲛⲓⲥⲓϯ ⲛⲉⲙ ⲛⲓⲥⲓⲙ.",
@@ -259,7 +268,10 @@
         "text": "ⲛⲓⲥⲓⲙ.",
         "start": 39.38
       }
-    ]
+    ],
+    "sung": {
+      "english": "Bless the air of heaven, bless the water of the rivers, bless the seeds and the herbs."
+    }
   },
   {
     "coptic": "Ⲙⲁⲣⲉ ⲡⲉⲕⲛⲁⲓ ⲛⲉⲙ ⲧⲉⲕϩⲓⲣⲏⲛⲏ ⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
@@ -300,7 +312,10 @@
         "text": "ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
         "start": 44.34
       }
-    ]
+    ],
+    "sung": {
+      "english": "May Your mercy and Your peace be a fortress unto Your people."
+    }
   },
   {
     "coptic": "Ⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ.",
@@ -333,7 +348,10 @@
         "text": "ⲛⲁⲛ.",
         "start": 48.08
       }
-    ]
+    ],
+    "sung": {
+      "english": "Save us and have mercy on us.”"
+    }
   },
   {
     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲁ̀ⲙⲏⲛ. Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲓ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲓ: ⲓⲥ ϯⲙⲉⲧⲁⲛⲟⲓⲁ: ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ: ϫⲱ ⲙ̀ⲡⲓⲥ̀ⲙⲟⲩ.",
@@ -444,6 +462,9 @@
         "text": "ⲙ̀ⲡⲓⲥ̀ⲙⲟⲩ.",
         "start": 62.18
       }
-    ]
+    ],
+    "sung": {
+      "english": "Lord have mercy. Lord have mercy. Lord bless. Amen. Bless me, bless me. Lo the repentance (metanoia). Forgive me. Say the blessing."
+    }
   }
 ]
