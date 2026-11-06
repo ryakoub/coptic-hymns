@@ -183,7 +183,8 @@
   "arabic": "الهوس الرابع"
  },
  "fraction-lord-have-mercy-english": {
-  "name": "Lord have mercy, Lord have mercy, Lord have mercy",
+  "name": "Lord have mercy",
+  "says": "Kirie ele-eeson, three times",
   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
   "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },
@@ -256,8 +257,8 @@
   "arabic": "لبش الهوس الأول"
  },
  "lord-have-mercy-3x-english": {
-  "name": "Lord have mercy, Lord have mercy, Lord have mercy",
-  "says": "Kirie ele-eeson",
+  "name": "Lord have mercy",
+  "says": "Kirie ele-eeson, three times",
   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
   "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },
@@ -267,7 +268,8 @@
   "arabic": "ذكصولوجية باكر"
  },
  "nature-litany-lord-have-mercy-3x-english": {
-  "name": "Lord have mercy, Lord have mercy, Lord have mercy",
+  "name": "Lord have mercy",
+  "says": "Kirie ele-eeson, three times",
   "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
   "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },
@@ -346,7 +348,8 @@
   "arabic": "وأيضاً أؤمن"
  },
  "response-amen-lord-have-mercy-3x": {
-  "name": "Amen. Lord have mercy, Lord have mercy, Lord have mercy",
+  "name": "Amen. Lord have mercy",
+  "says": "Ameen. Kirie ele-eeson, three times",
   "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
   "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم"
  },

@@ -1,6 +1,6 @@
 {
- "version": "d8856bb3f3cec5dd",
- "updated": "2026-11-06T02:32:10Z",
+ "version": "69fbba43ea1471bc",
+ "updated": "2026-11-06T02:32:57Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -3484,9 +3484,12 @@
   {
    "id": "fraction-lord-have-mercy-english",
    "titles": {
-    "english": "Lord have mercy, Lord have mercy, Lord have mercy",
+    "english": "Lord have mercy",
     "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+   },
+   "subtitle": {
+    "english": "Kirie ele-eeson, three times"
    },
    "aka": [
     "Fraction - Lord have mercy"
@@ -3506,8 +3509,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/fraction-lord-have-mercy-english.json",
-    "bytes": 766,
-    "sha256": "2e01b1c6cedabaec88caeee44c25012f322b31578c5327f4a84da609d3c74d31"
+    "bytes": 732,
+    "sha256": "ff2a15b9fd1992fc260356e6e62437de5e8e522eaabb26171afdefb22ff46980"
    }
   },
   {
@@ -4472,13 +4475,16 @@
   {
    "id": "lord-have-mercy-3x-english",
    "titles": {
-    "english": "Lord have mercy, Lord have mercy, Lord have mercy",
+    "english": "Lord have mercy",
     "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
    "subtitle": {
-    "english": "Kirie ele-eeson"
+    "english": "Kirie ele-eeson, three times"
    },
+   "aka": [
+    "Lord have mercy, Lord have mercy, Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -4494,8 +4500,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/lord-have-mercy-3x-english.json",
-    "bytes": 760,
-    "sha256": "67416502bf72d269ebc1a69c6b57d446ba1ce3598037d636d97a392b095ea15e"
+    "bytes": 726,
+    "sha256": "5ce4df46df01f547fc41e8dbfe25b68c9764aad388a1fd0c06f417f83fdb1e6e"
    }
   },
   {
@@ -4542,9 +4548,12 @@
   {
    "id": "nature-litany-lord-have-mercy-3x-english",
    "titles": {
-    "english": "Lord have mercy, Lord have mercy, Lord have mercy",
+    "english": "Lord have mercy",
     "arabic": "يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
     "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+   },
+   "subtitle": {
+    "english": "Kirie ele-eeson, three times"
    },
    "aka": [
     "Nature Litany - Lord have mercy, Lord have mercy, Lord have mercy"
@@ -4564,8 +4573,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/nature-litany-lord-have-mercy-3x-english.json",
-    "bytes": 774,
-    "sha256": "94f78e57cd85356b84332fdab25e38936ea44ff0427aa39b55504aa6ca2fead3"
+    "bytes": 740,
+    "sha256": "2c3ae1fdf99088c63d6f7f9a5c0fc30b2643a6b6b947158e5c39289a9766d476"
    }
   },
   {
@@ -5445,10 +5454,16 @@
   {
    "id": "response-amen-lord-have-mercy-3x",
    "titles": {
-    "english": "Amen. Lord have mercy, Lord have mercy, Lord have mercy",
+    "english": "Amen. Lord have mercy",
     "arabic": "آمين. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم",
     "coptic": "Ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
    },
+   "subtitle": {
+    "english": "Ameen. Kirie ele-eeson, three times"
+   },
+   "aka": [
+    "Amen. Lord have mercy, Lord have mercy, Lord have mercy"
+   ],
    "tags": [],
    "pending": false,
    "lines": 1,
@@ -5465,8 +5480,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/response-amen-lord-have-mercy-3x.json",
-    "bytes": 836,
-    "sha256": "07ef1391976e1fa2935a34e6004c47a048a57e5d5056f804f669ad1bf37fd5d6"
+    "bytes": 802,
+    "sha256": "d4759c5a62abd9d5f24ad60bd60e10cda524e3ab2da4d50bf379b47a49fc0447"
    }
   },
   {
