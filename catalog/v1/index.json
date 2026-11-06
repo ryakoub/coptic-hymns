@@ -1,6 +1,6 @@
 {
- "version": "23d5cb2e3572d2a5",
- "updated": "2026-11-06T14:18:08Z",
+ "version": "4059a74bdb6c4a37",
+ "updated": "2026-11-06T14:27:50Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -1759,9 +1759,9 @@
    ],
    "recordings": [
     "adam-theotokias-conclusion",
-    "adam-theotokias-conclusion-english",
     "adam-theotokias-conclusion-hcoc-1",
-    "adam-theotokias-conclusion-hcoc-2"
+    "adam-theotokias-conclusion-hcoc-2",
+    "adam-theotokias-conclusion-english"
    ],
    "file": {
     "url": "catalog/v1/texts/adam-theotokias-conclusion.json",
@@ -2325,9 +2325,9 @@
    ],
    "transliterations": [],
    "recordings": [
+    "ti-shouri-major",
     "censer-annual",
-    "censer-annual-english-chie",
-    "ti-shouri-major"
+    "censer-annual-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/censer-annual.json",
@@ -4496,8 +4496,8 @@
    ],
    "recordings": [
     "lobsh-first-hoos",
-    "first-hoos-lobsh-english",
-    "lobsh-first-hoos-hcoc-minor"
+    "lobsh-first-hoos-hcoc-minor",
+    "first-hoos-lobsh-english"
    ],
    "file": {
     "url": "catalog/v1/texts/lobsh-first-hoos.json",
@@ -6172,8 +6172,8 @@
    ],
    "recordings": [
     "second-hoos-lobsh",
-    "second-hoos-lobsh-english",
-    "second-hoos-lobsh-hcoc-minor"
+    "second-hoos-lobsh-hcoc-minor",
+    "second-hoos-lobsh-english"
    ],
    "file": {
     "url": "catalog/v1/texts/second-hoos-lobsh.json",
@@ -6245,10 +6245,10 @@
     "english"
    ],
    "recordings": [
+    "semoti-hcoc-major",
     "semoti",
-    "semoti-english",
     "semoti-english-chie",
-    "semoti-hcoc-major"
+    "semoti-english"
    ],
    "file": {
     "url": "catalog/v1/texts/semoti.json",
@@ -6398,9 +6398,9 @@
     "english"
    ],
    "recordings": [
+    "shere-ne-maria-hcoc-major",
     "shere-ne-maria",
-    "shere-ne-maria-english-chie",
-    "shere-ne-maria-hcoc-major"
+    "shere-ne-maria-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/shere-ne-maria.json",
@@ -7096,8 +7096,8 @@
    ],
    "recordings": [
     "ten-theeno",
-    "ten-theeno-english",
-    "ten-theeno-english-chie"
+    "ten-theeno-english-chie",
+    "ten-theeno-english"
    ],
    "file": {
     "url": "catalog/v1/texts/ten-theeno.json",
@@ -7232,12 +7232,12 @@
    ],
    "recordings": [
     "tenoue-n-khok",
-    "tenoue-n-khok-english",
-    "tenoue-n-khok-english-chie",
-    "tenoue-n-khok-english-chie-2",
     "tenoue-n-khok-hcoc-medium",
     "tenoue-n-khok-hcoc-minor",
-    "tenoueh-ensok-kiahk"
+    "tenoueh-ensok-kiahk",
+    "tenoue-n-khok-english",
+    "tenoue-n-khok-english-chie",
+    "tenoue-n-khok-english-chie-2"
    ],
    "file": {
     "url": "catalog/v1/texts/tenoue-n-khok.json",
@@ -8022,10 +8022,10 @@
     "of": 17
    },
    "source": "https://tasbeha.org/hymn_library/view/477",
-   "tune": {
-    "english": "Tasbeha"
-   },
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion.json",
@@ -8051,11 +8051,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion-english.json",
@@ -8081,10 +8081,13 @@
     "of": 0
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 50: Nek Nai O Panooty 1",
-   "tune": {
-    "english": "HCOC · 1"
+   "version": {
+    "part": "Second version"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Second version"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion-hcoc-1.json",
@@ -8110,10 +8113,13 @@
     "of": 0
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 51: Nek Nai O Panooty 2",
-   "tune": {
-    "english": "HCOC · 2"
+   "version": {
+    "part": "Third version"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Third version"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/adam-theotokias-conclusion-hcoc-2.json",
@@ -8139,12 +8145,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2633",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/again-i-believe-amen-english.json",
@@ -8222,12 +8231,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2640",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/amen-lord-have-mercy-3x-english.json",
@@ -8254,6 +8266,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/337",
    "youtube": "https://www.youtube.com/watch?v=T3ywO9kj6Ck",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/amen-ton-thanaton.json",
@@ -8279,12 +8294,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/331",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-according-to-your-mercy-english.json",
@@ -8310,8 +8328,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8341,12 +8359,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2624",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-amen-i-believe-english.json",
@@ -8372,10 +8393,13 @@
     "of": 3
    },
    "source": "Mahragan El-Keraza 2026, Grades 5–6 Level 2 (its St. Basil half)",
-   "tune": {
-    "english": "St. Basil Liturgy"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-responses-basil.json",
@@ -8401,11 +8425,14 @@
     "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2616 (with 2622 and 2623, joined)",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-responses-basil-english.json",
@@ -8431,10 +8458,13 @@
     "of": 3
    },
    "source": "Mahragan El-Keraza 2026, Grades 5–6 Level 2 (its St. Gregory half)",
-   "tune": {
-    "english": "St. Gregory Liturgy"
+   "version": {
+    "liturgy": "St. Gregory"
    },
    "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-responses-gregory.json",
@@ -8460,11 +8490,14 @@
     "of": 3
    },
    "source": "https://www.coptichymnsinenglish.com/album/50/track/710",
-   "tune": {
-    "english": "St. Gregory Liturgy - English · Coptic Hymns in English"
+   "version": {
+    "liturgy": "St. Gregory"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-responses-gregory-english-chie.json",
@@ -8516,11 +8549,14 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2037",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/anaphora-the-cherubimic-hymn-english.json",
@@ -8546,8 +8582,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8577,8 +8613,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -8638,6 +8674,9 @@
    "youtube": "https://www.youtube.com/watch?v=wB1ygqD98WY",
    "antiphonalGroup": 2,
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/aripalin.json",
@@ -8663,11 +8702,11 @@
     "of": 24
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/aripalin-english.json",
@@ -8719,11 +8758,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
-   "tune": {
-    "english": "St. Basil Liturgy - English · Long ending"
+   "version": {
+    "liturgy": "St. Basil",
+    "part": "Long ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English · Long ending"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/as-it-was-full-ending-english.json",
@@ -8749,11 +8792,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
-   "tune": {
-    "english": "St. Basil Liturgy - English · Short ending"
+   "version": {
+    "liturgy": "St. Basil",
+    "part": "Short ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English · Short ending"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/as-it-was-short-ending-english.json",
@@ -8935,12 +8982,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2639",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/before-you-o-lord-english.json",
@@ -8993,6 +9043,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-1/censer-annual/",
    "youtube": "https://youtu.be/QYQu5Uza0fw",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/censer-annual.json",
@@ -9018,11 +9071,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/20/track/789",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/censer-annual-english-chie.json",
@@ -9049,6 +9102,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2037",
    "youtube": "https://www.youtube.com/watch?v=o1_JdUm4lAc",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/cherubim-response.json",
@@ -9075,6 +9131,9 @@
    },
    "source": "content/mahragan-keraza-2026/ms/level-1/christ-is-risen/",
    "youtube": "https://www.youtube.com/watch?v=c7otcvdH8u8",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/christ-is-risen.json",
@@ -9100,11 +9159,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/22",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/christ-is-risen-english-chie.json",
@@ -9131,6 +9190,9 @@
    },
    "source": "content/mahragan-keraza-2026/college/level-1/christos-analympsis/",
    "youtube": "https://youtu.be/UmHgilu3TSA?si=VxUsK691Hdr8Dxci",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/christos-analympsis.json",
@@ -9156,11 +9218,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/15/track/412",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/christos-analympsis-english-chie.json",
@@ -9187,6 +9249,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/111",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/commemoration-of-saints.json",
@@ -9212,11 +9277,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/commemoration-of-saints-english.json",
@@ -9242,10 +9307,10 @@
     "of": 7
    },
    "source": "https://tasbeha.org/hymn_library/view/1853",
-   "tune": {
-    "english": "Vespers and Matins"
-   },
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/concluding-canon-annual.json",
@@ -9271,11 +9336,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/50",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/concluding-canon-annual-english-chie.json",
@@ -9301,10 +9366,10 @@
     "of": 6
    },
    "source": "https://tasbeha.org/hymn_library/view/1853",
-   "tune": {
-    "english": "Liturgy and Praises"
-   },
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/concluding-canon-annual-liturgy.json",
@@ -9330,11 +9395,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/50",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/concluding-canon-annual-liturgy-english-chie.json",
@@ -9386,11 +9451,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/concluding-litany-english.json",
@@ -9443,6 +9508,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/535",
    "youtube": "https://www.youtube.com/watch?v=-WTyw9BflSQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/conclusion-kiahk.json",
@@ -9468,11 +9536,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/464",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/conclusion-kiahk-english-chie.json",
@@ -9500,6 +9568,9 @@
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/conclusion-midnight-praises/",
    "youtube": "https://www.youtube.com/watch?v=LhgEeCHUbME",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/conclusion-midnight-praises.json",
@@ -9551,12 +9622,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2641",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/confession-amen-i-believe-english.json",
@@ -9582,8 +9656,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -9613,8 +9687,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -9645,6 +9719,9 @@
    },
    "source": "content/hymns/distribution-annual-psalm-150/",
    "youtube": "https://www.youtube.com/watch?v=LwC3t6WzFd0",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/distribution-annual-psalm-150.json",
@@ -9670,11 +9747,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/42/track/41",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/distribution-annual-psalm-150-english-chie.json",
@@ -9781,6 +9858,9 @@
    "source": "content/mahragan-keraza-2026/grades-5-6/level-2/doxology-heavenly-orders/",
    "youtube": "https://www.youtube.com/watch?v=5bX5uDocLO8",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-heavenly-orders.json",
@@ -9806,11 +9886,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/15",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-heavenly-orders-english-chie.json",
@@ -9943,6 +10023,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/132",
    "youtube": "https://www.youtube.com/watch?v=Exyjt981CVM",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-kiahk-3.json",
@@ -9968,11 +10051,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/454",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-kiahk-3-english-chie.json",
@@ -10051,6 +10134,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/135",
    "youtube": "https://www.youtube.com/watch?v=0vl5DVjnCmw",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-kiahk-6.json",
@@ -10076,11 +10162,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/454",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-kiahk-6-english-chie.json",
@@ -10107,6 +10193,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-resurrection/",
    "youtube": "https://www.youtube.com/watch?v=fwludc_k6WM",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-resurrection.json",
@@ -10132,11 +10221,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/466",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-resurrection-english-chie.json",
@@ -10164,6 +10253,9 @@
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/doxology-st-mary-matins/",
    "youtube": "https://www.youtube.com/watch?v=dwCjweUAI5A",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-st-mary-matins.json",
@@ -10189,11 +10281,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/645",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-st-mary-matins-english-chie.json",
@@ -10221,6 +10313,9 @@
    "source": "content/mahragan-keraza-2026/grades-3-4/level-1/doxology-st-mary-vespers/",
    "youtube": "https://youtu.be/pY-9ScNsRdk",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-st-mary-vespers.json",
@@ -10246,11 +10341,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/646",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-st-mary-vespers-english-chie.json",
@@ -10277,6 +10372,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/25",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-virgin-midnight.json",
@@ -10302,11 +10400,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/40/track/840",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/doxology-virgin-midnight-english-chie.json",
@@ -10358,10 +10456,13 @@
     "of": 1
    },
    "source": "content/mahragan-keraza-2026/kg/level-2/ere-po-esmo-may-their-holy-blessing/",
-   "tune": {
-    "english": "Short ending"
+   "version": {
+    "part": "Short ending"
    },
    "youtube": "https://www.youtube.com/watch?v=UQeEvUJnwps",
+   "tune": {
+    "english": "Coptic · Short ending"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ere-po-esmo-may-their-holy-blessing.json",
@@ -10415,6 +10516,9 @@
    "source": "content/mahragan-keraza-2026/college/level-1/ethbe-ti-anastasis/",
    "youtube": "https://youtu.be/JQ0He5WoG7M?si=D3KlBK7v9sGdfc2I",
    "kind": "melismatic",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ethbe-ti-anastasis.json",
@@ -10440,11 +10544,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/10/track/29",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ethbe-ti-anastasis-english-chie.json",
@@ -10525,6 +10629,9 @@
    "source": "content/mahragan-keraza-2026/hs/level-1/first-hoos/",
    "youtube": "https://www.youtube.com/watch?v=Crxk4NGE3T4",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos.json",
@@ -10550,11 +10657,11 @@
     "of": 25
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos-english.json",
@@ -10580,11 +10687,11 @@
     "of": 9
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/first-hoos-lobsh-english.json",
@@ -10612,6 +10719,9 @@
    "source": "https://tasbeha.org/hymn_library/view/112",
    "antiphonalGroup": 2,
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/first-sunday-psali.json",
@@ -10637,11 +10747,11 @@
     "of": 24
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/first-sunday-psali-english.json",
@@ -10670,6 +10780,9 @@
    "youtube": "https://youtu.be/udKHxnPA3ps",
    "cantor": "The Coptic Gate (Mahragan 2025, Middle School)",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/fourth-hoos.json",
@@ -10695,11 +10808,11 @@
     "of": 39
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/fourth-hoos-english.json",
@@ -10725,8 +10838,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -10756,6 +10869,9 @@
     "of": 4
    },
    "source": "https://tasbeha.org/hymn_library/view/138",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-luke.json",
@@ -10781,11 +10897,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-luke-english.json",
@@ -10812,6 +10928,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-1/gospel-response-feast-cross/",
    "youtube": "https://youtu.be/BsBt0rttUws",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-feast-cross.json",
@@ -10837,11 +10956,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/7/track/445",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-feast-cross-english-chie.json",
@@ -10868,6 +10987,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/67",
    "youtube": "https://www.youtube.com/watch?v=yAa8vERn0cM",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-kiahk-sunday-2.json",
@@ -10893,11 +11015,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/718",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-kiahk-sunday-2-english-chie.json",
@@ -10924,6 +11046,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/68",
    "youtube": "https://www.youtube.com/watch?v=oD3-0NiOZYk",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-kiahk-sunday-3.json",
@@ -10949,11 +11074,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/719",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-kiahk-sunday-3-english-chie.json",
@@ -10979,11 +11104,14 @@
     "of": 0
    },
    "source": "content/hymns/gospel-response-matins-annual/",
-   "tune": {
-    "english": "Matins"
+   "version": {
+    "part": "Matins"
    },
    "youtube": "https://www.youtube.com/watch?v=hYn4Oi-EpJQ",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic · Matins"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-matins-annual.json",
@@ -11009,10 +11137,13 @@
     "of": 4
    },
    "source": "https://tasbeha.org/hymn_library/view/1843",
-   "tune": {
-    "english": "Vespers"
+   "version": {
+    "part": "Vespers"
    },
    "youtube": "https://www.youtube.com/watch?v=np_DWSwzRJo",
+   "tune": {
+    "english": "Coptic · Vespers"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-vespers-annual.json",
@@ -11038,11 +11169,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/220",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/gospel-response-vespers-annual-english-chie.json",
@@ -11068,8 +11199,8 @@
     "of": 4
    },
    "source": "content/liturgy-responses/english/have-mercy-gregorian-english/",
-   "tune": {
-    "english": "St. Gregory Liturgy - English"
+   "version": {
+    "liturgy": "St. Gregory"
    },
    "cantor": "George Beshara",
    "language": "english",
@@ -11177,6 +11308,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/61",
    "youtube": "https://www.youtube.com/watch?v=HR35VeTAM5A",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/hetenyat-kiahk.json",
@@ -11202,11 +11336,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/457",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/hetenyat-kiahk-english-chie.json",
@@ -11312,6 +11446,9 @@
    },
    "source": "content/mahragan-keraza-2026/ms/level-1/hymn-of-the-blessing/",
    "youtube": "https://www.youtube.com/watch?v=Geh09bSUpOM",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/hymn-of-the-blessing.json",
@@ -11337,11 +11474,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/19/track/63",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/hymn-of-the-blessing-english-chie.json",
@@ -11367,12 +11504,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2632",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/i-believe-amen-english.json",
@@ -11398,12 +11538,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2638",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/in-christ-jesus-our-lord-english.json",
@@ -11429,12 +11572,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2629",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-blood-again-we-believe-we-confess-english.json",
@@ -11460,8 +11606,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11491,8 +11637,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11522,8 +11668,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11553,12 +11699,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2630",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-blood-this-is-also-true-amen-english.json",
@@ -11584,8 +11733,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11615,8 +11764,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11646,8 +11795,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2620",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11677,12 +11826,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2628",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-body-this-is-true-english.json",
@@ -11708,12 +11860,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2626",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-body-we-believe-that-this-is-true-amen-english.json",
@@ -11739,12 +11894,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2627",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-body-we-believe-we-confess-english.json",
@@ -11770,12 +11928,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2625",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-truly-we-believe-english.json",
@@ -11801,11 +11962,14 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/337",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/institution-narrative-your-death-o-lord-english.json",
@@ -11831,6 +11995,9 @@
     "of": 8
    },
    "source": "https://tasbeha.org/hymn_library/view/1850",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/intro-doxologies-annual.json",
@@ -11850,10 +12017,13 @@
     "of": 0
    },
    "source": "content/hymns/intro-doxologies-kiahk/",
-   "tune": {
-    "english": "Kiahk tune"
+   "version": {
+    "tune": "Kiahk"
    },
    "youtube": "https://www.youtube.com/watch?v=Xp4dDuybqxQ",
+   "tune": {
+    "english": "Coptic · Kiahk"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/intro-doxologies-kiahk.json",
@@ -11879,8 +12049,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2621",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11910,8 +12080,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11941,8 +12111,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -11972,12 +12142,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2637",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/intro-to-fraction-and-your-precious-blood-english.json",
@@ -12003,8 +12176,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12034,12 +12207,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2636",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/intro-to-fraction-we-worship-your-holy-body-english.json",
@@ -12092,6 +12268,9 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-2/joyful-agios-major/",
    "youtube": "https://www.youtube.com/watch?v=6a2zMyCJ_Ps",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/joyful-agios-major.json",
@@ -12117,11 +12296,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/159",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/joyful-agios-major-english-chie.json",
@@ -12148,6 +12327,9 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-2/kata-ni-khoros/",
    "youtube": "https://www.youtube.com/watch?v=Lufig_jsNFY",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/kata-ni-khoros.json",
@@ -12173,11 +12355,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/578",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/kata-ni-khoros-english-chie.json",
@@ -12258,6 +12440,9 @@
    "youtube": "https://www.youtube.com/watch?v=mK5hqhjIpm0",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/leepon.json",
@@ -12283,11 +12468,11 @@
     "of": 4
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/leepon-english.json",
@@ -12340,6 +12525,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-1-2/level-2/liturgy-gospel-response-resurrection/",
    "youtube": "https://www.youtube.com/watch?v=p4IqGabd2TQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/liturgy-gospel-response-resurrection.json",
@@ -12365,11 +12553,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/581",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/liturgy-gospel-response-resurrection-english-chie.json",
@@ -12395,10 +12583,13 @@
     "of": 9
    },
    "source": "content/mahragan-keraza-2026/ms/level-1/lobsh-first-hoos/",
-   "tune": {
-    "english": "Mahragan 2026"
+   "version": {
+    "length": "Long"
    },
    "youtube": "https://www.youtube.com/watch?v=jFX-qC0LiBM",
+   "tune": {
+    "english": "Coptic · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/lobsh-first-hoos.json",
@@ -12424,10 +12615,13 @@
     "of": 9
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 11: Khen Oo Shout (Minor)",
-   "tune": {
-    "english": "HCOC · Minor"
+   "version": {
+    "length": "Short"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/lobsh-first-hoos-hcoc-minor.json",
@@ -12453,8 +12647,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12484,11 +12678,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2635",
-   "tune": {
-    "english": "St. Basil Liturgy - English · Long ending"
+   "version": {
+    "liturgy": "St. Basil",
+    "part": "Long ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English · Long ending"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/may-their-holy-blessing-full-ending-english.json",
@@ -12514,11 +12712,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2635",
-   "tune": {
-    "english": "St. Basil Liturgy - English · Short ending"
+   "version": {
+    "liturgy": "St. Basil",
+    "part": "Short ending"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English · Short ending"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/may-their-holy-blessing-short-ending-english.json",
@@ -12544,10 +12746,10 @@
     "of": 64
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 55: Adam Morning Doxology",
-   "tune": {
-    "english": "HCOC"
-   },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/morning-doxology.json",
@@ -12573,11 +12775,11 @@
     "of": 0
    },
    "source": "https://soundcloud.com/user-698602791/coptic-morning-doxology-english",
+   "cantor": "George Beshara",
+   "language": "english",
    "tune": {
     "english": "English"
    },
-   "cantor": "George Beshara",
-   "language": "english",
    "files": [
     {
      "url": "catalog/v1/timings/morning-doxology-english.json",
@@ -12603,11 +12805,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/4/track/701",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
+   "version": {
+    "part": "Second version"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Second version"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/morning-doxology-english-chie.json",
@@ -12633,8 +12838,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2619",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12691,6 +12896,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/481",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/nim-ghar.json",
@@ -12716,11 +12924,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/nim-ghar-english.json",
@@ -12746,8 +12954,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -12777,12 +12985,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/342",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/one-is-the-all-holy-father-english.json",
@@ -12809,6 +13020,9 @@
    },
    "source": "content/mahragan-keraza-2026/college/level-2/onim-nai-symfonia/",
    "youtube": "https://www.youtube.com/watch?v=Mh9WsbCkVO4",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/onim-nai-symfonia.json",
@@ -12834,11 +13048,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/821",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/onim-nai-symfonia-english-chie.json",
@@ -12864,10 +13078,13 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/340",
-   "tune": {
-    "english": "Long ending (another melody)"
+   "version": {
+    "part": "Long ending"
    },
    "youtube": "https://www.youtube.com/watch?v=m5S7daNdUQc",
+   "tune": {
+    "english": "Coptic · Long ending"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/os-ein-response.json",
@@ -12894,6 +13111,9 @@
    },
    "source": "content/mahragan-keraza-2026/college/level-2/ou-katikisis/",
    "youtube": "https://youtu.be/ZJC5Lm9jopM?si=dhkv2ENRV_Vd7A5q",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ou-katikisis.json",
@@ -12919,11 +13139,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/55/track/62",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ou-katikisis-english-chie.json",
@@ -12950,6 +13170,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-2/paralex-of-resurrection/",
    "youtube": "https://youtu.be/AlYf9NPVoIQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/paralex-of-resurrection.json",
@@ -12975,11 +13198,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/526",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/paralex-of-resurrection-english-chie.json",
@@ -13032,6 +13255,9 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-1/pi-christos-aftonf/",
    "youtube": "https://www.youtube.com/watch?v=dDNRbBIMPQ4",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-christos-aftonf.json",
@@ -13057,11 +13283,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/589",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-christos-aftonf-english-chie.json",
@@ -13088,6 +13314,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/320",
    "youtube": "https://www.youtube.com/watch?v=BtWccQma1NQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-ehmot-ghar-small.json",
@@ -13113,11 +13342,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/38/track/655",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-ehmot-ghar-small-english-chie.json",
@@ -13144,6 +13373,9 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-1/pi-oik/",
    "youtube": "https://www.youtube.com/watch?v=bFXCadHOnqw",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-oik.json",
@@ -13169,11 +13401,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/42/track/81",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-oik-english-chie.json",
@@ -13200,6 +13432,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-1/pi-pnevma/",
    "youtube": "https://youtu.be/zLQW1qrXtSE",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-pnevma.json",
@@ -13225,11 +13460,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/22/track/428",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/pi-pnevma-english-chie.json",
@@ -13307,8 +13542,8 @@
     "of": 2
    },
    "source": "content/hymns/praxis-response-annual-major/",
-   "tune": {
-    "english": "Long"
+   "version": {
+    "length": "Long"
    },
    "youtube": "https://www.youtube.com/watch?v=G_FW2slQdfg",
    "files": [
@@ -13337,6 +13572,9 @@
    },
    "source": "content/mahragan-keraza-2026/ms/level-1/praxis-response-feast-cross/",
    "youtube": "https://www.youtube.com/watch?v=2txyUqe_70E",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-feast-cross.json",
@@ -13362,11 +13600,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/7/track/441",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-feast-cross-english-chie.json",
@@ -13393,6 +13631,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/203",
    "youtube": "https://www.youtube.com/watch?v=6IeF4fTywts",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-kiahk.json",
@@ -13418,11 +13659,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/461",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-kiahk-english-chie.json",
@@ -13449,6 +13690,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-2/praxis-response-resurrection/",
    "youtube": "https://www.youtube.com/watch?v=TqoYe4b2ElA",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-resurrection.json",
@@ -13474,11 +13718,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/224",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/praxis-response-resurrection-english-chie.json",
@@ -13505,6 +13749,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-1-2/level-1/procession-refrain-feast-cross/",
    "youtube": "https://www.youtube.com/watch?v=bxJe_TV8XO0",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/procession-refrain-feast-cross.json",
@@ -13530,11 +13777,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/7/track/435",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/procession-refrain-feast-cross-english-chie.json",
@@ -13614,6 +13861,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/487",
    "youtube": "https://www.youtube.com/watch?v=dxiGW6WuRmQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/psalm-kiahk.json",
@@ -13639,11 +13889,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/826",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/psalm-kiahk-english-chie.json",
@@ -13696,6 +13946,9 @@
    },
    "source": "content/mahragan-keraza-2026/kg/level-1/psalm-response-resurrection/",
    "youtube": "https://www.youtube.com/watch?v=HyvX_x_2HrQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/psalm-response-resurrection.json",
@@ -13721,11 +13974,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/582",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/psalm-response-resurrection-english-chie.json",
@@ -13751,8 +14004,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2616",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -13782,8 +14035,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -13813,11 +14066,14 @@
     "of": 3
    },
    "source": "https://tasbeha.org/hymn_library/view/2618",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/reconciliation-prayer-through-the-intercession-english.json",
@@ -13844,6 +14100,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/333",
    "youtube": "https://www.youtube.com/watch?v=2Qz4ONEmdQE",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/reconciliation-response-basil.json",
@@ -13870,6 +14129,9 @@
    },
    "source": "content/mahragan-keraza-2026/ms/level-1/refrain-third-hour-pentecost/",
    "youtube": "https://www.youtube.com/watch?v=slWn_Rbnknk",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/refrain-third-hour-pentecost.json",
@@ -13895,11 +14157,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/22/track/514",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/refrain-third-hour-pentecost-english-chie.json",
@@ -13926,6 +14188,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2633",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-again-i-believe-amen.json",
@@ -13986,6 +14251,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2640",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-amen-lord-have-mercy-3x.json",
@@ -14006,6 +14274,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/331",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-anaphora-according-to-your-mercy.json",
@@ -14026,6 +14297,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2624",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-anaphora-amen-i-believe.json",
@@ -14066,6 +14340,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2639",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-before-you-o-lord.json",
@@ -14086,6 +14363,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2641",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-confession-amen-i-believe.json",
@@ -14106,6 +14386,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2632",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-i-believe-amen.json",
@@ -14126,6 +14409,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2638",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-in-christ-jesus-our-lord.json",
@@ -14146,6 +14432,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2629",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-institution-narrative-blood-again-we-believe-we-confess.json",
@@ -14166,6 +14455,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2630",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-institution-narrative-blood-this-is-also-true-amen.json",
@@ -14186,6 +14478,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2628",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-institution-narrative-body-this-is-true-amen.json",
@@ -14206,6 +14501,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2626",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-that-this-is-true-amen.json",
@@ -14226,6 +14524,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2627",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-institution-narrative-body-we-believe-we-confess.json",
@@ -14246,6 +14547,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2625",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-institution-narrative-truly-we-believe.json",
@@ -14266,6 +14570,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2637",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-intro-to-fraction-and-your-precious-blood.json",
@@ -14286,6 +14593,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2636",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-intro-to-fraction-we-worship-your-holy-body.json",
@@ -14346,6 +14656,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/342",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-one-is-the-all-holy-father.json",
@@ -14366,6 +14679,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/2631",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/response-we-praise-you.json",
@@ -14386,6 +14702,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-2/second-doxology-apostles/",
    "youtube": "https://youtu.be/9f4HGAPySRA",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-doxology-apostles.json",
@@ -14411,11 +14730,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/24/track/150",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-doxology-apostles-english-chie.json",
@@ -14442,6 +14761,9 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-1/second-doxology-resurrection/",
    "youtube": "https://www.youtube.com/watch?v=uc-W6HZbMQA",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-doxology-resurrection.json",
@@ -14467,11 +14789,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/54/track/712",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-doxology-resurrection-english-chie.json",
@@ -14500,6 +14822,9 @@
    "youtube": "https://youtu.be/T4lSylX9S3E",
    "cantor": "The Coptic Gate (Mahragan 2022, Middle School)",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos.json",
@@ -14525,11 +14850,11 @@
     "of": 28
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-english.json",
@@ -14555,8 +14880,11 @@
     "of": 12
    },
    "source": "https://tasbeha.org/hymn_library/view/182",
+   "version": {
+    "length": "Long"
+   },
    "tune": {
-    "english": "Tasbeha"
+    "english": "Coptic · Long"
    },
    "files": [
     {
@@ -14583,11 +14911,11 @@
     "of": 12
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh-english.json",
@@ -14613,10 +14941,13 @@
     "of": 12
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
-   "tune": {
-    "english": "HCOC · Minor"
+   "version": {
+    "length": "Short"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-hoos-lobsh-hcoc-minor.json",
@@ -14644,6 +14975,9 @@
    "source": "https://tasbeha.org/hymn_library/view/174",
    "antiphonalGroup": 2,
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-sunday-psali.json",
@@ -14669,11 +15003,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/second-sunday-psali-english.json",
@@ -14699,10 +15033,13 @@
     "of": 7
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 38: Semooty (Minor)",
-   "tune": {
-    "english": "HCOC · Minor"
+   "version": {
+    "length": "Short"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/semoti.json",
@@ -14728,11 +15065,14 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
+   "version": {
+    "length": "Short"
    },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/semoti-english.json",
@@ -14758,11 +15098,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/40/track/416",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
+   "version": {
+    "length": "Long"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/semoti-english-chie.json",
@@ -14788,10 +15131,13 @@
     "of": 0
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 37: Semooty (Major)",
-   "tune": {
-    "english": "HCOC · Major (melismatic)"
+   "version": {
+    "length": "Long"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/semoti-hcoc-major.json",
@@ -14817,8 +15163,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2634",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -14848,8 +15194,8 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2617",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
@@ -14880,6 +15226,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/140",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/shashf-ensop.json",
@@ -14905,11 +15254,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/shashf-ensop-english.json",
@@ -14961,10 +15310,13 @@
     "of": 6
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 36: Shere Ne Maria (Minor)",
-   "tune": {
-    "english": "HCOC · Minor"
+   "version": {
+    "length": "Short"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/shere-ne-maria.json",
@@ -14990,11 +15342,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/40/track/779",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/shere-ne-maria-english-chie.json",
@@ -15020,10 +15372,13 @@
     "of": 0
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 35: Shere Ne Maria (Major)",
-   "tune": {
-    "english": "HCOC · Major (melismatic)"
+   "version": {
+    "length": "Long"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/shere-ne-maria-hcoc-major.json",
@@ -15050,6 +15405,9 @@
    },
    "source": "content/mahragan-keraza-2026/kg/level-1/sotees-ameen-fast/",
    "youtube": "https://www.youtube.com/watch?v=TGvH5dhbmF0",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sotees-ameen-fast.json",
@@ -15075,11 +15433,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/19/track/96",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sotees-ameen-fast-english-chie.json",
@@ -15105,8 +15463,8 @@
     "of": 1
    },
    "source": "content/hymns/sotees-ameen-major/",
-   "tune": {
-    "english": "Long"
+   "version": {
+    "length": "Long"
    },
    "youtube": "https://www.youtube.com/watch?v=O0iFDsaPRLM",
    "files": [
@@ -15136,6 +15494,9 @@
    "source": "content/mahragan-keraza-2026/grades-1-2/level-2/st-mark-doxology-first-one/",
    "youtube": "https://www.youtube.com/watch?v=6vzXGvbvmnw",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/st-mark-doxology-first-one.json",
@@ -15161,11 +15522,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/55",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/st-mark-doxology-first-one-english-chie.json",
@@ -15194,6 +15555,9 @@
    "youtube": "https://www.youtube.com/watch?v=j0o3O0c3CWc",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-1.json",
@@ -15219,11 +15583,11 @@
     "of": 15
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-1-english.json",
@@ -15252,6 +15616,9 @@
    "youtube": "https://www.youtube.com/watch?v=pXS0Zl2RpUo",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-11.json",
@@ -15277,11 +15644,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-11-english.json",
@@ -15310,6 +15677,9 @@
    "youtube": "https://www.youtube.com/watch?v=uJ0G4qTUnK8",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-12.json",
@@ -15335,11 +15705,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-12-english.json",
@@ -15368,6 +15738,9 @@
    "youtube": "https://www.youtube.com/watch?v=VvwwjpAgs9s",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-13.json",
@@ -15393,11 +15766,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-13-english.json",
@@ -15426,6 +15799,9 @@
    "youtube": "https://www.youtube.com/watch?v=e5etC9bm9-o",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-14.json",
@@ -15451,11 +15827,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-14-english.json",
@@ -15484,6 +15860,9 @@
    "youtube": "https://www.youtube.com/watch?v=p3T4mcWvDm0",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-15.json",
@@ -15509,11 +15888,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-15-english.json",
@@ -15542,6 +15921,9 @@
    "youtube": "https://www.youtube.com/watch?v=gszxMwxA7YA",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-2.json",
@@ -15567,11 +15949,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-2-english.json",
@@ -15600,6 +15982,9 @@
    "youtube": "https://www.youtube.com/watch?v=Yzuu7AdODao",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-3.json",
@@ -15625,11 +16010,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-3-english.json",
@@ -15658,6 +16043,9 @@
    "youtube": "https://www.youtube.com/watch?v=JLSzlGWB5ZM",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-4.json",
@@ -15683,11 +16071,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-4-english.json",
@@ -15716,6 +16104,9 @@
    "youtube": "https://www.youtube.com/watch?v=JcZA_cF5vpw",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-5.json",
@@ -15741,11 +16132,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-5-english.json",
@@ -15774,6 +16165,9 @@
    "youtube": "https://www.youtube.com/watch?v=ItHFfjbAzcE",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-6.json",
@@ -15799,11 +16193,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-6-english.json",
@@ -15832,6 +16226,9 @@
    "youtube": "https://www.youtube.com/watch?v=ezxEBa_wS9A",
    "cantor": "Moallem Gad Lewis",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-9.json",
@@ -15857,11 +16254,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sunday-theotokia-9-english.json",
@@ -15939,10 +16336,13 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2615",
-   "tune": {
-    "english": "St. Basil Liturgy"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "youtube": "https://www.youtube.com/watch?v=TFdhGe604Qc",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-basil.json",
@@ -15968,11 +16368,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/49",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-english-chie.json",
@@ -15998,8 +16398,8 @@
     "of": 1
    },
    "source": "content/hymns/ten-oosht-evol-gregory/",
-   "tune": {
-    "english": "St. Gregory Liturgy"
+   "version": {
+    "liturgy": "St. Gregory"
    },
    "youtube": "https://www.youtube.com/watch?v=ClsklKxm630",
    "files": [
@@ -16027,10 +16427,10 @@
     "of": 1
    },
    "source": "content/hymns/ten-oosht-evol-vespers-matins/",
-   "tune": {
-    "english": "Vespers and Matins"
-   },
    "youtube": "https://www.youtube.com/watch?v=2ILrPC8vnHA",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ten-oosht-evol-vespers-matins.json",
@@ -16058,6 +16458,9 @@
    "source": "https://tasbeha.org/hymn_library/view/92",
    "youtube": "https://youtu.be/CGnIpcb7sQw",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno.json",
@@ -16083,11 +16486,14 @@
     "of": 26
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
+   "version": {
+    "part": "Second version"
    },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English · Second version"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno-english.json",
@@ -16113,11 +16519,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/18/track/36",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ten-theeno-english-chie.json",
@@ -16171,6 +16577,9 @@
    },
    "source": "content/hymns/tenen/",
    "youtube": "https://www.youtube.com/watch?v=PuuTmT66oKI",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenen.json",
@@ -16196,11 +16605,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/40/track/661",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenen-english-chie.json",
@@ -16226,11 +16635,11 @@
     "of": 9
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 06: Tennav",
-   "tune": {
-    "english": "HCOC"
-   },
    "cantor": "The Heritage of the Coptic Orthodox Church",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tennav.json",
@@ -16256,11 +16665,11 @@
     "of": 8
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tennav-english.json",
@@ -16286,10 +16695,13 @@
     "of": 6
    },
    "source": "content/mahragan-keraza-2026/hs/level-2/tenoue-n-khok/",
-   "tune": {
-    "english": "Mahragan 2026"
+   "version": {
+    "length": "Long"
    },
    "youtube": "https://www.youtube.com/watch?v=Dz2euPbaW_Y",
+   "tune": {
+    "english": "Coptic · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok.json",
@@ -16315,11 +16727,14 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
+   "version": {
+    "length": "Long"
    },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-english.json",
@@ -16345,11 +16760,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/40/track/419",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
+   "version": {
+    "length": "Medium"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Medium"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-english-chie.json",
@@ -16375,11 +16793,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/60/track/674",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
+   "version": {
+    "length": "Short"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-english-chie-2.json",
@@ -16405,10 +16826,13 @@
     "of": 0
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 24: Ten Oeh Ensouk (Medium)",
-   "tune": {
-    "english": "HCOC · Medium"
+   "version": {
+    "length": "Medium"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Medium"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-hcoc-medium.json",
@@ -16434,10 +16858,13 @@
     "of": 0
    },
    "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 25: Ten Oeh Ensouk (Minor)",
-   "tune": {
-    "english": "HCOC · Minor"
+   "version": {
+    "length": "Short"
    },
    "cantor": "The Heritage of the Coptic Orthodox Church",
+   "tune": {
+    "english": "Coptic · Short"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoue-n-khok-hcoc-minor.json",
@@ -16463,10 +16890,13 @@
     "of": 0
    },
    "source": "content/hymns/tenoueh-ensok-kiahk/",
-   "tune": {
-    "english": "Kiahk tune"
+   "version": {
+    "tune": "Kiahk"
    },
    "youtube": "https://www.youtube.com/watch?v=n0kOGhi5_NM",
+   "tune": {
+    "english": "Coptic · Kiahk"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tenoueh-ensok-kiahk.json",
@@ -16493,6 +16923,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/479",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/teoi-enhekanos.json",
@@ -16518,11 +16951,11 @@
     "of": 0
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_2.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/teoi-enhekanos-english.json",
@@ -16900,6 +17333,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-1-2/level-2/the-thought-of-man/",
    "youtube": "https://www.youtube.com/watch?v=FoKPXLkfF_Q",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/the-thought-of-man.json",
@@ -16925,11 +17361,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/19/track/861",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/the-thought-of-man-english-chie.json",
@@ -16958,6 +17394,9 @@
    "youtube": "https://youtu.be/vSRZp__8fpc",
    "cantor": "The Coptic Gate (Mahragan 2025, High School)",
    "kind": "recital",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/third-hoos.json",
@@ -16983,11 +17422,11 @@
     "of": 40
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
-   "tune": {
-    "english": "English · St. Anthony Monastery"
-   },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/third-hoos-english.json",
@@ -17014,6 +17453,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-1-2/level-1/this-is-the-day/",
    "youtube": "https://www.youtube.com/watch?v=7B9iRv5NtmA",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/this-is-the-day.json",
@@ -17039,11 +17481,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/19/track/215",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/this-is-the-day-english-chie.json",
@@ -17070,6 +17512,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/473",
    "youtube": "https://www.youtube.com/watch?v=Cg2GDXczTUo",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-galilee.json",
@@ -17095,11 +17540,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/34/track/568",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-galilee-english-chie.json",
@@ -17125,10 +17570,13 @@
     "of": 0
    },
    "source": "content/hymns/ti-shouri-major/",
-   "tune": {
-    "english": "Long"
+   "version": {
+    "length": "Long"
    },
    "youtube": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
+   "tune": {
+    "english": "Coptic · Long"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-shouri-major.json",
@@ -17155,6 +17603,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/1452",
    "youtube": "https://www.youtube.com/watch?v=jzCkqSmljCQ",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-stoli.json",
@@ -17180,11 +17631,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/37/track/733",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-stoli-english-chie.json",
@@ -17210,11 +17661,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/37/track/734",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
+   "version": {
+    "part": "Second version"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Second version"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-stoli-english-chie-2.json",
@@ -17241,6 +17695,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-3-4/level-1/ton-syna/",
    "youtube": "https://youtu.be/ZO-D6SEOIVc",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ton-syna.json",
@@ -17266,11 +17723,11 @@
     "of": 1
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/17",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/ton-syna-english-chie.json",
@@ -17297,6 +17754,9 @@
    },
    "source": "content/mahragan-keraza-2026/hs/level-1/tou-lithou/",
    "youtube": "https://www.youtube.com/watch?v=I23Es-AROr8",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tou-lithou.json",
@@ -17322,11 +17782,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/18",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/tou-lithou-english-chie.json",
@@ -17353,6 +17813,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-5-6/level-1/verse-cymbals-feast-cross/",
    "youtube": "https://www.youtube.com/watch?v=pNvO2NtIRGs",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verse-cymbals-feast-cross.json",
@@ -17378,11 +17841,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/7/track/749",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verse-cymbals-feast-cross-english-chie.json",
@@ -17435,6 +17898,9 @@
    },
    "source": "content/hymns/verses-cymbals-annual/",
    "youtube": "https://www.youtube.com/watch?v=-4R8kInrRBI",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-annual.json",
@@ -17460,11 +17926,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/47",
-   "tune": {
-    "english": "Adam days · English · Coptic Hymns in English"
+   "version": {
+    "part": "Adam days"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Adam days"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-annual-adam-english-chie.json",
@@ -17490,11 +17959,14 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/16/track/46",
-   "tune": {
-    "english": "Watos days · English · Coptic Hymns in English"
+   "version": {
+    "part": "Watos days"
    },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English · Watos days"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-annual-watos-english-chie.json",
@@ -17521,6 +17993,9 @@
    },
    "source": "https://tasbeha.org/hymn_library/view/128",
    "youtube": "https://www.youtube.com/watch?v=ehdnQC71mZg",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-kiahk.json",
@@ -17546,11 +18021,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/30/track/456",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-kiahk-english-chie.json",
@@ -17577,6 +18052,9 @@
    },
    "source": "content/mahragan-keraza-2026/grades-1-2/level-2/verses-cymbals-resurrection/",
    "youtube": "https://www.youtube.com/watch?v=iWdZ4Q_Bsbs",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-resurrection.json",
@@ -17602,11 +18080,11 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/5/track/16",
-   "tune": {
-    "english": "English · Coptic Hymns in English"
-   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/verses-cymbals-resurrection-english-chie.json",
@@ -17632,11 +18110,14 @@
     "of": 1
    },
    "source": "https://tasbeha.org/hymn_library/view/2615",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/we-look-for-the-resurrection-english.json",
@@ -17662,12 +18143,15 @@
     "of": 0
    },
    "source": "https://tasbeha.org/hymn_library/view/2631",
-   "tune": {
-    "english": "St. Basil Liturgy - English"
+   "version": {
+    "liturgy": "St. Basil"
    },
    "cantor": "English Hymns Committee",
    "kind": "recital",
    "language": "english",
+   "tune": {
+    "english": "English"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/we-praise-you-english.json",

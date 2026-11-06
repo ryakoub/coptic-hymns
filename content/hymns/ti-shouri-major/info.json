@@ -9,12 +9,12 @@
     "holy-week/hymns"
   ],
   "text": "censer-annual",
-  "tune": {
-    "english": "Long"
-  },
   "mahragan": {
     "year": 2025,
     "stage": "ms",
     "level": "gifted"
+  },
+  "version": {
+    "length": "Long"
   }
 }

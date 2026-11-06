@@ -4,9 +4,9 @@
   },
   "text": "reconciliation-response-basil",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/2618"
+  "source": "https://tasbeha.org/hymn_library/view/2618",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

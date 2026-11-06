@@ -5,8 +5,8 @@
   "text": "anaphora-responses-gregory",
   "language": "english",
   "source": "https://www.coptichymnsinenglish.com/album/50/track/710",
-  "tune": {
-    "english": "St. Gregory Liturgy - English · Coptic Hymns in English"
-  },
-  "cantor": "Coptic Hymns in English"
+  "cantor": "Coptic Hymns in English",
+  "version": {
+    "liturgy": "St. Gregory"
+  }
 }

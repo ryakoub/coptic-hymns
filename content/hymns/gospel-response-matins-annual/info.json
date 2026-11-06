@@ -9,14 +9,14 @@
     "annual/raising-of-incense"
   ],
   "text": "gospel-response-vespers-annual",
-  "tune": {
-    "english": "Matins"
-  },
   "mahragan": {
     "year": 2025,
     "stage": "grades-1-2",
     "level": "1"
   },
   "kind": "recital",
-  "order": 1200
+  "order": 1200,
+  "version": {
+    "part": "Matins"
+  }
 }

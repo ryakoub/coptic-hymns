@@ -4,10 +4,10 @@
     "arabic": "آمين"
   },
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
   "source": "https://tasbeha.org/hymn_library/view/2620",
-  "kind": "recital"
+  "kind": "recital",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

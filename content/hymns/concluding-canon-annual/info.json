@@ -10,8 +10,5 @@
     "annual/raising-of-incense"
   ],
   "kind": "recital",
-  "order": 2000,
-  "tune": {
-    "english": "Vespers and Matins"
-  }
+  "order": 2000
 }

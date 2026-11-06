@@ -4,9 +4,6 @@
   },
   "text": "response-intro-to-fraction-and-your-precious-blood",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
   "source": "https://tasbeha.org/hymn_library/view/2637",
   "places": [
@@ -16,5 +13,8 @@
   "group": {
     "english": "Fraction"
   },
-  "kind": "recital"
+  "kind": "recital",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

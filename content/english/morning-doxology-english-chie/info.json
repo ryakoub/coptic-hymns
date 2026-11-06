@@ -6,8 +6,8 @@
   "text": "morning-doxology",
   "language": "english",
   "source": "https://www.coptichymnsinenglish.com/album/4/track/701",
-  "tune": {
-    "english": "English · Coptic Hymns in English"
-  },
-  "cantor": "Coptic Hymns in English"
+  "cantor": "Coptic Hymns in English",
+  "version": {
+    "part": "Second version"
+  }
 }

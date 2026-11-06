@@ -258,6 +258,8 @@ class Build:
                  "source": folder.relative_to(ROOT).as_posix() + "/"}
         if info.get("tune"):
             entry["tune"] = info["tune"]
+        if info.get("version"):
+            entry["version"] = info["version"]
         for key in ("youtube", "antiphonalGroup", "cantor", "style", "mode", "kind", "language", "source"):
             if key in info:
                 entry[key] = info[key]
@@ -526,6 +528,60 @@ class Build:
             print(f"  NOTE  melismatic, kept out of the seasons until a score follows them: {', '.join(sorted(self.held_back))}")
 
 
+VERSION_ORDER = ("tune", "liturgy", "length", "part")
+
+
+def version_rank(b, rid, tid):
+    """Tabs in one order: Coptic before English; the Regular tune before others; Long, Medium, Short; then its
+    parts and versions; the text's own recording first among equals."""
+    e = b.recordings[rid]
+    v = e.get("version") or {}
+    return ((e.get("language") or "coptic") != "coptic", bool(v.get("tune") and v["tune"] != "Regular"),
+            {"Long": 0, "Medium": 1, None: 2, "Short": 3}.get(v.get("length"), 2), part_rank(v.get("part")), rid != tid, rid)
+
+
+PART_ORDER = ["Adam days", "Watos days", "Vespers", "Matins", "First ending", "Second ending", "Third ending",
+              "Long ending", "Short ending", "First version", "Second version", "Third version"]
+
+
+def part_rank(part):
+    """Parts in their natural order (Vespers before Matins); others after them, alphabetically."""
+    if not part:
+        return (-1, "")
+    return (PART_ORDER.index(part), "") if part in PART_ORDER else (len(PART_ORDER), part)
+
+
+def name_versions(b):
+    """A hymn's recordings named the same way everywhere: Language · Tune · Liturgy · Length · Part.
+    The tune (Kiahk, Joyful, …) shows when it isn't the Regular one; the liturgy and the part (Adam days, Short ending,
+    Second version) when they differ among the hymn's recordings; the length (Long, Medium, Short) when it differs among
+    those in the same language. Who sings it is its cantor, shown apart. The name goes in "tune", which every app shows."""
+    by_text = {}
+    for rid, e in b.recordings.items():
+        by_text.setdefault(e["text"], []).append(rid)
+    for tid, rids in by_text.items():
+        if len(rids) < 2:
+            continue
+        lang = {r: (b.recordings[r].get("language") or "coptic") for r in rids}
+        ver = {r: b.recordings[r].get("version") or {} for r in rids}
+        def differs(key, group, set_only=False):
+            values = {ver[r].get(key) for r in group}
+            return len(values - {None} if set_only else values) > 1
+        for r in rids:
+            parts = [lang[r].capitalize()]
+            v = ver[r]
+            if v.get("tune") and v["tune"] != "Regular":
+                parts.append(v["tune"])
+            if v.get("liturgy") and differs("liturgy", rids, set_only=True):
+                parts.append(v["liturgy"])
+            same = [x for x in rids if lang[x] == lang[r]]
+            if v.get("length") and differs("length", same):
+                parts.append(v["length"])
+            if v.get("part") and (differs("part", rids) or v["part"].endswith("version")):
+                parts.append(v["part"])
+            b.recordings[r]["tune"] = {"english": " · ".join(parts)}
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--check", action="store_true", help="report only; do not write the catalog")
@@ -559,6 +615,7 @@ def main():
     notations_out, locked_out = b.notations(library)
 
     texts_out = []
+    name_versions(b)
     for tid, t in sorted(b.texts.items()):
         lines = [l for l in t["lines"] if not l.get("label") and not l.get("static")]
         doc = json.dumps({"id": tid, "titles": t["titles"], **({"intro": t["intro"]} if t["intro"] else {}), "lines": t["lines"]},
@@ -571,7 +628,7 @@ def main():
                           "lines": len(lines),
                           "translations": sorted({k for l in lines for k, v in (l.get("translations") or {}).items() if v}),
                           "transliterations": sorted({k for l in lines for k, v in (l.get("transliterations") or {}).items() if v}),
-                          "recordings": sorted((r for r, e in b.recordings.items() if e["text"] == tid), key=lambda r: (r != tid, r)),
+                          "recordings": sorted((r for r, e in b.recordings.items() if e["text"] == tid), key=lambda r: version_rank(b, r, tid)),
                           "file": b.file(f"texts/{tid}.json", doc)})
     recordings_out = []
     for rid, e in sorted(b.recordings.items()):

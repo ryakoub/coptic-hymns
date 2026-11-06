@@ -4,9 +4,9 @@
   },
   "text": "cherubim-response",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/2037"
+  "source": "https://tasbeha.org/hymn_library/view/2037",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

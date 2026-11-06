@@ -4,9 +4,10 @@
   },
   "text": "ere-po-esmo-may-their-holy-blessing",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English · Short ending"
-  },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/2635"
+  "source": "https://tasbeha.org/hymn_library/view/2635",
+  "version": {
+    "liturgy": "St. Basil",
+    "part": "Short ending"
+  }
 }

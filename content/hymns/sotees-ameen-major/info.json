@@ -8,9 +8,6 @@
   "places": [
     "annual/liturgy"
   ],
-  "tune": {
-    "english": "Long"
-  },
   "mahragan": {
     "year": 2024,
     "stage": "servants"
@@ -18,5 +15,8 @@
   "group": {
     "english": "Liturgy of the Word"
   },
-  "order": 2000
+  "order": 2000,
+  "version": {
+    "length": "Long"
+  }
 }

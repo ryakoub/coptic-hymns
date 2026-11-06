@@ -4,9 +4,9 @@
   },
   "text": "ten-oosht-evol-basil",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/2615"
+  "source": "https://tasbeha.org/hymn_library/view/2615",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

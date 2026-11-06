@@ -9,9 +9,6 @@
     "annual/liturgy"
   ],
   "youtube": "https://www.youtube.com/watch?v=TFdhGe604Qc",
-  "tune": {
-    "english": "St. Basil Liturgy"
-  },
   "mahragan": {
     "year": 2025,
     "stage": "grades-1-2",
@@ -27,5 +24,8 @@
       "title": "We Look for the Resurrection",
       "url": "https://www.coptichymnsinenglish.com/album/16/track/49"
     }
-  ]
+  ],
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

@@ -3,9 +3,6 @@
     "english": "The Second Hoos Lobsh (HCOC Minor)"
   },
   "text": "second-hoos-lobsh",
-  "tune": {
-    "english": "HCOC · Minor"
-  },
   "cantor": "The Heritage of the Coptic Orthodox Church",
   "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 15: Maren Oo Onh (Minor)",
   "places": [
@@ -15,5 +12,8 @@
   "group": {
     "english": "Canticles"
   },
-  "kind": "both"
+  "kind": "both",
+  "version": {
+    "length": "Short"
+  }
 }

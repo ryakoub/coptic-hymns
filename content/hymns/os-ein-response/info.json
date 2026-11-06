@@ -19,7 +19,7 @@
     "english": "Litanies"
   },
   "order": 3790,
-  "tune": {
-    "english": "Long ending (another melody)"
+  "version": {
+    "part": "Long ending"
   }
 }

@@ -4,9 +4,6 @@
     "arabic": "إرحمنا يا الله الآب ضابط الكل"
   },
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
   "source": "https://tasbeha.org/hymn_library/view/2634",
   "places": [
@@ -16,5 +13,8 @@
   "group": {
     "english": "Litanies"
   },
-  "kind": "recital"
+  "kind": "recital",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

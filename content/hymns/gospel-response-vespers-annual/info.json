@@ -7,13 +7,13 @@
   },
   "source": "https://tasbeha.org/hymn_library/view/1843",
   "youtube": "https://www.youtube.com/watch?v=np_DWSwzRJo",
-  "tune": {
-    "english": "Vespers"
-  },
   "mahragan": {
     "year": 2026,
     "stage": "kg",
     "level": "1"
   },
-  "notes": "ignore, part of Matins"
+  "notes": "ignore, part of Matins",
+  "version": {
+    "part": "Vespers"
+  }
 }

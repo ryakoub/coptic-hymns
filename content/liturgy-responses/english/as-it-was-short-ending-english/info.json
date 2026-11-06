@@ -4,9 +4,10 @@
   },
   "text": "os-ein-response",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English · Short ending"
-  },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/340"
+  "source": "https://tasbeha.org/hymn_library/view/340",
+  "version": {
+    "liturgy": "St. Basil",
+    "part": "Short ending"
+  }
 }

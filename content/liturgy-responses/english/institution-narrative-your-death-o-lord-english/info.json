@@ -4,9 +4,9 @@
   },
   "text": "amen-ton-thanaton",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
-  "source": "https://tasbeha.org/hymn_library/view/337"
+  "source": "https://tasbeha.org/hymn_library/view/337",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

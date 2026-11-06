@@ -3,9 +3,9 @@
     "english": "The Seventh Part - Shere ne Maria (HCOC Major (melismatic))"
   },
   "text": "shere-ne-maria",
-  "tune": {
-    "english": "HCOC · Major (melismatic)"
-  },
   "cantor": "The Heritage of the Coptic Orthodox Church",
-  "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 35: Shere Ne Maria (Major)"
+  "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 35: Shere Ne Maria (Major)",
+  "version": {
+    "length": "Long"
+  }
 }

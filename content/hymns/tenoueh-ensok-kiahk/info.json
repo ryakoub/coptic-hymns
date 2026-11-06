@@ -12,9 +12,6 @@
     }
   ],
   "text": "tenoue-n-khok",
-  "tune": {
-    "english": "Kiahk tune"
-  },
   "mahragan": {
     "year": 2022,
     "stage": "grades-3-4",
@@ -26,5 +23,8 @@
       "title": "We follow You",
       "url": "https://www.coptichymnsinenglish.com/album/60/track/674"
     }
-  ]
+  ],
+  "version": {
+    "tune": "Kiahk"
+  }
 }

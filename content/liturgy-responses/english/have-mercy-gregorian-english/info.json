@@ -5,9 +5,6 @@
     "arabic": "إرحمنا (الغريغوري)"
   },
   "language": "english",
-  "tune": {
-    "english": "St. Gregory Liturgy - English"
-  },
   "cantor": "George Beshara",
   "places": [
     "annual/liturgy"
@@ -15,5 +12,8 @@
   "group": {
     "english": "Litanies"
   },
-  "order": 3724
+  "order": 3724,
+  "version": {
+    "liturgy": "St. Gregory"
+  }
 }

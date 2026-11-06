@@ -4,9 +4,6 @@
   },
   "text": "response-again-i-believe-amen",
   "language": "english",
-  "tune": {
-    "english": "St. Basil Liturgy - English"
-  },
   "cantor": "English Hymns Committee",
   "source": "https://tasbeha.org/hymn_library/view/2633",
   "places": [
@@ -16,5 +13,8 @@
   "group": {
     "english": "Institution Narrative"
   },
-  "kind": "recital"
+  "kind": "recital",
+  "version": {
+    "liturgy": "St. Basil"
+  }
 }

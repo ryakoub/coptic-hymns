@@ -3,9 +3,9 @@
     "english": "The Seventh Part - Semoti (HCOC Major (melismatic))"
   },
   "text": "semoti",
-  "tune": {
-    "english": "HCOC · Major (melismatic)"
-  },
   "cantor": "The Heritage of the Coptic Orthodox Church",
-  "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 37: Semooty (Major)"
+  "source": "The Heritage of the Coptic Orthodox Church (HCOC), Midnight Sunday Praises, track 37: Semooty (Major)",
+  "version": {
+    "length": "Long"
+  }
 }

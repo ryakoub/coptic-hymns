@@ -8,9 +8,6 @@
   "places": [
     "annual/liturgy"
   ],
-  "tune": {
-    "english": "St. Gregory Liturgy"
-  },
   "mahragan": {
     "year": 2025,
     "stage": "grades-1-2",
@@ -19,5 +16,8 @@
   "group": {
     "english": "Reconciliation"
   },
-  "order": 3100
+  "order": 3100,
+  "version": {
+    "liturgy": "St. Gregory"
+  }
 }

@@ -8,7 +8,7 @@
     "english": "Litanies"
   },
   "order": 3750,
-  "tune": {
-    "english": "Short ending"
+  "version": {
+    "part": "Short ending"
   }
 }

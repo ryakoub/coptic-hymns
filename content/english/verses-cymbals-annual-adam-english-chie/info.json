@@ -6,8 +6,8 @@
   "text": "verses-cymbals-annual",
   "language": "english",
   "source": "https://www.coptichymnsinenglish.com/album/16/track/47",
-  "tune": {
-    "english": "Adam days · English · Coptic Hymns in English"
-  },
-  "cantor": "Coptic Hymns in English"
+  "cantor": "Coptic Hymns in English",
+  "version": {
+    "part": "Adam days"
+  }
 }

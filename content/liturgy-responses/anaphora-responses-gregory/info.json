@@ -3,9 +3,6 @@
     "english": "Anaphora Responses (St. Gregory)",
     "arabic": "مرادات بدء القداس الغريغوري"
   },
-  "tune": {
-    "english": "St. Gregory Liturgy"
-  },
   "source": "Mahragan El-Keraza 2026, Grades 5–6 Level 2 (its St. Gregory half)",
   "youtube": "https://www.youtube.com/watch?v=0S2HDmyI-H0",
   "places": [
@@ -21,5 +18,8 @@
       "title": "Anaphora Responses, with the priest’s parts",
       "url": "https://www.coptichymnsinenglish.com/album/50/track/710"
     }
-  ]
+  ],
+  "version": {
+    "liturgy": "St. Gregory"
+  }
 }
