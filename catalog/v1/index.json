@@ -1,6 +1,6 @@
 {
- "version": "cf298ab831c41172",
- "updated": "2026-11-06T02:46:51Z",
+ "version": "abacc40f8486f656",
+ "updated": "2026-11-06T02:52:07Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2732,7 +2732,8 @@
     "english"
    ],
    "recordings": [
-    "distribution-annual-psalm-150"
+    "distribution-annual-psalm-150",
+    "distribution-annual-psalm-150-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/distribution-annual-psalm-150.json",
@@ -9624,6 +9625,36 @@
      "role": "audio",
      "bytes": 8079502,
      "sha256": "49429cb030b62d23ec0744674b4779c6a2d0e5d1f2c6a89cfa538fb215e9a31b"
+    }
+   ]
+  },
+  {
+   "id": "distribution-annual-psalm-150-english-chie",
+   "text": "distribution-annual-psalm-150",
+   "duration": 416.86,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/42/track/41",
+   "tune": {
+    "english": "English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/distribution-annual-psalm-150-english-chie.json",
+     "bytes": 121,
+     "sha256": "16bbb4c6d08c21192091232f7950092f97716fe05c6d3eb162a8eb22111d1a86",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/distribution-annual-psalm-150-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 8128507,
+     "sha256": "59b50fb417326c0558c3366caefc0750d1951ef2709c0e8a7e3210ac945cd919"
     }
    ]
   },
