@@ -1,6 +1,6 @@
 {
- "version": "665719b17e08f876",
- "updated": "2026-11-06T03:59:59Z",
+ "version": "fc6d9db1690efe42",
+ "updated": "2026-11-06T04:16:22Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -207,6 +207,7 @@
       {
        "service": "raising-of-incense",
        "entries": [
+        "verses-cymbals-annual",
         "intro-doxologies-annual",
         "doxology-st-mary-vespers",
         "doxology-st-mary-matins",
@@ -215,7 +216,6 @@
         "doxology-john-baptist-1",
         "doxology-john-baptist-2",
         "st-mark-doxology-first-one",
-        "verses-cymbals-annual",
         "ten-oosht-evol-vespers-matins",
         "kyrie-eleison-major",
         "gospel-response-matins-annual",
@@ -7839,8 +7839,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/verses-cymbals-annual.json",
-    "bytes": 13997,
-    "sha256": "edfd56083b90870e5d9a010047978fd9960736db9cda12deb7ad9500305cef40"
+    "bytes": 14051,
+    "sha256": "9517ca7e0dfe9d34a07fe9c82ea42130020467e7e6aab345a7bad0525742cba1"
    }
   },
   {

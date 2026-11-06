@@ -415,7 +415,8 @@ class Build:
         # Sub-folders of a section (info.json "group"). The section keeps its whole list in "entries", so an app
         # that doesn't know about groups shows it as before. A section may name its sub-folders in library.json,
         # in order and with their titles ({"id", "titles"}): its hymns are then listed folder by folder in that
-        # order (hymns in no sub-folder after them); otherwise the sub-folders come where their first hymn does.
+        # order, and a hymn in no sub-folder keeps its place before the first folder whose first hymn comes after
+        # it (the rest after the folders); otherwise the sub-folders come where their first hymn does.
         # A named sub-folder can be inside another one: {"id", "titles", "parent": <its id>}.
         for s in sections.values():
             spec = [g for g in s.get("groups", []) if g.get("id")]
@@ -432,7 +433,19 @@ class Build:
             if spec:
                 rid_of = lambda e: e if isinstance(e, str) else e.get("recording")
                 keyed = list(enumerate(s["entries"]))
-                keyed.sort(key=lambda ie: (rank.get(group_id(rid_of(ie[1]))[0], len(spec)), ie[0]))
+                first = {}
+                for i, e in keyed:
+                    gid = group_id(rid_of(e))[0]
+                    if gid in rank: first.setdefault(gid, i)
+
+                def key(ie):
+                    i, e = ie
+                    gid = group_id(rid_of(e))[0]
+                    if gid in rank:
+                        return (rank[gid], i)
+                    later = [rank[g] for g, at in first.items() if at > i]
+                    return (min(later) - 0.5 if later else len(spec), i)
+                keyed.sort(key=key)
                 s["entries"] = [e for _, e in keyed]
             for e in s["entries"]:
                 rid = e if isinstance(e, str) else e.get("recording")
