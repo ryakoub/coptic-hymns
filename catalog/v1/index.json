@@ -1,6 +1,6 @@
 {
- "version": "f4ee673c73bdd634",
- "updated": "2026-11-06T03:20:56Z",
+ "version": "9a706eedbd8e3276",
+ "updated": "2026-11-06T03:58:55Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -215,6 +215,7 @@
         "doxology-john-baptist-1",
         "doxology-john-baptist-2",
         "st-mark-doxology-first-one",
+        "verses-cymbals-annual",
         "ten-oosht-evol-vespers-matins",
         "kyrie-eleison-major",
         "gospel-response-matins-annual",
@@ -7808,6 +7809,50 @@
     "url": "catalog/v1/texts/verse-cymbals-resurrection.json",
     "bytes": 4265,
     "sha256": "f03a09eced1ad2a06e685e92deb9ad69ac8ed45d34ec4f0ffcb068ec7ddce610"
+   }
+  },
+  {
+   "id": "verses-cymbals-annual",
+   "titles": {
+    "english": "Verses of the Cymbals",
+    "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ",
+    "arabic": "أرباع الناقوس السنوي"
+   },
+   "subtitle": {
+    "english": "O come let us worship"
+   },
+   "aka": [
+    "Annual Verses of the Cymbals"
+   ],
+   "tags": [],
+   "pending": false,
+   "links": [
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Verses of the Cymbals (Adam)",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/47"
+    },
+    {
+     "site": "Coptic Hymns in English",
+     "title": "Verses of the Cymbals (Watos)",
+     "url": "https://www.coptichymnsinenglish.com/album/16/track/46"
+    }
+   ],
+   "lines": 25,
+   "translations": [
+    "arabic",
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "verses-cymbals-annual",
+    "verses-cymbals-annual-adam-english-chie",
+    "verses-cymbals-annual-watos-english-chie"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/verses-cymbals-annual.json",
+    "bytes": 13997,
+    "sha256": "edfd56083b90870e5d9a010047978fd9960736db9cda12deb7ad9500305cef40"
    }
   },
   {
@@ -17389,6 +17434,92 @@
      "role": "audio",
      "bytes": 3231374,
      "sha256": "6bff1ceb2ee0177467e4c02dea7755029186e3664bee90a098eab8b80952b8ed"
+    }
+   ]
+  },
+  {
+   "id": "verses-cymbals-annual",
+   "text": "verses-cymbals-annual",
+   "duration": 673.03,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 25
+   },
+   "source": "content/hymns/verses-cymbals-annual/",
+   "youtube": "https://www.youtube.com/watch?v=-4R8kInrRBI",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verses-cymbals-annual.json",
+     "bytes": 92,
+     "sha256": "45058b772838516611bc2cb63c4908ede82eb4a70a0bb71869544702223ab8fc",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/verses-cymbals-annual/audio.m4a",
+     "role": "audio",
+     "bytes": 10885382,
+     "sha256": "06f85cd6c3281993fa84cadef9074c3688c6b26fcd1f9cd1a6397a0e7a42ae82"
+    }
+   ]
+  },
+  {
+   "id": "verses-cymbals-annual-adam-english-chie",
+   "text": "verses-cymbals-annual",
+   "duration": 138.45,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/16/track/47",
+   "tune": {
+    "english": "Adam days · English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verses-cymbals-annual-adam-english-chie.json",
+     "bytes": 110,
+     "sha256": "1c907d76bb78fd791c3dc68d2abd04369bae5c231e1ef27366b7f12a8b85d78a",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/verses-cymbals-annual-adam-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 2301520,
+     "sha256": "d380d8584c58c61b7ad23a0debe35ab556d46a7751620e973d3487e5309847a3"
+    }
+   ]
+  },
+  {
+   "id": "verses-cymbals-annual-watos-english-chie",
+   "text": "verses-cymbals-annual",
+   "duration": 170.34,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/16/track/46",
+   "tune": {
+    "english": "Watos days · English · Coptic Hymns in English"
+   },
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "files": [
+    {
+     "url": "catalog/v1/timings/verses-cymbals-annual-watos-english-chie.json",
+     "bytes": 111,
+     "sha256": "cd9a1723235388b4e8c91941cafedd654d0de939d3c1b913cd06240fa6f3ad5f",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/verses-cymbals-annual-watos-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 2861611,
+     "sha256": "8df92b7a486585e7cc1adfc82ecd2a25cbacba7a9222ea6d06552e6d4248a0e4"
     }
    ]
   },

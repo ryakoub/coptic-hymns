@@ -1,0 +1,259 @@
+{
+ "id": "verses-cymbals-annual",
+ "titles": {
+  "english": "Verses of the Cymbals",
+  "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ",
+  "arabic": "أرباع الناقوس السنوي"
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "label": "Adam days (Sunday through Tuesday)"
+  },
+  {
+   "id": "l2",
+   "side": 0,
+   "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ: ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ: ⲉ̀ⲧⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ.",
+   "translations": {
+    "english": "O come let us worship, the Holy Trinity, the Father and the Son, and the Holy Spirit.",
+    "arabic": "تعالوا فلنسجد للثالوث القدوس الذي هو الأب والإبن والروح القدس."
+   }
+  },
+  {
+   "id": "l3",
+   "side": 1,
+   "coptic": "Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲗⲁⲟⲥ: ⲛ̀ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ: ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ.",
+   "translations": {
+    "english": "We are the Christian people, for He is, our true God.",
+    "arabic": "نحن الشعوب المسيحيين لأن هذا هو إلهنا الحقيقي."
+   }
+  },
+  {
+   "id": "l4",
+   "side": 0,
+   "coptic": "Ⲟⲩⲟⲛ ⲟⲩϩⲉⲗⲡⲓⲥ ⲛ̀ⲧⲁⲛ: ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: ⲉ̀ⲣⲉ Ⲫϯ ⲛⲁⲓ ⲛⲁⲛ: ϩⲓⲧⲉⲛ ⲛⲉⲥⲡ̀ⲣⲉⲥⲃⲓⲁ.",
+   "translations": {
+    "english": "We have hope, in Saint Mary, that God will have mercy on us, through her intercession.",
+    "arabic": "لنا رجاء، في القديسة مريم. الله يرحمنا بشفاعاتها."
+   }
+  },
+  {
+   "id": "l5",
+   "side": 1,
+   "coptic": "Ⲟⲩⲟⲛ ⲟⲩⲙⲉⲧⲥⲉⲙⲛⲟⲥ: ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲁⲓⲕⲟⲥⲙⲟⲥ ⲉ̀ⲃⲟⲗϩⲓⲧⲉⲛ ⲡⲓϣ̀ⲗⲏⲗ: ⲛ̀ⲧⲉ ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",
+   "translations": {
+    "english": "All calmness: in this world: is through the prayers: of Saint Mary the Virgin.",
+    "arabic": "كل هدوء، في العالم من قبل صلاة القديسة مريم العذراء."
+   }
+  },
+  {
+   "id": "l6",
+   "label": "Watos days (Wednesday through Saturday)"
+  },
+  {
+   "id": "l7",
+   "side": 0,
+   "coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ.",
+   "translations": {
+    "english": "We worship the Father and the Son, and the Holy Spirit, the holy and co-essential, Trinity.",
+    "arabic": "نسجد للآب والإبن والروح القدس الثالوث القدوس المساوي في الجوهر."
+   }
+  },
+  {
+   "id": "l8",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ϯⲉⲕⲕⲗⲏⲥⲓⲁ: ⲡ̀ⲏⲓ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ.",
+   "translations": {
+    "english": "Hail to the Church, the house of the angels, Hail to the Virgin, who gave birth to our Savior.",
+    "arabic": "السلام للكنيسة بيت الملائكة السلام للعذراء التي ولدت مخلصنا."
+   }
+  },
+  {
+   "id": "l9",
+   "label": "Both"
+  },
+  {
+   "id": "l10",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭ̀ⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫⲛⲟⲩϯ ⲡⲓⲗⲟⲅⲟⲥ.",
+   "translations": {
+    "english": "Hail to you O Mary, the beautiful dove, who has borne to us, God the Logos.",
+    "arabic": "السلام لك يا مريم الحمامة الحسنة التي ولدت لنا، الله الكلمة."
+   }
+  },
+  {
+   "id": "l11",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲑ̀ⲙⲁⲩ ⲙ̀ⲫⲏⲉⲑⲟⲩⲁⲃ.",
+   "translations": {
+    "english": "Hail to you O Mary, with a holy hail, Hail to you O Mary, the Mother of the Holy One.",
+    "arabic": "السلام لك يا مريم، سلاماً مقدساً السلام لك يا مريم أم القدوس."
+   }
+  },
+  {
+   "id": "l12",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ: ⲡⲓⲥⲱⲧⲡ ⲙ̀ⲡⲓϥⲁⲓϣⲉⲛⲛⲟⲩϥⲓ.",
+   "translations": {
+    "english": "Hail to Michael, the great archangel; hail to Gabriel, the chosen bearer of good news.",
+    "arabic": "السلام لميخائيل رئيس الملائكة العظيم، السلام لغبريال المبشر العظيم."
+   }
+  },
+  {
+   "id": "l13",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲧⲁⲅⲙⲁ ⲧⲏⲣⲟⲩ: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ.",
+   "translations": {
+    "english": "Hail to the cherubim: hail to the seraphim: hail to all: the heavenly orders.",
+    "arabic": "السلام للشاروبيم، السلام للسِّرافيم السلام لجميع الطغمات السمائية."
+   }
+  },
+  {
+   "id": "l14",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ Ⲓⲱⲁⲛⲛⲏⲥ: ⲡⲓⲛⲓϣϯ ⲙ̀ⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲟⲩⲏⲃ: ⲡ̀ⲥⲩⲅⲅⲉⲛⲏⲥ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
+   "translations": {
+    "english": "Hail to John, the great forerunner; hail to the priest, the kinsman of Emmanuel.",
+    "arabic": "السلام ليوحنا السابق العظيم، السلام للكاهن نسيب عمانوئيل."
+   }
+  },
+  {
+   "id": "l15",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲁϭⲟⲓⲥ ⲛ̀ⲓⲟϯ: ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲭⲉⲣⲉ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: ⲛ̀ⲧⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.",
+   "translations": {
+    "english": "Hail to my lords, and fathers the apostles, hail to the disciples, of our Lord Jesus Christ.",
+    "arabic": "السلام لسادتي الآباء، الرسل. السلام لتلاميذ ربنا يسوع المسيح."
+   }
+  },
+  {
+   "id": "l16",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲭⲉⲣⲉ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲁⲃⲃⲁ Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲑⲉⲱ̀ⲣⲓⲙⲟⲥ.",
+   "translations": {
+    "english": "Hail to you, O martyr; hail to the evangelist; hail to the apostle, Abba Mark the beholder of God.",
+    "arabic": "السلام لك أيها الشهيد، السلام للإنجيلي، السلام للرسول، أنبا مرقس ناظر الإله."
+   }
+  },
+  {
+   "id": "l17",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ Ⲥ̀ⲧⲉⲫⲁⲛⲟⲥ: ⲡⲓϣⲟⲣⲡ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲣⲭⲏⲇⲓⲁⲕⲱⲛ: ⲟⲩⲟϩ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ.",
+   "translations": {
+    "english": "Hail to Stephen, the first martyr; hail to the archdeacon, who is blessed.",
+    "arabic": "السلام لإسطفانوس أول الشهداء، السلام لرئيس الشمامسة المبارك."
+   }
+  },
+  {
+   "id": "l18",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϣⲱⲓϫ ⲛ̀ⲅⲉⲛⲛⲉⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁ̀ⲑⲗⲟⲫⲟⲣⲟⲥ: ⲡⲁϭⲟⲓⲥ ⲡ̀ⲟⲩⲣⲟ Ⲅⲉⲱⲣⲅⲓⲟⲥ.",
+   "translations": {
+    "english": "Hail to you, O martyr: hail to the courageous hero: hail to the struggle-mantled, my Lord Prince George.",
+    "arabic": "السلام لك أيها الشهيد، السلام للشجاع البطل، السلام للابس الجهاد، سيدي الملك جورجيوس."
+   }
+  },
+  {
+   "id": "l19",
+   "label": "(Other martyrs, to the verse of St. George)"
+  },
+  {
+   "id": "l20",
+   "side": 1,
+   "coptic": "Ⲑⲉⲟ̀ⲇⲱⲣⲟⲥ ⲡⲓⲥ̀ⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ: Ⲫⲓⲗⲟⲡⲁⲧⲏⲣ Ⲙⲉⲣⲕⲟⲩⲣⲓⲟⲥ: Ⲡⲓⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲡⲁ Ⲙⲏⲛⲁ.",
+   "translations": {
+    "english": "Theodore the general; Philopater Mercurius; Saint Abba Mina.",
+    "arabic": "ثيؤدوروس الاسفهسلار، محب الآب مرقوريوس، القديس أبا مينا."
+   }
+  },
+  {
+   "id": "l21",
+   "label": "(A woman martyr, then her name)"
+  },
+  {
+   "id": "l22",
+   "side": 0,
+   "coptic": "Ϯⲁ̀ⲗⲟⲩ ⲛ̀ⲥⲁⲃⲏ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ: ϯⲥⲱⲧⲡ ⲛ̀ⲕⲩⲣⲓⲁ ⲙ̀ⲙⲏⲓ: ϯϣⲉⲗⲉⲧ ⲛ̀ⲧⲉ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: …",
+   "translations": {
+    "english": "The wise virgin maiden, the chosen and true lady, the bride of Christ: …",
+    "arabic": "الصبية العذراء الحكيمة، السيدة المختارة الحقيقية، عروس المسيح ..."
+   }
+  },
+  {
+   "id": "l23",
+   "side": 1,
+   "coptic": "Ϯⲁ̀ⲅⲓⲁ Ⲇⲩⲙⲓⲁⲛⲏ: Ϯⲁ̀ⲅⲓⲁ Ⲃⲁⲣⲃⲁⲣⲁ: Ϯⲁ̀ⲅⲓⲁ Ⲓⲟⲩⲗⲓⲁⲛⲏ: Ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲛⲏ.",
+   "translations": {
+    "english": "Saint Demiana; Saint Barbara; Saint Juliana; Saint Marina.",
+    "arabic": "القديسة دميانة، القديسة بربارة، القديسة يوليانة، القديسة مارينا."
+   }
+  },
+  {
+   "id": "l24",
+   "side": 0,
+   "coptic": "Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲁⲛⲧⲱⲛⲓⲟⲥ: ⲡⲓϧⲏⲃⲥ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲙⲟⲛⲁⲭⲟⲥ: ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ: ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅.",
+   "translations": {
+    "english": "Hail to our father Abba Antony, the lamp of monasticism; hail to our father Abba Paul, the beloved of Christ.",
+    "arabic": "السلام لأبينا أنبا أنطونيوس مصباح الرهبنة، السلام لأبينا أنبا بولا حبيب المسيح."
+   }
+  },
+  {
+   "id": "l25",
+   "side": 1,
+   "coptic": "Ⲭⲉⲣⲉ ⲡⲓⲛⲓϣϯ ⲁⲃⲃⲁ Ⲙⲁⲕⲁⲣⲓ: ⲡⲓϧⲏⲃⲥ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲙⲟⲛⲁⲭⲟⲥ: ⲛⲉⲙ ⲛⲉϥϣⲏⲣⲓ ⲛ̀ⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ: ⲛⲓⲙⲉⲛⲣⲁϯ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅.",
+   "translations": {
+    "english": "Hail to the great Abba Macarius, the lamp of monasticism, and his children the cross-bearers, the beloved of Christ.",
+    "arabic": "السلام للعظيم أنبا مقار سراج الرهبنة، وأولاده لُبَّاس الصليب أحباء المسيح."
+   }
+  },
+  {
+   "id": "l26",
+   "label": "(For the Pope, the Metropolitan, the Bishop)"
+  },
+  {
+   "id": "l27",
+   "side": 0,
+   "coptic": "Ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲱ̀ Ⲩ̅ⲥ̅ Ⲑ̅ⲩ̅: ⲉⲑⲣⲉⲕⲁ̀ⲣⲉϩ ⲉ̀ⲡⲱⲛϧ ⲙ̀ⲡⲉⲛⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ: ⲡⲁⲡⲁ ⲁⲃⲃⲁ (…) ⲡⲓⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ: ⲙⲁⲧⲁϫⲣⲟϥ ϩⲓϫⲉⲛ ⲡⲉϥⲑ̀ⲣⲟⲛⲟⲥ.",
+   "translations": {
+    "english": "We ask You, O Son of God, to keep the life of our patriarch, Pope Abba (…), the high priest; confirm him upon his throne.",
+    "arabic": "نسألك يا ابن الله أن تحفظ حياة بطريركنا البابا أنبا (...) رئيس الكهنة، ثبته على كرسيه."
+   }
+  },
+  {
+   "id": "l28",
+   "side": 1,
+   "coptic": "Ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ: ⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲇⲓⲕⲉⲟⲥ: ⲁⲃⲃⲁ (…) ⲡⲓⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ: ⲙⲁⲧⲁϫⲣⲟϥ ϩⲓϫⲉⲛ ⲡⲉϥⲑ̀ⲣⲟⲛⲟⲥ.",
+   "translations": {
+    "english": "And his partner in the liturgy, our holy and righteous father, Abba (…) the Metropolitan; confirm him upon his throne.",
+    "arabic": "وشريكه في الخدمة، أبينا القديس البار أنبا (...) المطران، ثبته على كرسيه."
+   }
+  },
+  {
+   "id": "l29",
+   "side": 0,
+   "coptic": "Ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ: ⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲇⲓⲕⲉⲟⲥ: ⲁⲃⲃⲁ (…) ⲡⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ: ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅.",
+   "translations": {
+    "english": "And his partner in the liturgy, our holy and righteous father, Abba (…) the bishop, the beloved of Christ.",
+    "arabic": "وشريكه في الخدمة، أبينا القديس البار أنبا (...) الأسقف، حبيب المسيح."
+   }
+  },
+  {
+   "id": "l30",
+   "side": 1,
+   "coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+   "translations": {
+    "english": "Through the intercessions, of the Theotokos Saint Mary, O Lord grant us, the forgiveness of our sins.",
+    "arabic": "بشفاعات والدة الإله القديسة مريم، يارب أنعم علينا بمغفرة خطايانا."
+   }
+  },
+  {
+   "id": "l31",
+   "side": 0,
+   "coptic": "Ⲉⲑⲣⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ ⲁⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲛⲁⲓ ⲛⲁⲛ.",
+   "translations": {
+    "english": "That we may praise You: with Your good Father: and the Holy Spirit: for You have come and saved us. Have mercy on us.",
+    "arabic": "لكي نُسبِّحك، مع أبيك الصالح، والروح القدس، لأنك أتيت وخلَّصتنا إرحمنا."
+   }
+  }
+ ]
+}

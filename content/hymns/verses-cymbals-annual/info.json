@@ -1,0 +1,32 @@
+{
+  "title": "Annual Verses of the Cymbals",
+  "titles": {
+    "english": "Annual Verses of the Cymbals",
+    "coptic": "Ⲁ̀ⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ",
+    "arabic": "أرباع الناقوس السنوي"
+  },
+  "youtube": "https://www.youtube.com/watch?v=-4R8kInrRBI",
+  "places": [
+    {
+      "place": "annual/raising-of-incense",
+      "order": 10
+    }
+  ],
+  "mahragan": {
+    "year": 2024,
+    "stage": "ms",
+    "level": "1"
+  },
+  "links": [
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Verses of the Cymbals (Adam)",
+      "url": "https://www.coptichymnsinenglish.com/album/16/track/47"
+    },
+    {
+      "site": "Coptic Hymns in English",
+      "title": "Verses of the Cymbals (Watos)",
+      "url": "https://www.coptichymnsinenglish.com/album/16/track/46"
+    }
+  ]
+}
