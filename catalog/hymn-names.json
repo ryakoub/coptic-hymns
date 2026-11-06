@@ -112,11 +112,6 @@
   "coptic": "Ⲁ̀ⲙⲏⲛ",
   "arabic": "آمين"
  },
- "distribution-alleluia-annual": {
-  "name": "Distribution Psalm 150",
-  "coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ",
-  "arabic": "مزمور التوزيع السنوي"
- },
  "doxology-archangel-michael": {
   "name": "Doxology of Archangel Michael",
   "says": "Michael the head",
@@ -679,5 +674,10 @@
   "says": "Have mercy upon us, O God the Father",
   "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
   "arabic": "إرحمنا (الغريغوري)"
+ },
+ "distribution-annual-psalm-150": {
+  "name": "Distribution Psalm 150",
+  "coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ",
+  "arabic": "مزمور التوزيع السنوي"
  }
 }

@@ -1,6 +1,6 @@
 {
- "version": "f590c4f2ab3e68bb",
- "updated": "2026-11-06T02:45:38Z",
+ "version": "cf298ab831c41172",
+ "updated": "2026-11-06T02:46:51Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2712,14 +2712,14 @@
    }
   },
   {
-   "id": "distribution-alleluia-annual",
+   "id": "distribution-annual-psalm-150",
    "titles": {
     "english": "Distribution Psalm 150",
-    "coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ",
-    "arabic": "مزمور التوزيع السنوي"
+    "arabic": "مزمور التوزيع السنوي",
+    "coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲫⲛⲟⲩϯ"
    },
    "aka": [
-    "Annual Distribution Alleluia"
+    "Annual Distribution and Psalm 150"
    ],
    "tags": [],
    "pending": false,
@@ -2732,13 +2732,12 @@
     "english"
    ],
    "recordings": [
-    "distribution-alleluia-annual",
     "distribution-annual-psalm-150"
    ],
    "file": {
-    "url": "catalog/v1/texts/distribution-alleluia-annual.json",
-    "bytes": 7542,
-    "sha256": "cb34860384e3eaa211417cc1464c18b1874a4afae4ade8f9bdef1b8321fa2ab4"
+    "url": "catalog/v1/texts/distribution-annual-psalm-150.json",
+    "bytes": 7543,
+    "sha256": "8fe97ce5f2e2582d9b715ef9bb6d57e7dd9edcd4bcc4276c006b2d4ae6e659a6"
    }
   },
   {
@@ -9603,47 +9602,21 @@
    ]
   },
   {
-   "id": "distribution-alleluia-annual",
-   "text": "distribution-alleluia-annual",
-   "duration": 210.33,
-   "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 18
-   },
-   "source": "https://tasbeha.org/hymn_library/view/228",
-   "youtube": "https://www.youtube.com/watch?v=OA5AUcE20mY",
-   "files": [
-    {
-     "url": "catalog/v1/timings/distribution-alleluia-annual.json",
-     "bytes": 106,
-     "sha256": "bbf410fb34a73faa44cf5b131e2ce80ffa24bc4ee51697f401a56e46f28c747f",
-     "role": "timing"
-    },
-    {
-     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/distribution-alleluia-annual/audio.m4a",
-     "role": "audio",
-     "bytes": 3402345,
-     "sha256": "32e1977d4d8ebf12bfe73721aa43a082e9eec116ddf6c9509b52ee4a846edd9d"
-    }
-   ]
-  },
-  {
    "id": "distribution-annual-psalm-150",
-   "text": "distribution-alleluia-annual",
+   "text": "distribution-annual-psalm-150",
    "duration": 499.53,
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 0
+    "of": 18
    },
    "source": "content/hymns/distribution-annual-psalm-150/",
    "youtube": "https://www.youtube.com/watch?v=LwC3t6WzFd0",
    "files": [
     {
      "url": "catalog/v1/timings/distribution-annual-psalm-150.json",
-     "bytes": 107,
-     "sha256": "868a9c4a9b6cdd9408c242568b67e243c801edbba0be8dadc8edad779964b39e",
+     "bytes": 108,
+     "sha256": "4ecbeb026b141d4da9c99755587770895d82fe3631d0c037c7a4172fa0c92c52",
      "role": "timing"
     },
     {
