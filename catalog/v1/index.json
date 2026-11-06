@@ -1,6 +1,6 @@
 {
- "version": "12033fa19bc890a1",
- "updated": "2026-11-06T02:55:37Z",
+ "version": "c219eda7fa84513e",
+ "updated": "2026-11-06T02:59:15Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -9291,7 +9291,7 @@
   {
    "id": "concluding-canon-annual-liturgy-english-chie",
    "text": "concluding-canon-annual-liturgy",
-   "duration": 53.95,
+   "duration": 52.75,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -9313,8 +9313,8 @@
     {
      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/concluding-canon-annual-liturgy-english-chie/audio.m4a",
      "role": "audio",
-     "bytes": 963328,
-     "sha256": "2766b89d0ba403363cf6e4fe20d84fc031fb89cffb65a5fc4c103afb111f8c82"
+     "bytes": 937632,
+     "sha256": "3dc1d359477579e9fac07a55c3f4c897f461bfa01f0e7be5f66e9a85e220e4f9"
     }
    ]
   },
