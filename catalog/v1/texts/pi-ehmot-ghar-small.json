@@ -6,7 +6,7 @@
   "arabic": "لحن بي أهموت غار الصغيرة"
  },
  "intro": {
-  "english": "Sung after the Epistle. The Metropolitan line is sung only when a Metropolitan is present, and the Bishop line only when a Bishop is present (repeat it for each Bishop). The names are those in the recordings; use the names of those who are present."
+  "english": "Sung after the Epistle. The Metropolitan line is sung only when a Metropolitan is present, and the Bishop line only when a Bishop is present (repeat it for each Bishop). When more than one Metropolitan and Bishop are present, sing the group line instead of the individual lines. The names are those in the recordings; use the names of those who are present."
  },
  "lines": [
   {
@@ -80,6 +80,18 @@
   {
    "id": "l5",
    "side": 0,
+   "coptic": "Ⲛⲉⲙ ⲛⲉⲛⲓⲟϯ ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ ⲛⲉⲙ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲏⲉⲧϧⲏ ⲛⲉⲙⲁⲛ.",
+   "translations": {
+    "english": "And our fathers the metropolitans and the bishops who are with us.",
+    "arabic": "وآباءنا المطارنة والأساقفة الكائنين معنا."
+   },
+   "transliterations": {
+    "english": "Nem nenioti emmeetropolitees nem nepiskopos neeetkhee nemman."
+   }
+  },
+  {
+   "id": "l6",
+   "side": 1,
    "coptic": "Ⲙⲁⲣⲉ ⲡⲓⲕ̀ⲗⲏⲣⲟⲥ: ⲛⲉⲙ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ: ⲟ̀ⲩϫⲁⲓ ϧⲉⲛ Ⲡⲟ̅ⲥ̅: ϫⲉ ⲁ̀ⲙⲏⲛ ⲉⲥⲉ̀ϣⲱⲡⲓ.",
    "translations": {
     "english": "May the clergy and all the people be safe in the Lord. Amen. So it shall be.",

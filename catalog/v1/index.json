@@ -1,6 +1,6 @@
 {
- "version": "9e6492a11f5c2aac",
- "updated": "2026-11-07T17:18:22Z",
+ "version": "44ec8ecb31a43108",
+ "updated": "2026-11-07T17:23:20Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -4876,7 +4876,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 5,
+   "lines": 6,
    "translations": [
     "arabic",
     "english"
@@ -4890,8 +4890,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-ehmot-ghar-small.json",
-    "bytes": 4165,
-    "sha256": "8bf810c9cb1a01e48f8f4f484ae2e83abb213228c7282cfd957f87a57c423fd1"
+    "bytes": 4793,
+    "sha256": "4fe4b6e5a2486b0af0994d2e15f7e5c695b0e376c9e242d21e4f2f4d23014897"
    }
   },
   {
@@ -13337,7 +13337,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 5
+    "of": 6
    },
    "source": "https://tasbeha.org/hymn_library/view/320",
    "youtube": "https://www.youtube.com/watch?v=BtWccQma1NQ",
