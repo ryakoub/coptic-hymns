@@ -1,5 +1,132 @@
 {
  "recording": "censer-annual-english-chie",
  "text": "censer-annual",
- "segments": []
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0.07,
+   "words": [
+    {
+     "text": "The",
+     "start": 0.07,
+     "end": null
+    },
+    {
+     "text": "golden",
+     "start": 0.77,
+     "end": null
+    },
+    {
+     "text": "censer",
+     "start": 3.31,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 6.37,
+     "end": null
+    },
+    {
+     "text": "the",
+     "start": 7.31,
+     "end": null
+    },
+    {
+     "text": "Virgin,",
+     "start": 8.24,
+     "end": null
+    },
+    {
+     "text": "her",
+     "start": 12.97,
+     "end": null
+    },
+    {
+     "text": "aroma",
+     "start": 13.94,
+     "end": null
+    },
+    {
+     "text": "is",
+     "start": 19.64,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 20.84,
+     "end": null
+    },
+    {
+     "text": "Savior.",
+     "start": 22.41,
+     "end": null
+    },
+    {
+     "text": "She",
+     "start": 30.41,
+     "end": null
+    },
+    {
+     "text": "gave",
+     "start": 31.04,
+     "end": null
+    },
+    {
+     "text": "birth",
+     "start": 31.94,
+     "end": null
+    },
+    {
+     "text": "to",
+     "start": 32.97,
+     "end": null
+    },
+    {
+     "text": "Him;",
+     "start": 33.91,
+     "end": null
+    },
+    {
+     "text": "He",
+     "start": 34.81,
+     "end": null
+    },
+    {
+     "text": "saved",
+     "start": 35.77,
+     "end": null
+    },
+    {
+     "text": "us,",
+     "start": 36.74,
+     "end": null
+    },
+    {
+     "text": "and",
+     "start": 38.24,
+     "end": null
+    },
+    {
+     "text": "forgave",
+     "start": 38.67,
+     "end": null
+    },
+    {
+     "text": "us",
+     "start": 40.54,
+     "end": null
+    },
+    {
+     "text": "our",
+     "start": 46.61,
+     "end": null
+    },
+    {
+     "text": "sins.",
+     "start": 50.71,
+     "end": null
+    }
+   ]
+  }
+ ]
 }

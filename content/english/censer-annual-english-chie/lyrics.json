@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "line": "l1",
+    "start": 0.07,
+    "words": [
+      {
+        "text": "The",
+        "start": 0.07
+      },
+      {
+        "text": "golden",
+        "start": 0.77
+      },
+      {
+        "text": "censer",
+        "start": 3.31
+      },
+      {
+        "text": "is",
+        "start": 6.37
+      },
+      {
+        "text": "the",
+        "start": 7.31
+      },
+      {
+        "text": "Virgin,",
+        "start": 8.24
+      },
+      {
+        "text": "her",
+        "start": 12.97
+      },
+      {
+        "text": "aroma",
+        "start": 13.94
+      },
+      {
+        "text": "is",
+        "start": 19.64
+      },
+      {
+        "text": "our",
+        "start": 20.84
+      },
+      {
+        "text": "Savior.",
+        "start": 22.41
+      },
+      {
+        "text": "She",
+        "start": 30.41
+      },
+      {
+        "text": "gave",
+        "start": 31.04
+      },
+      {
+        "text": "birth",
+        "start": 31.94
+      },
+      {
+        "text": "to",
+        "start": 32.97
+      },
+      {
+        "text": "Him;",
+        "start": 33.91
+      },
+      {
+        "text": "He",
+        "start": 34.81
+      },
+      {
+        "text": "saved",
+        "start": 35.77
+      },
+      {
+        "text": "us,",
+        "start": 36.74
+      },
+      {
+        "text": "and",
+        "start": 38.24
+      },
+      {
+        "text": "forgave",
+        "start": 38.67
+      },
+      {
+        "text": "us",
+        "start": 40.54
+      },
+      {
+        "text": "our",
+        "start": 46.61
+      },
+      {
+        "text": "sins.",
+        "start": 50.71
+      }
+    ]
+  }
+]

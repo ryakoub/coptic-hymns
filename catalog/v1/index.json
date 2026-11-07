@@ -1,6 +1,6 @@
 {
- "version": "f9c0c32d1cbe491d",
- "updated": "2026-11-07T11:26:01Z",
+ "version": "9e6492a11f5c2aac",
+ "updated": "2026-11-07T17:18:22Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -9093,9 +9093,9 @@
    "text": "censer-annual",
    "duration": 60.81,
    "timing": {
-    "lines": 0,
-    "words": 0,
-    "of": 0
+    "lines": 1,
+    "words": 1,
+    "of": 1
    },
    "source": "https://www.coptichymnsinenglish.com/album/20/track/789",
    "cantor": "Coptic Hymns in English",
@@ -9106,8 +9106,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/censer-annual-english-chie.json",
-     "bytes": 89,
-     "sha256": "d35e74ea608e108ce5fdf4ad3b1a9d98dde10b3ef431f2a9dd458960a02b9864",
+     "bytes": 1873,
+     "sha256": "31d476984c3ad3a7d700f420467d92f22bcf4118711f0f8d0dfef9073054a488",
      "role": "timing"
     },
     {
