@@ -1,5 +1,10 @@
 {
  "recording": "ti-shouri-major",
- "text": "censer-annual",
- "segments": []
+ "text": "ti-shouri-major",
+ "segments": [
+  {
+   "line": "l1",
+   "start": 0
+  }
+ ]
 }

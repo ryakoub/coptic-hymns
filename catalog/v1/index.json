@@ -1,6 +1,6 @@
 {
- "version": "4059a74bdb6c4a37",
- "updated": "2026-11-06T14:27:50Z",
+ "version": "f9c0c32d1cbe491d",
+ "updated": "2026-11-07T11:26:01Z",
  "schema": 2,
  "baseUrl": "https://www.copticchanter.com/",
  "services": [
@@ -2325,14 +2325,13 @@
    ],
    "transliterations": [],
    "recordings": [
-    "ti-shouri-major",
     "censer-annual",
     "censer-annual-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/censer-annual.json",
     "bytes": 670,
-    "sha256": "8c21b87210eb1a8e5ed6be040c0b89eef3a0d1d2f6690cad60d784fc9b9bf5b4"
+    "sha256": "7bf1dd434c3079fa3f8218bcdc9a5890593b68ccefcfb28d76780992d3a757e3"
    }
   },
   {
@@ -4877,7 +4876,7 @@
    },
    "tags": [],
    "pending": false,
-   "lines": 4,
+   "lines": 5,
    "translations": [
     "arabic",
     "english"
@@ -4891,8 +4890,8 @@
    ],
    "file": {
     "url": "catalog/v1/texts/pi-ehmot-ghar-small.json",
-    "bytes": 3323,
-    "sha256": "74a27670486992e6026edc247bc193e8a8fd6675b3fd4fbc2252c0117b60cd68"
+    "bytes": 4165,
+    "sha256": "8bf810c9cb1a01e48f8f4f484ae2e83abb213228c7282cfd957f87a57c423fd1"
    }
   },
   {
@@ -6463,7 +6462,8 @@
    ],
    "transliterations": [],
    "recordings": [
-    "sotees-ameen-major"
+    "sotees-ameen-major",
+    "sotees-ameen-major-english-chie"
    ],
    "file": {
     "url": "catalog/v1/texts/sotees-ameen-major.json",
@@ -7193,6 +7193,7 @@
    ],
    "recordings": [
     "tennav",
+    "tennav-ibrahim-ayad",
     "tennav-english"
    ],
    "file": {
@@ -7676,6 +7677,32 @@
     "url": "catalog/v1/texts/ti-galilee.json",
     "bytes": 8486,
     "sha256": "7a9a01f6d1f1c7fbe35a01b79843cdb7149852443b462e9be3ee460740fbabb5"
+   }
+  },
+  {
+   "id": "ti-shouri-major",
+   "titles": {
+    "english": "The Golden Censer (Holy Week)",
+    "arabic": "المجمرة الذهب",
+    "coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ"
+   },
+   "subtitle": {
+    "english": "The golden censer"
+   },
+   "tags": [],
+   "pending": false,
+   "lines": 1,
+   "translations": [
+    "english"
+   ],
+   "transliterations": [],
+   "recordings": [
+    "ti-shouri-major"
+   ],
+   "file": {
+    "url": "catalog/v1/texts/ti-shouri-major.json",
+    "bytes": 684,
+    "sha256": "42111a14c688982523972fb74a8fc6c4aa8e12dc836d1a4c4b1264fcc5b35aff"
    }
   },
   {
@@ -9050,7 +9077,7 @@
     {
      "url": "catalog/v1/timings/censer-annual.json",
      "bytes": 1374,
-     "sha256": "41e9ad31a764b13ba64b4fe4f4aa9c817e3e42afef36b7edbeddf7c5b803c4fc",
+     "sha256": "42b2b5d6873c68a47ef71fc7da5046d57f4f500c6614f0a8b506bce06a047e54",
      "role": "timing"
     },
     {
@@ -9064,7 +9091,7 @@
   {
    "id": "censer-annual-english-chie",
    "text": "censer-annual",
-   "duration": 81.82,
+   "duration": 60.81,
    "timing": {
     "lines": 0,
     "words": 0,
@@ -9086,8 +9113,8 @@
     {
      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/censer-annual-english-chie/audio.m4a",
      "role": "audio",
-     "bytes": 1601970,
-     "sha256": "c6dda05142eb62c4161eb8397ed5a2c4a070f0d096ce356de5d04850c7619d6a"
+     "bytes": 1178627,
+     "sha256": "74dbdf43af7d823d7ad381d6bc4b1a63d858089c2bad37e8316e0f94658cfcf5"
     }
    ]
   },
@@ -13310,7 +13337,7 @@
    "timing": {
     "lines": 0,
     "words": 0,
-    "of": 4
+    "of": 5
    },
    "source": "https://tasbeha.org/hymn_library/view/320",
    "youtube": "https://www.youtube.com/watch?v=BtWccQma1NQ",
@@ -15426,13 +15453,13 @@
   {
    "id": "sotees-ameen-fast-english-chie",
    "text": "sotees-ameen-fast",
-   "duration": 164.97,
+   "duration": 21.04,
    "timing": {
     "lines": 0,
     "words": 0,
     "of": 0
    },
-   "source": "https://www.coptichymnsinenglish.com/album/19/track/96",
+   "source": "https://www.coptichymnsinenglish.com/album/20/track/789",
    "cantor": "Coptic Hymns in English",
    "language": "english",
    "tune": {
@@ -15448,8 +15475,8 @@
     {
      "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sotees-ameen-fast-english-chie/audio.m4a",
      "role": "audio",
-     "bytes": 3897158,
-     "sha256": "c987bc38f17f924acee5e568cc2e6a319457bef12ffdc69db071083feecfc856"
+     "bytes": 419013,
+     "sha256": "e26a7c455f683d99a946a8baff2ccf8d23516f1561d35e79e4b9288f1bcdae71"
     }
    ]
   },
@@ -15467,6 +15494,9 @@
     "length": "Long"
    },
    "youtube": "https://www.youtube.com/watch?v=O0iFDsaPRLM",
+   "tune": {
+    "english": "Coptic"
+   },
    "files": [
     {
      "url": "catalog/v1/timings/sotees-ameen-major.json",
@@ -15479,6 +15509,36 @@
      "role": "audio",
      "bytes": 5422647,
      "sha256": "81557a2331adb051e561a2eec96f8325b52e9a506d03d2735d07c235bc2730cd"
+    }
+   ]
+  },
+  {
+   "id": "sotees-ameen-major-english-chie",
+   "text": "sotees-ameen-major",
+   "duration": 164.97,
+   "timing": {
+    "lines": 0,
+    "words": 0,
+    "of": 0
+   },
+   "source": "https://www.coptichymnsinenglish.com/album/19/track/96",
+   "cantor": "Coptic Hymns in English",
+   "language": "english",
+   "tune": {
+    "english": "English"
+   },
+   "files": [
+    {
+     "url": "catalog/v1/timings/sotees-ameen-major-english-chie.json",
+     "bytes": 99,
+     "sha256": "aa684f415376ec2ed840df1f04fd09fe2eae7a5a3cd526bbcc5dffaf16c27fda",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/english/sotees-ameen-major-english-chie/audio.m4a",
+     "role": "audio",
+     "bytes": 3897158,
+     "sha256": "c987bc38f17f924acee5e568cc2e6a319457bef12ffdc69db071083feecfc856"
     }
    ]
   },
@@ -16487,12 +16547,12 @@
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "version": {
-    "part": "Second version"
+    "length": "Short"
    },
    "cantor": "St. Anthony Monastery, California",
    "language": "english",
    "tune": {
-    "english": "English · Second version"
+    "english": "English · Short"
    },
    "files": [
     {
@@ -16519,10 +16579,13 @@
     "of": 0
    },
    "source": "https://www.coptichymnsinenglish.com/album/18/track/36",
+   "version": {
+    "length": "Long"
+   },
    "cantor": "Coptic Hymns in English",
    "language": "english",
    "tune": {
-    "english": "English"
+    "english": "English · Long"
    },
    "files": [
     {
@@ -16660,9 +16723,9 @@
    "text": "tennav",
    "duration": 383.24,
    "timing": {
-    "lines": 8,
-    "words": 8,
-    "of": 8
+    "lines": 9,
+    "words": 9,
+    "of": 9
    },
    "source": "https://tasbeha.org/mp3/Praises/Midnight_Praises_(Sunday)/St_Anthony_Monastery,_English_Midnight_Praises/Part_1.html",
    "cantor": "St. Anthony Monastery, California",
@@ -16673,8 +16736,8 @@
    "files": [
     {
      "url": "catalog/v1/timings/tennav-english.json",
-     "bytes": 32545,
-     "sha256": "2de7b14cb7349eeed1f5f9b9a108786aef6b26f91872725459f0af77aa31e0e4",
+     "bytes": 35558,
+     "sha256": "fd82b9837c5f2b670e3b12c0a5e83a5f8cf63c9f8fc4289785f96543b7ba41af",
      "role": "timing"
     },
     {
@@ -16682,6 +16745,38 @@
      "role": "audio",
      "bytes": 6133075,
      "sha256": "88d38d1f9ac7d4767d6c963f4be3c106c7a812ee0b10d4c42b5c487e61d1b269"
+    }
+   ]
+  },
+  {
+   "id": "tennav-ibrahim-ayad",
+   "text": "tennav",
+   "duration": 520.93,
+   "timing": {
+    "lines": 1,
+    "words": 1,
+    "of": 1
+   },
+   "source": "https://tasbeha.org/hymn_library/view/104",
+   "version": {
+    "part": "Second version"
+   },
+   "cantor": "Mo'allem Ibrahim Ayad",
+   "tune": {
+    "english": "Coptic · Second version"
+   },
+   "files": [
+    {
+     "url": "catalog/v1/timings/tennav-ibrahim-ayad.json",
+     "bytes": 3753,
+     "sha256": "8595fe288bc1338a18eb046b2e11b37c0ace5cd60d9da0c49843d2bdcbce0253",
+     "role": "timing"
+    },
+    {
+     "url": "https://coptic-chanter-audio.s3.us-east-005.backblazeb2.com/content/hymns/tennav-ibrahim-ayad/audio.m4a",
+     "role": "audio",
+     "bytes": 5023546,
+     "sha256": "80efe12ab709b9a170bdb9be116d4b611be5fef1183d2092bd3a1b200f250fb8"
     }
    ]
   },
@@ -17562,26 +17657,20 @@
   },
   {
    "id": "ti-shouri-major",
-   "text": "censer-annual",
+   "text": "ti-shouri-major",
    "duration": 434.19,
    "timing": {
-    "lines": 0,
+    "lines": 1,
     "words": 0,
-    "of": 0
+    "of": 1
    },
    "source": "content/hymns/ti-shouri-major/",
-   "version": {
-    "length": "Long"
-   },
    "youtube": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
-   "tune": {
-    "english": "Coptic · Long"
-   },
    "files": [
     {
      "url": "catalog/v1/timings/ti-shouri-major.json",
-     "bytes": 78,
-     "sha256": "1d742885c3f271d8898d30a9b01721367cddfb82ef9a2e4ca8147d4695bd7839",
+     "bytes": 121,
+     "sha256": "d12891895a262bee0050784efbef034ad8064f4e5f0ac015d54cb4fd0a936538",
      "role": "timing"
     },
     {

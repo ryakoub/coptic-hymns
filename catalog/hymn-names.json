@@ -556,6 +556,12 @@
   "coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ",
   "arabic": "لحن طاي شوري السنوي"
  },
+ "ti-shouri-major": {
+  "name": "The Golden Censer (Holy Week)",
+  "says": "The golden censer",
+  "coptic": "Ϯϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ",
+  "arabic": "المجمرة الذهب"
+ },
  "ten-oosht-evol-basil": {
   "name": "Conclusion of Creed (St. Basil)",
   "says": "We look for the resurrection",

@@ -1,20 +1,17 @@
 {
-  "title": "Ti Shouri (long)",
+  "title": "The Golden Censer (Holy Week)",
   "titles": {
-    "english": "Ti Shouri (long)",
-    "arabic": "لحن تي شوري الكبيرة"
+    "english": "The Golden Censer (Holy Week)",
+    "arabic": "لحن تي شوري الكبيرة",
+    "coptic": "Ϯϣⲟⲩⲣⲏ"
   },
   "youtube": "https://www.youtube.com/watch?v=3IM1pr4MbuE",
   "places": [
     "holy-week/hymns"
   ],
-  "text": "censer-annual",
   "mahragan": {
     "year": 2025,
     "stage": "ms",
     "level": "gifted"
-  },
-  "version": {
-    "length": "Long"
   }
 }

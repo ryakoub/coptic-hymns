@@ -18,5 +18,8 @@
   "group": {
     "english": "Liturgy of the Word"
   },
-  "order": 2500
+  "order": 2500,
+  "intro": {
+    "english": "Sung after the Epistle. The Metropolitan line is sung only when a Metropolitan is present, and the Bishop line only when a Bishop is present (repeat it for each Bishop). The names are those in the recordings; use the names of those who are present."
+  }
 }
